@@ -1,7 +1,7 @@
 from pyparsing import *
 import glob
 import pandas as pd
-import os 
+import re
 import argparse
 
 def fileParser(folder):
@@ -19,6 +19,7 @@ def fileParser(folder):
                                         'Indigenous Peoples OP/BP 4.10', 'IP Comment',
                                         'Involuntary Resettlement OP/BP 4.12', 'IR Comment', 'Safety of Dams OP/BP 4.37',
                                         'SoD Comment', 'Projects in Disputed Areas OP/BP 7.60', 'PiDA Comment'])
+    page_rgx  = re.compile('\s*(Page)\s*\d*\s* | \n(-)\n | \n(.)\s\n')
     for _file in txt_files:
         projid_label = CaselessLiteral('Project ID') | CaselessLiteral('ProjectID')
         section_label = (Word(srange("[A-Z]")) + Literal('.')) | (Word(nums) + Literal('.'))
@@ -36,6 +37,7 @@ def fileParser(folder):
                  + projobj_label + SkipTo(projdes_label).setResultsName('projobj') + SkipTo(projdes_label) \
                  + projdes_label + SkipTo(loc_label).setResultsName('projdes') + SkipTo(borrow_label) + \
                  Optional(borrow_label) + Optional(SkipTo(paragraph).setResultsName('borrow'))
+
         print()
         print()
         print()
@@ -43,8 +45,8 @@ def fileParser(folder):
 
         for param in parser.searchString(open(_file, encoding="utf8", errors='ignore').read()):
             print(param.projID)
-            print(param.projobj)
-            print(param.projdes)
+            print(re.sub(page_rgx, " ",  param.projobj))
+            print(re.sub(page_rgx, " ",  param.projdes))
             print(param.borrow)
 
 
@@ -63,7 +65,7 @@ if __name__ == "__main__":
     
     # Create a parser object 
     parser = argparse.ArgumentParser()
-    parser.add_argument("--folder", default = "./test_folder", type = str,
+    parser.add_argument("--folder", default = "../test_folder", type = str,
                        help = "The folder which contains the .txt files that need to be parsed.")
     FLAGS = parser.parse_args()
 
