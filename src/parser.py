@@ -1,12 +1,13 @@
 from pyparsing import *
 import glob
 import pandas as pd
+import os 
+import argparse
+
+def fileParser(folder):
 
 
-
-def fileParser():
-
-    txt_files = glob.glob('*.txt')
+    txt_files = glob.glob(f"{folder}/*.txt")
     compiled_df = pd.DataFrame(columns=['Project ID', 'Project Objectives', 'Project Description',
                                         'Borrowers Institutional Capacity for Safeguard Management',
                                         'Environmental and Social Safeguards Specialists on the Team',
@@ -54,9 +55,16 @@ def fileParser():
         # parser = Literal('Project ID') + parser_projID  parser_projID.parseString(open(file, encoding="utf8", errors='ignore').read())
         # print(projID)
 
-def main():
+def main(folder):
 
-    fileParser()
+    fileParser(folder)
 
 if __name__ == "__main__":
-    main()
+    
+    # Create a parser object 
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--folder", default = "./test_folder", type = str,
+                       help = "The folder which contains the .txt files that need to be parsed.")
+    FLAGS = parser.parse_args()
+
+    main(FLAGS.folder)
