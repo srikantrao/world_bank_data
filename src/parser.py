@@ -19,16 +19,19 @@ def fileParser(folder):
                                         'Indigenous Peoples OP/BP 4.10', 'IP Comment',
                                         'Involuntary Resettlement OP/BP 4.12', 'IR Comment', 'Safety of Dams OP/BP 4.37',
                                         'SoD Comment', 'Projects in Disputed Areas OP/BP 7.60', 'PiDA Comment'])
-    page_rgx  = re.compile('\s*(Page)\s*\d*\s* | \n(-)\n | \n(.)\s\n')
+    page_rgx  = re.compile('\n[-]\n|\s*(Page)\s*\d*\n*|\n(\.)\s\n|\s\n\s|\n\s(?=[a-z])')
+    newline_rgx = re.compile('\n(?=[a-z])|\n(?=[(])|\n(?=[1-9])')
+    dc = Regex(r'\n[-]\n|\s*(Page)\s*\d*\n*|\n(\.)\s\n|\s\n\s|\n\s(?=[a-z])').sub(r' ')
+    line = Regex(r'\n(?=[a-z])|\n(?=[(])|\n(?=[1-9])').sub(r'')
     for _file in txt_files:
         projid_label = CaselessLiteral('Project ID') | CaselessLiteral('ProjectID')
-        section_label = (Word(srange("[A-Z]")) + Literal('.')) | (Word(nums) + Literal('.'))
+        section_label = LineStart() + ((Word(srange("[A-Z]")) + Literal('.')) | (Word(nums) + Literal('.')))
         projobj_label = section_label + (CaselessLiteral('Project Objectives') | CaselessLiteral('Program Objectives') |\
                         CaselessLiteral('Project Objective') | CaselessLiteral('Program Objective'))
         projdes_label = section_label + (CaselessLiteral('Project Description') | CaselessLiteral('Program Description'))
         loc_label = section_label + (CaselessLiteral('Project Location') | CaselessLiteral('Program Location'))
         borrow_label = section_label + (CaselessLiteral('Borrow')) + SkipTo('\n')
-        envsoc_label = section_label + CaselessLiteral('Environmental and Social') + SkipTo('\n')
+        envsoc_label = section_label + CaselessLiteral('Environmental and Social SAFEGUARDS SPECIALISTS') + SkipTo('\n')
         paragraph = SkipTo('\n')
         field = Word(alphanums)
         colon = Word(':')
@@ -36,7 +39,7 @@ def fileParser(folder):
         parser = projid_label + Optional(colon) + field.setResultsName('projID') + SkipTo(projobj_label) \
                  + projobj_label + SkipTo(projdes_label).setResultsName('projobj') + SkipTo(projdes_label) \
                  + projdes_label + SkipTo(loc_label).setResultsName('projdes') + SkipTo(borrow_label) + \
-                 Optional(borrow_label) + Optional(SkipTo(paragraph).setResultsName('borrow'))
+                 Optional(borrow_label) + SkipTo(section_label).setResultsName('borrow')
 
         print()
         print()
@@ -44,9 +47,14 @@ def fileParser(folder):
         print(_file)
 
         for param in parser.searchString(open(_file, encoding="utf8", errors='ignore').read()):
+            param.projobj = re.sub(page_rgx, " ",  param.projobj)
+            param.projobj = re.sub(newline_rgx, "", param.projobj)
+            param.projdes = re.sub(page_rgx, " ",  param.projdes)
+            param.projdes = re.sub(newline_rgx, "", param.projdes)
+            param.borrow = line.transformString(param.borrow)
             print(param.projID)
-            print(re.sub(page_rgx, " ",  param.projobj))
-            print(re.sub(page_rgx, " ",  param.projdes))
+            print(param.projobj)
+            print(param.projdes)
             print(param.borrow)
 
 
