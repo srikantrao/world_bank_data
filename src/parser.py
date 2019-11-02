@@ -31,7 +31,7 @@ def fileParser(folder):
         projdes_label = section_label + (CaselessLiteral('Project Description') | CaselessLiteral('Program Description'))
         loc_label = section_label + (CaselessLiteral('Project Location') | CaselessLiteral('Program Location'))
         borrow_label = section_label + (CaselessLiteral('Borrow')) + SkipTo('\n')
-        envsoc_label = section_label + CaselessLiteral('Environmental and Social SAFEGUARDS SPECIALISTS') + SkipTo('\n')
+        envsoc_label = section_label + CaselessLiteral('Environmental and Social Safeguard Specialists') + SkipTo('\n')
         paragraph = SkipTo('\n')
         field = Word(alphanums)
         colon = Word(':')
