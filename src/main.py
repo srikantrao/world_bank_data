@@ -93,7 +93,7 @@ def download_url(url_dict, download_path):
 
 def main():
 
-    xls_list = glob.glob("./data/*.xls")
+    xls_list = glob.glob("../data/*.xls")
 
     for xls_file in xls_list:
 
