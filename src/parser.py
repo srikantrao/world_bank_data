@@ -30,7 +30,7 @@ def fileParser(folder):
                         CaselessLiteral('Project Objective') | CaselessLiteral('Program Objective'))
         projdes_label = section_label + (CaselessLiteral('Project Description') | CaselessLiteral('Program Description'))
         loc_label = section_label + (CaselessLiteral('Project Location') | CaselessLiteral('Program Location'))
-        borrow_label = section_label + (CaselessLiteral('Institutional Capacity')) + SkipTo('\n')
+        borrow_label = section_label + Word(alphanums) + (CaselessLiteral('Institutional Capacity')) + SkipTo('\n')
         envsoc_label = section_label + CaselessLiteral('Environmental and Social Safeguard Specialists') + SkipTo('\n')
         paragraph = SkipTo('\n')
         field = Word(alphanums)
@@ -38,9 +38,9 @@ def fileParser(folder):
         end = SkipTo('/n/n')
         parser = projid_label + Optional(colon) + field.setResultsName('projID') + SkipTo(projobj_label) \
                  + projobj_label + SkipTo(projdes_label).setResultsName('projobj') + SkipTo(projdes_label) \
-                 + projdes_label + SkipTo(loc_label).setResultsName('projdes') + SkipTo(borrow_label) + \
-                 Optional(borrow_label + SkipTo(section_label).setResultsName('borrow')) + SkipTo(envsoc_label) + \
-                 Optional(envsoc_label + SkipTo(section_label).setResultsName('envsoc'))
+                 + projdes_label + SkipTo(loc_label).setResultsName('projdes') + \
+                 Optional(SkipTo(borrow_label) + borrow_label + SkipTo(section_label).setResultsName('borrow')) + \
+                 Optional(SkipTo(envsoc_label) + envsoc_label + SkipTo(section_label).setResultsName('envsoc'))
 
         print()
         print()
@@ -60,6 +60,13 @@ def fileParser(folder):
             print(param.projdes)
             print(param.borrow)
             print(param.envsoc)
+            compiled_df = compiled_df.append({'Project ID': param.projID, 'Project Objectives': param.projobj,
+                                              'Project Description': param.projdes,
+                                              'Borrowers Institutional Capacity for Safeguard Management': param.borrow,
+                                              'Environmental and Social Safeguards Specialists on the Team': param.envsoc}, ignore_index=True)
+
+    print(compiled_df)
+    compiled_df.to_csv('compiled.csv')
 
 
 
