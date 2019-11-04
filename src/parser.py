@@ -6,8 +6,10 @@ import argparse
 
 def fileParser(folder):
 
-
+    # Get a list of all the test files in the given folder
     txt_files = glob.glob(f"{folder}/*.txt")
+
+    # Create a dataframe based on the expected final format.
     compiled_df = pd.DataFrame(columns=['Project ID', 'Project Objectives', 'Project Description',
                                         'Borrowers Institutional Capacity for Safeguard Management',
                                         'Environmental and Social Safeguards Specialists on the Team',
@@ -19,6 +21,7 @@ def fileParser(folder):
                                         'Indigenous Peoples OP/BP 4.10', 'IP Comment',
                                         'Involuntary Resettlement OP/BP 4.12', 'IR Comment', 'Safety of Dams OP/BP 4.37',
                                         'SoD Comment', 'Projects in Disputed Areas OP/BP 7.60', 'PiDA Comment'])
+      
     page_rgx  = re.compile('\n[-]\n|\s*(Page)\s*\d*\n*|\n(\.)\s\n|\s\n\s|\n\s(?=[a-z])')
     newline_rgx = re.compile('\n(?=[a-z])|\n(?=[(])|\n(?=[1-9])')
     dc = Regex(r'\n[-]\n|\s*(Page)\s*\d*\n*|\n(\.)\s\n|\s\n\s|\n\s(?=[a-z])').sub(r' ')

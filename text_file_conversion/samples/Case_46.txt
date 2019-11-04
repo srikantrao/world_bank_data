@@ -1,0 +1,509 @@
+                            Integrated Safeguards Data Sheet (Updated)
+
+                                                                                               Report No: AC518
+Section I - Basic Information
+Date ISDS Prepared/Updated: 12/22/2003
+A. Basic Project Data (from PDS)
+I.A.1. Project Statistics
+Country: ALBANIA                                             Project ID: P077526
+Project: POWER SECTOR GENERATION AND                         Task Team Leader: Iftikhar Khalil
+RESTRUCTURING PROJECT
+Authorized to Appraise Date: October 21, 2003                IBRD Amount ($m):
+Bank Approval: March 16, 2004                                IDA Amount ($m): 25.00
+Managing Unit: ECSIE                                         Sector: Power (100%)
+Lending Instrument: Specific Investment Loan (SIL)           Theme: Infrastructure services for private sector
+Status: Lending                                              development (P); State enterprise/bank restructuring
+                                                             and privatization (S)
+
+I.A.2. Project Objectives (From PDS):
+
+The development objective of the project is to achieve significant improvement in power system
+performance through (i) priority investments to increase domestic thermal generation, and (ii) measures to
+implement sector reforms and institutional strengthening.
+
+I.A.3. Project Description (From PDS):
+
+The project would consist of:
+
+(i)     a combined-cycle power station fueled by distillate oil at a six-hectare greenfield site about six km
+        north of Vlore adjacent to an offshore oil tanker terminal;
+
+(ii)    technical assistance for:
+
+        -        bid evaluation, contract administration and supervision of project implementation;
+        -        examining the option of soliciting bids to supply gas to the plant and, if this option is
+                 considered feasible, preparation of the bidding documents and assistance in bid evaluation;
+        -        formation of a subsidiary company of KESH to own and operate the plant, and preparation
+                 of a power purchase agreement;
+        -        follow-up studies required by the Environmental Management Plan;
+        -        power sector reforms;
+        -        consumer satisfaction surveys; and
+        -        improvements in inventory control;
+
+        and training in procurement and environmental management.
+
+The plant would be designed to allow conversion to natural gas if and when imported gas is brought to
+Albania. The plant size would be 85 MW - 135 MW depending on the evaluation of bids that will be
+requested for this range of plant size. The total amount of financing is currently expected to be US$
+112.66 million (IDA - US$ 25 million, EBRD - US$ 37.5 million, EIB - US$ 37.5 million, KESH - US$
+12.66 million). EBRD has indicated a willingness to raise its loan to US$ 40 million and EIB to Euro 40
+
+                                                        2
+                                                                                                          ISDS
+
+
+million if necessary. If even greater additional financing is required as a result of higher bid prices (an
+unlikely eventuality), this would be provided by KESH. The cost of the power station includes US$ 3
+million for the needed refurbishment of the existing oil tanker terminal. The total project cost also includes
+US$ 4.85 million for technical assistance.
+
+I.A.4. Project Location: (Geographic location, information about the key environmental and social
+characteristics of the area and population likely to be affected, and proximity to any protected areas, or sites or
+critical natural habitats, or any other culturally or socially sensitive areas.)
+
+The location of the proposed power plant is described in I.A.3.
+
+Proximity to the Narta Lagoon. The site is located about two kilometers south of the Narta Lagoon. The
+lagoon and the surrounding ecosystem that extends north to the Vjosa River delta covers approximately
+10,000 hectares, is composed of forests, wetlands, sand dunes, beaches and agricultural land., and is home
+to a number of endangered species. Parliament is expected to designate the Narta Lagoon as a "Protected
+Area" under a new law which provides for the establishment of protected areas to ensure the conservation
+of natural resources, protect biodiversity, and restore and maintain habitats and species. The Government
+has confirmed that the proposed Vlore power plant site will be outside of the boundaries of the Narta
+Lagoon protected area. The EA has concluded that the proposed project will not have an adverse impact
+on the Narta Lagoon and the ecosystem contained and surrounding the lagoon.
+
+
+B. Check Environmental Classification: A (Full Assessment)
+
+Comments: A new thermal power station is normally assigned an 'A' classification because of the potentially
+large environmental impact its construction and operation could have, and the correspondingly significant
+measures which need to be taken to limit environmental damage.
+
+
+C. Safeguard Policies Triggered (from PDS)
+(click on   for a detailed desciption or click on the policy number for a brief description)
+                                     Policy                                           Triggered
+    Environmental Assessment (OP 4.01, BP 4.01, GP 4.01)                         Yes     No
+    Natural Habitats (OP 4.04, BP 4.04, GP 4.04)                                 Yes     No
+    Forestry (OP 4.36, GP 4.36)                                                  Yes     No
+    Pest Management (OP 4.09)                                                    Yes     No
+    Cultural Property (OPN 11.03)                                                Yes     No
+    Indigenous Peoples (OD 4.20)                                                 Yes     No
+    Involuntary Resettlement (OP/BP 4.12)                                        Yes     No
+    Safety of Dams (OP 4.37, BP 4.37)                                            Yes     No
+    Projects in International Waters (OP 7.50, BP 7.50, GP 7.50)                 Yes     No
+    Projects in Disputed Areas (OP 7.60, BP 7.60, GP 7.60)*                      Yes     No
+
+
+
+Section II - Key Safeguard Issues and Their Management
+D. Summary of Key Safeguard Issues. Please fill in all relevant questions. If information is not available,
+describe steps to be taken to obtain necessary data.
+
+II.D.1a. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe
+
+                                                         3
+                                                                                                           ISDS
+
+
+any potential large scale, significant and/or irreversible impacts.
+
+Construction Phase
+
+Emissions to air. Fugitive dust may be emitted from general site work, road improvements (the existing
+dirt access road will require upgrades and resurfacing), and truck traffic (related to deliveries of materials
+and equipment). Concrete and asphalt batch plants may also contribute to local particulate emissions. Only
+those plants which have valid operating licenses including any requisite permits from environmental
+authorities will be eligible to bid for contracts. This requirement will be specified in the bid documentation.
+
+Noise. Noise from construction activity may be significant. There are no residential communities within
+500 meters of the construction site, so noise should not create a significant problem. Additionally,
+construction activities which generate significant noise levels will be limited to reasonable daytime hours
+and this condition will be specified in any contract bid document. Thus any impacts on the closest
+residential communities as well as local biological habitats will be minimal.
+
+Ground and surface water. Minor short-term lowering of the groundwater table may occur in the vicinity
+of the site during dewatering of foundation excavations. However, groundwater resources in this area are
+limited and the groundwater is not typically used for domestic or other purposes. Therefore the limited
+drawdown from dewatering activity is not expected to have a significant impact.
+
+Water from dewatering activities could contain suspended solids, oil and grease. The water will be visually
+inspected for oil presence. Oil contaminated water will be treated prior to disposal with an on-site oil water
+separator (OSW).
+
+Accidental spills of fuels or other materials could contaminate coastal or inland waters. This issue will be
+addressed by a Spill and Emergency Response Plan which the Borrower has agreed to prepare prior to
+commencement of fuel deliveries for the Plant. The Plan will be reviewed and approved by the World Bank.
+
+
+Aggregate sources.      Existing stone and gravel quarrying operations close to the site would provide
+sufficient resources for construction requirements without depleting local resources.
+
+Marine habitat. Installation of the cooling water intake and discharge outfall pipelines could have impacts
+on the marine habitat. The work may involve dredging and disposal of excavated material, which could
+cause sediment release to the surrounding marine environment. However, effects are expected to be minor
+since the amount of material to be dredged is quite small and will only be done once. Nonetheless, dredged
+material will be analyzed for mercury and if mercury levels exceed standards (USEPA 503/8-91/001)
+appropriate measures will be taken for disposal to an acceptable site.
+
+Coastal navigation. Construction activities are not likely to interfere with coastal navigation of shipping
+or passenger vessels.
+
+Land acquisition. No land acquisition is involved for the power plant itself as the land is already owned by
+the Government.      About 0.8 hectares of land will need to be acquired for the foundations of the
+transmission towers for the 7 km of double circuit 220 kV transmission line needed to connect the plant to
+the Babica substation. The land acquisition will not involve any resettlement. A policy framework adopted
+by KESH for land acquisition is included as an Annex to the PAD. No significant impacts are expected
+from construction and operation of the transmission line. However, the Supplementary Environmental
+
+                                                      4
+                                                                                                         ISDS
+
+
+Assessment to be prepared during project implementation will define the transmission line route in greater
+detail to assure minimum environmental impact.
+
+Transportation. To alleviate pressure on existing roads in the Vlore area, the main access roads would be
+upgraded to accommodate the additional traffic. Scheduling the delivery of major plant components for
+off-peak traffic times can also help mitigate impacts on the local traffic flow.
+
+Operation Phase
+
+Emissions to air. Combustion of the distillate oil during plant operation would result in emissions of sulfur
+dioxide, nitrogen oxides, carbon monoxide, carbon dioxide, particulate matter less than 10 microns, and
+total suspended particulate. The particulates may contain small amounts of trace metals. The generation
+facility would be designed to meet the more stringent of the EU or World Bank emission standards and
+ambient air quality impact limits. Sulphur dioxide emissions would be controlled by limiting the sulphur
+content of the fuel. Nitrogen oxide emission would be controlled through burner management and water
+injection to the combustion turbines. Particulate emissions would be reduced through good combustion
+control to minimize the products of incomplete combustion and control of fuel oil quality. The United
+States Environmental Protection Agency Industrial Source Complex Model (ISC3) was used to estimate the
+impact of plant operation on ambient air quality. The results meet the World Bank and EU standards for
+carbon monoxide, nitrogen oxides, sulphur dioxide and particulates. Using limited baseline data provided
+by the Regional Environmental Agency in Vlore, it was determined that emissions from the Vlore power
+plant would result in the air quality in Vlore remaining within the "moderate category." This result would
+comply with the World Bank, EBRD and EIB air quality standards for thermal generating plants. Since the
+air quality results are based upon limited baseline data, the Borrower has agreed and is currently
+implementing a more comprehensive air quality monitoring program and will prepare a Supplemental EA
+by December 2005 with more detailed analysis of air quality impacts. The Borrower will implement any
+resulting additional mitigation measures required.
+
+Noise.    Significant noise levels can result from operation of the turbines.      The transformers in the
+switchyard can also generate significant noise levels. The combustion turbines would be designed to limit
+noise to 85 decibels (A), and thereby meet the EU and World Bank guidelines for noise emissions. In
+addition, as previously mentioned, there are no residences within 500 meters of the plant site, the nearest
+population centers (Narta, Vlore) are several kilometers away, and the area between the plant site and these
+residential communities are wooded. The likelihood of any disturbance from noise is extremely unlikely.
+
+Oil spills. Oil spills could occur during the shipping, unloading and transfer of the fuel to on-site storage.
+As mentioned above the Borrower has agreed to prepare a Spill and Emergency Response Plan. This Plan
+would address the oil spill issue.
+
+Water intake. Water intake for the once-through cooling system may affect a localized zone of the marine
+ecosystem where the intake structure is located. The primary impacts of concern are impingement of
+marine life on the intake screens and entrainment of marine species in the cooling water system. The
+Supplemental EA will include studies of local marine flora and fauna which will be used as part of the
+siting study for cooling water intake and outfall.
+
+Thermal discharge. Once-through plant cooling water that is discharged to the Bay of Vlore would
+increase temperatures in the vicinity of the discharge location. Thermal impact modelling was evaluated
+using the Cornell Mixing Expert System (CORMIX). It was determined that the potential increase in water
+temperature would be less than the World Bank's guideline of three degrees Celsius at the edge of the
+
+                                                        5
+                                                                                                          ISDS
+
+
+mixing zone (actual calculated value was 0.87 degrees Celsius). If the impacts are found to be greater than
+predicted after operation begins, modifications to the diffuser operation can be made to enhance diffusion
+rate of the thermal plume to comply with World Bank requirements.
+
+Chemical discharge in cooling water. Chemical discharge in the plant cooling water is expected to be
+negligible. Water will be treated with sodium hypochlorite to eliminate fouling. Residual chlorine levels in
+the effluent will be maintained within world Bank guidelines (0.2 mg/liter).
+
+Wastewater discharge.        The wastewater discharge would be designed to comply with World Bank
+standards.
+
+Hazardous waste.       The amount of hazardous waste created would be very low and originate from
+maintenance sources. The waste would consist primarily of spent lubricants, used rags and spent clean-up
+solvents. There would be no ash residue from the combustion of the distillate fuel oil and no sludge
+accumulation from fuel storage. Any hazardous waste generated would be treated in accordance with
+Albanian regulations and handled at a dedicated facility with appropriate equipment for managing material
+of this nature.
+
+Narta Lagoon. There will be no adverse impacts on the Narta Lagoon from the thermal discharge or
+wastewater discharge from the plant.       The plant meets all air quality standards, including those set to
+protect sensitive vegetation and ecosystems.
+
+II.D.1b. Describe any potential cumulative impacts due to application of more than one safeguard policy or
+due to multiple project component.
+
+None.
+
+II.D.1c Describe any potential long term impacts due to anticipated future activities in the project area.
+
+The environmental impacts identified for the operation phase would continue as long as the plant operates
+(20 years or more). The site is large enough to accommodate two additional generating units of about the
+same size. The electricity demand and supply projections presented in Annex 4 show one of these two
+additional units starting operation in 2009. Its environmental impacts would be about the same as that of
+the first unit and would be additional to the impacts of the first unit as long as both units are operating at
+the same time. A full environmental assessment would be carried out prior to any decision being made
+regarding additional plants being constructed at the Vlore site or in its vicinity.
+
+II.D.2. In light of 1, describe the proposed treatment of alternatives (if required)
+
+Alternative sites and fuels were evaluated in the feasibility study for the project. The other sites and fuels
+(coal, heavy fuel oil) were found to be less attractive from the environmental point of view.
+
+II.D.3. Describe arrangement for the borrower to address safeguard issues
+
+A full-scale EMP has been prepared in accordance with the requirements for projects rated Category A.
+The EMP defines the measures needed to prevent, minimize, mitigate, or compensate for adverse impacts,
+improve environmental performance and ensure compliance with applicable safeguard policies.               The
+Borrower has agreed to implement the EMP.
+
+                                                     6
+                                                                                                       ISDS
+
+
+The main environmental mitigation measures include the following:
+
+Construction Phase
+
+-      While few trees would be affected by the site work, no trees would be cut that do not interfere with
+       the site work, and any cleared wood would be made available to local residents.
+-      The final site grade would facilitate drainage and avoid flooding and pooling. A site drainage plan
+       would be developed to protect against erosion. Protecting stockpiles through the use of silt fencing
+       and reduced slope angles would also minimize soil erosion during construction.
+-      Construction equipment would meet the applicable noise standard in EU Directive 2000/14/EC of
+       May 2000;
+-      To reduce dust from site access upgrades, disturbed areas would be watered on an as-needed basis.
+       Work involving nuisance noise would be minimized during locally recognized days of rest and at
+       night.
+-      Where site excavations require dewatering, the excess water would be visually inspected for oil
+       contamination prior to discharge to the site drainage system. Oil contaminated water would be
+       treated prior to disposal;
+-      Borrow areas would avoid agricultural areas.
+-      Borrow areas would be reworked to blend into the surroundings. Revegetation would be performed
+       using local plants. All slopes and working surfaces would be returned to a stable condition.
+-      The water supply for use in construction of the generation facility would be monitored to ensure
+       that it does not adversely affect other water uses in the area.
+-      Fuel storage tanks would have secondary containment with sufficient volume to contain a spill
+       from the largest tank in the containment structure. The containment area would have a means of
+       removing accumulated water. Drains would be routed through the site/water separator. A spill
+       and emergency response plan would be developed and put in place prior to commencement of fuel
+       deliveries for the Plant.
+-      Existing sources of aggregate would be used and no new sources would be developed.
+-      Storm water runoff from the batch plant would be directed to the site drainage system. Noise
+       would be controlled to an acceptable level. Dust bags would be installed as necessary.
+-      The influx of workers is not expected to exceed 350 to 500 individuals. Workers would be housed
+       in Vlore and transported by bus to the site. A first aid station would be provided on-site.
+-      The upgrade of the main access road to the plant would have a positive effect on local traffic.
+       Dust from the road would be minimized with water during construction and by providing a paved
+       surface. Trucks would be tarped when carrying load. Road speeds would be controlled to reduce
+       the potential for accidents.
+-      Solid waste would be disposed of in accordance with local standards using a local contractor.
+-      A packaged sewage disposal facility would be provided. No direct discharge of untreated liquid
+       waste would be allowed.
+-      Disturbance to aquatic life would be minimized by careful siting of the intake and outfall.
+       Construction wastes would not be disposed of in the bay. The intake and outfall would be
+       constructed in such a way as to minimize the release of sediments to the bay. The period for
+       construction of the intake and outfall would be scheduled to minimize the impact on fishermen. All
+       barges and buoys would be clearly marked and illuminated at night.
+-      Topsoil on the final site would be graded and planted as appropriate.
+
+Operation Phase
+
+-      The combustion turbines would employ state of the art control technology for all pollutants.
+
+                                                     7
+                                                                                                      ISDS
+
+
+        Nitrogen oxides would be controlled using water injection. Sulphur dioxide would be controlled by
+        firing only low-sulphur distillate fuel oil. Employing good combustion control would control
+        carbon monoxide, particulate matter and volatile organic compounds. The stack height would be
+        47 meters from grade.
+-       The combustion turbines would be enclosed in an acoustic enclosure to ensure that noise does not
+        exceed 85 dB(A) at 1 m. Workers in close proximity to this equipment would be required to use
+        hearing protection. Off-site noise would not exceed 70 dB(A) at one meter. There is no residential
+        housing in the area of the site.
+-       The location of the cooling water intake would be chosen to minimize the impact on the aquatic
+        environment. Bar screen intake screens would be utilized. Final screening with travelling water
+        screens at cooling water pump suctions would be employed. An inlet velocity of less than 1 m/s
+        would be used to minimize entrainment.
+-       The plant would supply its own fresh water supply from the Adriatic Sea through a membrane
+        desalinization system.
+-       A sewage treatment facility would be provided at the plant and discharge of treated effluent would
+        be combined with the cooling water discharge.
+-       Many of the workers would be from the Vlore area. However, the infrastructure of the City of
+        Vlore would be able to accommodate all workers coming from outside the area.
+-       A spill response plan and necessary response equipment would be provided to handle fuels and
+        hazardous materials. As many as 30 deliveries would be made per year.              Monitoring and
+        enforcement of sea conditions under which a vessel may make deliveries would be part of the plant
+        procedures and implemented through the delivery contracts.
+-       The oil pipeline would be regularly inspected, and a maintenance program would be developed as
+        part of the plant operating procedures.
+-       Oil storage would include secondary containment of sufficient size to contain 110% of the contents
+        of the largest tank. A means of removing rainwater would be included. Drains would be routed
+        through the plant oil/water separator.
+-       Clearing for transmission lines would be minimized. The line would be routed to minimize the
+        impact on residential areas. The electromagnetic field emitted by the line would be checked.
+-       The plant would be shielded by trees and set back from the ocean. Landscaping would be used to
+        enhance the appearance of the generation facility.
+
+The EMP provides for monitoring as follows:
+
+Construction Phase
+
+Construction. Visual inspection of dust would be ongoing at the construction site
+
+Noise. Noise would be monitored during day and night for an eight-hour period. In addition, spot
+monitoring of various pieces of construction equipment would take place. The site construction manager
+would maintain records of any noise complaints.
+
+Site drainage. Drainage swales would be inspected on a weekly basis to ensure that storm water discharge
+from the construction site is effective.
+
+Operation Phase
+
+Air. There would be continuous monitoring of meteorological parameters including wind speed, wind
+direction, and ambient temperature and ambient pollution concentrations of sulphur dioxide, nitrogen
+
+                                                      8
+                                                                                                        ISDS
+
+
+oxides and particulates. The flue gas characteristics of each generating unit would be determined after
+commencement of operations to ensure that emission performance criteria are met.
+
+Noise. A noise monitoring program would be undertaken, especially at times of high noise events, in order
+to record the impact at a downwind location.
+
+Marine environment. The condensate discharge temperature would be monitored continuously to verify
+compliance with design criteria. Quarterly spot measurement of the cooling water discharge plume would
+be conducted to verify the modeling input parameters.
+
+A specific study would be undertaken downstream of the diffuser to delineate the area impacted by the
+plume. Records of fish impingement, including numbers and weight by species, would be kept. If
+complaints are received from local fishermen regarding decreasing catches after the plant is in operation, a
+survey of fishing impacts would be conducted.
+
+Site wastewater discharges, including runoff and discharge from the packaged sewage treatment plant
+would be monitored four times a year to verify compliance with design criteria.
+
+Monitoring would be implemented for the single point mooring, pipeline and on-shore oil storage and
+handling areas.      A plant representative would be present during fuel deliveries to monitor the
+connection/disconnection and fuel transfer operations at the single point mooring for leaks and releases.
+The condition of the single point mooring would be inspected routinely between fuel deliveries. The entire
+length of the underwater pipeline would be monitored periodically for signs of leakage. Gauges would be
+installed to monitor flow in the pipeline as an additional aid to identifying losses. The onshore oil storage
+and handling facilities would be inspected weekly.
+
+The EMP would be implemented by KESH in accordance with a covenant in the Project Agreement.
+KESH is creating an environmental unit with technical assistance financed by the IDA credit for the Power
+Sector Rehabilitation and Restructuring Project.       Technical assistance would be provided under the
+proposed project to conduct follow-on studies required by the EMP (e.g. updating the estimation of the
+impact of plant operation on ambient air quality using site-specific data; development of an oil spill
+response plan and identification of the related equipment to be procured). Training in environmental
+management would be provided under the proposed project.
+
+Selection of the route for the seven-kilometer transmission line will be carried out so as to minimize the
+environmental impact. There will be land acquisition of about 0.8 hectare, no resettlement and no impact
+on natural habitats and cultural properties. As is being done under the Power Sector Rehabilitation and
+Restructuring Project, land acquisition will be carried out in accordance with Albanian law, which provides
+for compensation on the basis of fair market value.
+
+II.D.4. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard
+policies, with an emphasis on potentially affected people.
+
+The Environmental Assessment and Environmental Management Plan were prepared by the Montgomery
+Group with financing from USTDA. An independent review of the EA and EMP was carried out by
+Consultants financed by CIDA.
+
+The key stakeholders include: KESH, as the project sponsor; the Government, which supports the initiative
+for new domestic power generation, but which also wants to minimize adverse environmental impacts; the
+
+                                                      9
+                                                                                                           ISDS
+
+
+general population of Albania, which is expected to have the same goals as the Government; and the
+residents of the Vlore area, who would benefit from the electricity produced by the plant, the employment
+creation resulting from the plant's construction and operation, and any other income brought to the
+community by the plant's activities, but would also have to bear any adverse local environmental impacts.
+
+A meeting was held in Vlore in the Fall of 2002 to introduce the project to the public and begin the public
+consultation process. A second meeting was held in Vlore on April 2, 2003 to receive public input on the
+scope of the assessment. Over 100 persons attended the second meeting, representing various government
+agencies, universities, non-governmental organizations and the general public. The meetings were covered
+by Albanian television stations and broadcast through a segment on the nightly news. Additional meetings
+were held with the Ministry of Environment on August 15, 2002 and March 31, 2003.                    A public
+consultation meeting was held on September 3, 2003 in Vlore to discuss the draft EA. It was attended by
+35 persons representing national and local government agencies, businesses, non-government agencies and
+the general public. No major issues were identified.
+
+The Environmental Assessment, including the Environmental Management Plan, will be made available in
+a public place.
+
+E. Safeguards Classification (select in SAP). Category is determined by the highest impact in any policy. Or
+on basis of cumulative impacts from multiple safeguards. Whenever an individual safeguard policy is
+triggered the provisions of that policy apply.
+
+[ ] S1. ­ Significant, cumulative and/or irreversible impacts; or significant technical and institutional risks in
+         management of one or more safeguard areas
+[X] S2. ­ One or more safeguard policies are triggered, but effects are limited in their impact and are
+         technically and institutionally manageable
+[ ] S3. ­ No safeguard issues
+[ ] SF. ­ Financial intermediary projects, social development funds, community driven development or similar
+         projects which require a safeguard framework or programmatic approach to address safeguard
+         issues.
+
+                                                     10
+                                                                                                    ISDS
+
+
+
+
+F. Disclosure Requirements
+
+Environmental Assessment/Analysis/Management Plan:                        Expected         Actual
+Date of receipt by the Bank                                              10/24/2003      10/17/2003
+Date of "in-country" disclosure                                          10/24/2003      10/20/2003
+Date of submission to InfoShop                                           10/27/2003      10/23/2003
+Date of distributing the Exec. Summary of the EA to the Executive        10/29/2003      10/23/2003
+Directors (For category A projects)
+
+Resettlement Action Plan/Framework:                                       Expected         Actual
+Date of receipt by the Bank                                              Not Applicable Not Applicable
+Date of "in-country" disclosure                                          Not Applicable Not Applicable
+Date of submission to InfoShop                                           Not Applicable Not Applicable
+
+Indigenous Peoples Development Plan/Framework:                            Expected         Actual
+Date of receipt by the Bank                                              Not Applicable Not Applicable
+Date of "in-country" disclosure                                          Not Applicable Not Applicable
+Date of submission to InfoShop                                           Not Applicable Not Applicable
+
+Pest Management Plan:                                                     Expected         Actual
+Date of receipt by the Bank                                              Not Applicable Not Applicable
+Date of "in-country" disclosure                                          Not Applicable Not Applicable
+Date of submission to InfoShop                                           Not Applicable Not Applicable
+
+Dam Safety Management Plan:                                               Expected         Actual
+Date of receipt by the Bank                                              Not Applicable Not Applicable
+Date of "in-country" disclosure                                          Not Applicable Not Applicable
+Date of submission to InfoShop                                           Not Applicable Not Applicable
+If in-country disclosure of any of the above documents is not expected, please explain why.
+
+Signed and submitted by               Name                                               Date
+Task Team Leader:                     Iftikhar Khalil                                    December 12, 2003
+Project Safeguards Specialists 1:     Bernard Baratz                                     December 12, 2003
+Project Safeguards Specialists 2:
+Project Safeguards Specialists 3:
+
+Approved by:                         Name                                                Date
+Regional Safeguards Coordinator: Ronald N. Hoffer                                        December 17, 2003
+Sector Manager                        Henk Busz                                          December 12, 2003
+
