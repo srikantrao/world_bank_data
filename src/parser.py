@@ -22,26 +22,31 @@ def fileParser(folder):
                                         'Involuntary Resettlement OP/BP 4.12', 'IR Comment', 'Safety of Dams OP/BP 4.37',
                                         'SoD Comment', 'Projects in Disputed Areas OP/BP 7.60', 'PiDA Comment'])
       
-    page_rgx  = re.compile('\n[-]\n|\s*(Page)\s*\d*\n*|\n(\.)\s\n|\s\n\s|\n\s(?=[a-z])')
+    page_rgx  = re.compile('\n[-]\n|\s*(Page)\s*\d*(of)\s*\d*\n*|\s*(Page)\s*\d*\n*|\n(\.)\s\n|\s\n\s|\n\s(?=[a-z])|\n(Public Disclosure Copy)\n*')
     newline_rgx = re.compile('\n(?=[a-z])|\n(?=[(])|\n(?=[1-9])')
     dc = Regex(r'\n[-]\n|\s*(Page)\s*\d*\n*|\n(\.)\s\n|\s\n\s|\n\s(?=[a-z])').sub(r' ')
     line = Regex(r'\n(?=[a-z])|\n(?=[(])|\n(?=[1-9])').sub(r'')
     for _file in txt_files:
-        projid_label = CaselessLiteral('Project ID') | CaselessLiteral('ProjectID')
-        section_label = LineStart() + ((Word(srange("[A-Z]")) + Literal('.')) | (Word(nums) + Literal('.')))
-        projobj_label = section_label + (CaselessLiteral('Project Objectives') | CaselessLiteral('Program Objectives') |\
-                        CaselessLiteral('Project Objective') | CaselessLiteral('Program Objective'))
-        projdes_label = section_label + (CaselessLiteral('Project Description') | CaselessLiteral('Program Description'))
-        loc_label = section_label + (CaselessLiteral('Project Location') | CaselessLiteral('Program Location'))
+        projid_label = Literal('Project ID') ^ Literal('ProjectID') ^ Literal('Project ID:') ^ Literal('ProjectID:')
+        section_label = LineStart() + Optional(White(' ',max=50)) + ((Word(srange("[A-Z]")) + Literal('.')) ^ (Word(nums) + Literal('.'))) + \
+                        Optional(((Word(srange("[A-Z]")) + Literal('.')) ^ (Word(nums) + Literal('.')))) + \
+                        Optional(((Word(srange("[A-Z]")) + Literal('.')) ^ (Word(nums) + Literal('.')))) + \
+                        Optional(((Word(srange("[A-Z]")) + Literal('.')) ^ (Word(nums) + Literal('.'))))
+        projobj_label = section_label + (CaselessLiteral('Project Objectives') ^ CaselessLiteral('Program Objectives') ^\
+                        CaselessLiteral('Project Objective') ^ CaselessLiteral('Program Objective'))
+        projdes_label = section_label + (CaselessLiteral('Project Description') ^ CaselessLiteral('Program Description'))
+        loc_label = section_label + (CaselessLiteral('Project Location') ^ CaselessLiteral('Program Location'))
         borrow_label = section_label + Word(alphanums) + (CaselessLiteral('Institutional Capacity')) + SkipTo('\n')
         envsoc_label = section_label + CaselessLiteral('Environmental and Social Safeguard Specialists') + SkipTo('\n')
         paragraph = SkipTo('\n')
         field = Word(alphanums)
         colon = Word(':')
         end = SkipTo('/n/n')
+        #parser = projid_label + Optional(colon) + field.setResultsName('projID')
+
         parser = projid_label + Optional(colon) + field.setResultsName('projID') + SkipTo(projobj_label) \
-                 + projobj_label + SkipTo(projdes_label).setResultsName('projobj') + SkipTo(projdes_label) \
-                 + projdes_label + SkipTo(loc_label).setResultsName('projdes') + \
+                 + projobj_label + Optional(colon) + SkipTo(projdes_label).setResultsName('projobj') + SkipTo(projdes_label) \
+                 + projdes_label + Optional(colon) + SkipTo(loc_label).setResultsName('projdes') + \
                  Optional(SkipTo(borrow_label) + borrow_label + SkipTo(section_label).setResultsName('borrow')) + \
                  Optional(SkipTo(envsoc_label) + envsoc_label + SkipTo(section_label).setResultsName('envsoc'))
 
@@ -69,7 +74,7 @@ def fileParser(folder):
                                               'Environmental and Social Safeguards Specialists on the Team': param.envsoc}, ignore_index=True)
 
     print(compiled_df)
-    compiled_df.to_csv('compiled.csv')
+    compiled_df.to_csv(folder + 'compiled.csv')
 
 
 
@@ -87,7 +92,7 @@ if __name__ == "__main__":
     
     # Create a parser object 
     parser = argparse.ArgumentParser()
-    parser.add_argument("--folder", default = "../test_folder", type = str,
+    parser.add_argument("--folder", default = "../text_file_conversion/samples/", type = str,
                        help = "The folder which contains the .txt files that need to be parsed.")
     FLAGS = parser.parse_args()
 
