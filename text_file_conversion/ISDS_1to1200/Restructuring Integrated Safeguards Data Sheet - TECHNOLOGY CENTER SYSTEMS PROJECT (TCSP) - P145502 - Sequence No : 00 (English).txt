@@ -1,0 +1,712 @@
+﻿The World Bank                                                                        RESTRUCTURING ISDS
+TECHNOLOGY CENTER SYSTEMS PROJECT (TCSP) (P145502)
+
+
+
+
+                     Integrated Safeguards Data Sheet
+                                  Restructuring Stage
+
+
+      Restructuring Stage | Date ISDS Prepared/Updated: 08-Nov-2017| Report No: ISDSR23315
+
+
+
+
+                      Regional Vice President:    Annette Dixon
+                             Country Director:    Junaid Kamal Ahmad
+               Senior Global Practice Director:   Anabel Gonzalez
+                  Practice Manager/Manager:       Esperanza Lasagabaster
+                           Task Team Leader:      Michael Olavi Engman
+          The World Bank                                                                            RESTRUCTURING ISDS
+          TECHNOLOGY CENTER SYSTEMS PROJECT (TCSP) (P145502)
+
+
+
+
+    Note to Task Teams: The following sections are system generated and can only be edited online in the Portal.
+
+.
+
+I. BASIC INFORMATION
+
+1. BASIC PROJECT DATA
+
+Project ID                                                     Project Name
+P145502                                                        TECHNOLOGY CENTER SYSTEMS PROJECT (TCSP)
+Task Team Leader(s)                                            Country
+Michael Olavi Engman                                           India
+Approval Date                                                  Environmental Category
+25-Apr-2014                                                    Partial Assessment (B)
+Managing Unit                                                  Is this a Repeater project?
+GTC06
+
+PROJECT FINANCING DATA (IN USD MILLION)
+
+Total Project Cost                                             Total Financing
+400,000,000.00                                                 400,000,000.00
+Financing Gap
+0.00
+OLD_FIN_DTL
+Financing Source                                                                                           Amount
+Counterpart Funding                                                                                 200,000,000.00
+International Bank for Reconstruction and Development (IBRD)                                        200,000,000.00
+Total                                                                                               400,000,000.00
+
+
+
+2. PROJECT INFORMATION
+          The World Bank                                                                            RESTRUCTURING ISDS
+          TECHNOLOGY CENTER SYSTEMS PROJECT (TCSP) (P145502)
+
+
+
+    Current Project Development Objective
+    The Program’s Development Objective (PDO) is to enhance the productivity of MSMEs by improving their access to
+    technology and business advisory services as well as skilled workers through systems of financially sustainable
+    Technology Centers (TCs).
+
+
+    Proposed New PDO
+    The PDO is to increase access to technology and skilled workers for micro, small and medium enterprises at technology
+    centers.
+.
+
+
+    Note to Task Teams: End of system generated content, document is editable from here.
+
+
+3. PROJECT DESCRIPTION
+
+
+
+
+    Note to Task Teams: The following sections are system generated and can only be edited online in the Portal.
+
+.
+
+4. PROJECT LOCATION AND SALIENT PHYSICAL CHARACTERISTICS RELEVANT TO THE SAFEGUARD ANALYSIS (IF
+   KNOWN)
+This project supports the Ministry of Micro, Small and Medium Enterprises (MoMSME), Government of India,
+in setting-up new and upgrading existing Technology Centers (TCs) in selected states. So far, 13 out of 15
+new TCs have been identified - Bhiwadi, Durg, Rohtak, Vizag, Bengaluru, Baddi, Sitarganj, Greater Noida,
+Puducherry, Imphal, Bhopal, Kanpur and Ernakulam. The 18 existing TCs to be upgraded under the project
+are located at Aurangabad, Mumbai, Bhubaneswar, Jamsedpur, Kolkatta, Indore, Ludhiana, Jalandhar,
+Hyderabad, Guwahati, Ahmedabad, Ramnagar, Agra (2), Meerut, Chennai, Firozabad and Kannauj.
+Manufacturing has been recognized as an essential driver of economic development and has an important
+economic and employment multiplier effect. MSMEs play an important role in India’s economic development
+and in the creation of productive jobs. The GoI's recently-announced National Manufacturing Policy includes
+an objective of creating 100 million additional jobs. However, constraints exist to growth and
+competitiveness of India’s manufacturing sector, and especially for MSMEs. These bottlenecks include
+constraints to market access (including domestic markets), difficulties to access finance, infrastructure
+deficiencies, regulatory red tape, and difficulties for MSMEs to access technology (including
+green/environment friendly) and skills. The project aims to support industrial sectors including: (a) Electrical
+Systems Design & Manufacturing (ESDM); (b) Fragrances and flavors; (c) Leather and leather products; (d)
+Glass and Ceramics and (e) Tooling. The specific technological and environmental (including occupational
+health and safety) issues associated with each of these sectors are varied in nature. The TCs will most likely
+be set up in existing Industrial Areas of a State or on available government land with ample public transport
+infrastructure linkages (road, rail and air) so that they are easily accessible to all stakeholders including
+       The World Bank                                                                           RESTRUCTURING ISDS
+       TECHNOLOGY CENTER SYSTEMS PROJECT (TCSP) (P145502)
+
+
+
+trainees and industries. If successful, the project will directly lead to a marked improvement in the lives of
+many workers and graduates in industries, with significant positive spill-over effects to the rest of the
+economy, including some environmental (including occupational health and safety) benefits. Against this
+backdrop, the project aims to develop the technological and skill base of MSMEs in selected manufacturing
+industries, via upgraded and expanded Systems of specialized Technology Centers.
+
+
+
+5. ENVIRONMENTAL AND SOCIAL SAFEGUARDS SPECIALISTS ON THE TEAM
+
+Samuel Thangaraj, Social Safeguards Specialist
+Neha Pravash Kumar Mishra, Environmental Safeguards Specialist
+Sushmita Sarkar, Environmental Safeguards Specialist
+SAFEGUARD_TABLE
+6. SAFEGUARD POLICIES TRIGGERED
+ Safeguard Policies                       Triggered              Explanation
+                                                                 Specific interventions (under Component 2)
+                                                                 envisaged under the project such as creation of 15
+                                                                 new Technology Centers and upgrading of building
+                                                                 and related infrastructure of the existing 18 Tool
+                                                                 Rooms may have some potential adverse
+                                                                 environmental impacts in the local context. Even
+                                                                 though it is expected that the new
+                                                                 buildings/blocks would be located within an
+                                                                 existing industrial estate or on available
+                                                                 government       land      elsewhere,     planning,
+                                                                 construction and operation of buildings would
+                                                                 require appropriate integration of environment,
+                                                                 health and safety measures to ensure that adverse
+                                                                 environmental impacts are minimized and
+ Environmental Assessment (OP) (BP 4.01) Yes                     properly managed.
+                                                                 Impacts pertaining to: (a) location (environmental
+                                                                 and social features of the site and surrounding
+                                                                 land-uses); (b) design (sanitation, water supply,
+                                                                 drainage, solid waste arrangements, waste water
+                                                                 management,       ventilation,    access,   energy
+                                                                 efficiency, material usage, fire safety, storage
+                                                                 facility and natural disaster dimension); (c)
+                                                                 construction and worksite safety management,
+                                                                 including occupational health and safety of
+                                                                 construction workers, public safety issues,
+                                                                 management of borrow areas and debris/waste
+                                                                 material; and; (d) operation/maintenance aspects
+                                                                 of physical assets such as buildings,
+                                                                 equipment/tools/machinery (such as sanitation
+       The World Bank                                                               RESTRUCTURING ISDS
+       TECHNOLOGY CENTER SYSTEMS PROJECT (TCSP) (P145502)
+
+
+
+                                                   and cleanliness/hygiene in the campus and its
+                                                   various facilities; waste management from
+                                                   workshop floor; e-waste management; water,
+                                                   noise and air pollution from generators and other
+                                                   workshop       machinery     etc.).would      require
+                                                   attention. There is also an opportunity to improve
+                                                   the over-all environmental footprint by creating
+                                                   ‘green buildings’ or ‘greener facilities’ under the
+                                                   program.
+                                                   On other project interventions pertaining to
+                                                   training/curriculum         development          and
+                                                   testing/developing prototypes the anticipated
+                                                   environmental impacts are not likely to cause any
+                                                   significant or serious damage to natural and
+                                                   physical environment. In fact, the Program offers
+                                                   opportunity to promote improved environmental
+                                                   performance of the selected industrial sectors and
+                                                   safer working practices through introduction of
+                                                   new/              appropriate             technology
+                                                   (equipment/machines) and training.
+                                                   OP 4.01 has been triggered to ensure that all
+                                                   major (like building infrastructure) and minor
+                                                   (tools/equipment/machinery,         training     and
+                                                   curriculum related) interventions are planned and
+                                                   designed to be environmentally sound by
+                                                   integrating appropriate principles and approaches
+                                                   into the over-all decision making process.
+                                                   No physical interventions proposed under the
+                                                   project are expected to affect natural habitats. No
+                                                   civil works will be financed under the project in
+                                                   designated         protected       areas/wilderness
+Natural Habitats (OP) (BP 4.04)   No
+                                                   areas/critical natural habitats. The environment
+                                                   screening tool will be used to ensure compliance
+                                                   in this regard. Therefore, OP 4.04 is not being
+                                                   triggered for the project.
+                                                   OP 4.36 is not being triggered for this project as no
+                                                   interventions are envisaged in forest areas and
+Forests (OP) (BP 4.36)            No
+                                                   therefore no conversion/degradation of this
+                                                   natural resource would occur.
+                                                   OP 4.09 is not being triggered for this project as
+                                                   biological/environmental control methods or
+                                                   reliance on synthetic chemical pesticides is not
+                                                   envisaged. In case, such a need arises on account
+Pest Management (OP 4.09)         No
+                                                   of selection of a specific trade/sector, the
+                                                   requirement is likely to be very limited. In such a
+                                                   scenario, the requirements under the pest
+                                                   management policy of the Bank will be built-in as
+       The World Bank                                                                              RESTRUCTURING ISDS
+       TECHNOLOGY CENTER SYSTEMS PROJECT (TCSP) (P145502)
+
+
+
+                                                                  part of the over-all Environment Management
+                                                                  Plan to be developed for the Technology Center/s
+                                                                  in question.
+                                                                  By and large, implementation of the
+                                                                  project/program is not likely to affect religious
+                                                                  structures of local significance. Screening and site
+                                                                  verification protocols will help establish this.
+Physical Cultural Resources (OP) (BP 4.11) Yes
+                                                                  However, since civil works are involved, ‘chance
+                                                                  finds’ at work sites is a likely impact that will have
+                                                                  to be managed by incorporating appropriate
+                                                                  provisions in the bidding/contract documents.
+                                                                  The existing TCs are not located in areas where
+                                                                  local people have characteristics as described in
+Indigenous Peoples (OP) (BP 4.10)           Yes                   OP 4.10. The new TCs will also not be located in
+                                                                  such areas and this will be confirmed through
+                                                                  social screening.
+                                                                  Involuntary land acquisition and land purchase will
+                                                                  not be done for any project activity. The facilities
+                                                                  are likely to come-up on existing/available
+Involuntary Resettlement (OP) (BP 4.12)     Yes                   government lands that are free from encroachers
+                                                                  and/or squatters. Availability of a site free from
+                                                                  encumbrances has been built-in as a criterion in
+                                                                  the site selection process by the MoMSME.
+                                                                  OP 4.37 is not being triggered for this project as
+                                                                  there is no construction of new dams or activities
+Safety of Dams (OP) (BP 4.37)               No
+                                                                  that are concerned with safe functioning of
+                                                                  existing dams.
+                                                                  OP 7.50 will not be triggered for this project as
+                                                                  there are no interventions planned/proposed over
+Projects on International Waterways (OP)                          or around an international waterway that could
+                                            No
+(BP 7.50)                                                         cause a potential conflict. There are also no
+                                                                  activities that may affect the use or pollute such a
+                                                                  waterway.
+                                                                  OP 7.60 is not being triggered as the project is not
+Projects in Disputed Areas (OP) (BP 7.60)   No
+                                                                  proposed in any disputed area.
+KEY_POLICY_TABLE
+II. KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT
+
+ A. SUMMARY OF KEY SAFEGUARD ISSUES
+
+
+ 1. Describe any safeguard issues and impacts associated with the Restructured project. Identify and describe any
+   potential large scale, significant and/or irreversible impacts.
+   The establishment of 15 new TCs and strengthening of 18 existing TCs is envisaged to be completed over a six-year
+   period under the project. These facilities will focus on improving access to technology, providing skill up-gradation
+   and offering advocacy support for specific industries with high growth potential. The TCs provide technical advisory
+   support for entrepreneurs and workers while offering opportunities for technical skill development for the youth.
+    The World Bank                                                                                 RESTRUCTURING ISDS
+    TECHNOLOGY CENTER SYSTEMS PROJECT (TCSP) (P145502)
+
+
+
+The long-term vision of this project is to ensure competitiveness of the MSME sector by further strengthening its
+linkages to the mainstream manufacturing sector in the country. The goal is to ensure easy access to high quality
+technology and holistic skill development and training across the industry value chain, geographies and
+functionalities.
+
+Environmental Issues: While the project interventions would have an over-all positive impact on economic growth,
+skill development and job creation, specific interventions under Component 2 such as the creation of 15 new TCs
+and upgrading of building and related infrastructure of the existing 18 TCs may have some potential adverse
+environmental impacts in the local context. Even though it is expected that the new buildings/blocks would be
+located within an existing industrial estate or on available government land elsewhere, planning, construction and
+operation of buildings would require appropriate integration of environment, health and safety measures to ensure
+that adverse environmental impacts are minimized and properly managed.
+
+Impacts pertaining to: (a) location (environmental and social features of the site and surrounding land-uses); (b)
+design (sanitation, water supply, drainage, solid waste and waste water management, ventilation, access, energy
+efficiency, material usage, fire safety, storage facility and improved resilience to natural disasters); (c) construction
+and worksite safety management, including occupational health and safety of construction workers, public safety
+issues, management of borrow areas and debris/waste material; and; (d) operation/maintenance aspects of
+physical assets such as buildings, equipment/tools/machinery (such as sanitation and cleanliness/hygiene in the
+campus and its various facilities, waste management from workshop floor, e-waste management, noise and air
+pollution from generators and other workshop machinery etc.) would require attention. There is also an
+opportunity to improve the overall environmental footprint by creating “green buildings�? or “greener facilities�?
+under the project.
+
+On other project interventions pertaining to training/curriculum development and testing/developing prototypes,
+the anticipated environmental impacts are not likely to cause any significant or serious damage to natural and
+physical environment. In fact, the project offers opportunities to promote improved environmental performance of
+the selected industrial sectors and safer working practices through introduction of new, appropriate technology
+(equipment/machines) and training.
+
+In view of the project’s potential impacts on the environment, the Bank’s OP 4.01 on Environmental Assessment
+and OP 4.11 on Physical Cultural Resources have been triggered, and the project is designated as Category B. With
+proper management, the project interventions are not likely to cause large scale, significant or irreversible damage
+to natural, physical or social environment.
+
+Social issues/impacts: The extension/upgrading of existing TCs will take place within the existing complexes and do
+not require additional land. Negative social impacts (land acquisition and associated loss of land, income, livelihoods
+and full or partial displacement) are therefore unlikely. In case the extension of existing TCs requires additional land
+outside existing complexes, social screening will be conducted to assess whether the required land is free from any
+encumbrances and/or claims. However, establishment of new TCs may require the acquisition of land or transfers of
+government land. The availability of a site free from encumbrances has been built-in as a criterion in the site
+selection process by MoMSME. However, in the unlikely event of such a requirement for a specific site, the required
+processes have been built into the Social Management Framework to prepare resettlement instruments, as and if
+required.
+
+The existing TCs are not located in areas where local people have characteristics as described in OP 4.10. The new
+TCs will also not be located in such areas and this will be confirmed through social screening.
+      The World Bank                                                                                RESTRUCTURING ISDS
+      TECHNOLOGY CENTER SYSTEMS PROJECT (TCSP) (P145502)
+
+
+
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area.
+  By strengthening delivery mechanisms for MSMEs, the project is likely to contribute to increased economic activity,
+  and hence environmental impact that is both positive and negative. Such environmental impacts may include issues
+  pertaining to resource utilization (natural resources, energy, water etc.), pollution management, occupational
+  health and safety. They need to be considered as the project seeks to strengthen delivery mechanisms and seeks to
+  improve the capacity of the MSME sector, even though no direct physical investment would be made beyond the
+  TCs under the project.
+
+  Further, some specific long-term environmental impacts are associated with the operation and management of the
+  TCs. Appropriate water and sanitation facilities; water, noise and air pollution management; e-waste handling;
+  recycling of materials and disposal of wastes are some of the issues that would require regular/continuous
+  attention. However, such adverse impacts are not likely to be large-scale in nature. These can be avoided or
+  minimized and the positive outcomes from the project can be enhanced substantially by putting appropriate
+  institutional mechanisms, procedures and capacity in place. Considerations of environment, health and safety
+  dimensions in the project design will help in ensuring the soundness and sustainability of such specific programs
+  from an environmental perspective.
+
+  Social safeguards implementation of the project centers on due diligence site visits and undertaking of social
+  screening to identify social risks. This process has worked well and will continue to be followed in the restructured
+  project. The project has not had any adverse social impact so far. There was a site that had significant social risks –
+  loss of land and livelihood of Non-Title Holders - and this site had been excluded by the MoMSME.
+
+
+3. Describe any potential alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+  As part of the project preparation process for the original project, a selection/screening methodology was
+  developed to allow for appropriate selection of states, clusters and trades that will finally find coverage under the
+  program. This system of selection and elimination also includes environmental and social parameters such as
+  availability of unencumbered land/site. This mechanism also allows for avoiding potential impacts on
+  environmentally sensitive features/areas. Further, through the application of the Environment Management
+  Framework, as and where required, building orientation/design alternatives (including green/greener elements) will
+  be explored to consider site specific features/constraints.
+
+  The environment management and safeguards approach for the restructured project will also continue to focus on
+  due diligence and environment screening while selecting and finalizing sites, integration of appropriate provisions in
+  the DPRs and inclusion of EHS requirements in the bidding documents apart from management of environmental
+  risks/issues during construction on lines similar to the parent project.
+
+  The TCs will be established only on available government land as far as possible and will not involve any change in
+  land use in most cases as the land would be made available within existing/established industrial estates.
+
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower
+  capacity to plan and implement the measures described.
+    The World Bank                                                                                RESTRUCTURING ISDS
+    TECHNOLOGY CENTER SYSTEMS PROJECT (TCSP) (P145502)
+
+
+
+Safeguard policy issues have been considered by carrying out environment and social assessments and by applying
+OP 4.01, OP 4. 11, OP 4.10 and OP 4.12, which has resulted in preparation of distinct safeguard instruments for the
+operation. The safeguard instruments, thus prepared for the project include: (a) Environment Management
+Framework (EMF) and; (b) the Social Management Framework (SMF). Specific details are given in the sections
+below:
+
+Management of Environmental Issues and Risks.
+
+Environment Assessment. A limited Environmental Assessment (EA) study was undertaken by the MoMSME for the
+project. The EA study provides an analysis of the potential positive and negative impacts of the three primary
+project activities that are relevant from the environmental management and safeguards perspective. These are: (1)
+creation of 15 new Technology Centers; (2) upgrading of 18 existing TCs, and (3) strengthening
+technological/technical/training capabilities. As part of the EA, the current capacity of the MoMSME and the
+existing Tool Rooms (as they are currently called) from an environmental management perspective was also
+reviewed.
+
+The EMF developed as an outcome of this assessment provides guidelines for site selection, design, construction
+and maintenance of environment-friendly TCs in line with relevant legal and regulatory requirements of Govt. of
+India and the environment safeguard policies of the World Bank. The environment management process and tool
+for the project have been designed keeping in mind this varied scope of work, which includes setting-up of 15 new
+TCs; upgrading of 18 existing TCs, including building, supporting infrastructure/equipment and; technical assistance
+for technological and business needs support, including exposure of new technologies, providing access to cutting-
+edge equipment, developing and testing new products and patenting. Accordingly, to effectively plan, design and
+integrate environmental dimensions into the overall project preparation and implementation, an EMF was prepared
+during preparation of the original project drawing from a limited environment assessment exercise that was
+conducted by the MoMSME and experiences from the Bank funded Vocational Training Improvement Project (VTIP),
+currently under execution apart from other projects associated with/supporting the MSMEs in the country/region.
+The EMF was subsequently revised based on feedback from selected existing Tool Rooms/TCs, which are a part of
+the project.
+
+The key elements of the EMF include: (i) a screening exercise to identify key issues (such as availability of
+unencumbered sites) and to consider those in the selection of sites for 15 new TCs; (ii) application and
+implementation of Codes of Practice for Design and Construction of Green/-er Buildings for the 15 new and 18
+existing TCs; and (iii) mainstreaming/strengthening environment, health and safety dimensions in the operations
+based on the nature, need and scope of trades/sectors finally selected.
+
+As part of training and capacity building activities, the project will support development of appropriate mechanisms
+to deal with issues of occupational health and safety. Further, based on the final selection of trades/activities (based
+on nature, need and scope), the project management unit will explore the opportunities for bringing in new
+technologies/materials that are cost-effective, efficient and yet environment friendly. The restructured project does
+not have any new component that is likely to have adverse environment impacts and, therefore, the project’s
+existing EMF needs no further review and/or changes.
+
+Borrower’s Capacity Assessment
+
+The key implementing agency for the project is the Ministry of MSME, Govt. of India. Through the Office of
+Development Commissioner, the Ministry operates ten tool rooms and eight technology development centers
+   The World Bank                                                                               RESTRUCTURING ISDS
+   TECHNOLOGY CENTER SYSTEMS PROJECT (TCSP) (P145502)
+
+
+
+(together referred as TCs). Several of these are set up through collaborations with German and Danish agencies as
+well as with the United Nations Industrial Development Organization (UNIDO). The TCs are largely self-sustaining
+centers that have been providing technical and vocational training programs to more than 100,000 trainees
+annually, including All India Council for Technical Education (AICTE) and the National Council for Vocational Training
+(NCVT) approved certification. They also provide design and manufacturing support to entrepreneurs alongside
+technical consultancies. There is variance in the levels of training which is demonstrative of a wide spectrum of
+technical sophistication in training inputs. The evaluation studies of TCs have found a strong need to replicate the
+facility at more places. The studies also point to the need for technological up-gradation, improved training output
+and innovation in the business models of the Technology Centres, strengthening of workforce supply and to
+increase the capacities to train youth in India.
+
+The project aims to establish 15 new TCs and strengthen 18 existing ones during the project implementation period.
+These facilities will focus on improving access to technology, providing skill upgradation and offering advocacy
+support for specific industries with high growth potential. The TCs will provide technical advisory support for
+entrepreneurs and workers while offering opportunities for technical skill development for the youth. It is also
+envisaged that these existing TCs will act as mother units and thought leaders to the sectors and space in which
+they operate. The long-term vision of this project is to ensure competitiveness of the MSME system by
+strengthening further their linkages to the mainstream manufacturing sector in the country. The activities under the
+project will focus on priority industries such as Tooling, Electronic System Design & Manufacturing (ESDM),
+Fragrances & Flavors, Leather and leather products and Glass & Ceramics, among others. The goal is to ensure easy
+access to high quality technology and holistic skill development and training across the industry value chain,
+geographies and functionalities.
+
+To succeed, the proposed project requires strong private sector involvement in all the key decisions pertaining to
+the design and implementation. Also, involvement and timely coordination between MoMSME and other major
+stakeholders such as the Ministry of Science and Technology, the Ministry of Communication and Information
+Technology, the Ministry of Heavy Industry, the Ministry of Labor (DGE&T), Ministry of Environment, Forests and
+Climate Change, State Governments (through their Department of Industries), industry associations, representatives
+from the relevant business associations, industry leaders are required for strengthening the Indian MSME system.
+
+While there is strong commitment and interest in the Ministry, there are institutional challenges and limitations in
+capacity to manage an ambitious project of this nature and scale. The institutional deficiencies/gaps exist in terms
+of staffing shortages, lack of up-to-date technical knowledge on various industrial sectors and lack of capacity to
+coordinate/bring together a large number of diverse stakeholders in a systematic and time-bound manner. There is
+a lack of quality information and understanding on what the key safeguard (environmental and social) issues, risks
+and opportunities are in the context of the MSME sector. In the light of the importance of the project, complexities
+involved in the operation and current limitations in institutional capacity, the preparation and implementation of
+the project requires strong technical, advisory, safeguards and management support from consultants/agencies
+with apt international experience and expertise to handle this program.
+
+Management of Social Issues and Risks.
+
+The restructured project does not have any new component or activities that are likely to have adverse social
+impacts and, therefore, the project’s existing Social Management Framework needs no review and changes. The TCs
+are the implementing agencies at the state level and they do not have any structure and process for addressing
+social safeguard/management processes at present as the need for such a structure and process had not been felt
+at the TCs so far. Nevertheless, each TC will have a designated Nodal Officer for Social Development who will not
+     The World Bank                                                                              RESTRUCTURING ISDS
+     TECHNOLOGY CENTER SYSTEMS PROJECT (TCSP) (P145502)
+
+
+
+ only be responsible for social safeguard process but also for social development aspects of the center such as
+ gender, equity and social inclusion.
+
+ The Nodal Officer will be present working on extension activities of the center such as support to community based
+ organizations such as self-help groups for sustainable sources of livelihood and income and corporate social
+ responsibility programs. In case it is not possible for a TC to appoint a Nodal Officer from among its existing staff,
+ the TC will appoint a social development consultant who will work with the Project Management Unit on aspects
+ related to social safeguards and development. The designation of a Nodal Officer and/or appointment of a social
+ development consultant has been completed on the basis of terms of reference approved by the Bank.
+
+ The Nodal Officers and social development consultants will undergo a series of training programs related to: (i)
+ structure and process of social safeguards management; (ii) grievance redress; (iii) indigenous peoples
+ development, where required; and (iv) gender, equity and social inclusion. The trainings will also focus on
+ participatory planning, implementation and monitoring of SMPs/Social Safeguards Instruments such as
+ Resettlement Action Plans (RAP) in case they are required in the future.
+ The Project Management Unit will also organize training programs for project affected families, vulnerable sections
+ among project affected families, non-government organizations, civil society organizations and community based
+ organizations on: (i) income generating programs; (ii) participation and grievance redress; (iii) access to
+ technical/vocational programs provided by the TC to facilitate gender, equity and social inclusion.
+
+ The Project Management Unit will prepare a detailed plan for capacity building through a series of training
+ programs and this includes the contents of training program, the methodology, the timeframe and the budget in
+ consultation with the Nodal Officers, the social development consultants, the project affected families, NGOs, CSOs
+ and CBOs based on focus group discussions with a view to identify the exact needs. This means the proposed
+ specific capacity building programs are an outcome of a participatory process of training needs analysis within the
+ broad framework outlined.
+
+
+5. Identify the key stakeholders and describe the mechanism for consultation and disclosure on safeguard policies,
+ with an emphasis on potentially affected people.
+ Stakeholders: The primary stakeholders include the intended target population or beneficiaries of the program
+ being supported under the proposed operation: Indian MSMEs (specifically beneficiary MSMEs availing services of
+ these centers, especially from auto, plastic, electronic, aerospace, consumer durables and other general
+ engineering sector); larger firms (who are a part of the value chains); as well as students and workers at the TCs.
+ The secondary stakeholders include officials from MoMSME, Ministry of Labour and Employment, Department of
+ Science and Technology, National Skill Mission, the Regional/Sectoral Industry Associations representing MSMEs,
+ trainees, the regional/national level academic and vocational training institutions.
+
+ Consultations: Stakeholder participation is central to design and implementation of the project and provides for
+ information sharing, consultation and collaboration measures. A consultation framework has been laid out in the
+ EMF and SMF to ensure proper consultation and participation of stakeholders at the various stages of project
+ preparation and implementation.
+
+ In accordance with applicable Bank policies, consultations at the local or TC level) so far have been carried out as
+ part of the limited environment and social assessment process. The public consultation process has indicated that
+ the stakeholders strongly support the proposed project. The feedback/inputs from these field based discussions
+ have been primarily used for preparing the EMF and SMF of the project. Additionally, at the national level,
+ stakeholders from the line ministries (such as Science and Technology and Ministry of Labour and Employment),
+                      The World Bank                                                                                RESTRUCTURING ISDS
+                      TECHNOLOGY CENTER SYSTEMS PROJECT (TCSP) (P145502)
+
+
+
+                  industry associations, cluster leaders, academia and officials from the National Skill Mission were consulted on
+                  December 2, 2013. Consultations in the field as well as the national level are expected to be a regular feature of the
+                  project and will add value to the decisions being finally made to support and execute the project, including on issues
+                  related to mainstreaming environmental and social dimensions into the project design and execution.
+
+                  Once the detailed plan preparation process for the various sites is initiated, specific inputs on site selection, design
+                  of the facility, technological choices and other such maters are also being sought.
+
+                  Disclosure. The Environment and Social safeguard instruments (EMF and SMF) prepared for the project have been
+                  disclosed in the government website (http://dcmsme.gov.in/tcsp.html). The same have been disclosed in the Bank’s
+                  Infoshop. The executive summary of the documents has been translated in Hindi and made public through
+                  MoMSME’s website. Further, the documents, including the executive summaries, are available at the office of the
+                  Development Commissioner, MoMSME, and all existing TCs for reference and use of interested stakeholders.
+
+            DISCLOSURE_TABLE
+            B. DISCLOSURE REQUIREMENTS
+ENV_TABLE
+ Environmental Assessment/Audit/Management Plan/Other
+
+        Date of receipt by the Bank                                        Date of submission for disclosure
+        02-Dec-2013                                                         10-Dec-2013
+         For Category ‘A’ projects, date of distributing the Executive Summary of the EA to the Executive Directors
+
+
+         “In country�? Disclosure
+
+            Country                                                            Date of Disclosure
+            India                                                              06-Dec-2013
+            Comments
+
+
+
+
+RESETTLE_TA BLE
+
+
+
+
+Resettlement Action Plan/Framework Policy Process
+
+Date of receipt by the Bank                                                  Date of submission for disclosure
+02-Dec-2013                                                                  10-Dec-2013
+“In country�? Disclosure
+
+          Country                                                             Date of Disclosure
+                           The World Bank                                                                     RESTRUCTURING ISDS
+                           TECHNOLOGY CENTER SYSTEMS PROJECT (TCSP) (P145502)
+
+
+
+          India                                                          06-Dec-2013
+           Comments
+
+
+INDIG ENOUS_TA BLE
+
+
+
+
+Indigenous Peoples Development Plan/Framework
+
+Date of receipt by the Bank                                               Date of submission for disclosure
+02-Dec-2013                                                               10-Dec-2013
+“In country�? Disclosure
+
+            Country                                                       Date of Disclosure
+            India                                                         06-Dec-2013
+            Comments
+            Process and requirements pertaining to OP 4.10 have been integrated into the Social Management Framework itself.
+            There is no stand alone IPDP/framework.
+
+
+        COMPLIANCE_TABLE
+                     C.   COMPLIANCE MONITORING INDICATORS AT THE CORPORATE LEVEL
+
+EA_TABLE
+ OP/BP/GP 4.01 - Environment Assessment
+ Does the project require a stand-alone EA (including EMP) report?                                            Yes
+
+           If yes, then did the Regional Environment Unit or Practice Manager (PM) review
+                                                                                                              Yes
+           and approve the EA report?
+
+           Are the cost and the accountabilities for the EMP incorporated in the
+                                                                                                              Yes
+           credit/loan?
+
+
+
+           PCR_TABLE
+           OP/BP 4.11 - Physical Cultural Resources
+           Does the EA include adequate measures related to cultural property?                                Yes
+
+             Does the credit/loan incorporate mechanisms to mitigate the potential adverse
+                                                                                                              Yes
+             impacts on cultural property?
+
+
+
+           IP_TABLE
+           OP/BP 4.10 - Indigenous Peoples
+             Has a separate Indigenous Peoples Plan/Planning Framework (as appropriate)                       No
+        The World Bank                                                             RESTRUCTURING ISDS
+        TECHNOLOGY CENTER SYSTEMS PROJECT (TCSP) (P145502)
+
+
+
+been prepared in consultation with affected Indigenous Peoples?
+
+
+
+IR_TABLE
+OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy             framework/process
+                                                                                   Yes
+framework (as appropriate) been prepared?
+
+If yes, then did the Regional unit responsible for safeguards or Practice
+                                                                                   Yes
+Manager review the plan?
+
+Is physical displacement/relocation expected?                                      No
+
+Is economic displacement expected? (loss of assets or access to assets that
+leads to loss of income sources or other means of livelihoods)
+
+
+
+PDI_TABLE
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the World Bank for
+                                                                                   Yes
+disclosure?
+
+Have relevant documents been disclosed in-country in a public place in a form
+and language that are understandable and accessible to project-affected groups     Yes
+and local NGOs?
+
+
+
+ALL_TABLE
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional responsibilities been
+                                                                                   Yes
+prepared for the implementation of measures related to safeguard policies?
+
+Have costs related to safeguard policy measures been included in the project
+                                                                                   Yes
+cost?
+
+Does the Monitoring and Evaluation system of the project include the
+                                                                                   Yes
+monitoring of safeguard impacts and measures related to safeguard policies?
+
+Have satisfactory implementation arrangements been agreed with the
+borrower and the same been adequately reflected in the project legal               Yes
+documents?
+
+
+
+
+III. APPROVALS
+          The World Bank                                         RESTRUCTURING ISDS
+          TECHNOLOGY CENTER SYSTEMS PROJECT (TCSP) (P145502)
+
+
+
+                                          Michael Olavi Engman
+    Task Team Leader(s)
+                                          Shihab Ansari Azhar
+
+    Approved By
+
+    Practice Manager/Manager
+
+.
+
+
+    Note to Task Teams: End of system generated content
+

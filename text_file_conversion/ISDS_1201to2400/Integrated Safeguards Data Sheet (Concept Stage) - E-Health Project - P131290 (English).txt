@@ -1,0 +1,181 @@
+ï»¿                                           INTEGRATED SAFEGUARDS DATA SHEET
+                                                    CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                               Report No.: ISDSC1399
+
+                         Date ISDS Prepared/Updated: 11-Oct-2012
+                         Date ISDS Approved/Disclosed: 08-Nov-2013
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:            Mongolia                         Project ID:      P131290
+                            Project Name:       E-Health Project (P131290)
+                            Task Team           Aparnaa Somanathan
+                            Leader:
+                            Estimated           22-Nov-2013                      Estimated        20-Mar-2014
+                            Appraisal Date:                                      Board Date:
+                            Managing Unit:      EASHH                            Lending          Investment Project Financing
+                                                                                 Instrument:
+                            Sector(s):        Health (100%)
+                            Theme(s):         Managing for development results (20%), Health system performance (80%)
+                            Financing (In USD Million)
+                            Total Project Cost:        15.00              Total Bank Financing:         15.00
+                            Financing Gap:              0.00
+Public Disclosure Copy
+
+
+
+
+                              Financing Source                                                             Amount
+                              BORROWER/RECIPIENT                                                             0.00
+                              International Development Association (IDA)                                   15.00
+                              Total                                                                         15.00
+                            Environmental C - Not Required
+                            Category:
+                            Is this a           No
+                            Repeater
+                            project?
+
+                           B. Project Objectives
+                           11.     The objective of the Project will be to improve efficiency in the financing and delivery of
+                           health services through greater integration of the health care delivery system.
+                           C. Project Description
+                           The hospital information system (HIS) already exist in half of all aimag and regional hospitals, which
+                           use the Mongolian language and are appropriate in the Mongolian context. The proposed Project
+                           seeks to build on the existing situation, while taking advantage of innovative, cloud-based
+                         technologies, through the â€œwrappingâ€? of the existing systems with appropriate middleware to enable
+                         them to communicate in a single language with an interface layer. A major innovation will involve
+                         the creation of a Health Information Exchange Cloud, where a directory of hospital episodes and
+Public Disclosure Copy
+
+
+
+
+                         information will be chronicled for access by other institutions in a highly controlled and confidential
+                         manner.
+
+                         Component 1: Health Information Standards. This component seeks to contribute to the standards
+                         through the completion of the Health Data Dictionary (HDD), since any effort to foster
+                         communication and interoperability between different components of health information systems
+                         needs for the components to speak a â€œcommon languageâ€?. Work on developing the HDD has already
+                         begun under a World Bank grant for e-health development; the proposed Project will continue to
+                         develop this under the Project. The task of maintaining and enforcing the use of the HDD and
+                         certifying systems as â€œMongolia HDD compliantâ€? will be an ongoing activity supported under this
+                         component.
+
+                         Component 2: Health Information Exchange Platform (HIEP). Using the language developed under
+                         Component 1, the proposed Project will support the building of an integration platform which will
+                         allow various HIS to communicate with each other. Two key elements of Component 2 are (a) the
+                         messaging platform; and (b) a shared clinical summary profile. The former will provide a common
+                         interface layer to improve communication regarding referrals, order diagnostic tests between
+                         facilities and send diagnostic test results back to the ordering provider, send statistical reports to H-
+                         Info, and report quality related information to MOH. The platform would also facilitate the
+                         exchange of key clinical data between facilities involved in the care of the same patient, or when
+                         patients present themselves at a facility. The platform will use web-based, and cloud-based
+                         technologies. After successful testing of the system, it will be piloted in three sub-systems: (a) Khan
+                         Uul District in Ulaanbaatar connecting the District General Hospital and its Family Health Centers
+                         and Maternal Hospital No. 1; (b) Songinohairkhan District in Ulaanbaatar, connecting the new
+                         general hospital currently under construction, the District Public Health Center, its polyclinic
+                         (ambulatory center #4) and its Family Health Centers; and (c) Orkhon aimag, connecting the
+Public Disclosure Copy
+
+
+
+
+                         Regional Diagnostic and Treatment Centre and two soum hospitals. The feasibility of expanding the
+                         coverage will be explored during implementation.
+
+                         Component 3: National Health Information Center (NHIC). Component 3 will support the
+                         establishment and operational support of a semi-autonomous center, which oversees all aspects of e-
+                         health and health information in Mongolia, and creates an environment conducive for training and
+                         research. The NHIC is expected to become the focal point for: the procurement, implementation,
+                         training, research, maintenance and support of Mongoliaâ€™s e-health system, the ownership and
+                         maintenance of the HDD, and other standards-based artifacts, and potential regulatory changes which
+                         will be needed.
+
+                         Component 4: Institutional Strengthening and Capacity Building. This component will build the
+                         necessary human capacity for the successful implementation and institutionalization of e-health in
+                         Mongolia. Financing will be provided for improving the computer literacy of health services
+                         providers through training in a variety of subjects. Support for the consultants necessary for Project
+                         management, and incremental operating costs associated with the Project are also provided under this
+                         Component. Preliminary technical assistance needs anticipated include areas such as procurement,
+                         financial management, and monitoring and evaluation.
+                               D. Project location and salient physical characteristics relevant to the safeguard
+                               analysis (if known)
+                               The Project will be implemented in Ulaanbaatar.
+Public Disclosure Copy
+
+
+
+
+                               E. Borrowers Institutional Capacity for Safeguard Policies
+                               This will be the first World Bank project in the health sector in Mongolia, and the Project
+                               Management Office (PMO) is obviously not familiar with World Bank Safeguard Policies. The team
+                               will assist the PMO to engage qualified staff and provide relevant training to enable smooth
+                               safeguard preparation and implementation, if necessary.
+                               F. Environmental and Social Safeguards Specialists on the Team
+                               Songling Yao (EASCS)
+                               Yiren Feng (EASCS)
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+                                 Safeguard Policies                                                Triggered?                    Explanation (Optional)
+                                 Environmental Assessment OP/                                      No                            The Project will not trigger this policy since no
+                                 BP 4.01                                                                                         civil works are being supported.
+                                 Natural Habitats OP/BP 4.04                                       No                            The Project is not affecting any natural habitats.
+
+                                 Forests OP/BP 4.36                                                No                            The Project is not affecting any forests.
+
+                                 Pest Management OP 4.09                                           No                            The Project will not procure pesticides or
+                                                                                                                                 increase use of pesticides.
+                                 Physical Cultural Resources OP/                                   No                            No physical cultural resources are affected by
+                                 BP 4.11                                                                                         the Project.
+                                 Indigenous Peoples OP/BP 4.10                                     No                            The project is located within the urban
+Public Disclosure Copy
+
+
+
+
+                                                                                                                                 Ulaanbaatar city and there is no IP group, which
+                                                                                                                                 was verified by other projects within the urban
+                                                                                                                                 area, such as MN-UB Services Improvement
+                                                                                                                                 Project.
+                                 Involuntary Resettlement OP/BP                                    No                            The project is to address four key shortcomings
+                                 4.12                                                                                            of the current health information management
+                                                                                                                                 system, and does not include any land related
+                                                                                                                                 issue.
+                                 Safety of Dams OP/BP 4.37                                         No                            The project will not finance construction or
+                                                                                                                                 rehabilitation of any dams as defined under the
+                                                                                                                                 policy.
+                                 Projects on International        No                                                             The Project is not being implemented on an
+                                 Waterways OP/BP 7.50                                                                            international waterway.
+                                 Projects in Disputed Areas OP/BP No                                                             There are no disputed areas where the Project
+                                 7.60                                                                                            will be implemented.
+
+                         III. SAFEGUARD PREPARATION PLAN
+                               A. Tentative target date for preparing the PAD Stage ISDS: 31-Jan-2013
+
+
+
+                         1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+                          form and language that are accessible to potentially affected persons.
+                           B. Time frame for launching and completing the safeguard-related studies that may be needed.
+                              The specific studies and their timing1 should be specified in the PAD-stage ISDS:
+                             No studies are anticipated.
+Public Disclosure Copy
+
+
+
+
+                         IV. APPROVALS
+                           Task Team Leader:       Name: Aparnaa Somanathan
+
+                           Approved By:
+                           Regional Safeguards Name: Josefo Tuyor (RSA)                           Date: 05-Nov-2013
+                           Coordinator:
+                           Sector Manager:     Name: Toomas Palu (SM)                             Date: 08-Nov-2013
+Public Disclosure Copy
+

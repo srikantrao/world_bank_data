@@ -1,0 +1,143 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+IDENTIFICATION / CONCEPT STAGE
+0                                               Report No.: ISDSC16157
+Date ISDS Prepared/Updated: 11-Dec-2015
+I. BASIC INFORMATION
+A. Basic Project Data
+Country:          Iraq                       Project ID:   P158492
+Project Name:     SWIFT Iraq CSO
+Team Leader(s): Nandini Krishnan,Sergio Daniel Olivieri
+Estimated Date    31-Jan-2016
+of Approval:
+Managing Unit:    GPV05                      Lending       Lending Instrument
+Instrument:
+Sector(s):        Central government administration (30%), General public administration
+sector (30%), Other social services (40%)
+Theme(s):         Economic statistics, modeling and forecasting (30%), Poverty strategy,
+analysis and monitoring (50%), Social Protection and Labor Policy & Systems
+(10%), Conflict prevention and post-conflict reconstruction (10%)
+Financing (in USD Million)
+Total Project Cost:   0.2                  Total Bank Financing: 0
+Financing Gap:        0
+Financing Source                                                           Amount
+Trust Fund for Statistical Capacity Building                                    0.2
+Environment       C - Not Required
+Category:
+B. Project Development Objective(s)
+The PDO of this grant is to support the Central Statistics Office of the Government of Iraq in
+collecting and analyzing a SWIFT survey for poverty monitoring in 2016. SWIFT is a short, tablet
+based survey that estimates poverty headcount rates based on a modeling exercise using most
+recently available household survey data. This survey will likely exclude the three governorates
+currently under the influence of Islamic State, unless the security situation improves significantly.
+Currently, the Central Statistical Office (CSO) is implementing a SWIFT pilot for Baghdad, and have
+secured some resources for the full survey. This grant to the CSO will co-finance the survey. A
+separate smaller grant for the Kurdistan region statistics office will support the survey in the three
+governorates of Iraqi Kurdistan.
+C. Project Description
+Iraq implemented two large household surveys (IHSES) in 2007 and 2012. In 2014, an annual survey
+was implemented on a sub-sample with comparable questionnaire design but fieldwork was
+
+
+﻿interrupted due to the rapidly deteriorating security situation. The ongoing security and budget crisis
+imply that large household surveys are not feasible in the near future. The next IHSES planned for
+2017 is unlikely to take place on time. At the same time, it is more important than ever to monitor
+poverty and key socio-economic indicators, given the scale of the crises, and the high concentration
+U       of the population close to the poverty line. Iraq has made both large household surveys (IHSES)
+publicly available through the LSMS survey database.
+This grant will provide complementary financing for a SWIFT survey for poverty monitoring during
+this crisis situation. SWIFT is a new household survey instrument that projects consumption based
+on collecting 10 to 15 simple questions on poverty correlates such as education of the household
+head, ownership of consumer durables, household head's employment status, among others. The
+identification of these correlates is based on estimates obtained from implementing a model using the
+latest available household survey in the country. The main advantages of using SWIFT are saving
+time and reducing survey implementation costs. Additionally, SWIFT has adopted recent innovations
+in data collection, like Computer Assisted Personal Interview (CAPI) and data cloud. 18 SWIFT
+surveys have been successfully completed or are ongoing in 14 countries across all regions.
+This survey will likely exclude the three governorates currently under the influence of the Islamic
+State, unless the security situation improves significantly. Currently, the Central Statistical Office
+(CSO) is implementing a SWIFT pilot for Baghdad, and have secured some resources for the full
+survey. However this is inadequate, and in particular, the Kurdistan region statistical office (KRSO)
+has no resources for implementing SWIFT. Both CSO and KRSO have demonstrated ability to
+collect high quality data, and will be ready to complete fieldwork as soon as resources are made
+available.
+For more details please see the technical concept note attached to this package.
+D. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+The survey will most likely exclude Anbar, Nineveh and Salahadin, and depending on the security
+situation, Diyala and Kirkuk as well. The security situation will determine the geographic scope of
+the survey. However, the pilot, which has been completed, tested the modalities in the relatively
+insecure parts of rural Baghdad, with considerable success.
+As with the CHS 2014, the security of the field teams will not be compromised. The CSO and KRSO
+face security risks on a daily basis and have developed protocols over the last decades to accurately
+judge and mitigate these risks. These and more abundant precautions will be followed with safety
+and security being the most important element in the decision to undertake fieldwork in any area.
+SWIFT significantly reduces the risk of exposure to an insecure situation as each interview takes no
+more than 10 to 15 minutes relative to the IHSES surveys that take 4 visits of an hour each over three
+months.
+E. Borrower's Institutional Capacity for Safeguard Policies
+The security of the field teams will not be compromised. The CSO and KRSO face security risks on
+a daily basis and have developed protocols over the last decades to accurately judge and mitigate
+these risks. These and more abundant precautions will be followed with safety and security being the
+most important element in the decision to undertake fieldwork in any area. SWIFT significantly
+reduces the risk of exposure to an insecure situation as each interview takes no more than 10 to 15
+minutes relative to the IHSES surveys that take 4 visits of an hour each over three months.
+
+
+﻿F. Environmental and Social Safeguards Specialists on the Team
+II. SAFEGUARD POLICIES THAT MIGHT APPLY
+S
+afeguard Policies          Triggered?    Explanation (Optional)
+Environmental Assessment OP/  No           This activity comprises solely of training for,
+BP 4.01                                    piloting and implementation of a household
+survey. This involves in person interactions of
+roughly 10 minutes per household to complete
+the survey. The data is immediately uploaded to
+a cloud. Given the nature of this task, OP/BP
+4.01 is not triggered - there are no adverse
+environmental consequences of any element of
+this activity
+Natural Habitats OP/BP 4.04   No
+Forests OP/BP 4.36            No
+Pest Management OP 4.09       No
+Physical Cultural Resources OP/  No
+BP 4.11
+Indigenous Peoples OP/BP 4.10  No
+Involuntary Resettlement OP/BP  No
+4.12
+Safety of Dams OP/BP 4.37    No
+Projects on International     No
+Waterways OP/BP 7.50
+Projects in Disputed Areas OP/BP No        The survey will not enter any areas that are
+7.60                                       insecure or pose risks to fieldworkers or
+households, including disputed areas. the
+security of the field teams will not be
+compromised. The CSO and KRSO face
+security risks on a daily basis and have
+developed protocols over the last decades to
+accurately judge and mitigate these risks. These
+and more abundant precautions will be followed
+with safety and security being the most
+important element in the decision to undertake
+fieldwork in any area. SWIFT significantly
+reduces the risk of exposure to an insecure
+situation as each interview takes no more than
+10 to 15 minutes relative to the IHSES surveys
+that take 4 visits of an hour each over three
+months.
+III. SAFEGUARD PREPARATION PLAN
+
+
+﻿Appraisal stage ISDS required?: No
+IV. APPROVALS
+Team Leader(s):          Name: Nandini Krishnan,Sergio Daniel Olivieri
+U
+Approved By:
+Safeguards Advisor:      Name: Brandon Enrique Carter (SA)                  Date: 11-Dec-2015
+Practice Manager/        Name: Benu Bidani (PMGR)                            Date: 11-Dec-2015
+Manager:
+1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the
+InfoShop and (ii) in country, at publicly accessible locations and in a form and language that are accessible to potentially
+affected persons.
+U
+
+

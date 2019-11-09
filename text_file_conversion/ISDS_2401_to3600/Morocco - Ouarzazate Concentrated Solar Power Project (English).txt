@@ -1,0 +1,389 @@
+                    INTEGRATED SAFEGUARDS DATASHEET
+                            APPRAISAL STAGE
+
+I. Basic Information
+Date prepared/updated: 07/27/2011                                    Report No.: AC5935
+1. Basic Project Data
+Country: Morocco                             Project ID: P122028
+Project Name: MA-Ouarzazate Concentrated Solar Power
+Task Team Leader: Silvia Pariente-David
+Estimated Appraisal Date: July 26, 2011      Estimated Board Date: October 18, 2011
+Managing Unit: MNSSD                         Lending Instrument: Specific Investment
+                                             Loan
+Sector: Other Renewable Energy (100%)
+Theme: Climate change (100%)
+IBRD Amount (US$m.):           200.00
+IDA Amount (US$m.):              0.00
+GEF Amount (US$m.):              0.00
+PCF Amount (US$m.):              0.00
+Other financing amounts by source:
+         Borrower                                                      0.00
+         Clean Technology Fund                                      197.00
+                                                                    197.00
+Environmental Category: A - Full Assessment
+Repeater []
+Is this project processed under OP 8.50 (Emergency Recovery)
+                                                                 Yes [ ]      No [ ]
+or OP 8.00 (Rapid Response to Crises and Emergencies)
+
+2. Project Objectives
+The development objective of the proposed project is to support MASEN, the Moroccan
+public solar agency, in initiating the development of the 500 MW Ouarzazate CSP power
+plant, by financing the first phase (160 MW gross) through a public private partnership
+(PPP), to increase power generation from concentrated solar power and mitigate GHG
+emissions and local environmental impact.
+
+ This project is intended to contribute to the higher-level objective of helping to develop
+a globally-available competitive non-carbon energy source. It is quintessentially a
+strategic demonstration project designed to spur replication, and is a flagship for the
+Clean Technology Fund’s overarching goal of transformational impact on climate change
+mitigation.
+
+3. Project Description
+The proposed project will support: (i) the formation of a PPP between MASEN and a
+competitively selected private partner to develop a 160 MW gross (143 MW net)
+concentrated solar parabolic trough plant, the first phase of the Ouarzazate 500 MW
+complex; and (ii) the funding during the first 4-5 years of the gap between the costs of
+CSP generation and conventional fossil fuel-fired generation, even if the GoM faces
+momentary financial difficulties that would make budgetary support problematic.
+ The project#s first component ("PPP Component") is a PPP for the construction of a
+power plant 10 km east-northeast of Ouarzazate. This site is well suited for the
+development of CSP because of its excellent solar resources, the availability of water,
+easy access, and the proximity of a robust power grid to transport the electricity to
+markets in Morocco and abroad for later phases. The construction is likely to start in
+2012 for commissioning mid-2014. In light of the results of the prequalification and the
+market response, the first-phase plant will use solar parabolic trough technology with 3
+hours storage. Later phases will remain open to any proven solar technologies. The
+Associated Facilities (or Common Infrastructures) required for the functioning of the
+CSP plant are within the scope of the project, but are not financed by the Bank.
+ In the project’s second component ("Incremental Cost Support (SICS) Component"), the
+World Bank loan will be used to finance the difference in the prices at which MASEN
+buys from the SPC and sells to ONE the kilowatt-hours produced by Ouarzazate I. GoM
+has in principle committed, through the renewable law and the MASEN-GoM
+convention, to cover this difference from the State budget. At the request of MASEN,
+WB is offering a loan to cover the additional generation cost of CSP when the GoM
+decides to resort to this financing, instead of state financing, when economic and fiscal
+conditions warrant it. This solution might provide temporary comfort to private investors
+that funds will be available to MASEN to pay the high CSP price agreed in the PPA even
+when GoM faces budgetary pressures.
+ The project triggers the World Bank Environmental Assessment Policy OP 4.01 and OP
+4.12 due to the presence of land acquisition. MASEN has prepared a Framework
+Environmental and Social Impact Assessment (FESIA) in order to inform the process of
+integration of environmental and social concerns in the design and preparation of the
+project. This FESIA has been reviewed by the Bank and other co-financiers. The first
+version of the FESIA has been disclosed on January 13th, 2011 and the final version of
+the FESIA has been disclosed in-country on July 21st and on World Bank’s Info-shop on
+July 25th 2011.
+ The Framework ESIA scope covers the different technologies (CSP parabolic trough,
+CSP Power Tower, photovoltaic, etc) that MASEN considers to develop in the
+Ouarzazate solar complex. The FESIA includes a Framework Environmental and Social
+Management Plan (FESMP). The FESMP includes institutional settings, general
+mitigation measures and monitoring plan for the potential impacts expected from project
+activities during construction and operation stages.
+
+  The project will be implemented by a special purpose vehicle (Solar Project Company -
+SPC) to be created as a partnership between MASEN and a competitively selected private
+investor/developer with strong financial, technical and project management and
+implementation capability. As soon as it is established, the SPC will carry out a project-
+level Environmental and Social Impact Assessment (ESIA) with appropriate mitigating
+and monitoring measures. The capabilities of the counterpart entity that will enter into the
+SPC will be fully assessed during the selection which will be carried out by MASEN with
+the assistance of reputable technical and transaction advisors on the basis of the
+requirements mentioned above. The process will be supervised and the evaluation report
+submitted to the Bank and other donors/financiers on a no objection basis.
+
+  Environmental and Social Impact Assessments (ESIA) for the associated facilities
+(transmission lines, water supply) and the corresponding Environmental Management
+Plans will be carried out by the respective National Agencies (Office National de
+l'Electricité, Office National de l'Eau Potable). All the above-mentioned ESIAs will be
+prepared in accordance to the World Bank's Operational Policies and will be cleared by
+the World Bank.
+
+4. Project Location and salient physical characteristics relevant to the safeguard
+analysis
+The site, a 2,500 ha green field area situated 10 km E-NE of Ouarzazate, is well suited for
+solar projects, especially for development of CSP, because of:
+ *      Excellent solar resources. There is a full 1-year in-site weather file that includes
+solar insolation data. A second in site measurement station was added in September 2010.
+Data collected since February 2010 indicate that the site DNI is significantly higher than
+typical site qualification limits and used in the preliminary modelling. This conclusion is
+based on: (a) comparisons of the Ouarzazate site data with insolation data from the
+Andasol site in Granada, Spain and the Solar Energy Generating Systems (SEGS) site in
+the Mojave Desert, California, USA; and (b) an analysis of 30 years of satellite data.
+These analyses indicate that 2010 was an atypical year.
+ *      Availability of water in case wet cooling is required. Although the area around
+Ouarzazate is desertic, a reservoir with a capacity of 480 Mm3 is located approximately
+10 km south of the city. Therefore, the option envisaged by MASEN for the first phase is
+based on wet cooling but as specified in the RFP, entirely or primarily dry-cooled
+systems would be accepted by MASEN if they are proposed by bidders.
+ *      Accessibility. The site is accessible via unpaved tracks originating from the paved
+N10 road that runs from the port city of Agadir, approximately 350 km from the Site,
+through Ouarzazate. The Agadir port is located at a relatively short distance and could be
+used to import and transport heavy equipment from abroad to avoid the Atlas Mountains.
+Use of the Casablanca port would require crossing the Atlas Mountains.
+ *      Proximity to the power grid. The existing grid and planned reinforcements by
+ONE will allow evacuation of the full capacity of the power plant at peak output
+conditions. Furthermore, concentrating solar power technologies can be fitted with
+thermal energy storage capabilities allowing the optimization of peak output to meet the
+network carrying capacity within reasonable limits.
+
+5. Environmental and Social Safeguards Specialists
+   Mr Andrea Liverani (MNSSO)
+   Mr Gael A. Gregoire (MNSEN)
+6. Safeguard Policies Triggered                               Yes         No
+Environmental Assessment (OP/BP 4.01)                          X
+Natural Habitats (OP/BP 4.04)                                              X
+Forests (OP/BP 4.36)                                                       X
+Pest Management (OP 4.09)                                                  X
+Physical Cultural Resources (OP/BP 4.11)                                   X
+Indigenous Peoples (OP/BP 4.10)                                            X
+Involuntary Resettlement (OP/BP 4.12)                          X
+Safety of Dams (OP/BP 4.37)                                                X
+Projects on International Waterways (OP/BP 7.50)                           X
+Projects in Disputed Areas (OP/BP 7.60)                                    X
+
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project.
+Identify and describe any potential large scale, significant and/or irreversible impacts:
+*       OP/BP 4.01
+  During construction, the major impacts will be regular construction impacts such as
+waste, noise, to be managed in the same way as similar impacts for large construction
+projects (waste disposal, risk of wildlife disturbance, etc.);
+
+ During operation, the key potential adverse environmental impacts of the proposed
+project are expected to be:
+ -      Water use in a desert environment, with the water to be provided from a nearby
+reservoir. It has been estimated that total water consumption would amount to 6 million
+cubic meters per year in the worst case scenario (500 MW with wet cooling), to be
+compared to the 180 million cubic meters withdrawn from the dam for agricultural use.
+The key mitigation measure, should water availability become a problem would be dry
+rather than wet cooling techniques for the CSP plant.
+ -      The use of transfer fluids in the CSP plant, and associated potential leakage or
+anti-freeze or rust inhibitors. Safety measures against such release through relevant
+components being leak-proof, regularly maintained, cleaned and periodically replaced by
+appropriately trained staff.
+ -      Thermal and/or chemical pollution of local water ways from cooling water and
+other waste water. Appropriate mitigation measures would include wastewater
+management practices (e.g. effluent treatment techniques to remove or reduce
+concentrations of contaminants from disposal water), monitoring of discharge water (e.g.
+such as eutrophication, effects on fish or other aquatic fauna, oxygen contents of local
+waterways etc.), regular analysis of wastewater composition (temperature, chemical
+content, etc.), and compliance with regulated pollutant emission levels of liquid effluents
+(e.g. local and/or national regulations or international standards in default of those).
+
+  -    Fire risk from solar converters at high temperatures, including risk of out-gassing
+from panel components. Responses would include measures against overheating
+(coolants) and relevant warning / monitoring systems.
+  While it was envisaged at project launch that OP 4.04, 4.11, OP 4.37 and 7.50 could
+have been triggered, the FESIA concluded that these policies are not triggered by the
+project since:
+  - There are no remarkable natural habitats in the close vicinity of the site. The project
+site of the solar complex is recognized as being of low patrimonial value. None of the
+flora species found at the project site is considered threatened or rare. Several protected
+natural habitats have been identified in the region, the closest being the Mansour Ed
+Dahbi dam lake, located 6 km south of the site chosen by MASEN. The FESIA
+concluded that it is unlikely that the proposed operation would significantly convert or
+degrade any of these natural habitats.
+  - There are no physical cultural resources in the Municipality of Ghassate, with the
+exception of a few sepulchral sites (marabouts, zaouias) that are unlikely to be affected
+by the project;
+  - While it had originally been envisaged that a new dam might be constructed in relation
+with the proposed operation, the possibility has been abandoned;
+  - The proposed project does not involve international waterways.
+
+ *     OP 4.12 and social aspects
+
+  -     The project does not involve any physical or economic displacement of local
+populations. OP 4.12 was triggered precautionarily to verify the voluntary nature of the
+land acquisition process necessary to the project and its full alignment with Moroccan
+legislation. The project required the acquisition of 2500 hectares (Ha) of collective land
+owned by the Aït Oukrour Toundout community (out of a total area of 64000 Ha). The
+land is uncultivated and of little or no economic value. The transaction was carried out
+following Moroccan standard procedures for similar types of voluntary land transactions
+between a local community and a public agency. These procedures have included the
+following steps: a) setting of purchase price by a Commission of Experts; b) granting of
+required authorization; c) signing of notarized decision regarding land sale; and d)
+transfer of property right. The FESIA describes the process through which, for the
+purpose of the project, MASEN concluded the acquisition. A Land Acquisition Plan
+(LAP) describes the detailed procedure used (also in Annex 3 of the PAD). The LAP
+includes, in particular, the following documents: a) copy of the land price committee
+determination of the price of the land; b) copy of the written agreement by the
+community of the Ait Oukrour Toundout on the sale and conditions of the transfer of the
+land; c) copy of the authorization of the Supervisory Board about the transaction; d)
+ONE/MASEN/Community tripartite agreement on land acquisition. A Social
+Development Plan is being developed through a participatory approach involving
+MASEN, the Ministry of Interior, and the local community and will include measures in
+the areas of education, sanitation, job creation and rural roads rehabilitation. The local
+population (the Ait Oukrour Toundout community and more specifically the Tasselmant
+village) took part in local consultations organized by MASEN as part of the LAP process
+and the preparation of the Social Development Plan.
+2. Describe any potential indirect and/or long term impacts due to anticipated future
+activities in the project area:
+The development of the power plant is expected to have a positive impact on the local
+population and the local economy by providing both direct (and indirect) sources of
+employment during the construction and production phases and by contributing to the
+development of tourism (including study tours). The proposed project will also contribute
+to climate change mitigation by avoiding greenhouse gases emissions of 240,000 tons of
+CO2 equivalent per year.
+
+ Some specifics potential indirect and/or long term impacts depend on the technology:
+ -     Increased amount of impervious surfaces ;
+ -     Increased water consumption (as mentioned above).
+ -     Risk associated with the presence of fossil fuel
+ -     Increased fire risk due to the presence of oil at high temperature (400 ° C)
+ Various generic mitigation measures have been identified in the FESIA and will be
+confirmed in the technology specific ESIA that will be carried out by the SPC.
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize
+adverse impacts.
+The site has been selected taking into account environmental considerations (availability
+of water in case wet cooling is required, accessibility, proximity to the power grid).
+Different technologies are envisaged and described in the framework environmental and
+social impact assessment (FESIA). Advantages and disadvantages of each of these
+technologies are presented in the document.
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide
+an assessment of borrower capacity to plan and implement the measures described.
+For the purpose of this project MASEN has commissioned a Framework Environmental
+and Social Impact Assessment in April 2010 that has been disclosed in draft form both in
+country and at the Infoshop on January 13, 2011. The FESIA has been disclosed in-
+country on July 21st and on World Bank's Info-shop on July 25th 2011. The FESIA was
+undertaken in a consultative manner and includes a Framework Environmental and Social
+Management Plan (FESMP). The framework ESIA will be followed by a project and
+technology specific ESIA, to be carried out by the SPC once it is established. The bidding
+documents will include clauses that will mandate the SPC to prepare such a project and
+technology specific ESIA before finalizing the detailed design of the facility. The project
+specific ESIA will include a detailed and project specific Environmental and Social
+Management Plan to ensure proper follow-up of the FESIA/FESMP.
+
+ Mitigation measures: The FESIA specified several appropriate mitigation measures,
+environmental monitoring plans, institutional arrangements and training requirements,
+together with cost estimates for implementation of the mitigation measures. Major
+mitigation measures include limitation of water consumption, reduction of risks of
+pollution, treatment of effluent, protection of biodiversity. Several positive impacts are
+also foreseen, including avoided greenhouse gases emissions of 240,000 tons of CO2
+equivalent per year
+ The implementation and monitoring of the Framework Environmental and Social
+Management Plan (FESMP) will be the responsibility of MASEN. Additional supervision
+and monitoring of implementation will be ensured through Moroccan environmental
+regulations on ESIAs, which requires formal approval by the authorities. MASEN will
+designate a Safeguards coordinator and hire environmental and social management
+specialists if needed (MASEN is a newly created entity that has no specific experience
+with World Bank’s Safeguards policies.). MASEN will work closely with the SPC to
+ensure that all environment and social impact mitigation measures including occupation,
+health and safety guidelines are mainstreamed into the project design; monitored and
+supervised.
+ The SPC will also include a Safeguards Coordinator that will have direct responsibility
+for implementation of the Environment, Health and Safety measures for the site during
+construction and operation. The SPC will be responsible for preparing a specific
+environmental and social impact assessment (ESIA) that will include a detailed
+environmental and social management plan (ESMP). The SPC Safeguards Coordinator
+will, inter alia, prepare a monthly Health, Safety and Environment report during the
+construction phase.
+
+5. Identify the key stakeholders and describe the mechanisms for consultation and
+disclosure on safeguard policies, with an emphasis on potentially affected people.
+Public Consultation and Feedback: Before and during the preparation phase, several
+meetings took place and have been attended by representatives of the local population,
+local authorities, local representatives of the various Ministries, utility companies and
+other affected organizations to discuss the proposed project, even before the World Bank
+was involved in the project. At that time, a draft FESIA had already been prepared by the
+client. A formal public consultation meeting on the draft FESIA has been organized on
+November 3rd, 2010 in Ouarzazate and confirmed that the proposed operation is widely
+supported by local officials and community representatives. The proceedings of this
+meeting are included in the FESIA report. The main comments made during the meeting
+are related to natural risks (wind, seism), water use, access road, economic and social
+impacts. Additional consultations will be organized during the preparation of the specific
+ESIAs. At that stage, more relevant and detailed information will be available, including
+but not limited to a conclusion of the ESIAs and a discussion of recommended project
+specific mitigating activities and plans, to ensure more meaningful consultations.
+ Disclosure: A draft FESIA and LAP were reviewed during January 2011 and sent to the
+Infoshop on January 13, 2011. The final version of the FESIA and LAP were disclosed
+in-country on July 21 and on World Bank’s Info-shop on July 25 2011. Specific ESIAs
+that will be conducted by the SPCs and national agencies in charge of water and
+electricity will also be subject to disclosure (in country and at the Infoshop).
+
+
+
+B. Disclosure Requirements Date
+Environmental Assessment/Audit/Management Plan/Other:
+ Was the document disclosed prior to appraisal?                      Yes
+  Date of receipt by the Bank                                 01/10/2011
+  Date of "in-country" disclosure                             01/12/2011
+  Date of submission to InfoShop                              01/13/2011
+  For category A projects, date of distributing the Executive
+                                                              07/26/2011
+  Summary of the EA to the Executive Directors
+Resettlement Action Plan/Framework/Policy Process:
+  Was the document disclosed prior to appraisal?                   Yes
+  Date of receipt by the Bank                                 01/10/2011
+  Date of "in-country" disclosure                             01/12/2011
+  Date of submission to InfoShop                              01/13/2011
+Indigenous Peoples Plan/Planning Framework:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+Pest Management Plan:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+* If the project triggers the Pest Management and/or Physical Cultural Resources,
+the respective issues are to be addressed and disclosed as part of the Environmental
+Assessment/Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please
+explain why:
+
+
+
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the
+ISDS is finalized by the project decision meeting)
+
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) report?           Yes
+If yes, then did the Regional Environment Unit or Sector Manager (SM)       Yes
+review and approve the EA report?
+Are the cost and the accountabilities for the EMP incorporated in the       Yes
+credit/loan?
+OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy framework/process           Yes
+framework (as appropriate) been prepared?
+If yes, then did the Regional unit responsible for safeguards or Sector     Yes
+Manager review the plan?
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the World Bank’s    Yes
+Infoshop?
+Have relevant documents been disclosed in-country in a public place in a    Yes
+  form and language that are understandable and accessible to project-affected
+  groups and local NGOs?
+  All Safeguard Policies
+  Have satisfactory calendar, budget and clear institutional responsibilities    Yes
+  been prepared for the implementation of measures related to safeguard
+  policies?
+  Have costs related to safeguard policy measures been included in the project   Yes
+  cost?
+  Does the Monitoring and Evaluation system of the project include the           Yes
+  monitoring of safeguard impacts and measures related to safeguard policies?
+  Have satisfactory implementation arrangements been agreed with the             Yes
+  borrower and the same been adequately reflected in the project legal
+  documents?
+
+
+  D. Approvals
+
+Signed and submitted by:                              Name                         Date
+Task Team Leader:                   Ms Silvia Pariente-David                     07/25/2011
+Environmental Specialist:           Mr Gael A. Gregoire                          07/25/2011
+Social Development Specialist       Mr Andrea Liverani                           07/25/2011
+Additional Environmental and/or
+Social Development Specialist(s):
+
+Approved by:
+Regional Safeguards Coordinator:   Mr Hocine Chalal                              07/25/2011
+  Comments: Lene Lind, Social Reviewer
+  Maged Hamed, Env. Reviewer
+Sector Manager:                    Mr Jonathan D. Walters                        07/26/2011
+  Comments:
+

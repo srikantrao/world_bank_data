@@ -1,0 +1,576 @@
+                               INTEGRATED SAFEGUARDS DATA SHEET
+                                                 APPRAISAL STAGE
+.
+
+
+
+
+                                                                                        Report No.:ISDSA23209
+Date ISDSPrepared/Updated:                 26-Oct-2017
+Date ISDS Approved/Disclosed               26-Oct-2017
+I. BASIC INFORMATION
+    1. Basic Project Data
+    Country:                          Pakistan                     Project ID:             P154987
+    Project Name:                     National Transmission Modernization I Project (P154987)
+    Task Team Leader(s):              Anh Nguyet Pham,Anjum Ahmad
+    Estimated Appraisal               23-Oct-2017                  Estimated Board         19-Dec-2017
+    Date:                                                          Date:
+    Managing Unit:                    GEE06                        Financing               Investment Project
+                                                                   Instrument:             Financing
+    Is this project processed under OP 8.50 (Emergency                  Recovery) or OP            No
+    8.00(Rapid Response to Crises and         Emergencies)?
+                                               Financing (In USD Million)
+    Total Project Cost:           562.55                       Total Bank Financing: 425.00
+    Financing Gap:                0.00
+      Financing Source                                                                                     Amount
+    Borrower                                                                                                 137.55
+    International Bank for Reconstruction and Development                                                    425.00
+    Financing Gap                                                                                               0.00
+    Total                                                                                                    562.55
+    Environmental Category:           B - Partial Assessment
+    Is this a Repeater project?       No
+
+    2. Project Development Objective(s)
+    The Project Development Objective (PDO) of NTMP-I is to increase the capacity and reliability of selected
+    segments of the national transmission system in Pakistan and modernize key business processes of the National
+    Transmission and Dispatch Company.
+    3. Project Description
+    Concept. The project will support investments in high-priority transmission infrastructure, information and
+    communication technology (ICT), and technical assistance (TA) for improved management and operations.
+    Infrastructure investments will create new assets or rehabilitate existing parts of the system—transmission
+    substations, transmission lines, or a combination of the two—based on the NTDC’s identification of the highest
+    priority improvements. The ICT investment will establish a robust ICT infrastructure and roll out an Enterprise
+
+
+                                                    Page 1 of 11
+Resource Planning (ERP) system for enhanced efficiency of management and operations. The TA will help the
+NTDC implement the project and improve the company's capacity for sustainable system operation. NTMP-I
+consists of three components summarized below. The allocation of funds among the components will be
+flexible, allowing for adjustment during implementation in line with company priorities.
+
+Component A: Upgrading and Expansion of the Transmission Network (estimated cost US$498.99 million,
+consisting of a US$373.94 million IBRD loan and US$125.05 million in NTDC counterpart funds). This
+component consists of (a) expanding, augmenting, and upgrading of selected existing 500 kV and 220 kV power
+substations and associated lines; and (b) constructing new 765 kV, 500 kV, and 220 kV substations and
+transmission lines. The component will have groups of subprojects. Group 1 subprojects will consist of those
+that the NTDC has designated as having the highest priority. These subprojects have completed feasibility
+studies and required safeguards documentation. Group 2 subprojects will consist of potential subprojects that the
+NTDC’s Power Sector Development Plan (PSDP) for 2016–2021 has identified, but the details are not yet
+known. For inclusion in NTMP-I, these subprojects have to meet a set of technical, economic, and safeguards
+criteria. Financing for each subproject will become available when its proposal complies with the eligibility
+criteria, on a ‘first come, first approved’ basis until the commitment of all funds is allocated to the component.
+This design will create an incentive for timely implementation, allowing the shifting of funds between
+subprojects and recycling of cost savings.
+
+Component B: Deployment of the Enterprise Resource Planning (ERP) System (estimated cost US$37.5 million,
+consisting of a US$30 million IBRD loan and US$7.5 million in NTDC counterpart funds). This component will
+finance the first stage of an ERP program for the NTDC. The component includes implementation of the ICT
+infrastructure modernization and the development and deployment of an ERP system aimed at strengthening the
+company's selected management capabilities through using an integrated ICT system. The component includes
+the procurement of civil infrastructure such as data centers, provision of local area network outlets, software
+licenses, hardware for office automation, consulting services for implementation support and change
+management, and ICT capacity building and strategic sourcing to ensure the sustainability of the ERP system.
+
+Component C: Project Management, Technical Assistance, and Capacity Building (estimated cost US$25
+million, consisting of a US$20 million IBRD loan and US$5 million in NTDC counterpart funds). This
+component will finance (a) project management and implementation support services; (b) strengthening of
+NTDC’s planning, operations, and maintenance capability; (c) modernization of NTDC’s key business
+processes; (d) preparation of new investments; and (e) other priority TA and capacity building to be agreed
+between the NTDC and the World Bank.
+4. Project location and Salient physical characteristics relevant to the safeguard analysis (if
+known)
+The subprojects under Component A are scattered in various urban, peri-urban and rural areas in all four
+provinces of Pakistan. A large number of subprojects are located in Punjab Province and in the Islamabad
+Capital Territory and the remaining subprojects are located in the provinces of Sindh, Khyber Pakhtunkhwa
+(KP) and Balochistan. The majority of the sub stations will be located near the load centers, which are urban
+and peri- urban areas. Component B and C are technical assistance activities which will be carried out within the
+existing premises of NTDC and can be considered to have no safeguards impacts.
+
+In capacity upgrading (expansion) of existing substations, the key activity is to install additional new 500/220kV
+or 220/132 kV power transformers, reactors and associated equipment. In rehabilitation (augmentation) of
+existing substations, existing 500 kV or 220 kV transformers and associated equipment will be replaced with
+new ones of higher capacity. Rehabilitation also includes conversion of existing substations with open air
+insulated switchyard (AIS) to more compact and indoor gas insulated substations (GIS). These activities do not
+require land acquisition and will be implemented within the premises of these substations. NTDC has advised
+
+
+                                                Page 2 of 11
+that PCB are not in use in any of its existing substations and are not used in any new substations. Safe disposal
+of replaced equipment will require adequate mitigation measures to ensure environmental protection and
+avoiding contamination of natural resources like water and air. Health, safety and construction related
+environmental impacts need to be identified in the EMP and adequately implemented. Some upgrading
+subprojects in Group 2 may require limited additional pieces of land, which is normally adjacent to the existing
+substations.
+
+New 765 kV, 500 kV and 220 kV substations typically have two to four power transformers and associated
+equipment at 765, 500, 220 and 130 kV, a control room and ancillary equipment. The key components in 750
+kV, 500 kV and 220 kV power substations are; (i) switchyard bay, (ii) control building, (iii) residential houses
+for staff with water supply and sanitation facilities (iv) fencing and landscaping, and (v) short access road.
+Typically, a new substation requires medium or short transmission lines connecting it to the existing
+transmission network. A new substation requires an enclosed, leveled site free of any vegetation or human
+habitation (except for substation operators), typically 50-70 acres for a 500kV substation and 30-40 acres for a
+220kV substation. New substations may also require additional permanent and temporary land acquisition for
+500 or 220 kV transmission connections or upgrading or new existing access roads. New subproject sites can be,
+and normally are, selected flexibly within a certain area to minimize the scale of such structures and impacts on
+environment or land acquisition.
+5. Environmental and Social Safeguards Specialists on the Team
+ Ahmad Imran Aslam, Environmental Safeguards Specialist
+ Imran-ul Haq, Social Safeguards Specialist
+ Marcelo Hector Acerbi, Environmental Safeguards Specialist
+ Salma Omar, Social Safeguards Specialist
+6. Safeguard Policies That Might Apply
+Safeguard Policies                            Triggered?     Explanation (Optional)
+Environmental Assessment OP/BP 4.01           Yes            The proposed project will upgrade or expand select
+                                                             substations and construct new substations and
+                                                             transmission lines. These activities may have
+                                                             temporary, reversible and short to medium term
+                                                             environmental impacts which can be adequately
+                                                             mitigated through a well-planned environmental
+                                                             management and mitigation plans. Based on the
+                                                             proposed activities and likely environmental
+                                                             impacts, which are generally construction related,
+                                                             the project has been rated as category B.
+
+                                                             The project has adopted a hybrid approach. Two
+                                                             ESIAs and an ESMP have been prepared for known
+                                                             sites and an ESMF has been prepared to guide the
+                                                             preparation of Group 2 subprojects during project
+                                                             implementation. The ESMF provides guidance for
+                                                             noneligible subprojects, including those that may be
+                                                             classified as Category A and procedures and
+                                                             guidelines for screening proposed subprojects and
+                                                             confirming the most appropriate type of safeguard
+                                                             instrument.
+
+
+                                                Page 3 of 11
+Natural Habitats OP/BP 4.04              Yes         Site visits and screening undertaken for Group 1
+                                                     subprojects have determined that no natural, or
+                                                     critical habitats will be impacted. However, as
+                                                     NTDC can update or propose new subprojects in
+                                                     Group 2, some of the new transmission lines in
+                                                     Group 2 may pass through natural or critical
+                                                     habitat. The ESMF provides a screening checklist
+                                                     and suitable mitigation measures for subprojects in
+                                                     Group 2. No subproject will be approved for
+                                                     funding, if it causes: (a) significant degradation or
+                                                     conversion of critical natural habitats or (b)
+                                                     significant degradation or conversion of natural
+                                                     habitats.
+Forests OP/BP 4.36                       Yes         The project does not involve any commercial
+                                                     plantation or its harvesting. No subproject under
+                                                     Group 1 impacts or passes through forests. Some of
+                                                     the new transmission lines in Group 2 may pass
+                                                     through forests. The ESMF provides a screening
+                                                     checklist and suitable mitigation measures for
+                                                     subprojects in Group 2. No subproject will be
+                                                     approved for funding, if it causes (a) significant
+                                                     conversion or degradation to critical forest habitat;
+                                                     (b) significant reduction or degradation to the
+                                                     ecosystem function of, or resources within a forest;
+                                                     and change or affect the rights and welfare of
+                                                     people and their level of dependence upon or
+                                                     interaction with forests.
+Pest Management OP 4.09                  No          NTDC does not use chemicals or pesticides for
+                                                     vegetation removal or land clearing under the
+                                                     transmission lines.
+Physical Cultural Resources OP/BP 4.11   Yes         No subproject under Group 1 impacts on Physical
+                                                     Cultural Resources (PCR). There is flexibility in the
+                                                     location of new substations and transmission lines
+                                                     under Group 2 to avoid negative impacts on
+                                                     physical cultural resources. Therefore, impacts on
+                                                     Cultural Resources can be avoided or minimized in
+                                                     design for new subprojects under Group 2. The
+                                                     ESMF provides a procedure for screening out
+                                                     projects with significant impacts and a PCR
+                                                     management plan into the ESMP or ESIA for minor
+                                                     impacts. No subproject will be approved for
+                                                     funding, if it causes (a) temporary or permanent
+                                                     relocation or any other type of impact on physical
+                                                     cultural resources known to be of local, regional or
+                                                     national significance based on national or
+                                                     Provincial lists, proposed national or Provincial lists
+                                                     and/or identified during public consultation with
+                                                     local affected groups and (b) any physical cultural
+                                                     resources considered especially important or
+
+                                          Page 4 of 11
+                                                                 sensitive particularly to local groups (e.g.
+                                                                 gravesites) are located on the site.
+                                                                 All ESMP will contain a chance find procedure.
+    Indigenous Peoples OP/BP 4.10                  No            No subproject in Group 1 is located in areas where
+                                                                 Indigenous People (IP) live. No potential subproject
+                                                                 in Group 2 is located in Chitral District in Khyber
+                                                                 Pakhtunkhwa where the only known indigenous
+                                                                 people are present. However, the appraisal of Group
+                                                                 2 Subprojects during NTMP-I's implementation will
+                                                                 include a review to determine OP 4.10 application.
+    Involuntary Resettlement OP/BP 4.12            Yes           The project will have low-intensity impacts
+                                                                 involving some temporary or permanent loss of
+                                                                 land to new substations, transmission tower
+                                                                 foundations, and line stringing. Two Resettlement
+                                                                 Action Plans (RAPs) have been prepared for Group
+                                                                 1 projects involving land acquisition. NTDC
+                                                                 developed a Land Acquisition and Resettlement
+                                                                 Framework (LARF), which the Bank approved
+                                                                 under CASA 1000 Project and other on-going
+                                                                 projects with NTDC. This LARF will serve as the
+                                                                 Resettlement Policy Framework for NTMP-I. A
+                                                                 Social Management Framework (SMF) as part of
+                                                                 the integrated ESMF has also been prepared to deal
+                                                                 with other social issues.
+    Safety of Dams OP/BP 4.37                      No            The project does not involve any works in, on, or
+                                                                 around any dam so this policy is not triggered.
+    Projects on International Waterways OP/BP No                 The project does not involve any works on any of
+    7.50                                                         the river/international waterways as defined in the
+                                                                 Bank policy.
+    Projects in Disputed Areas OP/BP 7.60          No            The project is not located in disputed areas as
+                                                                 defined in the Bank's policy.
+.
+
+
+
+
+    II. Key Safeguard Policy Issues and Their Management
+    A. Summary of Key Safeguard Issues
+    1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe
+    any potential large scale, significant and/or irreversible impacts:
+    The following potential impacts are identified during construction for rehabilitation and expansion of
+    substations: (i) increased level of dust and noise from the use and movement of machinery; (ii) non-toxic solid
+    waste during construction; (iii) soil and water contamination due oil spill or leakage from machinery or
+    transformers; (v) exposure of construction worker and communities to Electric and Magnetic Field (EMF) and
+    risk of falls and electrocution; (vi) discrimination in the workforce, employment or abuse of children; (vii)
+    exposure of community to construction workers (unwanted attention or abuse), potential conflicts between local
+    communities and labor work force and (viii) safety issues from increased traffic. Impacts during operation
+    include (i) oil leaks from transformers; (ii) fire and emergency preparedness; (iii) solid wastes and (iv) worker
+    health and safety.
+
+    For new substations and transmission lines, in addition to the above impacts, other potential issues include the
+
+                                                    Page 5 of 11
+management of vegetation clearance, sediment and erosion control, conversion of agriculture land to industrial
+land use, management of water supply and sanitation in the residential colony. The visual impacts and ‘urban
+sprawl’ that can result from new substations is difficult to mitigate except through robust analysis of alternatives
+during site selection.
+
+Land acquisition processes, including public consultation and satisfactory compensation for the population
+residing in the project area, are the main social issues under the project. 750/500/220 kV Islamabad West
+substation (IWS) requires about 225 acres and is expected to have impacts on 1690 people in 260 households.
+Among affected households, 10 families will be relocated; 58 families will lose all their productive land; some
+25 percent will lose land larger than three acres; the rest will lose smaller parcels of land. There are 12 families
+considered to be “vulnerable”. There will be no land acquisition from households headed by women. Nowshera
+500 kV substation will require 145 acres, including land for the converter station under the Central Asia South
+Asia Transmission and Trading Project (CASA). The substation and the associated transmission line of 9.5 km
+is expected to affect 1140 people in 176 households. Among 59 households impacted by the substation-- 51
+titleholders and 8 sharecroppers-- 11 households (18.5 percent) will lose all their agricultural land and the
+remaining 48 families (81.5 percent) will lose 40-50 percent of the land they own. Therefore, all PAPs will face
+significant impacts, which include loss of land, crops, structures, trees, other assets and livelihoods. The
+transmission line will affect 117 families, among whom 29 will lose land permanently for tower foundations and
+the remaining 90 households will be temporarily affected as their lands are in the transmission line Right of Way
+(ROW). They will receive compensation for loss of land, structures, crops and livelihoods. A total of 45 affected
+families were identified as vulnerable as they live under the poverty line. These families will be eligible for
+additional payments.
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the
+project area:
+The project would reinforce the national transmission system and thus benefit all segments of the population
+connected to the grid from: i) improved availability of the power supply, ii) reduced un-served demand, and iii)
+reduced number and duration of power outages. These benefits contribute to economic growth and household
+quality of life. Furthermore, the project is anticipated to reduce GHG emissions from displacing self-generation
+using diesel with cleaner grid-supplied electricity. The GHG emissions reduction is estimated at 52.9 million
+tons of CO2 over the project lifetime.
+
+Transmission lines will limit land use under and near the right of way for the long term. This shall be addressed
+in the resettlement entitlements. The conversion of agricultural land to industrial land on the outskirts of towns
+and cities may encourage or exacerbate urban sprawl and land development, but this long-term impact can only
+be managed through town planning regulations rather than at the project level.
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+For Islamabad West, the ESIA evaluated three alternative sites. No environmentally sensitive receptors are
+found at the three sites. Socially, the impacts on all the proposed sites would be similar since all these sites are
+being used for agriculture and devoid of any residential structures. The site at Kamalpur Miyan is selected due to
+better technical feasibility and fewer social impacts, such as availability of flat land and existing access road.
+Further, due to availability of an existing access road, the selected site has lesser social impacts compared to
+other two sites where more land acquisition and resettlement would be required for building an access road. For
+Nowshera, the ESIA considered two sites and the location at Azakhel Bala near Nowshera was selected due to
+better security and availability of suitable land. The ESMF includes the analysis of alternatives as part of the
+environmental assessment process of the sub-projects to be financed under Group 2.
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of
+borrower capacity to plan and implement the measures described.
+ESMP for Group I Projects: For the 31 substation upgrades and extensions identified in Group 1 Subprojects,
+
+                                                 Page 6 of 11
+the environmental and social impacts will be managed under an ESMP. The key risks concern oil spills, poor
+waste management, and workforce health and safety. Mitigation solutions will focus on pollution, waste and
+emission control, the management of nuisances (noise, dust) and workforce accommodation and conduct.
+Disruption to the community living in the areas of the subprojects should be minimal because all work will take
+place within existing substation compounds. Nevertheless, the ESMP states that the community will be
+consulted and informed of the construction activities and the GRM will be used to manage and resolve
+complaints. For the construction phase, the ESMP for each substation will be included in the bidding documents
+and contracts as legal obligations for contractors to implement. After project commissioning, the ESMP will be
+transferred to the respective operating units in NTDC for implementation during the operation and maintenance
+phase.
+
+ESIAs for Islamabad West and Nowshera: NTDC has prepared ESIAs and ESMPs for the new Islamabad West
+and Nowshera substations. The key environmental issues regarding these substations are the conversion of
+agricultural land to industrial land use as described above. Linked to this conversion are concerns about the
+management of water supply and sanitation in the residential colony, noise and electro-magnetic radiation from
+the equipment, and the construction-related impacts (noise, dust, traffic, aggregate quarrying, worker and
+community health and safety). There will be no impacts on natural habitats, forests or physical cultural
+resources. The landscape impacts at the Islamabad West site cannot be mitigated as the site is located at the edge
+of Islamabad and the ESIA notes that urban development will continue in this area with or without the
+substation. Construction-related impacts are manageable using controls on timing of works, traffic
+management, and dust management, along with ongoing community consultations. Routine site operations will
+include checking and maintenance regarding sanitation, water supply and storm water.
+
+The ESMF provides procedures and guidelines for screening proposed subprojects and confirming the most
+appropriate type of safeguard instrument. Options for safeguards instruments for Group 2 Subprojects include
+updating the Group 1 ESMP for subprojects that only require extension or augmentation, or preparing project-
+specific ESIAs and ESMPs for new substations and transmission lines. The ESMF also includes a screening
+checklist to exclude all investment proposals that may cause significant or irreversible environmental and social
+impacts. Each subproject safeguards instrument will require clearance by the Bank prior to funding approval.
+
+NTDC is taking a two-pronged approach to social safeguards. For sub-projects under Group 1 involving land
+acquisition, two RAPs have been prepared. These include developments in the Islamabad West and Nowshera
+substations and the associated transmission lines. For Group 2, NTMP-I will use the LARF that NTDC adopted
+with the World Bank agreement for the CASA 1000 Project, the Dasu Hydropower Project (HPP), and the
+Additional Financing for Tarbela 4 HPP. Additionally, the ESMF includes mitigation measures for adverse
+social impacts related to labor, gender, community health and safety and other aspects that do not require
+resettlement.
+
+NTDC has prepared a Gender Assessment for NTMP-I. This assessment includes an analysis of current
+practices and their gender impact as well as recommendations on addressing gender impacts during
+implementation. The analysis shows that there is a gender disparity in the country between men and women in
+education and labor force participation generally, and also in the energy sector. Women are particularly
+vulnerable in the rural areas. The project will be gender informed through the analysis of relevant gender
+information and monitoring of appropriate actions. The project will minimize negative effects on female PAPs
+through implementation of the LARF, RAPs and consultations. The Project will also develop a Gender Action
+Plan for NTDC which will be used to address NTDC’s institutional level gender gaps.
+
+The citizen engagement in NTMP-I will take place primarily through: (i) the consultation process for ESIA and
+RAP and (ii) the Grievance Redress Mechanism (GRM) with people and communities.
+
+
+
+                                                Page 7 of 11
+Borrower Capacity:
+NTDC is the project implementing agency. The Multi-Function Program Management Unit (MFPMU) is
+responsible for overall project coordination between the World Bank and other departments of NTDC and
+preparation of progress reports. Two regional project offices, General Manager Project Delivery North (GM PD-
+North) and South (GM PD-South) will be responsible for implementing of the safeguards instruments for all
+subprojects and for maintaining regular contact with local community and authorities.
+The regional GM PDs will manage its responsibilities through their own Resettlement Units (RU) and two
+existing the Environment and Social Cells (ESIC). The first ESIC which administratively reports to the MFPMU
+(so called ESIC MFPMU), is technically responsible to the two GMs PD for the preparation and implementation
+of all environment instruments under NTMP-I except ISW and Nowshera. The second ESIC administratively
+under the Dasu Project Management Unit (so called ESIC DTLP) which in turns reports to the GM PD North,
+will manage the safeguards instruments of ISW and Nowshera. The regional project offices will also get support
+from two external consultants: Project Supervision Consultant (PSC) for supervision during construction and
+Project Design and Procurement Consultant (PDPC) for preparation of safeguards instruments for Group 2 and
+assist with the consultation.
+
+ESIC MFPMU. The ESIC MFPMU was established in 2007, initially to manage the environmental and social
+requirements of ADB projects. Later, its functions have been expanded to cover all donor financed investments,
+including the WB projects with exception of special projects. The cell is staffed with a Manager (environment
+and social safeguards), a Deputy Manager (environment) and two Assistant Managers. The ESIC will (i) screen
+Group 2 subprojects and draft TOR for the safeguards instruments; (ii) ensure the quality of the ESIAs, ESMP
+and RAP for Group 2 subprojects,- which will be prepared by the PDPC- and that these documents are approved
+by relevant government authorities; (iii) supervise the implementation of ESMPs (excluding the direct
+supervision of the Contractor’s ESMP which will be done by the PSC). The team will also supervise
+implementation of the RAP of Group 2 subprojects. NTDC is committed to engage an additional environment
+and a social staff to the ESIC to manage its workload.
+
+ESIC DTLP. The ESIC DTLP is staffed with a Manager (environment and social safeguards), a Deputy (social)
+and an Assistant Manager (environment). The cell will (i) supervise the implementation of ESMPs for IWS and
+Nowshera (excluding the direct supervision of the Contractor’s ESMP which will be done by the Project
+Supervision Consultant); and (ii) supervise implementation of RAP for IWS and Nowshera. The ESIC DTLP
+also plans to engage an additional environment and a social staff to manage its workload.
+
+The two ESICs will ensure that the bidding documents include the ESMP and that the Contractor prepares an
+acceptable Contractor’s ESMP before works begin. ESICs will compile quarterly monitoring reports on ESMP
+and RAP compliance to be sent to the MFPMU and the World Bank, throughout the construction period. The
+ESICs are expected to provide trainings to the NTDC field personnel responsible for monitoring of
+environmental compliance during both construction and operation and maintenance phases of the project. The
+safeguards instruments (ESMP, ESMF, ESIAs and RAPs) prepared for NTMP-I include capacity building and
+trainings to be conducted for the ESIC and regional project offices to carry out their functions. Close monitoring
+and oversight by the Bank’s safeguard team is also essential to ensure satisfactory safeguard compliance.
+
+Resettlement Units. Each regional GM PD has a Resettlement Unit (RU). The composition of RU includes
+among other members, the social development/resettlement officer as a focal member, social mobilization staff,
+land acquisition collector and construction supervision consultant. The sub-project director is the RU convener.
+The RU has overall responsibility for the updating, implementation and monitoring of RAPs in coordination
+with the District Administration, Revenue Department and other line Departments. NDTC will hire a team of
+individual experts to conduct independent monitoring for the implementation of RAPs. The independent
+consultants shall review the progress throughout RAP implementation, as reported by NTDC; evaluate the status
+of achieving the RAP’s objectives; identify any gaps and propose remedial measures for implementation; and
+
+
+                                                Page 8 of 11
+   assess the process of RAP implementation as well as its compliance with Bank procedures.
+
+   Implementation Support Consultants. The PSC will employ environmental and social safeguard specialists to
+   supervise the implementation of the Contractor’s ESMP, provide on-the-job training to NTDC fields staff and
+   report regularly to the GM PDs and the MFPMU. Both consultants will provide tailor-made training and
+   capacity building to ESICs and the regional offices on relevant safeguard instruments applied to NTMP-1.
+   5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on
+   safeguard policies, with an emphasis on potentially affected people.
+   The affected people and communities along the subprojects are key project stakeholders. Other stakeholders
+   include NGO’s and other civil society groups that represent environmental interests in the project area of
+   influence and government officials from relevant departments or institutions. The key and other stakeholders
+   were consulted on the EIAs, ESMP and RAPs of Group 1 Subprojects. Consultation on the ESMF have also
+   taken place with the relevant NGOs and other stakeholders. The feedbacks from the consultations have been
+   incorporated into the NTMP-1’s design and the final ESIAs, ESMP, ESMF and RAPs. The mechanisms for the
+   future consultations have also been included in these safeguards instruments.
+
+   The ESIAs, ESMP, ESMF and RAPs in English and their executive summaries in Urdu and Pashto have been
+   disclosed on NTDC’s website and in the Bank’s Infoshop.
+   .
+
+
+
+
+B. Disclosure Requirements
+Environmental Assessment/Audit/Management Plan/Other
+Date of receipt by the Bank                                          12-Jun-2017
+Date of submission to InfoShop                                       20-Sep-2017
+For category A projects, date of distributing the Executive
+Summary of the EA to the Executive Directors
+"In country" Disclosure
+PHENVCTRY
+
+
+
+
+    Pakistan                                                                   12-Jun-2017
+ Comments: As of October 4, 2017, two ESIAs, an ESMP and ESMF for the project activities have been
+ disclosed on NTDC website. Executive Summaries of the two ESIAs in local languagues --Urdu and Pashto--
+ have been disclosed in the same website.
+ Resettlement Action Plan/Framework/Policy Process
+ Date of receipt by the Bank                                      12-Jun-2017
+ Date of submission to InfoShop                                   20-Sep-2017
+ "In country" Disclosure
+PHRESCTRY
+
+
+
+
+ Pakistan                                                                   12-Jun-2017
+ Comments: As of October 4, 2017, two RAPs and LARF for the project activities have been disclosed on NTDC
+website. Executive Summaries of the two RAPs in local languagues --Urdu and Pashto-- have been disclosed in
+the same website.
+ If the project triggers the Pest Management and/or Physical Cultural Resources policies, the respective
+issues are to be addressed and disclosed as part of the Environmental Assessment/Audit/or EMP.
+ If in-country disclosure of any of the above documents is not expected, please explain why::
+
+
+
+C. Compliance Monitoring Indicators at the Corporate Level
+PHCompliance
+
+
+
+
+ OP/BP/GP 4.01 - Environment Assessment
+ Does the project require a stand-alone EA (including EMP) Yes [X]              No []         NA          []
+
+                                                 Page 9 of 11
+          report?
+          If yes, then did the Regional Environment Unit or Practice       Yes [X]   No []    NA    []
+          Manager (PM) review and approve the EA report?
+          Are the cost and the accountabilities for the EMP                Yes [X]   No []    NA    []
+          incorporated in the credit/loan?
+PHCompliance
+
+
+
+
+          OP/BP 4.04 - Natural Habitats
+          Would the project result in any significant conversion or        Yes []    No [X]   NA    []
+          degradation of critical natural habitats?
+          If the project would result in significant conversion or         Yes []    No []    NA    [X]
+          degradation of other (non-critical) natural habitats, does the
+          project include mitigation measures acceptable to the Bank?
+PHCompliance
+
+
+
+
+          OP/BP 4.11 - Physical Cultural Resources
+          Does the EA include adequate measures related to cultural        Yes [X]   No []    NA    []
+          property?
+          Does the credit/loan incorporate mechanisms to mitigate the      Yes [X]   No []    NA    []
+          potential adverse impacts on cultural property?
+PHCompliance
+
+
+
+
+          OP/BP 4.12 - Involuntary Resettlement
+          Has a resettlement plan/abbreviated plan/policy                  Yes [X]   No []    NA    []
+          framework/process framework (as appropriate) been
+          prepared?
+          If yes, then did the Regional unit responsible for safeguards    Yes [X]   No []    NA    []
+          or Practice Manager review the plan?
+          Is physical displacement/relocation expected?                    Yes [X]   No []    TBD   []
+
+          65 Provide estimated number of people affected to date, or
+          to be affected.
+          Is economic displacement expected? (loss of assets or access     Yes [X]   No []    TBD   []
+          to assets that leads to loss of income sources or other means
+          of livelihoods)
+
+          2,834 Provide estimated number of people affected to date,
+          or to be affected.
+PHCompliance
+
+
+
+
+          OP/BP 4.36 - Forests
+          Has the sector-wide analysis of policy and institutional         Yes []    No []    NA    [X]
+          issues and constraints been carried out?
+          Does the project design include satisfactory measures to         Yes []    No []    NA    [X]
+          overcome these constraints?
+          Does the project finance commercial harvesting, and if so,       Yes []    No []    NA    [X]
+          does it include provisions for certification system?
+PHCompliance
+
+
+
+
+          The World Bank Policy on Disclosure of Information
+          Have relevant safeguard policies documents been sent to the      Yes [X]   No []    NA    []
+          World Bank's Infoshop?
+          Have relevant documents been disclosed in-country in a           Yes [X]   No []    NA    []
+          public place in a form and language that are understandable
+          and accessible to project-affected groups and local NGOs?
+PHCompliance
+
+
+
+
+          All Safeguard Policies
+          Have satisfactory calendar, budget and clear institutional       Yes [X]   No []    NA    []
+          responsibilities been prepared for the implementation of
+          measures related to safeguard policies?
+
+                                                         Page 10 of 11
+Have costs related to safeguard policy measures been          Yes [X]     No []        NA   []
+included in the project cost?
+Does the Monitoring and Evaluation system of the project      Yes [X]     No []        NA   []
+include the monitoring of safeguard impacts and measures
+related to safeguard policies?
+Have satisfactory implementation arrangements been agreed     Yes [X]     No []        NA   []
+with the borrower and the same been adequately reflected in
+the project legal documents?
+
+
+III. Approval
+Task Team Leader(s):                Name:Anh Nguyet Pham,Anjum Ahmad
+Approved By:
+Practice Manager/Manager:           Name: Gailius J. Draugelis          Date: 26-Oct-2017
+                                    (PMGR)
+
+
+
+
+                                             Page 11 of 11
+

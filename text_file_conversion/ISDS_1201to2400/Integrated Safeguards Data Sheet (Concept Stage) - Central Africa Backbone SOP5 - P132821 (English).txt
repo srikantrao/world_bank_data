@@ -1,0 +1,277 @@
+                                           INTEGRATED SAFEGUARDS DATA SHEET
+                                                    CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                              Report No.: ISDSC5106
+
+                         Date ISDS Prepared/Updated: 21-Apr-2014
+                         Date ISDS Approved/Disclosed: 06-May-2014
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:           Africa                           Project ID:     P132821
+                            Project Name:      Central Africa Backbone SOP5 (P132821)
+                            Task Team          Jerome Bezzina
+                            Leader:
+                            Estimated          30-Apr-2014                      Estimated       15-Jul-2014
+                            Appraisal Date:                                     Board Date:
+                            Managing Unit:     TWICT                            Lending         Adaptable Program Loan
+                                                                                Instrument:
+                            Sector(s):         General information and communications sector (20%), Information technology
+                                               (30%), Telecommunications (50%)
+                            Theme(s):          Infrastructure services for private sector development (40%), Regulation and
+                                               competition policy (40%), State-owned enterprise restru cturing and
+                                               privatization (20%)
+                            Financing (In USD Million)
+Public Disclosure Copy
+
+
+
+
+                            Total Project Cost:    138.00                    Total Bank Financing:        91.50
+                            Financing Gap:           0.00
+                              Financing Source                                                          Amount
+                              BORROWER/RECIPIENT                                                           0.00
+                              International Development Association (IDA)                                 91.50
+                              Foreign Private Commercial Sources (identified)                             46.50
+                              Total                                                                      138.00
+                            Environmental B - Partial Assessment
+                            Category:
+                            Is this a          No
+                            Repeater
+                            project?
+
+                           B. Project Objectives
+                           The development objective of the proposed project is consistent with the PDO for the CAB Program:
+                           to contribute to increase geographical reach and usage of regional broadband infrastructure and to
+                           reduce the price of services to enable more people in the DRC to access ICT services.
+                         C. Project Description
+                         The proposed project would become the fifth phase of the Central African Backbone (CAB) Series of
+                         Projects (SOP) Program. The Bank has been actively supporting the connectivity agenda in Africa
+Public Disclosure Copy
+
+
+
+
+                         under regional projects such as the Regional Communications Infrastructure Program (RCIP) in
+                         Eastern and Southern Africa (started in 2007), the West Africa Regional Communications
+                         Infrastructure Program (WARCIP) (started in 2010), and the CAB program (started in 2009). These
+                         programs have addressed connectivity challenges, such as increasing access to submarine
+                         connectivity, managing cross-border links to promote seamless and redundant regional connectivity,
+                         and expanding national networks to deliver broadband Internet to first and second tier urban centers.
+
+                         The proposed CAB5 project builds on the overall regional program, and would have potential
+                         benefits within the DRC and across the borders it shares with nine other countries. The World Bank
+                         report, “Reviving the Great Lakes: A World Bank Group Regional Initiative for Peace, Stability and
+                         Economic Development ,” which was submitted to the Board of Directors in June 2013 and which
+                         lays out a strategy for regional development looking at linkages between peace security and long
+                         term development in the great lakes region, mentions the CAB Program and the proposed CAB5
+                         project as examples of the World Bank Group’s regional approach to development : “The CAB5
+                         project brings the prospect of linking the east of the DRC to Kinshasa and to east African countries
+                         and the world. All countries in the region have an interest in exploiting ICT for development and for
+                         pursuing regional connectivity and regional ICT solutions.” The strategy was developed in support of
+                         the February 24, 2013 Peace, Security and Cooperation framework for the DRC and the region.
+
+                         More specifically, the second pillar of the Great Lakes’ Regional Development Initiative, which is
+                         centered on Economic Cooperation and Regional Integration, stresses that all countries in the Great
+                         Lakes region have a common interest in developing infrastructure to increase regional connectivity.
+                         It also mentions that the proposed CAB5 Project would not only establish communications links
+                         connecting the east of the DRC to Kinshasa, but also increase DRC’s connectivity to the region and
+                         globally, allowing for opportunities in trade and improve coordination of security efforts. The second
+Public Disclosure Copy
+
+
+
+
+                         pillar further promotes the “important opportunities for close coordination of the CAB5 project and
+                         the RCIP project which is being implemented in Burundi, Rwanda and Uganda and other countries in
+                         east Africa”.
+
+                         IDA financing would be an important catalyst for continued and efficient infrastructure development
+                         in the DRC and surrounding countries. DRC’s telecommunications networks are severely
+                         fragmented, with many operators having a presence in just a portion of the country. Without any
+                         coordination national connectivity will likely be hindered which would in turn diminish the role that
+                         DRC could potentially have in furthering connectivity in the region. The role of IDA financing
+                         would therefore be two-fold: (i) a World Bank project would support the establishment of a
+                         nationwide —as opposed to fragmented— connectivity network that would lead to greater provision
+                         of broadband Internet; and (ii) IDA financing would not only fill the funding gap that is required to
+                         fully leverage the various connectivity investments within the country, across borders, and to the
+                         submarine cables, but also would provide assurance to private companies to overcome their
+                         reluctance to invest in the sector because of the security situation in the region.
+                         Countries participating in the regional connectivity programs are required to endorse a set of key
+                         principles –. The key principles include, committing to an Open Access Policy and promoting Public
+                         Private Partnerships (PPP). An Open Access Policy would ensure that rules are put in place so that
+                         all market players have fair access to the necessary infrastructure including backbone infrastructure
+                         which tends towards a natural monopoly due to its high upfront investment requirement.
+                         Furthermore, in order to avoid a natural monopoly, a PPP vehicle could ensure communal ownership
+                         and/or management of the high-investment backbone infrastructure, facilitating continued national
+                         and regional infrastructure development, especially in countries where individual operators have
+Public Disclosure Copy
+
+
+
+
+                         limited investment capacity and opportunities.
+
+                         Network deployment under the proposed project would be conducted through a PPP (to be
+                         established) and defined Open Access arrangements between the relevant operators. The project
+                         would use a cooperative PPP model (i.e. infrastructure sharing consortium) between operators in the
+                         DRC to share costs through a common vehicle. The settlement of a cooperative PPP structure in the
+                         DRC has been extensively discussed since September 2012 with the industry stakeholders under a
+                         Bank-supported technical assistance project, DRC ICT Regulatory Advisory Services (P132812).
+                         This intense policy dialogue led to the finalization of a MoU between GoDRC (COPIREP and
+                         MINPTT) and the private operators in the country. All participating that would develop, operate and
+                         commercialize on a wholesale basis the network it builds. In light of these developments, a Project
+                         Preparation Advance (PPA) has been requested to help establish the PPP as a legal entity prior to
+                         Board approval of the CAB5 project.
+
+                         Project Components. Four components have been identified: Component 1 – Enabling environment
+                         at the regional and national levels; Component 2 – Connectivity and purchase of bandwidth;
+                         Component 3 – Promotion of ICT sector and digitalization; Component 4 – Project management and
+                         monitoring & evaluation.
+
+                         Bank funds would be provided through Investment Project Financing, Series of Projects (SOP) . The
+                         Project would be executed over a five-year period with total financing of around US$138 million,
+                         including US$46.5 million contribution from the private operators.
+                         D. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+                         The proposed CAB5 Project would aim to contribute to the deployment of about 3,700 km of the
+Public Disclosure Copy
+
+
+
+
+                         7,000 km target fiber optic network to be built in a modular way. The proposed network design
+                         would connect the three key economic clusters, Kinshasa, Lubumbashi, Goma, including appropriate
+                         cross border connections. These three key economic clusters will then be connected together utilizing
+                         existing links from Mbuji-Mayi to form a comprehensive national broadband infrastructure. The
+                         proposed project would finance $103 million in infrastructure (of which $46.5 million would come
+                         from private stakeholders).
+                         E. Borrowers Institutional Capacity for Safeguard Policies
+                         The Government of the DRC has experience with the Bank’s Safeguard Policies due to Bank-funded
+                         projects across different sectors. In addition, the country also has a national agency, the GEEC
+                         (Groupe d’études environnementales du Congo), in charge of technical approval of the
+                         environmental and social safeguard instruments for all projects and activities which must be
+                         implemented in the country. This agency is also familiar with the safeguard instruments such as the
+                         Environmental and Social Management Framework (ESMF) and the Resettlement PolicyFramework
+                         (RPF).
+
+                         Nevertheless capacity levels of the ministry in charge of telecommunication and of the GEEC remain
+                         low and need continued strengthening to address properly safeguard issues during the project’s
+                         implementation.
+                           F. Environmental and Social Safeguards Specialists on the Team
+                           Paula F. Lytle (AFTCS)
+Public Disclosure Copy
+
+
+
+
+                           Abdoulaye Gadiere (AFTN1)
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+                           Safeguard Policies                Triggered?   Explanation (Optional)
+                           Environmental Assessment OP/      Yes          The project under component 2 foresees three
+                           BP 4.01                                        interregional links to neighboring countries
+                                                                          including fiber optic cables, terminal equipment
+                                                                          and switches. Furthermore, the construction of
+                                                                          the e-waste center and the network is also
+                                                                          foreseen under component 3. All these activities
+                                                                          are expected to have potential adverse impacts
+                                                                          even if on limited scale.
+                                                                          Although the components and activities of the
+                                                                          project are relatively well known the exact areas
+                                                                          where the activities will be implemented has not
+                                                                          yet been determined. An Environmental and
+                                                                          Social Management Framework (ESMF) is
+                                                                          being prepared, and will be reviewed, consulted
+                                                                          upon and disclosed within the DRC and at the
+                                                                          InfoShop prior the appraisal.
+                           Natural Habitats OP/BP 4.04       Yes          The project is not expected to be implemented
+                                                                          in natural habitats. But as the Democratic
+                                                                          Republic of Congo is known as being a forested
+                                                                          country the probability to meet natural habitats
+                                                                          is not negligible. So, this policy is triggered in
+Public Disclosure Copy
+
+
+
+
+                                                                          order to pay attention to these particular
+                                                                          ecosystems during the implementation of the
+                                                                          project. However, no specific safeguard
+                                                                          instrument is required. The ESMF which will be
+                                                                          prepared in accordance with OP/PB4.01 will
+                                                                          take into consideration this issue.
+                           Forests OP/BP 4.36                No           The project is not expected to have significant
+                                                                          adverse impacts on the forest resources due to
+                                                                          the weak space influence of the fiber optic
+                                                                          cables and other equipment
+                           Pest Management OP 4.09           No           The project does not require pest management.
+
+                           Physical Cultural Resources OP/   TBD          This policy may be triggered because of the
+                           BP 4.11                                        length of the fiber optic cables which will cross
+                                                                          many provinces in DRC. The ESMF may
+                                                                          include measures to address these issues; or, a
+                                                                          Physical Cultural Resources Management
+                                                                          Framework may be prepared to ensure that this
+                                                                          issue has been taken into consideration. If it is
+                                                                                                                                 prepared, this instrument will be reviewed,
+                                                                                                                                 consulted upon and disclosed within the country
+                                                                                                                                 and at the InfoShop.
+Public Disclosure Copy
+
+
+
+
+                                 Indigenous Peoples OP/BP 4.10                                     TBD                           The project will determine if Indigenous
+                                                                                                                                 Peoples may be in the project area. If so, an
+                                                                                                                                 Indigenous Peoples Planning Framework will be
+                                                                                                                                 prepared, consulted upon and disclosed before
+                                                                                                                                 appraisal.
+                                 Involuntary Resettlement OP/BP                                    Yes                           The routing of the fiber optic network and
+                                 4.12                                                                                            interregional links has not yet been determined
+                                                                                                                                 at this time, though it is likely to follow existing
+                                                                                                                                 road infrastructure. Construction activities could
+                                                                                                                                 therefore require land acquisition or could affect
+                                                                                                                                 roadside vendors with temporary disruption of
+                                                                                                                                 livelihood activities. A Resettlement Policy
+                                                                                                                                 Framework will be prepared, consulted upon
+                                                                                                                                 and disclosed before appraisal.
+                                 Safety of Dams OP/BP 4.37                                         No                            N/A
+
+                                 Projects on International        No                                                             N/A
+                                 Waterways OP/BP 7.50
+                                 Projects in Disputed Areas OP/BP No                                                             N/A
+                                 7.60
+
+                         III. SAFEGUARD PREPARATION PLAN
+                               A. Tentative target date for preparing the PAD Stage ISDS: 01-May-2014
+                               B. Time frame for launching and completing the safeguard-related studies that may be needed.
+Public Disclosure Copy
+
+
+
+
+                                  The specific studies and their timing1 should be specified in the PAD-stage ISDS:
+                                      An Environmental and Social Management Framework (ESMF), a Resettlement Policy
+                                      Framework (RPF) and possibly a Physical Cultural Resources Management Framework (CRMF)
+                                      and Indigenous Peoples Planning Framework will be prepared. These safeguard documents will
+                                      be, consulted and disclosed by the Government of the Democratic Republic of Congo in the
+                                      country, and by the World Bank’s InfoShop prior to appraisal of the Project.
+                         IV. APPROVALS
+                                 Task Team Leader:                            Name: Jerome Bezzina
+
+                                 Approved By:
+                                 Regional Safeguards Name: Alexandra C. Bezeredi (RSA)                                                                                          Date: 21-Apr-2014
+                                 Coordinator:
+                                 Sector Manager:     Name: Randeep Sudan (SM)                                                                                                   Date: 06-May-2014
+
+
+
+
+                         1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+                          form and language that are accessible to potentially affected persons.
+

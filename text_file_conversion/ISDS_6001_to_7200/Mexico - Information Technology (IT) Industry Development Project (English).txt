@@ -1,0 +1,293 @@
+Page  1
+INTEGRATED SAFEGUARDS DATA SHEET 
+CONCEPT STAGE 
+Report No.:  AC3065 
+ 
+Date ISDS Prepared/Updated: 10/30/2007 
+ 
+I.  BASIC INFORMATION 
+ 
+A.  Basic Project Data 
+ 
+Country: Mexico 
+Project ID: P106589 
+Project Name: Information Technology (IT) Industry Development 
+Task Team Leader: Eloy Eduardo Vidal 
+Estimated Appraisal Date: December 12, 
+2007 
+Estimated Board Date: May 29, 2008 
+Managing Unit: CITPO 
+Lending Instrument: Specific Investment 
+Loan 
+Sector: General transportation sector (34%);General water, sanitation and flood 
+protection sector (33%);General energy sector (33%) 
+Theme: Other financial and private sector development (P) 
+IBRD Amount (US$m.): 
+80.00 
+IDA Amount (US$m.): 
+0.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ Borrower 
+120.00
+120.00 
+B.  Project Objectives [from section 2 of PCN] 
+The general objective of the Project is to develop the IT and ITES Industry in Mexico.  The 
+Project aims to transfer the best international experience to:  (1) develop the indigenous IT 
+Industry; (2) attract outsourcing companies to Mexico ; and (3) attract captive offshoring of 
+international corporations to Mexico. The Project will initially focus in key states that show 
+better leadership and have resources to achieve success in creating a vibrant industry in the short 
+term and in market segments where Mexico has comparative advantages: as capacity in these 
+successful states saturates, it will spread to less developed regions and states and will benefit all 
+Mexico in the end, improving the competitiveness and efficiency of the Mexican economy and 
+fostering the development of SMEs.   
+ 
+C.  Project Description [from section 3 of PCN] 
+The project is designed in response to a strong demand from State Governments, and strongly 
+reinforces previous efforts made by the Secretaria de Economia through the PROSOFT program. 
+It is expected that the project could entail an IBRD loan of around US$80 million.  
+ 
+Page  2
+The exact scope of the project is currently under discussion, but it is expected to include the 
+following components:  
+ 
+a. 
+Improvement of the Policy, Regulatory and Legal Frameworks and Strengthening of 
+Institutions  
+ 
+This component will review the existing Policy, Regulatory and Legal Frameworks and 
+institutional performance for IT/ITES business development, including inter alia data privacy 
+issues, digital signatures, data security, digital property rights, labor laws and media 
+convergence. It will propose recommendations to bring them to the status of international best 
+practices, and assist the institutions in charge of implementing and enforcing them.  
+ 
+Regarding the telecommunications sector, a study will be prepared to determine the impact of 
+the current regulatory framework on the performance of the IT companies, and will make 
+specific policy-oriented recommendations. Specifically, the study will focus on the regulation of 
+VoIP, unbundling of the local loop and convergence of the broadcasting and telephone 
+industries.  
+ 
+Given the importance of a business-friendly environment, the program will review the existing 
+government-businesses interaction processes and procedures, and support initiatives to 
+streamline them, in particular through effective use of ICTs.  
+ 
+The project will critically assess the current business incentives regime, suggest improvements 
+and changes to make it more effective, and propose new initiatives following international best 
+practices. It will also support the development and implementation of external monitoring and 
+evaluation of PROSOFT.  
+ 
+b. 
+Strengthening of Selected State IT Clusters and Agencies  
+ 
+For those States that have the endowment to develop the IT Industry and the political will to do 
+it, the Project will support the preparation and implementation of a strategy to help access to 
+export markets to support the scalability and sustainability of  IT industry in the State.  These 
+strategies will be tailored to each specific State, and will have four components: 1) prioritization 
+of target market segment(s), 2) SWOT analysis of each location and comparison with global 
+competition; 3) preparation of an investment program; and 4) delivery of recommendations and 
+an action program. The implementation of this strategy will include cluster activities such as (a) 
+support to the State and National Associations to foster linkages with US, European and other 
+Associations to promote the IT Industry, develop linkages between companies of both countries 
+and foster business development; (b) twinning arrangements between Mexican and foreign 
+executives and professionals of the IT industries of both countries will be supported, to 
+encourage the development of the linkages between the companies, train the Mexican staff and 
+attract new business to Mexico; (c) IT companies exchange programs with foreign companies 
+and business accelerators; (d) outreach efforts to target international investors (international 
+events, business and technology fairs, etc.) and reception efforts to help them discover the State 
+and its potential; (e) participation of the IT clusters in international trade events; and (f) 
+organization of large local events with international participants,  to promote the industry.  
+ 
+c. 
+Development of Human Resources  
+Page  3
+This Component will help the IT Industry achieve scalability, this is the ability to grow fast, to 
+compete globally, by increasing the quantity and quality of human skills required to do the job.  
+To change the Mexican education system is a formidable task that would take a generation to do 
+and is beyond the scope of this Project.  Therefore, we will use a more focused approach that 
+consists of two steps: (1) in coordination with the Industry, create a system of certification of 
+professionals working in the IT and the ITES Industry, both at the engineer level (graduates) and 
+at the call center level, and market niches ; (2) support the development of Technical Institutions 
+and programs that provide the training to reach certification, using the model that was highly 
+successful in Andrah Pradesh . It will also assist IT companies by providing  training in quality 
+assurance programs like ITSqc, COPC etc., for the ITES sector, and scholarships for certification 
+(MoProSoft, CMMI, PMP, ISO-9000);  
+ 
+d. Supporting 
+Infrastructure 
+ 
+ 
+Experience shows that the IT Industry develops faster and better through Clustering in 
+agglomerations of small, medium and large companies, research centers, universities, financial 
+institutions and incubators. Linkages between demand and supply, human skills and industry, 
+and c
+apital and entrepreneurs produce the so called “Silicon Valley” effect. One of the main 
+established vehicles for encouraging Clustering is IT Parks, which are dedicated facilities for the 
+IT/ITES industry.  This component will support the construction of IT Parks through PPPs with 
+investments coming from the private sector and marketing, management and expansion of such 
+facilities being done by the private sector, including all the ingredients mentioned above to foster 
+clustering of the industry and in line with lessons learned: the role of the public sector will be 
+limited to public infrastructure and shared services, while the private sector will invest in 
+building, managing, marketing and operating the IT Parks. This component will also fund 
+equipment needed by the industry but unaffordable by an individual company due to its high 
+cost, which therefore must be shared by all. For example, animation and content creation may 
+require render farms.  
+ 
+e. 
+Funding of the IT Industry  
+ 
+The project will finance a study to explore the best alternatives to attract and develop: (1) Seed 
+Capital and Angel investors financing; (2) Venture Capital financing; (3) Growth financing; (4) 
+Merger and Acquisition financing; and (5) Capital Markets for the IT Industry. The component 
+will also include technical assistance and training programs to the financial institutions and 
+investors in general to appraise IT companies and projects, develop and implement exchange 
+programs with US and European financial institutions, promotion programs and visits of the IT 
+Industry to financial institutions, and vice versa.  This component will not provide funds to 
+finance the IT companies, as this should be a private sector effort.  
+ 
+f. 
+Government Services Outsourcing  
+ 
+Experience in many countries has shown that the Government, being the largest user of IT 
+Services, could promote the development of the IT Industry, and at the same time improve its 
+efficiency and effectiveness by subcontracting these services, or outsourcing them to the private 
+sector, increasing its transparency and delivering better services to the citizens. Therefore, the 
+Project will include a component that will carry out a study on outsourcing of Government 
+services to the IT Industry, using the best international practices, to recommend PPPs and 
+outsourcing guidelines to local, state and federal governments. It will then develop pilot projects 
+Page  4
+to support federal, state and local government initiatives to outsource services to the private 
+sector, by giving technical assistance to them to develop PPP models, define key strategic areas 
+with high impact, prepare the bidding documents and contracts and train their staff.   
+ 
+D.  Project location (if known) 
+Capital cities of Mexican States.   
+ 
+E.  Borrower’s Institutional Capacity for Safeguard Policies [from PCN] 
+To be assessed.   
+ 
+F.  Environmental and Social Safeguards Specialists 
+Mr Gunars H. Platais (LCSEN) 
+ 
+II.  SAFEGUARD POLICIES THAT MIGHT APPLY 
+Safeguard Policies Triggered
+ 
+Yes No TBD 
+Environmental Assessment (OP/BP 4.01) 
+X
+Environmental Assessment (OP 4.01) 
+–
+While most of the project’s activities would not 
+entail any direct environmental impact, the project includes a component to finance “IT Parks” in 
+pre-selected locations in capital cities of Mexican states.  The PCN notes that these facilities are 
+generally located in urban areas, “where there is abundant labor force and universities that can 
+provide training for their employees, and close to major airports.”  
+ 
+Since some construction activities may be part of the project, an Environmental 
+Assessment (EA) will be carried out prior to appraisal, in accordance with OP 4.01. IT parks 
+invoke images of entire campuses of multiple large buildings and supporting infrastructure (such 
+as parking lots, roads, etc.).  Such large developments could entail substantial environmental 
+impacts, and siting criteria are a key element in minimizing these impacts. Site screening criteria 
+will be established in the project to ensure that any natural habitats and physical cultural 
+resources (as per OP 4.04 and OP 4.11, respectively) are identified in the proposed sites.  
+ 
+If sites are determined prior to appraisal, the EA will include (i) a description of the 
+selected sites and the criteria used in selecting them to minimize potential impacts; (ii) a 
+description of the proposed facilities and the potential environmental and social impacts related 
+to their construction and operation; (iii) any necessary mitigation measures, including measures 
+to ensure no net loss of critical natural habitats (if applicable); (iv) evidence of consultation with 
+affected populations and other stakeholder groups on the environmental aspects of the proposed 
+works (including documentation of what issues were raised and whether they were taken into 
+account in project design); (v) environmental rules for contractors, including procedures for any 
+chance finds of culturally or archeologically significant resources during construction; (vi) 
+institutional responsibilities (including budget) for environmental management during 
+construction and operation; and (vii) provisions and responsibilities for monitoring the 
+environmental mitigation and management aspects.  
+ 
+If the exact sites of the proposed facilities are not determined during project preparation, 
+the EA will stipulate the screening criteria to be used in selecting appropriate sites, describe the 
+typology of facilities eligible for financing and any likely environmental or social impacts related 
+to their construction and operation; and specify procedures and institutional responsibilities 
+(including budget) for screening, consultations, environmental management during construction 
+and operation, and monitoring as described above.   
+Page  5
+Safeguard Policies Triggered
+ 
+Yes No TBD 
+Natural Habitats (OP/BP 4.04) 
+ X  
+Forests (OP/BP 4.36) 
+ X  
+Pest Management (OP 4.09) 
+ X  
+Physical Cultural Resources (OP/BP 4.11) 
+ X  
+Indigenous Peoples (OP/BP 4.10) 
+ X  
+Involuntary Resettlement (OP/BP 4.12) 
+ 
+X
+Involuntary Resettlement (OP 4.12) 
+–
+Given that the target placement for the IT Parks is in 
+densely populated urban areas close to labor markets, airports and universities, there is a high 
+possibility that land acquisition for their construction could cause involuntary displacement of 
+people or economic activities.  For any construction sites known prior to appraisal, a careful 
+screening will be conducted to determine whether there will be any instances of involuntary 
+resettlement as covered under OP 4.12, and if needed, Resettlement Action Plan(s) should be 
+developed, consulted and disclosed prior to appraisal.  If the exact sites are not identified during 
+project preparation, a Resettlement Policy Framework will be developed and disclosed in 
+accordance with OP 4.12.   
+Safety of Dams (OP/BP 4.37) 
+ X  
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X  
+Projects in Disputed Areas (OP/BP 7.60) 
+ X  
+Environmental Category:
+ 
+B
+-
+Partial Assessment 
+ 
+III.  SAFEGUARD PREPARATION PLAN 
+ 
+A.  Target date for the Quality Enhancement Review (QER), at which time the PAD-stage ISDS 
+would be prepared:  11/01/2007 
+ 
+B.  For simple projects that will not require a QER, the target date for preparing the PAD-stage 
+ISDS:  N/A 
+ 
+C.  Time frame for launching and completing the safeguard-related studies that may be needed.  
+The specific studies and their timing
+1
+should be specified in the PAD-stage ISDS. 
+An environmental assessment will be started before appraisal.   
+ 
+1
+Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the 
+InfoShop and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to potentially affected 
+persons.
+ 
+Page  6
+IV.  APPROVALS 
+ 
+Signed and submitted by: 
+ 
+Task Team Leader: 
+Mr Eloy Eduardo Vidal 
+06/25/2007 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Reidar Kvam 
+09/13/2007 
+Comments:   
+Sector Manager: 
+Mr Philippe Dongier 
+06/25/2007 
+Comments:   

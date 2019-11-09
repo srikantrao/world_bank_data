@@ -1,0 +1,277 @@
+Page  1
+INTEGRATED SAFEGUARDS DATA SHEET 
+CONCEPT STAGE 
+Report No.:  AC3084 
+ 
+Date ISDS Prepared/Updated: 08/09/2007 
+ 
+I.  BASIC INFORMATION 
+ 
+A.  Basic Project Data 
+ 
+Country: Turkey 
+Project ID: P106284 
+Project Name: Cadastre Modernization Project 
+Task Team Leader: Wael Zakout 
+Estimated Appraisal Date:  
+Estimated Board Date: May 22, 2008 
+Managing Unit: ECSSD 
+Lending Instrument: Specific Investment 
+Loan 
+Sector: Central government administration (100%) 
+Theme: Land administration and management (P) 
+IBRD Amount (US$m.): 
+200.00 
+IDA Amount (US$m.): 
+0.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ Borrower 
+50.00
+50.00 
+B.  Project Objectives [from section 2 of PCN] 
+The overall goal of the project is to contribute to government efforts to improve quality and 
+effectiveness of public services through expanding and making effective E-government 
+applications. The specific objective of the proposed project is to improve the effectiveness and 
+efficiency of the land registry and cadastre services. This objective will be achieved through: (i) 
+building the IT and communications infrastructure to support completion of the computerization 
+of cadastre and land registry services in high priority areas; (ii) renovating, updating and 
+production of digital cadastre and land registry information; (iii) improving customer services in 
+land registry and cadastre offices; (iv) improving human resources in the Turkish Land Registry 
+and Cadastre Agency (TKGM); and (iv) making digital land registry and cadastre information 
+available to public and private entities.   
+ 
+C.  Project Description [from section 3 of PCN] 
+It is proposed that the project includes the following components and activities:  
+ 
+Component 1: Cadastre and Land Registry Renovation and Updating.  
+ 
+The component will support the conversion (into digital format), updating and integration of 
+existing analogue and digital cadastre information, land registry and related data, into updated, 
+Page  2
+accurate, consistent and standardized legally agreed cadastral renovated map and data sets, that 
+will be incorporated into TAKBIS. The component will include the following activities:  
+ 
+-
+Further densification of the Geodetic Network (if necessary) and linkage to the graphic 
+cadastre areas;  
+ 
+-
+Geo-referencing existing graphic maps to the International Terrestrial Reference Framework 
+(ITRF) datum and the determination of transformation parameters;  
+ 
+-
+Compilation of the existing maps into common digital cadastral map/workspaces;  
+ 
+-
+Using orthophoto-maps or other means to determine areas necessary for on-site survey work 
+using the ‘cadastre renovation’ law procedures;  
+ 
+-
+Preparation of ‘interim’ cadastral maps, data and schedules necessary for public display and 
+possible objections;  
+ 
+-
+Development of final digital cadastre renovated maps and related data for registration in 
+TAKBIS;  
+ 
+-
+Making amendments to related data in TAKBIS and notification to owners;  
+ 
+-
+Review and possible revision of the national cadastre and registry strategy;  
+ 
+-
+Assessment and revisions of the cadastre regulatory framework over the course of the project; 
+and  
+ 
+-
+Development of the regulatory framework for the licensing of cadastral surveyors over the 
+course of the project.  
+ 
+The work will be undertaken through outsourced contracts to the private sector with TKGM 
+supervision, management and quality assurance.  
+ 
+Component 2: Modernization of Land Registry and Cadastre Infrastructure.  
+ 
+The component will support the modernization of the TKGM infrastructure, including 
+consultancy services to provide strategic advice on critical issues affecting the national 
+implementation of TAKBIS in Land Registry and Cadastre Directorates. This component will 
+also support procurement of equipment and hardware, and office renovations that may be 
+required in support of the national implementation of TAKBIS, improve the ability of TAKBIS 
+to maintain the quality of land registry and cadastre information it holds and strengthen TKGM 
+service delivery standards.  The component will include the following sub-components:  
+ 
+-
+Cadastre integration consultancy support;  
+ 
+-
+Provision of hardware and office equipment;  
+ 
+-
+Office renovations.  
+ 
+Component 3: Integration of E-Cadastre into the National Spatial Data Infrastructure.  
+ 
+The component will support the government’s E-Government initiative through making 
+available an E-Cadastre data theme and other foundation data themes through the Turkish 
+National Spatial Data Infrastructure. It would provide access to land registry and cadastre data 
+and other up-to-date base mapping for government agencies and private entities (within the 
+limitation of the laws). The component will include the following sub-components:  
+ 
+-
+E-Cadastre information;  
+ 
+-
+Base mapping;  
+Page  3
+-
+Spatial portal implementation.  
+ 
+Component 4: Human Resources and Institutional Development.  
+ 
+The component will support the development of strategic plans and human resources 
+development plans to ensure that TKGM personnel skills match the strategic needs of the 
+organization. The component will also finance training and study tours to countries which have 
+undertaken similar modernization programs in the last few years.  
+ 
+-
+Human Resources Development Strategy;  
+ 
+-
+Business Planning and Strategic Planning including stakeholder analysis and the private sector 
+roles;  
+ 
+-
+Training;  
+ 
+-
+Study on international trends and practices in computerization of land registries and 
+development of E-cadastre.  
+ 
+Component 5: Property Valuation.  
+ 
+The component will investigate the options for the development of property valuation function 
+in Turkey in line with international best practices. The component will also finance the 
+development of interim guidelines and piloting of property valuation in 2-3 municipalities. It will 
+include the following sub-components:  
+ 
+-
+Study on property valuation implementation options;  
+ 
+-
+Development of interim guidelines for property valuation;  
+ 
+-
+Piloting of property valuation;  
+ 
+-
+Development of implementation strategy;  
+ 
+-
+Professional development.   
+ 
+D.  Project location (if known) 
+Implementation of project activities will take place in Ankara and specific regional/local 
+cadastral and land registry offices country-wide.  Component 5 will pilot property valuation 
+process in selected 2-3 municipalities which will be determined during project preparation.   
+ 
+E.  Borrower’s Institutional Capacity for Safeguard Policies [from PCN] 
+According to the team’s assessment, the Borrower has sufficient capacity to implement 
+applicable safeguard policies.  The TKMG has implemented certain components of two Bank 
+projects, i.e., the Marmara Earthquake Emergency Reconstruction (MEER) project and the 
+Agriculture Reform Implementation Project (ARIP).  Under the MEER project, the agency, 
+among other activities, constructed five land registry and cadastre offices.   
+ 
+F.  Environmental and Social Safeguards Specialists 
+Ms Radhika Srinivasan (ECSSD) 
+Ms Ruxandra Maria Floroiu (ECSSD) 
+ 
+Page  4
+II.  SAFEGUARD POLICIES THAT MIGHT APPLY 
+Safeguard Policies Triggered
+ 
+Yes No TBD 
+Environmental Assessment (OP/BP 4.01) 
+X
+One of the project activities under component 2 (Modernization of Land Registry and 
+Cadastre Infrastructure) includes physical renovation of selected cadastral and land registry 
+offices (painting, wiring, new windows, and improving sanitary conditions). Due to the minor 
+potential environmental impact of such works, the project has been tentatively assigned 
+environmental category B.   
+Natural Habitats (OP/BP 4.04) 
+ X  
+Forests (OP/BP 4.36) 
+ X  
+Pest Management (OP 4.09) 
+ X  
+Physical Cultural Resources (OP/BP 4.11) 
+ 
+X
+The determination whether any of the offices to be renovated under the project will have 
+cultural and historical values will be made during project preparation.  If applicable, the 
+Environmental Managment Plan to be prepared by the Borrower will include the necessary 
+provisions to safeguard these assets.   
+Indigenous Peoples (OP/BP 4.10) 
+ X  
+Involuntary Resettlement (OP/BP 4.12) 
+ X  
+Safety of Dams (OP/BP 4.37) 
+ X  
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X  
+Projects in Disputed Areas (OP/BP 7.60) 
+ X  
+Environmental Category:
+ 
+B
+-
+Partial Assessment 
+ 
+III.  SAFEGUARD PREPARATION PLAN 
+ 
+A.  Target date for the Quality Enhancement Review (QER), at which time the PAD-stage ISDS 
+would be prepared:  10/16/2007 
+ 
+B.  For simple projects that will not require a QER, the target date for preparing the PAD-stage 
+ISDS:  N/A 
+ 
+C.  Time frame for launching and completing the safeguard-related studies that may be needed.  
+The specific studies and their timing
+1
+should be specified in the PAD-stage ISDS. 
+During project preparation, potential environmental impacts of office renovation works will 
+be assessed and the TKGM will prepare under the Bank guidance an Environmental 
+Management Plan (EMP) and will disclose it in country and at the Infoshop before appraisal. 
+The EMP will include a construction and rehabilitation mitigation measures checklist and 
+responsible party for the mitigation actions, as well as the monitoring plan, and will highlight 
+the responsible party for the implementation of the EMP.   
+ 
+1
+Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the 
+InfoShop and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to potentially affected 
+persons.
+ 
+Page  5
+IV.  APPROVALS 
+ 
+Signed and submitted by: 
+ 
+Task Team Leader: 
+Mr Wael Zakout 
+07/31/2007 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Ms Agnes I. Kiss 
+08/01/2007 
+Comments:   
+Sector Manager: 
+Mr Juergen Voegele 
+08/02/2007 
+Comments:   

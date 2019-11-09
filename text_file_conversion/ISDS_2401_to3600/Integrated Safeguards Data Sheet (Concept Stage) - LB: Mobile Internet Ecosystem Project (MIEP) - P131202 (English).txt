@@ -1,0 +1,217 @@
+﻿                                                                   INTEGRATED SAFEGUARDS DATA SHEET
+                                                                            CONCEPT STAGE
+                                                                                                                                            Report No.: ISDSC813
+Public Disclosure Copy
+
+
+
+
+                         Date ISDS Prepared/Updated: 24-May-2012
+
+                         I.   BASIC INFORMATION
+                              A. Basic Project Data
+
+                              Country:                       Lebanon                                  Project ID:                      P131202
+                              Project Name:                  LB: Mobile Internet Ecosystem Project (MIEP) (P131202)
+                              Task Team Leader:              Victor Mulas
+                              Estimated Appraisal Date: 00-undefined-0000                             Estimated Board Date:            07-Feb-2013
+                              Managing Unit:                 TWICT                                    Lending Instrument:              Specific Investment Loan
+                              Sector:                        Information technology (80%), Telecommunications (20%)
+                              Theme:                         Education for the knowledge economy (70%), e-Services (30%)
+                              Financing (In USD Million)
+                                   Financing Source                                                                                                       Amount
+                                   Borrower                                                                                                                   5.00
+                                   International Bank for Reconstruction and Development                                                                      5.00
+                                   Total                                                                                                                     10.00
+                              Environmental Category:        C - Not Required
+                              Is this a Repeater project? No
+
+                              B. Project Objectives
+
+                              14. The project development objective is to increase the number of start-up projects in the ICT sector, raise employment in the ICT sector, and
+                              enhance the enabling environment for ICT in Lebanon.
+
+                              (Start-up projects are defined as a mobile internet prototype and a basic business plan ready to be presented to the community of incubators,
+                              accelerators and early-stage investors.)
+Public Disclosure Copy
+
+
+
+
+                              C. Project Description
+
+                              This project will strengthen the nascent mobile internet ecosystem in Lebanon by tackling the barriers and missing links that preclude the rapid
+                              development of a mature and internationally competitive industry. These barriers and missing links include: (i) the development and attraction of
+                              domestic talent, (ii) synergies and systemic cooperation among industry stakeholders and clustering with complementary industries, (iii) exposure
+                              to international innovation networks, and (iv) infrastructure and regulatory hurdles. This project mainly focuses on human capital enhancement,
+                              and on enhancement of the ecosystem, complementing and providing content to GoL’s initiatives to aggregate the industry in cities for the
+                              technology industry. In addition, the project will promote commercial entrepreneurship in high value-added segments, increasing competitiveness
+                              of critical sectors of Lebanese economy, such as creative industry and banking, as well as the development of social entrepreneurship, increasing
+                              the participation of the technology community to social initiatives and citizen participation in government services.
+
+                              The Government of Lebanon (GoL) has requested support from the World Bank to develop a project to strengthen the mobile internet ecosystem.
+                              The proposed project will consist of three interrelated components addressing: (i) skills development and attraction of talent, (ii) strengthening and
+                              growth of the mobile internet industry, and (iii) enhancement of mobile internet enabling environment. In addition, a fourth component will enable
+                              effective project management by supporting the PIU.
+
+                              Component 1: Skills development and attraction of talent. (US$3.4 m.)
+
+                              This component addresses the market failures of talent retention and attraction to the domestic mobile internet industry and the skills-gap of
+                              university graduates and mobile internet companies’ needs. The component will finance a series of hackathons (e.g., events whereby mobile
+                              application competitions are developed), an on-line training course to address mobile internet programming and entrepreneurship skills, a
+                              mentorship and international exchange program for entrepreneurs, a university-industry platform providing internships and co-creation of mobile
+                              internet projects, and an structured promotion campaign to attract talent and domestic and international attention to the emerging mobile internet
+                              industry in Lebanon.
+
+                              A series of three-four (3-4) hackhatons a year targeting both commercial (2) and social/government (1-2) applications will serve to energize and
+                              attract the talent pool of developers and graduates to the mobile internet industry. Hackathons have been very successful tools in attracting young
+                              and driven talent towards developing mobile applications, including social themes, as the World Bank-organized 2012 global Water Hackathon
+                              (one of which locations was Cairo) demonstrated. Hackathons are one-time events that need to be complemented with on-going support for
+                              participant entrepreneurs and developers. Hence, prices of hackathons will be focus on incubation of wining projects. In addition, hackathons will
+                              serve to identify talented teams that need further training and support to develop their start-up projects. These teams will be eligible (on a merit-
+                         based) for a structured training and mentorship program funded by the project.
+
+                         The training and mentorship program will provide an on-line training course addressing the main skills the mobile industry has expressed it
+                         requires from the labor force but are not currently provided by Lebanese standard education. These include mobile internet languages (e.g.,
+                         Android, iOS, Windows Mobile, etc.) programming, basic business and entrepreneurship skills (e.g., business plans, cash flow analysis, pitching,
+                         etc.) and vertical industries background (if applicable). In addition, ad hoc mentorship will be provided, with a specific component for women
+                         entrepreneurs, to assist teams in the process of developing the start-up projects’ prototype and business plan. Participating teams will compete to
+Public Disclosure Copy
+
+
+
+
+                         enter into the international exchange program, which will select a reduced number of teams based on merit to experience technology
+                         entrepreneurship and networking in lead international locations, such as Silicon Valley in the United States or Europe. The project will partner with
+                         specialized organizations and institutions, such as Black Box or Demola, for this inter national exchange program. The training and mentorship
+                         program ends with teams presenting their prototypes and business plans to the community of incubators, accelerators and early-stage financing
+                         for project funding.
+
+                         In addition, a university-industry platform providing internships and co-creation of mobile internet projects will be developed. The goal of this
+                         platform will be to provide hands-on training to students to complement university education with real-life work and project experience. The
+                         platform will provide access to any Lebanese university to an internship program with ICT and mobile internet industry (including start-ups, SMEs,
+                         large-sized companies and multinational companies) for students that are in the third year of studies. This internship program will aim at providing
+                         real industry experience for university students and start creating the culture of internships in university technology studies. For students in the
+                         fourth year, this platform will provide a program for teams to participate in the co-creation of prototypes with an industry partner. Students will be
+                         required to collaborate in multi-disciplinary teams (e.g., software engineer, business and design) and the project will be part of the academic
+                         curriculum. At the end of the year, all teams will participate in a project competition for incubation/financing by the private sector of most-
+                         successful projects (i.e., prototype and business plan).
+
+                         Finally, the activities of this component will be complemented by a promotion campaign to raise awareness of the development of the domestic
+                         mobile internet industry, raise its profile and public perception and attract talent from graduates and entrepreneurs. Later on in the implementation,
+                         as the industry matures, this promotion campaign will also target the regional and international audience to promote Lebanon as a favorable
+                         business location for mobile internet.
+
+                         Component 2: Strengthening and growth of mobile internet industry. (US$3.8 m.)
+
+                         This component addresses the market failure of the ecosystem stakeholders’ synergies and systemic cooperation needed for industry growth and
+                         innovation. The component will finance the creation and partial sustainability during the project of an institution to manage the mobile internet
+                         industry hub, the creation of industry clusters with other vertical industries (e.g., media, advertising, design, banking, etc.), and the establishment of
+                         a living lab and co-creation platform to test mobile internet prototypes and co-develop projects among industry stakeholders (e.g., multinationals
+                         and start-ups). Open innovation intermediaries, such as this industry hub, are becoming increasingly common structures tasked to promote
+                         cooperation various innovation agents in the development of technology applications and digital services .
+
+                         The industry hub will be a new institution to serve as the industry focal point and coordinate and link the industry stakeholders, which are currently
+                         dispersed and uncoordinated. A new institution with a clear mandate will be able to devote all its resources and focus to the implementation of
+                         these tasks. Existing institutions have additional mandates, which can conflict and result in loose of focus or dispersion of resources. In addition,
+                         a new institution pr ovides a neutral ground for all stakeholders to accept it and collaborate in its activities.
+Public Disclosure Copy
+
+
+
+
+                         The hub will provide a physic al space for ecosystem stakeholder’s to plan and organize joint activities (e.g., hackathons and training courses) and
+                         operate as technology test-bed for applications. Fostering cooperation and synergies, the hub will contribute to the development of networks for
+                         industry collaboration and innovation. The hub will coordinate and manage the activities of Component 1. As the industry matures, the Hub will
+                         evolve into a Center of Excellence for mobile internet for the region, where its services are offered to entrepreneurs and companies from MENA.
+
+                         The hub will also partner with vertical industries in which Lebanon has a competitive advantage (e.g., media, advertising, design, banking, etc.) to
+                         create specific industry hubs, where mobile internet companies and vertical companies interact and cooperate in common projects. These clusters
+                         will leverage in existing initiatives, such as the media and arts cluster at local incubator Berytech. Structured cooperation and training programs,
+                         including international experts programs, will be developed to strengthen industry collaboration and creation of common prototypes.
+
+                         In addition, the hub will create and host a living lab and co-creation platform where industry and developers and start-ups can create and live-test
+                         prototypes, following the model of internationally successful labs, such as the ones at Aalto University and MIT Media Lab. This l iving lab/co-
+                         creation platform will be connected to international lab networks, such as the European network of living labs (ENoLL) or infoDev’s MobileLabs
+                         network, and will develop project co-creation programs with multinational companies in the mobile internet arena.
+
+                         Component 3: Enhancement of mobile internet enabling environment (US$1.8 m.)
+
+                         This component will finance specific technical assistance to: assess and provide technical options to improve broadband (fixed and wireless)
+                         infrastructure, assess policy options for broadband market reform, and develop international best-practices policies and regulations on intellectual
+                         property, privacy and data protection and e-commerce, including electronic payments, legal and regulatory framework. These activities are
+                         considered priorities for promoting the maturity of the mobile internet industry.
+
+                         To assess and provide technical options to improve broadband infrastructure, an in-depth industry survey assessing demand and supply, and a
+                         network asset inventory, will be carried out. Technical options for network management and asset efficiency will be developed. Demand and
+                         supply considerations will be taken into account in this analysis. Follow-up technical assistance based on this analysis will be provided for
+                         technical network and service improvement. Assistance on sector reform options assessment and implementation will also be provided at the
+                         request of MoT.
+
+                         Component 4: Project management (US$800,000.)
+
+                         This component will finance a base-line study of the mobile internet industry in Lebanon for project impact measurement, training for the Project
+                               Implementation Unit (PIU) personnel and consultants to support the PIU during the duration of the Project. This component provides base-line
+                               indicators to measure project progress and results and strengthens the PIU for an effective management of the Project.
+
+                               D. Project location and salient physical characteristics relevant to the safeguard analysis (if known)
+Public Disclosure Copy
+
+
+
+
+                               E. Borrowers Institutional Capacity for Safeguard Policies
+
+
+
+
+                               F. Environmental and Social Safeguards Specialists on the Team
+
+
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+
+                                Safeguard Policies                                                 Triggered?           Explanation (Optional)
+                                Environmental Assessment OP/BP 4.01                                No
+
+                                Natural Habitats OP/BP 4.04                                        No
+
+                                Forests OP/BP 4.36                                                 No
+
+                                Pest Management OP 4.09                                            No
+
+                                Physical Cultural Resources OP/BP 4.11                             No
+
+                                Indigenous Peoples OP/BP 4.10                                      No
+
+                                Involuntary Resettlement OP/BP 4.12                                No
+
+                                Safety of Dams OP/BP 4.37                                          No
+
+                                Projects on International Waterways OP/BP                          No
+                                7.50
+                                Projects in Disputed Areas OP/BP 7.60                              No
+Public Disclosure Copy
+
+
+
+
+                         III. SAFEGUARD PREPARATION PLAN
+
+                               A. Tentative target date for preparing the PAD Stage ISDS: 24-Aug-2012
+                               B. Time frame for launching and completing the safeguard-related studies that may be needed. The specific studies and their timing1
+                                  should be specified in the PAD-stage ISDS:
+                                    NA
+
+                         IV. APPROVALS
+                                Task Team Leader:                                Name: Victor Mulas
+                                Approved By:
+                                Regional Safeguards Coordinator:                 Name: Maged Mahmoud Hamed (RSA)                                                                       Date: 25-May-2012
+                                Sector Manager:                                  Name: Deepak T. Bhatia (SM)                                                                           Date: 24-May-2012
+
+
+
+
+                         1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+                          form and language that are accessible to potentially affected persons.
+

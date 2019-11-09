@@ -1,0 +1,350 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+APPRAISAL STAGE
+Report No.: ISDSA14588
+0
+Date ISDS Prepared/Updated: 04-Sep-2015
+o
+Date ISDS Approved/Disclosed: 21-Sep-2015
+I. BASIC INFORMATION
+1. Basic Project Data
+Country:        Bangladesh                 Project ID:  P128012
+Project Name: Bangladesh Ghorashal Unit 4 Repowering Project (P 128012)
+Task Team       Mohammad Anis,Ashok Sarkar
+Leader(s):
+Estimated       11-Aug-2015                Estimated    17-Dec-2015
+Appraisal Date:                            Board Date:
+Managing Unit: GEE06                       Lending      Specific Investment Loan
+Instrument:
+Sector(s):      Energy efficiency in Heat and Power (50%), Thermal Power Generation (50%)
+Theme(s):       Infrastructure services for private sector development (100%)
+Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+8.00 (Rapid Response to Crises and Emergencies)?
+Financing (In USD Million)
+Total Project Cost:     310.00            Total Bank Financing:  235.00
+Financing Gap:            0.00
+Financing Source                                                        Amount
+O
+BORROWER/RECIPIENT                                                         75.00
+International Development Association (IDA)                               235.00
+Total                                                                     310.00
+Environmental A - Full Assessment
+Category:
+Is this a       No
+Repeater
+project?
+2. Project Development Objective(s)
+The proposed development objective of the Project is to increase generation capacity and efficiency
+of the targeted power plant;
+3. Project Description
+The proposed Project would repower one of the four 210 MW gas-fired steam units Ghorashal
+power stations by adding one gas turbine & generator (GTG) and a heat recovery steam generator
+Page 1 of 8
+
+
+﻿(HRSG) to the existing steam turbine (ST) unit for an upgraded capacity of about 400 MW. The
+existing boiler will be dismantled. The targeted unit for repowering has been identified through a
+feasibility study (completed in July 2012 by a consulting firm engaged through a Bank TA). This
+unit is currently generating 170MW and the overall efficiency of the unit is around 31% using 49
+U        mmcfd of gas. As it came out of the feasibility study, the Project would increase the plant efficiency
+of the identified unit to 54% and the generation will be more than doubled with only 18% increase in
+gas requirement. Consequently, fuel consumption (per GWh) would be reduced by 43%. The
+proposed Project will also be designed to operate the new gas turbine and existing steam plant
+independently from each other through a bypass stack allowing operational flexibility for BPDB. To
+minimize disruption in power availability, the existing ST will be shut down only after the
+installation and commissioning of the GTG and HRSG so that the plant can run on simple cycle
+mode.
+The project consists of two components: (a) Re-powering of the Unit-4 of Ghorashal power station,
+and (b) TA for Institutional Strengthening Support focused on institutional and capacity building of
+BPDB.
+Component 1: Re-powering of the Target Unit ($225 million): This component would finance all the
+required plant equipment and auxiliaries, design and installations services for the full repowering of
+unit 4. The major plant equipment include a new Gas Turbine and Generator, a Heat Recovery Steam
+Generator (HRSG), Distributed Control System (DCS), gas booster compressor, main stack, bypass
+stack and all other associated ancillary equipment. The works would also include complete
+overhauling of the existing ST generator, replacement and modernization of the existing auxiliaries
+and dismantling of existing boiler. The scope will not cover works on the existing steam turbine as it
+is undergoing major maintenance works and the key parts are already being replaced/repaired.
+Detailed scope of works is in the Annex 2.
+At the concept stage, the project included a new substation and transmission lines also which have
+now been dropped. The proposed project will not require to invest in the enhanced transmission
+capacity requirement for this project as the ADB consortium funded national transmission network
+development project (to be implemented by PGCB) would cover the requirement. No gas
+transmission pipeline will also be required. However, a Regulatory Metering Station (RMS) within
+the GPS boundary will be constructed under this project.
+Component 2: Technical Assistance for Institutional Strengthening Support ($10 million): This
+component would finance an Owner's Engineer (implementation support consultant) for the Project
+to bolster project governance while ensuring effective management of the construction and initial
+operation of the repowered plant. This component would also focus on capacity building and
+institutional support to operate the plant effectively and efficiently as well as support BPDB to help
+strengthen its technical and managerial capacity to plan, develop and operate its generation portfolio.
+The TA will also be used to hire individual consultants to support PMU and GPS that would include
+areas of environmental and financial management and other areas as needed.
+4. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+The proposed project will be implemented in the existing Power Plant Complex at Ghorashal
+(Location coordinates are: Latitude = 23.9797, Longitude = 90.637). Ghorashal falls in Narsingdi
+district and is located 50 km north-east of Dhaka. The site can be accessed by either Dhaka-Sylhet
+highway or Tongi-Narshingdi highway. The site is located besides the Sitalakha River and uses the
+Page 2 of 8
+
+
+﻿water from that river. The Ghrashal Power Plant consists of 6 natural gas fuelled boiler/steam turbine
+installations. The units 1 and 2 are the first build installations (in the seventies), producing maximum
+48MW each (design value 55 MW). The rest of the units have the same size and have 210 MW
+maximum design capacity each. The unit 4 has been considered for repowering under this operation.
+o
+5. Environmental and Social Safeguards Specialists
+Dr. M. Khaliquzzaman (GEN06)
+Sabah Moyeen (GSURR)
+Shakil Ahmed Ferdausi (GENDR)
+6. Safeguard Policies   Triggered? Explanation (Optional)
+Environmental           Yes         The project is expected to bring environmental benefit by
+Assessment OP/BP 4.01               increasing the efficiency of the power plant and reducing
+the emission of greenhouse gases and some air pollutants.
+However, repowering will involve decommissioning of
+the existing boiler and associated equipment and also
+include installation of gas compressor, gas turbine,
+generator etc. Proper environmental management is
+required for both construction and operation phases.
+Environmental health and safety related risks in the
+decommissioning of the existing boiler and new plant
+commissioning are major issues. Asbestos based
+insulators for steam pipes in the existing boiler/turbine
+system need to be removed during its decommissioning.
+Asbestos being a hazardous material will be handled with
+special care as per WB Asbestos Guidance Note (2009)
+and international best practice. A Boiler
+Decommissioning Plan has been prepared in compliance
+with the guidance. Currently, hydrazine is used in water
+treatment for deoxygenation, which is a highly hazardous
+substance and a carcinogen. As per WBG EHS guidelines,
+Hydrazine will be replaced with a less hazardous
+substance which is now available. Due to anticipated
+morphology change of the Shitalakhya River during
+lifetime of the plant, the current water use and the
+adequacy of supply availability have been carefully
+examined. As a result of this review, closed loop cooling
+system will be used in the new plant instead of the once
+through cooling in the present plant, which will reduce
+water use by more than 90% for the unit. The GPS has
+adopted closed cooling for the new Unit-7 plant of similar
+capacity and other units are also likely to be moved to
+closed circuit cooling on re-powering. In Unit-3
+repowering, MIGA is expected to be involved. The Task
+Team will be in dialogue with both GPS and MIGA for
+adoption of closed circuit cooling in Unit-3. An
+environmental impact assessment for the project has been
+Page 3 of 8
+
+
+﻿carried out which has identified the possible
+environmental impacts of the project components. The
+Environmental Management Plans (EMP) have been
+prepared for different phases for the mitigation and
+monitoring of activities involved. Further to that, the
+winning Erection, Procurement and Commissioning
+(EPC) Contractor will submit an Environmental Action
+Plan (EAP) based on the EIA and the offered plant and
+equipment, construction method and work schedule. The
+EAP will be approved by BPDB and the WB before the
+commencement of the work. The cost of environmental
+management will form a part of the project cost.
+Technical Assistance for environmental management will
+be provided under the project for the operational phase.
+All the project activities to be funded under this proposed
+project will be carried out within the Ghorashal Power
+Plant. There is no land acquisition, displacement of
+people and adverse impacts on livelihoods for the project
+activities. There are no indigenous people in the project
+area as well. PGCB is implementing a national 'Power
+System Expansion and Efficiency Improvement
+Investment Program (Tranche 2)'. The project is being
+funded by a joint consortium of ADB, IDB and EIB. The
+EIA being prepared for that project includes the
+Resettlement Action Plan (RAP) following the ADB
+safeguard guideline. The PGCB project will not be
+considered an associated project for this IDA project and
+therefore no additional EIA/SIA or EMP/RAP is required
+for the project.
+S Natural Habitats OP/BP  No        The Project site is located in an industrial estate with
+4.04                                seven existing power plants. The estate has been an
+industrial are for more the 40 year since the establishment
+of the first power plant in 1974. No natural habitat will be
+impacted by the project.
+Forests OP/BP 4.36      No          The Project site is in at an industrial estate and therefore
+no forestry related issues are involved.
+Pest Management OP 4.09 No          There will be no procurement of pesticides or any works
+within the project which could lead to the use of the
+increased use of pesticides. The project is expected to
+reduce the total water discharge by 20% from open cycle
+cooling process from existing plants. As by product, this
+water is also used for irrigation in the surrounding areas.
+However, it will not expand the current agriculture
+practice and pest management policy has not been
+triggered.
+Page 4 of 8
+
+
+﻿Physical Cultural       No          The Project site has been an industrial estate for more
+Resources OP/BP 4.11                than 40 years and all construction and project activities
+will be confined to the industrial estate.
+O
+U         Indigenous Peoples OP/  No          This policy is not triggered because there is no IPs within
+BP 4.10                             the project's area of influence.
+O
+Involuntary Resettlement No         The project will be established on the site of an existing
+OP/BP 4.12                          plant and no resettlement issues are involved.
+7         Safety of Dams OP/BP    No          This issue is not relevant to the project.
+4.37
+Projects on International  No       Although the project is located on the bank of Shitalakhya
+Waterways OP/BP 7.50                River, this policy will has not been triggered. This is not a
+new plant but replacement of an old power plant through
+repowering. As a result of the repowering cooling water
+requirement for the plant willbe reduced by more than
+90% for the unit, thus reducing dependency on the river
+water. Moreover, Shitalakhya rRiver is a distributary of
+old Brahmaputra river (which is in turn is a distributary of
+Brahmaputra) and a tributary of Dhaleswari river; with
+both origin and end points located inside Bangladesh.
+Projects in Disputed    No          This issue is not relevant to this project.
+Areas OP/BP 7.60
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+and describe any potential large scale, significant and/or irreversible impacts:
+The repowering will involve decommissioning of the existing boiler and associated equipment and
+also include installation of gas compressor, gas turbine, generator etc. Proper environmental
+management is required for both construction and operation phase. Environmental health and
+safety related risks in decommission of the existing boiler and new plant commissioning are major
+issues. Asbestos based insulators for steam pipes in the existing boiler/turbine system need to be
+removed during its decommissioning. Asbestos, being a hazardous material, has to be handled
+with special care. As there is no designated disposal site for asbestos laden material in the country,
+a lined disposal pit for disposal will be constructed within GPS compound. The disposal of
+asbestos laden material will be the responsibility of the EPC contractor with the proviso that this
+will be done according to WB Asbestos Guidance Note (2009) and international best practice.
+In the new plant closed cooling system will be used instead of the once through cooling in the old
+plant and this will reduce water requirement by more than 90%; thus reducing water withdrawal
+from the river. Currently, hydrazine is used in water treatment (i.e., deoxygenation). It is a highly
+hazardous substance and a carcinogen. As per WBG EHS guidelines, Hydrazine is to be replaced
+with a less hazardous substance which is now available. Due to anticipated morphology change of
+the Shitalakhya River during lifetime of the plant, the adequacy of current water use and future
+supply availability have been looked into. An environmental impact assessment for the project has
+been carried out which has identified the possible environmental impacts in the project
+components and an Environmental Management Plans (EMP) has been prepared for the mitigation
+Page 5 of 8
+
+
+﻿and monitoring activities. The EMP implementation measures during the construction phase will
+be included in the bidding document and the cost of EMP implementation will form a part of the
+project cost.
+O
+The new plant will have significantly better efficiency and environmental performance. These
+characteristics will lead to lower emissions of some air pollutants as well as C02. As the plant is
+to be fired with sulfur free natural gas emissions of PM 10 are PM2.5 and hydrocarbons are
+expected to be low. The main air pollutant from is expected to be NOx and these are quantitatively
+dealt with in the EIA. The studies show that the new plant will contribute positively in overall air
+quality improvement comparing to old unit. The ambient noise level will increase in the plant area
+but will have no significant impact on major receptors (i.e., schools and residential areas) because
+of distant location.
+The implantation of improved Environmental, Health and Safety Management System as per EMP
+is expected to lead to better management of waste and wastewater, as well as workers health and
+safety (i.e., including the introduction and routine use of safe working procedures; inspection;
+training; emergency management; fire drills; and personal protection equipment to prevent
+injuries, hearing damage, etc.). The Bangladesh power Development Board (BPDB) will be the
+implementing agency for the component- 1. BPDB is responsible for major portion of generation
+and distribution of electricity mainly in urban areas except Dhaka and West Zone of the country.
+The Board is under the Power Division of the Ministry of power, Energy and Mineral Resources,
+Government of Bangladesh. Although BPDB has not implemented any recent project with the
+World Bank, it has undertaken projects funded by external development partners that require
+management of environmental issues. In addition, the country law also requires full environmental
+assessment of power plants. BPDB is fully aware about the Bank requirement of environmental
+and social assessment of the project. However, BPDB currently has only a rudimentary
+institutional capacity for environmental management. In order to augment capacity of BPDB in the
+environmental management areas, the project will provide necessary Technical Assistance.
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+O
+in the project area:
+Due to the possible morphology change of the Shitalakhya River during the lifetime of the plant
+and rising demand of water from new industries on the river bank, the future availability of
+cooling water for the plant may be a long term issue. Thus, the new plant will adopt closed loop
+*           cooling system for reducing water withdrawal from the river. No irreversible and long term
+adverse indirect impacts are anticipated from the project activities. For any unforeseen long term
+impacts, control measures will be developed and implemented under EMP for the plant.
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+impacts.
+The rationale for this project was improvement of energy efficiency and minimization of
+environmental impacts. As the site was fixed, only technological alternatives were considered.
+Best available technologies have been chosen for the plant.
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+assessment of borrower capacity to plan and implement the measures described.
+The client has prepared the ESIA by contracting the work to a National Firm (CEGIS) with input
+from reputable international consultants. In addition, the government hired an International
+Adviser to review the ESIA preparation process and ensure the quality to meet the both
+Government and the World Bank standards. As on some of the environmental and EHS issues
+Page 6 of 8
+
+
+﻿national standards are unavailable, the ESIA has adopted international best practices. The ESIA
+includes environmental monitoring programs for decommissioning, construction and operation
+phases. The implementation of the mitigation measures, including environmental, health and
+safety obligations during construction, will be monitored in accordance with a program of
+O
+monitoring activities as per the EMP as specified in the ESIA report.
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+O
+on safeguard policies, with an emphasis on potentially affected people.
+The potentially affected peoples are the people living and working in the area of influence of the
+Project are the key stakeholders. The project beneficiaries are the whole population of Bangladesh
+as the plant feeds power into the national grid. Special benefits will of course accrue to the local
+industries as power disruptions will be reduced. Public consultations and focus group discussions
+for the project affected area took place throughout the project preparation of ESIA.
+B. Disclosure Requirements
+Environmental Assessment/Audit/Management Plan/Other
+Date of receipt by the Bank                              28-Jun-2015
+Date of submission to InfoShop                           23-Jul-2015
+For category A projects, date of distributing the Executive  23-Jul-2015
+Summary of the EA to the Executive Directors
+"In country" Disclosure
+Bangladesh                                               23-Jul-2015
+Comments:
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please explain why:
+C. Compliance Monitoring Indicators at the Corporate Level
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) Yes [ X] No [ ] NA [ ]
+report?
+If yes, then did the Regional Environment Unit or Practice  Yes [ X ] No [  ]  NA [  ]
+Manager (PM) review and approve the EA report?
+Are the cost and the accountabilities for the EMP incorporated Yes [ X] No [  ]  NA [  ]
+in the credit/loan?
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the  Yes [ X] No [  ]  NA [  ]
+World Bank's Infoshop?
+Have relevant documents been disclosed in-country in a public Yes [ X] No [  ]  NA [  ]
+place in a form and language that are understandable and
+accessible to project-affected groups and local NGOs?
+All Safeguard Policies
+Page 7 of 8
+
+
+﻿Have satisfactory calendar, budget and clear institutional  Yes[X]  No[     NA
+responsibilities been prepared for the implementation of
+measures related to safeguard policies?
+Have costs related to safeguard policy measures been included Yes[X]  No[   NA
+o          in the project cost?
+Does the Monitoring and Evaluation system of the project  Yes[X]  No[       NA[
+0          include the monitoring of safeguard impacts and measures
+related to safeguard policies?
+Have satisfactory implementation arrangements been agreed  Yes[X]  No[      NA[
+with the borrower and the same been adequately reflected in
+the project legal documents?
+III. APPROVALS
+Task Team Leader(s): Name: Mohammad Anis,Ashok Sarkar
+Approved By
+Practice Manager/     Name: Julia Bucknall (PMGR)                Date: 21-Sep-2015
+Manager:
+Page 8 of 8
+
+

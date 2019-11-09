@@ -1,0 +1,219 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+CONCEPT STAGE
+Report No.: ISDSCIO43
+Date ISDS Prepared/Updated: 09-Dec-2014
+Date ISDS Approved/Disclosed: 11-Dec-2014
+I. BASIC INFORMATION
+A. Basic Project Data
+Country:         Rwanda                     Project ID:   P150634
+Project Name:    Rwanda Electricity Sector Strengthening Project (P150634)
+Task Team        Paul Baringanire
+Leader:
+Estimated        18-May-2015                Estimated     22-Sep-2015
+Appraisal Date:                             Board Date:
+Managing Unit: GEEDR                        Lending       Investment Project Financing
+Instrument:
+Sector(s):       Public administration- Energy and mining (25%), Transmission and Distribution
+of Electricity (65%), General energy sector (10%)
+Theme(s):        Other public sector governance (25%), Other urban development (10%),
+Infrastructure services for private sector development (55%), R ural services and
+infrastructure (10%)
+Financing (In USD Million)
+Total Project Cost:      80.00             Total Bank Financing:    80.00
+Financing Gap:            0.00
+Financing Source                                               Amount
+BORROWER/RECIPIENT                                                0.00
+International Development Association (IDA)                      80.00
+Total                                                            80.00
+Environmental B - Partial Assessment
+Category:
+Is this a        No
+Repeater
+project?
+B. Project Objectives
+The Project Development Objective is to enhance access, efficiency, and accountability of electricity
+service delivery in Rwanda.
+C. Project Description
+
+
+﻿The project is proposed to have two main components: (i) Increased Access to Electricity services
+through providing additional connectivity and up-grading the existing networks; and (ii) Technical
+Assistance to improve sector capacity in the short-medium term through the setting up of several, but
+integrated, business improvement plans and capacity building of the relevant institutional bodies.
+Component 1- Increased Access to Electricity Services (US$ 55.0 million)
+Support to the EARP: This sub-component will fund the continued expansion of EARP and will
+finance activities to connect new consumers through the purchase of equipment for grid extensions,
+reinforcements and consumer connections, installation services including for upstream system
+reinforcements, where required, to ensure that network expansion doesn't result in the deterioration
+of the quality of supply.
+Upgrading of substations and the associated transmission and distribution network - The sub-
+component will finance proposed works related to 110/70/30/15/6KV substation extensions and
+upgrading. The upgrading and expansion of the distribution system substations is aimed at increased
+network capacity to meet demand from new access connections and consumption arising out of
+increased economic activities in the proposed project areas. The network strengthening activities will
+also focus on reducing technical losses, increased reliability by rearranging and upgrading
+distribution network in selected areas as well as other reinforcement measures.
+Component 2: Sector Performance Management Improvement and Project Implementation Support
+(US$25 million)
+Electricity Sector Performance Management Improvement: This sub-component will establish
+comprehensive management information systems (MIS) to ensure efficient, transparent and
+accountable processes covering the network operations and maintenance (O&M); commercial
+functions; and management of corporate resources. The primary activities will include the design,
+supply, installation and operationalization (including staff training) of key management systems
+O
+covering commercial, network operation and corporate functions.
+a)     Commercial processes improvement: This subcomponent will finance the design,
+procurement and implementation of a new Customer Management System (CMS) in order to provide
+support to the utility business functions related to revenue and customer management with the
+objective of improving customer service at the same time strengthening the business performance,
+especially reduction in commercial losses. The CMS will include aspects related to: (i) customer data
+base; (ii) Commercial Procedures; (iii) a revenue protection program including Advanced Metering
+Infrastructure (AMI) for the large electricity consumers.
+b)     Integrated Distribution Management System (IDMS): This subcomponent will support
+implementation of several system modules to develop and implement business plans to improve the
+distribution network system reliability, operating efficiency and outage management to assure
+increased customer satisfaction. Reduced outage time duration to customers, shall improve overall
+utility reliability indices (such as fault localization & restoration time, System Average Interruption
+Frequency Index (SAIFI), System Average Interruption Duration Index (SAIDI), Customer Average
+Interruption Duration Index (CAIDI) and customer satisfaction index). The IDMS will provide a
+comprehensive network management system for effective operation of distribution system by
+enhancing routine net  work monitoring, fault location and restoration; planning the network
+
+
+﻿requirements and further, will lay down the foundation for future SMARTGRID initiatives. The
+IDMS will include: (i) Geographical Information Systems (GIS); (ii) Outage Management System
+(OMS)including an Incident Recording System (IRS); (iii) Distribution Systems Operations and
+Maintenance and (iv) Distribution System Control And Data Acquisition (SCADA) system.
+o
+c)     Enterprise Resource Planning (ERP) System: The subcomponent shall finance the design,
+supply and implementation of a corporate ERP system covering the core corporate functions such as
+human resources, finance, procurement and asset management to support the utility to better plan and
+manage all of its resources.
+Sector Working Group Document Depository and Management Information System (MIS): This sub-
+component will finance an electronic document filing system and an MIS system for the Sector
+Working Group secretariat at the MININFRA which will help to coordinate the budget, aggregate
+sector relevant data and track stakeholder activities, etc. The sector data will include indicators from
+the sector value-chain and will build from a comprehensive data collection exercise from sector
+agencies. This is particularly relevant given the ongoing corporatization process, where the boards
+will also use data to support internal target setting, monitoring, and assessment, and this exercise
+contributes directly to the ability of the sector to respond to external stakeholder demands - whether
+from the ministry, donors, civil society, the media, or the regulator. This kind of performance
+management system, in the form of key performance indicators, will set methodical and predictable
+ways of achieving business results aligned with the strategic goals of the utilities and more broadly,
+the sector. The Bank has carried out such exercises in many countries in the world, including
+Bangladesh and Nepal, and will draw from them to inform the design and implementation of such a
+system in Rwanda.
+Feasibility and Diagnostic Studies: This component will support studies to address sector
+performance improvements in the medium to long term, especially those related to grid supply and
+reliability as well as options for sector development. For the former, assessments will include (but
+not be limited to) identification of investments required to (i) increase system reliability especially
+for the central business districts, such as Kigali City and the special economic zones, (ii) reduce
+network down time and operations costs through automation of network operations by considering
+options related to the integration of the distribution system operations and data acquisition to the
+national SCADA center in addition to SCADA extension to some of the secondary
+a       110/70/30/15/11/6KV substations. In addition, the assessments will include distribution network
+protection studies (fault calculations and protection grading) that will be required to enable the
+proposed network automation. For the latter, studies will support required feasibility studies and just-
+in-time policy advisory notes that are required to inform decision making regarding emerging sector
+issues.
+Project Implementation: This sub-component will finance execution, design, and supervision
+consultants to assist the entities in project implementation, sector management and coordination.
+D. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+The proposed project will fund a series of investments related to the construction of medium and low
+voltage distribution lines; and medium Voltage substation construction and rehabilitations in various
+places across the Rwandan territory. The project may result into limited potential environment and
+social impacts that will be mitigated through measures indicated in the safeguards instruments(ESMF
+and RPF).
+
+
+﻿E. Borrowers Institutional Capacity for Safeguard Policies
+Preparation, implementation and monitoring of the safeguards instruments for the proposed Project
+will be the responsibility of the Project Coordination Unit (PCU). Currently, the PCU has four staff;
+Environmental and Social Officers (two each). The safeguards staff have been trained in World
+Bank Safeguard Policies and Procedures and have adequate experience gained through the
+implementation of the ongoing Electricity Access Roll-out Program (EARP). Under this proposed
+project, the staff will receive further training and skills upgrading. For any subproject that triggers
+a       the Involuntary Resettlement Policy, the Unit will be supported by Consultants to prepare and
+execute specific resettlement action plans (RAPs), in collaboration with all relevant stakeholders,
+including potential project affected persons.
+F. Environmental and Social Safeguards Specialists on the Team
+Mary C.K. Bitekerezo (GSURR)
+Edward Felix Dwumfour (GENDR)
+II. SAFEGUARD POLICIES THAT MIGHT APPLY
+Safeguard Policies           Triggered? Explanation (Optional)
+Environmental Assessment     Yes         The proposed Project is a Category B (Partial
+OP/BP 4.01                               Assessment). Limited potential adverse
+environmental and social impacts are possible due to
+construction and rehabilitation and extension of the
+distribution network (T-lines and substations). As the
+sites and works are not finalized, the project will
+prepare an Environmental and Social Management
+Framework (ESMF) that will be consulted upon and
+disclosed prior to project Appraisal.
+Natural Habitats OP/BP 4.04  No           Project target areas will be outside ecologically
+sensitive areas. Caution will be taken in siting
+substations and transmission poles in areas that are
+not part of natural habitats. Thus, the Project is not
+expected to affect natural habitats. Using the
+checklist annexed to the ESMF, implementers will
+screen proposed project activities to ensure that
+natural habitats are avoided altogether. Diversion
+routes and alternative sites will be proposed, where
+possible.
+Forests OP/BP 4.36          No           Project target areas will avoid forest areas. Caution
+will be taken in siting substations and transmission
+poles in areas that are not part of forests. Using the
+checklist annexed to the ESMF, project
+implementers will screen proposed project activities
+to ensurethat forests are avoided altogether.
+Diversion routes and alternative sites will be
+proposed, where possible.
+Pest Management OP 4.09     No           Project will not include the manufacture, purchase,
+
+
+﻿transport, use and disposal of agrochemicals or drugs
+and hazardous substances.
+Physical Cultural Resources   TBD          Although the proposed Project will have limited
+OP/BP 4.11                                 earth works associated with rehabilitation and
+construction of distribution network, it may include
+chance finds of physical cultural artifacts. Chance
+finds procedures will be mandated by the ESMF and
+included in the earth works (civil works) contracts.
+Indigenous Peoples OP/BP      No           There are no Indigenous Peoples in the project area.
+4.10
+Involuntary Resettlement OP/  Yes          The project may involve some limited land take,
+BP 4.12                                    limited and temporary displacement of people, loss
+of assets and livelihoods due to construction
+activities, right of way and way leave acquisition,
+etc. A Resettlement Policy Framework (RPF) will be
+prepared to guide the resettlement and compensation
+of PAPs, if any. The RPF will also be consulted upon
+and disclosed prior to Project Appraisal.
+Safety of Dams OP/BP 4.37    No            The Project will not support activities associated
+with construction or use of dams.
+Projects on International     No           The Project will not result in changes to quality or
+Waterways OP/BP 7.50                       quantity of surface (or ground) water categorized as
+international waters.
+Projects in Disputed Areas OP/ No          The project will not take place in disputed areas.
+BP 7.60
+III. SAFEGUARD PREPARATION PLAN
+O
+A. Tentative target date for preparing the PAD Stage ISDS: 27-Feb-2015
+B. Time frame for launching and completing the safeguard-related studies that may be needed.
+O
+The specific studies and their timingi should be specified in the PAD-stage ISDS:
+An Environmental and Social Management Framework (ESMF) and Resettlement Policy
+Framework (RPF) will be prepared and disclosed both in-country and at the World Bank Infoshop
+before Project Appraisal scheduled for May 2015.
+IV. APPROVALS
+Task Team Leader:     Name: Paul Baringanire
+Approved By:
+Regional Safeguards Name: Alexandra C. Bezeredi (RSA)                 Date: 09-Dec-2014
+Coordinator:
+Practice Manager/     Name: Lucio Monari (PMGR)                       Date: 11-Dec-2014
+Manager:
+1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+form and language that are accessible to potentially affected persons.
+
+

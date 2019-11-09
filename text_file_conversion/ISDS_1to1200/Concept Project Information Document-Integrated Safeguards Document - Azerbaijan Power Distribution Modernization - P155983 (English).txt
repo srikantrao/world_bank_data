@@ -1,0 +1,382 @@
+﻿COMBINED PROJECT INFORMATION DOCUMENTS / INTEGRATED
+SAFEGUARDS DATA SHEET (PID/ISDS)
+CONCEPTSTAGE
+U                                                Report No.: PIDISDSC14069
+Date Prepared/Updated:    25-Jul-2015
+O
+I. BASIC INFORMATION
+A. Basic Project Data
+Country:        Azerbaijan                 Project ID:  P155983
+Parent
+Project ID
+(if any):
+Project Name: Azerbaijan Power Distribution Modernization (P 155983)
+Region:         EUROPE AND CENTRAL ASIA
+Estimated       16-Nov-2015                Estimated    19-Jan-2016
+Appraisal Date:                            Board Date:
+Practice Area   Energy & Extractives       Lending      Investment Project Financing
+(Lead):                                    Instrument:
+Sector(s):      Transmission and Distribution of Electricity (100%)
+Theme(s):       Other rural development (70%), Other urban development (30%)
+Borrower(s):    Republic of Azerbaijan
+Implementing Azerishig Open Joint Stock Company
+Agency:
+Financing (in USD Million)
+Financing Source                                                        Amount
+Borrower                                                                  100.00
+International Bank for Reconstruction and Development                     300.00
+Total Project Cost                                                        400.00
+Environmental B - Partial Assessment
+Category:
+Concept         Track II - The review did authorize the preparation to continue
+Review
+Decision:
+Is this a       No
+Repeater
+project?
+Other Decision
+(as needed):
+B. Introduction and Context
+Page 1 of 9
+
+
+﻿Country Context
+1.     Azerbaijan's economic advancement since 2000 has been remarkable. The government's
+strategy is to transform the country from a resource-oriented economy to one that is diversified
+and globally integrated. Driven by a natural resource boom, Azerbaijan's economic growth
+averaged 16 percent per annum during 2002-10. A decline in oil production brought down the
+pace of economic growth to almost zero in 2011 with a minor jump to 2.2 percent in 2012.
+Growth recovered to 5.8 percent in 2013 but fell once more to 2.8 percent in 2014. Azerbaijan's
+economy, while benefiting from booming oil exports resulting in an accumulation of current
+account surpluses and reserves, is much more reliant on oil revenues compared to other
+hydrocarbon exporters in the region. In 2013, oil accounted for 94 percent of merchandise
+exports, considerably higher than Russia (just over 50 percent) and Kazakhstan (close to 65
+percent). Therefore, the government aims to diversify the economy through the development of
+human and physical capital and institutions and encourage growth in non-oil revenues.
+2.     Azerbaijan's economic growth has benefited the poor and strengthened the middle class.
+Poverty incidence declined from close to 50 percent in the early 2000s to around 5 percent in
+2013. Consumption of goods and services by households in the bottom 40 percent grew by over 2
+percent per annum between 2007 and 2012, twice the rate of the top 60 percent. Improvements in
+living standards were also accompanied by an expansion of the middle class from just over 4
+percent to about 29 percent of the population. In spite of this considerable progress, a sizeable
+share of the population elevated from poverty remains vulnerable and could relapse into poverty
+should economic conditions deteriorate. This is especially true in non-oil sectors such as
+agriculture which contributes about 10 percent to GDP but employs nearly 40 per cent of the
+work force, whom are largely concentrated in rural areas and in the rayons, the administrative
+regions of Azerbaijan, outside of Baku.
+3.     In spite of this strong economic performance, the quality of growth needs strengthening
+and fiscal sustainability is an issue. The recent sharp drop in oil prices, coupled with the weak
+economic growth of its' main trading partners, is having an adverse impact on Azerbaijan's
+economy through reduced exports, declining oil revenues and public investment. In 2015,
+Azerbaijan will face its first fiscal deficit in over a decade, albeit cushioned somewhat by the
+devaluation of the national currency. The government is responding to the emerging challenges
+by accelerating reforms and development programs envisaged by the Vision 2020 Strategy.
+Sectoral and Institutional Context
+In 1990, Azerbaijan reached historical high in terms of annual energy supply with over 23
+Gigawatt-hour (GWh) according to data from the State Statistical Committee of the Republic of
+Azerbaijan. However, by 1995, with the same level of installed capacity from existing power
+plants (5,044 MW), energy supply had declined by almost 36 percent owning to lack of proper
+operation and maintenance of the system. Since then, the power sector in Azerbaijan has evolved
+through investments in power generation, transmission and distribution with a total installed
+capacity of 7,348 MW. In addition, between 2003 and 2009, more than 30,000 circuit kilometers
+of transmission and distribution lines have been provisioned for a total of 100,000 km in
+operation today, and a large number of meters installed. Access to the electricity grid is available
+throughout Azerbaijan, and there is also a current surplus of power generation that could
+potentially be exported to neighboring countries. This is remarkable considering that until 2007,
+power generation in Azerbaijan was not sufficient to meet peak demand, prompting the country to
+import electricity, mainly from Russia.
+Page 2 of 9
+
+
+﻿5.     In the last decade, signs of aging in the distribution grid began to surface with high
+technical losses and frequent outages. With more than 40 percent of the demand required for the
+Greater Baku region, most of the public investment went largely into generation and upgrading
+systems in large load centers, mainly in the Baku area with much less focus on other rayons in
+Azerbaijan investments in rehabilitation works took place there, resulting in improved quality of
+supply with distribution losses averaging between 10-11 percent with little or no interruption in
+the power supply.
+6.     Despite the significant positive developments enumerated above, the sector still faces the
+following challenges:
+a)     Rehabilitation of aging distribution infrastructure throughout the country. This is
+especially crucial for all rayons outside of Baku given the poor condition of the network which
+has suffered from lack of sufficient investment and given that economic development in the
+various regions will be coupled with forecasted load growth (4 percent per annum) that may not
+be possible with the current state of the network.
+b)     Sustaining sector operations and functioning. The establishment of a newly-formed utility
+with a mandate for operating and maintaining the entire electricity distribution network in all
+rayons requires careful planning and institutional development to ensure a smooth transition in the
+short-term and for operational efficiency under the new sector structure in the future. This
+includes technology, commercial systems, IT, and coordination on the generation dispatch and
+transmission functions.
+c)     Diversifying the power supply and increasing the utilization of surplus generation: with
+almost exclusive reliance on thermal power generation (90 percent), the country must look into
+diversifying its energy mix beyond the small amount of generation from hydropower plants. This
+is especially critical given the volatility of oil and gas prices, having to utilize the resource for
+domestic power generation in lieu of revenue-generating exports of the same.
+d)     Lack of robust market policy. With t he sector operating entirely by state-owned entities,
+investments in generation, transmission and distribution places a large burden on public finances.
+Also, in the absence of market rules and involvement of private stakeholder (such as independent
+power producers), the balancing of the energy system in the county is not optimized, and
+prospects for future investments decline, especially where there is potential for exporting
+electricity in no concept of a regional electricity market.
+7.     The proposed project will help address challenges a) and b) above and contribute to the
+Government of Azerbaijan's commitment to the modernization of the power sector and improving
+quality and efficiency of services to its' population as indicated in the State Program for
+Development of Fuel and Energy Sector (2005-2015) and Azerbaijan Vision 2020 Strategy
+document.
+8.     As noted above, the government has achieved a sustained level of operational efficiency
+in the electricity sector through reduction of combined technical and commercial losses from over
+22 percent to a little over 16 percent between 2009-2012 according to data from AzerEnergi
+(compared to an average of 8 percent of overall losses in very efficient utilities). In addition, there
+has been an improvement in commercial performance on billing and collections with rates around
+Page 3 of 9
+
+
+﻿90 percent (well-performing utilities exceed 98 percent). It is important to note that much of this
+efficiency is attributed to the Greater Baku area, whereas the situation in the rest of the country is
+significantly lagging behind with the highest level of system losses concentrated outside Baku,
+thus hitting the bottom 40 percent the most. Poorer communities experience the most
+interruptions in the power system and still rely on wood for heating and almost all of these occur
+away from Baku. While precise data on the state of the entire distribution grid is being collected,
+estimates from 2012 showed that roughly 90 percent of 35 kV distribution lines and substations
+needed to be reconstructed, with a high percentage of other lower voltage substations, lines and
+equipment needing replacement as well.
+9.     As revealed in recent Systematic Country Diagnostics (SCD), critical infrastructure gaps
+remain in spite of high public investment and significant improvements over the past decade.
+Azerbaijan's per capita power consumption is less than on one-third the Europe and Central Asia
+(ECA) average while transmission and distribution losses are more than double the ECA average.
+A recent analysis carried out by the government indicated that the needs for investments in the
+distribution sector is to the tune of US$ 3.5-4 billion. The condition of the aging distribution
+infrastructure in many of the rayons is very poor resulting in technical losses to the utility and can
+lead to system failures and outages if not addressed urgently. The provision of reliable and quality
+power supply to consumers in rayons is critical for reducing inequality and supporting further the
+demand for improved public service delivery outside Baku.
+10.    In order to address critical gaps and substantial losses in the power distribution network,
+the government decided in February 2015 to unbundle AzerEnerji, the state-owned vertically-
+integrated utility, by separating the electricity generation and transmission functions from the
+distribution segment. The latter became the mandate of a newly formed utility, Azerishig Open
+Joint Stock Company (OJSC). While legally a new entity, Azerishig has acquired assets, staff and
+operations from the five regional distribution companies that had been operating under the
+auspices of AzerEnerji.
+O
+11.    The challenges for Azerishig cannot be understated. Part of the rationale for unbundling
+the distribution function was due to the large overhaul of the distribution network which has
+suffered from poor maintenance and under-investment for the last two to three decades. In
+Azerbaijan, the time and cost for new customers to connect to the electricity grid remain
+prohibitively high-164 days, compared to the regional average which affects the pace of new
+development and economic activities; this situation is further aggravated outsideBaku. In nearby
+Georgia, the average is about 71 days and in well-performing countries such as Chile it is only 30
+days. The poor condition of the existing power distribution infrastructure and consumer
+connections in Azerbaijan poses a serious safety risk for the system, Azerishig staff, and persons/
+livestock living in the vicinity. As a newly formed utility, Azerishig will also need support on
+developing its corporate systems, procedures and enhance operations and maintenance practices
+to bring it in line with international best practices.
+Relationship to CAS/CPS/CPF
+12.    The proposed project supports two pillars of the draft Country Partnership Framework for
+FY 2015-2020. The first pillar focuses on public services delivery, including improving access for
+the population to communal services. The second pillar is promoting economic competitiveness,
+and the modernization of the power distribution system will enhance opportunities for the private
+sector and improve productivity of businesses in the rayons. The proposed project is also aligned
+with the government's Vision 2020 Strategy, which defines development and modernization of
+Page 4 of 9
+
+
+﻿infrastructure in the rayons as one of its key strategies for economic diversification and improving
+the welfare of its population.
+13.    The proposed project will contribute to the World Bank twin goals of reducing poverty
+and enhancing shared prosperity by supporting development in 5 rayons that have significantly
+lower per capita incomes compared to the national average. The identified rayons are primarily
+agricultural areas where a majority of the bottom 40 per cent of the population are concentrated.
+Improved electricity supply in the project areas will enhance economic opportunities, productivity
+and growth as well as contribute to improved electricity connections to educational and healthcare
+facilities.
+C. Proposed Development Objective(s)
+Proposed Development Objective(s) (From PCN)
+To improve the quality and reliability of power supply in select rayons in Azerbaijan, and
+enhance the commercial systems and operations and maintenance practices of Azerirshig.
+Key Results (From PCN)
+*      Increasing the reliability and safety of substations in the five selected rayons;
+*      Integrating the commercial and billing system of Azerishig into a single platform;
+*      Improving operations and maintenance procedures and standards in Azerishig;
+*      Beneficiary satisfaction through feedback about the quality of completed works.
+D. Concept Description
+14.    The rehabilitation and distribution system modernization in all rayons will require
+significant investments over the next five- to ten years in order to ensure continuous provision of
+quality power services to the population in all rayons. For that purpose, GoA has established
+Azerishig as a dedicated distribution company, unbundled from AzerEnerji and has recently
+concluded the legal transfer of all assets and liabilities to the new company. A review by
+Azerishig of the existing state of the distribution system concluded that investments are urgently
+needed to reconstruct and upgrade the network currently in place which have either exceeded its
+life expectancy or require replacement of major components in order to ensure future reliability to
+consumers, safety of the system and personnel, sustainable revenues and optimum operations and
+a            maintenance practices.
+15.    In preparation for these investments, Azerishig is developing a business plan to establish
+financial viability and sustainability of its operations, this includes a review of overall revenue
+requirements, including efficiency improvements, tariff level, loss reduction implementation plan
+and improving operations and maintenance practices. To support this large-scale modernization of
+the distribution network and support GoA has sought support from the World Bank and Asian
+Development Bank (ADB). The Bank project is proposed to be carried out in five (5) rayons,
+namely Sabirabad, Salyan, Beylagan, Agjabadi and Gazakh. The activities supported by ADB
+will be in different rayons; however, given that the scope of support, specifically on the
+infrastructure works will be similar, both international financial institutions (IFIs) will seek to
+collaborate on common aspects of the project such as safeguards, technical design, etc.
+16.    The proposed project will finance the following components:
+i)     Distribution Infrastructure: rehabilitation of selected distribution substations, distribution
+Page 5 of 9
+
+
+﻿lines and associated infrastructure of 110 kilovolt (kV) and 35 kV (and probably other voltage
+levels); this component will provide for project implementation support through the provision of
+an owner's engineer and/or other consulting services.
+0
+ii)    Financial sustainability: setup and enhancement of the commercial and billing system of
+Azerishig including integration of the current system into a single platform.
+iii)   Institutional Development: improvement of institutional, staffing and operations &
+maintenance practices of Azerishig.
+17.    Physical inspection of the current state of a sample of these substations revealed aging
+and outdated equipment, and in some cases, facilities that are unsafe for future operation, hence,
+completely new substations (s/s) will have to be built. Service disruption affects areas outside
+Baku the most. The components of the s/s proposed to be financed will include transformers,
+switchgears, busbars, feeder connections, low/medium voltage distribution lines and protection
+measures and other required equipment for the full-functioning of the s/s. In some instances, new
+control rooms and staff facilities may also need to be constructed. The proposed project will
+support modernization and reconstruction of a number of sites for which detailed design is not
+available yet; some sites will have sufficient area within the existing premises to construct the
+new s/s, while others may need to be located in an adjacent area.
+18.    Currently, there is a lack of uniformity in the commercial systems (integration of
+metering, billing, collections, and transferring information to accounting) used by the different
+distribution companies which now form Azerishig. The process of introducing a unified system
+within the organization is currently underway. Part of this exercise will include the development
+of International Financial Reporting Standards (IFRS) system of accounts, incorporating the
+regional distribution centers into this discipline.
+19.    Furthermore, Azerishig is going through a process of consolidation and restructuring of
+its operations, which in part is reflected in an enhanced, and uniform, commercial and billing
+system. Institutionally, this will require the development, and adoption, of new operational and
+maintenance practices, development of consumer service centers in the different regional centers
+and citizens' feedback in terms of quality of service. The project will support the institutional
+development plan by construction of facilitates that serve these purposes.
+20.    The proposed project will be gender-informed and ensures citizen engagement. The
+proposed project will facilitate gender-sensitive consultations, including on the Environmental
+and Social Management Framework (ESMF) and Environmental and Social Management Plan
+(ESMP). Consultations will be held at various stages of the design and implementation process to
+capture beneficiary feedback, which will inform any necessary refinements of design and
+implementation of the works. Citizen feedback about the quality of the completed works will be
+collected and an indicator will be included in the results framework to reflect beneficiary
+satisfaction.
+II. SAFEGUARDS
+A. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+21.    The project is proposed to be carried out in five rayons: Sabirabad, Salyan, Beylagan,
+Page 6 of 9
+
+
+﻿Agjabadi and Gazakh. The project will support rehabilitation or reconstruction of the existing sub-
+stations and related infrastructure, mainly within the current footprint. New locations might be
+suggested during the project implementation, which will be subject to individual consideration of
+environmental and social aspects.
+B. Borrower's Institutional Capacity for Safeguard Policies
+21.    The project will be implemented by Azerishig, a newly formed entity responsible for the
+electricity distribution in Azerbaijan. The day-to-day project implementation will be led by an
+experienced project management unit (PMU) which staff have worked on other infrastructure
+projects in Azerbaijan, financed by IFIs including the World Bank, and so therefore have
+considerable experience in the Bank's procedures and requirements. However, there is currently no
+designated staff in the PMU to monitor environmental and social compliance of the proposed project,
+and there is no designated unit within Azerishig to ensure environmental and social management on a
+corporate level. In order to address this gap, the project will support hiring by the PMU of a full time
+environmental specialist and possibly a part-time social specialist. In the long term, the project will
+assist Azerishig with its efforts in establishing procedures and staffing for handling the
+environmental and social aspects of electricity distribution at the national level.
+C. Environmental and Social Safeguards Specialists on the Team
+Gulana Enar Hajiyeva (GENDR)
+Jennifer Shkabatur (GSU03)
+D. POLICIES THAT MIGHT APPLY
+Safeguard Policies          Triggered? Explanation (Optional)
+Environmental Assessment    Yes         This policy is triggered due to the need to address
+OP/BP 4.01                               environmental risks which might be caused by
+rehabilitation or reconstruction of selected sub-
+stations and related infrastructure. The risks are
+Q)                                                mainly those associated with dismantling, treatment
+and disposal of old equipment and spare parts,
+including old transformers, circuit breakers, cables,
+metal scrap, crashed concrete, asbestos, etc. The
+other type of impacts are associated with
+construction of new sub-station facilities.
+Natural Habitats OP/BP 4.04  No
+Forests OP/BP 4.36          No
+Pest Management OP 4.09     No
+Physical Cultural Resources  No
+OP/BP 4.11
+Indigenous Peoples OP/BP    No
+4.10
+Involuntary Resettlement OP/  TBD       It is envisaged that the project will be implemented
+BP 4.12                                 within the footprint of existing facilities. If
+Page 7 of 9
+
+
+﻿resettlement and/or land acquisition is required
+during project preparation, a Resettlement Policy
+Framework (RPF) will be prepared to provide
+guidance and criteria for the development of site-
+specific resettlement action plans prior to
+construction. Consultations on the RPF will be
+carried out in all affected communities, and it will be
+disclosed in-country and on InfoShop prior to
+Appraisal.
+Safety of Dams OP/BP 4.37   No
+Projects on International   No
+Waterways OP/BP 7.50
+Projects in Disputed Areas OP/ No
+BP 7.60
+E. Safeguard Preparation Plan
+1. Tentative target date for preparing the PAD Stage ISDS
+01-Sep-2015
+2. Time frame for launching and completing the safeguard-related studies that may be
+needed. The specific studies and their timing should be specified in the PAD-stage
+ISDS.
+Due to the fact that detailed design for already identified sites will not be available by Appraisal,
+and new sites might be proposed during the project implementation, an Environmental and Social
+Management Framework (ESMF) with sample Environmental and Social Management Plan, instead
+of an Environmental Impact Assessment and Management Plan, will be prepared and disclosed prior
+to Appraisal. An RPF will also be prepared if land acquisition and/or resettlement will be required.
+0
+III. Contact point
+World Bank
+Contact: Arturo S. Rivera
+Title:   Lead Energy Specialist
+Contact: Sadig Aliyev
+Title:   Infrastructure Specialist
+Borrower/Client/Recipient
+Name:    Republic of Azerbaijan
+Contact: Ilgar Fatizade
+Title:   First Deputy Minister of Finance
+Email:   info@maliyye.gov.az
+Implementing Agencies
+Name:    Azerishig Open Joint Stock Company
+Contact: Baba Rzayev
+Title:   Chairman
+Email:   office@azerishig.org
+Page 8 of 9
+
+
+﻿IV. For more information contact:
+The InfoShop
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 458-4500
+Fax: (202) 522-1500
+Web: http://www.worldbank.org/infoshop
+V. Approval
+Task Team Leader(s): Name: Arturo S. Rivera,Sadig Aliyev
+Approved By
+Safeguards Advisor:     Name: Agnes I. Kiss (SA)                     Date: 31-Jul-2015
+Practice Manager/       Name: Ranjit J. Lamech (PMGR)                Date: 03-Aug-2015
+Manager:
+Country Director:       Name: Larisa Leshchenko (CD)                 Date: 27-Aug-2015
+1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at
+the InfoShop and (ii) in country, at publicly accessible locations and in a form and language that are accessible to
+potentially affected persons.
+P
+Page 9 of 9
+
+

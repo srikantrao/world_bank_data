@@ -1,0 +1,516 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+APPRAISAL STAGE
+Report No.: ISDSAI 115
+0
+Date ISDS Prepared/Updated: 21-Feb-2015
+o
+Date ISDS Approved/Disclosed: 22-Feb-2015
+I. BASIC INFORMATION
+1. Basic Project Data
+Country:        Kenya                      Project ID:  P120014
+Project Name: KE Electricity Modernization Project (P120014)
+Task Team       Kyran O'Sullivan,Clara Alvarez Rodriguez
+Leader(s):
+Estimated       20-Jan-2015                Estimated    31-Mar-2015
+Appraisal Date:                            Board Date:
+Managing Unit: GEEDR                       Lending      Investment Project Financing
+Instrument:
+Sector(s):      Transmission and Distribution of Electricity (90%), Other Renewable Energy
+(10%)
+Theme(s):       Infrastructure services for private sector development (25%), Regulation and
+competition policy (25%), Urban services and housing fo r the poor (25%), Rural
+services and infrastructure (25%)
+Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+8.00 (Rapid Response to Crises and Emergencies)?
+O
+Financing (In USD Million)
+Total Project Cost:     762.00            Total Bank Financing:  250.00
+Financing Gap:          300.00
+Financing Source                                                        Amount
+BORROWER/RECIPIENT                                                          4.50
+International Development Association (IDA)                               250.00
+IDA Guarantee                                                             200.00
+Climate Investment Funds                                                    7.50
+Total                                                                     462.00
+Environmental B - Partial Assessment
+Category:
+Is this a       No
+Repeater
+project?
+2. Project Development Objective(s)
+Page 1 of 12
+
+
+﻿The proposed project development objectives (PDOs) are: (a) to increase access to electricity; (b) to
+improve reliability of electricity service; and (c) to strengthen KPLC's financial situation.
+3. Project Description
+O
+U         1.     The Project is composed of three financing instruments through (i) IDA credit of US$250
+million; (ii) IDA Guarantee of US$ 200 million; and (iii) SREP grant of US$ 7.5 million.
+o
+Component A: Improvement in Service Delivery and Reliability (estimated cost $50 million IDA
+Credit).
+2.     Sub- Component Al (estimated cost US$10 million). Upgrade of the Supervisory Control
+and Data Acquisition/Energy Management System (SCADA/EMS). This component will finance
+upgrades of the SCADA/EMS by incorporating key existing substations to the system and installing
+additional switchgear in medium voltage distribution networks to enhance flexibility in operations.
+3.     Sub- Component A2 (estimated cost US$20 million). Distribution system enhanced
+flexibility. The component aims at achieving 90 percent automation of the networks in Nairobi by
+installing a total of 1,000 load break switches in assets operating at 11, 50 and 66 kV, with associated
+Remote Terminal Units and communications features enabling remote control and operations.
+4.     Sub-component A3 (estimated cost US$20 million). Enhanced maintenance practices to
+improve quality in electricity supply. In order to further reduce interruptions in electricity service, the
+Kenya Power and Lighting Company (KPLC) will implement live-line maintenance. This requires
+specific equipment, tools and intensive training of staff in charge of the works.
+5.     Component B: Revenue Protection Program (RPP) (estimated cost US$40 million). This
+component will finance implementation by KPLC of a revenue protection program, based on the
+application of advanced metering infrastructure (AMI), and the adoption of organizational
+arrangements.
+6.     Component C: Electrification Program (estimated cost US$160 million). This component has
+peri-urban and off-grid electrification sub-components.
+7.     Sub-component C1. Peri-urban electrification (estimated cost US$153.5 million). This
+a        Component will finance the design, materials and construction works required to electrify all
+households and businesses in some high density peri-urban areas (measured through the ratio number
+of prospective users/km2) located close to existing electricity networks.
+8.     Sub-Component C2: Off-grid electrification (estimated cost US$11 million). This component
+will finance (i) renewable energy mini-grids by targeting and removing the principal constraints to
+engage the private sector to partner with the public sector to deliver electricity services powered by
+renewable energy sources to consumers in towns in remote areas. This will comprise the construction
+or extension of mini-grids and solar PV electrification (and wind turbines).
+9.     Component D: Technical Assistance and Capacity Building (estimated cost US$7.5 million).
+This component will finance consultancy services, training actions and other activities to support,
+among others: Preparation of the National Electrification Strategy; national technical specifications
+and standardization; regulations for enforcing quality on electricity service delivery; consultancy
+services, training actions and other activities to support the implementation of the project.
+Page 2 of 12
+
+
+﻿IDA Guarantee
+10.    IDA Guarantee (US$200 million IDA Guarantee). The project will provide a $200 million
+IDA Guarantee to enhance KPLC's credit quality in order to raise new commercial debt. This new
+O
+U         debt will be used to restructure/replace KPLC's existing commercial loans and thus reduce the
+company's financing costs, create savings that will provide the company with liquidity it currently
+does not have, and enable KPLC to continue investing in the quality and coverage of its services and
+the development of the power system in the country.
+4. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+11.    Minimal adverse social risks are anticipated under this project and no resettlement is
+expected under any component of this project. All new infrastructure investments in Component A
+(Improvement in Service Delivery and Reliability) and Component B (Revenue Protection) will be at
+existing electricity network infrastructure (i.e., at existing KPLC substations and lines). There will be
+no land acquisition for these components. In Sub-Component A3 (live-line maintenance), the project
+will provide special safety training for maintenance teams, and the provision of specialized tools and
+equipment to ensure safety of maintenance teams and bystanders during live maintenance works.
+12.    Sub-Component C1 Peri-Urban Electrification. This sub-component will be implemented by
+KPLC in up to 50 locations across the country targeting 125,000 households. The majority of low
+and medium voltage lines will mainly be constructed along road reserves and existing rights of ways.
+Anticipated social impacts will be minimal and mostly involve KPLC compensation for crops and or
+trees which could be damaged during contruction.
+13.    Sub-Component C2 (off-grid electrification through construction of mini-grids). This sub-
+component will be implemented by REA and will support the implementation of off-grid
+electrification solutions in areas whose connection to the national grid is financially not viable in the
+short and medium term. Electrification of those areas will be implemented through mini grids
+supplied to hybrid generation systems, combining renewable resources (solar or wind) and thermal
+units running on diesel. This sub-component will use a PPP approach. The selection of project areas
+is based on the number of potential users and their demand, supported by an ongoing market
+sounding, a demand survey and pre-feasibility studies being carried out by REA. Typically the
+schemes will be implemented in villages of 150-400 prospective users and approximate demand of
+250-500kVA.
+14.    The mini-grid infrastructure in sub-component C2 will have low to moderate negative
+impacts on the environment, depending on locations and the nature of the investments. These impacts
+would result from the installation of solar panels (requiring a plan for disposal of batteries), and
+small wind turbines (which may have an impact on avifauna). A screening process will be followed
+to ensure that potential negative impacts can be appropriately mitigated, and that sub-projects are not
+located in critical natural habitats including National Parks and Protected Areas. The impacts and
+relevant mitigation measures will be described in the Environmental and Social Management
+Framework (ESMF) for component C2 that has been prepared by the KPLC and that will be
+disclosed prior to appraisal.
+15.    Although the sub-projects are not expected to traverse areas of cultural or historical
+importance, Operational Policy (OP) 4.11 (Physical Cultural Resources) is triggered as a precaution.
+Chance find procedures will be included in contracts and in the environmental documents.
+Page 3 of 12
+
+
+﻿16.    These sub-project investments may require the acquisition of land for the mini grids,
+however the proposed mini-grid generation facilities (turbines, solar panels) will have a relatively
+small footprint and siting of such facilities can be located in places that avoid the need for
+O
+)        resettlement. In this regard, the project will trigger OP 4.12 (Involuntary Resettlement) in the case of
+sub-component C2 as this component will require land acquisition for the hybrid generation facilities.
+17.    Since not all sub-project sites in Component C2 can be identified in advance, a Resettlement
+Policy Framework (RPF) has been prepared that will be disclosed prior to project appraisal. Based on
+the RPF guidance, each subproject will be screened, and if RAPs are found to be necessary, these
+will be prepared, cleared, disclosed and implemented prior to the commencement of civil works, in
+accordance with World Bank OP 4.12. Should such a need materialize requiring land acquisition and
+necessitating the movement of persons and /or structures then a RAP will be developed to be guided
+by the RPF. REA has a good track record with regard to implementation of the social safeguards
+including under the Kenya Electricity Expansion Project.
+18.    The project will trigger Operational Policy OP 4.10 (Indigenous Peoples) for Sub-component
+C2 and a VMGF has been prepared. The OP 4.10 is triggered when it is likely that groups that meet
+criteria of OP 4.10 "are present in, or have collective attachment to, the project areal." The VMGF,
+ESMF and RPF for Component C2 will include: (i) screening to determine presence of Vulnerable
+and Marginalized Groups (Indigenous Peoples per OP 4.10 criteria) in the project areas and, if
+present, (ii) measures to ensure they benefit from the project activities through the preparation of a
+Vulnerable and Marginalized Group Plan (VMGP). In sub-component C1, the sub-projects will be
+located in urban and peri-urban areas, and so it is unlikely that groups meeting criteria of indigenous
+groups will be affected.
+5. Environmental and Social Safeguards Specialists
+Gibwa A. Kajubi (GSURR)
+Noreen Beg (GENDR)
+o
+6. Safeguard Policies       Triggered? Explanation (Optional)
+Environmental Assessment    Yes         The Project is proposed as category B Partial
+OP/BP 4.01                              Assessment - assigned to projects that are likely to
+have limited and reversible environmental impacts,
+that can be readily mitigated. There are no significant
+and/or irreversible adverse environmental issues
+anticipated from the investment sub-components to
+be financed under the Project, as the nature of civil
+works is limited in the most part to the construction
+of medium voltage and low voltage lines to connect
+new customers; the installation of switchgear in
+existing substations (Sub-Component Al); and the
+construction of mini-grids in remote areas (Sub-
+Component C2).
+The proposed mini-grid extensions/creations in rural
+areas using renewable energy, will have a positive
+impact on the environment overall, by improving the
+Page 4 of 12
+
+
+﻿supply of electricity in the rural locations where the
+Project is implemented hence potentially reducing
+the use of fossil fuels for lighting by households. The
+increase in electricity access in thee locations is
+expected to have important health benefits and
+educational benefits (through the provision of
+electricity to clinics and schools). However, the
+physical interventions resulting from the
+implementation of investments in rural areas could
+have low to moderate negative impacts on the
+environment, depending on locations and the nature
+of the investments. These impacts would result from
+the installation of solar panels (requiring a plan for
+disposal of batteries), and small wind turbines (which
+may have an impact on avifauna). A screening
+process will be followed to ensure that potential
+negative impacts can be appropriately mitigated, and
+that sub-projects are not located in critical natural
+habitats, and -if it is unavoidable that they traverse
+National Parks and Protected Areas - that appropriate
+mitigation actions be taken. The impacts and relevant
+mitigation measures will be described in the
+Environmental and Social Management Framework
+(ESMF) for Component C2.
+A standard EMP has been prepared by KPLC for the
+equipment work at substations under sub-component
+Al. This EMP primarily addresses safety measures
+and waste disposal measures for construction
+materials and obsolete equipment.
+ESMFs have been prepared, consulted upon and
+disclosed for Components C1 and C2. The ESMFs
+contain an environmental social screening process,
+and includes environmental guidelines for
+contractors. If it is determined thorough the
+screening process that any sub-projects would
+require a full environmental assessment, NEMA
+approval will be sought before commencement of
+detailed design to ensure that good practices are
+included in the technical design. The ESMFs will
+serve as the environmental safeguards document in
+cases where a full environmental assessment is not
+deemed necessary based on the findings of the
+screening. The ESMFs also requires that all
+construction materials (in particular wooden poles
+treated with creosote) are sourced from firms that
+Page 5 of 12
+
+
+﻿have undergone a satisfactory environmental impact
+assessment/audit and have received NEMA approval.
+Consultations with stakeholders has been undertaken
+during the preparation of environmental documents.
+Minutes of stakeholder meetings, including measures
+proposed to address grievances have been included
+as an Annex to the ESMFs.
+Natural Habitats OP/BP 4.04  Yes         Given the urban and peri-urban locations of the C1
+sub-component peri-urban electrification, impacts to
+natural habitats will be minimal.
+For the sub-projects in Component C2 located in
+rural areas, REA will liaise with KWS to assess if the
+installations are in the vicinity of important wildlife
+habitats or wildlife corridors, and to propose
+mitigation measures if so. Should KWS indicate an
+impact on critical habitats, REA will avoid these
+areas or provide some natural barriers to enable
+wildlife to freely and safely bypass the construction
+area.
+Bird collisions will be avoided by reducing height of
+turbines as feasible, (should any small wind-power
+projects be adopted under the off-grid electrification
+component) and not placing them in the migration
+routes of important bird species or in Important Bird
+Areas (IBAs). Nature Kenya, the Ornithology
+Department of the Museums of Kenya and KWS
+could provide guidance in this area.
+Forests OP/BP 4.36          No          Although there will be a need for replacement of
+some trees that may be removed along existing
+Rights of Way in Components C1 and C2, no natural
+forest will be affected in urban areas and the scale of
+deforestation/reforestation will be moderate. In rural
+areas in Component C2, sub-projects will be
+screened to ensure that projects are not in or traverse
+natural forests.
+Pest Management OP 4.09     No          The project does not include purchase or use of
+pesticides. Any clearing of vegetation will be
+undertaken manually.
+Page 6 of 12
+
+
+﻿Physical Cultural Resources  Yes        OP 4.11 (Physical Cultural Resources) is triggered as
+OP/BP 4.11                              a precaution, although the sub-projects are not
+expected to traverse areas of cultural or historical
+importance. Chance find procedures are explained in
+the ESMF and will be included in construction
+contracts and EMPs.
+Indigenous Peoples OP/BP    Yes         The project will trigger Operational Policy OP 4.10
+4.10                                    (Indigenous Peoples) for Sub-component C 2: Off-
+grid electrification. The O.P. 4.10 is being triggered
+for the Off-Grid component which will be
+implemented in up to six communities/villages that
+are not so remote in rural areas (mostly islands) at
+Siaya, Homa Bay, Kwale, Tana River, and Kilifi. An
+initial screening indicates that there may be groups
+that meet the O.P. 4.10 criteria in the Coast (Boni,
+Watta, Banjul, Sanye, and Mjikende). The sub
+project investments under KEMP Component C2
+(Off-Grid) might impact on these communities of
+VMGs. A Vulnerable and Marginalized Framework
+(VMGF) has been prepared, consulted upon and
+disclosed to guide the preparation of plans to
+mitigate any negative effects and to enhance benefits
+of the KEMP sub projects investments that may
+affect Vulnerable and Marginalised Groups (VMGs)
+in the sub project areas.
+Involuntary Resettlement OP/  Yes       The investments proposed under sub component C1
+BP 4.12                                 will focus on the upgrading of existing infrastructure
+within existing rights of ways. No new high voltage
+(HV) lines or sub-stations will be constructed. Only
+short lengths of medium voltage lines and low
+voltage (LV) lines will be constructed to connect
+households. The LV lines do not require land
+acquisition and/or involuntary resettlement of
+households as would HV transmission lines.
+Component C1 Peri- Urban Electrification will be
+implemented in up to 50 locations across the country
+targeting 125,000 households. No resettlement is
+envisaged under this sub-component. The anticipated
+social impacts will be minimal and might involve
+KPLC compensation for crops and or/trees which
+could be damaged during way leave acquisition.
+Since not all sub-project sites in Component and C2
+can be identified in advance, a Resettlement Policy
+Framework has been prepared that will be disclosed
+prior to project appraisal. Based on the RPF
+guidance, each sub-project in Component C2 will be
+Page 7 of 12
+
+
+﻿screened, and if RAPs are found to be necessary,
+these will be prepared, cleared, disclosed and
+implemented prior to the commencement of civil
+works, in accordance with World Bank OP 4.12
+(Involuntary Resettlement).
+Safety of Dams OP/BP 4.37   No          N/A
+Projects on International  No          N/A
+Waterways OP/BP 7.50
+Projects in Disputed Areas OP/ No       N/A
+BP 7.60
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+and describe any potential large scale, significant and/or irreversible impacts:
+Given the urban and peri-urban locations of the sub-projects in Components A, B and Cl, impact
+on natural habitats is expected to be minimal. Although there may be a need for replacement of
+trees that may be removed along Rights of Ways (roads) no natural forest will be affected. Any
+trees removed from Rights of Way will be replaced. In Component C2, the physical interventions
+resulting from the implementation of investments in rural areas could have low to moderate
+negative impacts on the environment, depending on locations and the nature of the investments.
+These impacts would result from the installation of solar panels (requiring a plan for disposal of
+batteries), and small wind turbines (which may have an impact on avifauna). A screening process
+will be followed to ensure that potential negative impacts can be appropriately mitigated, and that
+sub-projects are not located in critical natural habitats, and -if it is unavoidable that they traverse
+National Parks and Protected Areas- that appropriate mitigation actions be taken. The impacts and
+O
+U           relevant mitigation measures are described in the project's Environmental and Social Management
+Frameworks (ESMFs) for Components C1 and C2 that will be disclosed prior to appraisal.
+The investments under Component C1 no new high voltage (HV) lines will be required. Medium
+voltage (MV) and low voltage (LV) lines will be constructed in peri-urban areas. The MV and LV
+lines do not require land acquisition and/or involuntary resettlement of households as would HV
+transmission lines. The construction of lines will take place along existing Rights of way (RoW) i.
+e., along existing roads.
+The off grid electrification component C2 will however require acquisition of land for the hybrid
+generation facilities. Although resettlement will be minimized to the extent possible, Resettlement
+Action Plans (RAPs) may be required. Should such a need materialize requiring land acquisition
+and necessitating the movement of persons and /or structures then RAPs will be developed to be
+guided by the RPF for Component C2.
+Since not all sub-project sites can be identified in advance in Component C2, a Resettlement
+Policy Framework has been prepared that will be disclosed prior to project appraisal. Based on the
+RPF guidance, each subproject in Component C2 will be screened, and if RAPs are found to be
+necessary, these will be prepared, cleared, disclosed and implemented prior to the commencement
+Page 8 of 12
+
+
+﻿of civil works, in accordance with World Bank OP 4.12 (Involuntary Resettlement).
+Component C2 which will be implemented in rural areas in three regions of the country (Western,
+Coast and Central). The project will be implemented nationally. At the time of preparation of this
+O
+VMGF (a) the locations of where the off-grid electrification subcomponents will be implemented
+and the site where the infrastructure will be constructed at these locations have not been finalized
+(further pre-feasibility work is required in order to confirm the locations and sites). Six locations
+have been proposed. These locations include those where vulnerable and marginalised groups that
+meet the criteria of OP 4.10 may be found. These are Siaya County (Mageta Island); Homa Bay
+County (Ngodhe Island); Homa Bay County (Takawiri Island); Kwale County (Shimoni); Tana
+River Island County (Chardende); and Kilifi County (Kadaina Island).
+VMGs that may be present in these counties include, Mjikenda/Watha, Sanye, Watha, Boni,
+Bajuni, and Watha.
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+in the project area:
+The VMGF will outline the processes and principles of: (a) screening to determine if a proposed
+sub-project investment will be undertaken in the vicinity of vulnerable and marginalized
+communities; and the (b) the preparation of a VMGP including the social assessment process,
+consultation and stakeholder engagement, disclosure procedures, communication and grievances
+redress mechanism. A detailed VMGP will be prepared for each sub project once project location
+is identified and screening conducted and determination via screening is made that VMGs are
+present in the project investment area. The VMGF will provide for the screening and review of
+component C2 investments in a manner consistent with this policy and the VMGF
+recommendations will be integrated into the project design of each sub project investment.
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+impacts.
+N/A
+O
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+assessment of borrower capacity to plan and implement the measures described.
+A review was undertaken of Environmental Impact Assessments (EIA) prepared for sub-stations
+and an underground distribution cable financed under the Kenya Energy Sector Recovery Project.
+These EIAs were prepared as per Kenyan environmental regulations and the Environmental and
+Social Management Framework (ESMF) documentation prepared by the Bank to be used as a
+guideline in assessing environmental compliance and screening of sub-projects. The EIAs were
+generally of good quality, though it should be noted that, going forward as a standard practice,
+timely and informed consultation with stakeholders will be undertaken early in the project
+preparation process, and adequately documented. Any grievances from stakeholders will be
+recorded and responded to in a timely manner.
+In 2014, an independently commissioned review was undertaken of KPLC's Safety, Health and
+Environment (SHE) Department's performance in preparing environmental documentation and
+RAPs, and monitoring EMPs and RAPs for World Bank funded projects. The review
+recommended capacity enhancement measures.
+These measures will be put into place prior to the start of civil works on the Project.
+Page 9 of 12
+
+
+﻿*      Additional qualified and experienced staff has already been brought on board to assist
+with the department's heavy workload (two environmentalists and one socio-economist).
+*     The purchase of equipment for baseline environmental data capture (water quality, air
+O
+quality, noise) and analysis has commenced.
+*     The adoption of the suggested stakeholder involvement and public engagement
+procedures, and harmonization with the Property Department of KPLC on land take activities, to
+promote prior consultation on RAPs and compensation matters, (is underway).
+* The PIUs of REA and KPLC for KEMP will include both environmental and social
+specialists.
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+on safeguard policies, with an emphasis on potentially affected people.
+Consultations with local stakeholders were undertaken prior to finalization and publication of the
+environmental documents. Minutes of the stakeholder meetings, including grievance redress
+mechanisms, are included as Annexes in the safeguard instrument documents.
+B. Disclosure Requirements
+Environmental Assessment/Audit/Management Plan/Other
+Date of receipt by the Bank                              02-Jan-2015
+Date of submission to InfoShop                           09-Jan-2015
+For category A projects, date of distributing the Executive  ///
+Summary of the EA to the Executive Directors
+"In country" Disclosure
+Kenya                                                    02-Jan-2015
+Comments:
+Resettlement Action Plan/Framework/Policy Process
+Date of receipt by the Bank                              02-Feb-2015
+Date of submission to InfoShop                           03-Feb-2015
+"In country" Disclosure
+Kenya                                                    02-Feb-2015
+Comments:
+Indigenous Peoples Development Plan/Framework
+Date of receipt by the Bank                              02-Feb-2015
+Date of submission to InfoShop                           03-Feb-2015
+"In country" Disclosure
+Kenya                                                    02-Feb-2015
+Comments:
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please explain why:
+Page 10 of 12
+
+
+﻿C. Compliance Monitoring Indicators at the Corporate Level
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP)  Yes [X] No [  ]  NA [  ]
+report?
+If yes, then did the Regional Environment Unit or Practice  Yes [ X] No [  ]  NA [  ]
+Manager (PM) review and approve the EA report?
+Are the cost and the accountabilities for the EMP incorporated Yes [ ] No [ ] NA [ X]
+in the credit/loan?
+OP/BP 4.04 - Natural Habitats
+Would the project result in any significant conversion or  Yes [  ] No [X]  NA [  ]
+degradation of critical natural habitats?
+If the project would result in significant conversion or  Yes [  ] No [  ]  NA [ X]
+degradation of other (non-critical) natural habitats, does the
+project include mitigation measures acceptable to the Bank?
+OP/BP 4.11 - Physical Cultural Resources
+Does the EA include adequate measures related to cultural Yes [ X] No [ ] NA [ ]
+property?
+Does the credit/loan incorporate mechanisms to mitigate the Yes [ X] No [ ] NA [ ]
+potential adverse impacts on cultural property?
+OP/BP 4.10 - Indigenous Peoples
+Has a separate Indigenous Peoples Plan/Planning Framework Yes [ X] No [ ] NA [ ]
+(as appropriate) been prepared in consultation with affected
+Indigenous Peoples?
+If yes, then did the Regional unit responsible for safeguards or Yes [ X ] No [ ] NA [ ]
+Practice Manager review the plan?
+Ifthe whole project is designed to benefit IP, has the design  Yes[X]  No[  NA
+been reviewed and approved by the Regional Social
+Development Unit or Practice Manager?
+OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy framework/  Yes[X]  No[    NA
+process framework (as appropriate) been prepared?
+If yes, then did the Regional unit responsible for safeguards or Yes [X] No [  ]  NA [  ]
+Practice Manager review the plan?
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the Yes [ X] No [ ] NA [ ]
+World Bank's Infoshop?
+Have relevant documents been disclosed in-country in a public Yes [ X] No [ ] NA [ ]
+place in a form and language that are understandable and
+accessible to project-affected groups and local NGOs?
+All Safeguard Policies
+Page 11 of 12
+
+
+﻿Have satisfactory calendar, budget and clear institutional  Yes[X]  No[   NA
+responsibilities been prepared for the implementation of
+measures related to safeguard policies?
+Have costs related to safeguard policy measures been included Yes[X]  No[  NA
+o          in the project cost?
+Does the Monitoring and Evaluation system of the project  Yes[X]  No[     NA[
+0          include the monitoring of safeguard impacts and measures
+related to safeguard policies?
+Have satisfactory implementation arrangements been agreed  Yes[X]  No[    NA[
+with the borrower and the same been adequately reflected in
+the project legal documents?
+III. APPROVALS
+Task Team Leader(s): Name: Kyran O'Sullivan,Clara Alvarez Rodriguez
+Approved By
+Practice Manager/     Name: Lucio Monari (PMGR)                Date: 22-Feb-2015
+Manager:
+Page 12 of 12
+
+

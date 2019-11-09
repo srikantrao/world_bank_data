@@ -1,0 +1,154 @@
+                                            INTEGRATED SAFEGUARDS DATA SHEET
+                                               IDENTIFICATION / CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                                Report No.: ISDSC17389
+
+                         Date ISDS Prepared/Updated: 07-Mar-2016
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:              Swaziland                       Project ID:      P159628
+                            Project Name:         Swaziland IFMIS Technical Assistance Project
+                            Team Leader(s):       Gert Johannes Alwyn Van Der Linde
+                            Estimated Date        10-Aug-2016
+                            of Approval:
+                            Managing Unit:        GGO13                           Lending          IPF
+                                                                                  Instrument:
+                            Sector(s):          Central government administration (100%)
+                            Theme(s):           Public expenditure, financial management and procurement (100%)
+                            Financing (in USD Million)
+                            Total Project Cost:    8.64238886                 Total Bank Financing: 0
+                            Financing Gap:         0
+                              Financing Source                                                                            Amount
+                              Borrower                                                                                 5.00178886
+Public Disclosure Copy
+
+
+
+
+                              European Commission Development Fund - TF                                                     3.6406
+                            Environment       C - Not Required
+                            Category:
+
+                           B. Project Development Objective(s)
+                           15.      The development objective is to improve financial control, and the quality and timeliness of
+                           public financial management information.
+                           C. Project Description
+                           17.      The project will support the procurement, configuration and implementation of an off-the-
+                           shelf financial management system for all budget votes funded through the Government’s
+                           Consolidated Fund. In broad terms, it has been agreed that the two sources of funding will be used as
+                           follows:
+                           a.       Government has confirmed in September 2015 that it will provide the necessary funding for
+                           the purchase of hardware and software in the 2016/17 MTEF. This is estimated to be USD5.00
+                           million.
+                           b.       The EC funding of USD3.64m (EUR3.34m) would be channeled through a “Recipient
+                           Executed Trust Fund” at the World Bank, and fund the technical assistance required for – (i) the
+                           design and implementation of the new PFM business processes, controls and information and
+                           technical architectures; (ii) direct costs associated with the delivery of the technical assistance; and
+                         (iii) project management.
+
+                         18.    Component 1: Design and implementation of the new PFM business processes, controls and
+Public Disclosure Copy
+
+
+
+
+                         information and technical architectures (USD2.11m)
+
+                         This activity will provide technical assistance for –
+
+                         a.      Business process mapping, review and reengineering; design of the financial control,
+                         accounting and reporting requirements; and determination of system interfaces.
+                         b.      Technical architecture review and design, including site locations, networks, server
+                         environment, end-user equipment, data storage and back-up facilities
+                         c.      Determination of the user base and capacity gap assessment
+                         d.      Assessment of change management requirements
+                         e.      Procurement and contracting the IFMIS solution components
+                         f.      Quality assurance of the set-up, configuration and commissioning of the IFMIS solution
+                         g.      Delivery of the business process, accounting, reporting and IFMIS training plans
+                         h.      Implementation of the change management plan
+                         i.      Set-up of the IFMIS administration functions, including security and business continuity
+                         arrangements and procedures
+                         j.      Data clean-up and conversion from the TAS to the new IFMIS
+
+                         19.     Directs costs associated with set-up of the Trust Fund and the delivery of the technical
+                         assistance (USD1.01m)
+
+                         This activity includes the direct costs associated with the provision of technical assistance, training
+                         and change management, as well as the compulsory trust fund set up costs and management fee.
+
+                         20.     Project management (USD0.52m)
+Public Disclosure Copy
+
+
+
+
+                         Project management and administration costs will be covered under this component, including audit
+                         fees.
+
+                         21.     Implementation approach
+
+                         In the first instance, the IFMIS will be made available to the Treasury accounting unit at the Office
+                         of the Accountant-general, with the immediate objective to establish effective control over
+                         expenditure commitments and the completeness and accuracy of the accounting records of line
+                         ministries and the Consolidated Fund. At this stage, it would appear that controls over expenditure
+                         commitments are ineffective, and that bank reconciliations are not up to date. This creates an
+                         untenable situation for budget execution and, given uncertainties in SACU revenues, introduces
+                         substantial fiscal risk for the Government. Expenditure data of line ministries will continue to be
+                         created in TAS, and interfaced into the new IFMIS at the center. As a second phase, line ministries
+                         will then be connected to the IFMIS in a phased manner, determined by budget control priorities, and
+                         connectivity and capacity development activities.
+                         D. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+                         Mbabane - no salient features relevant to for safeguard analysis.
+                           E. Borrower’s Institutional Capacity for Safeguard Policies
+Public Disclosure Copy
+
+
+
+
+                           F. Environmental and Social Safeguards Specialists on the Team
+                           Paula F. Lytle (GSU07)
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+                           Safeguard Policies                           Triggered?           Explanation (Optional)
+                           Environmental Assessment OP/                 No
+                           BP 4.01
+                           Natural Habitats OP/BP 4.04                  No
+                           Forests OP/BP 4.36                           No
+                           Pest Management OP 4.09                      No
+                           Physical Cultural Resources OP/              No
+                           BP 4.11
+                           Indigenous Peoples OP/BP 4.10                No
+                           Involuntary Resettlement OP/BP               No
+                           4.12
+                           Safety of Dams OP/BP 4.37                    No
+                           Projects on International                    No
+                           Waterways OP/BP 7.50
+                           Projects in Disputed Areas OP/BP             No
+                           7.60
+
+                         III. SAFEGUARD PREPARATION PLAN
+Public Disclosure Copy
+
+
+
+
+                               Appraisal stage ISDS required?: No
+                         IV. APPROVALS
+                           Team Leader(s):                  Name: Gert Johannes Alwyn Van Der Linde
+                           Approved By:
+                           Safeguards Advisor:              Name: Nathalie S. Munzberg (SA)                                    Date: 24-May-2016
+                           Practice Manager/                Name: Guenter Heidenhof (PMGR)                                     Date: 24-May-2016
+                           Manager:
+
+
+
+                           1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the
+                           InfoShop and (ii) in country, at publicly accessible locations and in a form and language that are accessible to potentially
+                           affected persons.
+

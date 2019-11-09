@@ -1,0 +1,544 @@
+                            Integrated Safeguards Data Sheet (Updated)
+
+
+Section I - Basic Information
+Date ISDS Prepared/Updated: 01/21/2003
+A. Basic Project Data (from PDS)
+I.A.1. Project Statistics
+Country: NICARAGUA                                            Project ID: P073246
+                                                              Global Supplemental ID: P075194
+Project: Nicaragua Offgrid Rural Electrification for          Task Team Leader: Clemencia Torres
+Development
+Authorized to Appraise Date: December 5, 2002                 IBRD Amount ($m):
+Bank Approval: April 8, 2003                                  IDA Amount ($m): 11.99
+                                                              Global Supplemental Amount ($m): 4.41
+Managing Unit: LCSFE                                          Sector: Power (60%); Renewable energy (40%)
+Lending Instrument: Specific Investment Loan (SIL)            Theme: Civic engagement, participation and
+Status: Lending                                               community driven development (P); Regulation and
+                                                              competition policy (P); Infrastructure services for
+                                                              private sector development (P); Rural services and
+                                                              infrastructure (P); Indigenous peoples (S)
+
+
+I.A.2. Project Objectives (From PDS):
+Project Development Objective. The main project development objective is to support the sustainable
+provision of electricity services and associated social and economic benefits in selected rural sites in
+Nicaragua, and to strengthen the Government's institutional capacity to implement its national rural
+electrification strategy. This would be accomplished by (i) assisting the Government in the design and
+implementation of its national rural electrification strategy; (ii) implementing innovative public/private
+off-grid electricity delivery mechanisms in several pilot sites for later replication on a national scale; and
+(iii) demonstrating in the pilot areas the potential of targeted rural micro-finance and business
+development services (BDS) to significantly enhance the development impact of rural electrification.
+
+While Nicaragua has successfully unbundled its power sector and privatized distribution activities, about
+89% of the population in the rural areas are still without access to electricity. Even though more than half
+of its population lives in urban areas, Nicaragua is a predominantly agricultural economy (32.7 per cent
+of GDP came from the agricultural sector in 2000), and most of Nicaragua's poor live in the rural areas.
+Given these characteristics, the lack of electricity and other public services is a serious obstacle to the
+economic and social development of the country. To address this problem, the Comisión Nacional de
+Energia (CNE) is developing a National Rural Electrification Plan (PLANER) aiming to achieve rural
+electrification rates of 70% by 2005 and 90% by 2012. As part of their effort to ensure the achievement
+of these access expansion targets, the GON has requested World Bank support for the design and
+implementation of the national rural electrification strategy, which covers both grid extension and
+off-grid solutions. The requested support includes: (i) the design and implementation of the necessary
+legal, regulatory and institutional framework for PLANER, as well as an appropriate financing
+mechanism, including output-based public incentives; (ii) transaction advice to CNE for all subprojects
+to be financed under PERZA; (iii) institutional strengthening of CNE and the regulatory agency (INE), as
+well as training for the new service providers; and (iv) the reduction of existing market barriers to
+renewable energy technologies.
+
+The new GON Development Strategy places a strong emphasis on the rapid achievement of results that
+will contribute to improve Nicaragua's competitiveness and reduce the poverty level. The Project reflects
+
+                                                         2
+                                                                                                        ISDS
+
+
+
+these GON priorities, as it includes the design and sequenced implementation of several locally adopted
+electricity service delivery mechanisms (mostly based on decentralized off-grid solutions) in various pilot
+sites that reflect the physical and socioeconomic diversity of remote rural municipalities of Nicaragua.
+The emphasis on off-grid electrification arises from the fact that CNE's strategy, as well as most of the
+international aid for rural electrification (RE), has hitherto focused exclusively on programs for grid
+extension. However, for a significant part of Nicaragua's poor, such grid-based solutions are
+economically unviable, because of their remoteness. The diversity of delivery mechanisms and off-grid
+technologies to be implemented in the pilot projects matches real local demand patterns in a more
+flexible way, and makes use of the diversity of renewable energy resources in Nicaragua, many of which
+are not only environmentally benign but economically competitive in these contexts. Amongst others, the
+project will support a national credit line for Solar Home System (SHS), which are the least cost
+alternative for electricity provision to a majority of the disperse, mostly indigenous, population along the
+Northern Atlantic Coast, a region that lacks other sources of energy and has been overlooked by past RE
+efforts. The lessons learned from the pilot projects will help to fill vital gaps in the design of GON's
+national rural electrification strategy and ensure greater involvement of the private sector in future
+replication efforts. In parallel to implementing concrete RE projects in Phases One and Two, the Project
+aims at facilitating this replication process on national scale through a third phase of RE projects, by
+providing the necessary technical assistance to CNE to prepare and implement a third set of sub-projects,
+based on the lessons from Phase One and Two, as part of the implementation of PLANER.
+Electricity access increases the potential for greater economic activity and improved productivity, but it
+is not sufficient by itself to realize this potential. Therefore, the project includes accompanying
+microfinance and business development services (BDS) components. The high up-front costs of most
+off-grid technologies have been identified as one of the key barriers to adoption by rural households, and
+the lack of monetary resources in many poor communities is known to limit the possibility of economic
+growth for the local economy. By providing microfinance services to the pilot areas, the project will
+bring in much needed liquidity to cash-strapped local communities, thereby reducing this affordability
+barrier to households and microbusinesses and allowing micro-businesses to invest in and expand their
+businesses. To create a client base large enough to attract private sector interest, the microfinance
+services will be provided also to communities neighboring the pilot sites. There is a strong correlation
+between electricity and BDS. On the demand side, electricity can directly increase the productivity of
+rural businesses and thus raise income and employment -- while on the supply side, electricity service
+provision becomes more sustainable in turn due to the improved capacity-to-pay of these anchor clients.
+By developing targeted business development services, the project will reduce the production, marketing,
+technology, and information bottlenecks of small and microbusinesses in the pilot sites and surrounding
+areas and thus increase the overall impact of electrification on the economic and social development of
+the target communities.
+
+Global Objective. The project's global environmental objective is to achieve greenhouse gas (GHG)
+reductions through the reduction of policy, information, financing and institutional capacity barriers that
+currently hinder renewable energy technology (RET) dissemination and market development in
+Nicaragua (GEF Operational Program No. 6). In support of this objective, the project will engage the
+private sector in commercially sustainable activities that reduce long-term implementation costs and offer
+a strong potential for nationwide replication in Nicaragua and in other Central American countries.
+
+I.A.3. Project Description (From PDS):
+
+Nature of the Components: To achieve the objectives mentioned under section 2, the project will
+implement the following components. The first component would support the design and implementation
+of PLANER; while the second component will focus on the design and actual implementation of 10 to 12
+off-grid pilot sites. The private sector based delivery mechanisms piloted in these sites will later be
+
+                                                      3
+                                                                                                        ISDS
+
+
+
+replicated on national scale, as part of PLANER. The electrification of these pilot sites will add up to 2.8
+MW of installed distributed generation capacity and serve up to 17,000 new users. The project will
+accompany the RE components with the provision of targeted rural micro-finance services (component
+three) and business development services (component four) to communities in the pilot sites and
+surrounding areas. Component five will develop a sound communication and consultation strategy with
+indigenous peoples communities, and component 6 will support the Project Implementation Unit (PIU)
+
+The project pilot sites have been selected with the goal of future replicability on a larger-scale. Small
+hydro resources abound in many remote areas of the country and represent an indigenous and renewable
+resource that could reduce dependence on imported fuels. Consequently, the technology choice for many
+of the pilot sub-projects involve mini-hydro power generation and electricity distribution to consumers
+through independent mini-grids. Two mini-hydro sub-projects (El Ayote and El Bote-El Cua), however,
+will be interconnected with the SIN to enable the sale of excess power. This was made not only to
+improve the economics of the sub-project. but to pilot a case that may be representative of many
+unelectrified sites with hydro resources. Other sites were deliberately chosen from dispersed, low-income
+communities in the Atlantic Zone, where the solution to be piloted is centralized battery charging stations
+powered by solar photovoltaic panels (SBCS) and small individual solar home systems (SHS). For truly
+dispersed users in other remote areas, self-contained individual systems with solar panels of 20-50 watts
+would be marketed at the national level, through a Solar PV Market Development Program (SPV).
+
+In all cases, what will be piloted are not the technologies employed but new business models that ensure
+an efficient use of scarce public subsidies, maximize private sector participation in service provision and
+sharing of investment risks, and improve the chances for long-term sustainable operation, in the technical
+and financial sense. The minigrid sub-projects will be developed as investment "packages" where a
+combination of private equity, debt and government subsidy enables the private investor/provider to
+obtain adequate returns. The packages will be bided out with lowest subsidy amount. Because the
+subsidies are one-time capital expenditures subsidies and not on O&M costs (see below), operation of the
+subsidized systems could continue after the IDA project terminates. The business models that will be
+developed under the project will implement new forms of public/private partnerships in which the
+government will play the role of market enabler and subsidy provider, while the private sector or
+community based operators will share in the investment risk and deliver the service in an efficient and
+least-cost manner.
+
+Subsidies to be provided would be output-based (OB), transparent, well targeted, minimized through
+appropriate bidding mechanisms, and designed in a way to minimize market distortions. The direct
+investment subsidies will be accompanied by market development measures, such as training to providers
+and users, as well as promotion campaigns (for the SHS credit line). Subsidy levels and method of
+allocation will depend on the choice of technology and on the capacity to pay of users and local service
+providers. In the case of mini-grids, the largest part of the investment subsidy would be paid upon
+construction completion, and a smaller portion would be paid against yearly connection targets. This
+balances the incentive effect of performance based subsidy allocation with the financial strength of
+cooperatives and other small producers in rural areas who do not have sufficient liquidity to bear delays
+in investment subsidy payments.
+
+In parallel, the micro-finance component would support a set of increasingly sustainable financial
+institutions that provide a range of financial services to low income households and micro and small
+businesses in the project sites and to communities nearby, which will enable local micro and small
+businesses to take full advantage of the opportunities provided by rural electrification. The project aims
+to finance a loan portfolio of about US$600,000 for micro and small businesses in the sites and
+surrounding areas and matching grants for institutional development to participating MFIs (this, in
+addition to the financing needs of the national solar credit line). With planned matching investments by
+participating MFIs, the total loan portfolio would be about US$ 750,000.
+
+                                                       4
+                                                                                                         ISDS
+
+
+
+The business development services (BDS) component would provide grants to qualified BDS providers
+so that new BDS products and delivery models can be provided to the project sites and surrounding
+communities. The BDS products will include appropriately designed technical and managerial courses
+and consulting services, access to market and technology information, and other support to improve the
+productivity and profitability of local firms. Appropriate BDS to assist small and micro enterprises in
+pilot sites and surrounding areas will be provided through a program of bonds and development grants
+(for new content and delivery mechanisms tailored to the local demand) for demand and provision of
+BDS, and through technical assistance to community based BDS providers. Given the marginal nature of
+the project sites, vouchers covering a part of the cost of private sector BDS services would be provided to
+BDS business clients on a declining basis over the life of the project. This will establish a market for
+BDS in local communities without compromising the commercial viability of the relationship between
+BDS providers and local businesses.To achieve financial sustainability of service provision, both the
+microfinance and BDS components have been designed for a broader coverage, reaching not only the
+targeted communities and electrification clients but also surrounding communities to allow for a broader
+client base.
+
+Sequencing of Sub-projects: Based on the results of preparatory work, the seven to eight pilot
+sub-projects that have been already identified have been divided into two phases: Phase One would
+include the three pilot sites that are closest to implementation: (i) El Ayote and (ii) El Bote in the central
+region, and (iii) Francia Sirpe, Awastigni, and Sangni Laya (three communnities in the Northern Atlantic
+Zone - RAAN) . Phase Two would include the remaining four to five sites that have been studied during
+preparation but are still in the process of final selection. Phase Two also includes the national level Solar
+Photovoltaic Program (SPV). Phase Three would include a set of sub-projects that will be prepared by
+CNE with technical assistance from the PERZA project, and financed through the FODIEN. The final
+design of all Phase One sub-projects, including the associated components for BDS and micro-finance,
+will be completed by Board date and it is expected that the three projects under Phase I (will be ready for
+implementation when the project becomes effective The detailed technical design and business models
+for the Phase Two sub-projects and associated micro-finance and BDS components, as well as the SPV
+program, will be initiated before Board presentation and fully completed during the first six months of
+project implementation. Specific steps to follow to ensure the timely preparation of Phase Two
+sub-projects will be included in PERZA's Project Implementation Plan. The SPV program and at least
+two minigrid subprojects are expected to start execution before the end of the first year of project
+implementation.
+
+The technical assistance to CNE under component one, in combination with the management assistance
+under component five, will focus on a fast and efficient learning process for a direct transfer of lessons
+learned in Phase One and Two to CNE's National RE Strategy (PLANER): The participatory monitoring
+and evaluation strategy which will be designed and implemented by CNE will assemble and analyze
+feed-back from the Phase One and Two sub-projects to allow for a phased learning effect: (i) the piloting
+of new off-grid delivery mechanisms will provide valuable lessons that will directly help to define and
+improve the new processes to be adopted under PLANER; (ii) the successful demonstration of these new,
+decentralized business models in the Nicaraguan context will help to attract private sector players and
+decrease perceived risk of market entry (and therefore interest rates for local commercial debt); (iii) in
+the third year of implementation, based on these lessons, a comprehensive replication strategy on
+national scale will be formulated by CNE, which will evolve around the new processes designed and
+improved during Phase One and Two implementation, and (iv) this replication strategy will include the
+identification of a set of new projects (Phase Three ­investments not financed under this Project) that
+will be financed and implemented by CNE with the benefit of lessons learned under Phase One and Two
+and with additional technical assistance from the Project as needed. Future projects to be implemented
+under this replication strategy would then profit from the full enabling environment which will have been
+
+                                                        5
+                                                                                                        ISDS
+
+
+
+put in place as an output of assistance to CNE under component one.
+
+This sequencing of the technical assistance component (to improve the framework for RE) and the pilot
+projects (to demonstrate and learn from new business models) is crucial for making both levels work
+together most effectively: The concrete pilot projects will be implemented fast to create success stories.
+This is important because implementing all necessary changes to the regulatory and institutional
+framework ­ though identified by effectiveness ­ will take time. In parallel to pilot project
+implementation, component one will assist CNE in finalizing the design of the new strategy (the main
+elements will be defined by effectiveness), in building consensus for the needed changes, and in
+implementing the new framework.
+
+The environmental guidelines that accompany the Project are contained in a general environmental
+framework. This framework has been applied already to evaluate the electrification sub-projects of Phase
+One and will also be used to evaluate the environmental impact (and recommend eventual mitigation
+measures) of the Phase Two sub-projects. Similarly, social considerations have been integrated from the
+outset in the preparatory work for the three components of the Project, with a strong emphasis on
+community consultations at the early stage of the project design, and this approach will continue to be
+used both during preparation of Phase Two sub-projects and during implementation of the whole PERZA
+project. In addition, since some of the sub-projects in Phase One will benefit indigenous communities,
+preparation work (e.g. demand study) has paid special attention to an appropriate participation of
+indigenous groups, an Indigenous People Development Framework has been prepared. A detailed action
+plan will be completed prior to negotiations and implemented under the Project to ensure that the content
+of the components will take into consideration the particularities of these most particular groups and will
+maximize the development impact of the project on these communities.
+
+I.A.4. Project Location: (Geographic location, information about the key environmental and social
+characteristics of the area and population likely to be affected, and proximity to any protected areas, or sites
+or critical natural habitats, or any other culturally or socially sensitive areas.)
+Pilot projects are located throughout Nicaragua. Characteristics of each site are provided in the
+environmental summaries.
+
+
+B. Check Environmental Classification: B (Partial Assessment)
+
+Comments: The project is expected to have wholly positive environmental impacts, as it will promote
+renewable energy use. Some subprojects could have limited negative impacts due to construction or
+operation.
+
+
+C. Safeguard Policies Triggered (from PDS)
+(click on    for a detailed desciption or click on the policy number for a brief description)
+                                     Policy                                           Triggered
+
+    Environmental Assessment (OP 4.01, BP 4.01, GP 4.01)                           Yes   No
+
+    Natural Habitats (OP 4.04, BP 4.04, GP 4.04)                                   Yes   No
+
+    Forestry (OP 4.36, GP 4.36)                                                    Yes   No
+
+    Pest Management (OP 4.09)                                                      Yes   No
+
+    Cultural Property (OPN 11.03)                                                  Yes   No
+
+    Indigenous Peoples (OD 4.20)                                                   Yes   No
+
+    Involuntary Resettlement (OP/BP 4.12)                                          Yes   No
+
+    Safety of Dams (OP 4.37, BP 4.37)                                              Yes   No
+
+                                                       6
+                                                                                                        ISDS
+
+
+
+    Projects in International Waters (OP 7.50, BP 7.50, GP 7.50)               Yes     No
+
+    Projects in Disputed Areas (OP 7.60, BP 7.60, GP 7.60)*                    Yes     No
+
+
+
+Section II - Key Safeguard Issues and Their Management
+D. Summary of Key Safeguard Issues. Please fill in all relevant questions. If information is not available,
+describe steps to be taken to obtain necessary data.
+
+II.D.1a. Describe any safeguard issues and impacts associated with the proposed project. Identify and
+describe any potential large scale, significant and/or irreversible impacts.
+
+Environmental Issues: There are no major environmental issues foreseen during project implementation,
+since no construction of large generation plants, major access roads or extended transmission lines are
+planned under the project. The project is expected to have positive overall environmental impacts due to its
+objective of renewable energy promotion. Some minimal negative environmental impacts can be expected,
+however, from diesel genset noise and emissions -- the construction of minigrids and from small hydro civil
+works. Impacts are expected to be minimal due to the small scale of the projects and the low site sensitivity.
+
+In some of the pilot projects, notably El Ayote and el Bote, the mini-hydro plants will have a positive
+environmental impact, because they will displace diesel generators as the principal source of energy.
+Furthermore, RETs to be installed will mitigate greenhouse gas emissions through avoided use of fossil
+fuel, by replacing kerosene used for lighting or gasoline from small individual gas engines.
+
+Social Issues: Off-grid electricity service provision is specifically targeted at improving the quality of
+life of the rural poor and the project has this as a principal objective. However, an important issue for the
+pilot project is how to balance the objective of serving the poorest communities and the need to develop
+business packages that would be attractive for the private energy equipment and service providers. It will
+be important not to focus the project exclusively on the poorest communities. In the poorest communities
+a relatively smaller number of households would opt for household electrification, due to cost. They
+would still benefit, however, from the electrification of communal centers. In such communities, service
+providers will be encouraged to provide less expensive household energy options (e.g. battery charging
+stations, smaller solar systems, lanterns), coupled with modest subsidies or incentives. The inclusion of a
+Microbusiness Development Component provides for additional social impact for the project, by linking
+marginally profitable microbusinesses to reliable, affordable and convenient sources of credit, market
+information and business contacts.
+
+Since some of the beneficiaries of the project are likely to be indigenous groups (Miskitos, Mayangas)
+and black minorities (Garifunas) of the Atlantic zone, special attention will be given during project
+preparation and implementation to ensure that the design of the project components and outputs will take
+into account their economic, cultural and social characteristics. Participatory activities and consultation
+material (surveys, focus groups) will be offered in the local languages whenever appropriate, and the
+adoption of delivery mechanisms, and monitoring and evaluation procedures will be evaluated taking into
+account the communal social structure of these groups when the pilot projects are located in areas
+inhabited predominantly by these groups. The consultations will be consistent with the Bank's
+Operational Guideline 4.20, and as well as all local guidelines. In addition, an Indigenous People
+Development Framework has been prepared through a partcipative process, and a detailed Plan will be
+finalized prior to project negotiations, to confirm which indigenous communities will be affected by the
+project, determine the social impact of the project in these communities, and put in place safeguards to
+prevent or mitigate any negative impact.
+
+                                                      7
+                                                                                                        ISDS
+
+
+
+
+II.D.1b. Describe any potential cumulative impacts due to application of more than one safeguard policy or
+due to multiple project component.
+None.
+
+II.D.1c Describe any potential long term impacts due to anticipated future activities in the project area.
+None.
+
+II.D.2. In light of 1, describe the proposed treatment of alternatives (if required)
+The project has prepared an environmental framework report which: (i) briefly summarizes the potential
+for renewable energy projects in Nicaragua; (ii) proposes screening criteria and procedures for ensuring
+compliance with Bank safeguard policies for small renewable energy projects; (iii) outlines the main
+environmental and social issues that would have to be discussed in EA reports; and, (iv) outlines the
+procedures for review and clearance of safeguard policies. This framework has been discussed and
+agreed with the Government.
+
+Initially, four subprojects are proposed for financing under PERZA: two run-of-the-river mini-hydros (El
+Bote, 900kW, and El Ayote, 700kW), an hybrid diesel/hydro (La Union, 50 kW); and one solar (Francia
+Sirpe, 150 kW). Each individual subproject was screened using the framework, and summary EA
+documents were prepared which outline key issues such as project location, social and environmental
+baseline data, site sensitivity, need for ancillary infrastructure, policies triggered, identification of
+possible environmental and social impacts, description of mitigation measures and their respective
+indicators, and public consultation undertaken during the EA process. As the subprojects are small, and
+the site sensitivities low, no significant negative impacts are expected. The simple Environmental
+Management Plans which were developed during the framework application call for proper
+environmental management of construction and operation. Guidelines for construction and operation
+will be developed before project effectiveness. The siting of minor access roads and transmission lines
+for a few of the subprojects has not yet been identified.       These will be subject to an environmental
+assessment process to ensure that any natural habitats or sensitive areas are avoided.
+
+Further subprojects will be identified during project implementation. During appraisal, a workshop will
+be held for local consultants and government regulatory agencies to train them in the framework
+application     Future subprojects will follow a similar procedure for EA, i.e. the application of the
+established framework, and be reviewed and approved by the environmental specialist on the project task
+team before they are included for financing under the project.
+
+For the micro-enterprise development component, the EA will develop a screening mechanism and
+eligibility criteria for the businesses that can be included prior to effectiveness. Businesses that are
+harmful to the environment or against Bank policies (such as tobacco and firearms production) are
+excluded. These requirements will be included in the project operational manual.
+
+The project will also directly support as a standard activity for CNE, the development of models for
+active participation of the community in the environmental management of their community, building up
+on the experience that will be acquired in the pilot projects (El Bote and others). This activity is listed
+under the project description.
+
+ Proposed actions for addressing social issues: In addition, to the considerations granted to the
+indigenous groups and black minorities granted in the context of project preparation of each component
+and the Indigenous People Development Plan that has already been finalized, a detailed action plan will
+be prepared prior to project negotiations to confirm the indigenous communities affected by the program,
+
+                                                      8
+                                                                                                        ISDS
+
+
+
+determine the social impact of the program in these communities and examine the safeguards to prevent
+or mitigate that impact. This work will complement and reinforce the consultation and participatory of
+the project design described in the previous paragraph. The consultations will be consistent with the
+Operational Guideline 4.20 of the Bank and the existing guidelines included in the Nicaraguan
+legislation.
+
+II.D.3. Describe arrangement for the borrower to address safeguard issues
+An environmental framework for renewable sources of energy projects was elaborated for Nicaragua,
+and an environment assessment has been completed for the first four sites of the Project.
+
+Attention to the particularities of the indigenous communities has been paid from the outset in all the
+studies and surveys done to prepare the three components of the Project. An Indigenous People
+Development Framework has been prepared and a detailed Development Plan will be completed prior to
+the negotiation of the project to ensure that these communities reap the full benefits of the project.
+
+
+II.D.4. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on
+safeguard policies, with an emphasis on potentially affected people.
+User participation.     One of the key lessons learned form past off-grid electrification projects is the
+crucial role of a participatory project implementation: Off-grid systems are by definition decentralized,
+remote and far from existing infrastructure. The only persons who are continuously there to prevent,
+detect and solve problems are the users. Therefore, the user is the most important part of any off-grid
+system. In the case of SHS and battery charging stations this is the individual user, while in the case of
+village microgrids it is the whole community. Hence, participation will be assured in this project through
+the TA activities on several levels:
+·        Extensive market surveys will analyze the local demand and match the supply models and
+products to the local preferences and willingness to pay.
+·        Focus group interviews will involve local dwellers, businesses and opinion leaders in the process
+of defining the best suited service solutions for each community.
+·        By offering a variety of locally adopted products (e.g. batteries and SHS of various sizes), the
+user has choice between different service levels and maintenance arrangements.
+·        Users (both households and services) will pay for part of the service, and often own part of the
+systems - which increases ownership.
+·        Once the delivery mechanism is in place, training will be given by the operators (which in turn
+get their training material and "train the trainer" services by the project) to the users (in the case of
+isolated systems with each annual visit, in the collective systems more often) to assure a high satisfaction
+with the service.
+·        For the individual systems, users ­ or their neighbors ­ will be invited to take special training in
+basic system maintenance (cleaning modules, filling batteries with distilled water, changing fuses). The
+basic indicators of energy storage (charge controller) of these systems will allow the user to regulate his
+own energy demand.
+·        In many cases, community members will furthermore be involved in the basic maintenance and
+operation of the village minigrids systems.
+·        Users will be part of the monitoring system for service quality through complaints procedures
+and customer satisfaction surveys. Periodic surveys of consumer satisfaction will be part of the
+monitoring and evaluation plan during implementation.
+Public consultation during the EA and public disclosure. As part of the EA process, stakeholders in
+local areas were consulted. The summary EA reports include a section on the public consultation
+process, wherein the groups consulted and their comments are detailed.             Each additional future
+subproject will undertake such consultation prior to consideration of project financing.           The EA
+
+                                                      9
+                                                                                                        ISDS
+
+
+
+framework is available at the offices of the project implementation unit, and will be distributed to
+a wider audience during the training to occur during the appraisal mission. The summary EA
+documents are also available at the PIU offices. Future summary EAs will similarly be made
+available to the public. All documents are posted on the Bank's Infoshop website.
+
+Social diversity / indigenous communities. The three communities in the pilot site selected for phase 1
+in the Atlantic Zone (around Francia Sirpi) are predominantly Miskitos, an indigenous group with a
+distinct language and culture who lives mostly in the Atlantic zone and in Honduras, with a significant
+presence of Mayengas in Awastigni. Due to the ethnic diversity in the Atlantic zone, (in contrast to the
+more homogenous population in the Pacific zone), some of the phase 2 pilot projects are likely to also
+benefit minorities (Miskitos, Mayangas, Garifunas, afro-americans, etc.). To ensure that the minorities
+can participate in the project at a very early design stage, surveys will be translated into local languages,
+and focus group discussions in minority communities will take place in their language.
+
+Other stakeholders. The other project key stakeholders are private companies in Nicargua and their
+external partners, if any, that are potential participants in investment, installation and supply of
+equipment, and the national and local governments. The national government and its agencies involved
+in rural development indeed have been consulted at the project's inception and during the preinvestment
+work carried out with CNE. A consultation workshop was held in November 2000 in Managua
+participated in by government personnel, Nicaraguan private sector companies , NGOs and municipal
+officials. This provided an opportunity to explain the objectives and proposed implementation plan for
+the project and listened to concerns and suggestions by participants.
+
+E. Safeguards Classification (select in SAP). Category is determined by the highest impact in any policy.
+Or on basis of cumulative impacts from multiple safeguards. Whenever an individual safeguard policy is
+triggered the provisions of that policy apply.
+
+
+[ ] S1. ­ Significant, cumulative and/or irreversible impacts; or significant technical and institutional risks
+          in management of one or more safeguard areas
+[X] S2. ­ One or more safeguard policies are triggered, but effects are limited in their impact and are
+          technically and institutionally manageable
+[ ] S3. ­ No safeguard issues
+[ ] SF. ­ Financial intermediary projects, social development funds, community driven development or
+          similar projects which require a safeguard framework or programmatic approach to address
+          safeguard issues.
+
+F. Disclosure Requirements
+
+Environmental Assessment/Analysis/Management Plan:                        Expected          Actual
+Date of receipt by the Bank                                               12/3/2002        12/3/2002
+Date of "in-country" disclosure                                           12/3/2002        12/3/2002
+Date of submission to InfoShop                                            12/4/2002        12/4/2002
+Date of distributing the Exec. Summary of the EA to the Executive         5/24/2002
+Directors (For category A projects)
+
+Resettlement Action Plan/Framework:                                       Expected          Actual
+Date of receipt by the Bank                                               Not Applicable Not Applicable
+Date of "in-country" disclosure                                           Not Applicable Not Applicable
+Date of submission to InfoShop                                            Not Applicable Not Applicable
+
+                                                   10
+                                                                                                  ISDS
+
+
+
+Indigenous Peoples Development Plan/Framework:                          Expected        Actual
+Date of receipt by the Bank                                            11/29/2002       11/29/2002
+Date of "in-country" disclosure                                        11/29/2002       11/29/2002
+Date of submission to InfoShop                                         12/4/2002        12/4/2002
+
+Pest Management Plan:                                                   Expected        Actual
+Date of receipt by the Bank                                            Not Applicable Not Applicable
+Date of "in-country" disclosure                                        Not Applicable Not Applicable
+Date of submission to InfoShop                                         Not Applicable Not Applicable
+
+Dam Safety Management Plan:                                             Expected        Actual
+Date of receipt by the Bank                                            Not Applicable Not Applicable
+Date of "in-country" disclosure                                        Not Applicable Not Applicable
+Date of submission to InfoShop                                         Not Applicable Not Applicable
+
+If in-country disclosure of any of the above documents is not expected, please explain why.
+
+Signed and submitted by              Name                                               Date
+Task Team Leader:                    Clemencia Torres                                   11/26/2002
+Project Safeguards Specialists 1:    Kirsten Oleson                                     11/26/2002
+Project Safeguards Specialists 2:    Violeta Granera
+Project Safeguards Specialists 3:
+
+
+Approved by:                         Name                                               Date
+Regional Safeguards Coordinator: Juan D. Quintero                                       01/31/2002
+Sector Manager/Director              Danny M. Leipziger
+

@@ -1,0 +1,442 @@
+Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+I.  Basic Information
+ 
+Date prepared/updated:  02/15/2008 
+Report No.:  AC3440
+1. Basic Project Data  
+ 
+Country:  Philippines 
+Project ID:  P071119 
+Project Name:  Manila Water Supply Financial Strengthening and Service Expansion 
+Task Team Leader:  William D. Kingdom 
+Estimated Appraisal Date: February 6, 
+2008 
+Estimated Board Date: June 24, 2008 
+Managing Unit:  EASUR 
+Lending Instrument:  Specific Investment 
+Loan 
+Sector:  Water supply (100%) 
+Theme:  Other urban development (P) 
+IBRD Amount (US$m.): 
+125.00 
+IDA Amount (US$m.): 
+0.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ Borrower 
+25.00
+25.00 
+Environmental Category: B - Partial Assessment 
+Simplified Processing 
+Simple [] 
+Repeater [] 
+Is this project processed under OP 8.50 (Emergency Recovery) 
+or OP 8.00 (Rapid Response to Crises and Emergencies) 
+Yes [ ] 
+No [ ] 
+2. Project Objectives 
+The project development objective is to expand connections, reduce non-revenue water, 
+and improve service quality resulting in the improved financial strength of MWSS.  This 
+will be done through: (i) upgrading the level of water supply services in the concession 
+area via reconstruction of the distribution network, better control of non-revenue water, 
+improved performance of provided services, and increase in water sales; and, (ii) 
+strengthening the associated institutional arrangements focused on managerial 
+responsibility for regularly monitoring the status of distribution network and ensuring  
+sustainability of high-quality, state-of-repair of production and distribution facilities.   
+ 
+3. Project Description 
+The Maynilad Water Services Inc (MWSI) is a private company awarded a government 
+concession through the Metropolitan Waterworks and Sewerage System (MWSS) to 
+operate the West zone of Metro Manila (population=7.9 million) for 25 years (1997-
+2022).  The MWSI concession agreement includes obligations to provide water supply 
+connections, continuity of water supply and ensure adequate water quality.  They are also 
+obligated to provide sewerage and sanitation services in compliance with wastewater 
+standards.  The system currently does not serve approximately 8 million people in the 
+Page  2
+concession area, has very high physical and commercial non-revenue water levels 
+(approximately 60%), insufficient water pressure (affecting 3 million people) and in some 
+areas 24 hour service cannot be provided (affecting 3 million people).  Due to financial 
+difficulties of MWSI, investments in sewerage and septage services are very limited in 
+the West Concession area.  
+ 
+Since being awarded the concession in 1997, MWSI has had financial difficulties and in 
+2003 filed a petition for Corporate Rehabilitation.  In 2005 a Debt and Capital 
+Restructuring Agreement and a Rehabilitation Plan was approved that among other things 
+set targets for increasing the billed water volume (from 700 Mld to 1800 Mld by 2015) 
+and associated reduction in non-revenue water.  The Concession was successfully rebid 
+in December 2006 and the new owners are now in place.  
+ 
+The Bank-supported project will assist MWSI in restructuring and rehabilitating the 
+network in the northern and central hydraulic areas of their concession in order to reduce 
+non-revenue water.  It will include the following components:  
+ 
+•
+Component 1: Establishment of Hydraulic Areas (HA): Restructuring and 
+optimization of the primary distribution network to form 31 HA, each with a single feed 
+equipped with a flow meter to enable computation of individual water balances of HAs. 
+Works comprise construction of about 120 km primary distribution mains and the 
+installation of flow and pressure monitoring equipment. Base cost: PHP 5.235 billion 
+(US$ 130.9 million).  
+ 
+•
+Component 2: Establishment of District Metered Areas (DMA). Division of HAs 
+to form 1,362 discrete DMA (i.e., average of about 40 DMAs per HA), in the existing 
+distribution network with single inflow feed and pressure reducing valves (PRV). Works 
+comprise construction of about 118 km of distribution mains, inflow chambers and PRV 
+chambers.  Base cost: PHP 3.288 billion (US$82.2 million).  
+ 
+•
+Component 3: New service connections. Installation of about 175,000 new service 
+connections to new consumers in the existing service area, the expansion areas, and un-
+serviced areas. Base cost: PHP 900 million (US$ 22.5 million).  
+ 
+•
+Component 4: Technical Assistance. Project technical assistance comprises of two 
+parts (Base Cost PHP:  
+ 
+(a) Project implementation support: (i) international consultant services for construction 
+supervision, and in addition to perform the independent functions to certify, confirm and 
+certify achievement of outputs, and outcomes, required for output-based disbursements; 
+(ii) services of a NRW specialist to formulate a structured results-oriented NRW 
+reduction strategy and action plan, including necessary staff, training, equipment and 
+annual operating budget; (iii) consultant services for detailed design of specific areas.  
+ 
+(b) Capacity building support: (i) development of a comprehensive GIS-based database 
+of the water supply networks to provide the framework and reference base for the 
+Page  3
+continuing work of the NRW management units in the Business Centers (BC), including 
+hardware, software and application development; (ii) meters and other specials for the 
+NRW management work; and (iii) training.   
+ 
+4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis 
+Manila’s west zone concession area covers 540 km2 and consists of nine cities and two 
+municipalities in Metro Manila and one city and five municipalities in the province of 
+Cavite.  The project will be located in all zones excluding the southern zone.  The area of 
+construction is largely on urban roads throughout this area.   
+ 
+5. Environmental and Social Safeguards Specialists 
+ 
+6. Safeguard Policies Triggered
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+X
+Natural Habitats (OP/BP 4.04) 
+ X 
+Forests (OP/BP 4.36) 
+ X 
+Pest Management (OP 4.09) 
+ X 
+Physical Cultural Resources (OP/BP 4.11) 
+ X 
+Indigenous Peoples (OP/BP 4.10) 
+ X 
+Involuntary Resettlement (OP/BP 4.12) 
+X
+Safety of Dams (OP/BP 4.37) 
+X
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X 
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts: 
+The impacts of the project are largely related to the construction activities. The project 
+involves restructuring and rehabilitation of the water supply network in the northern and 
+central hydraulic areas of the MWSI concession.  Civil works include: Restructuring and 
+optimization of the primary distribution network to form 31 hydraulic areas, each with a 
+single feed equipped with a flow meter; about 120 km primary distribution mains and the 
+installation of flow and pressure monitoring equipment; construction of about 118 km of 
+distribution mains, inflow chambers and pressure reducing valve chambers and 
+installation of about 175,000 new service connections.  In addition, as a parallel activity 
+MWSI will finance non-revenue water reduction work in tertiary distribution networks 
+including the rehabilitation including full or partial replacement of the distribution 
+network, installation of flow meters, pressure reducing valves and associated works.  
+ 
+Environmental impacts related to these works include general construction impacts 
+including solid waste management of construction debris and the possible de-
+commissioning of asbestos pipes, provision of erosion control measures, disposal of used 
+Page  4
+oils and degreasers, proper excavation and backfilling, handling of asbestos cement pipes, 
+toilet facilities, traffic management, health and safety, dust and noise control and chance 
+finds of cultural property.  
+ 
+Resettlement impacts: The rights of way for the new primary mains (to be located 
+adjacent to the existing ones) and for the improvement of the secondary and tertiary 
+distribution lines and pumping stations have been occupied or encroached upon for the 
+last twenty years by informal settlers who have built either semi permanent or permanent 
+structures on them.  These settlers will need to be cleared in varying degrees.  Except for 
+a
+few private properties, most of these rights of way are titled to MWSS. The 
+rehabilitation works may also affect business activities (streetside vendors and 
+commercial establishments). The exact areas and extent of the impact will depend on the 
+rehabilitation works which will remain flexible to allow for prioritization based on 
+monitoring of the leakage within a given hydraulic area or zone.   Whenever possible, 
+appropriate modification to the project to avoid or minimize the impacts shall be adopted.  
+ 
+Dam Safety: The water supply for the system to be rehabilitated originates from a 
+reservoir that is retained by the Ipo Dam, which is itself fed by a reservoir retained by the 
+Angat Dam.  Both dams are >15 m in height and thus considered large dams under the 
+Safety of Dams Policy (OP4.37).  Based on reviews by independent dam safety experts, 
+both dams need Emergency Preparedness Plans and Operation and Maintenance 
+Manuals.  Remedial measures including rehabilitation works, improved maintenance, and 
+additional analysis of seismic risks are also needed.   
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+The long term impacts are predominantly positive, improving the health and quality of 
+life in Metro Manila by increasing water supply connections and the level of service 
+which will provide increased quantities of water for drinking, hygienic and other 
+purposes.  It also will improve the reliability of the quality of the water used in the project 
+area by providing piped connections for people currently using unregulated independent 
+water providers and by reducing leakage in the system which can lead to contamination 
+of the piped water supply.  For low income communities in the project area it is estimated 
+that a total of 3.45 million people will benefit from increased pressure, increasing water 
+use and lower the risk of contamination.  Approximately 60,000 people of low income 
+will receive new connections also increasing the quality and quantity of water.  
+ 
+The project will also in the long term increase the volume of wastewater produced.  This 
+would result in an increased flow and decreased concentration of wastewater in the canals 
+and rivers that based on estimates are insignificant during the wet season and only slight 
+during the dry season.   
+ 
+Page  5
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts. 
+The project will explicitly make all efforts to avoid resettlement in the location and 
+design of the systems an effort that will involve the consideration of alternative 
+alignments.   
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide 
+an assessment of borrower capacity to plan and implement the measures described. 
+Environmental Impact Statement (EIS) and Environmental Compliance Certificate 
+(ECC): MWSI has prepared an EIS and a corresponding Environmental Management 
+Plan (EMP) for the project. It has also secured an ECC from the Department of 
+Environment and Natural Resources.  
+ 
+The environmental management plan utilizes MWSI’s environmental management 
+system and requirements for contractors, impacts associated with construction activities 
+will be mitigated using standard operating procedures that cover the identified impacts.  
+ 
+Implementation of the construction-related mitigation measures will be the 
+responsibility of construction subcontractors as part of their obligations to MWSI.The 
+costs of mitigating construction impacts will be included in the costs of facilities while 
+the other mitigating and monitoring costs (odor, noise, workers health, site safety and 
+hygiene) will be born by MWSI.  
+ 
+MWSI environmental unit will supervise the compliance of the subcontractors.  They 
+will also monitor water quality in the distribution network along with other service 
+standards (water pressure etc) as part of their obligations under the concession agreement.  
+They will report to the World Bank on overall compliance as part of supervision.  
+ 
+Land Acquisition and Resettlement and Rehabilitation Policy (LARRP):  The LARRP 
+ensures that all impacts of land acquisition of assets and properties are mitigated and that 
+the project affected persons are benefited and are not worse off compared to the pre 
+project standard of living. The legal framework consists of the Philippine Constitution 
+and other relevant orders of the government and the World Bank OP 4.12. It further states 
+that MWSI will comply with whichever is the higher standard in case of discrepancy in 
+resettlement and compensation standards of the existing laws in the Philippines and of the 
+standards of the lender.  
+ 
+Dam Safety: Draft Operation and Maintenance Emergency Preparedness Plans have 
+been developed for project appraisal for both dams. These will be improved during the 
+project.  An action plan has also been developed for remedial works, instrumentation and 
+studies to determine seismic risk including activities, budgets, responsibilities and 
+schedule.  Financing will be provided through the Common Purpose Facilities which 
+manages the common facilities of the two concessionaires.For the activities for Angat 
+Dam the responsibilities for implementation will be shared between the two 
+concessionaries (MWCI and MWSI) and the National Power Corporation with active 
+coordination through a technical working group comprised of NPC, MWSI, MWCI and 
+Page  6
+National Irrigation Association.  The activities for IPO dam will be implemented directly 
+by the Common Purpose Facilities.  
+ 
+Capacity to undertake safeguards:  MWSI has experience in the preparation and 
+implementation of similar World Bank projects including the Manila Second Sewerage 
+Project and the GEF- Manila Third Sewerage Project and developed effective working 
+procedures for World Bank assisted investment projects.  Supervision has indicated their 
+implementation to be satisfactory.  NPC, MWSS and MWSI have qualified dam 
+engineers to undertake and supervise the work under dam safety.   
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+The EIA process included consultation at the scoping stage and on the draft EA.  At the 
+scoping stage meetings were held to elicit issues and concerns from the stakeholders 
+including Non-Government Organizations (NGOs) and Local Government Units (LGUs). 
+Subsequently, surveys and interviews, public consultations for concerned barangays and 
+communities, and focus group discussions with local government officials (Barangay and 
+municipal level) were conducted.  The findings, issues and concerns were later 
+incorporated in the scope of the environmental assessment.  Similar consultations were 
+then undertaken on the draft environmental assessment.  These comments were 
+incorporated into the final report.  
+ 
+The LARRP has been disclosed in WB Infoshop on December 4, 2006. As part of the 
+roles and responsibilities under the LARRP, the project proponent is obligated to hold 
+participatory activities that include meeting with concerned local government units up to 
+the barangay level for the overview of the proposed project, conduct of technical and 
+social studies, RAP preparation (including consultation on draft RAP and orientation on 
+the final RAP) and setting up of multi-sectoral committees for the implementation, 
+monitoring and evaluation of the RAP.   
+ 
+B. Disclosure Requirements Date
+ 
+Environmental Assessment/Audit/Management Plan/Other: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+ 
+Date of receipt by the Bank 
+11/07/2006 
+ 
+Date of "in-country" disclosure 
+12/04/2006 
+ 
+Date of submission to InfoShop 
+12/04/2006 
+ 
+For category A projects, date of distributing the Executive 
+Summary of the EA to the Executive Directors 
+ 
+Resettlement Action Plan/Framework/Policy Process: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+ 
+Date of receipt by the Bank 
+08/29/2006 
+ 
+Date of "in-country" disclosure 
+12/04/2006 
+ 
+Date of submission to InfoShop 
+12/04/2006 
+ 
+Indigenous Peoples Plan/Planning Framework: 
+Page  7
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+Pest Management Plan: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+*
+If the project triggers the Pest Management and/or Physical Cultural Resources, 
+the respective issues are to be addressed and disclosed as part of the Environmental 
+Assessment/Audit/or EMP. 
+If in-country disclosure of any of the above documents is not expected, please 
+explain why: 
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the 
+ISDS is finalized by the project decision meeting) 
+ 
+OP/BP/GP 4.01 - Environment Assessment 
+ 
+Does the project require a stand-alone EA (including EMP) report? 
+Yes 
+If yes, then did the Regional Environment Unit or Sector Manager (SM) 
+review and approve the EA report? 
+Yes 
+Are the cost and the accountabilities for the EMP incorporated in the 
+credit/loan? 
+N/A 
+OP/BP 4.12 - Involuntary Resettlement 
+ 
+Has a resettlement plan/abbreviated plan/policy framework/process 
+framework (as appropriate) been prepared? 
+Yes 
+If yes, then did the Regional unit responsible for safeguards or Sector 
+Manager review the plan? 
+Yes 
+OP/BP 4.37 - Safety of Dams 
+ 
+Have dam safety plans been prepared? 
+Yes 
+Have the TORs as well as composition for the independent Panel of Experts 
+(POE) been reviewed and approved by the Bank? 
+N/A 
+Has an Emergency Preparedness Plan (EPP) been prepared and arrangements 
+been made for public awareness and training? 
+N/A 
+The World Bank Policy on Disclosure of Information 
+ 
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+No 
+Have relevant documents been disclosed in-country in a public place in a 
+form and language that are understandable and accessible to project-affected 
+groups and local NGOs? 
+N/A 
+All Safeguard Policies 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities 
+been prepared for the implementation of measures related to safeguard 
+ 
+Page  8
+policies? 
+Have costs related to safeguard policy measures been included in the project 
+cost? 
+ 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures related to safeguard policies? 
+ 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+ 
+D. Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Mr William D. Kingdom 
+02/11/2008 
+Environmental Specialist: 
+Ms Maya Gabriela Q. Villaluz 
+ 
+Social Development Specialist 
+Ms Victoria Florian S. Lazaro 
+ 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+Mr John Morton 
+02/10/2008 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Panneer Selvam Lakshminarayanan 
+02/13/2008 
+Comments:   
+Sector Manager: 
+Mr Keshav Varma 
+02/14/2008 
+Comments:   

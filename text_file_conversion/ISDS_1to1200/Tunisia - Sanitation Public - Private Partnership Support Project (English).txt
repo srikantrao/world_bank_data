@@ -1,0 +1,682 @@
+﻿                       INTEGRATED SAFEGUARDS DATA SHEET
+                                CONCEPT STAGE
+
+Report No.: 121665
+
+Date ISDS Prepared/Updated: November 1, 2017
+
+
+I. BASIC INFORMATION
+
+A. Basic Project Data
+
+Country: Tunisia                            Project ID: P162957
+                                            Additional Project ID (if any):
+Project Name: Tunisia Sanitation PPP Support Project
+Task Team Leader: Jean-Martin Brault
+Estimated Appraisal Date: December 4,       Estimated Board Date: March 29, 2018
+2017
+Managing Unit: GWA05                        Lending Instrument: IPF
+Sector: Water
+Theme: Wastewater Collection and Treatment; PPP
+IBRD Amount (US$m.): 130
+IDA Amount (US$m.): 0
+GEF Amount (US$m.): 0
+PCF Amount (US$m.): 0
+Other financing amounts by source: 0
+Environmental Category: B
+Simplified Processing              Simple [x]               Repeater [ ]
+Is this a transferred project       Yes [ ]                 No [x]
+
+
+B. Project Objectives [from section 2 of PCN]:
+The proposed objectives of the Project are to: (i) provide improved sanitation services under the
+public-private partnership (PPP) contracts; and (ii) strengthen Tunisia’s National Sanitation
+Office’s (ONAS) capacity to manage PPP contracts in delivery of sanitation services.
+
+C. Project Description [from section 3 of PCN]:
+ONAS faces severe capacity constraints to significantly and rapidly expand service coverage and
+quality. In that context, the World Bank Group (IBRD and IFC) agreed with the Government of
+Tunisia to pilot a comparative, performance-based private contract approach in which two
+private companies would be benchmarked against ONAS-managed expansion and service
+provision, as well as against each other. This would allow to demonstrate the option of ONAS
+developing largely as a manager of private sector implementation, as an alternative to ONAS
+expanding as a public sector service provider, with the longer-term objectives of helping ONAS:
+      Comply with national effluent standards through contractual incentive mechanisms
+         (performance);
+          Curb the increase in operating costs through long-term efficiency gains brought by
+           private operators;
+          Improve asset management program by setting up an infrastructure upgrade program
+           and annual “Major Maintenance and Renewal�? programs;
+          Fill the current and future gap in personnel by partnering up with international private
+           operators capable of quickly mobilizing and training qualified personnel;
+          Transfer certain responsibilities to private operators on a performance basis, and
+           contribute to the development of a dynamic domestic private sector.
+
+In addition, in order to assess ONAS’s institutional readiness to progressively transition into this
+potential new role of manager of private sector implementation, the World Bank mobilized the
+now closed “Support to ONAS to Develop a Sewerage PPP Program�? PPIAF grant, and assisted
+ONAS in: (i) identifying the required competencies to ensure that it is properly organized, tooled
+and resourced to deal with the substantial challenges of implementing and supervising the
+progressive delegation of operation and maintenance (O&M) for a portion of its infrastructure to
+the private sector; and (ii) communicating in a proactive, professional and open manner about
+PPPs and its expected benefits, fostering maximum buy-out by both internal and external
+stakeholders, such as unions and the civil society.
+
+The IFC’s C3P unit is currently involved in an advisory role to support ONAS in developing the
+PPP approach and structure, including associated feasibility studies and bidding documents. The
+IFC’s role is to oversee the private Transaction Advisor recruited to support ONASwith funds
+from the Arab Infrastructure Financing Facility (AFFI). As part of IFC’s support, such advisory
+projects are required to be consistent with IFC Performance Standards for Environmental and
+Social (E&S) Sustainability. Therefore, part of IFC’s advice included support and studies on this
+particular aspect, as described below.
+
+With these elements in place, and to support this performance-based private contract approach,
+as well as the above-mentioned longer-term objectives, the Project will comprise the following
+components:
+
+a.      Component 1 – Sanitation Infrastructure Investment Fund. Through an Investment Fund
+(Fonds de Travaux) set up under the Project, the Bank will finance works to be executed by the
+private operators and by ONAS, over the course of the Project. Payments related to the O&M of
+pumping stations, wastewater treatment plants (WWTPs) and networks, as well as the
+installation of new household connections to the network by the private operators will not be
+financed by the Fonds de Travaux, but rather by the sewerage tariff, and these quarterly
+payments will be made per the performance-based terms described in the contract.
+
+A detailed description of the activities and works to be executed by the private operators with
+different financing sources – the World Bank is only financing those activities that will be
+supported through the Investment Fund – is presented in Table 1 below.1
+
+1
+  The PPP perimeters comprise 15 WWTPs, as well as related pumping stations and sewage networks, but does not include: (i)
+the stormwater collection networks of the roads that are geographically located in the project perimeter, and (ii) single-discharge
+points of sewage sludge owned by ONAS. The latter two facilities will remain under ONAS operation.
+Table 1. Activities and works to be executed under the PPP Contracts
+        Works                    Execution               Source of             Payment mechanisms
+                                                         financing
+ (1) Operation and         Private operator, over     ONAS revenues       -Payments made every trimester
+ maintenance of            the contract duration      from the            per contract terms (performance-
+ pumping stations,                                    sanitation tariff   based and linked to the number of
+ WWTPs and networks                                                       clients served and m3 of treated
+                                                                          effluent)
+                                                                          -Annual incentive mechanism
+                                                                          combining bonuses and penalties
+                                                                          based on achievement of
+                                                                          contractual performance targets
+                                                                          (up to 10 percent of total
+                                                                          remuneration)
+ (2) Installation of new   Private operator, over     ONAS revenues       Payments made every trimester
+ household connections     the contract duration      from the            for every new household
+ to the network                                       sanitation tariff   connection installed
+ (3) Instrumentation,      Private operator, over     ONAS revenues       Payments made on basis of works
+ control and               the contract duration,     from the            progress. Corresponding technical
+ automation, as well as    with the exception of      sanitation tariff   specifications and budget are
+ health and safety         flowmeters which                               included in the operator’s bid
+ works                     need to be installed by
+                           the end of the first
+                           month of the contract
+ (4) Initial               Private operator, over     Investment Fund     Payments made on basis of works
+ rehabilitation and        the first year of the      (WB Loan)           progress. Corresponding technical
+ upgrade of existing       contract                                       specifications and budget are
+ pumping stations and                                                     included in the operator’s bid
+ WWTPs
+ (5) Complementary         Private operator, over     Investment Fund     Payments made on basis of works
+ works (nitrogen and       the first three years of   (WB Loan)           progress. Corresponding technical
+ phosphorus removal,       the contract                                   specifications and budget are
+ disinfection, sludge                                                     included in the operator’s bid
+ and odor treatment)
+ (6) Major maintenance     Private operator, over     Investment Fund     Annual allocation paid in equal
+ and renewal of            the contract duration,     (WB Loan)           amounts every trimester.
+ pumping stations and      starting the second                            Corresponding technical
+ WWTPs (GER)               year                                           specifications and budget are
+                                                                          included in the operator’s bid
+ (7) Major maintenance     ONAS (or rather sub-       Investment Fund     Payments made on basis of works
+ and renewal of            contractors hired by       (WB Loan)           progress. Although the bidders
+ networks and civil        ONAS), over the                                estimate the annual GER needs in
+ works (GER)               contract duration,                             their financial bids, the exact
+                           starting the first year                        technical scope of these works
+                                                                          would be jointly identified at the
+                                                                          beginning of each year by the
+                                                                          operators and ONAS
+During the PPP contract procurement process, interested bidders will develop the technical
+specifications and associated budget for (1)-(5), as well as define and estimate the budget needed
+over the duration of the contract for the planned maintenance and renewal works program under
+(6). These specifications and programs will constitute part of the bidders’ technical and financial
+proposals and will be annexed to the selected operators’ contracts. Works to be executed by
+ONAS under (7) include civil works and network maintenance and renewal over the contract
+duration, and according to a program developed and adapted annually in cooperation with the
+private operators. ONAS will launch the procurement process for these works and private
+operators will be required to participate in bid evaluation as well as to communicate any major
+reservation that they may have on the executed works.
+
+b.     Component 2 – Institutional Strengthening and Project Management. Under this
+component, the Bank will finance capacity building activities to strengthen ONAS’s capacity to
+manage, monitor and develop PPP contracts in delivery of sanitation services. This would
+include, inter alia:
+     Support in mobilizing additional staff in ONAS’s Concession Unit, particularly along
+       three key competencies: (i) Strategy and Planning; (ii) Project Management; and (iii) PPP
+       Monitoring and Contract Supervision, while strengthening ONAS’s regular functions
+       such as customer relations. Training would be also needed for the Concession Unit’s staff
+       to ensure that they are well-equipped to monitor the PPP contracts;
+     Exploring the use of exchange visits, twinning arrangements and on-the-job training to
+       help bring about the shift from a traditional project implementation role, to one of
+       monitoring contractors’ performance, negotiating technical, financial and relational
+       aspects and reporting on the progress of the PPPs. To develop future transactions,
+       external expertise could also be brought in to develop feasibility studies, environmental
+       and social impact assessments, E&S management systems and risk mitigation plans on
+       ONAS’s side, to structure new projects, prepare bidding documents, and bring support
+       during the bidding process, including the evaluation of bids and negotiations with the
+       private sector;
+     Recruiting a Technical Auditor to assess and report on the private operators’ progress.
+       This will not only support ONAS in strengthening its ability to manage these contracts,
+       but also, mitigate the risk of a conflict of interest when attempting to benchmark ONAS’s
+       performance in implementing sewerage infrastructure projects in other regions with that
+       of the selected private operators in the selected regions. This is common practice in other
+       countries that have undertaken similar water and wastewater PPPs;
+     As part of the above, recruiting an Independent E&S Consultant to: (i) review compliance
+       with the E&S obligations of the PPP contracts, and (ii) report the outcomes of the review,
+       present all areas of compliance and non-compliance and, where applicable, advise on
+       corrective measures to be undertaken by the relevant party (with timeline for their
+       completion and report when completed);2
+
+2
+  Other potential activities to be financed under this Component and that would help develop ONAS’s capacity to manage E&S
+aspects under the PPP contracts could include: (i) on-site training to upgrade ONAS’ capacity to obtain and manage
+WWTP/network data to monitor the performance of the WWTPs and make timely and informed decisions; and (ii) develop and
+manage an early warning system, in case of incidents and accidents, in collaboration with other agencies involved in the water
+quality management and water usage (Ministry of Health, CRDA, ANPE, etc.).
+        Carrying out studies to prepare the other PPP lots, as well as to explore options for the
+         potential institutionalization of the Investment Fund mechanism as a financing structure
+         for sanitation that can enable blended financing arrangements;
+        Carrying out studies to explore future financing opportunities for ONAS by engaging
+         with commercial banks and identifying where the Bank can help address some of the
+         existing bottlenecks to their increased participation in sanitation service financing;
+        Financing project management-related activities, including for compliance with Bank
+         fiduciary procedures, such as financing the carrying out of audits of project financial
+         statements, and safeguards, monitoring and evaluation (M&E), while improving ONAS’s
+         capacity to engage in dialogue with the community and local governments. This
+         component also could contribute to the acquisition of equipment and the project team’s
+         operating costs, including the recruitment of selected individual consultants, training, as
+         well as consulting firms to ensure efficient project implementation and M&E by ONAS.
+c.      Component 3 – Payment Security Mechanism for the PPP. To mitigate the risk associated
+with the non-payment of the O&M part of the remuneration to the private operators, discussions
+with ONAS and the Government of Tunisia (GoT) are ongoing on the need to introduce a risk
+management mechanism in the concession contracts. As bidders will pay particular attention to
+potential delays related to payments for sanitation services, the attractiveness of the concession
+contracts as well as the risk premium that bidders will integrate into their financial proposals will
+strongly depend on their confidence in the capacity of ONAS to honor the quarterly payments for
+O&M as well as for the establishment of new connections. Several options are currently being
+discussed to cover expected O&M payments, including an IBRD Payment Guarantee, and the
+creation of an escrow account backed by a sovereign guarantee. During project preparation, the
+Team will help structure the appropriate mechanism and determine the level of sovereign support
+needed for this bidding process to be successful, based on further discussions with ONAS, GoT
+as well as market feedback during the bidding process.
+
+D. Project location and salient physical characteristics relevant to the analysis of
+environmental and social risks and impacts (if known):
+The Project focuses on financing upgrade, rehabilitation and maintenance works for WWTPs and
+related infrastructure, through a performance-based O&M PPP contract between ONAS and
+private sector concessionaires/operators. The first part of these works will be executed by the
+private operators as part of the PPP and include activities (1) to (6), as described in Table 1. The
+second part of these works will be executed by private sub-contractors recruited by ONAS
+separately from the PPP (i.e. private firm other than the PPP concessionaires), and include civil
+works and network maintenance and renewal works (number 7 in Table 1). In addition, since the
+installation of new household connections to the network are part of the PPP contracts, and hence
+the concession agreements that will be managed by ONAS in their entirety, it will not be
+considered as associated facilities.3
+
+
+
+3
+  This will also make it easier for ONAS to manage as this is consistent with the advice the IFC has so far provided in terms of
+the preparation of the E&S requirements for the concession agreements. In line with WB Performance Standards, the E&S
+requirements will thus be applied accordingly through the full ESIA and management plans to be prepared by the
+concessionaires. No associated facilities have been identified at this stage of project preparation.
+Two concession contracts are expected to be awarded for different areas of Tunisia according to
+the two lots that were selected for the PPP transaction, namely, (i) the Northern Tunis lot
+including the governorates of Tunis and Ariana (one WWTP in this lot), and (ii) the Southeast
+Tunisia lot including the governorates of Sfax, Gabès, Médénine and Tataouine (14 WWTPs in
+this lot).
+
+The E&S risks and impacts are mainly related to the upgrade and maintenance works for
+WWTPs and pumping stations (see activities (4), (5) and (6) in Table 1) and their O&M over the
+ten-year PPP contract period, to be executed by the private operators. the main risks associated
+with the Project include:
+       (i)     Risks associated with wastewater discharges and reuse, such as:
+               a. If the concessionaires do not improve effluent quality as set in the bidding
+                   documents4 and limited benefits on the reuse of treated wastewater in
+                   agriculture and limited improvements on sea water quality are observed at the
+                   points of discharge;
+               b. If pollution abatement results are lower than expected and the activities under
+                   the PPP contract contribute to deteriorating the current conditions of natural/
+                   critical habitats, including Ramsar sites and other International Biodiversity
+                   Areas (IBA).
+       (ii)    Labor-related risks (occupational health and safety, as well as some risks
+               associated with the reassignment of ONAS personnel and ensuring no
+               retrenchment of the current contractors’ workers, as a result of the concession);
+       (iii)   Pollution risks related to the execution of works; and
+       (iv)    Community health and safety risks (e.g. traffic to sites while installing new
+               equipment).
+
+In addition, the installation of new household connections is also likely to have associated E&S
+risks and impacts, mainly related to labor/Occupational Health and Safety (OHS) issues and
+potential land-related issues, if network rehabilitation causes impacts on households or
+businesses. The latter could be related to physical/economic displacement and to the need for
+compensation and/or livelihood restoration due to the location of network pipes (the scope of
+rehabilitation/ maintenance will be jointly defined by the operators and ONAS).
+
+A number of E&S studies have been carried out as part of the PPP feasibility studies (“Due
+Diligence�? report) and more recent complementary ones (still under way), and E&S conditions
+for private operators have been included in the draft bidding documents, and will be refined
+pending the finalization of the ongoing E&S studies.5 These studies aim to assist with the
+assessment of the overall E&S conditions and risk allocation related to the PPP contract (with a
+predominant focus on WWTPs). Information on these conditions is a helpful point of reference
+
+4
+  WBG EHS Guidelines for Water and Sanitation apply, which refer to (i) national requirements or internationally accepted
+standards, such as the 91/271/EEC Directive, and (ii) water quality goals based on the assimilative capacity of the receiving water
+and the most sensitive end use of the receiving water.
+5
+   Key studies conducted to date are: (1) Analyse préliminaire de la sensibilité du milieu récepteur des STEP à l'eutrophisation
+(Artelia, December 2016); (2) Document de travail: considérations sur les objectifs de traitement N et P (Artelia, November
+2016) ; (3) Étude environnementale complémentaire (Artelia, in progress); (4) Summary report of outcomes of the process /
+consultations conducted by ONAS with regard to the issues of retrenchment (completed at this stage).
+not only for identifying and allocating E&S risks, but also for setting performance targets for
+ONAS and the private operators as part of overall project design, since the rehabilitation of
+WWTPs and related infrastructure, as well as private sector participation in O&M aim at
+improving the current environmental parameters (mainly the effluent discharge). Additional
+(albeit limited) information was collected during an initial WB preparation mission that included
+some site visits.
+
+All risks described above are expected to be moderate, and with the available information to
+date, the Project is currently assessed as Environmental Category B. Specific risks and impacts
+under each Performance Standard, in line with this rationale, are described in Section II below.
+The risk associated with natural critical habitats mentioned above will need to be further
+characterized, and, depending on the outcomes of the ongoing study on receiving environments
+associated with the WWTPs to be included in the PPP contracts, the possibility of the need to
+change the Environmental Category (to A) will be assessed.
+
+E. Borrower’s Institutional Capacity for Effective Environmental and Social Management
+System (ESMS):
+World Bank Operational Policy / Bank Procedure 4.03 (World Bank Performance Standards 6 for
+Private Sector Activities) will be applied to the Project in lieu of World Bank Safeguards.
+OP/BP4.03 serves as an umbrella policy for application of the technical World Bank/IFC
+Performance Standards. This approach will allow to optimize project preparation and build on
+the work supported by IFC to date, as described below.
+
+Significant work has been already carried out by ONAS to assess E&S risks to the benefit of the
+forthcoming project as a result of the engagement through the Public Private Infrastructure
+Advisory Facility (PPIAF) and the AFFI. This engagement initially helped ONAS group its
+sanitation assets into lots and hire a Transaction Advisor to structure the first concession contract
+to delegate the rehabilitation and O&M of these assets to the private sector. As mentioned above,
+the Transaction Advisor is supervised by the IFC, and as a result, a number of E&S studies have
+been carried out (with some under development) and E&S conditions for concessionaires
+included in the bidding documents.
+
+The PPP contracts would require the private operators to comply with the national law and the
+World Bank/IFC Performance Standards.7 In addition, the contracts include provisions for third
+party certification under ISO 14001 for environmental management systems. Some of the
+WWTPs already have ISO 14001 certification, the soundness and validity of which would need
+to be verified. Additional third party auditing and monitoring of concessionaire performance
+would be conducted. Under the Project’s Component 2, where technical assistance is expected to
+build the capacity of institutions in carrying out activities that have potentially significant social
+and environmental impacts, these activities will comply with relevant WB safeguard policies
+(unless these activities directly support management of PPP, concessionaire’s performance, or
+
+6
+  “World Bank Performance Standards�? are, in effect, IFC Performance Standards on Environmental and Social Sustainability
+adopted as the “World Bank Performance Standards�? in 2013 pursuant WB Operational Policy 4.03. IFC Performance Standards
+were first introduced in 2006 and updated in 2012.
+7
+  This will include relevant World Bank Group Environmental, Health, and Safety (EHS) Guidelines.
+preparation of new PPP lots, in which case these will be in line with WB Performance
+Standards).
+
+In preparation for the World Bank project, the capacity of ONAS to manage the concessions will
+be assessed in detail and measures will be recommended to close the gaps. ONAS would be
+expected to have the capacity to manage E&S aspects of the tendering processes and oversee
+subsequent contracts with the private operators. To do so, ONAS will prepare and execute a
+coherent Environmental and Social Management System (ESMS) to manage E&S impacts at its
+level, as well as require the operators to have an ESMS at their level (as described in the draft
+PPP contracts). To establish an effective and functional system, ONAS shall use all available
+tools and instruments such as fund management procedures; legal documents and contracts
+(including legal remedies for non-compliance); operator audits and other performance
+monitoring processes. These requirements will be in line with the requirements of World Bank
+OP/BP4.03.
+
+Central to the ESMS at the level of ONAS will be the operating procedures for the management
+of the Investment Fund (see Component 1) which would be developed by ONAS and shall,
+among other things, include conditions of disbursement linked to clearly defined indicators with
+regards to achieving targets for E&S risk management, as will be integrated in the
+concessionaire’s obligations as part of implementing an ESMS at the concessionaire’s level.
+Such ESMS, as required under World Bank/IFC Performance Standard 1, will incorporate the
+following key elements: (i) an overarching E&S policy; (ii) organizational capacity and
+competency to implement the ESMS and process to build internal capacity on E&S matters; (iii)
+a process to identify the E&S risks and impacts associated with the project over the entire
+concession period; (iv) management programs to define mitigation and performance
+improvement measures and actions that address identified E&S risks and impacts; and (v) a
+process to engage with affected communities.
+
+The capacity to effectively implement the ESMS will be key to successfully manage the E&S
+risks in this project. In addition to ONAS, key projects stakeholders would include (i) the two
+selected private operators; (ii) any existing or planned structure/entity involved in the
+management of the Investment Fund and the payment security mechanism to be set up under the
+World Bank project; (iv) relevant ministries and government agencies (e.g. those responsible for
+granting of relevant permits), (v) labor unions, and (vi) affected communities, NGOs and
+biodiversity conservation organizations. Key capacity considerations are outlined below.
+
+
+ONAS should have adequate capacity to:
+      Manage E&S aspects of the tendering processes and oversee subsequent contracts with
+       the private operators/concessionaires;
+      Prepare and execute a coherent system for managing E&S impacts, using all available
+       tools and instruments such as fund management procedures; legal documents and
+       contracts (including legal remedies for non-compliance); stand-alone action plans on
+        certain issues such as personnel reassignment, concessionaire audits and other
+        performance monitoring processes;8
+       Put in place sufficient internal capacity to ensure high quality of E&S impact assessment
+        and risk mitigation measures to be undertaken by concessionaires, as well as ONAS itself
+        with relevant agencies (e.g. management of retrenchment; management of interface
+        between the WWTPs and stations in the concession and the rest of the network);
+       In case of pollution generated by ONAS’ past/present/future operation of interface points
+        between ONAS-operated facilities and private operator-operated facilities, ONAS shall
+        remain responsible for mitigation measures to enable the private operators to meet their
+        agreed obligations, and should have capacity in place to manage the impacts;9
+       Support capacity building plan for concessionaires and their workers and/or request such
+        measures from the concessionaires themselves.
+
+
+Concessionaires should have adequate capacity to:
+       Fulfill all of their E&S obligations as included in their contracts, for the duration of such
+        contracts;
+       Develop, implement and maintain an ESMS in line with World Bank/IFC Performance
+        Standard 1 no later than 30 days prior to start of the contract;
+       Conduct high quality environmental and social impact assessment studies, to the
+        satisfaction of ONAS and World Bank;
+       Design and build the upgrade works and operate and maintain the project in accordance
+        with the requirements of national legislation and the World Bank/IFC Performance
+        Standards, and further guided by the applicable provisions of the WBG EHS Guidelines;
+       Put in place and execute management programs to define mitigation and performance
+        improvement measures and actions that address identified E&S risks and impacts, and
+        define detailed timelines for implementation of specific measures. E&S risk mitigation
+        measures shall be as per the outcomes of the E&S impact assessment studies for the
+        upgrade and maintenance works (e.g. operate and maintain the sludge discharge points
+        present at the sites of the WWTPs according to national legislation and World Bank/IFC
+        Performance Standards);
+       Define and implement a process to engage with affected communities around issues such
+        as appropriate behavior in the event of an unplanned release beyond the plant boundaries
+        due to irregular plant operation/accident, or during transportation of material to the plants
+        as well as nuisances;
+
+
+
+8
+  For example, it has been proposed that ONAS and the concessionaires engage an Independent E&S Consultant to review
+compliance with the E&S obligations of the Concession Agreement.
+9
+  At the interface points between ONAS and the concessionaires within WWTPs, ONAS shall coordinate with the
+concessionaires to ensure the relevant E&S procedures defined in the ESMS of the Concessionaire are adequately met.
+      The concessionaires and their contractors, if any, shall develop/maintain written human
+       resources (HR) policies and procedures in accordance with Tunisian labor laws and
+       World Bank/IFC Performance Standard 2 (Labor and Working Conditions) requirements.
+
+F. Environmental and Social Safeguards Specialists on the Team:
+1. Ekaterina Grigoryeva, Environmental Specialist, GEN03
+2. Antoine V. Lema, Senior Social Development Specialist, GSU05
+
+
+II. PERFORMANCE STANDARDS THAT MIGHT APPLY
+
+Performance Standards (please explain why)                       Yes         No         TBD
+PS 1: Assessment and Management of Environmental                  X
+and Social Risks and Impacts
+
+PS 2: Labor and Working Conditions                                X
+
+PS 3: Resource Efficiency and Pollution Prevention                X
+
+PS 4: Community Health, Safety, and Security                      X
+
+PS 5: Land Acquisition and Involuntary Resettlement                                       X
+
+PS 6: Biodiversity Conservation and Sustainable                   X
+Management of Living Natural Resources
+
+PS 7: Indigenous Peoples                                                      X
+
+PS 8: Cultural Heritage                                                                   X
+
+
+PS1: In preparation for the World Bank project, the capacity of ONAS to manage the
+concessions will be assessed in detail and measures suggested to close the gaps. ONAS would be
+expected to have the capacity to manage E&S aspects of the tendering processes and oversee
+subsequent contracts with the private operators. To do so, ONAS will prepare and execute a
+coherent ESMS for managing E&S impacts at its level, as well as require operators to have an
+ESMS at their level. To establish an effective and functional system, ONAS shall use all
+available tools and instruments such as fund management procedures; legal documents and
+contracts (including legal remedies for non-compliance); operator audits and other performance
+monitoring processes. The operators, as well as other contractors recruited by ONAS (e.g. for
+network maintenance) will also be required to prepare an ESMS at their level in line with PS1 as
+part of the requirements included in the contract. The contracts, among other things, will
+incorporate an Environmental and Social Action Plan (ESAP). Details identified to date are
+described in Section B above.
+Regarding stakeholder engagement, the proposed PPP contracts will have an impact on different
+stakeholders, including the contractors currently operating ONAS’s systems, and their workers.
+Failure to communicate and engage clearly with these contractors and their respective employees
+on this transition to a different type of private sector participation (particularly as related to the
+issue of perceived retrenchment), could affect the viability of the PPP and the achievement of the
+PDO.10
+
+PS2: Since the Project is focused on financing various types of works, OHS has been identified
+as one of the principal risk areas. Care must be taken to ensure that operators as well as other
+contractors and sub-contractors involved in the works have OHS policies,11 processes, and
+practices in place such as employee training, handbooks, warning signs, Personal Protective
+Apparel (PPA) available, etc. A grievance mechanism for workers will also need to be in place at
+the levels of ONAS and the operators. In addition to PS2, OHS-related provisions of the relevant
+EHS Guidelines will be applied.
+
+The issue of reallocation of ONAS personnel was also identified as a potential risk. While no
+retrenchment as such is envisioned, ONAS will need to reallocate its own personnel from the
+WWTPs that will come under the concession to other locations. ONAS has committed to
+reallocate its personnel within no more than 30km from the current duty stations and retain the
+same conditions of work. In the case of staff engaged by contractors currently used by ONAS,
+the operator will be, in line with the Tunisian law and the requirements already included in the
+draft bidding documents, obligated to retain these employees with the same terms of
+employment. In both cases, to ensure smooth transition to the PPP, a plan for managing this
+process by ONAS (where operators will have certain obligations and roles to play), including a
+grievance mechanism, should be in place.
+
+Additionally, PS2 requires that the concessionaire will need to comply with this standard,
+including instituting HR policies and procedures (which must also cover issues related to sub-
+contractors), as well as a grievance mechanism for workers.
+
+PS3: Most WWTPs currently do not have processes in place that allow them to meet the national
+Tunisian effluent standards for phosphorus (P) and nitrogen (N), and currently discharge
+effluents that do not comply with the applicable national standards for other parameters as well
+(ex.: BOD, COD and TSS). Some of the equipment that is in place to meet these parameters, is
+also not functioning, thus contributing to this issue. New effluent discharge limits are being
+proposed with less stringent discharge limits for both P and N, but because the timeline for
+application of these new limits has yet to be clearly defined, there is uncertainty related to the
+legislative requirements that would be applicable to the Project, particularly as the private
+operators would be contractually required to complete upgrade and rehabilitation works in the
+
+
+10
+   Contextual risks related to the overall situation in Tunisia about freedom of association and collective bargaining can
+potentially increase the project risk. For example, labor unions are quite strong in Tunisia, such as Tunisian General Labor Union
+(UGTT). Alleged antiunion practices among private sector employers, including firing union activists and using temporary
+workers to deter unionization, can be a contextual factor to take into account.
+11
+   General contextual risk that should be taken into account is that OHS standards exist in Tunisia, but their enforcement is often
+inadequate, and credible data are lacking on workplace accidents, injuries and fatalities, for example.
+first year. Hence, there is a risk of the operators not meeting their obligations that will be
+stipulated in the contract.
+
+Although ONAS has made investments in sludge management, sludge is stocked in single-
+discharge points on the site of many of the WWTPs or being disposed in nearby landfills, with
+currently unknown technical characteristics (e.g. impermeable layers). Hence, there is a need for
+more information to understand whether this constitutes an environmental risk (e.g., soil and
+groundwater contamination), before suggesting sludge management solutions that may be costly
+as part of the operators’ obligations. Available options for sludge disposal (in general in the
+country or at discharge points operated by ONAS) may impact the extent to which the selected
+private operators will be able to do this in compliance with Performance Standards requirements,
+as this is outside of their control. Screening of contextual risks revealed that scarcity of adequate
+waste disposal sites and proper enforcement of labor law may affect the ability of the winning
+bidder(s) to meet these E&S obligations.
+
+PS4: Moderate impacts on community health and safety are possible as a result of construction/
+rehabilitation activities during the Project. Although most activities will take place within the
+perimeters of WWTPs and pumping stations (which are normally adequately fenced), some
+impacts are possible due to increased traffic, noise, and construction waste generation. Security
+at stations is not armed and properly trained. The same should be required from the security
+personnel to be employed by the concessionaires. In addition, as there is currently no information
+on the most sensitive end use of the water bodies receiving WWTPs effluents, it is not possible at
+this point to further assess potential impacts on communities’ health and safety.
+
+PS5: Project activities are unlikely to induce land acquisition as project investments will take
+place in already enclosed wastewater treatment facilities. Furthermore, there is no expectation of
+encroachers/squatters on project sites. Use of land for equipment/machinery is expected to be
+within existing sites. However, land-related issues are possible if network rehabilitation causes
+impacts on households or businesses, i.e. physical/economic displacement and related need for
+compensation and/or livelihood restoration due to the location of network pipes that are to be
+rehabilitated/ maintained as part of the scope jointly identified by the operators and ONAS. It
+should be, however, noted that rehabilitation generally means that it will be on land already
+belonging to ONAS or in public domain. If there is a need to excavate (which won’t necessarily
+be the case), there should be processes in place to consider, to the maximum extent possible,
+solutions that will help avoid consequences on nearby properties and fences. Should such issues
+be confirmed (even during project implementation), PS5 will be applied accordingly. Given that
+in this case, management of such land-related issues will be mainly the responsibility of
+ONAS,12 ONAS will be expected to put in place a procedure/ framework for their management
+(as prescribed by PS5), which will also spell out the responsibilities of the operators (and their
+sub-contractors, if the case) in that regard. During the preparation of the E&S due diligence
+process, the Bank will further examine the likelihood of land acquisition including pumping
+stations and distribution networks related to the concession contract works, ONAS will be
+
+
+12
+  It should be noted that sewage network works in Tunisia stop at the property line (i.e. ONAS is responsible for bringing the
+network at the edge of the property, and the household is responsible for connecting its facilities to the network.
+requested to provide additional documentation. Some documents related to land titles have been
+already requested.
+
+PS6: The lots under this proposed PPP contain areas of internationally recognized high
+biodiversity value (Ramsar sites and other recognized IBAs), including zones in/adjacent to
+points of discharge. There are uncertainties as to how these areas are currently affected by
+WWTPs. These uncertainties are related to the current effluent discharge performance of
+WWTPs and appropriate site-specific effluent discharge limits for these sites that would need to
+be set under the PPP contracts, based on the assimilative capacity of the receiving environment
+and the most sensitive end-use of the receiving water. Since the private operators are generally
+expected to improve the performance of WWTPs and the quality of effluents under the PPP
+contracts, it would be important to assess the baseline effluent discharge conditions (measured at
+the discharge point) at the start of the PPP to be able to measure performance/progress. However,
+it should be clarified that potential impacts on Ramsar and other IBA sites do not stem from the
+works that aim at, among other things, improving effluent quality to ensure compliance with
+national standards. The risk is rather linked to the potential failure/underperformance of the
+private operators to meet their agreed obligations, and to fulfill these obligations, additional
+assessments may be needed to be done by the operators (on top of the one currently under way
+on this issue, i.e. Étude environnementale complémentaire carried out by the Transaction
+Advisor). This would be carried out by the operators before the start of works in order to
+establish a credible baseline against which their performance can be assessed, and could include
+a Biodiversity Management Plan as part of their E&S Management Programs and as required by
+the Performance Standards, and would be included in the Environmental and Social Action Plan
+(ESAP) in line with PS1.
+
+PS7: There are no indigenous people in the project investment areas.
+
+PS8: Issues related to cultural heritage are possible if network rehabilitation impacts cultural
+values due to the location of pipes that are to be rehabilitated/ maintained as part of the scope
+jointly identified by the operators and ONAS (see activity (7) in Table 1). This would be
+particularly relevant if there is a need to excavate during network maintenance and renewal
+works (although this need could be negligible if trenchless technologies are used). Should such
+issues be confirmed (even during project implementation), PS8 will be applied accordingly.
+Given that in this case, the management of such issues would be a shared responsibility between
+ONAS, the operators, and any other private contractors and sub-contractors, ONAS will be
+expected to put in place a procedure for their management.
+
+OP/BP 7.50 Projects on International Waterways: Given that some water bodies in which
+effluents are discharged may have transboundary connections (e.g. through groundwater), even
+though this possibility is small, the Team will work with LEGEN during preparation to confirm
+whether this policy is applicable.
+
+
+III. SAFEGUARD PREPARATION PLAN
+A. Target date for the Quality Enhancement Review (QER), at which time the Environmental
+   and Social Review Summary (ESRS) would be disclosed and the PAD-stage ISDS would be
+   prepared:
+
+November 23, 2017
+
+B. For Category C or Category FI projects that do not require an ESRS, the target date for
+   preparing the PAD-stage ISDS:
+
+N/A
+
+C. Time frame for launching and completing the safeguard-related studies that may be needed.
+   The specific studies and their timing13 should be specified in the Appraisal-stage ISDS:
+
+In line with OP/BP4.03 applied to this project, an ESRS will be prepared by the Bank to
+summarize the outcomes of Bank due diligence and describe the ESMS that will be put in place
+and maintained during project implementation by the main client/implementing agency (ONAS)
+and all other key stakeholders. The ESRS will be disclosed before appraisal. The Appraisal-stage
+ISDS will be prepared to serve as the cover page for the ESRS.
+
+In addition, it is expected that the following E&S studies would be disclosed: (i) the
+complementary E&S study conducted by the Transaction Advisor (in progress); and (ii) the
+summary report of outcomes of the process / consultations conducted by ONAS with regard to
+the issues of retrenchment (completed at this stage). Results of these studies will be fully
+reflected in the bidding documents.
+
+ONAS will also prepare the following to be disclosed before appraisal, which together would
+form the basis for the ESMS at its level: (i) an Operations Manual for the management of the
+Investment Fund that will include procedures to manage the E&S risks for the PPP, monitoring
+of the operators’ performance on E&S issues, as well as evidence of the incorporation of E&S
+considerations in any other relevant documents (such as the PPP bidding documents); (ii) an
+action plan for the reassignment of personnel, covering both ONAS and current contractors’
+employees, including a grievance mechanism; (iii) a framework for managing displacement and
+livelihood restoration at the level of ONAS for the network maintenance works (see (7) in Table
+1); and (iv) procedures for managing potential impacts on cultural heritage.
+
+During project preparation, work conducted by ONAS with support of the Transaction Advisor
+(supervised by IFC) will be further evaluated and, if deemed necessary, additional E&S studies
+(e. g. E&S audits) may be conducted by ONAS to close any gaps needed to meet the World Bank
+requirements. In this case, the audit report(s) will be prepared and disclosed before appraisal.
+The scope of these studies will be agreed upon with ONAS and would focus on providing a more
+complete picture of the risks, focusing on the full scope of the risk areas (beyond PS3- and PS6-
+
+13   Reminder: The Bank's Access to Information Policy requires that safeguard-related documents be disclosed before appraisal (i)
+at the Bank external website and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to
+potentially affected persons.
+related risks that have been the main focus of IFC studies so far). This scope would also cover
+the identification of any associated facilities, if any, that meet the definition of PS1 and any other
+E&S risks. In this regard it is to be note that, to date, no apparent associated facilities have been
+identified beyond the potential sludge disposal areas outside of ONAS’ facilities.
+
+In terms of stakeholder engagement, ONAS will conduct community consultations around the
+proposed plans for the PPP, associated impacts, and the respective roles of the operators and
+ONAS in managing them. Consultations were held by ONAS on the general communications
+strategy around the PPP, and particularly with regards to potential retrenchment, with the
+following key outcomes:
+    - The following key four tasks have been completed: (i) the preparation of consistent
+        communication arguments; (ii) the development of a brochure for internal and external
+        communication; (iii) the organization of a workshop on communicating with the media
+        (held in Tunis and Sfax, on November 8 and 10, 2016, respectively); (iv) consultations
+        with members of the Northern Tunis and Southeast regions unions, between January 30
+        and February 16, 2017; and (v) the organization of a workshop on the role of civil society
+        in supporting the management and monitoring of PPPs on May 22, 2017;
+    - The importance of internal communication within ONAS has been also confirmed as a
+        way of supporting external communication with affected communities and general
+        public.
+
+
+IV. APPROVALS
+
+ Signed and submitted by:
+ Task Team Leader:                    Jean-Martin Brault                           November 1, 2017
+ Approved by:
+ Regional Safeguards Coordinator:     Nina Chee                                    November 2, 2017
+   Comments:
+ Practice Manager                     Steven Schonberger                           November 2, 2017
+   Comments:
+ Country Director                     Marie Françoise Marie-Nelly                 November 16, 2017
+   Comments:
+

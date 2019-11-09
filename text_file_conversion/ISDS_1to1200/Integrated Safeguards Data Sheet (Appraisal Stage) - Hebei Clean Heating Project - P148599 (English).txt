@@ -1,0 +1,611 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+APPRAISAL STAGE
+Report No.: ISDSA14018
+0
+Date ISDS Prepared/Updated: 06-Oct-2015
+o
+Date ISDS Approved/Disclosed: 09-Oct-2015
+I. BASIC INFORMATION
+1. Basic Project Data
+Country:        China                      Project ID:  P148599
+Project Name: Hebei Clean Heating Project (P 148599)
+Task Team       Yuriy Myroshnychenko,Emmanuel Py
+Leader(s):
+Estimated       21-Sep-2015                Estimated    25-Feb-2016
+Appraisal Date:                            Board Date:
+Managing Unit: GEEO2                       Lending      Investment Project Financing
+Instrument:
+Sector(s):      Energy efficiency in Heat and Power (100%)
+Theme(s):       Pollution management and environmental health (40%), Climate change (10%),
+Other urban development (50%)
+Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+8.00 (Rapid Response to Crises and Emergencies)?
+Financing (In USD Million)
+Total Project Cost:    248.33             Total Bank Financing:  100.00
+Financing Gap:            0.00
+Financing Source                                                        Amount
+Borrower                                                                  148.33
+International Bank for Reconstruction and Development                     100.00
+Total                                                                     248.33
+Environmental A - Full Assessment
+Category:
+Is this a       No
+Repeater
+project?
+2. Project Development Objective(s)
+The proposed project development objective (PDO) is to improve the efficiency and environmental
+performance of heating systems in project areas of selected municipalities of Hebei Province.
+3. Project Description
+The project consists of an investment component "District Heating Subprojects" and a technical
+Page 1 of 14
+
+
+﻿assistant component "Institutional Capacity Building and Project Management Support".
+Component 1: District Heating Subprojects (estimated cost US$245.83 million equivalent; US$97.5
+million IBRD financing , including interest during construction, commitment charge and Front-end-
+Q)       Fee). It will finance the construction and rehabilitation of district heating facilities in the four project
+cities (four subprojects) with a total heating area of 38.7 million m2, including 13.5 million m2 of
+new buildings. Each subproject is tailor fit to the needs of the participating city, but will also have
+common features aiming to modernize operations and make them more efficient.
+Subproject 1.1. Chengde District Heating and Energy Efficiency Subproject (estimated cost US$
+35.2 million; US$ 19.5 million IBRD financing): The subproject is located in the Shuangqiao (old
+town) district of Chengde, a city in northeast Hebei Province. It will rehabilitate district heating
+(DH) facilities that serve the existing DH area of about 12.3 million m2, and expand DH to
+additional 2.5 million m2. The latter will include replacement of six small coal fired boilers that
+serve about 87,000 m2 of existing buildings, and some 2.4 million m2 of new buildings. The main
+investments will comprise: (a) extension of a DH primary network by about 5 km; (b) renovation of
+some 3 km of the primary network and 57 km of a secondary network; and (c) construction of 20
+group substations, and 114 BLS. The implementing entity is the Chengde Heating Group Company,
+Ltd., a state-owned enterprise that is the largest DH company in Chengde.
+Subproject 1.2. Zhangjiakou District Heating Subproject (estimated cost US$73.395 million; US
+$32.665 million IBRD financing): The subproject is located in Qiaodong District of Zhangjiakou,
+located in northwest Hebei Province. It will rehabilitate DH facilities that serve the existing DH area
+of about 3.5 million m2, and expand DH to additional 5 million m2. The latter will include
+connection to DH of about 2.6 million m2 of existing buildings that are currently served by 99 small
+coal fired boilers, and 2.4 million m2 of new buildings. The main investments will comprise: (a)
+extension of a DH primary network by about 20 km; (b) construction of 58 group substations, and 17
+BLS; (c) conversion of two coal-fired boilers (2x64 MW) to natural gas (2x70 MW) for peak load
+supply and backup capacity; (d) construction of a pressure isolation station; and (e) installation of a
+Supervisory Control and Data Acquisition (SCADA) system. The implementing entity is the
+Zhangjiakou Dongyuan Heating Company, a state-owned enterprise and subsidiary of the Qiaodong
+Urban Construction and Investment Company. Dongyuan owns the 4x64MW coal-fired HOB plant,
+which will be partially converted to gas.
+Subproject 1.3. Pingshan Xian (County) District Heating and Energy Efficiency Subproject
+(estimated cost US$ 24.85 million; US$ 12.67 million IBRD financing): The subproject is located in
+the urban area of Pingshan County, about 30 km west of Shijiazhuang, the capital of Hebei Province.
+It will rehabilitate DH facilities that serve the existing DH area of about 4.5 million m2, and expand
+DH to additional 3 million m2 of new buildings. The main investments will comprise: (a) extension
+of the DH primary network by about 6 km; (b) renovation of some 4 km of the primary network (c)
+installation of 27 group substations, and nine BLS, as well as rehabilitation/expansion of five group
+substations to eight group substations; (e) installation of heat meters for 1.9 million m2 of the
+residential heating area (including horizontal piping renovation), and about 0.27 million m2 of public
+buildings (e.g. schools, government offices); (f) automatic control systems for 46 existing
+substations; and (g) installation of a SCADA and central monitoring and control system for the DH
+system. The implementing entity is the Pingshan County Urban and Township Heating Co. Ltd.
+Heating Company, a state owned enterprise under the Pingshan Municipal Construction Bureau.
+Subproject 1.4. Xingtai Xian (County) Industrial Waste Heat District Heating Subproject (estimated
+Page 2 of 14
+
+
+﻿cost US$ 112.385 million; US$ 32.665 million IBRD financing): The subproject is located in the
+northwest urban area of Xingtai County, in southern Hebei Province. It is one of the most polluted
+counties in the Province. It will construct DH facilities to serve about 8 million m2, including some
+2.3 million m2 of existing and about 5.7 million m2 of new buildings. The subproject will use
+O
+)        industrial waste heat from nearby industrial (coking) facilities. The project investments will be split
+in two phases. Phase I is under implementation and comprise: construction of a waste heat water
+network of about 17 km within the coking plant area and some 24 km of the primary DH network
+outside the plant to provide DH to an existing heating area. It is entirely financed from the
+counterpart funds, and therefore procured based on the Chinese procurement rules. However, all the
+project related activities of Phase I will need to comply with the Bank safeguards requirements.
+Phase II will include construction of additional 28 km of the primary DH network, 130 group
+substations and 14 BLS, and installation of a SCADA system. The implementing entity is the RISUN
+Anneng Heating Company, Ltd, a new joint venture (JV) company, established for this project.
+Component 2: Institutional Capacity Building and Project Management Support (estimated cost US
+$2.5 million; US$2.5 million IBRD financing). The component will finance technical assistance,
+training, workshops and study tours for the Hebei Project Management Office (HPMO) and the four
+heating companies, including: (a) project management support to the HPMO and the four heating
+companies; (b) capacity building support to the heating companies in district heating management,
+operation and maintenance, and World Bank project implementation procedures; (c) training,
+workshops and study tours to exchange and learn about good practices in the DH sector; and (d)
+technical assistance activities to tailor fit the needs of project's companies. All these activities will be
+provided by a management consulting company that will be procured under this Component.
+4. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+As indicated in Section 3 above, the proposed Project includes four subprojects in Hebei Province.
+The location of the subprojects is as follows: i) Shuangqiao District in Chengde Municipality, ii)
+Qiaodong District in Zhangjiakou Municipality, iii) Pingshan County in Shijiazhuang Municipality,
+and iv) Xingtai Municipality. The four project municipalities amount to a total of 5,000 square
+kilometers of area and a population of 2.2 million. About one quarter of total population in these
+counties is urban. Hebei Province belongs to the temperate continental monsoon climate featuring in
+distinct seasons. The annual frost-free period lasts 120 days to 200 days, with the annual average
+precipitation and the annual average air temperature respectively ranging from 300mm to 800mm
+and 4 'C and 130C.
+5. Environmental and Social Safeguards Specialists
+Shunong Hu (GWADR)
+Yiren Feng (GENDR)
+6. Safeguard Policies  Triggered? Explanation (Optional)
+Environmental          Yes         Investments under Component 1 include civil works for
+Assessment OP/BP 4.01               substations, transmission pipelines, and metering,
+depending on the scale and actual needs of each county.
+It is expected that environmental impacts during
+construction will be mainly related to small-scale
+construction of transmission pipelines and substations, e.
+Page 3 of 14
+
+
+﻿g. temporary disturbance to traffic and local communities
+along the sites for pipeline construction and near the sites
+for substations, disposal of spoil, nuisance of dust and
+noise. Environmental impacts during operation mainly
+include: (1) noise from the substations, building-level
+substations (2) air pollutants emission and noise of the
+peak boilers.
+Although the construction related impacts of the heating
+networks are site specific, limited and readily managed
+with mitigation measures, the project was classified as
+Category A given the scope of works, the potentially
+linked facilities (heating sources), the displacement of
+workers and social issues, and potential operating safety
+risks during the operation phase in line with OP4.01.The
+detailed information is provided in section II A (1).
+Natural Habitats OP/BP   No            The project is mainly in the urban and peri-urban areas of
+4.04                                   Hebei and these areas are already disturbed by intensive
+human activities. The initial screening of the project
+indicated that it will not convert, degrade or restore any
+natural habitats or critical natural habitats. This was
+confirmed during project preparation.
+Forests OP/BP 4.36       No            The project will not finance activities that would involve
+significant conversion or degradation of critical forest
+areas or related critical natural habitats as defined under
+the policy. Hence this policy is not triggered.
+Pest Management OP 4.09 No             The Project will not lead to purchase, nor use of any
+pesticides. This policy is not triggered.
+0
+Physical Cultural        No           A survey conducted by the EA team during the EA
+Resources OP/BP 4.11                  preparation confirmed that no physical cultural resources
+will be affected by the project. Chance-finding procedures
+was included in the EMP.
+Indigenous Peoples OP/   No            Based on the social assessment conducted during project
+BP 4.10                               preparation, the proposed project will not trigger the
+Bank's OP 4.10 on Indigenous People. Consultations with
+local government agencies and affected people have been
+conducted for all subprojects and it was concluded that
+there are no ethnic minority communities, as defined by
+the Bank, in the project affected areas.
+Policy OP/BP4.10 is not triggered.
+Involuntary Resettlement Yes           The policy was triggered during the early phase of project
+OP/BP 4.12                            preparation when more components with potential land
+acquisition were still part of the Project, and alignments
+of heating pipelines had not been determined. An
+abbreviated resettlement plan (ARAP) was prepared by
+each subproject to address potential land acquisition
+Page 4 of 14
+
+
+﻿impacts. The ARAPs include compensation policies and
+due diligence review of related facilities, such as heating
+sources, primary heating stations, and related road
+construction. In the end, those components with potential
+land acquisition were dropped, and alignments of pipeline
+construction were selected to avoid any potential
+occupation of farmland.
+However, OP 4.12 is still triggered to land acquisition that
+has recently taken place in connection to Xingtai
+Subproject and Pingshan Subproject. The project includes
+construction of district heating systems in the four cities
+of Hebei Province. Heat will come from existing thermal
+generation plants and industrial waste heat. Two primary
+heating stations will be built on existing land plots with
+52.84 mu of land area, including 50 mu land plot in
+Xingtai which had gone through land acquisition recently.
+Due diligence review was conducted for all heating
+sources, and two primary heating stations. The due
+diligence review included in the ARAPs found that land
+acquisition was done in compliance with national
+legislation and consistent with OP 4.12 objectives. (see
+details below).
+In addition, the ARAPs include measures to mitigate
+impacts of social impacts covered by OP 4.01 in relation
+to loss of employment and affordability. (see details
+below).
+For heating transmission, about 164 km of primary
+heating pipelines, and 243 heat exchange group
+substations will be constructed or rehabilitated. All
+heating stations will be built within existing housing
+estates. Construction of heating pipelines will involve 996
+mu of temporary land occupation. All of them are urban
+road spaces, and no individuals will be affected.
+Safety of Dams OP/BP    Yes         The proposed project will not finance the construction or
+4.37                                rehabilitation of any dam. OP4.37 is triggered because
+under the Xingtai Sub-project, the Xingtai Risun Group
+uses industrial waste heat and receives the cooling water
+from the existing Yangwuowan reservoir that is located
+about 25 km northwest of Xingtai City.
+The Yangwuowan reservoir, with a design storage of 7.95
+million m3, and downstream of the Baima River of the
+Ziya River, comprises a 14.5 m high homogeneous earth-
+fill dam, with a length of 240 m, a saddle dam with a
+Page 5 of 14
+
+
+﻿length of 500 m, and one open spillway, sluice tunnel
+through the dam. The dam and its appurtenances were
+built in 1958. The most recent remedial/rehabilitation
+works were completed in September 2009. A dam safety
+inspection was completed on October 30, 2010 and
+concluded that the dam operation was safe. An operation
+manual and emergency preparedness plan had been
+prepared and are in place at the reservoir management
+office under the Xingtai Yemengou Irrigation District
+Management Division of the Xingtai Water Affairs
+Bureau.
+The EMP includes an annual review of the operation and
+maintenance of the dam and its appurtenances by a
+competent dam safety expert satisfactory to the Bank. The
+review will be included in the external environmental
+monitoring report.
+Projects on International  No       Not applicable.
+Waterways OP/BP 7.50
+Projects in Disputed    No          Not applicable.
+Areas OP/BP 7.60
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+and describe any potential large scale, significant and/or irreversible impacts:
+The project will bring significant net positive environmental benefits by providing more energy
+efficient and hence cleaner heating services. It is expected that the project will greatly reduce air
+pollution in Hebei Province.
+The environmental impacts during construction are mainly related to small-scale construction of
+transmission pipelines and substations, e.g. temporary disturbance to traffic and local communities
+along the sites for pipeline construction and near the sites for substations, disposal of spoil,
+nuisance of dust and noise. Environmental impacts during operation mainly include: noise from
+the substations, building-level substations, air pollutants emission and noise of the peak boilers,
+and safety issues. The adverse impacts are localized, limited and can be readily managed with
+accepted measures of good environmental codes of practice (ECOP) and site specific mitigation
+measures for potential adverse impacts during construction and operation. The relevant mitigation
+measures were incorporated into the EIA/EMP.
+Although no significant adverse environmental impacts will be caused by the small scale
+construction of heating networks, this project has been classified as a Category A as per OP4.01
+taking into account of potentially linked facilities (heating sources), the scope of the project, the
+displacement of workers and the potential operating safety risks during the operation phase.
+The heating sources of the project are local power plants and industrial enterprises. All these
+power plants are main local industrial pollution sources. In Xingtai, Hebei China Coal RISUN
+Coking Co., Ltd is the main heat source and RISUN Anneng Heating Co., Ltd is the stand-by heat
+Page 6 of 14
+
+
+﻿source, both of the heating sources in Xingtai are chemical industrial enterprises. The risk
+problems of heat source renovation of the Xingtai Subproject which is associated with this Project
+have been determined during the design stage of this Project. In accordance with the "Interim
+Provisions on Supervision and Administration of Major Hazard Sources of Hazardous Chemicals"
+0
+and "Hebei Province Methods for Classification of Major Hazardous Sources ", storage area, and
+phase III coking production area and gas pipelines of Hebei RISUN Coking Co., Ltd. are classified
+as Class 3, and Class 4 major hazardous sources respectively, and gas-fired boilers of Xingtai
+RISUN Anneng Heating Co., Ltd is classified as Class 3 major hazard source.
+Due to the scope of the pipelines network construction, the construction of pipelines will have
+potential impacts on municipal public facilities and railway and highway. Pipeline construction
+may interrupt the existing underground pipelines and cables. In addition, pipeline crossing
+construction may also produce impacts on normal operation of railway and highway and, when
+serious, may impact traffic safety. Pingshan and Xingtai will involve the crossing of existing
+railway and expressway which is technically complicated and needs professional design,
+monitoring and construction. Before the commencement of construction, the underground
+pipelines and cables will be identified together with the associated management departments, and
+the construction plan will be prepared by the contractors and submitted to the supervisor for
+approval. For the crossing of the existing railway and highway in Pingshan and Xingtai, the
+construction plan will be prepared by the contractor for review and approval of the management of
+the railway and highway. Although the Project has no resettlement impacts due to the cancellation
+of components with potential land acquisition impacts, and finalized alignments avoided any
+farmland occupation, the closure of small boilers will have some social impacts. A total of 359
+seasonal boiler workers will lose their employment due to the closure of 125 small boiler houses.
+For such impacts, based on consultation with key stakeholders, detailed reemployment plans have
+been prepared. Among 359 affected workers, 249 will be kept by heating companies or housing
+estates. The remaining 110 workers are planning to move to other areas, such as construction sites
+(59), service sector (23) and return home in countryside (28). Free skill training will be provided
+for both those who want to work in heating companies or those who will go to other sectors. The
+institutional arrangement is made for monitoring the implementation of reemployment plans to
+ensure the income and livelihood of the affected workers will be restored during project
+implementation. These mitigation measures are included in the ARAPs.
+The potential operating safety risks during the operation phase is another concern of the project.
+0           The environmental risks during operation phase include natural gas and boiler explosion, The
+occupational safety risk is a major concern for the heating sources that will provide heating to the
+proposed project. The safety risks are identified to be: The workers may be injured by the
+exposure to steam from recovery of surplus heat or co-generation; The workers may be injured by
+the exposure to the electric devices that may cause electric shock in co-generation.
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+in the project area:
+Hebei Province has developed an ambitious target for air pollution reduction in September 2013
+through its "Implementation Plan of the Action Plan for the Prevention of Air Pollution" which
+calls for reduction of NOx, S02 and PM by 296,400t, 356,000t and 93,200t respectively during
+five years. This proposed project is an integral part of the Action Plan for the Prevention of Air
+Pollution. It is expected that the reduction or avoidance of NOx (1692.6 t/a), S02 (78.76 t/a) and
+PM (25.68 t/a) will be achieved once the project is completed. It will contribute to improving air
+quality in Hebei Province.
+Page 7 of 14
+
+
+﻿The project will cause some indirect adverse environmental impacts, totally 125 small coal-fired
+boilers will be dismantled with the completion of the project. During the dismantling process, it
+will have potential limited impacts such as noise, fugitive dust and construction solid wastes,
+Environmental Management Plan for Small Boiler Demolition was prepared as part of the EMP of
+O
+the project. Other induced impacts due to the proposed projects include: The residences will be
+connected with the district heating network, the affordability of these residents is a concern.
+However the government will provide the subsidies to the vulnerable families on the heating fee so
+as to mitigate the impact on the vulnerable families. The proposed project will induce urbanization
+and attract more people into the project due to improved living conditions. The proposed project is
+an integral part of the urban development plan which supplements the sectoral plans for sanitation
+and transportation which have already taken into account the increase in population and the
+associated demand for infrastructure services in the development planning. The proposed project is
+expected to help promote local business and trade and economic growth, as a result of increased
+population in the project area. This project will have social impacts, including affordability and
+loss of employment of temporary workers due to the shutdown of small coal-fired boilers.
+However these impacts are mitigated by subsidies to poor families (affordability) and
+reemployment plans for laid off workers; implementation of mitigation measures are included in
+the ARAPs.
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+impacts.
+During the project design phase, the EA teams worked closely with project planners/ owners and
+the feasibility study teams to compare and evaluate alternatives. The EA identified, evaluated and
+compared various options for heating sources selection, pipeline alignment selection, heating
+exchange station selection, and optimal alternatives were selected based on the avoidance of (or
+least adverse) social and environmental impacts, as well as other engineering technology, and
+financial considerations for least cost solutions. A "no project" scenario was also considered as an
+alternative. Adequate engineering measures have been designed to mitigate the expected impacts,
+including noise reduction equipment etc.
+O
+As a result, the best heating sources were selected, and the pipeline alignment, the locations of the
+heating exchange stations were optimized so as to reduce land acquisition, decrease construction
+risks, minimize resettlement, avoid environmental sensitive sites, and minimize costs. Further
+optimization will be conducted during the detailed design.
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+assessment of borrower capacity to plan and implement the measures described.
+Although the construction related impacts of the heating networks are site specific and limited, the
+project is classified as Category A as per OP4.01, given the scope of works, the potentially linked
+facilities (heating sources), the displacement of workers and social issues, and potential operating
+safety risks during the operation phase. Environment Assessment (EA) reports were prepared in
+accordance with the relevant national laws, regulations, and technical guidelines, and standards
+applicable to the project, as well as the World Bank Safeguard Policies. The reports include an EA
+Executive Summary, Environmental Impact Assessment (EIA), and Environmental Management
+Plan (EMP). The EA Report has been prepared, incorporating the Bank's comments, and found to
+be satisfactory.
+The potential environmental and social impacts of the proposed project are thoroughly addressed
+in the EIA report, and the necessary mitigation measures have been developed in the EMP and
+ARAPs. It is concluded that these adverse environmental and social impacts can be adequately
+Page 8 of 14
+
+
+﻿avoided, minimized and mitigated with good management practice and mitigation measures as
+developed in EIA/EMP/ARAPs. A summary of the main impacts and mitigation measures is
+presented below:
+O
+Construction phase. To address the potential adverse impacts such as dust, wastewater, solid
+waste, noise, and social impacts during construction phase, preventive and mitigation measures
+have been developed in EMP to adequately avoid, minimize and mitigate these adverse
+environmental and social impacts. The main measures include but are not limited to: public
+consultation throughout the construction period to address public concerns and improve
+construction activities; proper management of solid wastes; careful scheduling of construction
+activities; restricting night-time construction; dust and wastewater pollutant control; use of low
+noise equipment and facilities; traffic management; etc. In addition, a management plan to
+dismantle small boilers was developed as a part of EMP to cope with identification, dismantle
+operation, storage, transportation and disposal of waste.
+Operation phase. To address potential impacts during operation phase, a number of mitigation
+measures were adopted. They include but are not limited to: use of low noise equipment,
+installation of noise barrier, installation of low noise silencer, vibration-reduction facilities will be
+installed, collection and treatment of wastewater, and solid waste, EHS measures, monitoring of
+waste gas, wastewater and noise regularly of heating sources etc.
+The due diligence review for the heating sources of the four subprojects have been conducted in
+the EIA, including Power Luanhe Power Plant (main heat source) and north-east countryside heat
+source plant (peak load heat-source) in Chengde, Xibaipo Power Plant in Pingshan, Hebei China
+Coal RISUN Coking Co., Ltd. (main heat source) and RISUN Anneng Heating Co., Ltd (stand-by
+heat source) in Xingtai, and Datang Power Plant (main heat source) and Dongyuan Heating Co.,
+Ltd (stand-by heat source) in Zhangjiakou. The assessment of environmental risks, environmental
+management capacity, pollution treatment technologies, environmental performance etc. followed
+international standards and provided a thorough assessment of potential issues and their mitigation
+at each plant. The environmental performance of the heating sources was found to be in
+compliance with the respective environmental standards. In addition, prevention and monitoring
+methods for the possible risks have been developed in the Xingtai Subproject. The heat source
+enterprises will follow the requirements and implement monitoring measures. The due diligence
+a          review also showed that the industrial enterprises have established a system for occupational
+health and safety management in accordance with relevant laws and regulations, i.e. safety
+operation law. The performance of such a system is satisfactory.
+The cumulative impact assessment has been conducted in the EIA by following the Good Practice
+Handbook- Cumulative Impact Assessment of IFC. Through consultation with the stakeholders,
+air pollutant emission load reduction (S02, NOx andPMs), displacement of small boiler workers
+and affordability of heating tariff for poor households were selected as the VECs. It is expected
+that the reduction of NOx (1692.6 t/a), S02 (78.76 t/a) and PM (25.68 t/a) will be achieved once
+the project is completed.
+Implementation of this project will increase district heating coverage in project area to replace
+small coal-fired boilers and other non-centralized heating facilities, and will improve heating
+service quality. Improved ambient air quality will decrease the incidence of respiratory diseases
+and improve life quality of the residents. Project implementation is expected to increase
+employment opportunities and income of local residents. However, district heating to be achieved
+Page 9 of 14
+
+
+﻿by this Project will require payment of local residents for heating service and connection charge.
+Increased expenditure for heating service will have insignificant impact on majority of the
+households, but may be a burden for poor households. In addition, closure of existing small coal
+boilers will cause unemployment and loss on incomes of small amount of workers and new job
+O
+opportunities are demanded. The occupational training would be provided for the unemployment
+of workers, and re-employment arrangements have been considered and would be carried out
+during the project implementation phase. The lAs and government have taken into consideration
+the affordability of poor families (low-income group) for connection to district heating services.
+The local government has committed to providing heating subsidy so as to alleviate the financial
+burden of the low-income groups.
+The environmental risks during the construction and operation phase have been adequately
+identified in the EIA, the environmental risks during the construction phase include natural gas
+use, safety of pipeline construction, acetylene explosion. The environmental risks during operation
+phase include natural gas and boiler explosion. The risks prevention and mitigation measures in
+design, construction and operation phase have been prepared respectively as part of EIA/EMP to
+cope with these potential risks which include the institutional arrangement, mitigation measures
+and management system, emergency planning and response, training plan and monitoring plan.
+A stand-alone EMP has been developed which details the policy bases, applicable environmental
+standards, environmental management organization and responsibilities, sufficient mitigation
+measures, capacity training plan, environmental monitoring program, and budget estimates of
+EMP implementation. The EMP measures were developed according to the World Bank Group
+EHS Guidelines. The EMP measures will be incorporated into bidding documents and contracts in
+order to ensure effective implementation.
+Environmental management responsibility will be built into the relevant divisions of the overall
+project management structure, with dedicated management staff to ensure effective EMP
+implementation. A training plan will be implemented prior to/and during construction for project
+management staff, technical staff and contractors.
+ECOP and site-specific management plans have been developed and incorporated into the EIA and
+the EMP. An environmental monitoring plan for noise, air and heating sources have been designed
+a          for both construction and operation phases of the project, and are incorporated into the EMP,
+which includes the monitoring location, monitoring parameters, methods, frequency and cost
+estimate. Environmental monitoring report will provide key and timely information, especially on
+environmental impacts and mitigation, to the borrower and the Bank to evaluate the success of
+environmental management.
+For four subprojects, even though no new land acquisition will be involved since both permanent
+land acquisition and temporary land occupation are either within housing estates or on urban
+roads, ARAPs are still prepared to include due diligence reviews for recently acquired land areas,
+and other social impacts covered under OP4.01. They include
+In Xingtai Subproject, land acquisition for primary heat station took place in 2013. The acquired
+land was farmland from Shixing Village, affecting 87 households. The compensation was set at
+CNY80,000 per mu, which was 20% higher than compensation rate set by provincial government.
+All compensation had been paid to affected households. No problem was reported.
+Page 10 of 14
+
+
+﻿In Pingshan, one section of urban road had recently completed land acquisition and resettlement in
+2013, where proposed heat pipeline is to be built. It involves 94 mu of land areas with 74 mu
+housing land and 20 mu farmland, and demolition of 23000 square meters of houses, affecting 202
+households and 698 persons, including 132 households to be relocated. The compensation for land
+O
+is set at CNY350,000 per mu in cash or 260 square meters of new housing space per mu of land
+area. All affected households had selected option of receiving replacement housing for
+rehabilitation and signed compensation agreements, and replacement housing is under
+construction.
+On other social impacts, due to close down of 125 small boilers, a total of 359 seasonal boiler
+workers will lose their employment. Based on consultation affected people, detailed reemployment
+plans have been developed by project sponsors. Among 359 affected workers, 249 will be kept by
+heating companies or property management companies. The remaining 110 workers are planning
+to move to other areas, such as construction sites (59), service sector (23) and return home in
+countryside (28). Skill training will be provided for both those who want to work in heating
+companies or those who will go to other sectors.
+On issue of affordability, all four cities have adopted measures to assist low income households
+for both annual heating charge and one time secondary heat network improvement cost.
+Although the Hebei PMO has extensive experience with the Bank, it is the first Bank's
+engagement with most subproject cities. The participating cities and heating companies lack
+experience with Bank funded projects and are unfamiliar with Bank's safeguards policies. The
+ARAP reports have been prepared by professional institutions with the required qualification and
+adequate experience with Bank's China projects. Safeguards training will be provided to the PMO
+staff and local implementation agencies prior to ARAP implementation.
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+on safeguard policies, with an emphasis on potentially affected people.
+In accordance with the requirements of the China's EA Law and the World Bank, two rounds of
+public consultations were conducted by the EIA team during EA preparation. The key
+stakeholders included relevant government agencies such as traffic police bureau, cultural relic
+O
+bureau, environmental protection bureau, highway administrative bureau, and some public utility
+institutions such as water supply company, gas company, electricity company, and project
+*           affection residents, including poor family, female householder family, the disabled etc. The first
+round was held from January to April 2015 through meetings, field interviews and questionnaire
+surveys among project affected people, experts and relevant key stakeholders. It focused on
+environmental screening to define public concerns, to assist identification of key environmental
+issues and risks, to get public response and comments on the initially developed mitigation
+measures for the potential adverse impacts identified before finalizing EA TORs. The main
+concerns raised by the public were construction related impacts, safety of gas use, and
+affordability issue. All these concerns have been addressed in the ARAPs and EIA/EMP. The
+second round took place from March to May 2015 after the draft EIA report had been prepared.
+During the consultations, the key findings of draft EIA report and proposed mitigation measures
+were explained and the issues raised by the participants clarified and answered. The consultation
+revealed that the public strongly supports the project as it was expected due to improvements in air
+quality and in the level of heating services in the project areas of the four municipalities. As a
+follow up to public consultations, public concerns have been carefully considered in the impact
+assessment and development of mitigation measures. The proposed measures were found
+Page 11 of 14
+
+
+﻿satisfactory by the participants of the consultations.
+The feedback received during the consultations has been taken into accounting while preparing
+project design, subproject feasibility studies, ARAPs, SA and EMP.
+The EMP and ARAPs were disclosed locally on the website of the local government on:
+- August 24, 2015 for the EIA/EMP;
+- For the four subprojects' ARAPs: July 10 (Zhangjiakou), July 30 (Xingtai), August 24
+(Pingshan), and August 27 (Chengde).
+The EMP and ARAPs were disclosed at the Bank Infoshop on September 15, 2015, and September
+16, 2015 respectively.
+B. Disclosure Requirements
+Environmental Assessment/Audit/Management Plan/Other
+Date of receipt by the Bank                              15-Aug-2015
+Date of submission to InfoShop                           15-Sep-2015
+For category A projects, date of distributing the Executive  25-Sep-2015
+Summary of the EA to the Executive Directors
+"In country" Disclosure
+China                                                    24-Aug-2015
+Comments: Disclosed in Hebei Province
+Resettlement Action Plan/Framework/Policy Process
+Date of receipt by the Bank                              15-Aug-2015
+Date of submission to InfoShop                           16-Sep-2015
+"In country" Disclosure
+China                                                    27-Aug-2015
+Comments: Disclosed in Hebei Province.
+For the four subprojects' ARAPs: July 10 (Zhangjiakou), July 30 (Xingtai), August
+24 (Pingshan), and August 27 (Chengde).
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please explain why:
+C. Compliance Monitoring Indicators at the Corporate Level
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) Yes [ X] No [ ] NA [ ]
+report?
+If yes, then did the Regional Environment Unit or Practice Yes [ X] No [ ] NA [ ]
+Manager (PM) review and approve the EA report?
+Are the cost and the accountabilities for the EMP incorporated  Yes [X] No [  ]  NA [  ]
+in the credit/loan?
+Page 12 of 14
+
+
+﻿OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy framework/ Yes [ X] No [ ] NA [ ]
+process framework (as appropriate) been prepared?
+If yes, then did the Regional unit responsible for safeguards or Yes [X] No [  ]  NA [  ]
+Practice Manager review the plan?
+Is physical displacement/relocation expected?            Yes [  ]  No [X]    TBD [   ]
+Provided estimated number of people to be affected
+Is economic displacement expected? (loss of assets or access to Yes [  ]  No [X]  TBD [  ]
+assets that leads to loss of income sources or other means of
+livelihoods)
+Provided estimated number of people to be affected
+OP/BP 4.37 - Safety of Dams
+Have dam safety plans been prepared?                     Yes [ X] No [    ]  NA [    ]
+Have the TORs as well as composition for the independent  Yes [  ]  No [  ]  NA [ X]
+Panel of Experts (POE) been reviewed and approved by the
+Bank?
+Has an Emergency Preparedness Plan (EPP) been prepared and Yes [ X] No [  ]  NA [    ]
+arrangements been made for public awareness and training?
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the  Yes [ X] No [  ]  NA [  ]
+World Bank's Infoshop?
+Have relevant documents been disclosed in-country in a public Yes [ X] No [ ] NA [ ]
+place in a form and language that are understandable and
+accessible to project-affected groups and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional  Yes [X] No [  ]  NA [   ]
+responsibilities been prepared for the implementation of
+measures related to safeguard policies?
+Have costs related to safeguard policy measures been included Yes [ X] No [ ] NA [ ]
+in the project cost?
+Does the Monitoring and Evaluation system of the project Yes [ X] No [ ] NA [ ]
+include the monitoring of safeguard impacts and measures
+related to safeguard policies?
+Have satisfactory implementation arrangements been agreed Yes [ X] No [ ] NA [ ]
+with the borrower and the same been adequately reflected in
+the project legal documents?
+III. APPROVALS
+Task Team Leader(s): Name: Yuriy Myroshnychenko,Emmanuel Py
+Approved By
+Safeguards Advisor:    Name: Peter Leonard (SA)                   Date: 07-Oct-2015
+Page 13 of 14
+
+
+﻿Practice Manager/      Name: Julia M. Fraser (PMGR)                Date: 09-Oct-2015
+Manager:
+Page 14 of 14
+
+

@@ -1,0 +1,519 @@
+                                                INTEGRATED SAFEGUARDS DATA SHEET
+                                                        APPRAISAL STAGE
+                                                                                                Report No.: ISDSA10730
+Public Disclosure Copy
+
+
+
+
+                         Date ISDS Prepared/Updated: 09-Oct-2014
+                         Date ISDS Approved/Disclosed: 30-Jun-2014, 10-Oct-2014
+                         I. BASIC INFORMATION
+                            1. Basic Project Data
+
+                            Country:           Nepal                              Project ID:    P146344
+                            Project Name:      Nepal: Grid Solar and Energy Efficiency (P146344)
+                            Task Team          Rabin Shrestha
+                            Leader:
+                            Estimated          15-Sep-2014                        Estimated   09-Dec-2014
+                            Appraisal Date:                                       Board Date:
+                            Managing Unit:     GEEDR                              Lending     Investment Project Financing
+                                                                                  Instrument:
+                            Sector(s):         Other Renewable Energy (70%), Energy efficiency in Heat and Power (15%),
+                                               Transmission and Distribution of Electricity (15%)
+                            Theme(s):          Infrastructure services for private sector development (100%)
+                            Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+                            8.00 (Rapid Response to Crises and Emergencies)?
+                            Financing (In USD Million)
+Public Disclosure Copy
+
+
+
+
+                            Total Project Cost:       138.00           Total Bank Financing:  130.00
+                            Financing Gap:              0.00
+                              Financing Source                                                                           Amount
+                              BORROWER/RECIPIENT                                                                            8.00
+                              International Development Association (IDA)                                                 130.00
+                              Total                                                                                       138.00
+                            Environmental B - Partial Assessment
+                            Category:
+                            Is this a          No
+                            Repeater
+                            project?
+
+                            2. Project Development Objective(s)
+                           The project development objectives (PDOs) are to: (i) increase electricity supply to the NEA grid
+                           through grid-connected solar farms; and (ii) reduce NEA’s distribution losses in pilot distribution
+                           centers.
+                            3. Project Description
+
+
+                                                                        Page 1 of 9
+                         The proposed project consists of two components: (a) Grid-connected Solar Farms Development; and
+                         (b) Distribution System Planning and Loss Reduction. The total cost estimated for the proposed
+                         Project is US$ 138.0 million, including interest during construction, physical and price contingencies.
+Public Disclosure Copy
+
+
+
+
+                         Grid-connected Solar Farms Development (US$ 54.0 million). This component will support (a)
+                         design, supply, construction, commissioning, operation and maintenance (O&M) of grid connected
+                         solar farms of 25 MWp capacity to supply electricity directly to NEA’s distribution network, through
+                         an engineering, procurement, and construction (EPC) contract; (b) hiring of an Owner’s Engineer
+                         (OE) to support NEA to procure the EPC contract and supervise its execution; and (c) incremental
+                         operating cost and capacity building. The solar farms will be built using conventional solar
+                         photovoltaic (PV) technology nearby the Kathmandu valley. Electricity generated will be supplied
+                         directly without electricity storage facilities, at 11kV medium voltage (MV) level, to the existing
+                         substations of the NEA. A number of candidate sites, including the two existing hydropower plants
+                         (Devighat and Trishuli) owned by the NEA, are identified with sufficient areas for installation of the
+                         solar farms through a screening process based on criteria such as land ownership by NEA, size of
+                         areas, intensity of solar radiations, daily sunshine durations, shadows, and topographic and
+                         geological conditions. Bid documents for the EPC contract is scheduled for issuance in November
+                         2014 and signing of the contract is expected in March 2015. O&M services for 5 years from the date
+                         of commission will also be included in the EPC contract. The O&M services include supply of spare
+                         parts, preparation of an O&M manual and training of the NEA’s engineers for O&M. An OE (or
+                         individual consultants) will be hired to assist NEA in bid evaluation, construction supervision,
+                         acceptance test, commissioning, and reviewing the O&M Manuals. The capacity building program
+                         includes hiring of consultants for independent bid evaluations, and training of NEA staff on project
+                         management and O&M of solar farms.
+
+                         Distribution System Planning and Loss Reduction (US$ 84.0 million). This component will support:
+                         (a) preparing the Distribution Master Plan (DMP); (b) preparing the Distribution Loss Reduction
+                         Master Plan (DLRMP); (c) preparation and implementation of pilot loss reduction projects in
+Public Disclosure Copy
+
+
+
+
+                         selected distribution centers of NEA following recommendations of the DLRMP; and (d) capacity
+                         building for distribution system planning at both NEA’s distribution center and corporate levels. The
+                         component will help redress the high system losses in the country, enhancing NEA’s capacity in
+                         distribution system planning and management, and enhancing on-grid and off-grid planning
+                         coordination for rural electrification.
+
+                         Following recommendations of the DLRMP, investment for system loss reduction will be piloted in a
+                         number of distribution centers of the NEA, which may include: (i) replacing conductors of
+                         distribution feeders or building new distributions lines to reduce line losses; (ii) adding or replacing
+                         distribution transformers to maintain voltage levels and reduce transformer losses; and (iii) adding
+                         capacitor banks to compensate reactive power to manage voltage levels.
+
+                         The capacity building programs may include: (i) provision of instruments and proven software and
+                         training for distribution system loss identification and reduction planning; and (ii) development of a
+                         Geographic Information System (GIS) database with information/data of locations and details
+                         regarding the NEA’s existing generation, transmission, and distribution facilities (including
+                         specifications); grid connected customers (households, industries, commercials, institutional
+                         customers, etc.); potential customers in grid-covered areas; potential demands in not grid-covered
+                         areas; among others, for distribution system / rural electrification master planning. The GIS database
+                         is critical for on- and off-grid rural electrification planning, loss reduction planning, and distribution
+
+
+                                                                        Page 2 of 9
+                         system and customer management.
+                          4. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+Public Disclosure Copy
+
+
+
+
+                         The list of candidate locations identified for initial screening are:
+
+                         •        Devighat Hydropower Plant: Devighat Hydropower Plant, located at Devighat in Nuwakot,
+                         with an installed capacity of 14.1 MW and annual design generation of 144 GWh, was commissioned
+                         in 1984 and rehabilitated and upgraded to 15 MW in 2011. It lies on the right bank of Trishuli River
+                         and is approximately 10 km downstream of Trishuli hydropower station. In this hydropower plant,
+                         there are 4 areas suitable for installation of solar panels: i) Raatmatay Area, ii) Keraghari, iii) Staff
+                         Quarter Area, and iv) Forebay Ground Area. All these areas have good sunshine hours from 7:30 AM
+                         to 5:30 PM. All these areas are less than 1.5 km away from the tapping point (a substation in the
+                         power plant area) with 11kV transmission line to evacuate electricity to be generated by the proposed
+                         solar farm project. These areas are owned by NEA and are free of land ownership issues.
+
+                         •        Trishuli Hydropower Plant: Trishuli Hydropower Plant, located approximately 10 km
+                         upstream from Devighat Hydropower Plant, with an installed capacity of 24 MW and annual design
+                         generation of 163 GWh, was commissioned in 1967. In this hydropower plant, there are 3 areas
+                         suitable for installation of solar panels: i) Trishuli 2 Area 2, ii) Trishuli 5 Area, and iii) Reservoir
+                         Pond Area. All these areas have good sunshine hours from 7:00AM to 4:30PM, and are less than 3.3
+                         km away from the tapping point (a switchyard in the power plant area) with 11kV transmission line
+                         to evacuate electricity to be generated by the proposed solar farm project.
+
+                         •       Pharping Site: This is the first hydropower plant developed in Nepal, which has been
+                         declared as a National Heritage. Recently, centenary year was celebrated. The power plant (106 years
+                         after construction) has not been generating electricity for a few years due to decrepitude. The
+                         candidate site is in steep slope and facing the south direction, near the power house. There is an 11kV
+                         transmission line, which evacuates electricity generated by the power plant to the nearest substation.
+Public Disclosure Copy
+
+
+
+
+                         The monument (a triangular tower) on the top of another hill, on the west side in front of the
+                         candidate site, may cause shadow on significantly large areas and make the suitable areas for the
+                         solar panel installation narrower.
+
+                         •        Markhu 1: Land was legally acquired and transferred in the name of NEA. There are quite
+                         old residences and a guest house. The site is located at lakeside of the reservoir of Kulekhani
+                         hydropower plant (60MW storage type). Sun light is available from 8:00 to 16:00 during winters and
+                         8:00 to 17:30 during summer seasons. The land is quite flat, but narrow (it could be good for 1 to 2
+                         MW). Houses on the site need to be demolished. The nearest substation at Kulekhani 2 hydropower
+                         station, which is about 15 km away.
+
+                         •        Markhu 2: This site is located a few hundreds meter away from Markhu 1 site. Although the
+                         boundary of NEA’s land was unclear at the site, the land is the larger than Markhu 1 and Parphing
+                         and seems suitable for the solar system installation facing the South direction. The site is located at
+                         lakeside of the reservoir of Kulekhani hydropower plant. The land consists of the slope to reservoir
+                         and flat land facing the south direction. The site could be enough for 5 MW solar panel installations,
+                         if NEA owns all of the area. NEA needs to identify exact size of the site on a topographic map.
+
+                         •       Other sites selected for screening are Sunkoshi Hydropower Plant, Sundarijal Hydropower
+                         Plant, Middle Marshyangdi Hydropower Plant, and Panauti Hydro Power Plant.
+
+
+                                                                        Page 3 of 9
+                         5. Environmental and Social Safeguards Specialists
+                         Drona Raj Ghimire (GENDR)
+Public Disclosure Copy
+
+
+
+
+                         Parthapriya Ghosh (GSURR)
+
+                         6. Safeguard Policies             Triggered? Explanation (Optional)
+                         Environmental Assessment OP/      Yes           The policy is triggered because the activities/
+                         BP 4.01                                         interventions proposed under the Project may
+                                                                         have low impacts on the natural environment and
+                                                                         human health. The Project during construction
+                                                                         requires clearing up of sites, dismantling of
+                                                                         existing structures, excavations, which have
+                                                                         impacts (though minimal) to physical and
+                                                                         biological environment. Potential concerns during
+                                                                         operation include management wastes (e.g. glass,
+                                                                         chips, photo-voltaic cells from solar farm), as
+                                                                         well as visual intrusion. Each activity will be
+                                                                         subjected to environmental screening and site
+                                                                         specific EMP prepared to address the relevant
+                                                                         environmental impacts.
+                         Natural Habitats OP/BP 4.04       No            No.
+
+                         Forests OP/BP 4.36                Yes           The alignments of MV lines for connecting solar
+                                                                         farms with the grid and for piloting loss reduction
+                                                                         in selected distribution areas are not-known.
+                                                                         Hence there is possibility that some MV lines fall
+                                                                         in the forest. Besides, NEA has planted trees
+                                                                         within the premises of several of the candidate
+Public Disclosure Copy
+
+
+
+
+                                                                         sites. These trees need to be cut. Hence, this
+                                                                         policy is triggered.
+                         Pest Management OP 4.09           No            Project does not envisage use of pesticide.
+
+                         Physical Cultural Resources OP/   Yes           This policy is triggered because screening of
+                         BP 4.11                                         candidate sites done as part of ESMF preparation
+                                                                         indicates existing local cultural sites in and
+                                                                         around the NEA premises where solar farms are
+                                                                         proposed. Cultural site may also be located near
+                                                                         the transmission lines, locations of which are not-
+                                                                         known. Site specific EMP (prepared under OP
+                                                                         4.01), where necessary, will provide relevant
+                                                                         mitigations to protect PCR. The ESMF contains
+                                                                         broad guidelines for handling Chance Find PCR.
+                         Indigenous Peoples OP/BP 4.10     Yes           Social screening suggests presence of indigenous
+                                                                         community around the project site. Vulnerable
+                                                                         Community Development Plan will be prepared
+                                                                         for the final project site as suggested in ESMF.
+
+
+
+                                                                 Page 4 of 9
+                            Involuntary Resettlement OP/BP      Yes             Though no private land acquisition is envisaged
+                            4.12                                                as all solar panels will be installed on land owned
+                                                                                by NEA, OP 4.12 has been triggered as there
+Public Disclosure Copy
+
+
+
+
+                                                                                could be land acquisition related to project
+                                                                                intervention which has not been envisaged yet
+                                                                                such as widening of approach roads.. The ESMF
+                                                                                prepared by the project includes Resettlement
+                                                                                Policy Framework. Social impact assessment will
+                                                                                be carried out for the finalized site and a
+                                                                                Resettlement Action Plan if required will be
+                                                                                prepared based on social impact assessment
+                                                                                results.
+                            Safety of Dams OP/BP 4.37           No              Project neither support dam construction, nor
+                                                                                depend on existing dam.
+                            Projects on International        No                 Project does not affect quantity and quality of
+                            Waterways OP/BP 7.50                                international water body.
+                            Projects in Disputed Areas OP/BP No                 Project is not located in disputed area.
+                            7.60
+
+                         II. Key Safeguard Policy Issues and Their Management
+                             A. Summary of Key Safeguard Issues
+                            1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+                              and describe any potential large scale, significant and/or irreversible impacts:
+                              Highly significant environmental and social impacts are unlikely given the type of activities
+                              (installation of solar PV panels without battery for power storage, short 11 kV transmission lines
+                              for connecting to national grid), and locations within NEA’s own premises. Small scale
+Public Disclosure Copy
+
+
+
+
+                              excavation is needed for making space for solar farm. High risks activity or locations are avoided
+                              through ineligibility criteria / negative list. The project is, hence, environmental Category B as
+                              expected adverse environmental impacts are limited in scale (site specific), largely reversible and
+                              can be readily addressed through readily available mitigation measures. The potential adverse
+                              issues/ impacts are associated with site clearing (shrub vegetation removal) & excavation, waste
+                              management and management of labor camps. Most of the impacts are limited to the construction
+                              phase and are temporary in nature. The construction period impacts vary depending on site and
+                              activity, and may include localized soil erosion, pollution of water & land, dust & air pollution,
+                              noise, occupational health & safety, and loss of vegetation. Potential environmental concerns of
+                              the solar farms during the operational stage are related to management wastes that may contain
+                              glasses, chips and photo-voltaic cells. Except for the visual quality, operational phase impact has
+                              negligible footprint. Specific issues related to component 2 are PCB in the transformer and
+                              dismantling of the existing conductors. PCB based transformer and capacitor bank are not
+                              permitted. The construction as well as operational phase impacts can be mitigated/ offset by good
+                              housekeeping measures, a site specific environment management plan (EMP) that contains clearly
+                              defined, contractually agreed mitigation measures and implementation arrangements, linked with
+                              construction supervisions are deemed sufficient to address related impacts.
+
+                             While the Project is expected to benefit local communities, the implementation of certain
+                             subprojects could lead to some adverse social impacts. Social screening conducted for the
+
+
+                                                                        Page 5 of 9
+                           potential project area suggests that there is no likelihood of private land acquisition for solar farms
+                           as all installations will be on land already owned by NEA. However, some portion of these land
+                           plots is encroached. The screening result shows that encroachers are largely cultivators and few
+Public Disclosure Copy
+
+
+
+
+                           houses. There could also be potential adverse impact though limited if any approach road needs to
+                           be widened or if roads right of way is not enough to erect or rehabilitate 11 kV distribution lines.
+                           Potential adverse impacts may include loss of (i) land (temporary or permanent), (ii) livelihood,
+                           (iii) access to private or community property, etc. Site selection could be locally controversial
+                           among directly affected people and other stakeholders. The Environmental and Social
+                           Management Framework (ESMF) prepared for the Project acknowledges these issues and
+                           integrates the measures for addressing them in the project implementation process.
+                         2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+                           in the project area:
+                           A large scale solar farm could be a visual obstacle, and thus this aspect will be considered during
+                           preparation of detailed site plan of the solar farm. The candidate project sites visited during
+                           preparation are neither in visual impact sensitive areas nor overlooked by significantly populated
+                           area.
+                         3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+                           impacts.
+                           Nine sites within NEA’s own territory have been identified as potential candidate for the solar
+                           farms. NEA is collecting relevant technical, social and environmental information for comparison
+                           of the sites. Final selection of the site will be made during early stage of implementation followed
+                           by detailed engineering: avoiding or minimizing adverse environmental and social impacts will be
+                           one of the guiding principles of site selection. ESMF provides ineligibility criteria/ negative list in
+                           order avoid significant impacts/ issues. Community around the potential sites will be consulted
+                           while finalizing the site(s).
+                         4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+                           assessment of borrower capacity to plan and implement the measures described.
+Public Disclosure Copy
+
+
+
+
+                           Solar farm sites as well as distribution loss reduction sites are not-known at the time of
+                           preparation. Hence, borrower has prepared an Environmental and Social Management Framework
+                           (ESMF) for use during implementation. The ESMF aims to: (i) ensure the social and
+                           environmental sustainability of investments; (ii) ensure compliance with national environmental
+                           and social legislation; and (iii) ensure compliance with the World Bank’s Environmental and
+                           Social Safeguards Policies. The candidate sites have been visited by social and environmental
+                           consultant in the process of preparing the ESMF. The ESMF has been prepared considering the
+                           applicable World Bank social and environmental safeguard policies and country’s legal
+                           requirements. The ESMF provides guidance; define process/procedures, institutional
+                           responsibilities for assessing and managing the potential environmental and social risks and
+                           impacts that may come up during implementation and throughout the project cycle. It identifies
+                           potential social and environmental risks and proposes generic mitigation measures. The ESMF
+                           identifies negative (ineligible) activities.
+
+                           Each subproject will be subjected to detailed environmental and social screening, and appropriate
+                           level of environmental and social assessment. Specific Environmental Management Plan will be
+                           prepared for each site and activities. The ESMF provides sample Terms of Reference and
+                           reporting structures for compliance with the ESA requirement. The ESA will determine the risk
+                           and mitigation measures needed for the sub-project, including the preparation of detailed
+                           Environmental Management Plans (EMP) and Social Impact Assessment and/or Resettlement
+
+
+                                                                       Page 6 of 9
+                           Action Plan (RAP); Vulnerable Community Development Plan (VCDP) as applicable.
+
+                           ESMF requires internal and periodic external monitoring. Routine environmental and social
+Public Disclosure Copy
+
+
+
+
+                           supervision and monitoring will be done by the respective Site Management Office, which, once
+                           in a month, submits status/progress report to central PMT Office. The environmental and social
+                           expert of PMT (deputed from ESSD) will carry out periodic (two-monthly) internal safeguard
+                           compliance monitoring, verify report submitted by site office and submits its own report to central
+                           PMT Office at NEA which shares the report with the World Bank. NEA will also engage an
+                           external agency for mid-term and end term evaluation of the ESMF application and compliance
+                           with social and environmental safeguard requirements.
+
+                           The primary responsibility of coordinating work related to social and environmental safeguards
+                           will rest with the Project assisted by the Environment and Social Studies Department (ESSD).
+                           Currently ESSD is working on several Bank funded projects. ESSD over a period of time has
+                           acquired skill and experience to address social and environmental safeguard issues.
+
+                           The Project will establish an Environmental and Social Management Unit (ESMU). The ESMU
+                           will be staffed with specialized social and environment professionals either hired from the marked
+                           or on deputation from ESSD. ESSD, though, operates from central office; it establishes field
+                           offices at every project site headed by senior professional as part of ESMU. ESMU model will be
+                           followed as NEA is following this model in other projects as well and this is functioning
+                           satisfactorily.
+                         5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+                           on safeguard policies, with an emphasis on potentially affected people.
+                           Stakeholders include all Affected Persons (APs,) including vulnerable households (Adivashi/
+                           Janajati and disadvantageous groups, project beneficiaries, political party representatives,
+                           community leaders, and representatives of community based organizations; representatives from
+                           recipient wards, local NGOs, and Officials of NEA and relevant government agency
+Public Disclosure Copy
+
+
+
+
+                           representatives.
+
+                           During the preparation of ESMF, NEA carried out formal and informal consultations with various
+                           groups. Field level consultations were carried out in 10 different locations around the proposed
+                           candidate solar farm sites. The ESMF requires consultations at each site during implementation
+                           stage through focus group discussions (FGDs), public meetings, community discussions, and in-
+                           depth and key informant interviews.
+
+                           Disclosure: The ESMF has been disclosed in NEA/Project web site on June 13, 2014 (Available
+                           at: http://nea.org.np/publications.html). Executive Summary is in process of being translated into
+                           local language and then willthen will be disseminated to subproject sites. The ESMF will be made
+                           available to the concerned DDCs and VDCs/ Municipalities once sites are selected.
+                         B. Disclosure Requirements
+                         Environmental Assessment/Audit/Management Plan/Other
+                          Date of receipt by the Bank                                         13-Jun-2014
+                          Date of submission to InfoShop                                      16-Jun-2014
+                          For category A projects, date of distributing the Executive
+                          Summary of the EA to the Executive Directors
+
+
+                                                                     Page 7 of 9
+                         "In country" Disclosure
+                           Nepal                                                            13-Jun-2014
+                           Comments:
+Public Disclosure Copy
+
+
+
+
+                          Resettlement Action Plan/Framework/Policy Process
+                           Date of receipt by the Bank                                      13-Jun-2014
+                           Date of submission to InfoShop                                   16-Jun-2014
+                         "In country" Disclosure
+                           Nepal                                                            13-Jun-2014
+                           Comments:
+                          Indigenous Peoples Development Plan/Framework
+                           Date of receipt by the Bank                                      13-Jun-2014
+                           Date of submission to InfoShop                                   16-Jun-2014
+                         "In country" Disclosure
+                           Nepal                                                            13-Jun-2014
+                           Comments:
+                         If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+                         respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+                         Audit/or EMP.
+                         If in-country disclosure of any of the above documents is not expected, please explain why:
+
+
+                         C. Compliance Monitoring Indicators at the Corporate Level
+                         OP/BP/GP 4.01 - Environment Assessment
+                          Does the project require a stand-alone EA (including EMP)          Yes [   ]   No [   ]   NA [   ]
+Public Disclosure Copy
+
+
+
+
+                          report?
+                          If yes, then did the Regional Environment Unit or Practice         Yes [   ]   No [   ]   NA [   ]
+                          Manager (PM) review and approve the EA report?
+                          Are the cost and the accountabilities for the EMP incorporated     Yes [   ]   No [   ]   NA [   ]
+                          in the credit/loan?
+                         OP/BP 4.11 - Physical Cultural Resources
+                          Does the EA include adequate measures related to cultural          Yes [   ]   No [   ]   NA [   ]
+                          property?
+                          Does the credit/loan incorporate mechanisms to mitigate the        Yes [   ]   No [   ]   NA [   ]
+                          potential adverse impacts on cultural property?
+                         OP/BP 4.10 - Indigenous Peoples
+                          Has a separate Indigenous Peoples Plan/Planning Framework          Yes [   ]   No [   ]   NA [   ]
+                          (as appropriate) been prepared in consultation with affected
+                          Indigenous Peoples?
+                          If yes, then did the Regional unit responsible for safeguards or   Yes [   ]   No [   ]   NA [   ]
+                          Practice Manager review the plan?
+
+
+
+
+                                                                     Page 8 of 9
+                             If the whole project is designed to benefit IP, has the design     Yes [    ]   No [   ]   NA [   ]
+                             been reviewed and approved by the Regional Social
+Public Disclosure Copy
+
+
+
+
+                             Development Unit or Practice Manager?
+                            OP/BP 4.12 - Involuntary Resettlement
+                             Has a resettlement plan/abbreviated plan/policy framework/         Yes [    ]   No [   ]   NA [   ]
+                             process framework (as appropriate) been prepared?
+                             If yes, then did the Regional unit responsible for safeguards or   Yes [    ]   No [   ]   NA [   ]
+                             Practice Manager review the plan?
+                            OP/BP 4.36 - Forests
+                             Has the sector-wide analysis of policy and institutional issues    Yes [    ]   No [   ]   NA [   ]
+                             and constraints been carried out?
+                             Does the project design include satisfactory measures to           Yes [    ]   No [   ]   NA [   ]
+                             overcome these constraints?
+                             Does the project finance commercial harvesting, and if so,         Yes [    ]   No [   ]   NA [   ]
+                             does it include provisions for certification system?
+                            The World Bank Policy on Disclosure of Information
+                             Have relevant safeguard policies documents been sent to the        Yes [    ]   No [   ]   NA [   ]
+                             World Bank's Infoshop?
+                             Have relevant documents been disclosed in-country in a public      Yes [    ]   No [   ]   NA [   ]
+                             place in a form and language that are understandable and
+                             accessible to project-affected groups and local NGOs?
+                            All Safeguard Policies
+                             Have satisfactory calendar, budget and clear institutional         Yes [    ]   No [   ]   NA [   ]
+                             responsibilities been prepared for the implementation of
+Public Disclosure Copy
+
+
+
+
+                             measures related to safeguard policies?
+                             Have costs related to safeguard policy measures been included      Yes [    ]   No [   ]   NA [   ]
+                             in the project cost?
+                             Does the Monitoring and Evaluation system of the project           Yes [    ]   No [   ]   NA [   ]
+                             include the monitoring of safeguard impacts and measures
+                             related to safeguard policies?
+                             Have satisfactory implementation arrangements been agreed          Yes [    ]   No [   ]   NA [   ]
+                             with the borrower and the same been adequately reflected in
+                             the project legal documents?
+
+                         III. APPROVALS
+                            Task Team Leader:       Name: Rabin Shrestha
+                            Approved By
+                            Sector Manager:         Name: Julia Bucknall (SM)                           Date: 10-Oct-2014
+
+
+
+
+                                                                        Page 9 of 9
+

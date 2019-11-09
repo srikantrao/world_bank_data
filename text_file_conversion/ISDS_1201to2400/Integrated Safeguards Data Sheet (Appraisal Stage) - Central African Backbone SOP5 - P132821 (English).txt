@@ -1,0 +1,486 @@
+                                                INTEGRATED SAFEGUARDS DATA SHEET
+                                                        APPRAISAL STAGE
+                                                                                               Report No.: ISDSA8472
+Public Disclosure Copy
+
+
+
+
+                         Date ISDS Prepared/Updated: 11-Jun-2014
+                         Date ISDS Approved/Disclosed: 12-Jun-2014
+                         I. BASIC INFORMATION
+                            1. Basic Project Data
+
+                            Country:           Africa                            Project ID:    P132821
+                            Project Name:      Central African Backbone SOP5 (P132821)
+                            Task Team          Jerome Bezzina
+                            Leader:
+                            Estimated          09-May-2014                       Estimated   15-Jul-2014
+                            Appraisal Date:                                      Board Date:
+                            Managing Unit:     TWICT                             Lending     Investment Project Financing
+                                                                                 Instrument:
+                            Sector(s):        General information and communications sector (20%), Information technology
+                                              (30%), Telecommunications (50%)
+                            Theme(s):         Infrastructure services for private sector development (40%), Regulation and
+                                              competition policy (40%), State-owned enterprise restru cturing and
+                                              privatization (20%)
+                            Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+                            8.00 (Rapid Response to Crises and Emergencies)?
+Public Disclosure Copy
+
+
+
+
+                            Financing (In USD Million)
+                            Total Project Cost:      92.10           Total Bank Financing:                  92.10
+                            Financing Gap:            0.00
+                              Financing Source                                                                         Amount
+                              BORROWER/RECIPIENT                                                                          0.00
+                              International Development Association (IDA)                                                92.10
+                              Total                                                                                      92.10
+                            Environmental B - Partial Assessment
+                            Category:
+                            Is this a          No
+                            Repeater
+                            project?
+
+                            2. Project Development Objective(s)
+                           The development objective of the proposed project is to contribute to increase the geographical reach
+                           and usage of regional broadband infrastructure and to reduce the price of services so that more
+                           people in the DRC can access information and communication technology (ICT) services.
+
+                                                                       Page 1 of 9
+                         3. Project Description
+                         Overall project description. The proposed project will support the deployment of missing links in the
+                         national fiber optic network in order to connect the country’s most populated disparate economic
+Public Disclosure Copy
+
+
+
+
+                         clusters of Kinshasa (West), Goma (East) and Lubumbashi (South). By linking the three economic
+                         clusters, this new network will provide telecommunications operators the opportunity to offer
+                         seamless services nationwide. The project will also support the commercialization of the new
+                         capacity through a Public-Private Partnership (PPP). By extending the network nationwide and
+                         establishing the PPP, the project will facilitate competition between the operators at the national
+                         level. Increase in competition and economies of scale is expected to lead to reduction in the price of
+                         service, increase in the quality of service (i.e. Internet bandwidth capacity) and the availability of
+                         value-added ICT services (e.g. mobile banking). Furthermore, the new network would connect to the
+                         submarine cable landing in Muanda providing the DRC with international connectivity to and from
+                         Europe and South Africa. The project would also provide Technical Assistance to strengthening the
+                         MPTN&NTIC and ARPTC that would subsequently improve the governance of the sector.
+
+                         Project Preparation Advance. A Project Preparation Advance (PPA) of USD 4 million was approved
+                         December 9, 2013 to support (i) the establishment of the SPN of the recruitment of the Investment
+                         Bank to finalize the PPP arrangements ; (ii) the identification of network investments to be funded by
+                         the proposed project; (iii) the Ministry of Portfolio as the Implementation Agency through its
+                         existing project management unit, the Comité de Pilotage de la Réforme des Entreprises Publiques
+                         (Steering Committee in charge the Reform of the Public Companies, COPIREP); and (iv) the
+                         preparation of appropriate safeguards instruments: Environmental and Social Management
+                         Framework (ESMF), Indigenous People Planning Framework (IPPF) and Resettlement Policy
+                         Framework (RPF). As requested by the Government the PPA will also fund the study developing the
+                         Government’s roadmap pertaining to the SCPT restructuring.
+
+                         Infrastructure cost and financing. The construction cost of the proposed network is estimated at US
+                         $84.540 million. Project funds will be used to finance the construction of the passive infrastructure
+Public Disclosure Copy
+
+
+
+
+                         (civil works and dark fiber equipment). It is expected that the private operators will provide private
+                         investment to the cost of the network to cover active equipment. Earlier discussions with private
+                         operators showed strong interest from these operators to partly fund this project. Their overall
+                         contribution will be comprised between $22.5 (active equipment) and $50 (active equipment and
+                         maintenance). For clarity throughout the document, all amounts and project construction costs are
+                         based on a contribution of US$ 22.5 million.
+
+                         The project will be implemented through Public Private Partnerships (PPP). There are two main
+                         reasons why the project should rely on PPPs. First, neither the government of DRC nor private
+                         operators have the financial capacity on their own to support the high upfront investment required to
+                         build a nationwide network. Second, (i) in the case of an aggregation of market players to operate t
+                         he network it would reduce transaction costs for both the government and the private operators and
+                         increase coordination capabilities for maintaining the network and determining wholesale prices in a
+                         transparent manner (ii) in the case of an open competition bidding in each fiber it will maximize the
+                         revenues for the Government.
+
+                         A two-step approach for PPPs. As a prerequisite, a Société de Patrimoine National (SPN – wholly
+                         public shareholding company) will be established that will own the infrastructure. It is proposed to
+                         separate the tender process for (i) the passive infrastructure (i.e. fiber cables and ducts) and partial
+                         active infrastructure (buildings, transmission technology neutral equipment that can be shared among
+
+
+                                                                       Page 2 of 9
+                         operators) from (ii) the rest of the active infrastructure and network intelligence that usually needs to
+                         be operator-specific. In the first step the SPN will select a construction company under an ICB to
+                         build the infrastructure and conduct civil work and lay down dark fiber on the ground. Once built the
+Public Disclosure Copy
+
+
+
+
+                         infrastructure will be incorporated as equity into the capital of the SPN. In the second step the SPN
+                         will contract an aggregation of operators or several operators separately (the “Concessionaire”) to
+                         “light” the dark fiber (i.e. to invest in access network and active equipment) and a concession
+                         contract would be prepared and concluded between the SPN and these operators for the maintenance,
+                         management and commercialization of the infrastructure.
+
+                         Advantages of the two-step approach. There are several advantages to this two-step approach. First,
+                         by having one provider build out the passive infrastructure, network integrity can be ensured, and
+                         regulatory supervision costs would be reduced. Further, by focusing the first tender on the
+                         deployment of mainly the passive infrastructure, procurement under the project is simplified (under
+                         ICB) and would ensure fast disbursement. The second important advantage is that technology
+                         neutrality is ensured by allowing Concessionaire(s) to bring in their own equipment into the active
+                         infrastructure layer through the second tender. This approach to network expansion through the
+                         separation of passive and active infrastructure has been adopted in other countries such as the U.K.
+                         and Singapore, and is currently being undertaken under the SAPMP Project in DRC , the CAB APL3
+                         in the Republic of Congo and WARCIP 2 in Mauritania. Finally, the revenues collected by the SPN
+                         through the concession contract(s) will be re-invested in the deployment of additional routes.
+
+                         Defining the PPP arrangements. A legal and regulatory expert (Individual Consultant) and a
+                         transaction advisor (Firm) have been recruited under the Project Preparation Advance (PPA). The
+                         individual consultant supports the Government to prepare the establishment of the SPN (governance
+                         structure, organizational chart, budget…) and identify the best suited PPP structures for the second
+                         step. The transaction advisor will assist the Government (i) in finalizing the technical bidding
+                         documentation and the process to recruit the equipment provider to build the passive infrastructure
+                         and (ii) in implementing the transaction between the SPN and the selected operator(s) for the
+                         operation of the infrastructure. Participatory approach: working with civil society.
+Public Disclosure Copy
+
+
+
+
+                         The project will pay great attention to “softside” considerations in preparation of the terrain, to make
+                         it investor-friendly but also to pacify any new tensions from construction and modernization amidst
+                         desperation, isolation, lawlessness, and abject poverty. In order to do so, the project intends to work
+                         with NGOs to ensure participative Monitoring & Evaluation and to involve stakeholders as well as
+                         stay close to the communities, to understand grievances and passions on the ground that could
+                         interfere with success of this operation. This operation will spawn a number of sustained public-
+                         private consultative dialogue processes, starting at national, and then at subnational level to elicit
+                         advocacy discussions and spread enthusiasm for the operation wherever it will changes lives,
+                         alleviate extreme poverty and boost shared prosperity.
+                          4. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+                         The project will support the deployment of fiber optic cables and the associated civil works and
+                         transmission equipment along the specified routes. Most of the fiber will be laid alongside existing
+                         roads, rails or other infrastructure. This infrastructure deployment will be coordinated with other
+                         infrastructure projects in order to mutualize benefiting from the concept of cross-sector infrastructure
+                         sharing .The total length of the missing links to be funded by the project is estimated to be 2,200 km
+                         and consists of the following three links:
+                         (a)      Western Cluaster – Link Kinshasa_Muanda. The link between Kinshasa and Muanda will be
+
+
+                                                                       Page 3 of 9
+                         deployed in coordination with the Société Commerciale des Transports et des Ports (SCTP). It will
+                         pass through Matadi and then follow the “Nationale 1” road to Muanda. In Muanda, connection will
+                         be made to the international submarine cable and to the backbone in the neighboring Republic of
+Public Disclosure Copy
+
+
+
+
+                         Congo through to Brazzaville. Other possible regional links include interconnections with Cabinda,
+                         Kongo and Mbanza in Angola.
+                         (b)     Eastern Cluster –Links Kalemie_Bukavu, Bukavu_Béni_Lubutu and Lubutu_Kisangani. The
+                         link between Bukavu and Beni (via Goma) will follow the "Nationale 2" road. This link will provide
+                         regional interconnections with Rwanda, Burundi and Uganda. The connecting link to Kisangani
+                         could be considered in the Project CAB5.
+                         (c)     Southern Cluster – Link Bukama_Kalemie. This part of the network will be twofold. The
+                         link between Lubumbashi and Kananga will be constructed in coordination with the Société
+                         Nationale des Chemins de Fer du Congo (SNCC). The second part of the link will be deployed
+                         between Bukama and Kalemie following the “Nationale 33” road. This link will make possible the
+                         regional interconnection to Zambia through Kasumbalesa in DRC.
+                         5. Environmental and Social Safeguards Specialists
+                         Paula F. Lytle (AFTCS)
+                         Abdoulaye Gadiere (AFTN1)
+
+                         6. Safeguard Policies              Triggered? Explanation (Optional)
+                         Environmental Assessment OP/       Yes             The project under component 2 foresees three
+                         BP 4.01                                            interregional links to neighboring countries
+                                                                            including fiber optic cables, terminal equipment
+                                                                            and switches. Furthermore, the construction of the
+                                                                            e-waste center and the network is also foreseen
+                                                                            under component 3. All these activities are
+                                                                            expected to have potential adverse environmental
+                                                                            impacts, even if on limited scale. Impacts will
+Public Disclosure Copy
+
+
+
+
+                                                                            mostly be related to digging along the roads and
+                                                                            across human settlements, forests and natural
+                                                                            habitats.
+                                                                            Although the components and activities of the
+                                                                            project are relatively well known the exact areas
+                                                                            where the activities will be implemented has not
+                                                                            yet been determined. An Environmental and
+                                                                            Social Management Framework (ESMF) has been
+                                                                            prepared, reviewed, consulted upon and disclosed
+                                                                            within the DRC and at the Infoshop on May 23rd,
+                                                                            2014.
+                         Natural Habitats OP/BP 4.04        Yes             The project is not expected to be implemented in
+                                                                            natural habitats. But as the Democratic Republic
+                                                                            of Congo is known as being a forested country the
+                                                                            probability to encounter natural habitats is not
+                                                                            negligible. So, this policy is triggered in order to
+                                                                            pay attention to these particular ecosystems
+                                                                            during the implementation of the project.
+                                                                            However, no specific safeguard instrument is
+
+
+
+                                                                    Page 4 of 9
+                                                                                required. The ESMF which will be prepared in
+                                                                                accordance with OP/PB4.01 will take into
+                                                                                consideration this issue. The ESMF has been
+Public Disclosure Copy
+
+
+
+
+                                                                                prepared, reviewed, consulted upon and disclosed
+                                                                                within the DRC and at the Infoshop on May 23rd,
+                                                                                2014 contain a chapter to take into account
+                                                                                Natural Habitats matters.
+                            Forests OP/BP 4.36                  No              The project is not expected to have significant
+                                                                                adverse impacts on the forest resources due to the
+                                                                                weak space influence of the fiber optic cables and
+                                                                                other equipment
+                            Pest Management OP 4.09             No              N/A
+
+                            Physical Cultural Resources OP/     Yes             The ESMF has been prepared, reviewed,
+                            BP 4.11                                             consulted upon and disclosed within the DRC and
+                                                                                at the Infoshop on May 23rd, 2014. It includes a
+                                                                                chapter on managing Physical Cultural Resources
+                                                                                matters.
+                            Indigenous Peoples OP/BP 4.10       Yes             An Indigenous Peoples Planning Framework has
+                                                                                been prepared and disclosed in-country and
+                                                                                through InfoShop on May 23rd, 2014.
+                            Involuntary Resettlement OP/BP      Yes             A Resettlement Policy Framework has been
+                            4.12                                                prepared and disclosed in-country and through
+                                                                                InfoShop on May 23rd, 2014.
+                            Safety of Dams OP/BP 4.37           No              N/A
+Public Disclosure Copy
+
+
+
+
+                            Projects on International        No                 N/A
+                            Waterways OP/BP 7.50
+                            Projects in Disputed Areas OP/BP No                 N/A
+                            7.60
+
+                         II. Key Safeguard Policy Issues and Their Management
+                             A. Summary of Key Safeguard Issues
+                            1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+                              and describe any potential large scale, significant and/or irreversible impacts:
+                              The project is likely to involve nine (9) provinces: North Kivu; Bas-Congo; Katanga; Kasai
+                              Oriental; Kasai Occidental; Kinshasa; Orientale Province; South Kivu; and Maniema. Some of
+                              these areas include fragile ecosystems such as savanna areas, wetlands, and forests. These are also
+                              areas with a dense network of rivers which contribute to fishing and agricultural activities.
+                              Furthermore, there are hunting reserves along the course of the planned project route which raises
+                              the risk of increasing access to them and subsequently poaching activities. Negative environmental
+                              and social impact of the project will come mainly from the laying of the fibre optic cable through
+                              the project route. Much of this route is expected to be alongside roads, however, there may be
+                              instances where by the fibre and ducts go through human settlements, natural habitats, etc, and it
+                              may affect physical cultural resources. In terms of socioeconomic impact, the project could
+
+
+                                                                        Page 5 of 9
+                           involve land acquisition or temporary displacement of livelihood activities. Furthermore, the
+                           project could directly impact Indigenous Peoples, as the project lays fibre close to or through their
+                           villages. None of these impacts are envisioned to be irreversible, however, in light of the potential
+Public Disclosure Copy
+
+
+
+
+                           impact, five World Bank safeguard policies are triggered under the project: OP/BP 4.01 on
+                           environmental assessment; OP/BP 4.04 on Natural Habitats, OP/BP 4.11 on Physical Cultural
+                           Resources; OP/PB on Indigenous Peoples and OP/BP 4.12 on Involuntary Resettlement.
+                         2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+                           in the project area:
+                           Taking into account the nature and the scale of envisioned activities, some adverse impacts linked
+                           to civil works is expected. However, the Government has developed an Environmental and Social
+                           Management Framework (ESMF) that includes specific and stringent guidelines for contracting
+                           companies who will be laying the fibre optic cable. In terms of positive impact, it is envisioned
+                           that the project will trigger the provision of telecommunications services including for mobile
+                           broadband Internet in the urban and semi-urban areas along the project route – benefitting
+                           residents of these areas. It is envisioned that with the use of mobile networks, that
+                           telecommunications services will be extended from the fibre backbone to more rural areas.
+                         3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+                           impacts.
+                           The use of existing infrastructure, including the power lines and along roads or rails being built
+                           will limit the physical footprint or impact of the construction activities and possible land
+                           acquisition.
+                         4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+                           assessment of borrower capacity to plan and implement the measures described.
+                           In order to prepare for addressing the potential negative impact, the Government has prepared
+                           three appropriate safeguards instruments: an Environmental and Social Management Framework
+                           (ESMF), an Indigenous People Planning Framework (IPPF) and a Resettlement Policy Framework
+                           (RPF). The ESMF outlines an environmental and social screening process for component's
+Public Disclosure Copy
+
+
+
+
+                           activities (which includes: Guidelines for an Environmental and Social Impact Assessment
+                           (ESIA),an Environmental and Social Management Plan (ESMP); Environmental Guidelines for
+                           Contractors; and a summary of the World Bank's safeguard policies). It will also contain chapters
+                           to take into account Natural Habitats and Physical Cultural Resources matters. That means
+                           guidance and guidelines will be included in the ESMF to this end. The RPF has been prepared by
+                           the government to address such circumstances and supervision and monitoring will identify if
+                           abbreviated Resettlement Action Plans will need to be prepared during implementation to address
+                           any land acquisition or temporary displacement of livelihood activities. The RPF has been
+                           developed to address potential land acquisition or loss of economic activity on the part of
+                           individuals or groups of individuals in project intervention zones. Similarly, although the routing
+                           of the fiber optic and/or the use of microwave where terrain does not allow for fiber optic is
+                           unlikely to have any impact on Indigenous Peoples, an IPPF has been prepared by the government
+                           as the project is being implemented in areas near to or in which Indigenous Peoples are present. As
+                           both previous documents, the IPPF also seeks to address potential adverse impacts on the
+                           indigenous peoples. These three documents have be prepared, in full compliance with World Bank
+                           and national safeguard policies, including a broad consultation framework involving all relevant
+                           stakeholder groups, both public and private, as well as civil society. After consultations, these
+                           three safeguard instruments have been disclosed within the country and at the World Bank
+                           Infoshop in May 2014. During the project implementation, Indigenous Peoples Plans (IPP) will be
+                           prepared if necessary to avoid, minimize, mitigate or compensate adverse impacts on these
+
+
+                                                                      Page 6 of 9
+                           specific groups of peoples.
+                         5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+                           on safeguard policies, with an emphasis on potentially affected people.
+Public Disclosure Copy
+
+
+
+
+                           The IPPF also seeks to address potential adverse impacts on the indigenous peoples. During the
+                           project implementation, Indigenous Peoples Plans (IPP) was prepared to avoid, minimize, mitigate
+                           or compensate adverse impacts on these specific groups of peoples. These three documents have
+                           been prepared, in full compliance with World Bank and national safeguard policies, including a
+                           broad consultation framework involving all relevant stakeholder groups, both public and private,
+                           as well as civil society. After consultations, these three safeguard instruments were disclosed
+                           within the country and at the Infoshop prior to appraisal completion.
+                         B. Disclosure Requirements
+                         Environmental Assessment/Audit/Management Plan/Other
+                           Date of receipt by the Bank                                      04-May-2014
+                           Date of submission to InfoShop                                   23-May-2014
+                           For category A projects, date of distributing the Executive
+                           Summary of the EA to the Executive Directors
+                         "In country" Disclosure
+                           Congo, Democratic Republic of                                    23-May-2014
+                           Comments: The ESMF was disclosed in-country on COPIREP's website: http://www.copirep.cd/
+                          Resettlement Action Plan/Framework/Policy Process
+                           Date of receipt by the Bank                                      04-May-2014
+                           Date of submission to InfoShop                                   23-May-2014
+                         "In country" Disclosure
+                           Congo, Democratic Republic of                                    23-May-2014
+Public Disclosure Copy
+
+
+
+
+                           Comments: The RI was disclosed in-country on COPIREP's website: http://www.copirep.cd/
+                          Indigenous Peoples Development Plan/Framework
+                           Date of receipt by the Bank                                      04-May-2014
+                           Date of submission to InfoShop                                   23-May-2014
+                         "In country" Disclosure
+                           Congo, Democratic Republic of                                    23-May-2014
+                           Comments: The IPPF was disclosed in-country on COPIREP's website: http://www.copirep.cd/
+                         If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+                         respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+                         Audit/or EMP.
+                         If in-country disclosure of any of the above documents is not expected, please explain why:
+
+
+                         C. Compliance Monitoring Indicators at the Corporate Level
+                         OP/BP/GP 4.01 - Environment Assessment
+                          Does the project require a stand-alone EA (including EMP)      Yes [   ]   No [   ]   NA [    ]
+                          report?
+
+
+
+                                                                    Page 7 of 9
+                          If yes, then did the Regional Environment Unit or Sector           Yes [   ]   No [   ]   NA [   ]
+                          Manager (SM) review and approve the EA report?
+Public Disclosure Copy
+
+
+
+
+                          Are the cost and the accountabilities for the EMP incorporated     Yes [   ]   No [   ]   NA [   ]
+                          in the credit/loan?
+                         OP/BP 4.04 - Natural Habitats
+                          Would the project result in any significant conversion or          Yes [   ]   No [   ]   NA [   ]
+                          degradation of critical natural habitats?
+                          If the project would result in significant conversion or           Yes [   ]   No [   ]   NA [   ]
+                          degradation of other (non-critical) natural habitats, does the
+                          project include mitigation measures acceptable to the Bank?
+                         OP/BP 4.11 - Physical Cultural Resources
+                          Does the EA include adequate measures related to cultural          Yes [   ]   No [   ]   NA [   ]
+                          property?
+                          Does the credit/loan incorporate mechanisms to mitigate the        Yes [   ]   No [   ]   NA [   ]
+                          potential adverse impacts on cultural property?
+                         OP/BP 4.10 - Indigenous Peoples
+                          Has a separate Indigenous Peoples Plan/Planning Framework          Yes [   ]   No [   ]   NA [   ]
+                          (as appropriate) been prepared in consultation with affected
+                          Indigenous Peoples?
+                          If yes, then did the Regional unit responsible for safeguards or   Yes [   ]   No [   ]   NA [   ]
+                          Sector Manager review the plan?
+                          If the whole project is designed to benefit IP, has the design     Yes [   ]   No [   ]   NA [   ]
+                          been reviewed and approved by the Regional Social
+                          Development Unit or Sector Manager?
+Public Disclosure Copy
+
+
+
+
+                         OP/BP 4.12 - Involuntary Resettlement
+                          Has a resettlement plan/abbreviated plan/policy framework/         Yes [   ]   No [   ]   NA [   ]
+                          process framework (as appropriate) been prepared?
+                          If yes, then did the Regional unit responsible for safeguards or   Yes [   ]   No [   ]   NA [   ]
+                          Sector Manager review the plan?
+                         The World Bank Policy on Disclosure of Information
+                          Have relevant safeguard policies documents been sent to the        Yes [   ]   No [   ]   NA [   ]
+                          World Bank's Infoshop?
+                          Have relevant documents been disclosed in-country in a public      Yes [   ]   No [   ]   NA [   ]
+                          place in a form and language that are understandable and
+                          accessible to project-affected groups and local NGOs?
+                         All Safeguard Policies
+                          Have satisfactory calendar, budget and clear institutional         Yes [   ]   No [   ]   NA [   ]
+                          responsibilities been prepared for the implementation of
+                          measures related to safeguard policies?
+                          Have costs related to safeguard policy measures been included      Yes [   ]   No [   ]   NA [   ]
+                          in the project cost?
+
+
+
+
+                                                                     Page 8 of 9
+                             Does the Monitoring and Evaluation system of the project      Yes [    ]   No [   ]   NA [   ]
+                             include the monitoring of safeguard impacts and measures
+Public Disclosure Copy
+
+
+
+
+                             related to safeguard policies?
+                             Have satisfactory implementation arrangements been agreed     Yes [    ]   No [   ]   NA [   ]
+                             with the borrower and the same been adequately reflected in
+                             the project legal documents?
+
+                         III. APPROVALS
+                            Task Team Leader: Name: Jerome Bezzina
+                            Approved By
+                            Regional Safeguards Name: Alexandra C. Bezeredi (RSA)                  Date: 11-Jun-2014
+                            Advisor:
+                            Sector Manager:     Name: Randeep Sudan (SM)                           Date: 12-Jun-2014
+Public Disclosure Copy
+
+
+
+
+                                                                      Page 9 of 9
+

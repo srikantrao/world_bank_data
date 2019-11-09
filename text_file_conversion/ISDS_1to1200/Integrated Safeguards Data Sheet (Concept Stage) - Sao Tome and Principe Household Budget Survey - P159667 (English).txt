@@ -1,0 +1,228 @@
+                                           INTEGRATED SAFEGUARDS DATA SHEET
+                                              IDENTIFICATION / CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                                Report No.: ISDSC17448
+
+                         Date ISDS Prepared/Updated: 21-Sep-2016
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:             Sao Tome and Principe           Project ID:       P159667
+                            Project Name:        Sao Tome and Principe Household Budget Survey
+                            Team Leader(s):      Alvin Etang Ndip
+                            Estimated Date       31-Oct-2016
+                            of Approval:
+                            Managing Unit:       GPV01                           Lending           IPF
+                                                                                 Instrument:
+                            Financing (in USD Million)
+                            Total Project Cost: 0.6                            Total Bank Financing: 0
+                            Financing Gap:      0
+                              Financing Source                                                                           Amount
+                              Trust Fund for Statistical Capacity Building                                                  0.6
+                            Environment         C - Not Required
+                            Category:
+Public Disclosure Copy
+
+
+
+
+                           B. Project Development Objective(s)
+                           The overall development objective of this project is to support the Government of STP in improving
+                           the availability and quality of poverty and other socio-economic data to inform policy monitoring
+                           and planning through the implementation of a new consumption-basedhousehold survey in 2017, and
+                           associated capacity building activities.
+                           C. Project Description
+                           The project includes the following activities, all of which will be conducted by INE as part of the
+                           survey implementation.
+
+                           Questionnaire Revision - Analysis of the 2010 HBS showed some short-comings in the survey
+                           design. For example, the consumption module was not comparable to the previous survey (2000) - a
+                           15-day recall method was used in 2000 and a 15-day diary method used in 2010 to collect
+                           information on household food consumption. The list of food items was by far larger in 2010
+                           compared to 2000. These issues will be addressed by moving to the best practice methodology
+                           (especially those developed as part of the WAEMU project). For example, for the 2017 survey,
+                           information on food consumption will be collected using a 7-day recall method rather than 15-day
+                           diary as was done in 2010. As this will represent a substantial departure from the previous HBS
+                           methodology, either a bridge survey of a small nationally representative sample, survey-to-survey
+                         imputation, or other similar econometric technique will be necessary to have a comparable national
+                         poverty series, while the 2017 survey will become the benchmark going forward.
+Public Disclosure Copy
+
+
+
+
+                         Also, a community questionnaire will be prepared and implemented in 2017 in addition to the
+                         household questionnaire. This questionnaire will include questions that are common to households in
+                         the same community (for example, infrastructure, village/town characteristics, and access to
+                         services). Further, a Food Price questionnaire will be prepared and implemented at the community
+                         level. Data on the prices and weights of food items will allow to update INE's Conversion Factor
+                         database for better quality calculations of food consumption and CPI. Currently price data has been
+                         collected on a limited list of food items in Sao Tome, but the new survey is aimed at covering the
+                         entire country.
+
+                         The 2017 questionnaires will be adapted primarily from the WAEMU questionnaires. The
+                         questionnaires will be piloted and adjusted accordingly. Draft questionnaires will be shared with
+                         major government stakeholders for review and feedback prior to finalizing the instruments.
+                         Supplementary topics that have been proposed include time use and short agriculture and fisheries
+                         modules. Training manuals for enumerators and supervisors will also be prepared.
+
+                         Sample Selection - Sample design will be similar to HBS 2010, but the sampling frames for the new
+                         survey will be the 2012 census data. It was agreed to maintain a sample size of approximately 4,000
+                         households that would allow for representative estimates at the national level, as well as at the
+                         regional (four regions) and district (seven districts) levels. The actual households to be surveyed will
+                         be randomly selected using data from a listing exercise of selected (randomly) enumeration areas.
+
+                         Weight Calculations - The weights will be calculated using the probabilities generated by the sample
+                         design, cluster-level non-response, and post-stratification using the current estimated population
+                         totals based on the 2012 census.
+
+                         Fieldwork - Fieldwork will be conducted over approximately a 2-month period. This is a shorter
+Public Disclosure Copy
+
+
+
+
+                         period than the previous HBS, which collected data in about 3 months, using large numbers of
+                         enumerators and supervisors because households were visited several times, particularly to complete
+                         the 15-day diary. The proposed fieldwork calendar and smaller field team size will allow for high
+                         standards in hiring and training of enumerators and supervisors. Subject to finalization of survey
+                         preparations, the start date planned for the survey is February 2017.
+
+                         Data Capture - Questionnaire administration and data capture will be done simultaneously using
+                         Computer Assisted Personal Interviewing (CAPI), for example, Survey Solutions software. CAPI
+                         questionnaire administration integrates data checking into the interview process, allowing outlier
+                         values to be confirmed while the interviewer is still within the household. This reduces the amount of
+                         cleaning that will be done and speeds the pace at which results can be made available. In other
+                         words, CAPI technology can significantly reduce the time lag between data collection and data
+                         analysis, dramatically improve data quality, reduce survey costs, and facilitates integration of
+                         household survey data with GPS coordinates. However, the process of moving INE to this new
+                         technology, and ensuring sustainability at the level of INE requires significant capacity building. The
+                         Bank will support INE through identifying experts to: (a) give CAPI training to INE staff; (b) work
+                         with the IT staff from INE on setting up the survey system infrastructure; (c) help in the design and
+                         testing of the CAPI household survey instruments - including real-time consistency checks,
+                         supervisor and enumerator supervision, and new ways to deal with measures and standards; (d)
+                         supervise pilot surveys; (e) give CAPI training of enumerators and supervisors: and (f) provide
+                           general software support and customization for the needs of STP.
+
+                           Production of a Statistical Abstract - The project, along with the companion World Bank technical
+Public Disclosure Copy
+
+
+
+
+                           assistance project, will ensure the timely production of updated poverty numbers, and tables of major
+                           correlates of poverty.
+
+                           Dissemination - In addition to printed copies of the statistical abstract, the data will be properly
+                           archived and anonymized datasets will be released publicly within 12 months of the completion of
+                           data collection through the INE website or other appropriate data sharing platform.
+
+                           Capacity building of INE - This is an integral part of the project and cuts across all stages of the
+                           survey, from survey design, through implementation (data collection), to data analysis and
+                           dissemination.
+                           D. Project location and salient physical characteristics relevant to the safeguard
+                           analysis (if known)
+                           This is a statistical project coordinated by the INE. It concerns improvements in the household
+                           survey to be carried out in 2017 (including methodology, survey implementation methods, data
+                           capture and analysis, core statistics) and data collection methods (CAPI). Methods for improving
+                           surveys, including in the field, will be supported. The activities to be funded by the project are
+                           limited to capacity building and data production and dissemination and use. It will not fund any civil
+                           works that could have adverse environmental or social impacts. The social impact is expected to be
+                           positive because by making quality data publicly available it will nurture public debate on matters of
+                           economic, financial, and social concern, facilitate public accountability and a better targeting of
+                           public policies and use of public resources.
+                           E. Borrower’s Institutional Capacity for Safeguard Policies
+                           Not applicable
+Public Disclosure Copy
+
+
+
+
+                           F. Environmental and Social Safeguards Specialists on the Team
+                           Erik Reed (GEN07)
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+                           Safeguard Policies                    Triggered?       Explanation (Optional)
+                           Environmental Assessment OP/          No               There is no need for an environmental
+                           BP 4.01                                                assessment: the work entails desk work (to
+                                                                                  design new survey; data collection
+                                                                                  methodologies and analysis) and data collection
+                                                                                  using field enumerators
+                           Natural Habitats OP/BP 4.04           No               There is no need for an assessment of the effect
+                                                                                  of this project on natural habitats: the work
+                                                                                  entails desk work (to design new survey; data
+                                                                                  collection methodologies and analysis) and data
+                                                                                  collection using field enumerators
+                           Forests OP/BP 4.36                    No               There is no need for an assessment of the effect
+                                                                                  of this project on forests: the work entails desk
+                                                                                  work (to design new survey; data collection
+                                                                                methodologies and analysis) and data collection
+                                                                                using field enumerators
+                           Pest Management OP 4.09             No               There is no need for an assessment of the effect
+Public Disclosure Copy
+
+
+
+
+                                                                                of this project on pest management: the work
+                                                                                entails desk work (to design new survey; data
+                                                                                collection methodologies and analysis) and data
+                                                                                collection using field enumerators
+                           Physical Cultural Resources OP/     No               There is no need for an assessment of the effect
+                           BP 4.11                                              of this project on physical cultural resources: the
+                                                                                work entails desk work (to design new survey;
+                                                                                data collection methodologies and analysis) and
+                                                                                data collection using field enumerators
+                           Indigenous Peoples OP/BP 4.10       No               There is no need for an assessment of the effect
+                                                                                of this project on indigenous people: the work
+                                                                                entails desk work (to design new survey; data
+                                                                                collection methodologies and analysis) and data
+                                                                                collection using field enumerators
+                           Involuntary Resettlement OP/BP      No               There is no need for an assessment of
+                           4.12                                                 involuntatry resettlment: the work entails desk
+                                                                                work (to design new survey; data collection
+                                                                                methodologies and analysis) and data collection
+                                                                                using field enumerators
+                           Safety of Dams OP/BP 4.37           No               There is no need for an assessment of the effect
+                                                                                of this project on teh safety of dams: the work
+                                                                                entails desk work (to design new survey; data
+                                                                                collection methodologies and analysis) and data
+                                                                                collection using field enumerators
+Public Disclosure Copy
+
+
+
+
+                           Projects on International           No               There is no need for an assessment of projects
+                           Waterways OP/BP 7.50                                 on international waterways: the work entails
+                                                                                desk work (to design new survey; data
+                                                                                collection methodologies and analysis) and data
+                                                                                collection using field enumerators
+                           Projects in Disputed Areas OP/BP No                  There is no need for an assessment of projects in
+                           7.60                                                 disputed areas: the work entails desk work (to
+                                                                                design new survey; data collection
+                                                                                methodologies and analysis) and data collection
+                                                                                using field enumerators
+
+                         III. SAFEGUARD PREPARATION PLAN
+                             Appraisal stage ISDS required?: No
+                         IV. APPROVALS
+                           Team Leader(s):             Name: Alvin Etang Ndip
+                           Approved By:
+                           Safeguards Advisor:         Name: Maman-Sani Issa (SA)                           Date: 22-Sep-2016
+                         Practice Manager/                Name: Andrew L. Dabalen (PMGR)                                     Date: 22-Sep-2016
+                         Manager:
+Public Disclosure Copy
+
+
+
+
+                         1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the
+                         InfoShop and (ii) in country, at publicly accessible locations and in a form and language that are accessible to potentially
+                         affected persons.
+Public Disclosure Copy
+

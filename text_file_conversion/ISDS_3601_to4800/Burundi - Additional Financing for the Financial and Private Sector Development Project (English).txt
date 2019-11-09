@@ -1,0 +1,359 @@
+Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+I.  Basic Information
+ 
+Date prepared/updated:  03/07/2011 
+Report No.:  AC5993
+1. Basic Project Data  
+ 
+Original Project ID: P107851 
+Original Project Name: Burundi - Financial 
+&
+Private Sector Development 
+Country:  Burundi 
+Project ID:  P125209 
+Project Name:  Financial and Private Sector Development -Additional Financing Project 
+Task Team Leader:  Sherri Ellen Archondo 
+Estimated Appraisal Date: February 3, 
+2011 
+Estimated Board Date: April 5, 2011 
+Managing Unit:  AFTFE 
+Lending Instrument:  Specific Investment 
+Loan 
+Sector:  Public administration- Finance (47%);Micro- and SME finance (28%);Banking 
+(13%);Payment systems, securities clearance and settlement (12%) 
+Theme:  Other financial and private sector development (31%);State enterprise/bank 
+restructuring and privatization (28%);Small and medium enterprise support (25%);Legal 
+institutions for a market economy (8%);Standards and financial reporting (8%) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+8.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER/RECIPIENT 
+0.00
+0.00 
+Environmental Category: C - Not Required 
+Repeater [] 
+ 
+ 
+Is this project processed under OP 8.50 (Emergency Recovery) 
+or OP 8.00 (Rapid Response to Crises and Emergencies) 
+Yes [ ] 
+No [X] 
+2. Project Objectives 
+There are no changes in the development objective or design of the project. The original  
+PDO is to strengthen the financial system and improve the business enabling 
+environment. This will be achieved by (a) modernizing financial sector infrastructure 
+(Payment systems) and improving financial sector regulations; (b) supporting measures in 
+selected PEs to improve the governance structure; and (c) improving the regulatory 
+environment for businesses.   
+ 
+3. Project Description 
+1. 
+ The scope of activities will be expanded in two areas:  (a) to finance the 
+necessary IT infrastructure to support the payment system software (check clearing and 
+card system); and (b) technical assistance activities that support macroeconomic reforms.  
+Page  2
+The results framework (Annex y) will be modified to include indicators for component 4 
+(macroeconomic reforms).  
+ 
+2.
+The first area is development of the IT infrastructure at the BRB.  These key 
+activities are prerequisite to the implementation of activities in financial sector reform.  
+Totaling US$5.0 million, they include:  
+ 
+(a) 
+The setting  up of two (2) physically separated computer rooms in the basement of 
+the main building which are  intended to host IT equipments operating in split-site mode 
+(equipment spread among the two (2) rooms and providing high availability services, 
+even in case of disaster in one room). World Bank additional funding would be related to 
+the electro technical equipment (UPS, cooling, access control) and installation of cables.  
+ 
+(b)  
+The IT and infrastructure services required for providing the business services 
+supporting the above mentioned World Bank funded project (payment system, 
+supervision).  This includes, but is not limited to:  
+ 
+(i) 
+Data center servers, storage, networking and security equipment meeting 
+international standards; as the BRB has no IT legacy, a set of business oriented IT 
+services which comply with best practices and frameworks would be defined and built. 
+Monitoring of the corresponding service levels is, quite logically, part of the project.  
+Commercial banks would be allowed to use (subject to intellectual property) most of the 
+corresponding developments for their own internal purposes, if needed, to make use of 
+the BRB framework contracts for later hardware and software extensions, and for the 
+development of appropriate users# procedures;  
+ 
+(ii) 
+The SWIFT network and security services for all check clearing and RTGS traffic 
+as recommended by the EAC Central Banks;  
+ 
+(iii) 
+The set up of a data exchange portal for all inquiry/updates and file 
+upload/download for banking and microfinance supervision,  and information registries 
+projects, through various communication channels.  Appropriate user procedures would 
+also be established; and  
+ 
+(iv) 
+The selection and installation of a banking application required as back office for 
+the check clearing and RTGS applications. In particular, six departments (including, OBI, 
+in charge of running the payment system, caissier de l#Etat, Money Market) would be 
+computerized.  
+ 
+3.
+On the technical assistance activities, the AF would support a second generation 
+of macroeconomic reforms began under the EMSP project.  Totaling US$3.0 million, 
+these include:  
+ 
+(a) 
+Computerization of public finance management: The EMSP project played a 
+major role in the development of a computerized Integrated Financial Management 
+Information System (IFMIS), which is essential to improve budget execution and 
+monitoring. It was also essential in the development of Human Resources Management 
+Information System (HRMIS) interfaced with IFMIS. The future of HRMIS depends on 
+two critical activities: (i) continued training of technicians responsible for managing the 
+system (to internalize a process currently managed by a private enterprise); and (ii) 
+securization and proper maintenance of the system. This activity will also include the 
+development of a link with the payroll system in those departments in which payroll 
+Page  3
+information is currently transported or manually entered from printouts at the Ministry of 
+Finance.  
+ 
+(b) 
+Updating the government-employees database and support to a cellule d#appui at 
+the Ministry of Public Administration which will be created under the AF.  Since the 
+census of government employees was conducted in 2008, the database compiled has not 
+been updated. This will be necessary for an accurate management of the public wage bill. 
+Moreover, once the cellule d#appui is created, resources will be needed to beef up initial 
+capacity of the cellule.  
+ 
+(b) 
+Implementation of the business licensing procurement procedures and practices 
+action plan: The creation of a Regulation Agency and a Central Procurement Directorate 
+and the establishment of procurement units in key sector ministries were undertaken. 
+Implementation of the reform needs to be combined with the provision of training and 
+equipment for the central and decentralized procurement units. Low execution rates in 
+capital budget are mostly explained by the poor implementation of the new procurement 
+code.  
+ 
+(c) 
+Support to internal and external audit institutions.  EMSP provided support and 
+training to the Cour des Comptes, the Inspection Générale de l#Etat and the Inspection 
+des Finances. Internal audit units will also be introduced in key sector ministries. The AF 
+should continue to provide support to Cour des Comptes (twinning arrangements with 
+international institutions) and Inspection des Finances. It should also help the Inspection 
+Générale de l#Etat define # in cooperation with other audit institutions # a Plan National 
+d#Audits et Contrôles, aimed at coordinating the audit and control programs of relevant 
+institutions.  
+ 
+(d) 
+Preparation of texts relative to business regulation (not initially planned in 
+FPSDP).  
+ 
+(e) 
+Mining code implementation texts;  
+ 
+(f) 
+Dissemination of Mining code and implementation texts;  
+ 
+(g) 
+Agriculture pre-cooperatives law and dissemination.  
+ 
+(h) 
+Support to the Women#s Association and the Chambers of Commerce is included 
+in the current Financial and Private Sector Development Project in the form of: (i) a 
+guarantee fund; and (ii) capacity strengthening to the Association. The AF would enable 
+the women to scale up their activities to strengthen their institution and provide a greater 
+number of guarantees   
+ 
+4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis 
+Bujumbura, Burundi   
+ 
+5. Environmental and Social Safeguards Specialists 
+Mr George Campos Ledec (AFTEN) 
+Ms Maria Concepcion J. Cruz (AFTCS) 
+ 
+Page  4
+6. Safeguard Policies Triggered
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+ X 
+Natural Habitats (OP/BP 4.04) 
+ X 
+Forests (OP/BP 4.36) 
+ X 
+Pest Management (OP 4.09) 
+ X 
+Physical Cultural Resources (OP/BP 4.11) 
+ X 
+Indigenous Peoples (OP/BP 4.10) 
+ X 
+Involuntary Resettlement (OP/BP 4.12) 
+ X 
+Safety of Dams (OP/BP 4.37) 
+ X 
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X 
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts: 
+The project has been classified as Category C because it will finance technical advisory 
+services that are unlikely to result in significant adverse environmental impacts. The 
+installation of equipment will be managed according to national and local laws and 
+regulations.  
+ 
+The original project is being implemented according to the implementation plan and the 
+team does not expect any environmental or safeguard issues from the additional 
+financing.   
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+Mining Regulations. As noted in the PAD (Annex 4), the project (Component 3) would 
+finance TA to prepare the mining code and accompanying regulations but the 
+expectations would be that the code would ensure good environmental principles 
+internationally accepted.   
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts. 
+N/A   
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide 
+an assessment of borrower capacity to plan and implement the measures described. 
+N/A   
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+N/A   
+ 
+Page  5
+B. Disclosure Requirements Date
+ 
+Environmental Assessment/Audit/Management Plan/Other: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+For category A projects, date of distributing the Executive 
+Summary of the EA to the Executive Directors 
+ 
+Resettlement Action Plan/Framework/Policy Process: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+Indigenous Peoples Plan/Planning Framework: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+Pest Management Plan: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+*
+If the project triggers the Pest Management and/or Physical Cultural Resources, 
+the respective issues are to be addressed and disclosed as part of the Environmental 
+Assessment/Audit/or EMP. 
+If in-country disclosure of any of the above documents is not expected, please 
+explain why: 
+N/A   
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the 
+ISDS is finalized by the project decision meeting) 
+ 
+The World Bank Policy on Disclosure of Information 
+ 
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+N/A 
+Have relevant documents been disclosed in-country in a public place in a 
+form and language that are understandable and accessible to project-affected 
+groups and local NGOs? 
+N/A 
+All Safeguard Policies 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities 
+been prepared for the implementation of measures related to safeguard 
+policies? 
+N/A 
+Have costs related to safeguard policy measures been included in the project 
+N/A 
+Page  6
+cost? 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures related to safeguard policies? 
+N/A 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+N/A 
+D. Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Ms Sherri Ellen Archondo 
+02/12/2011 
+Environmental Specialist: 
+Mr George Campos Ledec 
+02/12/2011 
+Social Development Specialist 
+Ms Maria Concepcion J. Cruz 
+02/12/2011 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+ 
+Approved by: 
+ 
+Sector Manager: 
+Mr Michael J. Fuchs 
+02/12/2011 
+Comments:  Alexandra Bezeredi 
+Regional Safeguards Advisor, has cleared on 02/12/11 

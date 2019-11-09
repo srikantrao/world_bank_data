@@ -1,0 +1,1222 @@
+          COMBINED PROJECT INFORMATION DOCUMENTS / INTEGRATED
+                     SAFEGUARDS DATA SHEET (PID/ISDS)
+                                             Appraisal Stage
+.
+
+
+
+
+                                                                            Report No.: PIDISDSA23767
+Date Prepared/Updated: 10-Sep-2018
+I. BASIC INFORMATION
+    A. Basic Project Data
+    Country:                        Chile                    Project ID:               P160277
+                                                             Parent Project ID (if
+                                                             any):
+    Project Name:                   Chile REDD+ Emissions Reductions Program (P160277)
+    Region:                         LATIN AMERICA AND CARIBBEAN
+    Estimated Appraisal Date:       30-May-2018              Estimated Board Date: 15-Jan-2020
+    Practice Area (Lead):           Environment &            Financing Instrument:
+                                    Natural Resources
+    Borrower(s)                     Agencia Chilena de Cooperacion Internacional para el Desarrollo
+                                    (AGCID)
+    Implementing Agency             Corporacion Nacional Forestal (CONAF)
+    Financing (in USD Million)
+      Financing Source                                                                            Amount
+    Carbon Fund                                                                                      26.00
+    Financing Gap                                                                                     0.00
+    Total Project Cost                                                                               26.00
+    Environmental Category:         B-Partial Assessment
+    Appraisal Review Decision
+    (from Decision Note):
+    Other Decision:
+    Is this a Repeater project?     No
+.
+
+
+
+
+.
+
+
+
+
+B. Introduction and Context
+    Country Context
+    Chile is a high-income country with one of the most politically stable systems in Latin America, strong
+    institutions and a solid record of economic growth during the last two and a half decades. The first
+    South American country to join the Organization for Economic Cooperation and Development
+    (OECD), Chile is one to the fastest growing Latin American economies.
+Chile relies heavily on extracting its natural resource base for employment and exports. The country
+has a wide range of ecological zones; including expansive arid desert, remote Pacific islands, a
+Mediterranean ecosystem, high-altitude grasslands and wetlands, and temperate rainforests in the
+south, among others. This diverse landscape contributes to Chile?s rich biodiversity, natural beauty
+and highly favorable environmental conditions for its successful resource-based industries, including
+mining, forestry, fisheries, and agriculture.
+
+Despite considerable economic progress, inequality is still a challenge in Chile, with high levels of
+poverty still present in the country?s rural areas where subsistence livelihoods depend highly on
+natural resources. In Chile, at 22.1 percent, the rural poverty rate is significantly higher than the urban
+poverty rate (10.2 percent), making forested areas even more central to the poverty agenda. In
+addition, the incidence of poverty is especially high among Indigenous Peoples, women, and youth.
+One out of four indigenous individuals live in rural areas and these Indigenous Peoples show
+substantially higher poverty rates (extreme poverty rates are two times greater among Indigenous
+Peoples than among the general population: 6.6 percent vs 3.2 percent).
+
+Managing water resources, natural capital and social sustainability are the key challenges facing the
+government in the effort to sustain the gains in poverty reduction and to accelerate shared prosperity
+especially into rural areas and among vulnerable communities. Rapid economic growth has resulted in
+pressures on natural resources, particularly in relation to water resources management, degradation of
+soil and native vegetation resources, fish stock depletion, biodiversity conservation and air pollution.
+These environmental challenges disproportionally affect the poor and vulnerable, as they tend to
+depend more on natural resources and are especially affected by pollution, soil erosion, and other
+negative externalities arising from extractive activities (i.e. mining and commercial logging) driving
+economic growth.
+
+Chile?s characteristics place it among the countries that are at highest risk of being affected by climate
+change as weather patterns are expected to negatively affect the country?s water resources and alter
+export-oriented agribusiness and silvopastoral systems. The 2017 forest fires were partly a result of
+poor preparation for climate change. Addressing climate change adaptation and increasing the overall
+resilience of the Chilean economy to adverse weather events and the changing availability of water
+will have to play a key role in any future environmental and economic agenda in Chile.
+Sectoral and Institutional Context
+The Government of Chile (GoCL) has committed to protecting the environment to ensure the long-
+term sustainability of its economic growth, as well as to respond to Chile's status as a member of the
+OECD and to meet its international commitments under the United Nations Framework Convention on
+Climate Change (UNFCCC). Through its Nationally Determined Contribution (NDC) as part of the
+Paris Agreement, the GoCL has clearly signaled its commitment to contribute to global efforts to
+mitigate greenhouse gas (GHG) emissions, including through expansion of renewable energy,
+reduction in energy consumption and increased forest carbon sequestration and management. Chile?s
+NDC includes an unconditional commitment to reduce the carbon intensity of its Gross Domestic
+Product by 30% below 2007 levels and by up to 45%, conditional to receiving international financial
+support.
+
+With regards to the forestry sector, in its NDCChile has committed to restore and sustainably manage
+100,000 hectares and to reforest another 100,000 hectares of mainly native forests, subject to the
+amendment and extension of key legislation underpinning the relevant national forest programs. Chile
+is also part of the Bonn Challenge and has committed to restoring a total of 500,000 hectares by 2020.
+The forestry sector also has the potential to contribute to Chile?s clean energy ambition as established
+in its Energy Policy 2050, since much of the energy used for heating purposes in the country comes
+from biomass (29 percent of the primary energy use) and therefore has impacts in terms of climate
+change (GHG emissions) and health (pollution).
+
+Chile has around 17.34 million hectares of forests, of which around 81.8% are natural forests
+(14,181,752 ha) while 17.1% (2,958,115 ha) are comprised of mostly exotic timber plantations, with
+the rest being mixed forests. Chile?s overall forest cover is expanding. According to the Food and
+Agriculture Organization gross deforestation is very low, estimated at around 27,000 ha annually
+(0.16%), with (mostly exotic) plantations expanding by about 64,000 ha each year. This said, forest
+degradation remains a serious problem for the country?s native forests, with almost 4 million ha of
+forests affected in total.
+
+Most degradation occurs in the native temperate forests of the south, where unsustainable and
+unmanaged fuelwood extraction isa major contributor to the problem. This was illustrated in the
+subnational Forest Reference Level (FRL) developed by the country for its southern regions and
+registered with the UNFCCC in 2016, where forest degradation resulted in much higher GHG
+emissions than those produced from deforestation. These emissions neutralize the absorptive capacity
+of the native forest sector hindering its capacity to act as a net carbon sink. In addition, degradation
+changes the structure of native forests in terms of their size and species composition, altering their
+capacity to provide ecosystem services such as hydrological functions and biodiversity conservation,
+and to provide development dividends.
+
+The direct causes of these emissions have been widely documented and are well known in Chile,
+including forest fires; unsustainable use of forest resources for timber, firewood production and
+livestock grazing; expansion of agricultural and livestock activities in forest lands; encroachment of
+monoculture tree plantations and urban expansion; the effects of climate change, desertification, land
+degradation and drought; and pests and diseases. These causes are driven by underlying actors that
+have been identified through extensive analytical and participatory work, which include: deficiencies
+in the public policies regulating, promoting and controlling the management of vegetation resources;
+low level of knowledge and cultural valuation of vegetation resources among the general public;
+informality of firewood market; rural poverty with the consequent lack of alternative economic
+opportunities for small forest owners; low profitability and high opportunity costs of native forest
+lands; fragmented and unregulated land tenure in rural areas; and weaknesses in forest governance.
+These drivers are expected to continue in the future leading to continued GHG emissions in the forest
+sector unless measures are taken to address them.
+
+The Government of Chile (GoCL) has committed to protecting the environment to ensure the long-
+term sustainability of its economic growth, as well as to respond to Chile's status as a member of the
+OECD and to meet its international commitments under the United Nations Framework Convention on
+Climate Change (UNFCCC). Through its Nationally Determined Contribution (NDC) as part of the
+Paris Agreement, the GoCL has clearly signaled its commitment to contribute to global efforts to
+mitigate greenhouse gas (GHG) emissions, including through expansion of renewable energy,
+reduction in energy consumption and increased forest carbon sequestration and management. Chile?s
+NDC includes an unconditional commitment to reduce the carbon intensity of its Gross Domestic
+Product by 30% below 2007 levels and by up to 45%, conditional to receiving international financial
+support.
+
+With regards to the forestry sector, in its NDC Chile has committed to restore and sustainably manage
+100,000 hectares and to reforest another 100,000 hectares of mainly native forests, subject to the
+amendment and extension of key legislation underpinning the relevant national forest programs. Chile
+is also part of the Bonn Challenge and has committed to restoring a total of 500,000 hectares by 2020.
+The forestry sector also has the potential to contribute to Chile?s clean energy ambition as established
+in its Energy Policy 2050, since much of the energy used for heating purposes in the country comes
+from biomass (29 percent of the primary energy use) and therefore has impacts in terms of climate
+change (GHG emissions) and health (pollution).
+
+Chile has around 17.34 million hectares of forests, of which around 81.8% are natural forests
+(14,181,752 ha) while 17.1% (2,958,115 ha) are comprised of mostly exotic timber plantations, with
+the rest being mixed forests. Chile?s overall forest cover is expanding. According to the Food and
+Agriculture Organization gross deforestation is very low, estimated at around 27,000 ha annually
+(0.16%), with (mostly exotic) plantations expanding by about 64,000 ha each year. This said, forest
+degradation remains a serious problem for the country?s native forests, with almost 4 million ha of
+forests affected in total.
+
+Most degradation occurs in the native temperate forests of the south, where unsustainable and
+unmanaged fuelwood extraction is a major contributor to the problem. This was illustrated in the
+subnational Forest Reference Level (FRL) developed by the country for its southern regions and
+registered with the UNFCCC in 2016, where forest degradation resulted in much higher GHG
+emissions than those produced from deforestation. These emissions neutralize the absorptive capacity
+of the native forest sector hindering its capacity to act as a net carbon sink. In addition, degradation
+changes the structure of native forests in terms of their size and species composition, altering their
+capacity to provide ecosystem services such as hydrological functions and biodiversity conservation,
+and to provide development dividends.
+
+The direct causes of these emissions have been widely documented and are well known in Chile,
+including forest fires; unsustainable use of forest resources for timber, firewood production and
+livestock grazing; expansion of agricultural and livestock activities in forest lands; encroachment of
+monoculture tree plantations and urban expansion; the effects of climate change, desertification, land
+degradation and drought; and pests and diseases. These causes are driven by underlying actors that
+have been identified through extensive analytical and participatory work, which include: deficiencies
+in the public policies regulating, promoting and controlling the management of vegetation resources;
+low level of knowledge and cultural valuation of vegetation resources among the general public;
+informality of firewood market; rural poverty with the consequent lack of alternative economic
+opportunities for small forest owners; low profitability and high opportunity costs of native forest
+lands; fragmented and unregulated land tenure in rural areas; and weaknesses in forest governance.
+These drivers are expected to continue in the future leading to continued GHG emissions in the forest
+sector unless measures are taken to address them.
+
+Relationship to CAS/CPS/CPF
+
+The proposed operation is fully aligned with the World Bank Group?s Country Partnership Framework
+for Chile (FY19-FY24), currently under development. The proposed operation will directly contribute
+to Focus Area 3 on Improving Water, Land and Climate Change Management, and in particular to
+Objective 7 on Strengthening climate change mitigation and adaptation capacities. In addition, the
+World Bank Systematic Country Diagnostic for Chile (Report No. 107903-CL), issued on June 6,
+2017, identifies native forest degradation as one of the major challenges to environmental
+sustainability in the country.
+
+The proposed Carbon Finance transaction is part of a broader package of engagement of the Bank in
+    support of Chile?s forest and climate change sectors. This support combines technical assistance,
+    investments and results-based finance, including two FCPF Readiness Grants to support preparation of
+    the ENCCRV (P124908; US$8.8 million); an NDC Partnership Support Facility grant to help identify
+    investments opportunities for the ENCCRV (TF0A4793; US$250,000); a GEF operation to support
+    investments in Sustainable Land Management (P085621; US$23 million); and a project-scale carbon
+    finance transaction pilot under the BioCarbon Fund (P111918; US$3.87 million).
+
+    The proposed Carbon Finance transaction is also aligned with the World Bank?s corporate
+    commitments on Forests and Climate Change. The operation directly supports several Focus Areas
+    under the WBG Forest Action Plan (Sustainable Forestry and Forest Smart Interventions) as well as
+    Cross-Cutting Themes (Climate Change and Resilience, Rights and Participation, Institutions and
+    Governance). In addition, the proposed operation is aligned with the WBG Climate Change Action
+    Plan?s top-level priorities on Supporting Transformational Policies and Institutions, by translating
+    Chile?s NDC into climate policies and investment plans into actions; and on Scaling Up Climate
+    Action by mobilizing REDD+ financing to support large-scale, multi-sectoral programs in the climate-
+    smart land use, water and food security high-impact area. Although Trust Funded operations, such as
+    the proposed carbon finance transaction, do not count towards the WBG?s corporate goal of 28% of
+    climate related financing, as this only considers IDA and IBRD resources, they are accounted as
+    climate action delivered by the WBG from externally financed sources.
+.
+
+
+
+C. Proposed Development Objective(s)
+    Development Objective(s)
+    The Project Development Objective is to incentivize reduced deforestation, forest degradation and the
+    enhancement of forest carbon stocks (REDD+) in selected regions of southern Chile, through payment
+    of verified emission reductions (ER) and to ensure that paid amounts are distributed according to an
+    agreed benefit sharing plan.
+    Key Results
+    The achievements of the PDO will be measured through the result indicators included below,
+    standardized for ERPA operations under the FCPF across the World Bank Group to reflect the nature
+    of the ERPA as a transaction-based instrument:
+    i. Volume of CO2 Emissions Reductions that have been measured and reported by the Program Entity,
+    verified by a Third Party, and transferred to the FCPF Carbon Fund; (tCO2e);
+    ii. Payment by the FCPF Carbon Fund for CO2 Emission Reductions generated by the Program
+    (USD);
+    iii. Emission Reductions payments distributed in accordance with agreed Benefit Sharing Plan and
+    arrangements. (Yes/No).
+.
+
+
+
+
+    D. Project Description
+
+    D. Project Description
+
+    A. Scope of the instrument
+    The operation consists in a stand-alone Carbon Finance Transaction between the World Bank as
+    Trustee of the Forest Carbon Partnership Facility (FCPF) Carbon Fund and the National Forestry
+    Corporation (CONAF) of Chile as the Program Entity, involving the delivery of and payment for
+    greenhouse gas (GHG) Emission Reductions (ERs) generated from the implementation of the National
+    Strategy on Climate Change and Vegetation Resources (ENCCRV, for its acronyms in Spanish).
+A Carbon Finance transaction refers to a commercial transaction involving delivery of and payment
+for ERs between a Project or Program Entity and the Bank as Trustee of carbon funds. It does not
+involve the direct financing of any of the underlying investments generating the ERs paid by the
+carbon funds. The World Bank manages a range of carbon funds and facilities representing different
+profiles and segments of the carbon market. These funds, managed by the World Bank as Trustee for
+the fund participants, purchase ERs on behalf of the fund participants, i.e., public and private entities
+that have committed their monies to the funds. The ERs are generated by Projects and Programs
+mitigating GHG emissions in eligible countries and Project or Program Entities are paid for delivery of
+those ERs.
+
+The instrument for the operation is an Emission Reductions Payment Agreement (ERPA). The ERPA
+is the legal document that will be signed between the Seller (i.e. the Government of Chile through
+CONAF as the Program Entity and AGCID as administrator of funds) and the Buyer (i.e. the FCPF
+Carbon Fund through the World Bank), which sets out the commercial terms (e.g. volume, price,
+conditions of sale and purchase, call and/or put options, advance payments etc.) of the transaction
+negotiated between the two Parties. Whereas the ERPA covers the commercial terms of the transaction
+that are negotiable on a case-by-case basis, the ERPA General Conditions represent the legal
+underpinning of the ERPA, providing for a set of (non-negotiable) general rules and procedures for the
+sale and purchase of ERs that apply to each transaction. The General Conditions are incorporated into
+the ERPA by way of reference and, thereby, form an integral part of the ERPA itself. They were
+approved at the 18th meeting of the FCPF Participants Committee on November 1, 2014, as per FCPF
+Resolution PC/18/2014/2.
+
+The World Bank financing for this operation is provided by the FCPF. The FCPF Carbon Fund results-
+based payments are intended to provide an incentive to the recipient countries and the various
+stakeholders?including forest-dependent Indigenous Peoples, other forest dwellers or the private
+sector?within each of its target countries to achieve long-term sustainability in financing forest
+conservation and management programs. The Carbon Fund will remunerate selected countries in
+accordance with ERPAs for verifiably reducing emissions compared to a baseline scenario (reference
+level).
+
+B. The Government?s ER Program
+As part of its efforts to implement Chile?s NDC commitments in the forestry sector, the Ministry of
+Agriculture (MINAGRI), through CONAF, has developed the ENCCRV with the objective to position
+the country?s natural forests as a key element of national climate change mitigation and adaptation
+efforts. Chile?s NDC document clearly establishes the ENCCRV as the key instrument for meeting the
+country?s climate change mitigation targets in the forest sector; while the National Climate Change
+Action Plan 2017-2022 (PANCC, for its acronyms in Spanish), establishes the ENCCRV as the main
+mitigation action in the forestry sector. The ENCCRV also represents the Government?s ER Program
+under the FCPF, described in detail in Chile?s Emission Reductions Program Document (ERPD) and
+approved during the 15th meeting of the Carbon Fund Participants in December 2016.
+
+The ENCCRV was developed based on extensive analytical and participatory work supported by an
+FCPF REDD+ Readiness Grant (P124908). The analytical work included studies on the direct causes
+of deforestation, forest degradation and the barriers for the enhancement of forest carbon stocks at the
+national level; and the underlying legal, technical, economic, and social drivers. This work was
+coupled with a strong participatory process that included one National (125 participants) and 15
+Regional workshops (1,266 participants); a Self-assessment process of the readiness of the country (74
+participants); a pubic consultation (506 participants); and an Indigenous Peoples dialogue and
+consultation (90 workshops; 1,1813 participants). Following this participatory process, the ENCCRV
+was approved by the Ministerial Council on Sustainable Development on November 14, 2016.
+
+Overall, the ENCCRV comprises a total of nine Strategic Actions designed to addressthe key drivers
+of deforestation, forest degradation, and barriers to the enhancement of forest carbon stocks that are
+implemented through 16 Enabling and 12 Direct Mitigat ion Measures (the ER Program Measures),
+described in detail in Chile?s ERPD. Direct Measures include those that directly generate GHG
+emissions through specific investments in activities on the ground (e.g. re/afforestation, forest
+management, etc.). Enabling Measures include those with an indirect effect on GHG emissions
+through policy or regulatory reforms.
+
+Implementation of the ENCCRV will initially focus in five of the country?s most forested regions
+where GHG emissions from deforestation and forest degradation are the highest: Maule, Biob?o, La
+Araucan?a, Los R?os, and Los Lagos; covering a total of approximately 15,300,000 hectares and
+representing the GHG accounting area of the ER Program. The ER Program is expected to have a
+transformative impact on Chile?s policies, regulations, and practices associated with the management
+of the country?s native forest resources, leading to the scaling up of the proposed ER Program
+Measures at the national level in support of the country?s efforts to mitigate and adapt to climate
+change.
+
+The ER Program Measures will be implemented in both public and private (including community)
+lands. Unlike standard project-level carbon finance transactions, due to the scale of ER Programs the
+FCPF rules do not require that the Program delineates the geographic boundaries and land ownership
+of each targeted area where ER Program Measures will be implemented. A Land Tenure Assessment is
+required at the Program area level (more than 15 million hectares in the case of the Chile Program) to
+identify any issues that might affect ER Program implementation and subsequent transfer of ER titles
+to the FCPF. As such, a Land Tenure Assessment was carried out in the Program area based on
+available datasets to characterize and map lands based on their land tenure type (public, private,
+indigenous and agricultural communities, etc.) and status (regular, irregular, etc.) and suitability for
+the implementation ER Program Measures. Results indicated that approximately 73% of the national
+territory is comprised of regularized rural property and would be available for implementing ER
+Program Measures. In addition, the Assessment indicated that land tenure is regulated by a robust
+regulatory framework in Chile, and that it is a requirement to access the subsidies of environmental,
+agricultural and forestry government programs. Given that there is a percentage of rural owners with
+irregular land tenure, the Program will directly support their inclusion through an ER Program
+Measure aimed at providing legal assistance for regularizing land titles, including collective land
+tenure for indigenous peoples? lands, therefore addressing the risk of non-participation by vulnerable
+groups. The results of the Land Tenure Assessment will also be used in the eligibility criteria for
+accessing the Benefit Sharing Plan of the operation, prioritizing small forest owners as defined by the
+Native Forest Law No. 20.283 (which includes indigenous and agricultural communities). The Land
+Tenure Assessment has been publicly disclosed and is available on the ENCCRV website.
+
+Unconditional financing for the implementation of the ENCCRV is based on a mix of CONAF?s
+existing national budget and secured international grants, amounting to approximately US$74 million.
+The ENCCRV considers a set of additional financing scenarios for scaling up its ambition, conditional
+to securing incremental financial support from international climate funds, bilateral negotiations,
+redirection of fiscal expenditure, and other sources including the private sector. The ENCCRV
+financing only considers a fraction of the resources that Chile is investing in its forest sector annually
+through the National Budget Law. For example, CONAF?s total budget for 2018 amounted to
+approximately US$138 million, supporting a set of Programs which are all expected to enable ER
+generation. This budget size has been maintained consistently in the past, and given Chile?s future
+commitments as per its NDC is not likely to change. In addition, the ERPA proceeds, once
+materialized are expected provide an additional source of financing for the ER Program Measures
+through the BSP.
+
+C. The Carbon Finance Transaction
+The proposed operation would be among the first of its kind worldwide to provide results-based
+payments for Reducing Em issions from Deforestation, forest Degradation, and enhancing forest
+carbon stocks (REDD+). The World Bank, as the Trustee of the FCPF Carbon Fund, will pay the
+Government of Chile (represented through CONAF, i.e. the Program Entity) for the GHG Emission
+Reductions (ERs) generated from the implementation of the ENCCRV during the ERPA Term, i.e. fr
+om November 2018 (or whichever date the ERPA is executed by both Parties) to December 2025,
+unless terminated earlier.
+
+Payments (i.e. disbursements) will be made upon the successful verification of results (i.e. volume of
+ERs generated as per PDO indicator 1) after each monitoring and reporting event, and upon
+confirmation by the World Bank that safeguard instruments and the Benefit Sharing Plan have been
+properly implemented. Monitoring and Reporting events are expected to occur biannually in
+accordance with an agreed ER Monitoring Plan. ER results will be measured against the Program?s
+baseline, which consists in Chile?s National Forest Reference Level (FRL) registered with the
+UNFCCC in 2016. Verification of ER results will be carried out by an Independent Reviewer
+contracted by the World Bank, and in accordance with the criteria and indicators of the Carbon Fund
+Methodological Framework.
+
+The monetary value of the ERPA is defined by the ER volume and the unit price, which are both
+subject to negotiations and reflected in the ERPA Term Sheet. The ER Program is estimated to
+generate a total ER volume of 9,823,836 tCO2e between 2018 and 2024; this estimate is based on
+conservative assumptions about the effectiveness of the Program in addressing the drivers of
+deforestation and forest degradation in the Program Area without any conditional financial support
+(i.e. based on existing resources). This total is then discounted to reflect the risk of uncertainty in the
+calculations (8%) and the risk of reversals (21%), with a remaining ER volume of 7,139,964 tCO2e
+available to be transacted.
+
+Of the remaining volume, the volume of ERs included in the ERPA equals 5,200,000 tCO2e, as per
+the Letter of Intent (LOI) signed in August 2014 between the World Bank and the Program Entity. A
+unit price of US$ 5 per tCO2eq has been considered, which corresponds to the willingness to pay
+expressed by CFPs and agreed with by the Program Entity, resulting in a total contract value of
+US$26,000,000. Additional ERs at different prices may be included in the future as negotiated
+between the Program Entity and the CFPs, and approved by national authorities (i.e. Ministry of
+Finance).
+
+It is important to consider that the expected contract volume and value represent ex-ante estimates
+based on assumptions about the Program?s effectiveness in generating ERs. The actual total ER
+volume available to be transacted and resulting schedule of payments will depend on the actual
+effectiveness of the Program in generating ERs as reported and verified after each monitoring event.
+An effectiveness analysis for the different financing scenarios of the ENCCRV in terms of ER volume
+generation, showed that the baseline scenario (unconditional financing) is sufficient to generate a
+steady flow of ERs to support the ERPA operation, as long as investments in ER Program Measures
+prioritize the most cost-effective activities aimed at reducing emissions from deforestation and forest
+degradation, rather than a/reforestation which have longer carbon sequestration times and a higher
+emphasis on non-carbon benefits.
+
+D. The Benefit Sharing Plan
+ERPA proceeds will be distributed according to a Benefit Sharing Plan (BSP) compliant with the
+FCPF Methodological Framework. Chile?s BSP is currently in draft form; a final version, satisfactory
+to the World Bank, will be approved prior to effectiveness.
+Beneficiaries of the ER Program are expected to be mostly small forest owners (including indigenous
+communities) in vulnerable rural areas, therefore contributing to the WBG twin goals. The draft BSP
+does not contemplate direct cash transfers to Program beneficiaries (monetary benefits). Rather,
+beneficiaries will receive non-monetary benefits through the implementation of subprojects on their
+lands, defined in a participatory way based on a list of eligible activities (e.g. technical assistance,
+inputs, capacity building, and others) aimed at improving their environmental, social and economic
+conditions through sustainable land management.
+
+The draft BSP includes several provisions to ensure a transparent, participatory, and equitable
+distribution of ERPA proceeds. Existing local multi-stakeholder platforms will be used in each Region
+to validate the use of the ERPA proceeds based on a set of social, environmental, and economic
+eligibility and prioritization criteria established in the final BSP. Priority will be given to small forest
+owners, Indigenous Peoples, and women on a scoring basis. The safeguard instruments developed for
+the ER Program, including the ESMF, RPF, and IPPF, will also apply to the activities financed under
+the BSP.
+PHCOMP
+
+
+
+
+         Component Name:
+
+         Comments ( optional)
+
+E. Project location and Salient physical characteristics relevant to the safeguard analysis (if
+known)
+The ER Program comprises five administrative regions in southern Chile (from Maule to Los Lagos)
+covering a total of 16.5 million hectares, 35% of which are covered by native forests with a high
+diversity, representing 11 of the 12 forest types present in the country, four of which are only found
+within the Program area. 11% of the ER Program area is under some form of legal protection as part of
+the National System of State Protected Areas (SNASPE).
+
+Although Chile has an extensive and diverse endowment of native forest resources, their contribution
+to the national economic growth is rather limited (native forest products represent only 3% of total
+exports from the forest sector). Information on the actual dimension of their use and exploitation is
+scarce. Unofficial data indicates that informality could represent as high as 80% of what is captured in
+official information. The main uses of native forests include firewood extraction and use for shelter
+and fodder for cattle, which in combination with causes such as fires, have led to a severe degradation
+of a significant portion of this resource. This phenomenon represents an ecological and economic
+devaluation of these forests, as they lose their ability to provide goods and services, including carbon
+sequestration and storage, therefore generating a substantial loss of natural capital with its associated
+GHG emissions. This process of progressive devaluation of native forest resources has led many times
+to the abandonment of the forests and to their conversion to more profitable land uses through
+deforestation, further increasing the emissions associated with the misuse of forest resources.
+
+In terms of the social characteristics, the ER Program area includes three of the four regions in the
+country with the highest concentration of indigenous populations, representing approximately 64% of
+the total at the national level. In addition, there is a high concentration of small and medium forest
+    owners. The majority of these populations are highly dependent on native forest resources, especially
+    for heating and cooking. Some of the regions in the ER Program area have evolved from the 60s to
+    nowadays, from a large rural population to a large urban one, driven by the lack of available land and
+    employment/education opportunities in rural areas, especially for young people. Tourism is also an
+    important contributor to the economy in the ER Program Area which relies on native forests for scenic
+    beauty and associated recreational activities.
+.
+
+
+
+
+    F. Environmental and Social Safeguards Specialists
+     Lilian Pedersen( SLCSO )
+     Ricardo Larrobla( SLCEN )
+II. IMPLEMENTATION
+The ER Program implementing agency will be the Chilean National Forestry Corporation
+(CONAF) responsible for overseeing all forestry activities in the country, including
+management of incentive programs for plantations and native forest management, national
+parks, fire prevention and suppression and environmental impact assessments for activities in
+forest areas. CONAF headquarters are in Santiago, and they maintain a large and diverse staff
+throughout the country in regional and local offices. CONAF is a recognized public institution
+with strong environmental competence. Since 2010, it established an Environmental
+Assessment Unit (DEA, for its acronym in Spanish) in charge of the System of Environmental
+Impact Assessment, Environmental Monitoring and Control, and other responsibilities to
+oversee compliance with current environmental regulations related to the use and management
+of forest resources and xerophytic formations, the conservation of native forests and protected
+areas, and environmental licensing. CONAF has also instituted a Unit of Indigenous and Social
+Affairs (UAIS, for its acronym in Spanish) which focuses on the inclusion and participation of
+indigenous peoples in the formulation and implementation of sectoral plans, projects and
+programs. The UAIS has qualified professionals with ample experience on indigenous issues
+and maintains a local presence in the territories through its regional managers.
+.
+
+
+
+
+III. SAFEGUARD POLICIES THAT MIGHT APPLY
+    Safeguard Policies                      Triggered?     Explanation (Optional)
+    Environmental Assessment OP/BP          Yes            The ER Program is classified as Category B
+    4.01                                                   since it consists mainly of policies and
+                                                           measures aimed at reverting and preventing
+                                                           forest degradation and deforestation in the
+                                                           areas of intervention. Any potential
+                                                           environmental impacts and risks stemming
+                                                           from the implementation of on-the-ground
+                                                           activities through the implementation of ER
+                                                           Program Measures is expected be low,
+                                                           localized and manageable.
+
+                                                           A participatory Strategic Environmental and
+                                                           Social Assessment (SESA) was carried out in
+                                                           compliance with OP/BP 4.01 and following
+                                                           FCPF Guidelines, in order to identify
+                                                           measures to avoid and mitigate the potential
+                                          negative environmental and social impacts
+                                          associated with ER Program Measures. The
+                                          SESA has provided key guidance and
+                                          elements for the preparation of the Program?s
+                                          Environmental and Social Management
+                                          Framework (ESMF), to ensure that social and
+                                          environmental risks are factored in the design
+                                          and implementation of ER Program Measures
+                                          and related subprojects. The ESMF identifies
+                                          several operational instruments as well as
+                                          prevention and/or mitigation measures to
+                                          address environmental and social risks in
+                                          subprogram sites. These measures include
+                                          screening checklists (to determine potential
+                                          impacts), negative lists (to exclude certain
+                                          activities that are considered high-impact),
+                                          and procedures to determine the need for
+                                          development of site-specific assessments and
+                                          safeguard instruments, particularly related to
+                                          OP 4.04, 4.09, 4.36, 4.10, and 4.12. Since the
+                                          Bank does not finance any of the underlying
+                                          activities of the ER Program, but rather only
+                                          pays for results, the ESMF will apply to all
+                                          activities implemented under the Program
+                                          regardless of the source of financing based on
+                                          the current approach for safeguard application
+                                          to FCPF ERPA operations, and will form the
+                                          basis to identify, avoid, minimize and where
+                                          necessary mitigate any potential adverse
+                                          impacts from program activities.
+Performance Standards for Private   No    This policy is not triggered as the scope of the
+Sector Activities OP/BP 4.03              Program does not include activities financed
+                                          by the Private Sector.
+Natural Habitats OP/BP 4.04         Yes   The application of this policy seeks to ensure
+                                          that all options proposed in the ER Program
+                                          take into account the conservation of
+                                          biodiversity and critical natural habitats, as
+                                          well as the numerous environmental services
+                                          and products they provide to the Chilean
+                                          society. Overall, the ER Program is expected
+                                          to have significant positive impacts on natural
+                                          habitats as it consists in the implementation of
+                                          an effective strategy to reduce the degradation
+                                          of its native forests. The SESA addressed
+                                          issues related to natural habitats and potential
+                                          impacts of the ER Program, which have been
+                                          incorporated in the ESMF through a specific
+                                          protocol that will be applied as needed.
+Forests OP/BP 4.36                  Yes   Overall, the ENCCRV is expected to have
+                                          significant positive impacts on the country?s
+                                          vast native forests, especially in the five
+                                          administrative regions targeted by the ER
+                                          Program, by reducing deforestation and forest
+                                          degradation while contributing to the well-
+                                          being of forest-dependent communities. One
+                                          of the key results of the SESA incorporated in
+                                          the design of the ER Program has been the
+                                          exclusion of industrial forest plantations as
+                                          they have been associated with higher rural
+                                          poverty rates as small-scale agriculture faces
+                                          increased challenges and economic hardship
+                                          such as less water available for irrigation, and
+                                          possible contamination of crops from
+                                          plantation pesticide fumigation. ER Program
+                                          measures will target vulnerable small and
+                                          medium native forest owners in order to help
+                                          them stabilize their land and increase the
+                                          Program?s environmental and social co-
+                                          benefits, representing a paradigm shift from
+                                          the past forest management model focused on
+                                          the exotic species timber industry towards a
+                                          more sustainable one. A specific protocol has
+                                          been incorporated in the ESMF to be used as
+                                          needed, reflecting the requirements of the
+                                          Bank?s Operational Policy regarding forest
+                                          management, in particular as these relate to
+                                          the establishment of plantations and use of
+                                          critical forest areas. ER Program Measures
+                                          implemented through subprojects in forested
+                                          areas will be based on forest management
+                                          plans following national standards and
+                                          legislation, and will be complemented with
+                                          World Bank Policy provisions regarding
+                                          certification and small-holder forest
+                                          management.
+Pest Management OP 4.09             Yes   This policy is triggered in a precautionary way
+                                          since implementation of certain ER Program
+                                          measures may potentially include the use of
+                                          pesticides and herbicides at subproject sites as
+                                          part of an effort to make forest and/or
+                                          agricultural activities more efficient and
+                                          economic. The critical provisions of the Bank
+                                          Policy on Pest Management have been
+                                          incorporated in the ESMF though a specific
+                                          protocol to be used as needed that focuses on
+                                          prioritizing integrated pest management.
+Physical Cultural Resources OP/BP   Yes   This policy is triggered in a precautionary way
+4.11                                      to address cases where the ER Program could
+                                      promote activities in areas containing sites
+                                      deemed physical cultural resources (PCR).
+                                      Though it is not anticipated that the ER
+                                      Program will have any negative impacts on
+                                      such sites, the existence of any such sites in
+                                      areas affected by the ER Program will trigger
+                                      provisions included in the ESMF on how to
+                                      address preservation of known PCR sites,
+                                      especially in areas inhabited by indigenous
+                                      communities. A specific protocol has been
+                                      included in the ESMF to be applied as needed.
+Indigenous Peoples OP/BP 4.10   Yes   This policy is triggered due to the presence of
+                                      Indigenous Peoples in the ER Program Area
+                                      (approximately 64% of the total at the national
+                                      level) and their close relationship with native
+                                      forest and vegetation resources. Since the
+                                      early stages of preparation, the ENCCRV and
+                                      the ER Program have had a special focus on
+                                      participatory processes and vulnerable groups
+                                      (particularly Indigenous Peoples), with the
+                                      aim of identifying key issues and providing
+                                      recommendations for their design. The SESA
+                                      process began early in the Readiness phase in
+                                      a highly participatory manner. Indigenous
+                                      peoples participated in most of the 16
+                                      Regional and National Workshops performed
+                                      as part of the SESA process, which included a
+                                      total of more than 1,300 people. In addition,
+                                      an Indigenous People National Dialogue was
+                                      carried out during 2016, with 1813 indigenous
+                                      people participants in 90 workshops, to
+                                      validate the approaches proposed in the
+                                      ENCCRV.
+
+                                      Through the SESA and the Indigenous
+                                      Dialogue, Indigenous Peoples assessed the
+                                      risks and benefits of the proposed ER Program
+                                      Measures from their own perspective and
+                                      contextual realities, informing potential
+                                      mitigation measures. Some of the risks and
+                                      impacts identified during SESA participatory
+                                      processes and technical analysis performed,
+                                      were: i) potential exclusion of vulnerable
+                                      groups, including indigenous peoples and
+                                      subsistence farmers; ii) the need for cultural
+                                      approaches and ancestral methods to be taken
+                                      into account in the design and implementation
+                                      of ER Program Measures in their territories;
+                                      iii) lack of appropriate consultation in the
+                                      formulation of native forest management plans
+in the influence area of their; iv) limited or
+restricted access to resources in legally
+protected natural habitats, potentially affecting
+the livelihoods of indigenous peoples and
+other vulnerable groups; v) potential
+displacement of economic or other activities
+affecting the livelihoods of indigenous peoples
+and other vulnerable groups.
+
+The ESMF includes an Indigenous Peoples
+Planning Framework (IPPF) that has been
+prepared in a culturally appropriate way in
+compliance with the Indigenous Peoples
+Policy (OP 4.10) for addressing issues related
+to indigenous peoples during the
+implementation of the ER Program. The IPPF
+will serve a guidance for preparing site-
+specific Indigenous Peoples Plans (IPPs)
+during the implementation of the ER Program
+under the principle of free, prior and informed
+consultation, based on existing practices and
+instruments developed by the UAIS. To
+support and enhance the land and natural
+resource management practices of indigenous
+peoples, IPPs will be based on two natural
+resource management instruments that have
+been developed by the UAIS in a culturally
+appropriate manner and in a participatory way
+with Indigenous Peoples, namely the Modelo
+Forestal Intercultural Mapuche (MOFIN) and
+Modelo Ambiental Intercultural Andino
+(MAIA). MOFIN is a community way of
+doing things with regards to natural resource
+management, forestry and territorial
+development that allows to enhance the
+?madre tierra-�uke Mapu? (mother earth)
+and the ?Ixofil mongen? (biodiversiy) in
+accordance with the mapuche people way of
+life, who are located in the ER Program Area.
+MAIA is mostly taylored to aymaras,
+quechuas and likan antai cultures, which are
+not located in the ER Program Area. In the
+case of exploitation of natural resources, the
+IPPF clearly establishes that activities which
+imply natural resource exploitation can be
+only conducted by indigenous peoples.
+
+Chile has also committed to follow its
+obligations under ILO Convention 169 on
+Indigenous and Tribal Peoples. As with OP
+                                          4.01, the IPPF will apply to all activities
+                                          implemented under the ER program,
+                                          regardless of the source of financing.
+Involuntary Resettlement OP/BP 4.12 Yes   During the Readiness phase, the SESA was
+                                          used to assess the risk of potential restriction
+                                          of access to natural resources as part of the
+                                          design phase of the ENCCRV, providing
+                                          adequate recommendations from the
+                                          perspective of stakeholders. Based on this
+                                          consultation process as well additional
+                                          technical analysis, it is not expected that
+                                          ENCCRV measures will result in the
+                                          displacement of peoples. However, it is likely
+                                          that measures such as grazing control,
+                                          a/reforestation, forest planning and zoning,
+                                          and regularizing land tenure, among others,
+                                          could result in economic impacts, land
+                                          acquisition or activity displacement. Also,
+                                          strengthening of Protected Areas?
+                                          Management Plans could result in restrictions
+                                          or limited access to natural resources for
+                                          indigenous peoples and other vulnerable
+                                          groups depending on those resources for their
+                                          livelihoods.
+
+                                          To address this type of impacts, a Process
+                                          Framework (PF) has been prepared as part of
+                                          the ESMF. Additionally, a Resettlement
+                                          Policy Framework (RPF) has been prepared to
+                                          provide procedures to manage impacts in the
+                                          event of potential relocation and/or land
+                                          acquisition as a result of the implementation
+                                          of the ER Program on the ground, including
+                                          indigenous peoples and small farmers. The
+                                          RPF and PF are included as a specific chapter
+                                          of the ESMF. As with OP 4.01, the RPF and
+                                          PF will apply to all activities implemented
+                                          under the ER Program and that result in
+                                          involuntary resettlement or access restriction,
+                                          regardless of the source of financing. It also
+                                          will apply to other activities resulting in
+                                          involuntary resettlement, that in the judgment
+                                          of the Bank, are i) directly and significantly
+                                          associated to the ER Program; ii) necessary to
+                                          achieve its objectives as set forth in the
+                                          Program documents; and iii) carried out, or
+                                          planned to be carried out, contemporaneously
+                                          with the ER Program. Activities that could
+                                          result in impacts which would imply loss of
+                                          assets will be considered ineligible for
+                                                        support.
+    Safety of Dams OP/BP 4.37             No            This policy is not triggered as the Program
+                                                        will neither support the construction or
+                                                        rehabilitation of dams nor will it support other
+                                                        investments which rely on services of existing
+                                                        dams.
+    Projects on International Waterways   No            This policy is not triggered as the Program
+    OP/BP 7.50                                          will not finance activities involving the use or
+                                                        potential pollution of international waterways.
+    Projects in Disputed Areas OP/BP      No            This policy is not triggered as the Program
+    7.60                                                will not finance activities in disputed areas as
+                                                        defined in the policy.
+.
+
+
+
+
+IV. Key Safeguard Policy Issues and Their Management
+    A. Summary of Key Safeguard Issues
+    1. Describe any safeguard issues and impacts associated with the proposed project. Identify and
+    describe any potential large scale, significant and/or irreversible impacts:
+    The various governing documents of the FCPF, including the Charter, establish a commitment
+    to applying World Bank Safeguard Policies to FCPF operations. As per the guidance on the
+    safeguards approach for FCPF ERPA operations, this includes the following elements:
+    differentiated responsibility for the supervision of safeguard compliance depending on who is
+    financing the underlying activities and whether or not they are included in the Government
+    Program; comprehensive assessment of environmental and social risks associated with ER
+    Programs and formulation and adoption of relevant safeguard frameworks and/or plans to
+    address such risks; capacity assessment of the Program Entity to implement agreed safeguard
+    frameworks and/or plans; preparation and adoption of safeguards action plan, where
+    applicable; Program Entity?s self-monitoring and reporting along with independent third
+    party monitoring and reporting on the implementation of safeguard instruments; feedback and
+    grievance redress mechanism; and the World Bank?s oversight of effective implementation
+    and compliance of Program Entity with agreed safeguard management system.
+
+    According to the World Bank?s Operational Policies the Program is classified as Category B,
+    as ER Program Measures under the ENCCRV will include clearly defined activities with
+    foreseeable impacts and mitigation measures, and are expected to fall into categories B and C.
+    A participatory Strategic Environmental and Social Assessment (SESA) was carried out in
+    compliance with OP/BP 4.01 and following FCPF Guidelines, in order to identify, avoid, and
+    mitigate the potential negative environmental and social impacts associated with ER Program
+    Measures. The safeguard policies triggered as a result of the SESA include OP4.01
+    (Environmental Assessment), OP4.36 (Forests), OP4.04 (Natural Habitats), OP4.09 (Pest
+    Management), OP4.11 (Physical Cultural Resources), OP4.10 (Indigenous Peoples), and
+    OP4.12 (Involuntary Resettlement).
+
+    Overall, ER Program measures are expected to have net positive environmental and social
+    impacts by reducing the secondary effects of forest degradation such as erosion, slope
+    destabilization, landslide formation, and the incremental reduction of GHG emissions.
+Restoration of degraded forests and the establishment of new forest areas will also have net
+positive impacts by restoring forest ecosystem functions with the associated carbon
+sequestration, biodiversity and environmental enhancements, including natural habitats. These
+would constitute permanent and cumulative positive impacts.
+
+No large scale, significant and/or irreversible impacts are expected by the Program. Potential
+adverse environmental impacts are expected to be mainly temporary and minor, and may
+potentially include the use of pesticides and herbicides at subproject sites as part of an effort
+to make forest and/or agricultural activities more efficient and economic. All of the above
+impacts could be remedied and manageable considering the forest management practices
+required by the Native Forest Law and its Regulations (in particular the Regulation on water,
+soils and wetlands) which will be applied in the implementation of ER Program Measures, in
+addition to the World Bank's safeguard policies.
+
+Regarding OP 4.10, safeguards issues and impacts are related to: i) potential exclusion of
+vulnerable groups, including indigenous peoples and subsistence farmers; ii) the need for
+cultural approaches and ancestral methods to be taken into account in the design and
+implementation of ER Program Measures in their territories; iii) lack of appropriate
+consultation in the formulation of native forest management plans in their influence area; iv)
+limited or restricted access to resources in legally protected natural habitats, potentially
+affecting the livelihoods of indigenous peoples and other vulnerable groups; v)
+potential/occasional displacement of economic or other activities affecting the livelihoods of
+indigenous peoples and other vulnerable groups.
+
+Regarding OP 4.12, ER Program Measures are not expected to result in the displacement of
+peoples and even in impacts because of assets lost. However, it is likely that measures such as
+grazing control, forest planning and zoning, regularizing land tenure, among others,
+occasionally result in minor economic impacts, land acquisition or activity displacement.
+Also, restoration of fire affected ecosystems and the strengthening of Protected Areas
+Management Plans could result in restrictions or limited access to natural resources for
+indigenous peoples and other vulnerable groups depending on those resources for their
+livelihoods.
+
+ER Program Measures also include activities that might affect policies, programs and plans
+affecting the use of natural resources. The ESMF includes specific procedures for assessing
+the appropriate instrument to be applied to such activities (such as a Strategic or Regional
+Environmental Assessment) following the guidelines for the application of Bank safeguard
+policies to Technical Assistance and to Land Use Planning activities.
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in
+the project area:
+No long term impacts due to anticipated future activities in the Program area are expected.
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+impacts.
+The Program design considers the most likely alternative to minimize adverse impacts based
+on the national context. Based on the SESA, CONAF has excluded industrial exotic forest
+plantations from the Program which have been associated with negative environmental and
+social impacts in the past and will focus instead on small and medium native forest owners.
+This is expected to increase the Program?s environmental and social co-benefits, representing
+a paradigm shift from the past forest management model focused on the exotic species timber
+industry towards a more sustainable one.
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+assessment of borrower capacity to plan and implement the measures described.
+To ensure that social and environmental risks are factored in during the implementation of ER
+Program, each proposed ER Program Measure will be screened for its environmental and
+social impacts and appropriate environmental assessment and mitigation measures will be
+implemented based on national Environmental and Social Management Systems (ESMS) and
+World Bank safeguard policies. Given that specific locations for the implementation of ER
+Program Measures are not currently defined, the safeguards procedures will be governed by
+an Environmental and Social Management Framework (ESMF), which sets out environmental
+screening and eligibility criteria, and defines the environmental and social due diligence to be
+followed, including the development of sire-specific plans when needed. The ESMF and its
+instruments, including a Resettlement Policy Framework (RPF) and an Indigenous Peoples
+Planning Framework (IPPF) will guide the ESMS already in place in-country to ensure that
+social and environmental risks are factored in the design and implementation of ER Program
+Measures and related activities in accordance with World Bank Policies.
+
+To support and enhance the land and natural resource management practices of Indigenous
+Peoples, Indigenous Peoples Plans will be based on a natural resource management
+instrument that has been developed by CONAF in a culturally appropriate manner and in a
+participatory way with Indigenous Peoples, namely the Mapuche Intercultural Forest Model
+(Modelo Forestal Intercultural Mapuche - MOFIM) which is tailored to the cultural uses of
+the Mapuche people and applicable between the Regions of Biobio to Los Lagos. With
+regards to involuntary resettlement, CONAF has determined that activities which would
+imply loss of assets will not be eligible to support, while impacts related to economic
+displacement or access restriction to natural resources in legal protected areas are covered by
+a Process Framework.
+
+The ER Program implementing agency will be the Chilean National Forestry Corporation
+(CONAF) responsible for overseeing all forestry activities in the country, including
+management of incentive programs for plantations and native forest management, national
+parks, fire prevention and suppression and environmental impact assessments for activities in
+forest areas. CONAF headquarters are in Santiago, and they maintain a large and diverse staff
+throughout the country in regional and local offices. CONAF is a recognized public institution
+with strong environmental competence. Since 2010, it established an Environmental
+Assessment Unit (DEA, for its acronym in Spanish) in charge of the System of Environmental
+Impact Assessment, Environmental Monitoring and Control, and other responsibilities to
+oversee compliance with current environmental regulations related to the use and
+management of forest resources and xerophytic formations, the conservation of native forests
+and protected areas, and environmental licensing. CONAF has also instituted a Unit of
+Indigenous and Social Affairs (UAIS, for its acronym in Spanish) which focuses on the
+inclusion and participation of indigenous peoples in the formulation and implementation of
+sectoral plans, projects and programs. The UAIS has qualified professionals with ample
+experience on indigenous issues and maintains a local presence in the territories through its
+regional managers.
+
+The Program Implementation Unit (PIU) within CONAF will be placed in the Climate
+Change and Environmental Services Unit (UCCSA, for its acronym in Spanish), which has a
+dedicated technical team at the national level and regional focal points with experience in
+engaging with a broad range of stakeholders in forest activities, including small forest owners,
+indigenous peoples, agricultural communities, and others. Division of roles and
+responsibilities for safeguards implementation will follow the existing national Environmental
+and Social Management Systems (ESMS) in place and clearly described in the ESMF, which
+are considered consistent with World Bank policies. The UCCSA will take on any additional
+safeguards responsibilities that go beyond the specific duties of the DEA and UAIS as
+attributed by national legislation, to fully comply with World Bank safeguard requirements,
+and will be the overall responsible for coordinating safeguard functions under the ER
+Program, including monitoring and reporting of safeguards compliance in progress reports
+submitted to the Bank (at minimum annually), along with monitoring of other aspects of the
+ER Program such as the implementation of the Benefit Sharing Plan. As the key counterpart
+for the Bank?s operations in the forestry sector in Chile (FCPF and GEF), UCCSA has built
+strong capacity in the application of World Bank safeguards policies and coordinating with
+DEA and UAIS in the development of the SESA and the ESMF. Additional capacity and
+financing needs for the application and reporting on the ER Program?s safeguard instruments,
+including the development of site-specific safeguard plans, will be covered through the FCPF
+funds.
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on
+safeguard policies, with an emphasis on potentially affected people.
+As part of the SESA, CONAF carried out extensive consultation activities through workshops
+at the national and regional level with indigenous peoples, small forest owners, civil society,
+the private sector and other key stakeholders in order to consult, receive inputs, and validate
+the ENCCRV. This included: 15 Regional workshops (1,266 participants), one in each region
+of the country, with significant participation from women (37%) and Indigenous Peoples
+(9%); one national workshop (125 participants); a Self-assessment process of the readiness of
+the country (74 participants); a pubic consultation (506 participants); and an Indigenous
+Peoples dialogue and consultation (100 workshops; 1,1813 participants). Details on these
+regional workshops along with testimonial videos are available on line at:
+http://www.enccrvchile.cl.
+
+The ESMF, IPPF, RPF and Process Framework underwent a process of consultation and
+validation from June to December 2017 with key representatives of the stakeholders that
+participated in the SESA process based on a methodology agreed with the Bank. Final
+versions of all the safeguard instruments have been disclosed and are publicly available on the
+websites of CONAF and the World Bank.
+
+During implementation, the ESMF and RPF include a specific section with clear guidelines to
+    perform the free, prior and informed consultation with affected stakeholders involved in the
+    implementation of ER Program Measures, including a minimum list of participatory activities
+    and information to be provided. With regards to Indigenous Peoples, the IPPF establishes that
+    the ENCCRV consultation process will be consistent with Supreme Decree No.66 of the
+    Ministry of Social Development, conforming ILO Convention 169 Article 6 N�1 and N�2
+    as well as IPPF guidelines and requirements (ESMF Annex 5). In addition, the ESMF
+    establishes that ER Program Measures implemented on Indigenous lands and territories will
+    have to conduct a free, prior and informed consultation process resulting in a recorded broad
+    community support of the Indigenous Peoples affected, if they are direct beneficiaries of the
+    Measures proposed.
+
+    In addition, a Feedback, Grievance and Redress Mechanism (FGRM) will be in place during
+    implementation of the ER Program based on CONAF? existing Office of Information,
+    Complaints and Suggestions (OIRS, for its acronym in Spanish). Once activities on the
+    ground are initiated, CONAF will work together with the OIRS of the five ER Program
+    regions to ensure that any complaints are duly recorded and addressed.
+.
+
+
+
+
+    B. Disclosure Requirements
+    Environmental Assessment/Audit/Management Plan/OtherPHEnvDelete
+    Date of receipt by the Bank                                                  17-May-2018
+    Date of submission to InfoShop                                               19-Jun-2018
+    For category A projects, date of distributing the Executive Summary of the
+    EA to the Executive Directors
+    "In country" Disclosure
+    PHEnvCtry
+
+
+
+
+    Chile                                                                  14-Aug-2018
+    Comments:http://www.conaf.cl/nuestros-bosques/bosques-en-chile/cambio-climatico/enccrv/
+    Resettlement Action Plan/Framework/Policy ProcessPHResDelete
+    Date of receipt by the Bank                                                  17-May-2018
+    Date of submission to InfoShop                                               19-Jun-2018
+    "In country" Disclosure
+    PHResCtry
+
+
+
+
+    Chile                                                                  14-Aug-2018
+    Comments:http://www.conaf.cl/nuestros-bosques/bosques-en-chile/cambio-climatico/enccrv/
+    Indigenous Peoples Development Plan/FrameworkPHIndDelete
+    Date of receipt by the Bank                                                  17-May-2018
+    Date of submission to InfoShop                                               19-Jun-2018
+    "In country" Disclosure
+    PHIndCtry
+
+
+
+
+    Chile                                                                  14-Aug-2018
+    Comments:http://www.conaf.cl/nuestros-bosques/bosques-en-chile/cambio-climatico/enccrv/
+         Pest Management PlanPHPestDelete
+         Was the document disclosed prior to appraisal?                             No
+         Date of receipt by the Bank                                                17-May-2018
+         Date of submission to InfoShop                                             19-Jun-2018
+         "In country" Disclosure
+         PHPestCtry
+
+
+
+
+         Chile                                                                  14-Aug-2018
+         Comments:http://www.conaf.cl/nuestros-bosques/bosques-en-chile/cambio-climatico/enccrv/
+         If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+         respective issues are to be addressed and disclosed as part of the Environmental
+         Assessment/Audit/or EMP.
+         If in-country disclosure of any of the above documents is not expected, please explain why::
+
+.
+
+
+
+
+C. Compliance Monitoring Indicators at the Corporate Level
+PHCompliance
+
+
+
+
+     OP/BP/GP 4.01 - Environment Assessment
+     Does the project require a stand-alone EA
+                                                                 Yes    [X]    No        []    NA       []
+     (including EMP) report?
+     If yes, then did the Regional Environment Unit
+     or Practice Manager (PM) review and approve                 Yes    [X]    No        []    NA       []
+     the EA report?
+     Are the cost and the accountabilities for the
+                                                                 Yes    [X]    No        []    NA       []
+     EMP incorporated in the credit/loan?
+PHCompliance
+
+
+
+
+     OP/BP 4.04 - Natural Habitats
+     Would the project result in any significant
+     conversion or degradation of critical natural     Yes               []    No        [X]   NA       []
+     habitats?
+     If the project would result in significant
+     conversion or degradation of other (non-critical)
+                                                       Yes               []    No        []    NA       [X]
+     natural habitats, does the project include
+     mitigation measures acceptable to the Bank?
+PHCompliance
+
+
+
+
+     OP 4.09 - Pest Management
+     Does the EA adequately address the pest
+                                                                 Yes    [X]    No        []    NA       []
+     management issues?
+     Is a separate PMP required?                                 Yes     []    No        [X]   NA       []
+
+     If yes, has the PMP been reviewed and
+     approved by a safeguards specialist or PM?
+                                                                 Yes     []    No        []    NA       [X]
+     Are PMP requirements included in project
+     design?If yes, does the project team include a
+     Pest Management Specialist?
+PHCompliance
+
+
+
+
+     OP/BP 4.11 - Physical Cultural Resources
+     Does the EA include adequate measures related
+                                                         Yes   [X]   No   []    NA    []
+     to cultural property?
+     Does the credit/loan incorporate mechanisms to
+     mitigate the potential adverse impacts on           Yes   [X]   No   []    NA    []
+     cultural property?
+PHCompliance
+
+
+
+
+     OP/BP 4.10 - Indigenous Peoples
+     Has a separate Indigenous Peoples
+     Plan/Planning Framework (as appropriate) been
+                                                        Yes    [X]   No   []    NA    []
+     prepared in consultation with affected
+     Indigenous Peoples?
+     If yes, then did the Regional unit responsible for
+     safeguards or Practice Manager review the          Yes    [X]   No   []    NA    []
+     plan?
+     If the whole project is designed to benefit IP,
+     has the design been reviewed and approved by
+                                                        Yes    []    No   []    NA    [X]
+     the Regional Social Development Unit or
+     Practice Manager?
+PHCompliance
+
+
+
+
+     OP/BP 4.12 - Involuntary Resettlement
+     Has a resettlement plan/abbreviated plan/policy
+     framework/process framework (as appropriate) Yes          [X]   No   []    NA    []
+     been prepared?
+     If yes, then did the Regional unit responsible for
+     safeguards or Practice Manager review the          Yes    [X]   No   []    NA    []
+     plan?
+     Is physical displacement/relocation expected?      Yes    []    No   [X]   TBD   []
+
+     Is economic displacement expected? (loss of
+     assets or access to assets that leads to loss of    Yes   []    No   []    TBD   [X]
+     income sources or other means of livelihoods)
+PHCompliance
+
+
+
+
+     OP/BP 4.36 - Forests
+     Has the sector-wide analysis of policy and
+     institutional issues and constraints been carried   Yes   [X]   No   []    NA    []
+     out?
+     Does the project design include satisfactory
+                                                         Yes   [X]   No   []    NA    []
+     measures to overcome these constraints?
+     Does the project finance commercial
+     harvesting, and if so, does it include provisions   Yes   []    No   [X]   NA    []
+     for certification system?
+    PHCompliance
+
+
+
+
+         The World Bank Policy on Disclosure of Information
+         Have relevant safeguard policies documents
+                                                          Yes                 [X]   No    []   NA   []
+         been sent to the World Bank's Infoshop?
+         Have relevant documents been disclosed in-
+         country in a public place in a form and language
+                                                          Yes                 [X]   No    []   NA   []
+         that are understandable and accessible to
+         project-affected groups and local NGOs?
+    PHCompliance
+
+
+
+
+         All Safeguard Policies
+         Have satisfactory calendar, budget and clear
+         institutional responsibilities been prepared for
+                                                                       Yes    [X]   No    []   NA   []
+         the implementation of measures related to
+         safeguard policies?
+         Have costs related to safeguard policy measures
+                                                                       Yes    [X]   No    []   NA   []
+         been included in the project cost?
+         Does the Monitoring and Evaluation system of
+         the project include the monitoring of safeguard
+                                                                       Yes    [X]   No    []   NA   []
+         impacts and measures related to safeguard
+         policies?
+         Have satisfactory implementation arrangements
+         been agreed with the borrower and the same
+                                                                       Yes    [X]   No    []   NA   []
+         been adequately reflected in the project legal
+         documents?
+
+    V. Contact point
+    World Bank
+          PHWB
+               Contact:Stavros Papageorgiou
+               Title:Environmental Specialist
+          PHWB
+               Contact:Leonel Iglesias Gutierrez
+.
+               Title:Sr Natural Resources Mgmt. Spe
+.
+
+
+          Borrower/Client/Recipient
+          PHBorr
+               Name:Agencia Chilena de Cooperacion Internacional para el Desarrollo (AGCID)
+               Contact:Juan Pablo Lira Bianchi
+               Title:Executive Director
+.
+               Email:agencia@agci.gob.cl
+.
+
+.
+
+
+          Implementing Agencies
+          PHIMP
+               Name:Corporacion Nacional Forestal (CONAF)
+               Contact:Jose Antonio Prado
+               Title:Jefe de la Unidad de Cambio Climatico y Servicios Ambientale
+.
+               Email:jose.prado@conaf.cl
+.
+
+.
+VI. For more information contact:
+.
+
+        The World Bank
+        1818 H Street, NW
+        Washington, D.C. 20433
+        Telephone: (202) 473-1000
+        Web: http://www.worldbank.org/projects
+    VII. Approval
+     Task Team Leader(s):           Name:Stavros Papageorgiou,Leonel Iglesias Gutierrez
+     Approved By:
+     PHNonTransf
+
+
+
+
+     Safeguards Advisor:           Name: Noreen Beg (SA)                      Date: 10-Sep-2018
+     Practice Manager/Manager:     Name: Valerie Hickey (PMGR)                Date: 10-Sep-2018
+     Country Director:             Name:Boris Enrique Utria (CD)              Date:21-Sep-2018
+

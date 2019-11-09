@@ -1,0 +1,133 @@
+﻿                                                                                                     80175
+
+               Global Facility for Disaster Reduction and Recovery (GFDRR)
+                      INTEGRATEDSAFEGUARDSDATASHEET
+                              CONCEPT/APPRAISAL STAGE
+
+
+Date ISDS Prepared/Updated: 7/15/13
+
+I. BASIC INFORMATION
+
+A. Basic Project Data
+
+Country: Global                              I Project ID: Pl45857
+                                             I Additional Project ID (if any):TF014930
+Project Name: GFDRR- CSO Online Mapping Platform
+Task Team Leader: Mr. Prashant
+Estimated Approval Date: 08/31/13        I Estimated Completion Date: 06/30116
+Managing Unit: GFDRR                     I Lending Instrument: RETF
+Sector: Urban & Disaster Risk Management
+Theme: Disaster Risk Management
+
+Other financing amounts by source: N/A
+
+
+
+Environmental Category: Category C
+Simplified Processing             Simple [X]                     Repeater []
+Is this a transferred project      Yes []                       No [X]
+
+
+B. Project Objectives [from Grant Proposal]:
+The project objective is to develop an online platform and to create a sustainable map driven
+information database of civil society disaster risk reduction (DRR) actors to strengthen the
+ability of the DRR community to engage in collaboration, networking, partnerships, shared
+actions and knowledge exchange within the sector and more widely with all actors concerned
+with building resilience to natural hazards.
+The project will create an established online platform and sustainable tool that maps global civil
+society engagement in DRR. This online tool will be developed, housed, and maintained by the
+Global Network of Civil Society Organizations for Disaster Reduction (GNDR). The target
+audience for the online platform is government officials, policy makers, donors, development
+organizations, civil society practitioners, and other stakeholders engaged in DRR.
+The key indicator of success will be the creation of an established online platform and
+sustainable tool that maps global CSO engagement in DRR.
+
+C. Project Description [from Grant Proposal]:
+A RETF Grant will be provided to the Global Network of Civil Society Organizations for
+Disaster Reduction (GNDR) to create an established online platform and sustainable tool that
+maps global civil society engagement in DRR. The platform will be hosted by the network
+within their current web portal and will integrate with existing infrastructure and database of the
+organization.
+The gee-mapping functionality of the site will be delivered using a gee-mapping software
+service called Cartodb. The organization will be responsible for gathering and uploading the
+data. The initial scope of the exercise will be limited to an agreed region(s) and focus countries.
+A 'passive' information gathering phase will be based on requested via existing networks (for
+example GNDR, Preventionweb, ADRRN, CPP, La Red etc) for DRR actors to submit
+information. If properly presented many of these actors will value visibility and identity and will
+therefore have an incentive to submit information online. An 'active' information gathering phase
+will consult with regional and global contacts to 'fill the gaps' which are likely to include INGOs,
+quasi-institutional actors etc. The organization will be responsible for the maintenance of the
+platform and database with the aim that once the platform is established CSOs will value this
+tool and update their organizations information online.
+After project inception the level of resource required for data gathering and validation will be
+monitored during the first month of data gathering and if it is considered realistic this scope will
+be extended based on initial experience.
+
+D. Project location and salient physical characteristics relevant to the safeguard analysis
+(if known):N/A
+
+
+E. Borrower's Institutional Capacity for Safeguard Policies: N/A
+
+
+F. Environmental and Social Safeguards Specialist: N/A
+
+
+II. SAFEGUARD POLICIES THAT MIGHT APPLY
+
+Safe2uard Policies Triggered (please explain why)                   Yes          No         TBD
+Environmental Assessment (OP/BP 4.01)                                            X
+
+Natural Habitats (OP/BP 4.04)                                                    X
+
+Forests (OP/BP 4.36)                                                             X
+
+Pest Management (OP 4.09)                                                        X
+
+Physical Cultural Resources (OP/BP 4.11)                                         X
+
+Indigenous Peoples (OP/BP 4.10)                                                  X
+
+Involuntary Resettlement (OP/BP 4.12)                                            X
+Safeguard Policies Triggered (please explain wily)                                        Yes              No              TBD
+Safety of Dams (OP/BP .4.37)                                                                               X
+
+Projects on International Waterways (OPIB'P 7.50)                                                           X
+
+Projects in Disputed Areas (OP/BP 7.60)                                                                     X
+
+Piloting the Use of Borrower Systems to Address                                                              X
+Environmental and Social Safeguard Issues in Bank-
+Supported Projects (OP/BP 4.00)
+
+
+III. SAFEGUARD PREPARATION PLAN
+
+A. Target date for the Quality Enhancement Review (QER), at which time the PAD-stage ISDS
+   would be prepared: N/A
+
+B. For simple projects that will not require a QER, the target date for preparing the PAD-stage
+   ISDS: N/A
+
+C. Time frame for launching and completing the safeguard-related studies that may be needed.
+   The specific studies and their timing 1 should be specified in the PAD-stage ISDS: N/A
+
+
+IV. APPROVALS
+
+    Si ned and submitted b :
+                                                   Name
+
+    Safeguards Focal Point or Regional             Name                                                               Date
+    Safeguards Coordinator:
+                                                   Stephen F. Lintner, Senior Technical Advisor                  July 30, 2013
+                                                   OPSOR
+
+
+
+
+I   Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the
+InfoShop and (ij) in-country, at publicly accessible locations and in a form and language that are accessible to potentially affected
+persons.
+

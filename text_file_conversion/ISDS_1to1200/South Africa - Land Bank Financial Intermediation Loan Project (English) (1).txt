@@ -1,0 +1,2086 @@
+                                                 96378
+             DISCUSSION PAPER	                    NO. 1502
+
+
+
+
+       Social Protection in Fragile and
+           Conflict-Affected Countries
+                                  Trends and Challenges
+
+Mirey Ovadiya, Adea Kryeziu, Syeda Masood and Eric Zapatero
+
+
+
+
+                                              April 2015
+Social Protection in Fragile and Conflict-Affected Countries:
+                  Trends and Challenges
+
+
+
+
+                       Mirey Ovadiya
+                       Adea Kryeziu
+                       Syeda Masood
+                       Eric Zapatero
+
+
+
+
+                         April 2015
+Abstract: This study examines the role of social protection programming, and programming
+design and implementation features, that are prominent in fragile and conflict-affected states.
+The main objective is to build on existing, available information from a sample of fragile and
+conflict-affected countries and develop operational guidance that addresses policy, design, and
+implementation issues and offers operational solutions for social protection programming and
+policy making in different fragile settings. The analysis showcases the universe of social
+protection objectives that are evident in these countries as well as the programming trends,
+types, coverage, and expenditure patterns. The paper also examines dimensions specific to
+fragile and conflict-affected settings in implementing social protection and labor programs, such
+as social cohesion, the role of community-driven development, and postwar benefits. Finally, the
+study highlights social protection and labor program delivery in seven different country contexts,
+and discusses the country-specific programming options chosen to achieve the objectives and
+overcome capacity and operational constraints.
+
+Keywords: Social protection and labor, fragile and conflict-affected states, capacity, enabling
+environment, social assistance, social insurance, labor market programs, community-driven
+development (CDD), trends, challenges.
+
+JEL classification: H53, H54, I38
+
+
+
+
+                                                2
+                                       Acknowledgments
+
+
+The paper has benefited from valuable advice, inputs and guidance from Lucy Bassett, Carine Clert,
+Aylin Isik Dikmelik, Ugo Gentilini, Samira Ahmed Hillis, Matthew Hobson, Mira Hong, Kelly Johnson,
+Maddalena Honorati, Alex Kamurase, Cem Mete, Montserrat Pallares Miralles, Suleiman Namara,
+Matthew Norton, Junko Onishi, Stefano Paternostro, Nicola Pontara, Lucian Pop, Laura Rolston,
+Nina Rosas Raffo, Anita Schwarz, Victoria Strokova, John Van Dyck, Briana Wilson, Emily Weedon,
+Ruslan Yemtsov, Giuseppe Zampaglione, and Yongmei Zhou. It was developed under the overall
+guidance of Anush Bezhanyan. The document was edited by Nita Congress.
+
+
+
+
+                                                i
+                                    Abbreviations
+
+
+ASPIRE   Atlas of Social Protection—Indicators of Resilience and Equity
+
+CPIA     Country Policy and Institutional Assessment
+
+GDP      gross domestic product
+
+PMT      proxy means testing
+
+
+
+
+                                          ii
+                                                                          Contents
+
+
+1.     Introduction .............................................................................................................................................. 1
+
+2.     Basic Concepts: Social Protection and Fragility ........................................................................................ 2
+
+     2.1.    Social Protection ................................................................................................................................ 3
+
+     2.2.    Characteristics of Fragility ................................................................................................................. 5
+
+     2.3.    Fragility and Poverty .......................................................................................................................... 6
+
+3.     Arriving at a Typology ............................................................................................................................... 8
+
+4.     Trends and Findings on the Role of Social Protection in Fragile and Conflict-Affected Countries ........ 12
+
+     4.1.    Objectives ........................................................................................................................................ 13
+
+     4.2.    Programming Choices ...................................................................................................................... 14
+
+     4.3.    Coverage .......................................................................................................................................... 18
+
+     4.4.    Expenditures .................................................................................................................................... 23
+
+     4.5.    Delivery Mechanisms....................................................................................................................... 27
+
+5.     Highlights of Social Protection Program Delivery in Fragile and Conflict-Affected Countries ............... 29
+
+6.     Conclusions ............................................................................................................................................. 36
+
+7.     Bibliography ............................................................................................................................................ 39
+
+
+
+Box 4.1: Evaluation Results for the Yemeni Social Fund for Development ................................................... 28
+
+
+
+Figure 2.1: Moving from Fragility to Institutional Resilience, Security, Justice, and Jobs ............................... 4
+
+Figure 2.2: Characteristics of Fragile and Conflict-Affected Situations ........................................................... 6
+
+Figure 2.3: The Share of the World’s Poor Living in Fragile States .................................................................. 7
+
+Figure 3.1: Typology of Fragile and Conflict-Affected States........................................................................... 9
+
+Figure 4.1: Total Number of Social Assistance Programs in Fragile and Conflict-Affected Countries, by
+Program Type ................................................................................................................................................. 15
+
+
+                                                                                iii
+Figure 4.2: Total Number of Social Assistance Programs in Fragile and Conflict-Affected Countries, by
+Program Type ................................................................................................................................................. 17
+
+Figure 4.3: Social Assistance and Social Insurance Coverage in Fragile and Conflict-Affected Countries, as a
+Percentage of Total Population ..................................................................................................................... 20
+
+Figure 4.4: Social Assistance and Social Insurance Coverage, as a Percentage of the Poorest Quintile ....... 21
+
+Figure 4.5: Social Insurance Expenditures in Selected Fragile and Conflict-Affected Countries as a
+Percentage of GDP ......................................................................................................................................... 25
+
+Figure 4.6: Share of Safety Net Spending of GDP in Fragile and Conflict-Affected Countries ....................... 27
+
+
+
+Table 4.1: Benefits Incidence of Social Protection in Selected Fragile and Conflict-Affected Countries ...... 19
+
+Table 4.2: Safety Net Spending as a Percentage of GDP in Fragile and Conflict-Affected Countries ............ 26
+
+
+
+
+                                                                               iv
+                                             1. Introduction
+
+
+This discussion paper is the first output under the umbrella of the programmatic work on social
+protection in fragile and conflict-affected states. This work aims to develop operational guidance
+to teams on the likely determinants of effective social protection programming and policy making
+in fragile and conflict-affected settings.
+
+This paper elaborates on the role of social protection programming, and programming design
+and implementation features, that are prominent in fragile and conflict-affected states. In
+particular, the paper describes the universe of social protection objectives in these countries,
+reflects on their revealed objectives, and discusses programming options chosen to achieve those
+objectives as well as how several countries have overcome particular operational and capacity
+constraints.
+
+It is important to understand how social protection works in these settings, which often feature
+a combination of circumstances such as the following:
+
+      Acute poverty either concentrated or widespread (areas affected by conflict have lagged
+       behind) and vulnerability to shocks
+
+      Lack of social cohesion/weak social fabric
+
+      Weak or destroyed infrastructure (physical, financial, etc.)
+
+      Implicit need for conflict management among special groups (e.g., war veterans)
+
+      Implicit need for developing citizen trust in the state
+
+Despite many common characteristics, fragile and conflict-affected states are actually quite
+diverse, particularly with regard to metrics of state capacity and the extent to which they have
+an enabling environment. This paper presents a methodology that has been devised to group
+countries based on income, capacity, and extent of enabling environment. Use of this
+
+
+                                                   1
+methodology will aid in understanding trends, patterns, and key factors in policy making and
+programming choices—good and bad.
+
+
+                       2. Basic Concepts: Social Protection and Fragility
+
+
+One and a half billion people (nearly 30 percent of the world’s poor) live in areas affected by
+fragility, conflict, or large-scale organized criminal violence. To date, no low-income fragile or
+conflict-affected country has achieved a single United Nations Millennium Development Goal.
+While much of the world has made progress in reducing poverty in the last 60 years, areas
+affected by cycles of conflict have lagged economically and have not advanced their human
+development indicators (World Bank 2011h).
+
+Poverty and fragility become mutually reinforcing in such settings. In this regard, “fragility”
+should be recognized as a dynamic and multidimensional concept. Fragility extends over a broad
+spectrum of circumstances that manifest in a range of countries, including Iraq, Malawi,
+Myanmar, Sierra Leone, and Timor-Leste, among others. As suggested in the literature, perhaps
+a better way of approaching fragility is to differentiate among contexts by considering an entity’s
+level of resilience. Resilience is defined (e.g., in OECD 2008 and World Bank 2011h) as a political
+and social system’s capacity to adapt to shocks. Unlike the more amorphous concept of fragility,
+this is a highly useful concept, in that it is more aligned with the process any entity—a person, a
+family, a community, a country—must go through when facing multiple challenges.
+
+One of the main mechanisms to help build resilience and protect the poor and vulnerable is
+context-specific, effective social protection programming. However, it is often the case that ‘‘the
+greater the need for social protection, the lower the capacity of the state to provide it” (Devereux
+2000); this is particularly true in fragile contexts. Government capacity is likely to be even weaker
+in terms of social protection than for social services such as health and education, since line
+ministries often retain some capacity even in postconflict and fragile situations. These realities
+highlight both the need for social protection in fragile and conflict-affected states, as well as the
+difficulties in setting up programs with limited capacity, funding, and—at times—political will.
+
+
+                                                 2
+2.1. Social Protection
+
+By definition, social protection plays an important role in providing income support and access
+to basic social services to populations most at risk of being affected by systemic shocks, such as
+cycles of conflict and violence. In fragile settings in particular, social protection often has a dual
+and simultaneous role of contributing to state building and to reducing social inequalities and
+exclusion. By design, social protection policies can provide income security to individuals through
+income support, access to employment opportunities, and insurance mechanisms. These policies
+then lead to improved social cohesion and reduced probabilities of social conflict and violence.
+Governments often rely on short-term youth employment, entrepreneurship support, and/or
+input or food distribution programs (e.g., as in Iraq, Liberia, Sierra Leone, South Sudan, and Timor-
+Leste), as they realize the political and social significance of these programs in building
+confidence, including disenfranchised groups, and reducing social tensions.
+
+The 2011 World Development Report (World Bank 2011h) argues that strengthening legitimate
+institutions and the ability of a state to provide stability, justice, security, and jobs lessens the
+probability of conflict and fragility. Social protection thus plays an important role in restoring
+confidence; transforming the institutions that provide security, justice, and jobs; addressing
+external stresses; and mobilizing international support to overcome fragility, violence, and
+conflict (figure 2.1). For instance, through the provision of short-term employment to
+disenfranchised individuals, public works programs have the potential to restore a sense of
+identity to individuals and confidence in the ability of the state to deliver services and improve
+social inclusion and equity (Andrews and Kryeziu 2013). This, in turn, contributes to the objective
+of state building.
+
+
+
+
+                                                  3
+      Figure 2.1: Moving from Fragility to Institutional Resilience, Security, Justice, and Jobs
+
+
+
+
+Source: World Bank 2011h.
+
+
+While evidence on the impact of social protection programming and policies on social cohesion
+is scant, international experience suggests that social protection can be an important platform
+for
+
+         Promoting voice and participation through program processes,
+
+         Improving social inclusion and equality through temporary labor market participation,
+          and
+
+         Smoothing social tensions and building trust in response to sudden shocks as well as
+          longer-term fragility (Andrews and Kryeziu 2013).
+
+A recent stocktaking exercise of World Bank–supported community-driven development
+operations implemented in fragile and conflict situations notes that, even though many
+operations do not explicitly have peace-building objectives and emphasize service delivery
+instead, the implicit theory of change is one of short-term service delivery outcomes improving
+voice; instilling trust, confidence, and cohesion; and leading to improved governance and a
+compact between citizens, service providers, and the state (de Regt, Majumdar, and Singh 2013).
+
+
+
+
+                                                  4
+Yet, particularly in emergency situations, immediate relief and long-term social cohesion may be
+contradicted by the need to rebuild the state quickly. Some interventions that may be necessary
+to provide assistance quickly may trigger unintended consequences, inequalities, and tensions.
+Thus, while social protection can make an important contribution toward state building and
+conflict reduction, it must also be acknowledged that not every type of social protection program
+or policy can or does contribute effectively, and in a timely manner, to these objectives.
+
+There is much to be learned about social protection in fragile states, particularly in the move
+away from fragmented programs and toward effective institutions and systems. Many
+operational challenges remain. For example, quite a number of fragile countries may have long-
+standing, politically difficult-to-revoke social protection policies that are ineffective, regressive,
+and benefit very small and/or fairly well-off populations; or that may have spawned a plethora
+of small and fragmented programs that do not inform or complement one another. Common
+logistical issues include low coverage, high costs, information gaps, and poor administrative
+infrastructure and physical settings.
+
+2.2. Characteristics of Fragility
+
+The World Bank categorizes countries as fragile if they have a harmonized average Country Policy
+and Institutional Assessment (CPIA) rating of 3.2 or the presence of a United Nations and/or
+regional peace-keeping or peace-building mission during the past three years. A total of 36
+countries constituted the list of fragile states in 2014. They are generally characterized by weak
+institutional capacity, weak governance structures, fragmented societies and competing elites, a
+tendency to repeated cycles of conflict, poor infrastructure, poor access to services, often very
+high poverty and vulnerability to multiple sources of shocks, and weak financial capacity (figure
+2.2). They also often have non-inclusive political and economic institutions (Acemoglu and
+Robinson 2012).
+
+
+
+
+                                                  5
+              Figure 2.2: Characteristics of Fragile and Conflict-Affected Situations
+
+                                                           Poor            Weak financial
+                                                      infrastructure         capacity
+
+                                           Weak                                             Poor access to
+                                         governance                                           services
+
+
+
+                              Low
+                                                                                                         Fragmented
+                         institutional
+                                                                                                           societies
+                           capacity
+
+
+
+                                                          Fragile &                                          Non-inclusive
+                   High poverty                           conflict-                                          political and
+                       and
+                                                          affected                                             economic
+                   vulnerability
+                                                                                                              institutions
+                                                           setting
+
+
+Source: Adapted from World Bank 2012a.
+
+
+Although many non–fragile and conflict-affected countries may face most of these issues, what
+exacerbates the situation in fragile and conflict-affected settings is that deficiencies exist across
+multiple issues at the same time and the deficiencies are mutually reinforcing (Andrews et al.
+2012). In these environments, building social protection systems requires an analysis of the
+above constraints, as well as of context-specific challenges to identify suitable objectives and
+solutions. It is important to analyze how a combination of various fragile and conflict-affected
+country characteristics affects the needs of the population, the universe of possible policy and
+programming responses, and—ultimately—the trajectory to building social protection systems
+in different settings.
+
+2.3. Fragility and Poverty
+
+Recent analysis of global poverty trends suggests that poverty is increasingly becoming an issue
+closely associated with fragility (Chandy and Gertz 2011; Sumner 2012). High prevalence of
+poverty in fragile states is a by-product of fragility, but it is also a cause of fragility. This conclusion
+is consistent with the 2011 World Development Report’s finding that the gap in poverty is
+widening between those countries affected by violence and other countries (World Bank 2011h).
+The poor are disproportionately found in fragile states, regardless of the list of fragile states used
+(i.e., the Fund for Peace’s Fragile States Index or the World Bank’s Harmonized List of Fragile
+
+                                                                       6
+Situations). It is estimated that while less than one-fifth (about 18.5 percent) of the world’s
+population lived in fragile states in 2010, these countries hosted about one-third of the world’s
+poor (400 million out of 1.2 billion). This makes for a more than twofold difference in the
+prevalence of poverty between fragile states and nonfragile states: about 40 percent compared
+to 20 percent (OECD 2013; Sumner 2012).1 This trend is likely to continue (figure 2.3).
+
+                      Figure 2.3: The Share of the World’s Poor Living in Fragile States
+
+
+
+
+Source: Chandy and Gertz 2011.
+
+
+As expected, human development indicators in fragile contexts are some of the worst. “No fragile
+country has yet achieved a single MDG [Millennium Development Goal], and fragile states are
+home to half of all children not in primary school and half of all children who die before reaching
+their fifth birthday” (Chandy and Gertz 2011). As the list of fragile and conflict-affected states and
+territories covers a broad spectrum from low income to middle income, the nature of poverty is
+quite varied. However, vulnerabilities are more acute for children and women in most of these
+settings. Child poverty and malnutrition are very high, often resulting in increased morbidity and
+
+
+
+
+1
+    These calculations are based on a list of fragile countries in the “Alert” category of the Fragile States Index.
+
+                                                              7
+poor educational outcomes. A third group that is most affected is youth, a demographic
+comprising large numbers of working-age populations in many fragile and conflict-affected
+countries.
+
+
+                                           3. Arriving at a Typology
+
+
+To more precisely characterize social protection programming in fragile and conflict-affected
+settings, the universe of fragile and conflict-affected states, as listed by the World Bank in its
+2014 Harmonized List of Fragile Situations, was divided into five different clusters.2 Figure 3.1
+illustrates these groupings. The two key variables used to map the clusters are
+
+        Capacity, which is here approximated by (1) the CPIA index, which rates countries against
+         a set of 16 criteria in four clusters: economic management, structural policies, policies for
+         social inclusion and equity, and public sector management and institutions; and (2)
+         country per capita income, grouped according to 2012 gross national income per capita,
+         calculated using the World Bank Atlas method;3 and
+
+        Enabling environment, approximated by the Corruption Perception Index.
+
+Other measures, including resource wealth and net developmental assistance (i.e., official
+development assistance) as a percentage of gross national income, and the Organisation for
+Economic Co-operation and Development/Development Assistance Committee International
+Network on Conflict and Fragility classification of fragile and conflict-affected countries,4 have
+also been factored into the cluster analysis.
+
+
+
+
+2 The classification was arrived at based on (1) cluster analysis of the fragile and conflict-affected country data set
+(using STATA), (2) updates based on recent political and economic developments from the literature, and (3) the
+team’s judgment on countries’ overall positions vis-à-vis their capacity and enabling environment.
+3 The groups are low income, $1,035 or less; lower middle income, $1,036 –$4,085; upper middle income, $4,086 –
+
+$12,615; and high income, $12,616 or more.
+4 This classification is as follows:
+
+
+
+
+                                                           8
+                      Figure 3.1: Typology of Fragile and Conflict-Affected States
+
+
+
+
+Note: The typology represents the authors’ rendition based on (1) a cluster analysis of the fragile and conflict-
+affected country data set (using STATA), (2) updates based on recent political and economic developments from
+the literature, and (3) the team’s judgment on countries’ overall positions vis-à-vis their capacity (using the CPIA
+index as a proxy) and the enabling environment. Resource-rich countries are determined based on wealth in
+hydrocarbons and/or minerals.
+
+
+
+
+(1) Deterioration (deteriorating governance environment/ongoing conflict): States where the ability (or willingness)
+of the state to perform its functions is in decline. This poor performance frequently springs from chronic low
+capacity and is often associated with very weak rule of law and territory beyond the control of government. These
+countries are often experiencing conflict or are highly vulnerable to conflict.
+(2) Prolonged crises or impasse (arrested development): States that fail to use their authority for pro-poor
+outcomes. The state’s ability to exert its will might be very weak, or very strong donors are typically unwilling to
+deal with the state directly.
+(3) Postconflict/crisis or political transition: The states offer a window of opportunity for stakeholders to work
+together with government on a program of reform. However, the transition is fragile, with the prospect of return
+to conflict remaining high.
+(4) Early recovery/gradual improvement: Countries where some effort is being made to improve performance but
+where performance is patchy. These countries might be postconflict or countries where conflict is not the primary
+driver. Often, there is no strong leadership championing reform within government, and capacity to implement
+reforms is weak.
+Frequently, countries can move from one category to another in a short amount of time.
+http://www.gsdrc.org/go/fragile-states/chapter-1--understanding-fragile-states/definitions-and-typologies-of-
+fragile-states
+
+                                                          9
+Cluster A: The first group comprises countries with relatively high administrative capacity,
+lower/upper-middle-income status, and a weak enabling environment. Countries are
+characterized by recent or ongoing political conflict, violence, or instability. Iraq, Syrian Arab
+Republic (resource rich), and West Bank and Gaza are included in Cluster A.
+
+Cluster B: The second group consists of countries with low capacity, low income, and a weak
+enabling environment. Countries may still be in conflict and/or move in and out of conflict with
+certain regions/territories outside government control or weak rule of law, and highly fragile due
+to institutions’ weakness. This group includes Afghanistan, the Central African Republic, Chad,
+and South Sudan (resource rich); and Haiti and Somalia (resource poor).
+
+Cluster C: The third group is a set of countries with medium capacity and average (or medium)
+enabling environment. This is a mixed group with countries that may have faced sporadic
+violence due to prolonged political impasse, or sporadic conflict. This group includes Côte
+d’Ivoire, Mali, Sudan, and the Republic of Yemen (resource rich); and Nepal and Zimbabwe
+(resource poor).
+
+Cluster D: The fourth group comprises relatively higher-income countries (i.e., lower-middle
+income), with relatively high administrative capacity and a strong enabling environment. Among
+the countries in this cluster are Bosnia and Herzegovina and Kosovo.
+
+Cluster E: The final group includes two subsets of countries based on their resource status, all of
+which are low capacity and have a relatively strong enabling environment. Countries may have
+been out of conflict over an extended period yet still face a variety of governance challenges. The
+countries in the resource-rich group include Burundi, Republic of Congo, Madagascar, Sierra
+Leone, Timor-Leste, and Togo; the resource-poor group includes Comoros, Malawi, Myanmar,
+and the Solomon Islands.
+
+Countries classified as having a weaker enabling environment in the typology (mainly Clusters A
+and B) also have a higher total ranking in the 2013 Fragile States Index. Fragile and conflict-
+affected countries are generally characterized as facing numerous demographic, economic, and
+social pressures. In terms of demographic pressures (including high population density relative
+
+                                                10
+to the availability of food, settlements that restrict human freedoms, border disputes and
+occupied lands, skewed population distributions, natural disasters, epidemics, and
+environmental hazards), most fragile and conflict-affected countries have a ranking of 8 or above
+in the Fragile States Index—e.g., Chad, 9.5; Haiti, 9.6; and Sierra Leone, 9. By way of contrast, the
+nonfragile states of the United Kingdom and the United States have rankings of 2 and 3,
+respectively. Not surprisingly, most fragile and conflict-affected countries suffer from uneven
+development (with real or perceived economic and social disparities), weak human rights
+records, highly (or completely) illegitimate governments, and weak and divided political ruling
+elites.
+
+Using the typology, this paper intends to contribute to the discussion on social protection policy
+making in fragile and conflict-affected countries by presenting some of the trends and challenges.
+Going forward, some of these experiences will be further studied and developed in-depth to
+identify key processes and factors that can lead to successful social protection programming and
+policies.
+
+The analysis in section 4 is based on a review of experiences of a representative sample of fragile
+and conflict-affected countries. The sample was chosen from data available in the World Bank’s
+ASPIRE (Atlas of Social Protection: Indicators of Resilience and Equity) database. The analysis
+describes the mix of social protection policies and programming, delivery mechanisms, and likely
+determinants of success in delivering or scaling up social protection programming in fragile and
+conflict-affected countries. The trends presented are based on analysis done using available data
+in ASPIRE for a group of fragile and conflict-affected states and supplemental research on seven
+countries.
+
+The analysis should be caveated by noting the scarcity of data and empirical evidence on social
+protection across fragile and conflict-affected countries, including labor force surveys and
+poverty and demographic data. Accurate or up-to-date data on total national expenditures on
+social protection are also unavailable, mostly due to the fragmented and externally sourced
+nature of social protection in fragile and conflict-affected countries. Finally, and perhaps most
+importantly, it should be noted that social protection programming in fragile and conflict-
+
+                                                 11
+affected countries could greatly benefit from rigorous impact evaluations on those interventions
+that have been successful in reaching their objectives.
+
+
+   4. Trends and Findings on the Role of Social Protection in Fragile and Conflict-Affected
+                                           Countries
+
+
+Social protection programs and policies in fragile and conflict-affected settings occupy an
+especially broad spectrum, balancing short-term emergency needs (i.e., in response to conflict
+or natural disaster) with longer-term needs of reducing chronic poverty and inequality.
+
+Though interest exists in building systems, most social protection interventions in fragile and
+conflict-affected countries remain somewhat ad hoc and opportunistic. The World Bank’s social
+protection assessment review reveals that, in most low-income countries, there are serious
+challenges at the policy level to strategic visioning, often entailing a lack of coordination
+mechanisms and high dependency on donor funding (Honorati and Rodriguez forthcoming). In
+addition, the majority of programs are fragmented by design, with poor administrative linkages
+between them. Across all 36 fragile states, there is a noticeable trend in social protection
+programming toward cash transfers, public works, and skills development programs/self-
+employment support; maintained support for community-based services; and a shift away from
+in-kind interventions. The balance between social assistance and social insurance varies, but
+social insurance is much lower on average.
+
+Research suggests that the composition of social protection is not static, and the mix of
+programming and the emphasis of social protection changes with shifts in the degree of fragility
+and the distance from conflict. The typology captures a snapshot in time; transitions continually
+occur, and there is steady movement between the various clusters as emergencies recur. This
+fluidity is most apparent in Clusters A and B, but is also observable in the other clusters in
+response to multiple and arising challenges such as Ebola, weather events, political upheavals,
+and others.
+
+
+
+
+                                               12
+4.1. Objectives
+
+Social protection objectives in fragile and conflict-affected settings are multifaceted. Although
+the primary objective of social protection is to protect the individual against life events/risks and
+economic and other shocks, in fragile and conflict-affected settings, social protection
+interventions are used—often following a conflict period—to reduce social tensions, promote
+social cohesion and social inclusion, and serve as a peace dividend for certain parts of the
+population. Social cohesion in this context is associated with sustaining peace and social stability
+in a country with a history of conflict; social inclusion means supporting groups that have
+historically been marginalized. There are noticeable differences in the social protection
+objectives of high- and low-capacity countries (as per the typology developed above) as well. In
+high-capacity countries (Clusters A, D, and to some degree C), the scope of social protection is
+broader and used as a platform to develop a rights-based social contract between the citizens
+and the state. In low-capacity states, social protection has a more limited scope and mostly serves
+to help the poor and vulnerable. Similarly, in resource-rich countries with low capacity and low
+income per capita, social protection policies often seem to be used to maintain social stability.
+
+In Cluster D countries (high capacity and strong enabling environment), social protection has a
+strong legal basis and is viewed as a right. For example, Kosovo provides a noncontributory
+pension to all its citizens over the age of 65 regardless of whether they are rich or poor. Cluster
+E countries (low capacity and strong enabling environment) mostly use social protection for
+supporting the most vulnerable. Togo, for example, spends 59 percent of its social protection
+expenditures on food and in-kind transfers. In resource-rich Cluster E countries, social protection
+is used to promote social cohesion.5 In Timor-Leste, most of the social protection spending goes
+
+
+
+
+5
+  The 2010 International Institute of Social Studies’ Indices of Social Development, which are measures of social
+cohesion and fragility, illustrate that fragile and conflict-affected countries have lower civic activism scores (and in
+turn, lower awareness and information on political processes) than nonfragile developed states, among other
+measures (http://www.indsocdev.org/). The range of civic activism scores is between 0.41 in Chad (a low-capacity
+country with a weak enabling environment) to 0.51 in Bosnia and Herzegovina (a high-capacity country with a
+strong enabling environment). This finding reflects the fact that civil societies in fragile and conflict-affected
+countries have a lower level of engagement in civic activities, such as peaceful protests. In terms of intergroup
+
+
+                                                           13
+to provide cash transfers to volatile groups such as the veterans of the freedom struggle. In
+Cluster C countries (moderate capacity and average enabling environment), social protection is
+mostly used for social inclusion. For instance, Nepal provides social assistance to low-caste
+individuals and widows, both historically marginalized groups. The Republic of Yemen, a
+resource-rich Cluster C country, has used social protection to maintain social and political
+stability. The government has been reluctant to abolish the financially unsustainable petroleum
+subsidies, because any indication of doing so triggers protests. In addition, it has substantially
+scaled up the Social Welfare Fund, a cash transfer program, in the aftermath of the anti-
+government protests and crisis in 2011/12. In countries with weak enabling environments
+(Clusters A and B) which face sudden bursts of violence or political turmoil, social protection is
+still fairly strongly associated with emergency humanitarian aid; in Cluster A countries with higher
+capacity, there is a more noticeable transition or attempts toward systematic social protection
+approaches. For example, West Bank and Gaza have been progressively transitioning from in-
+kind to cash transfers and to better delivery systems such as registries, targeting, and payment
+systems.
+
+4.2. Programming Choices
+
+Overall, fragile and conflict-affected states tend to have a stronger focus on social assistance
+than any other type of social protection programming, though there are notable cases—such
+as Kosovo, Nepal, and West Bank and Gaza—where more is spent on social insurance than on
+social assistance. Social insurance coverage is typically limited to public sector employees or the
+unemployed. Within social assistance, most of the fragile and conflict-affected countries
+analyzed in this programmatic work have unconditional cash transfer programs or in-kind
+assistance programs with categorical benefits being prominent. A few countries also have cash
+transfer programs with soft conditionalities in place. Labor programs are scarce and serve very
+
+
+
+
+cohesion, fragile and conflict-affected countries are very heterogeneous. This is because the index measures the
+probability of violence and terrorism in the country; thus, a fragile and conflict-affected country with recent or
+ongoing violence such as Iraq has a very low score (0.18), while Togo has a rating (0.72) on a par with the United
+Kingdom and the United States.
+
+                                                         14
+few people. They have a narrow focus on public works, employment, or entrepreneurship
+support programs; and a very limited focus on job brokerage or formal employment services.
+
+As shown in figure 4.1, food, in-kind, or near-cash programs are most prominent in fragile and
+conflict-affected countries, followed by public works and cash transfers.
+
+    Figure 4.1: Total Number of Social Assistance Programs in Fragile and Conflict-Affected
+                                 Countries, by Program Type
+
+                                                                                                   Zimbabwe
+                                                                                                   Yemen, Rep. c
+                                                                                                   West Bank & Gaza
+        40
+                                                                                                   Togo
+                                                                                                   Timor-Leste
+        35                                                                                         Syria
+                                                                                                   South Sudan
+        30                                                                                         Solomon Islands
+                                                                                                   Sierra Leone
+        25                                                                                         Nepal
+                                                                                                   Mali
+                                                                                                   Malawi
+        20                                                                                         Madagascar
+                                                                                                   Kosovo
+        15                                                                                         Iraq
+                                                                                                   Haiti
+        10                                                                                         Cote D'ivoire
+                                                                                                   Congo, Rep
+         5                                                                                         Comoros
+                                                                                                   Chad
+                                                                                                   Central Afr. Rep.
+         0                                                                                         Burundi
+             Food and near cash       PW                UCT                CCT
+                                                                                                   Bosnia & Herz.
+              (conditional and                                                                     Afghanistan
+               unconditional)
+
+Sources: World Bank 2014e, annex 5; and readily available information on ASPIRE for fragile and conflict-affected
+countries.
+
+
+Further insights on the dynamics of social protection programming emerge on analyzing coverage
+by program type:
+
+        Cash transfers are most prevalent among Cluster D countries, which have high
+         capacity/strong enabling environments; they are also common in Cluster A countries,
+         which have challenging environments of current or partial conflict.
+
+        In high-capacity countries with strong enabling environments (Cluster D), social
+         protection is largely systematic and delivered through a few social assistance programs
+         and social insurance. For example, in Kosovo, the basic pensions program covers almost
+
+                                                        15
+    all of the targeted population (over the age of 65), in line with the concept of the program
+    being a citizenship right provided by the state.
+
+   Other social assistance (primarily subsidies for fuel and food) is most prevalent among
+    resource-rich countries in Cluster C (e.g., Sudan and the Republic of Yemen).
+    Nevertheless, In Cluster C (moderate capacity and average enabling environment), a
+    number of countries appear to be moving toward cash transfers as the preferred method
+    of social assistance despite a continued reliance on subsidies. The Republic of Yemen
+    recently and considerably expanded its Social Welfare Fund—which provides
+    unconditional cash transfers to the elderly, orphans, and other vulnerable groups—from
+    100,000 beneficiaries in 1996 to 7 million in 2011. On the other hand, coverage of
+    subsidies appears to be three times higher than any other social assistance program
+    (figure 4.2).
+
+   School feeding/in-kind assistance is most prevalent among Cluster E countries comprised
+    of primarily low-income, low-capacity countries with low human development indicators.
+    These countries have also successfully used community structures to provide social
+    assistance to target populations. The village chiefs in Timor-Leste are instrumental in
+    helping with beneficiary selection; in Togo, an already existing social institution of
+    femmes-mamans has been used to deliver food for the school feeding program. Both
+    Sierra Leone and Togo have active community-driven development programs.
+
+
+
+
+                                            16
+Figure 4.2: Total Number of Social Assistance Programs in Fragile and Conflict-Affected
+                             Countries, by Program Type
+
+         Average Coverage (%) - Cash Transfer                             Average Coverage (%) - Other
+                                                                               Social Assistance
+    6
+                                                              14
+    5                                                         12
+    4                                                         10
+                                                                  8
+    3
+                                                                  6
+    2                                                             4
+    1                                                             2
+                                                                  0
+    0                                                                      Cluster C      Cluster E    Cluster B
+         Cluster D Cluster A Cluster C Cluster E Cluster B
+
+
+
+
+           Average coverage (%)- School Feeding/                            Coverage (%) - Public Works or Cash for
+                         In Kind                                                             Work
+20
+                                                                      8
+
+15                                                                    6
+
+                                                                      4
+10
+                                                                      2
+    5                                                                 0
+                                                                              Cluster B        Cluster C       Cluster E
+    0
+         Cluster E   Cluster A    Cluster C   Cluster B
+
+
+
+
+       In countries with weak enabling environments (Clusters A and B) and those prone to
+        frequent emergencies, infrastructure breakdown, and dysfunctional markets, social
+        protection is largely in the form of in-kind social assistance. Haiti has a Targeted Nutrition
+        Program in place, which provides food-based assistance to the vulnerable. Numerous
+        countries in Clusters B, C, and E (e.g., Afghanistan, Madagascar, Sierra Leone, South
+        Sudan, Togo, and the Republic of Yemen), which have lower capacity settings, make use
+        of community structures to deliver social protection—in particular, to facilitate access to
+        services and to implement public works, livelihood support, or school feeding programs.
+
+        Such approaches have supported significant postdisaster reconstruction efforts, and have
+        helped shape new dynamics at the community level by working to restore social cohesion.
+
+                                                             17
+       Sierra Leone’s community-driven development project assisted fragile and vulnerable
+       war-affected communities in reducing poverty and building local capacity for collective
+       action, thereby contributing to the country’s stability, peace, and sustainable growth. In
+       the Republic of Yemen, under the Social Fund for Development, 4.5 million poor and
+       vulnerable individuals (representing 65 percent of the population living in extreme
+       poverty) benefited from over 2,000 community projects. Among the positive impacts
+       were an increase in girls’ schools, an increase in enrollment rates, improved access to
+       rural roads, and reduced travel costs and times. Through Afghanistan’s National Solidarity
+       Program, community development councils allocated funds to rebuild infrastructure,
+       repair schools, and install water pumps to the benefit of over 13 million people
+       countrywide, promoting the state’s credibility and local governance.
+
+      Regarding labor market interventions, about half of all countries and territories in fragile
+       situations (19 out of 36 on the 2015 list) have some type of youth employment programs
+       in place. Globally, 62 youth employment programs out of 733 (8 percent) are in fragile
+       and conflict-affected states. These interventions are most commonly used in Africa and
+       the Middle East and North Africa, and have a strong focus on skills training and
+       entrepreneurship promotion.
+
+4.3. Coverage
+
+Typically, fragile and conflict-affected countries suffer from low coverage of social protection
+programs; this is particularly true for social insurance and labor market programs. A high
+percentage of the population in these countries generally lives below the poverty line, and access
+to services is often limited. Moreover, usually due to less-than-optimal targeting mechanisms, a
+high number of benefits accrue to the nonpoor. This last is borne out by ASPIRE data: the global
+average for benefit incidence for the poorest quintile for all social protection is calculated at
+about 23 percent; among fragile and conflict-affected countries, it is only about 14 percent (table
+4.1). The remainder of this section examines trends in coverage of social assistance and social
+insurance programs in fragile and conflict-affected countries, using data from ASPIRE where
+available.
+
+                                                18
+  Table 4.1: Benefits Incidence of Social Protection in Selected Fragile and Conflict-Affected
+                                           Countries
+
+                                        Benefits incidence in    Benefits incidence in   Benefits incidence in
+                                        poorest quintile (%)     poorest quintile (%)    poorest quintile (%)
+ Country/economy                         all social assistance    all social insurance   all social protection
+ Afghanistan                                    8.24                     3.76                    7.02
+ Bosnia and Herzegovina                         30.58                   14.13                   14.63
+ Iraq                                           17.93                   10.18                   12.22
+ Kosovo                                         43.38                   19.02                   25.35
+ Malawi                                         6.44                     0.57                    2.88
+ Mali                                            —                       0.47                    0.47
+ Nepal                                          15.76                    0.94                    6.24
+ Timor-Leste                                    1.39                      —                      1.32
+ West Bank and Gaza                             63.65                   45.30                   62.57
+ Yemen, Rep.                                    19.08                   17.15                   10.96
+ Average                                        22.90                   12.30                   14.30
+
+Source: ASPIRE data retrieved January 2015.
+
+
+On average, coverage of social protection programs in fragile and conflict-affected settings is
+around 27 percent, compared to a global average of 43 percent. Note, however, that this rate
+can be misleading, as there is large variation within and between social insurance and social
+assistance programs. Overall, coverage of social insurance lags that of social assistance (figure
+4.3), and the poor are more likely not covered by either social assistance or social insurance
+schemes. Bosnia and Herzegovina and Kosovo are the main exceptions in this regard, primarily
+due to their inheritance of the Yugoslav pension schemes. In Iraq, which has social assistance
+coverage of 80 percent, universal food vouchers account for the high coverage rate.
+
+
+
+
+                                                        19
+  Figure 4.3: Social Assistance and Social Insurance Coverage in Fragile and Conflict-Affected
+                          Countries, as a Percentage of Total Population
+
+  90
+  80
+  70
+  60
+  50
+  40
+  30
+  20
+  10
+   0
+
+
+
+
+                Coverage of SA- % total population          Coverage of SI- % total population
+
+
+
+Source: ASPIRE data retrieved January 2015.
+Note: Coverage data corresponds to different years for each country/economy, as follows: Afghanistan, 2007;
+Bosnia and Herzegovina, 2007; Republic of Congo, 2005; Côte d’Ivoire, 2002; Haiti, 2001; Iraq, 2006; Kosovo, 2006;
+Madagascar, 2010; Malawi, 2010; Nepal, 2010; Sierra Leone, 2011; Timor-Leste, 2007; West Bank and Gaza, 2007;
+and Republic of Yemen, 2005.
+
+
+Figure 4.4 goes one step further in explaining the low coverage of the poor in fragile and conflict-
+affected countries. Looking at the poorest quintile of the population, of the 14 countries included
+in the figure, 10 have social assistance coverage of less than 30 percent. The range of social
+insurance spending is from 0 to 48 percent, with nine countries spending less than 10 percent,
+for an average of 3 percent.
+
+For fragile and conflict-affected states, it is not uncommon to see such low coverage of social
+insurance, given the relatively small percentage of the population in formal employment and the
+unavailability of contributory social protection schemes beyond the civil service (which accounts
+for a small percentage of the total population). Also, there are often large information and
+
+                                                       20
+capacity gaps mitigating effective maintenance of such systems; moreover, records are lost
+during conflict/fragile situations, and the organizations and institutional settings tend to be
+damaged. Especially in Middle East and North African fragile and conflict-affected countries,
+where social insurance schemes exist, they impose an enormous financial burden. Consequently,
+the schemes tend to have low coverage, be fragmented, yet still account for a high level of
+spending—for example, in West Bank and Gaza, pension schemes equal 4 percent of gross
+domestic product (GDP), and cover only 15 percent of the population.
+
+  Figure 4.4: Social Assistance and Social Insurance Coverage, as a Percentage of the Poorest
+                                             Quintile
+
+    90
+    80
+    70
+    60
+    50
+    40
+    30
+    20
+    10
+     0
+
+
+
+
+                   Coverage of SA- poorest quintile (%)        Coverage of SI- poorest quintile (%)
+
+
+Source: ASPIRE data retrieved January 2015.
+Note: Coverage data corresponds to different years for each country/economy, as follows: Afghanistan, 2007;
+Bosnia and Herzegovina, 2007; Republic of Congo, 2005; Côte d’Ivoire, 2002; Haiti, 2001; Iraq, 2006; Kosovo, 2006;
+Madagascar, 2010; Malawi, 2010; Nepal, 2010; Sierra Leone, 2011; Timor-Leste, 2007; West Bank and Gaza, 2007;
+and Republic of Yemen, 2005.
+
+
+Among the countries analyzed, key determinants of social protection coverage are level of
+administrative capacity and government policy/vision. For instance, in Sierra Leone (Cluster E), a
+country classified as a low-capacity setting with a relatively strong enabling environment, the
+government established a series of social assistance programs to address the most urgent needs
+of the population following the decade-long civil war. The programs, however, suffer from low
+
+                                                          21
+coverage, high leakage, and inefficient administration. Programs remain small, underfunded, and
+highly dependent on donors. Similar experiences are evident in Nepal, where the government
+has not been able to consolidate programming and prevent the inclusion of the nonpoor in social
+assistance programs.
+
+In contrast, in West Bank and Gaza (Cluster A), with a high capacity and a very weak enabling
+environment, 16 existing social safety net programs cover more than half of the poorest
+quintile—a rate above the world average. The West Bank and Gaza’s cash transfer program,
+which uses a proxy means testing (PMT) formula to ensure greater inclusion of the poor, reached
+65 percent of the poor population in 2013 (97,000 households). The World Food Programme also
+distributes food aid to about 800,000 beneficiaries, with the help of the Ministry of Social
+Assistance and other nongovernmental organizations; this accounts for nearly a third of all safety
+net spending. In Kosovo, another high-capacity case, coverage is relatively high for social
+insurance/pensions, with the basic pension reaching 35 percent of the population. However, the
+country lags with regard to social assistance and labor programs: social assistance reaches 11
+percent of the entire population, and 30 percent of the poorest quintile (Gassmann and Roelen
+2009).
+
+Timor-Leste (Cluster E) and the Republic of Yemen (Cluster C) (low capacity–strong enabling
+environment, and medium capacity–average enabling environment, respectively) have also
+managed to cover larger portions of their populations. In the Republic of Yemen, the Social
+Welfare Fund reaches close to 7 million beneficiaries or 1.5 million households, which represents
+7 percent of the population. In Timor-Leste, 53 percent of the population receives some sort of
+social assistance. However, in both countries, the benefits tend to accrue more to the nonpoor.
+In the Republic of Yemen, 70 percent of the beneficiary population was not in the intended target
+group; of these untargeted beneficiaries, 75 percent were not classified as poor. Similarly, in
+Timor-Leste, the three major social assistance programs fail to reach 60 percent of the bottom
+two quintiles. Thus, inefficient targeting (to undeserving or unintended groups) in social
+protection programming remains a serious issue, even in fragile and conflict-affected countries
+where coverage is relatively high.
+
+
+                                               22
+4.4. Expenditures
+
+Trends. Most fragile and conflict-affected countries—especially those with low capacity and
+those that lack natural resource wealth—rely on external funding for social protection. This
+dependency raises concerns regarding the financial sustainability of social protection in such
+countries. Some high- and medium-capacity countries like Kosovo (Cluster D) and Nepal (Cluster
+C) or resource-rich countries like Timor-Leste (Cluster E) are the exceptions to this generalization.
+
+The majority of fragile and conflict-affected countries also direct a large proportion of social
+protection expenditures to social insurance programs and categorical benefits, though the
+coverage of these programs remains low with poor benefit incidence, as shown above. Social
+insurance programs, in particular, can be regressive in many fragile and conflict-affected
+countries because they cover civil servants (sometimes solely) and, in high-capacity countries,
+formal sector employees; these are typically nonvulnerable groups. In fragile and conflict-
+affected countries with an aging covered population, the cost of social insurance will rise quickly
+and soon. The coverage of pension systems in most fragile and conflict-affected countries
+remains overwhelmingly low, and the populations are predominantly young. This combination
+leads to pension system dependency ratios (beneficiaries/contributors) that are fast increasing.
+Although the rationale behind social assistance programs and subsidies in fragile and conflict-
+affected countries—as in many other countries—is that they would support vulnerable groups,
+the nonpoor benefit disproportionately, making these programs and expenditures highly
+regressive and ineffective. Nonetheless, they fulfill political and social objectives.
+
+Sources of financing. In Kosovo, a Cluster D country (high capacity and strong enabling
+environment), the government budget finances social protection schemes apart from the social
+insurance program, which is funded by employers (Including the government for public sector
+employees) and employee contributions. These schemes constitute 5.8 percent of GDP, which is
+almost the same as the global average at 6 percent. Cluster E (low capacity and strong enabling
+environment) consists of both resource-rich and resource-poor countries. Timor-Leste, a
+resource-rich country, funds all social protection programming through its $7 billion petroleum
+fund. Togo a resource-poor country, funds only 25 percent of its social protection programming
+
+                                                 23
+through its own revenues. In Cluster D (low capacity and weak enabling environment) countries,
+most social protection programming is externally funded and off budget, as in Haiti. In Cluster A
+countries (high capacity and weak enabling environment), social protection financing is mixed:
+ranging from, e.g., West Bank and Gaza with a high dependence on external sources to Iraq,
+which has less dependency. Nevertheless, spending is within a budget framework and
+concentrated around national programs.
+
+Remittances. Overall, empirical evidence suggests that remittances represent an important
+source of income for many fragile and conflict-affected households, and that the impact of
+changes in remittances due to shocks (such as a conflict) can be large, at least for those
+households that benefit from them (World Bank, n.d.). Remittances tend to serve as insurance
+against risks and help mitigate vulnerability (as in Haiti and Pakistan in response to natural
+disasters). Unlike foreign aid, remittances tend to have a countercyclical nature, as they increase
+during downturns in the recipient countries. They can constitute a high level of household
+income; however, they cannot be a substitute for domestic growth and employment-generation
+efforts. In Mali, remittances are saved for unexpected events and serve as a private safety net
+(Ratha 2013).
+
+While the Organisation for Economic Co-operation and Development’s list of fragile states differs
+slightly from the World Bank’s, the trends it portrays regarding remittances in a recent report
+mirror those noted above (OECD 2014). It finds that in many fragile and conflict-affected
+countries, particularly middle-income ones, remittances have outpaced aid as the major source
+of development funding; this is in contrast to nonfragile developing countries, where foreign
+direct investment constitutes the larger share.
+
+Level of expenditure. In many fragile and conflict-affected countries, expenditures on social
+protection (including government and fairly substantial external sources) are close to the global
+average as a percentage of GDP. However, a large majority of these expenditures are skewed
+toward categorical benefits and social insurance. Within social protection spending, there is
+considerable heterogeneity with regard to expenditure by category of social protection. For
+example, social insurance spending ranges from 0.4 percent to 9.4 percent of GDP, with the
+
+                                                  24
+average pension spending among the fragile and conflict-affected countries at about 2 percent
+of GDP (of the representative sample shown in figure 4.5). This level of expenditure is
+unsustainable, considering the low coverage and young demographic profile in most of these
+countries, where an average of less than 5 percent of the population is over 65 years of age.
+Comparisons to other countries with similar proportions of an elderly population confirm the
+heavy burden of pension expenditures in many fragile and conflict-affected countries.
+
+Bosnia and Herzegovina is an outlier with respect to its spending on social insurance, as figure
+4.5 shows. While its spending is nearly 10 percent of its GDP, its coverage is also quite high at 30
+percent (total old-age beneficiaries/population over 65 years).
+
+ Figure 4.5: Social Insurance Expenditures in Selected Fragile and Conflict-Affected Countries
+                                   as a Percentage of GDP
+
+              10
+               9
+               8
+               7
+               6
+               5
+               4
+               3
+               2
+               1
+               0
+
+
+
+
+Source: Data retrieved from HDNSP (Human Development Network Social Protection) Global Pensions Database
+(http://www.worldbank.org/en/topic/socialprotectionlabor/brief/pensions-data), January 2015.
+
+
+In Cluster C countries (moderate capacity and average enabling environment), there has been a
+noticeable increase over the last few years in social protection spending. For example, Nepal
+increased its social protection spending from 1.5 percent of GDP in 2008 to 2.5 percent of GDP
+in 2012 following its period of conflict; 95 percent of the expenditures were financed by tax
+
+
+                                                    25
+revenues. Mozambique and Rwanda, although not formally classified as fragile and conflict-
+affected countries, have also increased allocations to social protection in the aftermath of
+conflict. Mozambique’s expenditures rose from 0.2 percent of GDP in 2010 to 0.5 percent in 2014.
+
+In many fragile and conflict-affected countries, social protection programming is used to benefit
+former “freedom” fighters/war veterans and their survivors. Due to low coverage, these schemes
+and benefits are highly regressive and absorb significant portions of social protection spending.
+
+The recent State of Social Safety Nets 2014 report (World Bank 2014e) illustrates the range of
+spending patterns across fragile and conflict-affected countries, with most relying on external
+sources of funding for their social safety net expenditures. Table 4.2 and figure 4.6 show the
+variation in this spending as a percentage of GDP across 14 countries with comparable data
+available from 2008 onwards.
+
+    Table 4.2: Safety Net Spending as a Percentage of GDP in Fragile and Conflict-Affected
+                                          Countries
+
+
+              Country/economy                       % of GDP             Data as of
+              Timor-Leste                             5.91                 2009
+              Sierra Leone                            3.50                 2011
+              Bosnia & Herzegovina                    3.33                 2010
+              Kosovo                                  1.47                 2012
+              Yemen                                   1.44                 2008
+              Iraq                                    1.22                 2009
+              Nepal                                   1.20                 2009
+              Madagascar                              1.10                 2010
+              Syria                                   1.00                 2010
+              West Bank and Gaza                      0.81                 2010
+              Mali                                    0.50                 2009
+              Togo                                    0.50                 2009
+              Solomon Islands                         0.26                 2009
+              Afghanistan                             0.02                 2009
+
+Source: World Bank 2014e.
+
+
+                                               26
+  Figure 4.6: Share of Safety Net Spending of GDP in Fragile and Conflict-Affected Countries
+
+
+               6
+             5.5
+               5
+             4.5
+               4
+             3.5
+               3
+             2.5
+               2
+             1.5
+               1
+             0.5
+               0
+
+
+
+
+Source: World Bank 2014e.
+
+
+
+
+4.5. Delivery Mechanisms
+
+Targeting. Administrative capacity plays a crucial role in the ability of a government to target the
+poor or other deserving populations. Several countries—including Mozambique, Sierra Leone,
+and the Republic of Yemen—use a combination of targeting methods including categorical,
+geographical, community, and self-selection to select beneficiaries for social protection
+programs. In Sierra Leone and the Republic of Yemen, there has been a move away from simply
+using categorical, community, or self-targeting toward adding PMT so as to minimize inclusion
+errors. The West Bank and Gaza Cash Transfer Program uses a single registry and fully functioning
+PMT system. Nepal and Timor-Leste have less administrative capacity; they continue to rely
+primarily on categorical and community targeting, respectively. Overall, it is evident that longer-
+term and better-established programs, in attempting to target a higher percentage of the poor,
+are turning to PMT methods to minimize inclusion/exclusion errors and establish more
+sophisticated mechanisms for targeting (e.g., West Bank and Gaza, the Republic of Yemen).
+
+Payment systems. As with other administrative processes, capacity and financial infrastructure
+are needed in order to use effective methods of payment. However, the availability of mobile
+technology has allowed many low-capacity countries with relatively weak enabling environments
+
+
+                                                27
+to overcome the challenge of low administrative capacity. Although sophisticated payment
+methods are available in Cluster B countries—such as Haiti and Somalia—coverage remains quite
+low. Higher-capacity countries, such as Kosovo, rely on financial institutions and primarily
+electronic payments to transfer social insurance benefits. West Bank and Gaza has recently
+switched from post offices to banks in delivering cash benefits, as has Nepal. At the other
+extreme, Mozambique and Timor-Leste still use trucks or person-to-person methods to deliver
+cash benefits.
+
+Monitoring and evaluation. While building an evaluation base can take years and substantial
+resources, few impact evaluations associated with the countries discussed here have been
+completed. Evaluations do exist of the Republic of Yemen Social Welfare Fund (see box 4.1), the
+West Bank and Gaza Cash Transfer Program, the Togo School Feeding Program, and the Sierra
+Leone Public Works Program. The impact evaluations, by nature, are not systematic; thus, it
+remains difficult to build evidence on the effectiveness of programs in fragile and conflict-
+affected countries. When they are available and show positive results (as in West Bank and Gaza,
+Sierra Leone, and the Republic of Yemen), they provide a strong basis for scaling up and
+systematizing programming.
+
+
+
+            Box 4.1: Evaluation Results for the Yemeni Social Fund for Development
+
+ The Republic of Yemen’s Social Fund for Development focuses on pro-poor long-term development
+ through Community and Local Development, Capacity-Building, Small- and Micro-Enterprise
+ Development, and Labor-Intensive Public Works Programs. The Labor-Intensive Public Works Program
+ played a crucial role in cushioning beneficiary communities from the economic shock of 2010 –11, and
+ averted potential longer-term consequences related to selling off assets and incurring debt. The public
+ works program was scaled up to increase relief and humanitarian responses. By employing community
+ members in public works activities, the program effectively reached a large number of rural households,
+ increased average wages, shifted the structure of the workforce away from work in the lowest-paid
+ sectors and caused a significant increase in the probability of female employment.
+
+ Similarly, the Rain-fed Agriculture and Livestock Program has helped improve agricultural productivity
+ by fostering the formation and training of small producer groups in the country’s rural regions. The
+ program allowed villagers to self-select into participation in project groups where they would make
+ investments in agriculture, receive training in organization and agricultural best practices, and receive
+
+
+
+
+                                                    28
+ subsidies for the purchase of livestock. The program had strong impacts on increasing community
+ solidarity and—to some degree—female empowerment.
+
+
+
+
+Grievance and redress mechanisms. These mechanisms seek to capture complaints related to
+program functions (e.g., targeting of program beneficiaries) and provide redress. Such
+mechanisms are available in three forms: government agencies, independent redress
+institutions, and the courts. In many Latin American countries with mature social protection
+programs—including Brazil, Colombia, and Mexico—beneficiaries have the option of utilizing
+different channels for complaints, both at the national and program levels. Because such systems
+require dedicated administrative capacity, they tend to be less available in fragile and conflict-
+affected states. A few of these countries with long-standing programs are attempting to
+incorporate grievance mechanisms to the extent possible. In the Republic of Yemen, the public
+works program under the Social Welfare Fund offers a complaint box for any issues raised by
+program beneficiaries. The issues are compiled and discussed, and measures are taken each
+month to respond to the beneficiaries.
+
+
+5. Highlights of Social Protection Program Delivery in Fragile and Conflict-Affected Countries
+
+
+This section presents lessons learned from selected policies and programs applied in various
+fragile and conflict-affected settings and illustrating different social protection approaches. The
+intent is to provide a sense of what is happening on the ground to bring to life the data presented
+in section 4. It is also intended to provide an understanding of the challenges and issues
+confronting social protection in fragile and conflict-affected settings.
+
+
+                                                 29
+Categorical Benefits May Be Critical for Social Cohesion and Political Stability, but Are
+Unsustainable. Veterans’ pension programs are a common part of social protection
+programming in a number of fragile and conflict-affected countries, regardless of income or
+capacity levels. Often, these programs are deemed critical for maintaining social balance in the
+aftermath of a conflict, and providing a dividend to those who took part in liberation wars. Timor-
+Leste, an oil-rich East Asian state, has such a program. The Timorese fought a war of
+independence from Indonesia between 1975 and 1999. At that time, the leaders of the
+movement promised the fighters jobs and a better life after independence. This commitment
+was also reflected in the constitution when the country was formed in 2002. However, after
+independence, there was a feeling that these promises were not being fulfilled. Mass riots in
+2007 and an assassination attempt on the prime minister in 2008 are largely attributed to this
+sense of discontent.
+
+In response, the government expanded its social protection efforts. The increasing size of the
+Petroleum Fund played a role in this decision as well. Timor-Leste uses its natural resource wealth
+for social protection funding. It spends 15 percent of non-oil GDP and 5.9 percent of total GDP
+on social protection, a majority of which goes to veterans’ pensions. The current level of funding
+appears financially unstable. A 2011 fiscal sustainability analysis undertaken by the National
+Directorate of Budget of the Ministry of Finance shows that the fund will reach zero in 2026 if
+growth in expenditure is not constrained and non-oil economic growth is below expectations.
+Out of the total social assistance spending in Timor-Leste, 60 percent goes to veterans’ benefits,
+covering only 1 percent of the population. Despite concerns regarding financial sustainability,
+veterans’ pensions are used to contain a volatile group and maintain political stability.
+
+Rapid Scale-Up Is Possible If There Is Political Will, Relative Capacity, and Financing. The
+Republic of Yemen has been very successful in rapidly scaling up its Social Welfare Fund, which
+today provides cash benefits to close to 7 million people (28 percent of the population) in all 21
+governorates. The fund has expanded its coverage from 100,000 beneficiaries at its start, to
+almost 1 million poor and vulnerable Yemeni households over a 10-year period; it expanded to
+1.5 million households during the political crisis in 2011. The fund’s budget has grown from $4
+
+
+                                                30
+million at the outset to $200 million in 2008/09 and around $300 million in 2012. This is a clear
+example of how—with moderate capacity and an average enabling environment—rapid scale-up
+is possible, provided there is political will.
+
+Sound technical assistance from the World Bank also helped improve targeting. Technical
+assistance in 2009 funded by the Bank introduced PMT as a targeting method and applied it to
+the 2008 Social Welfare Fund beneficiary and applicant survey. PMT helped the country identify
+existing nonpoor beneficiaries and new poor beneficiaries, thereby improving targeting; although
+there are still problems with inclusion errors.
+
+Programs Can Be Successful If Based on Pre-Existing Social Institutions. Togo has used an
+existing informal social mechanism for its school feeding program, which has proven to be
+successful in a low-capacity setting and has reached a large number of beneficiaries. The program
+benefits approximately 20,000 children annually in the most deprived, geographically isolated,
+and disaster-prone areas of the country. Its aim is to provide adequate calories to children
+vulnerable to malnourishment. The meals are prepared by selected village women, or femmes-
+mamans (Andrews et al. 2011). These femmes-mamans are a familiar feature in Togolese villages
+preparing and selling food in the market or on the street. By employing these women to cook the
+school meals in the beneficiary schools, the program also provides income-generation
+opportunities for the poor.
+
+The program has made an important contribution toward attracting and retaining beneficiary
+children in school, providing school access to children who are older and have not yet enrolled,
+and—increasingly—attracting young girls. Results show increases in enrolment, decreases in
+dropout and absentee rates, and a reduction of the age at entry in primary school in all regions;
+the findings have been particularly positive among girls. An increase in new enrolments in
+beneficiary schools in 2009–10 was 16 points higher than in the group of control schools. The
+dropout rate was 0.9 percent in beneficiary schools compared to 1.4 percent in control schools.
+The retention rate expressed in terms of percentage of children attending school every day is 2
+percent higher than that of the control schools. Further, the meals served provide necessary
+calories to the children. A nutritional assessment of the food served at beneficiary schools shows
+
+                                                  31
+that school meals are providing between 60 and 90 percent of the daily caloric intake needed for
+primary school–age children.
+
+Proxy Means Testing Can Improve Targeting Efficiencies of Existing Social Protection Programs.
+The West Bank and Gaza’s dramatic shift in social safety net policy in 2004 emphasized the need
+to provide assistance to extremely poor households and the importance of using a PMT
+mechanism to verify the eligibility of beneficiaries. With the help of the World Bank, the Cash
+Transfer Program in West Bank and Gaza has been able to effectively—and in a relatively short
+time—develop, implement, and secure donor and Palestinian Authority buy-in for an effective
+and objective poverty-based targeting system. The system accurately identifies and provides
+regular and timely cash transfers to poor households, using benefit levels that are tailored to
+household composition and poverty levels. The use of PMT has been found to be highly accurate,
+having identified almost 70 percent of target cases correctly; a large majority of the beneficiaries
+are extremely poor. The inclusion/exclusion errors are lower than other programs that are widely
+considered to be successful (e.g., Bolsa Familia in Brazil and Oportunidades in Mexico). As such,
+the Cash Transfer Program is highly efficient, with cost-benefit ratio analyses showing that for
+each unit of currency spent on transfers by the Ministry of Social Affairs, 0.66 units goes toward
+reducing the extreme poverty gap. Many partners of social protection programs in West Bank
+and Gaza—including the United Nations Relief and Works Agency for Palestine Refugees in the
+Near East, the World Food Programme, and UNICEF—have had access to, and many rely on, the
+PMT database managed by the Ministry of Social Affairs for designing and targeting their own
+programs.
+
+The West Bank and Gaza Cash Transfer Program benefits close to 100,000 households and
+600,000 individuals (about 14 percent of the total population). It is considered one of the most
+advanced cash assistance programs in the Middle East and North Africa region, using a
+sophisticated management information system and a uniform payment modality. Moreover,
+West Bank and Gaza provides a best practice example regarding the creation and use of a unified
+registry of beneficiaries across social safety net programs which has significantly improved
+targeting accuracy and crisis response capacity. In normal times, unified registries can reduce
+
+
+                                                32
+costs and facilitate coherence and convergence because all agents work with the same database.
+In times of crisis, unified registries can be used to quickly disburse additional benefits to the
+target population or quickly expand coverage by adjusting eligibility criteria.
+
+Note that PMT is not used in postconflict or emergency situations, as in such cases, the extreme
+poor are not the only targeted households and most PMT indicators (i.e., household assets) are
+difficult to calculate and may have been affected by the conflict.
+
+PMT and Unique Identifiers Are Effective Tools to Curtail Inclusion Errors. In fragile and conflict-
+affected countries with high capacity and a strong enabling environment such as Kosovo, best
+practice processes can be employed to reduce inclusion errors. The Kosovo Social Assistance
+Program covers 11 percent of the total population and 13 percent of all children; coverage rates
+are higher for the poorest quintile (30 percent) and 35 percent of the poorest children (Gassmann
+and Roelen 2009). Using a combination of eligibility criteria and proxy means and means testing
+to target beneficiaries, Kosovo has only a very small inclusion error in the program. The majority
+of benefits are awarded to families in the two poorest quintiles, and only a small share of benefits
+is awarded to nonpoor families. Over 70 percent of spending on the social assistance scheme
+went to households in the bottom quintile, while less than 3 percent in the top quintile benefited.
+This compares favorably with regional averages of 62 and 4 percent, respectively. The
+combination of eligibility criteria, PMT (asset), and means testing (income) works well in
+differentiating between the poor and the nonpoor. Moreover, the unique identification system
+that has been put in place allows rapid and accurate verification of beneficiaries with little room
+for fraud and misuse of benefits.
+
+Certainly, the reasons for the relatively successful delivery of social assistance programs through
+PMT and a common registry are the institutional legacy of social protection in Kosovo and the
+resulting relatively high administrative capacity and number of qualified staff. Also, distance from
+conflict has been an important factor in building and maintaining delivery systems over time. It
+would be difficult to administer PMT or establish a reliable registry in an ongoing or recent
+conflict situation in which many households may be displaced or difficult to locate or identify; or
+that may lack the assets needed to build a PMT mechanism and measure relative welfare.
+
+                                                33
+Mobile Technology Can Overcome Implementation Challenges and Improve Community-Based
+Programs in Low-Capacity Settings. Sierra Leone is characterized as having low capacity and a
+strong enabling environment, with resource wealth. Despite its low administrative capacity, the
+country provides an example of how mobile technology can help improve community-based
+programs and make implementation processes more efficient.
+
+Mobile technology is being used in the Sierra Leone Youth Employment Support Project. The
+project—which seeks to provide capacity building to youth institutions, to finance policy studies
+and analysis, and to promote the effective national coordination of all youth employment
+support initiatives in Sierra Leone—has benefited about 10,000 youths each year over the last
+three years and has helped them become more employable and/or to transition into the labor
+market. Beneficiaries of the Sierra Leone Youth Employment Support Project have adapted easily
+to the new mobile technology. As in many other countries, e-payments have proved to work well,
+despite low capacity and a fragile setting. Communities have played a pivotal role in ensuring
+these successes.
+
+Under the Youth Employment Support Project, and its Cash for Work component in particular,
+several implementing challenges were identified, including registry, payment system, and
+monitoring and evaluation. In tackling these implementation issues, the use of smart
+phones/mobile technology proved to be a very cost-efficient solution. Smart phones were used
+to register a comprehensive range of information/inputs. The phones were also operated on- and
+offline and used to upload data in real time, provided the beneficiaries had a SIM card and
+network coverage.
+
+Given the low capacity and absence of efficient beneficiary targeting and registry mechanisms,
+there was a general lack of identification documents, and the existing paper documentation
+suffered from errors and was difficult to access (Rosas and Martin 2014). Mobile technology was
+introduced in order to find a solution to the lack of documentation. Staff members were quickly
+trained to use smart phones to collect information on potential beneficiaries and to take photos
+for the beneficiary IDs. Each subproject registration with mobile technology lasted one day. Thus
+far, more than 6,600 beneficiaries have been registered in over 86 subproject sites. Where paper
+
+                                               34
+documentation existed, smart phones were used to digitize the information, which resulted in a
+digital beneficiary database. The database allows for enhanced coordination among different
+social protection players and institutions, by allowing for data sharing and comparison of
+information (Rosas and Martin 2014).
+
+The use of mobile technology in improving beneficiary registration resulted in a better payment
+system as well, through better data and payment flows. Upon registration, all beneficiary
+information is added to an electronic timesheet, wherein the payment amount is directly
+computed and beneficiaries receive their SIM cards which are registered to be used for electronic
+payments.
+
+Social Protection Can Be Used as a Peace-Building Tool. Following the end of its armed conflict
+and the signing of a peace agreement, Nepal has expanded its social protection coverage
+considerably from 2006 on to forge social unity and ease tensions, targeting social protection
+programs in particular conflict-affected regions. Spending has increased from 0.5 percent of GDP
+in 2004/05 to about 2.5 percent of GDP in 2012. Social protection investments have concentrated
+on various categorical cash transfer programs, school feeding, and public works.
+
+The commitment of the Nepali state to social protection and social inclusion can be inferred from
+the interim constitution drafted in 2007. The document views employment and social security as
+fundamental rights of every citizen. The state especially aims to ensure the socioeconomic
+security of marginalized and vulnerable groups through such measures as child grants,
+scholarships, and senior citizen and disability allowances. The current programs aim to support
+vulnerable groups including the elderly, women, and children, especially in remote parts of
+Nepal, as a way of reducing structural inequities in the country.
+
+Despite the numerous programs and policies in place, the breadth and depth of social protection
+remains quite low. Existing social assistance programs reach less than a quarter of the most
+vulnerable populations; and, in particular, cash transfer programs do not appear to be as efficient
+or effective as they could be. Total coverage of the cash transfer programs does not exceed 3
+percent of the Nepalese population, while poverty rates are 31 percent nationally.
+
+
+                                                35
+In the context of transition and peace building, the visibility of the state in social protection policy
+and programming in Nepal is something needs to be viewed positively. The majority of the
+country’s social protection schemes are in the fiscal budget and are funded through tax revenues
+(rather than through external aid). They could thus be interpreted as elements in a nascent social
+contract between citizens and the state. The government has demonstrated a greater
+commitment to social protection than many other, richer, surrounding countries—an attempt at
+addressing socioeconomic security in a systemic manner.
+
+
+                                           6. Conclusions
+
+
+Social protection plays a significant role in fragile and conflict-affected settings in maintaining
+or regaining social balance, but the cost can be significant. Although there is weak empirical
+evidence on the impact of social protection in promoting and improving social cohesion,
+measures such as subsidies and categorical cash benefits are widely used in fragile and conflict-
+affected countries to ease political and social tensions and as rewards to certain population
+groups following an episode of conflict. In some countries, such as Mozambique and Rwanda,
+qualitative studies and anecdotal evidence point to social protection including measures that
+promote voice, social inclusion, and more equitable access to services and benefits. Nepal has
+instituted several categorical programs that increase coverage dramatically, even though they do
+not always benefit the poorest.
+
+History, social dynamics, and in-place institutional structures predetermine social protection
+policy and programming choices. Countries often make policy and programming choices as a
+response to the situation on the ground. Social protection objectives and interventions are
+influenced by a country’s social needs and the relationship it has had with its citizenry (i.e., in
+Bosnia and Herzegovina and Kosovo, long-standing programs, particularly social pensions, have
+created strong ties with the citizens. Similarly, in resource-rich countries, subsidies have helped
+shape relationships and set long-term trends. To a large extent, existing institutions, informal
+networks, and cultural understanding of government responsibility to social welfare determine
+the social protection agenda.
+
+                                                  36
+Programming choices and balance between social assistance, social insurance, and labor vary
+widely in fragile and conflict-affected countries, and depend on the capacity, income, and
+extent of an enabling environment in the country. Level of administrative capacity, together
+with the relative strength of institutions and rule of law in the country, determines the type of
+interventions that are possible to implement in fragile and conflict-affected countries. Low-
+capacity countries with weak enabling environments have a concentration of emergency-type
+and fragmented policies and programs with low coverage and coherence, which are largely in
+kind. High-capacity countries with strong or moderately strong enabling environments have been
+able to establish longer-term social assistance, social insurance, and some labor programs.
+Additionally, such countries are working on first- and second-generation design and
+implementation issues such as increasing coverage, reducing targeting errors, and establishing
+more effective management information systems, as well as rationalizing policies and programs.
+Frequently in fragile and conflict-affected countries, the populist measures undertaken to
+support the poor and vulnerable tend to have regressive outcomes and to suffer from major
+errors of exclusion (e.g., categorical benefits, subsidies).
+
+Financing sources are critical determinants for the direction of social protection policy and
+programming in fragile and conflict-affected settings. A large majority of fragile and conflict-
+affected countries are low income and resource poor, and face serious budget constraints for
+social programming. External financing is a major source for social protection expenditures for
+the medium term. In many cases, external financing steers and shapes the medium- to long-term
+policy discourse. Although with different income and capacity levels, Kosovo, Sierra Leone, West
+Bank and Gaza, and the Republic of Yemen have all forged, to varying degrees, a national social
+protection vision with strong technical support and financing from external partners. All of them
+have reformed, rationalized, and scaled up their social protection programming following
+emergency situations and long-standing conflict.
+
+Political leadership is a critical determinant of the direction of social protection policy and
+programming in fragile and conflict-affected settings. Reforms and rapid scale-up in program
+coverage in fragile and conflict-affected settings have been possible with enabling institutional
+
+
+                                                  37
+environments. More important, however, is political leadership that is willing to bear the
+financial, social, and institutional costs and to mobilize public opinion. West Bank and Gaza and
+the Republic of Yemen have moved forward in reforming their targeting mechanisms and cash
+transfer programs, while Bosnia and Herzegovina and Timor-Leste have resisted rethinking
+categorical benefits for war veterans and their families—programs that are highly regressive.
+
+Design and implementation choices, and particularly the delivery of social protection
+programs, vary widely depending on country capacity and the enabling environment. It is
+possible to use modern technology successfully (e.g., for payments) even in very high-risk and
+low-capacity environments such as Haiti, Somalia, and South Sudan. Such interventions remain
+small scale, however, and scale-up is difficult in the absence of an enabling institutional
+environment. To put long-term delivery platforms in place, such as identification and targeting
+mechanisms, an institutional enabling environment and modest administrative capacity are
+necessary.
+
+Social protection in fragile and conflict-affected settings is dynamic, and its composition shifts
+with changes in country circumstances. As emergencies occur and recur, or as countries
+stabilize, the composition of social protection shifts to meet needs. For example, periodic surges
+in in-kind assistance are common as scale-up of cash transfer programs.
+
+
+
+
+                                               38
+                                       7. Bibliography
+
+
+Acemoglu, Darren, and James Robinson. 2012. Why Nations Fail: The Origins of Power,
+Prosperity, and Poverty. New York: Crown Publishers.
+
+Andrews, Colin, Maitreyi Das, John Elder, Mirey Ovadiya, and Giuseppe Zampaglione. 2012.
+“Social Protection in Low Income Countries and Fragile Situations: Challenges and Future
+Directions.” Social Protection and Labor Discussion Paper 1209, World Bank, Washington, DC.
+http://siteresources.worldbank.org/SOCIALPROTECTION/Resources/SP-Discussion-
+papers/430578-1331508552354/1209.pdf.
+
+Andrews, Colin, Elena Galliano, Carolyn Turk, and Giuseppe Zampaglione. 2011. “Social Safety
+Nets in Fragile States: A Community-Based School Feeding Program in Togo.” SP Discussion
+Paper No. 1117, World Bank, Washington, DC.
+http://siteresources.worldbank.org/SOCIALPROTECTION/Resources/SP-Discussion-
+papers/Safety-Nets-DP/1117.pdf.
+
+Andrews, Colin, and Adea Kryeziu. 2013. “Public Works and the Jobs Agenda: Pathways for
+Social Cohesion?” Background Paper for World Development Report 2013, World Bank,
+Washington, DC. http://siteresources.worldbank.org/EXTNWDR2013/Resources/8258024-
+1320950747192/8260293-1320956712276/8261091-
+1348683883703/WDR2013_bp_Social_Cohesion_and_Public_Works.pdf.
+
+Asian Development Bank. 2012. Nepal: Updating and Improving the Social Protection Index.
+
+Assaf, Nabila. 2013. Stimulating Business and Employment in Yemen. World Bank.
+
+Bagash, Thabet. 2012. Transforming Cash Transfers: Beneficiary and Community Perspectives
+on the Social Welfare Fund in Yemen. et al. ODI and UKAID.
+
+Barma, Naazneen H., Elisabeth Huybens, and Lorena Viñuela. Institutions taking root: Building
+State Capacity in Challenging Contexts.
+
+Borges, Antonio. 2011. Kosovo—Policy Note for the First Assessment of Performance Under the
+Staff Monitored Program.
+
+Braithwaite, Jeanine, and Daniel Mont. 2008. Disability and Poverty: A Survey of World Bank
+Poverty Assessments and Implications. The World Bank.
+
+Breisinger, Clemens, Wilfried Engelke, and Olivier Ecker. 2011. “Petroleum Subsidies in Yemen:
+Leveraging Reform for Development.” IFPRI Discussion Paper 01071, International Food Policy
+Research Institute, Washington, DC.
+http://www.ifpri.org/sites/default/files/publications/ifpridp01071.pdf.
+
+
+
+                                              39
+Brisson, Nathalie Lamaute. 2013. Systèmes de protection sociale en Amérique latine et dans les
+Caraïbes: Haïti. Commission économique pour l'Amérique latine et les Caraïbes (CEPALC).
+
+Camnahas, Lourenco. 2012. Democratic Republic of Timor-Leste: Updating and Improving the
+Social Protection Index. ADB.
+
+Chandy, Laurence, and Geoffrey Gertz. 2011. “Poverty in Numbers: The Changing State of
+Global Poverty from 2005 to 2015.” Policy Brief 2011-01, the Brookings Institution, Washington,
+DC.
+
+Cho, Yoonyoung. 2011. Informality and Protection from Health Shocks: Lessons from Yemen.
+The World Bank.
+
+Commission of the European Communities. 2009. Kosovo Under UNSCR 1244/99 2009 Progress
+Report.
+
+de Regt, Jacomina, Shruti Majumdar, and Janmejay Singh. 2013. Designing Community-Driven
+Development Operations in Fragile and Conflict-Affected Situations: Lessons from a Stocktaking.
+Washington, DC: World Bank.
+
+Devereux, S. 2000. “Social Safety Nets for Poverty Alleviation in Southern Africa.” ESCOR Report
+R7017, Department for International Development, London.
+
+Elgazzar, Heba, Firas Raad, Chokri Arfa, Awad Mataria, Nisreen Salti, Jad Chaaban, Djavad
+Salehi-Isfahani, Sanaz Fesharaki, and Mehdi Majbouri. 2010. “Who Pays? Out of Pocket Health
+Spending and Equity Implications in the Middle East and North Africa.” HNP Discussion Paper,
+World Bank, Washington, DC.
+
+Elgazzar, Heba. 2011. “Raising Returns: The Distribution of Health Financing and Outcomes in
+Yemen.” World Bank, Washington, DC.
+
+Engelke, Wilfried. 2012. Joint Social and Economic Assessment Republic of Yemen. The World
+Bank.
+
+Engineering and Management Consulting Center. 2012. “Assessment of Mosa Targeting System
+under the Cash Transfer Program CTP (P129124): Gaza Strip.”
+
+Estrategia Nacional de Seguranca Social Basica. Ministerio da Mulher e Accao Social. 2009
+
+European Commission. 2008. Social Protection and Social Inclusion in Kosovo: Under UN
+Security Council Resolution 1244—Executive Summary.
+
+FAO. Social Protection for Food Security. High Level Panel of Experts and Committee on World
+Food Security. 2012. Rome.
+
+
+
+
+                                               40
+Gassmann, Franziska, and Keetie Roelen. 2009. “Impact of Social Assistance Cash Benefit
+Scheme on Children in Kosovo—Report to UNICEF Kosovo.” Maastricht Graduate School of
+Governance, Maastricht, the Netherlands.
+
+Gouvernement de la République d’Haïti. 2014. Plan D’action Pour L’accélération De La
+Réduction De La Pauvreté Extrême.
+
+Gubbels, John, David Snelbecker and Lena Zezulin.Kosovo. 2007. Pension Reform:
+Achievements and Lessons. World Bank.
+
+Hackstein, Dr. Katharina, Dr. Candace Miller, Dr. Esam Mahdi. 2008. European Union
+PEGASE Programme of Direct Financial Support. Impact Evaluation of the EU Contribution to
+the Palestinian Cash Transfer Programme (CTP) in the Framework of the PEGASE Programme of
+Support to “Vulnerable Palestinian Families” (VPF). Final Report-volume 1. July 2013.
+
+Hamad, Bassam Abu (Al-‐Quds University, Gaza) and Sara Pavanello. 2012. Transforming Cash
+Transfers: Beneficiary and community perspectives of the Palestinian National Cash Transfer
+Programme. Part 1: The Case of the Gaza Strip.
+
+Hillis, Samira, Phillippe Leite, Laura McDonald, and Lillian Frost. 20133. Designing an advanced
+cash transfer program in the Palestinian territories. MENA Knowledge and Learning: Quick Note
+series Nr. 98. World Bank.
+
+Holmes, Rebecca, and Shizu Aphadiya. 2009. The Role of Cash Transfers in Post-Conflict Nepal.
+
+Holmes, Rebecca, and Adam Jackson. 2007. Ministry of Finance, Sierra Leone. Cash Transfers in
+Sierra Leone: Appropriate, Affordable and Feasible? ODI Social Protection: Cash Transfer Series.
+
+Honorati, Maddalena and Rodriguez, Luz. Forthcoming. “Social Protection Assessment Review.”
+World Bank, Washington, DC.
+
+Instituto Nacional de Accao Social. 2013. Plano Economico e Social 2013. 2013. Mocambique.
+
+International Crisis Group. 2011. Timor-Leste's Veterans: An Unfinished Struggle.
+
+International Finance Corporation and African Development Bank. 2007. Economic and Social
+Development Brief.
+
+International Labour Organization. 2004. “Social Protection for People in the Informal Economy
+of Nepal.” http://www.ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/---ilo-
+kathmandu/documents/publication/wcms_113829.pdf.
+
+International Monetary Fund. 2009. IMF Staff Visit to Kosovo: Concluding Statement.
+
+—. 2011a. Republic of Mozambique: Poverty Reduction Strategy Paper.
+
+
+
+                                               41
+—. 2011b. Statement by IMF Mission to Kosovo.
+
+Jones, Nicola, and Mohammed Shaheen. 2012. Transforming Cash Transfers: Beneficiary and
+community perspectives of the Palestinian National Cash Transfer Programme. Part 2: The case
+of the West Bank.
+
+Khanal, Dilli Raj. 2012. Social Protection/Social Security in Nepal. Situational Analysis. ILO.
+
+Koehler, Gabriele. 2011. Social Protection and Socioeconomic Security in Nepal.
+
+Lombardo, Annalisa. 2012. “Mapping of Social Protection Programmes in Haiti.” UNICEF/Oxfam,
+UK.
+
+Ministerio da Planificacao e Desenvolvimento de Mocambique. Programa Estrategico de
+Reduccao da Pobreza Urbana. 2010.
+
+Ministry of Social Affairs, Palestinian National Authority. 2010. “The Palestinian National
+Program for Social Protection Cash Transfer Strategy.”
+
+—. 2010. “Social Protection Sector Strategy.”
+
+—. 2011. “Business Strategy.”
+
+Monchuk, Victoria. 2013. “Reducing Poverty and Investing in People The New Role of Safety
+Nets in Africa.” World Bank, Washington, DC.
+
+Mountfield, Ben. 2012. “Cash Voucher Programme: Review of Voucher Assistance as a Safety-
+Net Transfer Modality in the Gaza Strip.” Study conducted for Oxfam GB and UN World Food
+Programme.
+
+OECD (Organisation for Economic Co-operation and Development). 2008. Concepts and
+Dilemmas of State Building in Fragile Situations: From Fragility to Resilience. Paris: OECD.
+
+—. 2013. Fragile States 2013: Resource Flows and Trends in a Shifting World. Paris: OECD.
+
+—. 2014. Fragile States 2014: Domestic Revenue Mobilization in Fragile States. Paris: OECD.
+
+Ratha, Dilip. 2013. “The Impact of Remittances on Economic Growth and Poverty Reduction.”
+Policy Brief No. 8, World Bank, Washington, DC.
+
+Rosas, Nina, and Andrea Martin. 2014. “Using Smartphones to Improve Delivery of Safety Net
+Programs in Sierra Leone.” Social Protection Note, World Bank, Washington, DC.
+
+Sawada, Naotaka, and Jian Zhang. 2012. “Promoting the Rural Farm and Non-Farm Businesses:
+Evidence from the Yemen Rural Investment Climate.” World Bank, Washington, DC.
+
+
+
+                                                 42
+Schwartz, Anita, and Aylin Isik-Dikmelik. 2014. “Chapter 7: Kosovo Public Finance Review.”
+Social Protection. Washington, DC: World Bank.
+
+Shaipi, Kushtrim. 2005. “Report on the Present State and Future of Social Security in Kosovo.”
+Kosovar Research and Documentation Institute. Pristina.
+
+Silva, J., V. Levin, and M. Morgandi. 2012. “Inclusion and Resilience: The Way Forward for Social
+Safety Nets in the Middle East and North Africa.” MENA Development Report 72975 , World
+Bank, Washington, DC.
+
+Social Security Administration. 2013a. “Social Security Programs Throughout the World: Africa,
+2013.” SSA Publication No. 13-11803, Social Security Administration, Washington, DC.
+http://www.socialsecurity.gov/policy/docs/progdesc/ssptw/2012-
+2013/africa/ssptw13africa.pdf.
+
+—. 2013b. “Social Security Programs Throughout the World: Asia and the Pacific, 2012.”
+SSA Publication No. 13-11802, Social Security Administration, Washington, DC.
+http://www.ssa.gov/policy/docs/progdesc/ssptw/2012-2013/asia/ssptw12asia.pdf.
+
+Strokova, Victoria, Clert, and Lucy Bassett. 2014. Social Protection chapter of the Haiti Poverty
+Assessment. World Bank.
+
+Sumner, A. 2012. “Where Do the World’s Poor Live? A New Update.” IDS Working Paper 393,
+Institute of Development Studies, University of Sussex, Sussex, UK.
+
+United Nations Relief and Works Agency for Palestine Refugees. “UNRWA Medium Term
+Strategy 2010–2015.” http://www.unrwa.org/userfiles/201003317746.pdf.
+
+Upreti, Bishnu Raj, Sony KC, Richard Mallett, and Babken Babajanian. 2012. “Livelihoods, Basic
+Services and Social Protection in Nepal.” Working Paper No. 7, Secure Livelihoods Research
+Consortium, London. http://www.odi.org/sites/odi.org.uk/files/odi-assets/publications-
+opinion-files/7784.pdf.
+
+World Bank. 2007. “Timor-Leste Youth Development and the Labour Market.” World Bank,
+Washington, DC.
+
+—. 2008a. “Food Price Crisis Response Trust Fund Project Paper on a Proposed Additional
+Financing Grant under the Global Food Crisis Response Program in the Amount of US$7 Million
+to the Republic of Togo for the Community Development Project (CDP).” World Bank,
+Washington, DC. http://www-
+wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2008/10/13/000333037_20
+081013011351/Rendered/INDEX/452370PJPR0P111LY10IDASecM200810610.txt.
+
+—. 2008b. “Integrated Safeguards Datasheet: Appraisal Stage.” World Bank, Washington,
+DC.
+
+
+                                                43
+—. 2008d. “International Development Association Emergency Project Paper for a
+Proposed Grant in the Amount of SDR 10.6 Million (US$17.2 Million Equivalent) to the Republic
+of Togo for a Community Development Project.” World Bank, Washington, DC.
+
+—. 2009. “Integrated Safeguards Datasheet Appraisal Stage: Togo—Financial Sector and
+Governance Project.” World Bank, Washington, DC.
+
+—. 2010a. “Coping Strategies in Rural Yemen and Policy Implications.” Report No. 51927-
+YE, World Bank, Washington, DC. http://www-
+wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2010/07/02/000333037_20
+100702004450/Rendered/PDF/519270ESW0P1061Yemen1Revised0Jun028.pdf.
+
+—. 2010b. “Project Paper on a Proposed Additional Grant Under the Pilot Crisis Response
+Window in the Amount of SDR 5.8 Million (US$8.7 Million Equivalent) to the Republic of Togo
+for the Community Development Project (CDP).” World Bank, Washington, DC.
+
+—. 2010c. “US$11.0 Million Equivalent and Grant in the Amount of SDR 6.2 Million (US$9.0
+Million Equivalent) to the Republic of Sierra Leone for a Youth Employment Support Project.”
+Report No: 54419-SL, World Bank, Washington, DC.
+
+—. 2011a. “Can Social Safety Nets Help Peace Building in Nepal? Results from a Social
+Protection Technical Assistance Program.” Presentation, World Bank, Washington, DC.
+http://siteresources.worldbank.org/SAFETYNETSANDTRANSFERS/Resources/281945-
+1131468287118/BBL-SSN_Nepal_7-21-2011.pdf.
+
+—. 2011b. “Human Development—Social Protection Pilot Project. Project Information
+Document (PID).” World Bank, Washington, DC.
+
+—. 2011c. “Palestinian National Plan 2011–2013. Social Protection Sector Strategic Plan
+Summary. Part 1: The Social Protection System.”
+
+—. 2011d. “Project Appraisal Document on a Proposed Grant in the Amount of US$10
+Million to the Palestine Liberation Organization (PLO) for the Benefit of the Palestinian
+Authority (PA) for the West Bank and Gaza Cash Transfer Project.” Report No: 59698-GZ, World
+Bank, Washington, DC.
+
+—. 2011e. “Project Appraisal Document on a Rapid Social Response MDTF Grant.” World
+Bank, Washington, DC.
+
+—. 2011f. “Project Information Document: Appraisal Stage—TL Social Protection
+Administration Project.” World Bank, Washington, DC.
+
+—. 2011g. “Project Information Document (PID) Concept Stage Togo Community
+Development and Safety Net Project (PDSplus) (P127200).” World Bank, Washington, DC.
+
+
+
+                                             44
+—. 2011h. World Development Report 2011: Conflict, Security, and Development.
+Washington, DC: World Bank.
+
+—. 2012a. Gender Equality and Development. Washington, DC: World Bank.
+
+—. 2012b. “Implementation Completion and Results Report on a Grant in the Amount of
+SDR 45 Million to the Republic of Yemen for a Private Sector Growth and Social Protection
+Policy Development Policy Grant.” Report No: ICR00002250, World Bank, Washington, DC.
+http://www-
+wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/07/19/000333038_20
+120719003833/Rendered/PDF/ICR22500P122410C0disclosed070170120.pdf.
+
+—. 2012c. Implementation Status & Results: Sierra Leone Youth Employment Support
+(P121052). Report No: ISR6586, World Bank, Washington, DC. http://www-
+wds.worldbank.org/external/default/WDSContentServer/WDSP/AFR/2012/05/21/44AD9F93D5
+5C756085257A0500811B0D/1_0/Rendered/PDF/ISR0Disclosabl021201201337643010647.pdf.
+
+—. 2012d. “Kosovo: Country Partnership Strategy FYs12-15 Concept Note.” World Bank,
+Washington, DC.
+
+—. 2012e. “Mozambique: Social Protection Assessment.” World Bank, Washington, DC.
+
+—. 2012f. “Project Appraisal Document on a Proposed Grant in the Amount of SDR 9.2
+Million (US$14 Million Equivalent) to the Republic of Togo for a Community Development and
+Safety Nets Project.” World Bank, Washington, DC.
+
+—. 2012g. “Social Safety Net Reform Project: Implementation Completion and Results
+Report (ICR).” Report No: ICR2488, World Bank, Washington, DC.
+
+—. 2012h. “Togo: Towards a National Social Protection Policy and Strategy.” World Bank,
+Washington, DC.
+
+—. 2012i. “West Bank and Gaza Targeting Assessment of the Cash Transfer Program.”
+MENA Report No: ACS890, World Bank, Washington, DC.
+
+—. 2012j. “Yemen: Joint Social and Economic Assessment for the Republic of Yemen.”
+World Bank, Washington, DC.
+
+—. 2013a. “Aide-mémoire République du Togo Mission d’Appui à la mise en œuvre du
+Projet Secteur Financier et Gouvernance (PSFG).” World Bank, Washington, DC.
+
+—. 2013b. “Country Partnership Strategy for the Democratic Republic of Timor-Leste for
+the Period FY2013-FY2017.” World Bank, Washington, DC.
+
+—. 2013c. “Labor Market Issues in Timor-Leste: Current State, Prospects and Challenges.”
+World Bank, Washington, DC.
+
+                                            45
+—. 2013d. “Project Information Document (PID) Additional Financing. Community
+Development and Safety Nets Project Additional Financing.” World Bank, Washington, DC.
+
+—. 2013e. “Restructuring Paper on a Proposed Project Restructuring of the Community
+Development Project (p110943) IDA Grant H602-TG June 29, 2010 to the Republic of Togo.”
+World Bank, Washington, DC.
+
+—. 2013f. “Restructuring Paper on a Proposed Project Restructuring of Togo-Financial
+Sector and Governance Project Grant H454-TG Approval Date 03/21/2009 to the Republic of
+Togo.” World Bank, Washington, DC.
+
+—. 2013g. “Sierra Leone Social Protection Assessment.” Report No. 78195-SL, World Bank,
+Washington, DC.
+
+—. 2013h. “Timor-Leste Social Assistance Public Expenditure and Program Performance
+Report.” Report No: 73484-TP, World Bank, Washington, DC.
+
+—. 2014a. “Implementation Completion and Results Report (IDA-H4090 IDA-H6020TF-
+93124) on IDA Grants in the Amount of SDR 16.4 Million (US$25.9 Million Equivalent) and on a
+Co-Financing Grant from the Food Price Crisis Response Trust Fund in the Amount of US$7.0
+Million to the Republic of Togo for a Community Development Project.” World Bank,
+Washington, DC.
+
+—. 2014b. “International Development Association Project Appraisal Document on a
+Proposed Grant in the Amount of SDR 9.1 Million (US$14.0 Million equivalent) to the
+Republique of Togo for a Maternal and Child Health and Nutrition Services Support Project.”
+World Bank, Washington, DC.
+
+—. 2014c. “Project Paper on a Proposed Restructuring and Additional Credit in the Amount
+of ADR 7.9 Million (US$12.1 Million Equivalent) to the Republic of Togo for the Community
+Development and Safety Nets Project.” World Bank, Washington, DC.
+
+—. 2014d. Seeing Is Believing: Poverty in the Palestinian Territories. Washington, DC: World
+Bank. http://www-
+wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/03/14/000333037_20
+140314125844/Rendered/PDF/860380WP0P12860rty0in0Palestine0web.pdf.
+
+—. 2014e. The State of Social Safety Nets 2014. Washington, DC: World Bank.
+
+—. n.d. “Beyond ODA: Philanthropy, Remittances, and Other Transfers.”
+http://go.worldbank.org/0AHMR4ULS0.
+
+World Food Programme. 2014. “Secondary Impact of WFP Voucher Programme in Palestine.”
+
+
+
+
+                                              46
+Zarazua, Miguel Nino, Armando Barrientos, David Hulme, and Sam Hickey. 2010. “Social
+Protection in Sub-Saharan Africa: Will the Green Shoots Blossom?” Working Paper No. 116,
+Brooks World Poverty Institute, University of Manchester, Manchester, UK.
+
+Zimmerman, Jamie M., and Kristy Bohling. 2013. “Helping Ti Manman Cheri in Haiti: Offering
+Mobile Money-Based Government-to-Person Payments in Haiti.” Washington, DC: Consultative
+Group to Assist the Poor (CGAP)/World Bank.
+
+
+
+
+                                             47
+               Social Protection & Labor Discussion Paper Series Titles
+                                     2013-2015
+
+No.    Title
+
+1502   Social Protection in Fragile and Conflict-Affected Countries: Trends and Challenges
+       by Mirey Ovadiya, Adea Kryeziu, Syeda Masood and Eric Zapatero, April 2015
+
+1501   Defining, Measuring, and Benchmarking Administrative Expenditures of Mandatory Social Security
+       Programs
+       by Oleksiy Sluchynsky, February 2015
+
+1425   Old-Age Financial Protection in Malaysia: Challenges and Options
+       by Robert Holzmann, November 2014
+
+1424   Profiling the Unemployed: A Review of OECD Experiences and Implications for Emerging Economies
+       by Artan Loxha and Matteo Morgandi, August 2014
+
+1423   Any Guarantees? An Analysis of China’s Rural Minimum Living Standard Guarantee Program
+       by Jennifer Golan, Terry Sicular and Nithin Umapathi, August 2014
+
+1422   World Bank Support for Social Safety Nets 2007-2013: A Review of Financing, Knowledge Services
+       and Results
+       by Colin Andrews, Adea Kryeziu and Dahye Seo, June 2014
+
+1421   STEP Skills Measurement Surveys: Innovative Tools for Assessing Skills
+       by Gaëlle Pierre, Maria Laura Sanchez Puerta, Alexandria Valerio and Tania Rajadel, July 2014
+
+1420   Our Daily Bread: What is the Evidence on Comparing Cash versus Food Transfers?
+       by Ugo Gentilini, July 2014
+
+1419   Rwanda: Social Safety Net Assessment
+       by Alex Kamurase, Emily Wylde, Stephen Hitimana and Anka Kitunzi, July 2012
+
+1418   Niger: Food Security and Safety Nets
+       by Jenny C. Aker, Carlo del Ninno, Paul A. Dorosh, Menno Mulder-Sibanda and Setareh Razmara,
+       February 2009
+
+1417   Benin: Les Filets Sociaux au Bénin Outil de Réduction de la Pauvreté
+       par Andrea Borgarello et Damien Mededji, Mai 2011
+
+1416   Madagascar Three Years into the Crisis: An Assessment of Vulnerability and Social Policies and
+       Prospects for the Future
+       by Philippe Auffret, May 2012
+1415   Sudan Social Safety Net Assessment
+       by Annika Kjellgren, Christina Jones-Pauly, Hadyiat El-Tayeb Alyn, Endashaw Tadesse and Andrea
+       Vermehren, May 2014
+
+1414   Tanzania Poverty, Growth, and Public Transfers: Options for a National Productive Safety Net
+       Program
+       by W. James Smith, September 2011
+
+1413   Zambia: Using Social Safety Nets to Accelerate Poverty Reduction and Share Prosperity
+       by Cornelia Tesliuc, W. James Smith and Musonda Rosemary Sunkutu, March 2013
+
+1412   Mali Social Safety Nets
+       by Cécile Cherrier, Carlo del Ninno and Setareh Razmara, January 2011
+
+1411   Swaziland: Using Public Transfers to Reduce Extreme Poverty
+       by Lorraine Blank, Emma Mistiaen and Jeanine Braithwaite, November 2012
+
+1410   Togo: Towards a National Social Protection Policy and Strategy
+       by Julie van Domelen, June 2012
+
+1409   Lesotho: A Safety Net to End Extreme Poverty
+       by W. James Smith, Emma Mistiaen, Melis Guven and Morabo Morojele, June 2013
+
+1408   Mozambique Social Protection Assessment: Review of Social Assistance Programs and Social
+       Protection Expenditures
+       by Jose Silveiro Marques, October 2012
+
+1407   Liberia: A Diagnostic of Social Protection
+       by Andrea Borgarello, Laura Figazzolo and Emily Weedon, December 2011
+
+1406   Sierra Leone Social Protection Assessment
+       by José Silvério Marques, John Van Dyck, Suleiman Namara, Rita Costa and Sybil Bailor, June 2013
+
+1405   Botswana Social Protection
+       by Cornelia Tesliuc, José Silvério Marques, Lillian Mookodi, Jeanine Braithwaite, Siddarth Sharma
+       and Dolly Ntseane, December 2013
+
+1404   Cameroon Social Safety Nets
+       by Carlo del Ninno and Kaleb Tamiru, June 2012
+
+1403   Burkina Faso Social Safety Nets
+       by Cécile Cherrier, Carlo del Ninno and Setareh Razmara, January 2011
+
+1402   Social Insurance Reform in Jordan: Awareness and Perceptions of Employment Opportunities for
+       Women
+       by Stefanie Brodmann, Irene Jillson and Nahla Hassan, June 2014
+1401        Social Assistance and Labor Market Programs in Latin America: Methodology and Key Findings from
+            the Social Protection Database
+            by Paula Cerutti, Anna Fruttero, Margaret Grosh, Silvana Kostenbaum, Maria Laura Oliveri, Claudia
+            Rodriguez-Alas, Victoria Strokova, June 2014
+
+1308        Youth Employment: A Human Development Agenda for the Next Decade
+            by David Robalino, David Margolis, Friederike Rother, David Newhouse and Mattias Lundberg, June
+            2013
+
+1307        Eligibility Thresholds for Minimum Living Guarantee Programs: International Practices and
+            Implications for China
+            by Nithin Umapathi, Dewen Wang and Philip O’Keefe, November 2013
+
+1306        Tailoring Social Protection to Small Island Developing States: Lessons Learned from the Caribbean
+            by Asha Williams, Timothy Cheston, Aline Coudouela and Ludovic Subran, August 2013
+
+1305        Improving Payment Mechanisms in Cash-Based Safety Net Programs
+            by Carlo del Ninno, Kalanidhi Subbarao, Annika Kjellgren and Rodrigo Quintana, August 2013
+
+1304        The Nuts and Bolts of Designing and Implementing Training Programs in Developing Countries
+            by Maddalena Honorati and Thomas P. McArdle, June 2013
+
+1303        Designing and Implementing Unemployment Benefit Systems in Middle and Low Income Countries:
+            Key Choices between Insurance and Savings Accounts
+            by David A. Robalino and Michael Weber, May 2013
+
+1302        Entrepreneurship Programs in Developing Countries: A Meta Regression Analysis
+            by Yoonyoung Cho and Maddalena Honorati, April 2013
+
+1301        Skilled Labor Flows: Lessons from the European Union
+            by Martin Kahanec, February 2013
+
+
+To view Social Protection & Labor Discussion papers published prior to 2013, please visit www.worldbank.org/spl.
+Abstract
+
+
+This study examines the role of social protection programming, and programming design
+and implementation features, that are prominent in fragile and conflict-affected states. The
+main objective is to build on existing, available information from a sample of fragile and
+conflict-affected countries and develop operational guidance that addresses policy, design,
+and implementation issues and offers operational solutions for social protection programming
+and policy making in different fragile settings. The analysis showcases the universe of social
+protection objectives that are evident in these countries as well as the programming trends,
+types, coverage, and expenditure patterns. The paper also examines dimensions specific to
+fragile and conflict-affected settings in implementing social protection and labor programs,
+such as social cohesion, the role of community-driven development, and postwar benefits.
+Finally, the study highlights social protection and labor program delivery in seven different
+country contexts, and discusses the country-specific programming options chosen to achieve
+the objectives and overcome capacity and operational constraints.
+
+
+
+
+About this series...
+
+Social Protection & Labor Discussion Papers are published to communicate the results of The World Bank’s
+work to the development community with the least possible delay. This paper therefore has not been
+prepared in accordance with the procedures appropriate for formally edited texts.
+
+The findings, interpretations, and conclusions expressed herein are those of the author(s), and do not
+necessarily reflect the views of the International Bank for Reconstruction and Development/The World Bank
+and its affiliated organizations, or those of the Executive Directors of The World Bank or the governments
+they represent. The World Bank does not guarantee the accuracy of the data included in this work. The
+boundaries, colors, denominations, and other information shown on any map in this work do not imply any
+judgement on the part of The World Bank concerning the legal status of any territory or the endorsement or
+acceptance of such boundaries.
+
+For more information, please contact the Social Protection Advisory Service, The World Bank, 1818 H Street,
+N.W., Room G7-803, Washington, DC 20433 USA. Telephone: (202) 458-5267, Fax: (202) 614-0471, E-mail:
+socialprotection@worldbank.org or visit us on-line at www.worldbank.org/spl.
+
+
+
+                                   © 2015 International Bank for Reconstruction and Development / The World Bank
+

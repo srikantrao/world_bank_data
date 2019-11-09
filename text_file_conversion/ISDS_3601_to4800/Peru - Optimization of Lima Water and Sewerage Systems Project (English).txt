@@ -1,0 +1,534 @@
+Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+I.  Basic Information
+ 
+Date prepared/updated:  02/17/2011 
+Report No.:  AC5406
+1. Basic Project Data  
+ 
+Country:  Peru 
+Project ID:  P117293 
+Project Name:  Optimization of Lima Water and Sewerage Systems 
+Task Team Leader:  Miguel Vargas-Ramirez 
+Estimated Appraisal Date: February 17, 
+2011 
+Estimated Board Date: April 7, 2011 
+Managing Unit:  LCSUW 
+Lending Instrument:  Specific Investment 
+Loan 
+Sector:  Water supply (50%);Sewerage (50%) 
+Theme:  Access to urban services and housing (90%);Other public sector governance 
+(10%) 
+IBRD Amount (US$m.): 
+54.50 
+IDA Amount (US$m.): 
+0.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ Borrower 
+10.40
+10.40 
+Environmental Category: B - Partial Assessment 
+Repeater [] 
+ 
+ 
+Is this project processed under OP 8.50 (Emergency Recovery) 
+or OP 8.00 (Rapid Response to Crises and Emergencies) 
+Yes [ ] 
+No [X] 
+2. Project Objectives 
+The Project Development Objective (PDO) is to improve efficiency, continuity and 
+reliability of water supply and sanitation services in the Northern Service Area of Lima.   
+ 
+3. Project Description 
+1. 
+In order to improve the efficiency, continuity and quality of the services, 
+SEDAPAL will follow a two-tier strategy. The first is to make more water available by 
+reducing the physical losses in the system, and the second is to improve the operational 
+and commercial management of the water and sanitation system by: (a) reducing 
+commercial losses, and (b) optimizing the technical operation of the systems (pressure 
+management, sectorization and valve control, automatization for the control systems and 
+others). The proposed project will consist of three components, as follows:  
+ 
+2. 
+Component 1. Rehabilitation of water and sewerage networks in Northern Service 
+Area of Lima (US$61.2 million, of which US$51.3 million will be financed by the Bank 
+loan). This component will finance the rehabilitation of the water and sewerage networks 
+in Northern Service area of Lima, directly benefiting more than 158,380 low income 
+Page  2
+people. The exact proportion of replacement and renovation will be determined during 
+implementation based on a detailed hydraulic modeling of each subsector and an agreed 
+methodology.  
+ 
+3. 
+To improve the appropriate management of the rehabilitated network and reduce 
+losses the component will also finance: (i) rehabilitation of water reservoirs (concrete 
+storage tanks) to increase storage capacity and pressure stabilization; (ii) replacement of 
+household connections and installation of new domestic water meters; and (iii) 
+installation of bulk water meters and valves to allow sectorization.  
+ 
+4. 
+Social interventions will complement these physical investments to maximize the 
+Project's expected benefits by taking measures to facilitate the transition to a full 
+pressure, continuous and metered service. These will include the provision of guidance to 
+manage consumption in particular through the use of in-house water saving equipment.  
+ 
+5. 
+Component 2. Improving SEDAPAL's Efficiency (US$2.3 million, of which 
+US$1.88 million will be financed by the Bank loan). This component will finance studies 
+and consultant services to provide decision-making tools to SEDAPAL's management to 
+improve the company's efficiency. The activities will be focused on the following four 
+areas:  
+ 
+(a) 
+Support for the implementation of the GIS: including an evaluation of the cadastre 
+to determine priority zones for updating and the identification of a process for regular 
+updating, as well as support to the training and institutional arrangements needed within 
+SEDAPAL to maximize the potential of the GIS;  
+ 
+(b) 
+SCADA information technology strategy and consolidation: including support to 
+SEDAPAL in the preparation of a SCADA Master and Investment Plan to ensure the 
+compatibility of current and future SCADA strategies;  
+ 
+(c) 
+Preparation of a strategy to efficiently meet user demand for water and sanitation 
+services: including an evaluation of the exogenous and endogenous factors that affect 
+demand for WSS services, an estimation of future demand trends backed by adequate 
+sensitivity analysis, and identification of priority actions to meet such demand as 
+efficiently as possible; and  
+ 
+(d) 
+Options for the development of a new organizational model: including the 
+preparation of a strategic vision for SEDAPAL's management over the medium and long-
+term incorporating new technologies, aligning human resources management with 
+modern practices, exploring options for sustainable financing of capital investments and 
+rearranging institutional structure along functional lines.  
+ 
+Component 3. SEDAPAL Project Management (US$1.4 million, of which US$1.32 
+million will be financed by the Bank loan). This component will finance the additional 
+staff required for project management to establish a Monitoring and Evaluation System 
+and undertake the required financial, physical, and procurement audits. Additionally, it 
+will finance individual consultants to strengthen the team on procurement, financial 
+management and communication, as well as the training for strategic planning, and 
+selection of technical options to allow full compliance with the Investment Plan 2009-
+Page  3
+2013 and subsequent plans. This component will also support SEDAPAL's efforts to 
+document the Project's process and results, and to mainstream lessons learned and good 
+practices.   
+ 
+4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis 
+The Project is located in the northern zone of the Lima Metropolitan Area, in the 
+Province of Lima. The area comprises the Northern Service Area of SEDAPAL, which 
+comprises 16 districts (Ancón, Bellavista, Callao, Carabayllo, Carmen de la Legua, 
+Comas, Independencia, La Perla, La Punta, Los Olivos, Puente Piedra, Rimac, San Juan 
+de Lurigancho, San Martín de Porres, Santa Rosa and Ventanilla). It is envisaged that 
+physical investments will largely benefit the districts of Los Olivos-San Martin de Porres 
+(44,920 inhabitants), Independencia (66,516 inhabitants) and Comas-Los Olivos (10,994 
+inhabitants), with a total beneficiary population of 158,380 in an area of approximately 
+118 km2  
+ 
+The area is completely urban, with a low population density due mostly to fast and 
+unplanned horizontal growth. The geologic landscape is, as the rest of the Lima region, 
+described as a maritime desert: rugged soil surrounded by hills comprised mostly of 
+pebbles, clay, sandstone and mud, scarce vegetation, high humidity and mild 
+temperatures (with the exception of 1997-1998 during El Niño, the highest temperature 
+registered over the past 12 years has been 32.9ºC, and the lowest 11.9ºC). Rainfall is 
+almost non-existent with the exception of very mild drizzles during the winter.   
+ 
+5. Environmental and Social Safeguards Specialists 
+Ms Maria Elizabeth Dasso (LCSSO) 
+Mr Raul Tolmos (LCSEN) 
+Ms Kimberly Vilar (LCSTR) 
+ 
+6. Safeguard Policies Triggered
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+X
+Natural Habitats (OP/BP 4.04) 
+ X 
+Forests (OP/BP 4.36) 
+ X 
+Pest Management (OP 4.09) 
+ X 
+Physical Cultural Resources (OP/BP 4.11) 
+X
+Indigenous Peoples (OP/BP 4.10) 
+ X 
+Involuntary Resettlement (OP/BP 4.12) 
+X
+Safety of Dams (OP/BP 4.37) 
+ X 
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X 
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+Page  4
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts: 
+The environmental impacts of the proposed project are considered to be low since no 
+significant and irreversible environmental damage is expected.   
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+The proposed Project consists of rehabilitating or replacing existing pipes and associated 
+construction works, mostly sewerage and water networks in the Northern Service Area in 
+Lima. Minor environmental impacts, mostly nuisances (e.g., disposal of construction 
+waste and replaced pipeline waste, disposal of liquid waste from machinery camps, 
+odors, dust and noise, traffic and households restrictions, etc.) will be addressed by 
+appropriate guidelines and measures that will be incorporated into the technical 
+specifications of construction/rehabilitation contracts and have been identified as part of 
+the Environmental Impact Assessment study that has been carried out by a single 
+consulting firm for the whole Project in the Northern Service Area.  
+ 
+SEDAPAL has prepared a social assessment for the Northern Service Area, which 
+provided information on the characteristics of the population, map of stakeholders, social 
+and economic issues of the beneficiaries and consultation with female leaders.  The report 
+includes a directory of civil society organizations, NGOs and community based groups, 
+for project implementation.  
+ 
+The social assessment evidenced opportunities and risks in the Project. It identified as 
+potential risks, the occurrence of conflicts for the installation of meters of water 
+consumption, for the excessive duration of the works, and/or for the increasing of the 
+costs of the works beyond the expected range.  
+ 
+The process of Participation and Public consultation is a mechanism of management and 
+governance, which needs resources for its appropriate implementation. It identifies 4 
+elements for the success of the project: (i) commitment of the local actors for preventive 
+group actions to avoid unwanted outcomes, (ii) state investment (Sedapal, Municipalities) 
+to strengthen the mechanisms of social participation and water management; (iii) system 
+of management by results; and (iv) transparency of results and regularity in the public 
+accountability.   
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts. 
+There are two alternatives under consideration to avoid or minimize potential adverse 
+impacts: (i) rehabilitation instead of replacement of pipes for both water and sewerage is 
+being considered; and (ii) when replacement is necessary, the use of trenchless 
+technologies to reduce and eliminate nuisances (e.g., disposal of construction waste and 
+replaced pipelines waste, disposal of liquid waste from machinery camps, odors, dust and 
+noise, traffic and households restrictions, etc.).  
+Page  5
+The fact that most of the large diameter network is made of asbestos-cement pipes 
+points to an advantage of rehabilitation rather than replacement, because the disposal of 
+old asbestos-cement pipes is a difficult environmental problem due to the toxic nature of 
+such waste material. Even if asbestos-cement pipes are replaced, it would be advisable to 
+leave the old pipes in their place and install new pipes in parallel. Several trenchless 
+rehabilitation methods are in common use to date, however, choosing between an open 
+cut or trenchless rehabilitation should also consider local labor and environmental 
+conditions. An analysis to assess the optimal trade-off between potential labor savings 
+and environmental considerations would be carried out during the field tests, and it would 
+be greatly dependent on specific site conditions and pipe diameter and material. As to the 
+sewerage collectors, it is advisable to use rehabilitation methods rather than replacement 
+of pipes, however, information to make a final decision would only be available once the 
+final designs are available.   
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide 
+an assessment of borrower capacity to plan and implement the measures described. 
+Environmental  
+ 
+A
+full review of the Borrower's capacity indicates extensive prior experience with 
+environmental assessment and safeguard measures based on similar projects with the 
+World Bank and other donors such as CAF, IADB, KfW and JICA. SEDAPAL has an 
+11-person Environmental Management team (Equipo de Gestion Ambiental-EGAm) in 
+charge of environmental aspects of water and sanitation projects. At EGAm 5 people are 
+specialists in environmental impact assessments. SEDAPAL has also experience with the 
+national licensing procedures as well as the EIAs review process.Currently SEDAPAL 
+has internal procedures and standardized processes for environmental management in 
+compliance with the Ministry of Housing, Construction and Sanitation's environmental 
+management regulatory framework.  
+ 
+SEDAPAL hired the consulting firm Nippon Koei to carry out the Project's 
+Environmental Impact Assessment (EIA). The World Bank reviewed the EIA and made 
+comments and suggestions that determined the preparation of an Addendum to the 
+original EIA report. The Bank is satisfied with the quality of the EIA. The detailed EIA  
+includes: (i) potential positive and negative impacts including direct, indirect, and 
+cumulative impacts as well as aspects related to overall water use and supply (surface and 
+groundwater), and linkages to the wastewater collection system and any potential impact; 
+(ii) baseline environmental and social aspects of the project area, (iii) review of the legal 
+and institutional framework, especially as pertains to the requirements under the EIA 
+requirements and licensing; (iv) assessment of institutional capacity regarding aspects 
+needed for the Project's Environmental Management Plan (EMP) implementation and for 
+overall strengthening of the institutional environmental procedures with potential for 
+mainstreaming; and (v) an EMP was prepared for those works and activities that are 
+under design. Specific programs were also designed to identify measures for solid and 
+liquid waste disposal, conservation and restoration of vegetation, pollution prevention of 
+aquifers and water systems, etc. The EMP  includes the aspects covered in the Bank's 
+OP4.01 Annex C, including criteria for identifying sensitive areas, staffing and 
+Page  6
+institutional responsibilities regarding implementation of measures identified in 
+environmental management programs as well as capacity-building needs and 
+strengthening, and best-management practices for construction to minimize impacts 
+associated with rehabilitation and replacement works.  
+ 
+In terms of Physical Cultural Resources, Peru has a well-developed legislative and 
+normative framework for management of physical cultural property, which is under the 
+oversight of the National Institute of Culture. In accordance to local legislation and Bank 
+requirements, the EIA report commissioned by SEDAPAL includes procedures for 
+screening any known cultural property in the Project area and incorporate 'chance find' 
+procedures in the event that culturally significant resources are discovered during 
+implementation. Procedures for the identification and protection of physical cultural 
+resources have been also included in the EMP.   
+ 
+The EIA and the Addendum including the Bank's recommendations has been disclosed 
+through consultations in the Project's area in October, 2010, is available in SEDAPAL's 
+website (www.sedapal.com.pe), and is also in the Bank's InfoShop since December 21, 
+2010.  
+ 
+Social  
+ 
+The outcomes and findings of the social assessment will be disseminated via 
+SEDAPAL's website including a video of the consultation.  Among the relevant 
+opportunities identified in the social assessment is that there is the potential for 
+improvement of the capacities of the water management of the population at the 
+household level, participation in the decisions, monitoring of works and surveillance of 
+the system for its sustainability, and access to temporary employment in the works 
+(estimate a hiring capability of 2600 people).  
+ 
+The process of Participation and Public consultation is a mechanism of management and 
+governance, which needs resources for its appropriate implementation. The participation 
+and public consultation identifies 4 elements for the success of the project: (i) 
+commitment of the local actors for preventive group actions to avoid undesirable 
+outcomes, (ii) state social investment (SEDAPAL, Municipalities) to strengthen the 
+mechanisms of social participation and water management at the household level; (iii) 
+system of management by results; and (iv) transparency of results and regularity in the 
+public accountability.  
+ 
+The data of this Social Assessment served as baseline to measure the results of the 
+Project in the aspects of social participation and consultation of the population. In the 
+process of information developed with the housing organizations, it proposed the creation 
+of a neighborhood watch group, who would contribute to the system of monitoring and 
+feedback. The monitoring and feedback mechanisms are to be defined more specifically 
+in the Project Operational Manual.  
+ 
+In summary, the Social Assessments and the consultation resulted in valuable input for 
+project design on each of the thematic areas: Information and consultation, Execution of 
+Works, Training and Surveillance. For Information and Consultation, the need for the 
+following actions were highlighted: (a) campaigns of diffusion of the Project in the 12 
+Page  7
+(18) Sectors of Distribution of Potable Water, (b) coordination instances between the 
+housing organizations, municipalities and SEDAPAL for the prevention and/or resolution 
+of conflicts and (c)  meetings and signing of agreements. In terms of Execution of Works, 
+it was prioritized the following:  (a) inclusion in the bidding terms of reference of works 
+the hiring of local unskilled labor, (b) pedestrian and vehicular vials must remain the 
+same or in better conditions than before the project; (c) that the Environmental Mitigation 
+Plan - PMA includes measurements that must be accomplished by the contractor's work. 
+In terms of Training, it was seen as the most relevant the education to the population in 
+the care, maintenance and control of the water and sewerage. For Surveillance, the 
+Assessmente pointed out the need for organizing a system of reception and resolution of 
+complaints, assuring the quality and precision in the purchase of meters of water 
+consumption. These suggestions are to be incorporated in the Terms of Reference of the 
+Social Intervention for Works for component 1, and PROMESAL, the executing unit,  
+will receive training on their monitoring and implementation  
+ 
+In addition, SEDAPAL manages a grievance mechanism called AGUAFONO, which is 
+considered best practice in the public sector and is well-known by the population. This 
+mechanism is another channel where the company can receive feedback from civil 
+society. During Project preparation the team discussed the integration of the data system 
+acquired by AGUAFONO and the technical department, with regards to pipe breakages 
+and network issues, in order to have a comprehensive picture on the performance of its 
+networks.   
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+The social assessment was developed in September 2010. The report includes the 
+identification of stakeholders by districts, role and functions, a map of actors, and by 
+potential risks.  
+ 
+A
+public consultation on social and environmental issues was held in October 2010 with 
+sector stakeholders and civil society to discuss the findings of social assessments, and 
+present the EA report and mitigation measures contained in the EMP. Following there is 
+a
+list of the most prominent social organizations in the area:  
+ 
+In Comas: Local Government Municipality of Comas, Asoc. Viv
+.
+II Sector, Comité de 
+Obra y Saneamiento Físico Legal, Zona VIII, Año Nuevo Committee, JP Huaquillay II 
+Etapa, AH Torres Bajo, AH Año Nuevo, Urb. Santa Luzmila IV Etapa II Sector, Urb El 
+Retablo Parque Girasoles Sector VI, Urb, Santa Isolina Zona XI, Urb. El Álamo, and 
+Coordinadora distrital de Clubes de Madres  
+ 
+In Independencia: Local Government Municipality of Independencia, Comité de 
+Gestión de Obras Generales de Agua y Alcantarillado del Esquema Tupac Amaru y 
+Tahuantinsuyo, Unión de Pueblos de Independencia, AH José Gálvez, CP Calavera AH 
+Calavera, Central Comedores San Pedro y San Pablo, Central distrital de Comedores 
+Populares Autogestionarios de Independencia, CP Nueva Generación, CP José Carlos 
+Mariátegui, CP Tahuantinsuyo, CP Virgen del Carmen, CP AH Bellavista, CP AH 1 de 
+Page  8
+Mayo, CP AH Villa Chilcas, CP Carmen Bajo, CP Valle Young, CP Valle Hermoso de 
+Los Incas, CP Hermanos Ayar. AH Hermanos Ayar, CP AH Sol Naciente. Túpac Amaru, 
+CP María Auxiliadora, CM Santo Tomás, CVL Las Américas II Etapa. Tahuantinsuyo, 
+CVL AH Carmen Alto, CVL AH Sarita Colonia, CVL AH 25 de diciembre, OSB 
+Micaela Bastidas, Mini Cuna Ardillitas. Túpac Amaru, and CP Victor Raul Haya de la 
+Torre.  
+ 
+In Los Olivos: Municipalidad distrital de Los Olivos, Comité de Parques Nº 3 Urb Pro 
+Lima, and Comité de Vigilancia Urb. Pro Lima  
+ 
+In San Martin de Porres: Municipalidad distrital San Martín de Porres, Asoc. Policial y 
+Civil Santa Rosa de Lima, Comité de Obras de San Diego, Comité de Gestión de San 
+Diego, AV Virgen del Carmen, and AVIPOL.  
+ 
+In the Northern Area of Lima: FEMOCCPAAL, NGO  Alternativa, NGO Proceso 
+Social, NGO Aurora Vivar, NGO Edaprospo, NGO Mujer y Sociedad, and NGO 
+COPEME.   
+ 
+B. Disclosure Requirements Date
+ 
+Environmental Assessment/Audit/Management Plan/Other: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+ 
+Date of receipt by the Bank 
+08/09/2010 
+ 
+Date of "in-country" disclosure 
+09/15/2010 
+ 
+Date of submission to InfoShop 
+12/21/2010 
+ 
+For category A projects, date of distributing the Executive 
+Summary of the EA to the Executive Directors 
+ 
+Resettlement Action Plan/Framework/Policy Process: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+ 
+Date of receipt by the Bank 
+02/16/2011 
+ 
+Date of "in-country" disclosure 
+02/16/2011 
+ 
+Date of submission to InfoShop 
+02/16/2011 
+ 
+Indigenous Peoples Plan/Planning Framework: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+Pest Management Plan: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+*
+If the project triggers the Pest Management and/or Physical Cultural Resources, 
+the respective issues are to be addressed and disclosed as part of the Environmental 
+Assessment/Audit/or EMP. 
+Page  9
+If in-country disclosure of any of the above documents is not expected, please 
+explain why: 
+N/A   
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the 
+ISDS is finalized by the project decision meeting) 
+ 
+OP/BP/GP 4.01 - Environment Assessment 
+ 
+Does the project require a stand-alone EA (including EMP) report? 
+Yes 
+If yes, then did the Regional Environment Unit or Sector Manager (SM) 
+review and approve the EA report? 
+Yes 
+Are the cost and the accountabilities for the EMP incorporated in the 
+credit/loan? 
+Yes 
+OP/BP 4.11 - Physical Cultural Resources 
+ 
+Does the EA include adequate measures related to cultural property? 
+Yes 
+Does the credit/loan incorporate mechanisms to mitigate the potential 
+adverse impacts on cultural property? 
+Yes 
+OP/BP 4.12 - Involuntary Resettlement 
+ 
+Has a resettlement plan/abbreviated plan/policy framework/process 
+framework (as appropriate) been prepared? 
+Yes 
+If yes, then did the Regional unit responsible for safeguards or Sector 
+Manager review the plan? 
+Yes 
+The World Bank Policy on Disclosure of Information 
+ 
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+Yes 
+Have relevant documents been disclosed in-country in a public place in a 
+form and language that are understandable and accessible to project-affected 
+groups and local NGOs? 
+Yes 
+All Safeguard Policies 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities 
+been prepared for the implementation of measures related to safeguard 
+policies? 
+Yes 
+Have costs related to safeguard policy measures been included in the project 
+cost? 
+Yes 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures related to safeguard policies? 
+Yes 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+Yes 
+Page  10
+D. Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Mr Miguel Vargas-Ramirez 
+02/16/2011 
+Environmental Specialist: 
+Mr Raul Tolmos 
+02/16/2011 
+Social Development Specialist 
+Ms Maria Elizabeth Dasso 
+02/16/2011 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+Ms Kimberly Vilar 
+02/17/2011 
+Approved by: 
+ 
+Sector Manager: 
+Mr Carlos E. Velez 
+02/16/2011 
+Comments:   

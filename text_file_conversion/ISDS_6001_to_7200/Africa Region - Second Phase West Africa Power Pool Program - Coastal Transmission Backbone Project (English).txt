@@ -1,0 +1,352 @@
+Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+I.  Basic Information
+ 
+Date prepared/updated:  03/31/2006 
+Report No.:  AC2180
+1. Basic Project Data  
+ 
+Country:  Africa 
+Project ID:  P094917 
+Project Name:  WAPP APL 1 (2nd Phase  - COASTAL TRANSMISSION BACKBONE)
+Task Team Leader:  Amarquaye Armar 
+Estimated Appraisal Date: April 3, 2006 
+Estimated Board Date: June 20, 2006 
+Managing Unit:  AFTEG 
+Lending Instrument:  Adaptable Program 
+Loan 
+Sector:  Power (50%);District heating and energy efficiency services (50%) 
+Theme:  Regional integration (P) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+60.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER/RECIPIENT 
+15.00 
+ 
+AFRICAN DEVELOPMENT BANK 
+40.00 
+ 
+ISLAMIC DEVELOPMENT BANK 
+15.00 
+ 
+WEST AFRICAN DEVELOPMENT BANK 
+15.00
+85.00 
+Environmental Category: B - Partial Assessment 
+Simplified Processing 
+Simple [] 
+Repeater [] 
+Is this project processed under OP 8.50 (Emergency Recovery) 
+Yes [ ] 
+No [X] 
+2. Project Objectives 
+1. 
+The developmental objective of the Coastal Transmission Backbone Project of the 
+WAPP APL (WAPP APL 1) is to increase access of national power systems of CÃ´te 
+d’Ivoire, Ghana, Togo, Benin and Nigeria (collectively, the WAPP “Zone A” coastal 
+states) to more stable and reliable electricity as a means to alleviate power supply deficits 
+and/or to reduce their collective vulnerability to drought-induced power supply 
+disruptions.  This developmental objective is to be achieved, inter alia, by: (a) 
+establishing a robust 330 kV transmission link from the Prestea, Aboadze and Volta 
+substations (Ghana) through the Mome Hagou sub-station (Togo) and SakÃ©tÃ© sub-
+station (Benin) to the Ikeja West substation near Lagos, Nigeria; and (b) assisting 
+transmission system operators of WAPP “Zone A” Coastal States to collectively put in 
+place and fully deploy a WAPP Cooperation Agreement (Figure 2), incorporating a 
+“Operational Security and Mitigation Plan” for the CTB, by the year 2009.  
+ 
+2.
+When fully operational, the CTB Project of the WAPP APL program will 
+facilitate reliable cross-border electricity exchanges between WAPP “Zone A” Coastal 
+States until at least the year 2020. Furthermore, the major benefits to be derived by the 
+WAPP “Zone A” Coastal States from the CTB are reduced transmission losses and 
+Page  2
+operating costs, reduced dependence on inefficient aging generation and transmission 
+facilities, deferred investment in generation capacity expansion due to greater sharing of 
+existing generation reserves and increased overall system reliability.   
+ 
+3. Project Description 
+3. 
+The Coastal Transmission Backbone (CTB) of WAPP involves a multi-year 
+commitment of the four TSOs of the WAPP “Zone A” Coastal States to develop the 330 
+kV transmission corridor in phases, as follows: Phase 1 comprises CTB segments linking 
+(i) the Ikeja West Substation (Nigeria) to the SakÃ©tÃ© sub-station in Benin, and (ii) 
+the Aboadze and Volta sub-stations within Ghana. Phase 2 covers the joint CEB/VRA 
+development of a critical transmission link between the Volta sub-station (Ghana) and the 
+Mome Hagou sub-station (Togo); and (iii) Phase 3 will link the SakÃ©tÃ© sub-station 
+(Benin) to the Mome Hagou sub-station (Togo) in order tofacilitate electricity exchanges 
+on a much large scale (300-500 MW) between Ghana and Nigeria via the CEB network.  
+ 
+4.
+The CTB Project of WAPP also involves coordinated implementation of 
+complementary investments and technical assistance. The investments include the 
+upgrade/ modernization of the system control centers of CEB and VRA plus 
+SCADA/EMS communication capabilities of associated sub-stations in the existing 
+transmission networks of CEB and VRA, rehabilitation of key coastal transmission 
+facilities of CEB and replacement of obsolete relays and circuit breakers at the 
+switchyards of the three hydropower generation stations (Akosombo, Kpong, Nangbeto) 
+that interface with the CTB.  The principal technical assistance component is required by 
+the TSOs and the WAPP Secretariat to put in place and fully deploy the proposed WAPP 
+“Operational Security and Mitigation Plan” for the CTB.  
+ 
+5. 
+This ISDS applies to the components listed below, all of which are to be financed 
+by IDA credits to Benin and Ghana under the WAPP APL 1 – Phase 2 operation:  
+ 
+Component 1 : Transmission Infrastructure Development  
+ 
+Benin (CEB)  
+ 
+•
+Rehabilitation (including replacement of aging conductors) of Mome Hagou-
+Lome, Mome Hagou – Avakpa – Cotonou and Sakete – Cotonou segments of the existing 
+161 kV transmission network to improve reliability of electricity transfers from the CTB 
+sub-stations into the main CEB load centers (Lome and Cotonou);  
+ 
+Ghana (VRA)  
+ 
+Extension of the Akosombo and Volta Sub-stations within their current perimeters; 
+Upgrade (replacement of obsolete circuit breakers and relays at the switchyard of the 
+Kpong Generation Station;  
+ 
+•
+Construction of 3rd Bulk Supply Point for the Accra/Tema load centers in order 
+to improve reliability of electricity transfers from the CTB  
+ 
+•
+Pre-investment studies for the proposed Aboadze-Kumasi and Tumu-Han-Wa 
+transmission lines to reinforce Ghana transmission network for future WAPP Inter-Zonal 
+Transmission Hub Project.  
+ 
+Component 2: Upgrade of System Control Centers/SCADA  
+ 
+Benin (CEB)  
+Page  3
+•
+Upgrade of CEB System Control Center and associated sub-stations  
+ 
+Ghana (VRA)  
+ 
+•
+Upgrade of SCADA and Metering Systems of sub-stations in the southern 161 kV 
+transmission loop within Ghana;  
+ 
+•
+Ghana System Control Center Study.  
+ 
+Component 3: Upgrade of Strategic Power Generation Stations  
+ 
+Benin (CEB)  
+ 
+•
+Development/deployment of an “Emergency Preparedness Plan” for the Nangbeto 
+Generation Station.  
+ 
+Ghana (VRA)  
+ 
+•
+Rehabilitation of Cranes at the Akosombo Generation Station  
+ 
+•
+Development/deployment of “Emergency Preparedness Plans” for the Akosombo 
+andKpong Generation Stations.  
+ 
+Component 4: Institutional Capacity Building Support for WAPP Organization  
+ 
+Benin (CEB)  
+ 
+•
+Equipment to upgrade CEB Facility in Cotonou (to accommodate WAPP 
+Organization’s Information and Coordination Center).  
+ 
+Ghana (VRA)  
+ 
+•
+Upgrade of VRA Training Center for WAPP Organization.   
+ 
+4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis 
+The investment components of WAPP APL 1 (Phase 2) are located in Ghana, Togo and 
+Benin and will be implemented by VRA and CEB.  
+ 
+The CEB components of the WAPP APL 1 Phase 2 project consists primarily of 
+replacement/refurbishment of equipment and transmission facilities that link the Mome 
+Hagou sub-station to the major load centers of Lome (Togo) and Cotonou (Benin) and on 
+to Sakete (Benin) to link up with the line into Nigeria, plus the upgrade of the CEB 
+System Control Center.  
+ 
+The VRA components of the WAPP APL 1 Phase 2 project consist of the construction 
+of 3rd Bulk Supply Point for the Accra/Tema load centers, the replacement/addition of 
+existing equipment in the existing network of transmission sub-stations in southern 
+Ghana, the upgrade (replacement of obsolete circuit breakers and relays) at existing 
+switchyard of the Kpong Generation Station, and the rehabilitation of cranes at the 
+Akosombo Generation Station.   
+ 
+5. Environmental and Social Safeguards Specialists 
+Mr John A. Boyle (AFTS1) 
+ 
+Page  4
+6. Safeguard Policies Triggered
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+X
+Natural Habitats (OP/BP 4.04) 
+ X 
+Forests (OP/BP 4.36) 
+ X 
+Pest Management (OP 4.09) 
+ X 
+Cultural Property (OPN 11.03) 
+ X 
+Indigenous Peoples (OP/BP 4.10) 
+ X 
+Involuntary Resettlement (OP/BP 4.12) 
+ X 
+Safety of Dams (OP/BP 4.37) 
+ X 
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X 
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts: 
+Environmental concerns are limited to measures required to avoid adverse impacts of 
+construction activities during transmission line upgrading and at existing substations, and 
+to attend to any site remediation issues at those sub-stations.  
+ 
+CEB has indicated an intention to settle land-based compensation claims outstanding 
+since the construction of the existing 161 kV transmission line some 30 years ago.  Doing 
+so is not necessitated by the project, and the project will not fund the settlement of these 
+claims.  CEB would also like to clear the right-of-way of current land uses but, since this 
+would violate OP 4.12, has undertaken to implement the project without doing so.  The 
+construction clauses in the EMP should be sufficient to ensure public health and safety 
+during construction.  If it should be determined that there are structures, valuable trees, 
+etc. that have to be removed, or land uses terminated, CEB has undertaken to bring these 
+situations to IDA’s attention for a determination of what response is needed under 
+OP4.12 before any action is taken.  These undertakings by CEB will be documented in 
+the Development Credit Agreement.   
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+None.   
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts. 
+Not applicable.   
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide 
+an assessment of borrower capacity to plan and implement the measures described. 
+VRA and CEB have prepared Environmental Management Plans (EMPs) to ensure these 
+matters are attended to during project implementation through environmental 
+specifications in construction contracts, and technical audits of and remediation work at, 
+Page  5
+substation sites. Installation of the 3rd Bulk Supply Point for the Accra/Tema load centers 
+will not require any land acqui
+sition by VRA. VRA’s latest reviews of the Akosombo 
+and Kpong dams by an international panel confirm satisfactory performance.  As part of 
+the project, VRA will prepare an updated dam safety assessment, including an emergency 
+preparedness plan.  CEB may do the same for the Nangbeto dam (to be confirmed at 
+appraisal).  Both VRA and CEB have sufficient capacity to implement these EMPs and 
+adequately supervise construction activities.   
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+Implementation of the EMPs, especially the construction contract provisions, will ensure 
+the health and safety of people living or using land near construction sites, especially 
+along the transmission line in Togo and Benin.   
+ 
+B. Disclosure Requirements Date
+ 
+Environmental Assessment/Audit/Management Plan/Other: 
+Date of receipt by the Bank 
+02/15/2006 
+ 
+Date of "in-country" disclosure 
+02/17/2006 
+ 
+Date of submission to InfoShop 
+02/17/2006 
+ 
+For category A projects, date of distributing the Executive 
+Summary of the EA to the Executive Directors 
+ 
+*
+If the project triggers the Pest Management and/or Cultural Property, the 
+respective issues are to be addressed and disclosed as part of the Environmental 
+Assessment/Audit/or EMP. 
+If in-country disclosure of any of the above documents is not expected, please 
+explain why: 
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the 
+ISDS is finalized by the project decision meeting) 
+ 
+OP/BP/GP 4.01 - Environment Assessment 
+ 
+Does the project require a stand-alone EA (including EMP) report? 
+Yes 
+If yes, then did the Regional Environment Unit or Sector Manager (SM) 
+review and approve the EA report? 
+Yes 
+Are the cost and the accountabilities for the EMP incorporated in the 
+credit/loan? 
+Yes 
+The World Bank Policy on Disclosure of Information 
+ 
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+Yes 
+Have relevant documents been disclosed in-country in a public place in a 
+form and language that are understandable and accessible to project-affected 
+groups and local NGOs? 
+Yes 
+Page  6
+All Safeguard Policies 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities 
+been prepared for the implementation of measures related to safeguard 
+policies? 
+Yes 
+Have costs related to safeguard policy measures been included in the project 
+cost? 
+Yes 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures related to safeguard policies? 
+Yes 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+Yes 
+D. Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Mr Amarquaye Armar 
+03/30/2006 
+Environmental Specialist: 
+Mr John A. Boyle 
+03/30/2006 
+Social Development Specialist 
+Mr Dan R. Aronson 
+ 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+ 
+Approved by: 
+ 
+Sector Manager: 
+Mr Subramaniam V. Iyer 
+03/30/2006 
+Comments:   

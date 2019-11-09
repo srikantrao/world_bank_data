@@ -1,0 +1,564 @@
+                                                INTEGRATED SAFEGUARDS DATA SHEET
+                                                        APPRAISAL STAGE
+                                                                                              Report No.: ISDSA19791
+Public Disclosure Copy
+
+
+
+
+                         Date ISDS Prepared/Updated: 19-Sep-2016
+                         Date ISDS Approved/Disclosed: 22-Sep-2016
+                         I. BASIC INFORMATION
+                            1. Basic Project Data
+
+                            Country:           India                               Project ID:   P155038
+                            Project Name:      24x7 - Power for all in Andhra Pradesh (P155038)
+                            Task Team          Mani Khurana,Amol Gupta,Simon J. Stolp
+                            Leader(s):
+                            Estimated          08-Sep-2016              Estimated     30-Nov-2016
+                            Appraisal Date:                             Board Date:
+                            Managing Unit:    GEE06                     Lending       Investment Project Financing
+                                                                        Instrument:
+                            Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+                            8.00 (Rapid Response to Crises and Emergencies)?
+                            Financing (In USD Million)
+                            Total Project Cost:       570.00           Total Bank Financing:    240.00
+                            Financing Gap:              0.00
+                              Financing Source                                                                           Amount
+Public Disclosure Copy
+
+
+
+
+                              Borrower                                                                                    170.00
+                              International Bank for Reconstruction and Development                                       240.00
+                              Asian Infrastructure Investment Bank                                                        160.00
+                              Total                                                                                       570.00
+                            Environmental B - Partial Assessment
+                            Category:
+                            Is this a          No
+                            Repeater
+                            project?
+
+                            2. Project Development Objective(s)
+                           The development objective of the project is to increase the delivery of electricity to customers and to
+                           improve the operational efficiency and system reliability in distribution of electricity in selected
+                           areas in Andhra Pradesh.
+                            3. Project Description
+                           The key components under the proposed Project are as follows:
+
+
+
+                                                                        Page 1 of 10
+                         Component 1: Power Transmission system strengthening (US$ 100million of which IBRD $70
+                         million)
+Public Disclosure Copy
+
+
+
+
+                         This component will make priority investments in 220 kV, 132 kV, 66 kV, and 33 kV transmission
+                         and sub-transmission lines and associated substations, to strengthen and augment the power system.
+                         The specific investments proposed by the state have been verified based on a load flow study. These
+                         investments will reduce overall transmission system losses and increase the capacity of the state
+                         transmission network to enable it to meet demand growth. A long list of twelve substations and the
+                         associated lines have been identified. These packages will be implemented through integrated
+                         turnkey supply and installation (S&I) contracts.
+
+                         Component 2: Smart Grid Development in Urban Areas (US$ 182 million of which IBRD $127
+                         million)
+
+                         The Government of India has launched a "➂❨➂ Smart Cities Mission"➂ , which aims to identify and
+                         develop a number of selected cities across India as "➂❨➂ smart cities"➂ . It is expected that the
+                         development of these cities will develop a "➂❨➂ smart city"➂❨➂ model which can then be
+                         replicated throughout the country. In Andhra Pradesh, Kakinada, Vishakhapatnam and Tirupati have
+                         been selected for development as smart cities in the Smart Cities Challenge / conducted by GoI. This
+                         component would support investments in smart grids and underground cables in the above mentioned
+                         three cities. These investments would include smart meters for selected consumers, distribution
+                         SCADA /, automated sub-stations, and ring main units. It also includes investments in distribution
+                         network strengthening & augmentation (33kV and below) in urban areas, to meet growing power
+                         demand, reduce technical & commercial losses, improve operational efficiency and increase the
+                         system reliability especially in coastal towns prone to natural calamities.
+
+                         Component 3: Distribution System Strengthening Ã¢➂❨➂ Rural (US$ 267 million of which IBRD
+                         $185 million)
+Public Disclosure Copy
+
+
+
+
+                         This component would support strengthening and augmentation of the distribution network (33kV
+                         and below) and construction of the High Voltage Distribution System (HVDS) in rural areas. The
+                         majority of the investments under this component are located in Anantapur and Kurnool - the two
+                         new districts that have been transferred to APSPDCL post the restructuring of the State. The power
+                         infrastructure in these districts is poor and the majority of power transformers, distribution
+                         transformers and feeder lines are overloaded, leading to frequent outages and high technical losses.
+                         As advised by the state, the AT&C losses in Anantapur and Kurnool districts are 18.3% and 10.8%
+                         respectively.
+
+                         The objective of this component is to reduce distribution system losses, increase the capacity of the
+                         distribution network to meet growing load demand, improve system reliability, and improve the
+                         quality of supply to end consumers. The specific investment components are briefly described below:
+
+                             i.    Rural HVDS: System losses will be reduced by replacement of the low voltage network
+                         with a high voltage distribution system (HVDS), and installation of a smaller capacity Distribution
+                         Transformers (DTR) to enable supply to two to three agriculture consumers per transformer. Andhra
+                         Pradesh has already implemented rural HVDS for a majority of its agricultural consumers with loss
+                         reductions and positive consumer feedback. An independent study / shows that, overtime, the
+                         distribution transformer failure rate has been red uced significantly, and the quality of supply has
+
+
+                                                                     Page 2 of 10
+                         improved. Under this project, AP plans to cover the agriculture consumers which are still not
+                         supplied by rural HVDS (i.e. around 30,000 agriculture consumers in APEPDCL), and convert all
+                         agricultural consumers in Anantapur and Kurnool to rural HVDS.
+Public Disclosure Copy
+
+
+
+
+                             ii. Distribution Network Strengthening & Augmentation: This includes the investments required
+                         to augment and strengthen the distribution infrastructure in rural areas of the state. These investments
+                         are expected to improve the quality of supply in the intervention areas.
+
+                         Component 4: Energy Efficient Pump Sets (US$ 10 million of which IBRD $7 million)
+
+                         This component builds upon the learnings and experience of the above mentioned GOI scheme
+                         National Energy Efficient Agriculture Pumps Program which is currently under implementation in
+                         West Godavari district. This component would support the replacement of around 30,000 existing
+                         agricultural pump sets with BEE rated five star energy efficient pump sets, across APSPDCL. For the
+                         remaining pump sets in the selected area/ district, the project will support the installation of smart
+                         control panels on the pump sets to allow remote control and the ability to better control electricity
+                         consumption. This not only result in savings in agricultural electricity supply (which is subsidized
+                         by the State), but will also provide an opportunity to develop an informed estimate of the electricity
+                         being consumed in the agriculture sector.
+
+                         Component 5: Technical Assistance for Institutional Development and Capacity Building (IBRD $10
+                         million)
+
+                         This component would improve the project management capabilities and commercial performance of
+                         the AP utilities by (i) Improving ICT systems, (ii) improving the business processes, (iii) support
+                         supervision of contracts through Project Management Consultants, and (iv) building staff capacity
+                         through training, workshops, and study tours.
+                          4. Project location and salient physical characteristics relevant to the safeguard
+Public Disclosure Copy
+
+
+
+
+                         analysis (if known)
+                         Andhra Pradesh is located on the east coast in peninsular India facing the Bay of Bengal The State
+                         has three physiographic zones, the hilly region (having Nallamalai, Erramalai hills and the Eastern
+                         Ghats having an altitude of 500 to 1400 m); the plateau (having an altitude of 100 m to 1000 m) and
+                         the deltas of rivers (between the Eastern Ghats and the Sea Coast). It has a coast line of 974 km and
+                         its major rivers are Krishna, Godavari, Thungabadra. It has about 21% of the geographical area
+                         under forest cover with 6 National Parks and 21 Wildlife Sanctuaries. It has an ancient religious/
+                         cultural heritage and Tirupati is one of the most popular temples in the country. The state has a tribal
+                         population of 2.7 million amounting to 5.5% of the total population. A few pockets in three districts
+                         are predominantly inhabited by tribals and are covered under the Fifth Schedule of the Indian
+                         Constitution.
+                          5. Environmental and Social Safeguards Specialists
+                         Gaurav D. Joshi (GEN06)
+                         Obaidullah Hidayat (GEN06)
+                         Suryanarayana Satish (GSU06)
+
+                          6. Safeguard Policies       Triggered? Explanation (Optional)
+                          Environmental               Yes            There will be some impact of the proposed intervention
+
+
+                                                                      Page 3 of 10
+                         Assessment OP/BP 4.01          on the biophysical and socio-economic environment that
+                                                        would need to be appropriately managed. Potential
+                                                        adverse impacts of the activities supported under the
+Public Disclosure Copy
+
+
+
+
+                                                        project include the changes to local drainage, felling of
+                                                        trees in locations of the facilities and along the RoW,
+                                                        unsafe conditions for workers and users close to project
+                                                        activity sites. These are addressed through an
+                                                        Environmental and Social Management Framework for
+                                                        the project which specifies how these would be handled as
+                                                        sub-projects are finalized.
+                         Natural Habitats OP/BP   Yes   Significant impacts on natural habitats are not expected
+                         4.04                           due to the nature and scale of transmission activities. The
+                                                        ESMF provides specific screening provisions to
+                                                        determine if natural habitats are an issue, and what
+                                                        environmental instrument is needed if the level of
+                                                        significance of the impacts is unknown. However, as
+                                                        specific subprojects and their locations are yet to be
+                                                        determined further information will be gathered during
+                                                        preparation of the safeguards documentation for these to
+                                                        ascertain specific impacts. If significant impacts are
+                                                        anticipated on critical habitats, the Project will not finance
+                                                        the particular subproject.
+                         Forests OP/BP 4.36       Yes   The project does not envisage any commercial plantation
+                                                        or its harvesting. Some transmission lines may pass
+                                                        through forest areas and could have some impacts on the
+                                                        health and quality of forests. The ESMF provides for
+                                                        screening investments to avoid impacting the health and
+                                                        quality of forests. Any removal of trees will be
+Public Disclosure Copy
+
+
+
+
+                                                        compensated in line with relevant applicable regulation.
+                         Pest Management OP 4.09 No     The Project does not involve the purchase or increased
+                                                        use of pesticides. Thus the Pest Management policy is not
+                                                        triggered.
+                         Physical Cultural        Yes   Since the exact locations and alignments are not finalized,
+                         Resources OP/BP 4.11           there can be some impact on such resources. There could
+                                                        be chance finds during construction. Project preparation
+                                                        will consider this aspect. ESMF has provisions to handle
+                                                        such situations and assessments for sub-projects will
+                                                        provide measures to handle these.
+                         Indigenous Peoples OP/   Yes   AP state has a tribal population of 2.7 million amounting
+                         BP 4.10                        to 5.5% of the total population. A few pockets in three
+                                                        districts are predominantly inhabited by tribals and are
+                                                        covered under the Fifth Schedule of the Indian
+                                                        Constitution. Given the current plans, the project is
+                                                        unlikely to cover the tribal areas. Investment plans drawn
+                                                        as of now are exclusively in the non-tribal pockets only.
+                                                        However, to address such situations wherein the project is
+
+
+
+                                                         Page 4 of 10
+                                                                       likely to be taken up in tribal areas, a Tribal Peoples
+                                                                       Planning Framework (TPPF) has been prepared,
+                                                                       translated into local language, and held consultations and
+Public Disclosure Copy
+
+
+
+
+                                                                       disclosure workshops.
+                            Involuntary Resettlement Yes               Lands are required for the projectÃ¢➂❨➂ s two main
+                            OP/BP 4.12                                 activities: (i) construction of sub stations; and (ii) drawing
+                                                                       up of transmission/ distribution lines. Approaches to
+                                                                       secure lands have been drawn which includes:
+                                                                       resettlement policy framework (RPF) for managing
+                                                                       involuntary land acquisitions. The same is translated into
+                                                                       local langague and held consultations and disclosure
+                                                                       workshops.
+                            Safety of Dams OP/BP        No             The project is not supporting activities that have dams
+                            4.37
+                            Projects on International   No             There are no impacts on international waterways by the
+                            Waterways OP/BP 7.50                       project activities
+                            Projects in Disputed        No             The project activities are not located in any disputed
+                            Areas OP/BP 7.60                           areas.
+
+                         II. Key Safeguard Policy Issues and Their Management
+                             A. Summary of Key Safeguard Issues
+                            1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+                              and describe any potential large scale, significant and/or irreversible impacts:
+                              The project does not envisage any large scale , significant and / or irreversible impacts.
+
+                             Andhra Pradesh is a highly diverse state in terms of social, economic, cultural and geographic
+Public Disclosure Copy
+
+
+
+
+                             characteristics. Its population of 49.5 million accounts for 4.10% of the country's population
+                             makes it the tenth most populous state in the country. The bulk of the population (71%) lives in
+                             rural areas and the remaining 29% live in urban areas. There are 12.72 million households in the
+                             State and the average size of the household is four. Inter and intra district demographic variations
+                             are quite substantial, given that the state has huge tracts of upland, forests and coastal areas. Social
+                             diversity is reflected in sizeable populations of Scheduled Caste (SC) (17%) and Scheduled Tribe
+                             (ST) 5.5 percent. Out of the total scheduled tribes in Andhra Pradesh, approximately 50% reside in
+                             four districts Vishakhapatnam (23%), East Godavari (11%), Nellore (10%) and Vizianagaram
+                             (9%). There are 34 major tribal groups and six primitive tribal groups inhabiting the state. Given
+                             the preponderance of tribal communities and compactness as well as collective attachment to the
+                             natural forest based environ, in certain pockets, safeguards have been built to ensure risks against
+                             land alienation and other socio-economic exploitations. This provision, enshrined under the Fifth
+                             Schedule of the Indian Constitution, recognizes several some tribal pockets in Vishakhapatnam,
+                             West Godavari and East Godavari districts. These areas are also prone to insurgency and conflict.
+                             Tribal People of Andhra Pradesh are economically and technologically better equipped than the
+                             tribes of other states.. Yet, remoteness and undulating hilly terrain could render them rather
+                             excluded at times.
+
+                             Major social safeguards aspects relate to land and tribal people. The project will require lands for
+                             the (a) erection of towers to draw transmission lines and (b) construction of T&D substations. The
+
+
+                                                                         Page 5 of 10
+                         former does not entail permanent acquisition of lands, but creates some temporary damages,
+                         thereby demanding a Compensatory Plan for Temporary Damages (CPTD). The latter, however,
+                         does require land on a permanent basis. The state has reported that there may be no need to acquire
+Public Disclosure Copy
+
+
+
+
+                         lands involuntarily as the government lands are available in most cases. A few may be purchased
+                         in a willing buyer-willing basis at a negotiated rate. However, towards managing unforeseen
+                         circumstances, project has prepared itself for managing involuntary land acquisitions too for
+                         establishing transmission stations. For CPTD, the state intends to make use of the existing
+                         legislation Electricity Act of 2003 and Indian Telegraph Act of 1885. Further, some of the
+                         facilities may be taken up in scheduled/ tribal areas. In view of this situation, the project triggers
+                         OP 4.12 - Involuntary Resettlement and OP 4.10 - Indigenous Peoples.
+
+                         To ensure compliance with the policies concerning safeguards management, the project has
+                         adopted a framework approach as all the investments have not yet been identified. Therefore, the
+                         state has prepared an Environment and Social Management Framework (ESMF) which is a generic
+                         document that serves as a framework and can be adopted for all sub projects .. Essentially, the
+                         framework is prepared based on the recently approved World Bank assisted North East Power
+                         Systems Improvement Project Power System Improvement Project and incorporates due
+                         requirements of Indiasnew ➂❨➂ The Right to Fair Compensation in Land Acquisition,
+                         Resettlement and Rehabilitation Act 2013Ã¢➂❨➂ (LARR 2013) as well as Indian Constitutions
+                         Fifth Schedule provision related to protecting the interest of the tribal people.
+
+                         The ESMFs social content embodies a synthesis of the Resettlement Policy Framework (RPF)
+                         (according to OP 4.12) and a Tribal People Development Planning Framework (TPPF) (according
+                         to OP 4.10). In cases where land is to be acquired and/or there are tribal peoples in the subproject
+                         area, the framework will be adopted and a Social Assessment (SA) will be carried out to enable
+                         preparation of an RAP and/or Tribal Peoples Plan (TPP) as appropriate.. The Framework lays
+                         down the modalities for undertaking the SA as well as the preparation and implementation of the
+                         RAP and TPPs. In such cases, wherein, lands need not be acquired involuntarily, the land will be
+Public Disclosure Copy
+
+
+
+
+                         secured through either voluntary donations or outright purchases based on negotiations with the
+                         land owners. Measures have been described in the Framework to ensure that such transactions are
+                         voluntary and not subject to any external pressures.
+
+                         One major issue to be resolved relates to detailing compensations to be paid in the case of ROW/
+                         CPTD. GOAP is in broad agreement on complying with the s tipulations laid out under the
+                         Bank➢❨ s policy OP 4.12 as well as the Indian National legislation as detailed in the Central
+                         Electricity Act of 2003. Both policies stipulate that there is no need to acquire lands, but, makes a
+                         provision for extending easement assistance or compensations. Following this, it has been agreed
+                         that: (i) land under the tower footing, though need not require to be acquired, shall be fully
+                         compensated and allowed to use the land ( raising the crops) under the footing; and (ii) all
+                         damages / disturbances ( crops, structures, trees, equipment etc.) shall be compensated fully.
+                         However, detailing of the implementation modalities are being worked out. The Bank requires
+                         that: (i) agreements are formalized by GOAP; and (ii) that all individual RAPs are necessarily be
+                         reviewed and agreed with the Bank before implementation. All these issues are expected to be
+                         resolved during project appraisal.
+
+
+                         Environment Potential impacts identified during the implementation phase include clearance/
+                         felling of trees within the right of way (RoW) for transmission lines and substation sites, any
+
+
+                                                                    Page 6 of 10
+                           incidental impact s on local fauna, localized drainage issues where substation construction may
+                           impede drainage, safety of workers and near-by residents. The operational phase impacts could
+                           arise from indiscriminate use and disposal of batteries, transformer oil, e-waste and in case of
+Public Disclosure Copy
+
+
+
+
+                           circuit breaker SF6 handling. Most of these environmental impacts are likely to be short-term,
+                           modest, site-specific and reversible in nature where, mitigation measures can be managed to
+                           reduce the negative impacts of the interventions. It is possible that the installation of energy
+                           efficient pumps, if run for the same duration as inefficient pumps, could lead to sub-optimal water
+                           use or wastage. In view of this, the project is classified as Category B.
+                         2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+                           in the project area:
+                           Not anticipated.
+                         3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+                           impacts.
+                           One of its objectives of the ESMF is to minimize negative impacts and maximize positive impacts.
+                           Careful site selection is built into the framework so that adverse impacts can be minimized. Sub-
+                           project specific documents will include description of alternatives considered in for minimizing
+                           potential adverse impacts.
+                         4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+                           assessment of borrower capacity to plan and implement the measures described.
+                           The ESMF will guide the sub-project specific assessments for environmental and social aspects. It
+                           provides guidance on preparation of SAs/EIAs and ESMPs for sub-projects, along with samples of
+                           outputs expected before implementation. It includes methodologies to be adopted for consultation
+                           and options for mitigation and management. In addition, significant emphasis has been put on safe
+                           management of implementation of transmission as well as distribution sub-projects. Guidance is
+                           also provided for reporting and monitoring. Capacity building measures including training session
+                           descriptions have been identified for various levels of staff in the utilities. Line items budgetary
+                           resource needs have been estimated that would be frozen for each scheme as the detailed
+Public Disclosure Copy
+
+
+
+
+                           information becomes available. A separate study on the environmental impacts of installation of
+                           energy efficient pump sets with special focus on groundwater abstraction and related issues will be
+                           undertaken before any pilot installations are undertaken.
+
+                          BORROWERs CAPACITY: As the state got bifurcated (into Andhra Pradesh and Telengana) in
+                          2014, the power transmission and distribution in AP now rests with three entities: (i)
+                          APTRANSCO or Power Transmission Corporation of AP Ltd. with a state wide mandate for
+                          constructing, operating and maintaining the power transmission network in the state; (ii) Southern
+                          Power Distribution Company o APSPDCL, covering eight districts; and (iii) Eastern Power
+                          Distribution Company or APEPDCL for five districts in the remaining part of the state. These
+                          three Implementing Agencies, which are expected to handle most of the investments, have
+                          considerable knowledge and experience of addressing environment and social safeguard issues as
+                          they have implemented, or are currently implementing, several projects financed by bi-lateral and
+                          multi-lateral agencies. One such project is the ongoing World Bank financed Andhra Pradesh
+                          Disaster Recovery Project involving underground cabling in Vishakhapatnam. The other, recently
+                          launched, is the Andhra Pradesh Green Energy Corridors Project, financed by KfW.
+
+                          In context of the limited impacts of transmission line infrastructure on the biophysical
+                          environment, the Transco➢❨ s environmental and social cell is adequate to handle the issues
+                          where no significant environmental receptors like Natural Habitats are involved. Similarly, for the
+
+
+                                                                     Page 7 of 10
+                           distribution works, having common staff is normally adequate for handling the small-scale
+                           impacts. However, if subsequent sub-projects reveal a different nature/scale of impacts, this
+                           capacity may need to be augmented with focused external inputs ➢❨ such as for biodiversity.
+Public Disclosure Copy
+
+
+
+
+                           Towards mainstreaming social and environment aspects, the project will invest in building
+                           dedicated social and environmental capacity in each of the Implementing Agencies and enable
+                           development of a robust environmental and social management framework. It has also been agreed
+                           for setting up of E&S cell in each of the three utilities within the PIUs. Thus, adequate
+                           implementation capacity does exist in the state for managing the current project as well.➢❨
+                         5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+                           on safeguard policies, with an emphasis on potentially affected people.
+                           The key stakeholders include the local residents in the project area, staff of the utilities
+                           implementing the project, other line departments of GoAP. Extensive consultations have been
+                           undertaken with select stakeholders during the preparation of ESMF. Formal consultation cum
+                           disclosure workshops have also been held by each of the three implementing utilities. The ESMF
+                           has been disclosed in country on August 5, 2016 and externally through Bank infoshop on August
+                           23, 2016.
+                         B. Disclosure Requirements
+                         Environmental Assessment/Audit/Management Plan/Other
+                           Date of receipt by the Bank                                       25-Jul-2016
+                           Date of submission to InfoShop                                    23-Aug-2016
+                           For category A projects, date of distributing the Executive
+                           Summary of the EA to the Executive Directors
+                         "In country" Disclosure
+                           India                                                             05-Aug-2016
+                           Comments:
+Public Disclosure Copy
+
+
+
+
+                          Resettlement Action Plan/Framework/Policy Process
+                           Date of receipt by the Bank                                       25-Jul-2016
+                           Date of submission to InfoShop                                    23-Aug-2016
+                         "In country" Disclosure
+
+                           Comments:
+                          Indigenous Peoples Development Plan/Framework
+                           Date of receipt by the Bank                                       25-Jul-2016
+                           Date of submission to InfoShop                                    23-Aug-2016
+                         "In country" Disclosure
+
+                           Comments:
+                         If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+                         respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+                         Audit/or EMP.
+                         If in-country disclosure of any of the above documents is not expected, please explain why:
+
+
+
+                                                                    Page 8 of 10
+                         C. Compliance Monitoring Indicators at the Corporate Level
+Public Disclosure Copy
+
+
+
+
+                         OP/BP/GP 4.01 - Environment Assessment
+                          Does the project require a stand-alone EA (including EMP)          Yes [   ]   No [   ]   NA [    ]
+                          report?
+                          If yes, then did the Regional Environment Unit or Practice         Yes [   ]   No [   ]   NA [    ]
+                          Manager (PM) review and approve the EA report?
+                          Are the cost and the accountabilities for the EMP incorporated     Yes [   ]   No [   ]   NA [    ]
+                          in the credit/loan?
+                         OP/BP 4.04 - Natural Habitats
+                          Would the project result in any significant conversion or          Yes [   ]   No [   ]   NA [    ]
+                          degradation of critical natural habitats?
+                          If the project would result in significant conversion or           Yes [   ]   No [   ]   NA [    ]
+                          degradation of other (non-critical) natural habitats, does the
+                          project include mitigation measures acceptable to the Bank?
+                         OP/BP 4.11 - Physical Cultural Resources
+                          Does the EA include adequate measures related to cultural          Yes [   ]   No [   ]   NA [    ]
+                          property?
+                          Does the credit/loan incorporate mechanisms to mitigate the        Yes [   ]   No [   ]   NA [    ]
+                          potential adverse impacts on cultural property?
+                         OP/BP 4.10 - Indigenous Peoples
+                          Has a separate Indigenous Peoples Plan/Planning Framework          Yes [   ]   No [   ]   NA [    ]
+                          (as appropriate) been prepared in consultation with affected
+                          Indigenous Peoples?
+                          If yes, then did the Regional unit responsible for safeguards or   Yes [   ]   No [   ]   NA [    ]
+Public Disclosure Copy
+
+
+
+
+                          Practice Manager review the plan?
+                          If the whole project is designed to benefit IP, has the design     Yes [   ]   No [   ]   NA [    ]
+                          been reviewed and approved by the Regional Social
+                          Development Unit or Practice Manager?
+                         OP/BP 4.12 - Involuntary Resettlement
+                          Has a resettlement plan/abbreviated plan/policy framework/         Yes [   ]   No [   ]   NA [    ]
+                          process framework (as appropriate) been prepared?
+                          If yes, then did the Regional unit responsible for safeguards or   Yes [   ]   No [   ]   NA [    ]
+                          Practice Manager review the plan?
+                          Is physical displacement/relocation expected?                      Yes [   ]   No [   ]   TBD [   ]
+
+                           Provided estimated number of people to be affected
+                          Is economic displacement expected? (loss of assets or access to Yes [      ]   No [   ]   TBD [   ]
+                          assets that leads to loss of income sources or other means of
+                          livelihoods)
+
+                          Provided estimated number of people to be affected
+                         OP/BP 4.36 - Forests
+
+
+                                                                     Page 9 of 10
+                             Has the sector-wide analysis of policy and institutional issues   Yes [   ]   No [   ]   NA [   ]
+                             and constraints been carried out?
+Public Disclosure Copy
+
+
+
+
+                             Does the project design include satisfactory measures to          Yes [   ]   No [   ]   NA [   ]
+                             overcome these constraints?
+                             Does the project finance commercial harvesting, and if so,        Yes [   ]   No [   ]   NA [   ]
+                             does it include provisions for certification system?
+                            The World Bank Policy on Disclosure of Information
+                             Have relevant safeguard policies documents been sent to the       Yes [   ]   No [   ]   NA [   ]
+                             World Bank's Infoshop?
+                             Have relevant documents been disclosed in-country in a public     Yes [   ]   No [   ]   NA [   ]
+                             place in a form and language that are understandable and
+                             accessible to project-affected groups and local NGOs?
+                            All Safeguard Policies
+                             Have satisfactory calendar, budget and clear institutional        Yes [   ]   No [   ]   NA [   ]
+                             responsibilities been prepared for the implementation of
+                             measures related to safeguard policies?
+                             Have costs related to safeguard policy measures been included     Yes [   ]   No [   ]   NA [   ]
+                             in the project cost?
+                             Does the Monitoring and Evaluation system of the project          Yes [   ]   No [   ]   NA [   ]
+                             include the monitoring of safeguard impacts and measures
+                             related to safeguard policies?
+                             Have satisfactory implementation arrangements been agreed         Yes [   ]   No [   ]   NA [   ]
+                             with the borrower and the same been adequately reflected in
+                             the project legal documents?
+Public Disclosure Copy
+
+
+
+
+                         III. APPROVALS
+                            Task Team Leader(s): Name: Mani Khurana,Amol Gupta,Simon J. Stolp
+                            Approved By
+                            Practice Manager/    Name: Demetrios Papathanasiou (PMGR)      Date: 22-Sep-2016
+                            Manager:
+
+
+
+
+                                                                       Page 10 of 10
+

@@ -1,0 +1,375 @@
+Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+I.  Basic Information
+ 
+Date prepared/updated:  04/01/2011 
+Report No.:  AC6137
+1. Basic Project Data  
+ 
+Country:  Croatia 
+Project ID:  P122219 
+Project Name:  Integrated Land Administration System Project 
+Task Team Leader:  Victoria Stanley 
+Estimated Appraisal Date: March 21, 2011 
+Estimated Board Date: July 19, 2011 
+Managing Unit:  ECSSD 
+Lending Instrument:  Specific Investment 
+Loan 
+Sector:  General public administration sector (40%);Public administration- Information 
+and communications (35%);Information technology (25%) 
+Theme:  Land administration and management (60%);Administrative and civil service 
+reform (30%);Law reform (10%) 
+IBRD Amount (US$m.): 
+21.05 
+IDA Amount (US$m.): 
+0.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ Borrower 
+2.08 
+ Financing 
+Gap 
+0.07
+2.15 
+Environmental Category: B - Partial Assessment 
+Repeater [] 
+ 
+ 
+Is this project processed under OP 8.50 (Emergency Recovery) 
+or OP 8.00 (Rapid Response to Crises and Emergencies) 
+Yes [ ] 
+No [X] 
+2. Project Objectives 
+The objective of the proposed Project is to modernize the land administration and 
+management system to improve the efficiency, transparency and cost effectiveness of 
+government services.   
+ 
+3. Project Description 
+The proposed project would focus on further improving the real property registration 
+system managed by MOJ and SGA, and support the development of an NSDI. The 
+proposed project would have four main components:  (A) Land Registration System 
+Development; (B) Spatial Information and Cadastre System Modernization; (C) 
+Improving Digital Services; and (D) Project Management.  
+ 
+Component A # - Land Registration System Development would focus on further 
+simplification and automation of the land registration system operated in the municipal 
+courts under MOJ/LRMS. The activities to be financed include development of a land 
+Page  2
+administration strategy, scanning and digitizing land registry documents, legal framework 
+improvements, and further cleaning of the digital data for migration to the JIS.  
+ 
+Component B # - Spatial Information and Cadastre System Modernization would focus 
+on improving the quality and presentation of spatial data managed and maintained by 
+SGA and implementation of a national spatial data infrastructure (NSDI), in line with the 
+EU INSPIRE Directive. This component will also support SGA with its own re-
+structuring, including improving the physical premises of several regional offices (which 
+includes construction and rehabilitation of existing buildings) and TA to support HR 
+planning and future IT outsourcing.  
+ 
+Component C # - Improving Digital Services would support further development of the 
+JIS and completion of the JIS roll-out to all cadastre and land registry offices, the 
+associated data migration, and training; and associated public awareness and information 
+campaign to introduce the JIS and service improvements to the public.  
+ 
+Component D # - Project Management, M&E and Training.  This Component will 
+support a small Project Management Unit (PMU) responsible for fiduciary functions and 
+monitoring and evaluation.   
+ 
+4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis 
+The project is nationwide and focused on improving institutional capacity, IT activities, 
+scanning, building works, and technical services. It will be concentrated in the offices of 
+the implementing agencies in urban areas.   
+ 
+5. Environmental and Social Safeguards Specialists 
+Ms Vera Dugandzic (ECSS4) 
+Ms Natasa Vetma (ECSS3) 
+ 
+6. Safeguard Policies Triggered
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+X
+Natural Habitats (OP/BP 4.04) 
+ X 
+Forests (OP/BP 4.36) 
+ X 
+Pest Management (OP 4.09) 
+ X 
+Physical Cultural Resources (OP/BP 4.11) 
+X
+Indigenous Peoples (OP/BP 4.10) 
+ X 
+Involuntary Resettlement (OP/BP 4.12) 
+ X 
+Safety of Dams (OP/BP 4.37) 
+ X 
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X 
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+Page  3
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts: 
+The Project has been classified as an environmental category B and triggers the safeguard 
+policy OP/BP 4.01 on Environmental Assessment. The Project is planning rehabilitation 
+and construction of buildings, primarily cadastre offices and data facilities. The review of 
+existing documents and subsequent field visits to some of the potential locations 
+concluded that the construction proposed under this project would not trigger a full 
+Environmental Impact Assessment under the Croatian laws nor the World Bank policies. 
+The type of expected environmental impacts of concern are localized in nature and more 
+adequately addressed through environment permits and good construction practice, or in 
+the case of World Bank policies, through implementation of site specific environmental 
+management plans (EMP checklist) (in the case of construction of  smaller buildings or 
+extensions). The environmental impacts of the project are expected to be of manageable, 
+temporary and of local impact as they are related to the general construction activities on 
+already known location. These most commonly include:  a) Dust and noise due to 
+excavation, demolition and construction; b) Management of demolition and construction 
+wastes and accidental spillage of machine oil, lubricants, etc.; c) Risk of damage to 
+historical or cultural property or unknown archaeological sites; d) Traffic disturbance; e) 
+Impacts / damage to ecosystems; and f) Impacts on hydrology of the area. These risks can 
+be effectively anticipated in advance of project implementation and addressed by direct 
+mitigation activities in the design, planning and construction supervision process as well 
+as during the operation of the facilities.  
+ 
+The OP/BP 4.11 policy on Physical Cultural Resources is triggered based on the site 
+visit to the town of Sisak on March 8, 2011. The current building of the cadastre office in 
+the town of Sisak is located in its historical core. The building itself is not the cultural 
+heritage site but its location falls under protected cultural historic area. The Croatian 
+Ministry of Culture has already approved rehabilitation works and construction of an 
+annex to the building. The Ministry will oversee all works related to rehabilitation / 
+annex construction.  In addition, since the team saw some remains of Roman ruins in the 
+courtyard of cadastre office, there might be a possibility of some chance finds discovery 
+during excavation for the construction of an annex (300m2). With this in mind, the team 
+sees the need to trigger the policy on Physical Cultural Resources. As per usual practice, 
+provisions on chance finds have been already incorporated in the EMF.  
+ 
+The social impacts are expected to be positive as more land information is made more 
+easily available online to the public and private sector and citizens. Other online 
+government services will also be improved through the implementation of NSDI. On 
+March 7 and 8, 2011, the social safeguard team traveled to the towns of Sibenik, Sisak 
+and Vinkovci and based on these site visits, discussions held and review of available 
+documentation, the team confirmed that the OP 4.12 on Involuntary Resettlement 
+safeguard policy is not triggered. There will be no land acquisition for the minor works 
+under the Project as these will all take place on public property. More specifically, the 
+Project will finance renovation or buying space (already constructed buildings) from 
+Page  4
+willing private parties for 3 regional offices and construction of the building for data 
+conversion within the Scan centre in Vinkovci. The team visited proposed sites / 
+buildings. The buildings and site under consideration do not have any occupants or users.   
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+The potential environmental and social implications of the rehabilitation / reconstruction / 
+extension of cadastre offices and data conversion center to be supported under the project 
+are described in the Environmental Management Framework prepared by the PIU during 
+project preparation and will be described in consequential EMP checklists. Potential 
+environmental impacts are expected to be local and occur during the construction only. 
+Civil works may result in some adverse environmental impacts unless appropriate design, 
+construction and operational practices are followed. The EMF has taken into account 
+local Croatian laws and practices related to environmental and construction permits as 
+well as the Bank Operational policy OP/BP 4.01 on Environmental Assessment and 
+OP/BP 4.11 Physical Cultural Resources. No significant indirect or long-term 
+environmental impacts are expected.   
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts. 
+The building rehabilitation works were not originally planned as part of the Project 
+however it is clear that in order to implement the extensive IT systems, good office 
+premises are necessary. The Project did not look into assessment of the alternatives from 
+the environmental point of view as the needs of the project required rehabilitation of the 
+buildings in the urban areas and anticipated works usually do not have significant impacts 
+on environment. The project chose the locations / institutions based on significance of 
+impact and demonstrable efficiency gains.   
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide 
+an assessment of borrower capacity to plan and implement the measures described. 
+The PIU is familiarized with the safeguards policies as this is the follow up project of 
+successful implementation and completion of the Real Property Registration and Cadastre 
+Project. Although mention project was category C, it entailed minor indoor rehabilitation 
+works. PIU and the Bank supervised the rehabilitation which was done fully according to 
+national environmental legislation and good civil engineering practice which was 
+recorded  in the AMs of the project. For the follow-up project, as part of project 
+preparation, the PIU prepared an overall Environmental Management Framework (EMF) 
+due to the fact that the exact number and place of rehabilitation and construction is not 
+fully confirmed. The EMF provides environmental screening procedures, the nature of 
+EMP which should be prepared for construction or extension, and an example of the 
+environmental issues associated with rehabilitation that will be addressed through the 
+permitting, construction, contracting, and operations of the new and/or rehabilitated 
+facilities. These environmental issues will be addressed and ensured through EMP 
+checklists, a series of local permits, through constructor contracts, through site 
+supervising engineer oversight, through the local municipality requirements, and through 
+oversight by Project Implementation Unit.  
+Page  5
+The PIU will allocate one person within the team to monitor the implementation of the 
+EMF and EMPsand provide continuing support / knowledge transfer on World Bank 
+environmental policies to other staff, contractors and supervising engineers. The person 
+will have experience in civil engineering and implementation of WB projects. The 
+Project Team, in coordination with the local environmental authorities, is responsible for 
+monitoring the compliance of the EMP implementation. For all PIU staff as well as the 
+contractors and supervising engineer a half day training on the implementation and 
+monitoring of EMP will be organized by WB local safeguards specialist and PIU person 
+responsible for monitoring of EMF implementation.  
+ 
+Monitoring will focus on measuring compliance with pollution standards and 
+requirement of related permits (wastewater discharges, air quality, construction perm   it, 
+etc.) while mitigation measures will include actions to prevent environmental hazards 
+such as health and safety for the construction workers and the public, noise disturbance, 
+restriction to access, dust, soil and water pollution from fuel and oil, excavation of 
+materials and disposal of surplus soil and other construction materials, etc. Special 
+attention will be paid during construction works to works on cultural heritage buildings.   
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+The EMF has been disclosed on March 24, 2011 on the projects website and one 
+hardcopy version is available on the information board of PIU. The announcement on 
+disclosure of the EMF has been published in Jutarnji list and Vecernji list (two major 
+daily newspapers). All received comments will be addressed and reflected in the EMF. 
+The EMP checklist that will be prepared in the later stage of the project will as well be 
+disclosed on the website of the PIU and respective cities municipal boards and cadastre 
+offices. Here as well all received comments will be addressed and reflected in the site 
+specific EMP checklists.   
+ 
+B. Disclosure Requirements Date
+ 
+Environmental Assessment/Audit/Management Plan/Other: 
+Was the document disclosed 
+prior to appraisal?
+ No 
+ 
+Date of receipt by the Bank 
+03/18/2011 
+ 
+Date of "in-country" disclosure 
+03/31/2011 
+ 
+Date of submission to InfoShop 
+03/31/2011 
+ 
+For category A projects, date of distributing the Executive 
+Summary of the EA to the Executive Directors 
+ 
+Resettlement Action Plan/Framework/Policy Process: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+Indigenous Peoples Plan/Planning Framework: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Page  6
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+Pest Management Plan: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+*
+If the project triggers the Pest Management and/or Physical Cultural Resources, 
+the respective issues are to be addressed and disclosed as part of the Environmental 
+Assessment/Audit/or EMP. 
+If in-country disclosure of any of the above documents is not expected, please 
+explain why: 
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the 
+ISDS is finalized by the project decision meeting) 
+ 
+OP/BP/GP 4.01 - Environment Assessment 
+ 
+Does the project require a stand-alone EA (including EMP) report? 
+Yes 
+If yes, then did the Regional Environment Unit or Sector Manager (SM) 
+review and approve the EA report? 
+Yes 
+Are the cost and the accountabilities for the EMP incorporated in the 
+credit/loan? 
+Yes 
+OP/BP 4.11 - Physical Cultural Resources 
+ 
+Does the EA include adequate measures related to cultural property? 
+Yes 
+Does the credit/loan incorporate mechanisms to mitigate the potential 
+adverse impacts on cultural property? 
+Yes 
+The World Bank Policy on Disclosure of Information 
+ 
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+Yes 
+Have relevant documents been disclosed in-country in a public place in a 
+form and language that are understandable and accessible to project-affected 
+groups and local NGOs? 
+Yes 
+All Safeguard Policies 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities 
+been prepared for the implementation of measures related to safeguard 
+policies? 
+Yes 
+Have costs related to safeguard policy measures been included in the project 
+cost? 
+Yes 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures related to safeguard policies? 
+Yes 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+Yes 
+Page  7
+D. Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Ms Victoria Stanley 
+03/11/2011 
+Environmental Specialist: 
+Ms Natasa Vetma 
+03/14/2011 
+Social Development Specialist 
+Ms Vera Dugandzic 
+03/14/2011 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+ 
+Approved by: 
+ 
+Sector Manager: 
+Mr John V. Kellenberg 
+03/15/2011 
+Comments:   

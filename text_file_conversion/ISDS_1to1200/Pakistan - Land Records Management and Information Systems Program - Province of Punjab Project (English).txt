@@ -1,0 +1,311 @@
+Page  1
+INTEGRATED SAFEGUARDS DATA SHEET 
+CONCEPT STAGE 
+Report No.:  AC1211 
+ 
+Date ISDS Prepared/Updated: 
+December 9, 2004
+ 
+I.  BASIC INFORMATION 
+ 
+A.  Basic Project Data 
+ 
+Country: Pakistan 
+Project ID: P090501 
+Project Name: Punjab Land Records 
+Program 
+Task Team Leader: Isabel G. Lavadenz 
+Paccieri 
+Estimated Appraisal Date: July 2, 2005 
+Estimated Board Date: September 12, 2005 
+Managing Unit: SASAR 
+Lending Instrument: 
+Specific Investment Loan
+ 
+Sector: General agriculture, fishing and 
+forestry sector (100%) 
+Theme: Land administration and 
+management (P); Governance and 
+Institutional Development; Personal and 
+property rights (S) 
+Safeguard Policies Specialists in the task team:  
+Loan/Credit amount ($m.):  
+IDA: 40 
+Other financing amounts by source:  
+6 ($m) 
+B.  Project Objectives  
+ 
+The proposed program project will establish an efficient, transparent, and accessible land rights 
+recording system, in order to reduce litigation, bring about long-lasting tenure security and 
+promote an enabling investment climate. This will lead to widespread support, adoption and use 
+of reliable land registration procedures by farmers and other end-users in participating areas of 
+the Punjab Province. 
+ 
+C.  Project Description  
+ 
+The project design would follow a two-fold approach (complementary and simultaneous) 
+outlined by the client: First, the identification, assessment and removal of institutional, technical 
+and regulatory constraints that could prevent the GoPunjab from obtaining full benefits from the 
+computerization of land records. These would be based on lessons from the pilots. And second, 
+through significant improvements to the land recording system, the establishment of a demand-
+oriented service concept.  
+ 
+The types of activities for the first area include, inter alia: (a) process and business reengineering 
+(covering legal, policy and institutional reforms); (b) assessment of needs for physical and 
+technical infrastructure and for operational capacity of kiosks, hardware procurement and 
+technical maintenance; (c) long-term and systematic training, (d) public awareness campaigns 
+Page  2
+and communication strategy; (e) issuance of 
+Fards 
+and verification of records with the public 
+(including alternative dispute resolution mechanisms)
+;
+(f) quality assurance and technical 
+assistance for the pilots; and (g) assessment of social impact, monitoring and evaluation.  
+ 
+For the second area, activities are more IT oriented and they include: (i) acquiring licenses and/or 
+source code of the AOS software
+1
+,
+(ii) data entry services (e.g. computerization of manual 
+records and services); (iii) configuration, networking and connectivity; (iv) IT training to 
+District-level staff and kiosk operators; (v) correction of data entry errors, technical support and 
+software maintenance (throughout the project); (vi) spatial data software development, 
+(vii) hardware and software maintenance; and (viii) web-based service delivery.  
+ 
+A
+preliminary schematic description by component is attached in Annex 3.  
+ 
+Evidence of success at the end of project implementation: 
+ 
+·
+Conclusiveness of the land registration system leading to increases in tenure security in 
+the Province (e.g. measured by a gradual decrease over time in the number of land 
+disputes entering the court system); 
+·
+Growing increase in the proportion of rural land transactions that utilize the new land 
+registration system; 
+·
+Growing increase in the number and type of end users accessing the system; 
+·
+Considerable increase in user satisfaction in participating areas following the introduction 
+of the new land registration procedures; 
+·
+Decreasing number of fraudulent land transactions due to the integrated nature of the 
+recording system (e.g. connecting the deed system with the Revenue Record); 
+·
+Significant increase in the use of land as collateral for loans in participating areas; 
+·
+Significant reduction of transaction costs on land-related deals. 
+ 
+4.  Potential risks and mitigation 
+ 
+Potential Risks 
+Mitigation Measures 
+Political changes may result in lack of project 
+ownership
+.
+There is a growing demand from the people of Punjab for 
+reliable land records at the highest levels of society to which 
+any new political proposal would need to respond. The project 
+is a politically popular one and efforts since the mid-Nineties 
+made in this regard have shown the commitment of various 
+political governments. Now that a good solution is available 
+the confidence in its ability and success will encourage the 
+successive governments to continue with it.  
+Deteriorating national security situation 
+slowing down  implementation in some 
+districts. 
+Implementation arrangements would include local actors (e.g 
+Union Nazim- who is an elected representative, Union 
+Councils ).
+ 
+Institutional culture and interests generate 
+strong resistance to change and poor inter-
+institutional and inter
+-
+departmental 
+Incentives and constructive organizational restructuring 
+incorporated into project design. 
+1
+The WB has recommended that the source code be acquired due to the evolving and dynamic nature of the data 
+and procedures to be dealt with. The BOR  fully agreed with the recommendation. During Project preparation, the 
+cost-benefit analysis will include this issue in order to provide relevant guidance to the BOR and IT Departments. 
+Page  3
+Potential Risks 
+Mitigation Measures 
+coordination. 
+Other development projects (e.g. ADB-TA) 
+dealing with relevant reforms interfere with 
+expected Program outcomes. 
+Multi-donor approach and effective coordination from start. 
+Legislation needed (e.g. to change business 
+process and/or to recognize legal validity of 
+Fards
+ and other documentation issued 
+electronically) is not passed or gets 
+significantly delayed. 
+Punjab Province is committed to have a state of the art 
+r
+egistration system and the political support at the CM’s level 
+has been clearly expressed.  The Electronic Transactions 
+Ordinance 2002 already provides admissibility of computer 
+generated revenue record. BOR has also issued amendments 
+for electronically-based documentation. With regards to other 
+legal reforms, they will be linked to a highly participatory 
+process reengineering, which has the full buy-in from the 
+highest levels of the administration (CM and BOR).  
+Safeguard issues will be addressed during project preparation. This is anticipated to be a Category C 
+Project. 
+ 
+D.  Project location (if known) 
+ 
+Although gradually, the project would be implemented in the Province of Punjab which consists of 34 
+districts.  While the proposed program project aims at having a rural-urban focus due to the nature of the 
+issues to be addressed 
+–
+and its design already includes urban-specific activities – the incorporation of a 
+full urban component would be gradual given the current complex and dispersed institutional setting.  
+ 
+E.  Borrower’s Institutional Capacity for Safeguard Policies [from PCN] 
+ 
+Not applicable 
+ 
+II.  SAFEGUARD POLICIES THAT MIGHT APPLY 
+ 
+Applicable?
+Safeguard Policy 
+If Applicable, How Might It Apply? 
+[
+]
+Environmental Assessment
+(
+OP
+/
+BP
+4.01) 
+[
+]
+Natural Habitats
+(
+OP
+/
+BP
+4.04) 
+[
+]
+Pest Management
+(
+OP 4.09
+)
+[
+]
+Involuntary Resettlement
+(
+OP
+/
+BP
+4.12) 
+[
+]
+Indigenous Peoples
+(
+OD 4.20
+)
+[
+]
+Forests
+(
+OP
+/
+BP
+4.36) 
+[
+]
+Safety of Dams
+(
+OP
+/
+BP
+4.37) 
+[
+]
+Cultural Property
+(draft OP 4.11 - 
+OPN 11.03
+)
+[
+]
+Projects in Disputed Areas
+(
+OP
+/
+BP
+/
+GP
+7.60)
+*
+[
+]
+Projects on International Waterways
+(
+OP
+/
+BP
+/
+GP
+7.50) 
+Environmental Assessment Category:
+ 
+*
+By supporting the proposed project, the Bank does not intend to prejudice the final determination of the parties' claims on the 
+disputed areas
+ 
+Page  4
+[
+]
+A
+[
+]
+B
+[X] C   [ ] FI   [ ] TBD (to be determined) 
+ 
+If TBD, explain determinants of classification and give steps that will be taken to determine that 
+EA category (mandatory): 
+ 
+III.  SAFEGUARD PREPARATION PLAN 
+ 
+A.  Target date for the Quality Enhancement Review (QER), at which time the PAD-stage ISDS 
+would be prepared. 
+ 
+B.  For simple projects that will not require a QER, the target date for preparing the PAD-stage 
+ISDS 
+ 
+C.  Time frame for launching and completing the safeguard-related studies that may be needed.  
+The specific studies and their timing
+2
+should be specified in the PAD-stage ISDS. 
+ 
+IV.  APPROVALS 
+ 
+Signed and submitted by: 
+ 
+Task Team Leader: 
+Isabel G. Lavadenz Paccieri 
+12/15/2004 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Frederick Brusberg 
+12/16/2004 
+Comments 
+Sector Manager: 
+Adolfo Brizzi 
+12/16/2004 
+Comments 
+2
+Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the 
+InfoShop and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to potentially affected 
+persons.
+ 
+Page  5

@@ -1,0 +1,465 @@
+                                                INTEGRATED SAFEGUARDS DATA SHEET
+                                                        APPRAISAL STAGE
+                                                                                               Report No.: ISDSA5237
+Public Disclosure Copy
+
+
+
+
+                         Date ISDS Prepared/Updated: 01-Aug-2013
+                         Date ISDS Approved/Disclosed: 02-Aug-2013
+                         I. BASIC INFORMATION
+                            1. Basic Project Data
+
+                            Country:           Ghana                             Project ID:    P144140
+                            Project Name:      GH eTransform Ghana (P144140)
+                            Task Team          Mavis A. Ampah
+                            Leader:
+                            Estimated          22-Jul-2013                       Estimated   26-Sep-2013
+                            Appraisal Date:                                      Board Date:
+                            Managing Unit:     TWICT                             Lending     Specific Investment Loan
+                                                                                 Instrument:
+                            Sector(s):         General information and communications sector (100%)
+                            Theme(s):         e-Government (50%), e-Services (25%), Managing for development results
+                                              (25%)
+                            Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+                            8.00 (Rapid Response to Crises and Emergencies)?
+                            Financing (In USD Million)
+Public Disclosure Copy
+
+
+
+
+                            Total Project Cost:      97.00           Total Bank Financing:                  97.00
+                            Total Cofinancing:                       Financing Gap:                          0.00
+                              Financing Source                                                                         Amount
+                              BORROWER/RECIPIENT                                                                          0.00
+                              International Development Association (IDA)                                                97.00
+                              Total                                                                                      97.00
+                            Environmental C - Not Required
+                            Category:
+                            Is this a          No
+                            Repeater
+                            project?
+
+                            2. Project Development Objective(s)
+                           The Project Development Objective of the eTransform Project is to improve the efficiency and
+                           coverage of government service delivery using ICT.
+                            3. Project Description
+                           1.The proposed project is expected to be structured along four major components to reflect (a)
+
+                                                                       Page 1 of 8
+                         government’s efforts to develop more coherent and robust foundation to facilitate access to e-
+                         government services (b) scaled use of ICT to transform quality of service in priority areas of
+                         development; (c) enabling environment conducive to e-government applications and services; and (d)
+Public Disclosure Copy
+
+
+
+
+                         Project management support. Details on components are given below:
+
+                         Component 1 – Enabling Environment for Electronic Government and Business
+
+                         2.       This component will support policies, laws, regulations and institutional capacity building to
+                         stimulate supply and demand of electronic services with the help of a transparent, secure and open
+                         environment. On the supply side, it will support the enabling environment for digital economy,
+                         including facilitating interventions for more efficient storage of electronic data, and opening up of
+                         data in a format that is usable by citizens for policy, research, and business development. On the
+                         demand side, it will support better leveraging of digital platforms to create job and entrepreneurship
+                         opportunities. Details of sub-components are as follows:
+
+                         3        Storage, Protection, and Opening up of Government Data – The project will support
+                         development of, and access to open government data with the help of shared infrastructure,
+                         institutional development, and related policies and regulations. Project funds will finance the
+                         software and hardware for developing a “private cloud”—a storage and back-up facility (with
+                         increased storage capacity of about 4PB) that is managed in partnership with the private sector. The
+                         new cloud infrastructure will be suitable for actively used data and will allow organizations, such as
+                         NIA, Births and Deaths and other MDAs, to have more security and control over their data. Project
+                         funds will also support the development of administrative and institutional arrangements for data
+                         protection and electronic transactions as stipulated under the country’s Acts. Finally, project funds
+                         will finance development of policies, regulations, development of datasets, capacity building for data
+                         analytics, upgrade of any shared facilities for open data, and set up of certification authorities.
+
+                         4.      Support for Innovation Centers for Entrepreneurship and Job Creation . The project will
+                         support an environment where entrepreneurs can participate in launching new products and services,
+Public Disclosure Copy
+
+
+
+
+                         scaling up e-applications and services, and increasing uptake of e-applications. These activities have
+                         potential to create job opportunities. Project funds in the form of grants will be provided to
+                         strengthen the entrepreneurial and job-creation potential of the country through the development of
+                         innovation hubs, including mHubs and mLabs. Innovation hubs will support young entrepreneurs in
+                         Ghana’s mobile industry through venture incubation, and foster multinational and global
+                         partnerships. To ensure sustainable operations, infoDev will act as a technical partner through the
+                         course of project implementation and will provide technical support in the design of the mLab
+                         including its governing structure, management, and performance monitoring.
+
+                         5.       Institutional Capacity Building for Policy and Regulatory Institutions– The sub-component
+                         will provide necessary capacity building to key policy and regulatory institutions in areas including
+                         content, cybersecurity, consumer protection, and data protection. Regulating new information and
+                         content is a potential challenge for today’s policymaking agencies and regulatory authorities in an
+                         increasingly converged ICT industry. Regulation of content pushes the boundaries of the traditional
+                         role of a telecommunications regulator. The unique role of broadcast signals, for example, is rapidly
+                         disappearing amidst the world of convergence and the deluge of alternative content sources and
+                         transmission media. Issues such as spectrum management, consumer protection in the commercial
+                         mobile and digital space, and protection of increasingly sophisticated networks and infrastructure
+                         present new challenges for both policy makers and regulators. Regulators and policy makers have to
+                         decide on what or what not to regulate, how to use/manage scarce resources such as spectrum, and
+
+                                                                      Page 2 of 8
+                         how to incentivize further development of the ICT marketplace. The project wi ll support capacity
+                         building of policy and regulatory institutions in Ghana to develop necessary capacity to define
+                         standards, policies and relevant regulations to protect both government and citizens.
+Public Disclosure Copy
+
+
+
+
+                         Component 2 – Support for Upgrading National Identification System and Online Verification
+                         Services
+
+                         6. .     This component will provide support to develop a robust national identification system based
+                         on international standards to help prepare Ghana for a modern e-commerce industry, improved e-
+                         government services, and greater poverty alleviation. Support will also be extended to selected
+                         agencies and institutions in adopting electronic identification and verification services into their
+                         operating processes. The project will assist the government to link key agencies, including the Births
+                         and Deaths Registries, the Department of Social Welfare, Electoral Commission, Statistics
+                         Department, Social Security and National Insurance, and Immigration, using the national
+                         identification number as a common identifier. Details under this component are as follows:
+
+                         7. .     Support to for National Electronic ID System – The National ID system, in its current
+                         form with 2D Bar code, has limitations in terms of durability, ability to store information, and does
+                         not conform to some of the specifications provided by international organizations, such as ICAO,
+                         ISO and ANSI. The limitation is also preventing a number of potential user agencies, including the
+                         financial institutions, from using the current Ghanacard. The sub-component will therefore support
+                         the government of Ghana to complete implementation and deployment of a well-functioning national
+                         electronic ID system. The project will support distribution of 12 million biometric cards, including 3
+                         million cards that have already been printed and 9 million cards that will be printed once citizen data
+                         is confirmed. The project will review and update the back-office systems and processes under NIA to
+                         ensure that the electronic ID system is properly functioning and the central office interacts
+                         seamlessly with field offices and downstream agencies. To improve the speed and reduce the cost of
+                         distribution of cards, project funds will finance the deployment of mobile registration workstations,
+                         mobile verification systems and related software. Project funds will support the development of a
+Public Disclosure Copy
+
+
+
+
+                         needs assessment, a strategic plan and an implementation plan for the National ID Authority. Project
+                         funds will also support an integrated solution that ensures the new Ghanacard meets international
+                         standards and which spans: i) upgrade of the Automated Fingerprint Identification System (AFIS)
+                         that allows capturing of 10 instead of the current 4 fingerprints, ii) data center and disaster recovery
+                         center, iii) upgrade of printers for smart cards, and iv) instant issuance printers to allow on the spot
+                         printing of electronic Identification cards. The new cards will be issued as replacement cards for a
+                         fee to citizens.
+                         8.       Support for Digitizing and Integrating Digital Identity and Verification Systems into User
+                         Agency Operations - A prerequisite for effectively integrating a national identity system is digitizing
+                         related paper-based public records such as birth and death certificates, and tax records. The
+                         digitization program also offers unique employment opportunities for the youth that jobs to scan,
+                         index, and electronically manage paper records, and setting up searchable and easy-to-use electronic
+                         databases. Specific emphasis will be given on supporting key user agencies such as the Births and
+                         Deaths Registry, the Registrar Generals, the Ghana Revenue Authority, and Immigration Services.
+                         The program is expected to be extended to medical as well as digital content for schools. There is
+                         potential to use the ten regional innovation centers, built under the eGhana project, as possible
+                         venues for carrying out or administering the digitization work from the districts. Project funds will
+                         also support key user agencies in the public sector to adjust their operating processes and software
+                         systems to use e-ID verification services offered by the NIA system. Support to such agencies will be
+                         in form of limited equipment, upgrade of database s, and related capacity building. All of these
+
+                                                                       Page 3 of 8
+                         agencies are expected to use the National Identification number as a common identifier. Project
+                         funds will also be used to finance software and hardware for the development of a functional identity
+                         management system, including Public Key Infrastructure (PKI) and issuance of digital certificates by
+Public Disclosure Copy
+
+
+
+
+                         a Certification Authority (CA). In electronic transactions, CA plays a critical role to guarantee that
+                         the individual with a unique digital certificate is in fact who he or she claims to be. Under the NITA
+                         Act 771 of 2008, NITA is mandated to facilitate the establishment of the CA and regulate their
+                         activities. The location of the CA is being discussed with the government.
+                         Component 3 - Scale up of Applications to improve service delivery in priority sectors (US$40.55
+                         million)
+                         9.        In response to the government’s request, project resources will also be used to use ICT to
+                         improve quality and reach of services in the health and education sectors where the Government of
+                         Ghana is lagging in achieving MDG goals, as well as to complete e-applications currently being
+                         implemented under eGhana project. In the health sector, the objective is to: i) extend outreach of
+                         medical services to rural and peri-urban areas using low-cost technologies, mobile-based remote
+                         tracking and improved training of healthcare professionals; ii) improve communications between
+                         rural and urban healthcare professionals, and collaboration between Ghana’s Medical Professionals
+                         and counterparts abroad; and iii) provide basic information on health information in local languages
+                         to citizens via the web/mobile/ call centers etc. in order to help improve access to basic health,
+                         hygiene, reproductive health information etc. The project sub-components are as follows:
+
+                         10.      Support for Integrated eHealth System in Ghana – The Ministry of Health has already
+                         prepared a comprehensive scan of eHealth solutions and platforms in the country. The project will
+                         build on this work to develop a more detailed strategy for using ICT solutions to improve delivery of
+                         health services in Ghana. The strategy will aim to consolidate, map and synergize existing
+                         infrastructure, systems and solutions (both from the public and private sectors) used for connectivity
+                         and e-applications, and recommend a more integrated and interoperable approach for eHealth/
+                         mHealth. The project will provide connectivity to priority district hospitals in the less developed
+                         parts of Ghana. The project will set up three medical call centers to provide first response to citizen
+                         inquiries about medical and healthcare issues in remote and rural parts of Ghana. The first response
+Public Disclosure Copy
+
+
+
+
+                         may entail providing healthcare advice and giving referral to appropriate health specialists and health
+                         centers. In cases of emergencies, the first response may coordinate an emergency response with
+                         ambulatory services and healthcare providers. The project will also support digitization of medical
+                         records at selected teaching hospitals.
+
+                         11.      Wireless Networks for the Selected District Hospitals and Secondary Schools. The project
+                         will leverage the National IT Agency (NITA) Network to reduce the cost of connectivity to 200
+                         secondary schools that face a greater need to improve quality of teaching and learning, and schools
+                         that serve disabled and disadvantaged communities. Selected schools will be eligible for WiMax/
+                         LTE installation to school site, devices, and up to 3Mbps of dedicated capacity for the project
+                         duration of 5 years. The team is also working with the National Communications Authority to
+                         leverage available spectrum which can be used cost-effectively to provide connectivity to remote
+                         schools and hospitals. The project will provide computing equipment for computer labs in secondary
+                         schools that have a clear plan for use of ICT in education, and have physical facilities to house
+                         computing equipment.
+
+                         12.     Teachers’ Network, Educational Portal and capacity building – The project will work with
+                         the various teachers associations to support the development and maintenance of an educational
+                         portal where teachers, students, parents and researchers can have access and access to good practice
+                         lesson plans, curricular content, teaching and learning aids, on-line advice, research etc. The Portal
+
+                                                                      Page 4 of 8
+                         could also be a platform for knowledge exchange with national and international networks and for
+                         participation in relevant discussion forums. In collaboration with Kofi Annan Center and other
+                         international trainers as needed, project funds will also support intensive training to teachers as a part
+Public Disclosure Copy
+
+
+
+
+                         of the top-up teacher training for new and existing teachers in the use of computer/internet aided
+                         education (beyond ICT literacy).
+
+                         13.     Support for ex isting e-Applications – This sub-component will be aimed at completing e-
+                         government applications for 4 key agencies and departments under the eGhana project for which
+                         procurement packages have already been completed and funding is not available or inadequate under
+                         the eGhana project. State-of-the-art technology relevant to Ghana will be used to simplify
+                         administrative and business processes within and between agencies. Project resources will finance
+                         the hardware, software and institutional capacity building for the implementation of: i) an e-
+                         Parliamentary System which will allow a paperless flow of information, ii) e-Justice system -
+                         improve on the effectiveness and efficiency of justice delivery in Ghana, iii) e-Procurement - a single
+                         platform for “e-Sourcing”, “e-Tendering”, and “e-Purchasing”, iv) and an e-Immigration system –
+                         which will improve immigration and border control services in Ghana. e-Immigration is in
+                         implementation phase and the tender documents for the remaining 3 e-applications have been
+                         completed.
+
+                         14.                Support for e-Services – The project will build on pilot e-service applications
+                         conducted under current eGhana project which include: (i) content management application for
+                         hosted services on online portals; (ii) payment gateway to enable electronic payments for online
+                         services; (iii) electronic form application to collect citizen information; and (iv) applications to
+                         electronically manage documents. Project Funds will support expanded services from these
+                         institutions such as online applications for permits and licenses, visas, and National ID Cards (both
+                         internally and externally).
+
+                         15.      Component 4 – Project Management Support - The MoC will serve as the Project executing
+                         agency and will have overall responsibility for the management of the project. and given the multi-
+Public Disclosure Copy
+
+
+
+
+                         sectoral nature of the project, will work with relevant sector agencies for the effective
+                         implementation of the project. The MoC has had extensive experience in implementing the eGhana
+                         through a dedicated Project Implementation Unit, complemented by core group of consultants from
+                         the National IT Agency (NITA) and the ITeS Secretariat who have managed the day-to-day
+                         implementation and supervision of the e-Government and ITES components as well the financial
+                         management, procurement, disbursement, monitoring and evaluation, progress reporting and
+                         communication functions. It is expected that the project will leverage the expertise of some of these
+                         experts. Subject to detailed assessment of the existing structure, Project funds will support the
+                         existing team for the overall project coordination and management, and will provide communication,
+                         procurement, financial management, and M& E. Additional resources will be provided to strengthen
+                         capacity as needed, following the assessment. Also in view of the innovative and transformative
+                         nature of the project, funds will be allocated to documenting successes and failures, as well as the
+                         impact of the project on project beneficiaries.
+                          4. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+                         Ghana
+
+                          5. Environmental and Social Safeguards Specialists
+                         Alexandra C. Bezeredi (AFTSG)
+
+                                                                        Page 5 of 8
+                         Moses Yao Duphey (AFTN3)
+                         Beatrix Allah-Mensah (AFTCS)
+Public Disclosure Copy
+
+
+
+
+                         6. Safeguard Policies             Triggered? Explanation (Optional)
+                         Environmental Assessment OP/      Yes            The anticipated negative environmental impact
+                         BP 4.01                                         of the electronic network technologies to be
+                                                                         applied in the e-transform project will focus on
+                                                                         three aspects: energy, resources and pollution.
+                                                                         1.       Energy and Power consumption: The
+                                                                         implementation and expansion of the e-Transform
+                                                                         services in the country will increase energy use
+                                                                         since activities which were previously executed
+                                                                         manually will be replaced with the use of
+                                                                         electronic systems.
+                                                                         2.       Resources: This includes physical and
+                                                                         non physical infrastructural acquisition,
+                                                                         distribution, installation, use and disposal. As
+                                                                         much as possible, the physical components of the
+                                                                         project will utilize existing infrastructure such as
+                                                                         buildings and existing electrical connections.
+                                                                         Where these are inadequate or nonexistent, they
+                                                                         will be upgraded or new facilities will be
+                                                                         provided.3.       Pollution from e-waste material:
+                                                                         This relates to the disposal and management of
+                                                                         potential hazardous substances from e-waste.
+                                                                         Potential for generation of e-Waste; also there is
+                                                                         opportunity to refurbish or use existing
+                                                                         government buildings for ihub and mlab.
+Public Disclosure Copy
+
+
+
+
+                                                                         Locations for these have not been confirmed yet.
+                         Natural Habitats OP/BP 4.04       No
+
+                         Forests OP/BP 4.36                No
+
+                         Pest Management OP 4.09           No
+
+                         Physical Cultural Resources OP/   No
+                         BP 4.11
+                         Indigenous Peoples OP/BP 4.10     No
+
+                         Involuntary Resettlement OP/BP    No             The project is being implemented in facilities or
+                         4.12                                            areas already owned
+                         Safety of Dams OP/BP 4.37         No
+
+                         Projects on International         No
+                         Waterways OP/BP 7.50
+
+
+
+
+                                                                 Page 6 of 8
+                            Projects in Disputed Areas OP/BP No
+                            7.60
+Public Disclosure Copy
+
+
+
+
+                         II. Key Safeguard Policy Issues and Their Management
+                             A. Summary of Key Safeguard Issues
+                            1. Describe any safeguard issues and impacts associated with the Restructured project.
+                              Identify and describe any potential large scale, significant and/or irreversible impacts:
+                                The eTransform Project is largely focused on electronic applications and likely to have minimum
+                              environmental impact. it is anticipated that a scaled up use of ICT applications and services in the
+                              country will increase energy use since activities which were previously executed manually will be
+                              replaced with the use of electronic systems.
+                              Pollution from e-waste in terms of its disposal and management of the potential hazardous
+                              substances could therefore be anticipated. However, it can be said that the negative environmental
+                              impacts expected from the project within the ESMF is minimal.
+                            2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+                              in the project area:
+                                None anticipated
+                            3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+                              impacts.
+                                Team and clients to ensure that energy efficient resources with minimum negative environmental
+                              impact are used.
+                            4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+                              assessment of borrower capacity to plan and implement the measures described.
+                                Borrower has already implemented a similar project and quite familiar with safeguard policy
+                              issues and mitigation plans. Borrower already prepared an ESMF which outlines the principles, the
+                              institutional arrangements and identifies the potential negative environmental impacts. The ESMF
+Public Disclosure Copy
+
+
+
+
+                              also include management plans for addressing the potential negative impacts, which have been
+                              classified as minimal and reversible. There is also capacity building arrangements for relevant
+                              staff of the project team and implementing entities to ensure full comprehension prior to and
+                              during project implementation. The ESMF was prepared since the specific location of activities
+                              that would have such impacts were not known at the time of appraisal. During implementation
+                              when these sites have been identified and agreed on, follow up management plans will be
+                              elaborated using the outlined one in the ESMF to address specific issues.
+                            5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+                              on safeguard policies, with an emphasis on potentially affected people.
+                                Key stakeholders include Ministries of Education & Health, the National Identification Authority
+                              and Births and Deaths Registry. Borrower has had public consultations to discuss ESMF as well as
+                              published the ESMF in reputable local newspapers.
+                           B. Disclosure Requirements
+                            Environmental Assessment/Audit/Management Plan/Other
+                             Date of receipt by the Bank                                         30-Jul-2013
+                             Date of submission to InfoShop                                      31-Jul-2013
+
+
+
+
+                                                                        Page 7 of 8
+                              For category A projects, date of distributing the Executive
+                              Summary of the EA to the Executive Directors
+                            "In country" Disclosure
+Public Disclosure Copy
+
+
+
+
+                              Ghana                                                            31-Jul-2013
+                              Comments:
+                            If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+                            respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+                            Audit/or EMP.
+                            If in-country disclosure of any of the above documents is not expected, please explain why:
+
+
+                           C. Compliance Monitoring Indicators at the Corporate Level
+                            OP/BP/GP 4.01 - Environment Assessment
+                             Does the project require a stand-alone EA (including EMP)        Yes [    ]   No [   ]   NA [   ]
+                             report?
+                             If yes, then did the Regional Environment Unit or Sector         Yes [    ]   No [   ]   NA [   ]
+                             Manager (SM) review and approve the EA report?
+                             Are the cost and the accountabilities for the EMP incorporated   Yes [    ]   No [   ]   NA [   ]
+                             in the credit/loan?
+                            The World Bank Policy on Disclosure of Information
+                             Have relevant safeguard policies documents been sent to the      Yes [    ]   No [   ]   NA [   ]
+                             World Bank's Infoshop?
+                             Have relevant documents been disclosed in-country in a public    Yes [    ]   No [   ]   NA [   ]
+                             place in a form and language that are understandable and
+                             accessible to project-affected groups and local NGOs?
+                            All Safeguard Policies
+Public Disclosure Copy
+
+
+
+
+                             Have satisfactory calendar, budget and clear institutional       Yes [    ]   No [   ]   NA [   ]
+                             responsibilities been prepared for the implementation of
+                             measures related to safeguard policies?
+                             Have costs related to safeguard policy measures been included    Yes [    ]   No [   ]   NA [   ]
+                             in the project cost?
+                             Does the Monitoring and Evaluation system of the project         Yes [    ]   No [   ]   NA [   ]
+                             include the monitoring of safeguard impacts and measures
+                             related to safeguard policies?
+                             Have satisfactory implementation arrangements been agreed        Yes [    ]   No [   ]   NA [   ]
+                             with the borrower and the same been adequately reflected in
+                             the project legal documents?
+
+                         III. APPROVALS
+                            Task Team Leader:      Mavis A. Ampah
+                            Approved By
+                            Sector Manager:        Name: Randeep Sudan (SM)                           Date: 02-Aug-2013
+
+
+
+                                                                       Page 8 of 8
+

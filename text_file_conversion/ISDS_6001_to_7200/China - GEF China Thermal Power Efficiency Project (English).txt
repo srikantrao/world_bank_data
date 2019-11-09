@@ -1,0 +1,244 @@
+Page  1
+INTEGRATED SAFEGUARDS DATA SHEET 
+CONCEPT STAGE 
+Report No.:  AC2999 
+ 
+Date ISDS Prepared/Updated: 10/12/2007 
+ 
+I.  BASIC INFORMATION 
+ 
+A.  Basic Project Data 
+ 
+Country: China 
+Project ID: P098654 
+Project Name: GEF China Thermal Power Efficiency Project 
+Task Team Leader: Jie Tang 
+GEF Focal Area: Climate change 
+Global Supplemental ID:  
+Estimated Appraisal Date: January 11, 
+2008 
+Estimated Board Date: April 24, 2008 
+Managing Unit: EASTE 
+Lending Instrument: Financial 
+Intermediary Loan 
+Sector: District heating and energy efficiency services (80%);Power (10%);Central 
+government administration (10%) 
+Theme: Climate change (P);Pollution management and environmental health 
+(P);Regulation and competition policy (P) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+0.00 
+GEF Amount (US$m.): 
+19.70 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER/RECIPIENT 
+4.80 
+ Sub-borrower(s) 
+139.00
+143.80 
+B.  Project Objectives [from section 2 of PCN] 
+The project Development Objective (PDO) is to reduce coal consumption per unit of electricity 
+production in Chin by removing regulatory, institutional and technical barriers to phasing out 
+small inefficient coal-fired units, improving the efficiency of larger units and introducing new 
+generation dispatch models and trading mechanisms to improve the overall efficiency of the 
+power system.  
+ 
+The global objective of the proposed GEF project is to reduce GHG emissions to mitigating 
+climate change through reduction of coal consumption for power generation in China. The 
+proposed project is consistent with the Strategic Objective of the GEF Interim Strategy 
+(Summary of Negotiations on the Fourth Replenishment of the GEF Trust Fund, dated August 
+25, 2006) - that of promoting retrofitting of power plants. It is grandfathered under that strategy.   
+ 
+Page  2
+C.  Project Description [from section 3 of PCN] 
+The proposed GEF Project will achieve the PDO through the following components:  
+ 
+(i) 
+Component 1 - Policies and Regulations to Phase out Inefficient Small Units. This 
+compoonent will support development of effective policies & regulations providing a mixture of 
+mandatory and incentive measures to phase out inefficient small coal-fired power generation 
+units; capacity building for monitoring compliance; pilot implementation in two pilot provinces; 
+and establishement of CHP operation on-line monitoring system in the two piloting provinces, 
+including instruments, computer hardware and sofatware to support enforcement of relevant 
+regulations for CHP units.  
+ 
+(ii) 
+Component 2 - Demonstration of Rehabilitation for Efficiency Improvement. It will 
+support demonstration of new technologies/equipment and practices of CHP rehabilitation that 
+will gain maximum efficiency improvement and emission reduction through sustitution of 
+decentralized small boliers for heat supply; capacity building for improving plant operation and 
+maintenance to achieve improved power generation efficiency.  
+ 
+The proposed rehabilitation works for efficiency improvement will primarily focus on steam 
+turbines (i.e., improving the conversion efficiency of thermal energy into electrical energy) and 
+conversion of a couple of units into CHP.  The project will not be financing any major 
+rehabilitation of existing boilers as such works will be carried out as part of the power plant's 
+own energy efficiency improvement program/works.  
+ 
+More specifically, the project will be financing: rehabilitation of existing steam turbines 
+(replacement of parts), improvement in the combustion systems (pulverized fuel burners, 
+induced air fans, variable speed motors etc.) and conversion of the power generation plants into 
+CHPs, which would not require any additional land: and in case of plants which are converted 
+into CHPs, project would support laying of underground (in public land) heat/steam pipe lines to 
+connect the existing heat distribution networks and dismantling of existing small inefficient coal 
+fired boilers  
+ 
+(iii) 
+Component 3 - Trading Mechanism and Model for Fuel-efficient Dispatch. It will support 
+development of fuel-efficient generation dispatch model combined with trading mechnism to 
+improve overall efficiency of power system and address associated social and financial issues; 
+implementation of the new dispatch system, including software and hardware in two pilot  
+procinces, one with dominated thermal units and another with a mixtiure of hydro and thermal 
+capacity.  
+ 
+The policies and regulations developed under Component 1 and the trade mechanisms 
+developed under Component 3 will be implemented to complement each other for greater use of 
+energy from efficient plants which would ultimately result in reduced coal consumption.   
+ 
+(iv) 
+Component 4 - Technical Assistance to Project Implementation. This component will 
+support hiring international and local consultants for supervision and guidance of project 
+implementation and replication of successful experience and practices; and  
+ 
+(v) 
+Component 5 - Project Management. The component will support hiring of PMUs' staff 
+and necessary logistic activities.  
+ 
+Page  3
+Expected Project Impacts.  The Project would have sector-wide impact on thermal power 
+generation efficiency improvement, thereby achieving significant reduction in GHG emissions.  
+The expected impacts:  
+ 
+Performance indicator: Average Gross Efficiency of 367 gce/kWh in 2006 (baseline), and 355 
+gce/kWh in 2012 (target)  
+ 
+Impacts: GHG emisison reduction by 90 million tCO2e  
+ 
+Assumptions: coal-fired generation  
+ 
+2006
+(baseline): 2600 TWh  
+ 
+2012
+(target): 3300 TWh  
+ 
+Note: GHG emission reduction estimated based on total coal-fired generation (TWh) increase 
+by 5% p.a. from 2006 to 2012 and the targeted gross efficiency improvement for the same period 
+by 12 gce/kWh.   
+ 
+D.  Project location (if known) 
+While the policy work under Component 1 and 3 will target the coal-fired generation throughout 
+the country, the pilot programs under all the three components will be implemented in Shandong, 
+Shanxi, Henan and Guangdong provinces.   
+ 
+E.  Borrower’s Institutional Capacity for Safeguard Policies [from PCN] 
+During project preparation the Task Team safeguard specialists will evaluate the institutional 
+capacity of the agencies / plants for implementation of various investment activities. If this 
+capacity is deficient, technical assistance will be defined under the Component 4 to strengthen 
+this capacity accordingly.   
+ 
+F.  Environmental and Social Safeguards Specialists 
+Mr Youxuan Zhu (EAPCO) 
+Mr Songling Yao (EASCS) 
+Mr James Orehmie Monday (EASRE) 
+Mr Yiren Feng (EASCS) 
+ 
+II.  SAFEGUARD POLICIES THAT MIGHT APPLY 
+Safeguard Policies Triggered
+ 
+Yes No TBD 
+Environmental Assessment (OP/BP 4.01) 
+X
+Works financed under Component 2 of this project are clearly linked with the works being 
+carried concurrently at the power plants ? substitution of existing inefficient boilers for heat 
+supply and rehabilitation of existing heat supply network. Therefore, the Component 2 has 
+greater potential for adverse environmental impacts mainly during the construction and 
+demolition of exiting inefficient boilers for heat supply.  A due diligence evaluation of 
+compliance with national environmental standards for waste management, emission standards, 
+wastewater disposal standards and the national environmental planning process will be 
+conducted. Therefore, OP 4.01 is triggered and environmental impacts will be assessed and 
+environment management plans (EMP) will be prepared to mitigate negative impacts.   
+Page  4
+Safeguard Policies Triggered
+ 
+Yes No TBD 
+Natural Habitats (OP/BP 4.04) 
+ X  
+Forests (OP/BP 4.36) 
+ X  
+Pest Management (OP 4.09) 
+ X  
+Physical Cultural Resources (OP/BP 4.11) 
+ X  
+Indigenous Peoples (OP/BP 4.10) 
+ X  
+Involuntary Resettlement (OP/BP 4.12) 
+ 
+X
+The project will require temporary use of small portions of public land for laying 
+underground pipes to connect the heat lines from the newly converted CHPs with the existing 
+networks, and construction of heat exchange stations. Use of private land will be avoided as the 
+alignment of connecting pipes is designed. A due diligence evaluation will be carried out to 
+further clarify whether temporary or permanent land acquisition impacts would arise.  Whether 
+the OP 4.12 is triggered will be decided once the due diligence evaluation is completed during 
+the project preparation.   
+Safety of Dams (OP/BP 4.37) 
+ X  
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X  
+Projects in Disputed Areas (OP/BP 7.60) 
+ X  
+Environmental Category:
+ 
+B
+-
+Partial Assessment 
+ 
+III.  SAFEGUARD PREPARATION PLAN 
+ 
+A.  Target date for the Quality Enhancement Review (QER), at which time the PAD-stage ISDS 
+would be prepared:  01/31/2008 
+ 
+B.  For simple projects that will not require a QER, the target date for preparing the PAD-stage 
+ISDS:  N/A 
+ 
+C.  Time frame for launching and completing the safeguard-related studies that may be needed.  
+The specific studies and their timing
+1
+should be specified in the PAD-stage ISDS. 
+Darft EIA Report: 10/30/2007  
+ 
+Draft Social Due Diligece Review Report: 10/30/2007  
+ 
+Final EIA and EMPs: 12/31/2007  
+ 
+Final RAP, if required: 12/31/2007   
+ 
+1
+Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the 
+InfoShop and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to potentially affected 
+persons.
+ 
+Page  5
+IV.  APPROVALS 
+ 
+Signed and submitted by: 
+ 
+Task Team Leader: 
+Mr Jie Tang 
+10/01/2007 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Jose Vicente Zevallos 
+10/04/2007 
+Comments:   
+Sector Manager: 
+Ms Junhui Wu 
+10/11/2007 
+Comments:   

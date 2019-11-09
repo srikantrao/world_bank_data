@@ -1,0 +1,693 @@
+﻿The World Bank                                                                          RESTRUCTURING ISDS
+EG: Household Natural Gas Connection Project (P146007)
+
+
+
+
+                       Integrated Safeguards Data Sheet
+                                    Restructuring Stage
+
+
+        Restructuring Stage | Date ISDS Prepared/Updated: 09-Jan-2017| Report No: ISDSR21094
+
+
+
+
+                        Regional Vice President:    Hafez M. H. Ghanem
+                               Country Director:    Asad Alam
+                 Senior Global Practice Director:   Riccardo Puliti
+                    Practice Manager/Manager:       Erik Magnus Fernstrom
+                             Task Team Leader:      Sameh I. Mobarek
+          The World Bank                                                                            RESTRUCTURING ISDS
+          EG: Household Natural Gas Connection Project (P146007)
+
+
+
+
+    Note to Task Teams: The following sections are system generated and can only be edited online in the Portal.
+
+.
+
+I. BASIC INFORMATION
+
+1. BASIC PROJECT DATA
+
+Project ID                                                     Project Name
+P146007                                                        EG: Household Natural Gas Connection Project
+Task Team Leader(s)                                            Country
+Sameh I. Mobarek                                               Egypt, Arab Republic of
+Approval Date                                                  Environmental Category
+24-Jul-2014                                                    Full Assessment (A)
+Managing Unit                                                  Is this a Repeater project?
+GEE05
+
+PROJECT FINANCING DATA (IN USD MILLION)
+
+Total Project Cost                                             Total Financing
+1,473,900,000.00                                               1,473,900,000.00
+Financing Gap
+0.00
+OLD_FIN_DTL
+Financing Source                                                                                           Amount
+Counterpart Funding                                                                                 799,000,000.00
+International Bank for Reconstruction and Development (IBRD)                                        500,000,000.00
+Parallel Financing                                                                                  174,900,000.00
+Total                                                                                             1,473,900,000.00
+
+
+
+2. PROJECT INFORMATION
+           The World Bank                                                                             RESTRUCTURING ISDS
+           EG: Household Natural Gas Connection Project (P146007)
+
+
+
+    Current Project Development Objective
+    The project development objective is to assist the Arab Republic of Egypt to increase household access to reliable, lower
+    cost, grid connected natural gas supply.
+
+
+
+.
+
+
+    Note to Task Teams: End of system generated content, document is editable from here.
+
+ABBREVIATIONS AND ACRONYMS
+
+AFD                     Agence Française de Développement (French Development Agency)
+EGAS                    Egyptian Natural Gas Holding Company
+ESIAF                   Environmental and Social Impact Assessment Framework
+ESMMF                   Environmental and Social Management and Monitoring Framework
+ESMP                    Environmental and Social Management Plan
+EU                      European Union
+HSE                     Health, Safety, and Environment
+IBRD                    International Bank for Reconstruction and Development
+LDC                     Local Distribution Company
+LPG                     Liquefied Petroleum Gas
+PMU                     Project Management Unit
+PRS                     Pressure Reduction Station
+RAP                     Resettlement Action Plan
+RPF                     Resettlement Policy Framework
+
+1. PROJECT DESCRIPTION
+
+Component (1) - Gas Network Expansion and Household Connections (Estimated Cost US$ – 1,120 million, of
+which IBRD US$ 500 million, AFD €70 million and EU €10 million): This component is designed to finance
+goods, works, and non-consulting services needed to install pressure reductions stations, expand low
+pressure networks, and establish customer service centers in 11 governorates (Giza, Ismailia, Alexandria,
+Qalubia, Menufia, Daqahlia, Qena, Gharbia, Aswan, Sohag, and Marsa Matrouh) to provide for 1.5 million
+new household gas connections. Disbursements from these loans are done on a pari passu basis, with IBRD
+loan covering 84 percent of a withdrawal request under this Component and AFD/EU funds covering the
+balance of 16 percent. The balance of this component’s fu nding (US$473 million) is provided by the
+Government through other sources and is focused on covering taxes, customs duties, construction and civil
+works costs involved in the network upgrades and new connections. The Government of Egypt (GoE) has
+requested an expansion of the scope of Component one to include 800,000 additional connections in new
+cities within the existing scope and 9 new governorates. GoE also requested extension of the Project’s
+Closing Date from June 30, 2019, to June 30, 2021 to complete the work needed for these additional
+connections.
+          The World Bank                                                                            RESTRUCTURING ISDS
+          EG: Household Natural Gas Connection Project (P146007)
+
+
+
+
+Component (2) - Targeted Financial Support to Poor Households for the payment of Gas Connection Fees
+(Estimated Cost: €45 million, financed by an EU Grant and administered by AFD): This component foc uses on
+establishing a social safety net fund to subsidy a portion of the gas connection costs to poor households.
+
+Component (3) - Institutional Strengthening (Estimated Cost: €13 million financed by an EU Grant and
+administered by AFD): This component n) is focused on technical assistance and capacity building for the
+natural gas sector.
+
+
+    Note to Task Teams: The following sections are system generated and can only be edited online in the Portal.
+
+.
+
+3. PROJECT LOCATION AND SALIENT PHYSICAL CHARACTERISTICS RELEVANT TO THE SAFEGUARD ANALYSIS (IF
+   KNOWN)
+The geographical spread of the project over twenty governorates (including nine newly added governorates),
+from the Southern Governorates (Aswan, Luxor, Fayoum, Benisweif, Menia, Assiout, Qena, and Sohag) to the
+Northern (Alexandria and Beheira) and from Eastern Governorates (Ismailia and Damietta) to the Western
+(Matrouh), yields a diverse array of baseline conditions for the different project areas. The NG is processed
+and injected into the high pressure lines of the national grid (70 Bar) for transmission and distribution (7
+Bar). Pressure Reduction Stations (PRS) are established to reduce the pressure from 70 Bar to 7 Bar. An
+odorant is added to the NG at the PRSs feeding distribution networks to residential areas in order to facilitate
+leak detection. Regulators are used to further lower the pressure to 100 mbar in the local networks, before
+finally lowering the pressure to 20 mbar for domestic use within the households. In addition to excavation
+and pipe laying, key activities of the construction phase also include installation of pipes on buildings,
+internal connections in households, and conversion of appliance nozzles to accommodate the switch from
+LPG to NG.
+
+
+
+4. ENVIRONMENTAL AND SOCIAL SAFEGUARDS SPECIALISTS ON THE TEAM
+
+Ehab Mohamed Mohamed Shaalan, Environmental Safeguards Specialist
+Amal Nabil Faltas Bastorous, Social Safeguards Specialist
+SAFEGUARD_TABLE
+5. SAFEGUARD POLICIES TRIGGERED
+
+
+    Safeguard Policies                        Triggered              Explanation
+
+
+                                                                    In the original ongoing project, which covers 11
+    Environmental Assessment (OP) (BP 4.01) Yes                     Governorates (out of all 27 Governorates in
+                                                                    Egypt), the policy was triggered due to the
+The World Bank                                                                            RESTRUCTURING ISDS
+EG: Household Natural Gas Connection Project (P146007)
+
+
+
+                                                         potential multi-dimensional environmental and
+                                                         social concerns that could be sensitive, diverse or
+                                                         unprecedented. In this restructuring activity, the
+                                                         same activities will take place but in a wider
+                                                         geographic scope covering an additional 9
+                                                         Governorates. The key environmental aspects are
+                                                         air and dust emissions during construction from
+                                                         excavation and construction equipment, noise,
+                                                         solid and hazardous waste generation,
+                                                         consumption of water resources and discharge of
+                                                         liquid wastes from construction site offices.
+                                                         Disruption of ecosystems or sensitive habitats may
+                                                         occur especially during construction of high
+                                                         pressure gas pipelines. Therefore, this policy
+                                                         (OP4.01) should continue to be triggered to take
+                                                         into consideration the potential negative
+                                                         environmental and social impacts in the original 11
+                                                         governorates in addition to the newly added 9
+                                                         governorates, which include, but are not limited
+                                                         to, including but not limited to: the loss of assets,
+                                                         risks to the heath and safety of workers and local
+                                                         community members, traffic congestion and loss
+                                                         of access due to excavation and installation works,
+                                                         air emissions, elevated noise levels, structural
+                                                         effects on cultural sites and antiquities, potential
+                                                         risk to weak structures, damage to underground
+                                                         utilities during excavations, possible disruption or
+                                                         displacement of ecological systems and solid and
+                                                         liquid waste disposal.
+                                                         These negative impacts are detailed along with
+                                                         their mitigation measures in the ESIAF
+                                                         (Environmental and Social Impact Assessment
+                                                         Framework), which provides a framework for
+                                                         determining the negative environmental and
+                                                         social impacts and overall approaches for their
+                                                         mitigation. In addition, management and
+                                                         monitoring framework is also included as part of
+                                                         the ESIAF. WBG EHS Guidelines for Gas
+                                                         Distribution systems are also referred to in the
+                                                         ESIAF.
+                                                         Given the lack of clarity on the exact locations for
+                                                         project implementation within the newly added 9
+                                                         Governorates, the scope of the prepared ESIAF
+                                                         was recently updated to include the new
+                                                         geographic scope. Once the locations are
+                                                         determined, site specific ESIAs and ESMPs will be
+                                                         prepared, cleared and disclosed locally and in the
+       The World Bank                                                                            RESTRUCTURING ISDS
+       EG: Household Natural Gas Connection Project (P146007)
+
+
+
+                                                                InfoShop.
+
+
+
+                                                                The project avoids any activities in protected areas
+Natural Habitats (OP) (BP 4.04)           No                    and will not pass through any sensitive habitats.
+                                                                Therefore, this policy is not triggered.
+
+                                                                The project will not include any forest related
+Forests (OP) (BP 4.36)                    No
+                                                                activities. Therefore, this policy is not triggered.
+
+                                                                The project will not include any activities involving
+Pest Management (OP 4.09)                 No                    pest management. Therefore, this policy is not
+                                                                triggered.
+                                                                Many areas in Egypt are famous for historical sites
+                                                                and culturally variable resources. Due to wide
+                                                                geographical coverage of the project and the
+                                                                excavation activities which will take place in 20
+                                                                Governorates, chances of affecting physical
+Physical Cultural Resources (OP) (BP 4.11) Yes
+                                                                cultural resources exist. Therefore, this policy is
+                                                                triggered. screening and mitigation measures for
+                                                                PCR issues are handled under the ESIAF
+                                                                (Environmental and Social Impact Assessment
+                                                                Framework).
+
+                                                                No indigenous people are identified in the project
+Indigenous Peoples (OP) (BP 4.10)         No
+                                                                areas.
+
+                                                                The main components that will entail need for
+                                                                land and may trigger the policy are the
+                                                                establishment of pressure reduction stations
+                                                                (PRSs) and laying down high pressure gas
+                                                                pipelines. The common practice of EGAS is to
+                                                                obtain the PRSs land through willing buyer willing
+                                                                seller and no land expropriation or eminent
+                                                                domain decree is issued for this purpose. EGAS will
+                                                                be following a diligent process that align with the
+Involuntary Resettlement (OP) (BP 4.12)   Yes                   principles of the willing buyer willing seller to
+                                                                emphasize the voluntary nature of the transaction
+                                                                and ensure that market price and full replacement
+                                                                cost are paid to purchase the land. In some cases,
+                                                                the high pressure pipelines will pass through
+                                                                privately owned agricultural lands which may
+                                                                result in temporary disruption for the agriculture
+                                                                business and potential damages on crops, trees or
+                                                                privately owned assets. No displacement of people
+                                                                is anticipated however access to amenities and
+       The World Bank                                                                             RESTRUCTURING ISDS
+       EG: Household Natural Gas Connection Project (P146007)
+
+
+
+                                                                 livelihoods may be negatively affected. Therefore,
+                                                                 OP 4.12 is triggered. To date, only one due
+                                                                 diligence resettlement report for a pipeline that is
+                                                                 financed by the Government and is considered an
+                                                                 associated facility was prepared under the parent
+                                                                 project. No more RAPs were prepared for the
+                                                                 parent project.
+                                                                 For the newly added 9 governorates, the
+                                                                 developed and approved RPF for the parent
+                                                                 project was updated to include the new
+                                                                 geographic scope. Once the exact locations of the
+                                                                 PRSs and the routes of the high pressure pipelines
+                                                                 are identified, RAPs will be prepared in case any
+                                                                 involuntary resettlement will be involved.
+                                                                 No activities or investments will affect, or depend
+Safety of Dams (OP) (BP 4.37)               No                   on the performance of existing dams in this
+                                                                 project. Therefore, this policy is not triggered.
+                                                                 No activities on international waterways are
+Projects on International Waterways (OP)
+                                            No                   included in this project. Therefore, this policy is
+(BP 7.50)
+                                                                 not triggered.
+                                                                 No disputed areas are identified within the
+Projects in Disputed Areas (OP) (BP 7.60)   No                   boundaries of this project. Therefore, this policy is
+                                                                 not triggered.
+KEY_POLICY_TABLE
+II. KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT
+
+ A. SUMMARY OF KEY SAFEGUARD ISSUES
+
+
+ 1. Describe any safeguard issues and impacts associated with the Restructured project. Identify and describe any
+   potential large scale, significant and/or irreversible impacts.
+   The following safeguard issues and potential negative impacts associated with the project. All the impacts listed
+   below are largely of moderate significance. The anticipated impacts are limited to the specific construction sites,
+   associated mainly with construction activities which are of short period of time. None of the listed impacts is
+   considered irreversible or of potential large scale as described below.
+   During Construction
+   •    Air emissions from heavy machinery and generators;
+   •    Dust generation from excavation activities and open storage of materials and excavated soils;
+   •    Noise emissions from heavy machinery and asphalt breaking; as well as other construction/demolition for
+   extending NG piping into households;
+   •    Improper management of solid, liquid, and hazardous wastes and contamination of soils;
+   •    Water consumption in construction activities;
+   •    Improper disposal of wastewater from site offices;
+   •    Dewatering of subsurface waters and improper disposal of the resulting wastewater;
+   •    Potential impacts on culturally valuable sites and antiquities due to excavation activities;
+      The World Bank                                                                                RESTRUCTURING ISDS
+      EG: Household Natural Gas Connection Project (P146007)
+
+
+
+  •     Traffic congestion and blockage of access due to excavation and installation works;
+  •     Damage of crops and negative impacts on livelihoods due to laying down high pressure pipelines especially in
+  privately owned agricultural lands;
+  •     Permeant land requirements to establish Pressure Reduction Stations;
+  •     Temporary land requirements for mobilization of machinery and other construction works processes;
+  •     Risk of damage/breakage of underground utility lines and piping (drinking water, wastewater, electricity
+  cables, telephone lines) during excavations;
+  •     Inconveniences and complains by local dwellers especially concerning street restoration and re-pavement due
+  to lack of coordination between the various implementing parties and permitting authorities.
+  •     Worker health and safety concerns especially if local subcontractors are utilized in excavation works and daily
+  casual activities with no culture of using personal protection equipment
+  During Operation
+  Potential negative impacts during operations mainly include:
+  -     noise from the operations of the PRSs;
+  -     Solid, liquid and hazardous wastes from the PRS operations
+  -     Potential gas leakages and fire or explosion risks;
+  -     Odorant emissions from the PRS causing nuisance to nearby residential areas;
+  -     Workers health and safety during operation of the PRSs;
+  -     Household user health and safety;
+  -     Overall integrity of the gas network and risk of rupture or damage by any future unplanned excavation works
+  causing fire risks or gas emissions.
+
+
+
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area.
+
+  No potential indirect and/or long term impacts are expected.
+
+
+3. Describe any potential alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+  The updated Environmental and Social Impacts Assessment Framework (ESIAF) considered several alternatives,
+  including not undertaking the project. The No-Project alternative is not favored as it simply deprives the Egyptian
+  Public and the Government of Egypt from the social, economic and environmental advantages associated with the
+  proposed project such as reduced expenditure on LPG importation and subsidies, significantly lower leakage and
+  fire risk compared to LPG and constantly available fuel for home use.
+
+  Energy alternatives such as expanding LPG usage, or converting home appliances to operate on electricity or were
+  also discussed and proved to be economically unfeasible compared to the use of natural gas. Piping material
+  alternatives in the use of copper or steel was evaluated. Several considerations support the use of steel piping such
+  strength, cost, and some aspects of public attitudes (copper is known in Egypt as an attractive target for theft due to
+  its high value. Aside from the aspect of minimizing corrosion (and therefore risk of leakage), selection of one of the
+  piping materials over the other does not seem to offer contrasts in the environmental and social impacts (except a
+  marginally lower pressure loss with copper piping). Therefore, as long as precautions and safety margins are
+  respected steel seems to be the more practical and safe choice.
+
+  Alternatives to the sequencing of constructions were also considered. Progressing with constructing the high
+  pressure gas transmission pipelines and distribution networks in the various project areas could be achieved
+    The World Bank                                                                                  RESTRUCTURING ISDS
+    EG: Household Natural Gas Connection Project (P146007)
+
+
+
+through two alternatives:
+•    Alternative 1: complete the construction of the networks in more than one area simultaneously
+•    Alternative 2: complete networks in sequence area by area
+
+The advantages of Alternative 1 over Alternative 2 are: (i) shorter implementation schedule; and
+(ii) utilization of economies of scale in lower cost for the additional equipment and components procured to cover
+multiple areas simultaneously.
+The advantages of Alternative 2 over Alternative 1 are: (i) less resources and capital investments required; and (ii)
+less management and coordination resources required. Overall, the key contrast between the two alternatives is
+related to available assets and human resources, while paying attention to coordination of sequential work outputs
+of the parallel teams. The main advantage of working in parallel would be to minimize project implementation time.
+
+Routing alternatives apply to transmission mains, distribution mains and connection mains. Deciding on routing
+alternatives for the distribution and connection network is premature at this stage. However, selecting optimum
+routes for these networks is crucial to avoid as much environmental and social impacts as possible. It is very
+important to avoid as many sensitive sites as possible to minimize environmental and social impacts.
+
+Excavation Technique alternatives: For the concerned project activities, excavation may proceed through using the
+“Open Cut�? technique. Alternatively, borings may be excavated using hydraulic drive, and finally Horizontal
+Directional Drilling (HDD) technique. HDD is the method that shall be used in crossing the major urban roads and
+railways (if intercepted).
+
+One of the main impact avoidance measures which is determined it that no pipeline crossing of the Nile or any of its
+tributaries will take place during the execution of this project. Existing high pressure mains on the East and West of
+the Nile will be utilized instead of crossing the Nile in order to avoid any potential negative environmental impacts
+on the water quality or the aquatic environment.
+
+The potential adverse social impacts are mainly related to the permanent land occupation and temporary land use
+for construction of 36 PRSs and of the temporary land acquisition for laying down high pressure gas pipeline. It is
+estimated that the project will need about 5-6 hectare (1 hectare = 10,000 square meters) of permanent land
+occupation. Since the exact locations of PRSs and alignment of gas pipeline cannot be finally determined at this
+stage, an updated resettlement policy framework (RPF) has been prepared to set the key principles for mitigating
+the potential resettlement impacts as per OP 4.12. The updated RPF establishes the principles for resettlement
+impact mitigation and the organizational arrangements for preparation and implementation of resettlement action
+plans (RAPs) which may be needed during project implementation.
+In the meantime, other potential social impacts should be carefully examined through the social assessment part of
+the ESIAF at this stage and later during the preparation of the ESIAs. The social impacts assessment should be also
+examining the social risk that could result from the project, including the risk related to labor influx in case it applies
+to the project construction sites.
+
+To address demand side aspects of the service delivery, EGAS already has a continuous Citizen Engagement plan in
+place to build and maintain a productive relationship over time with the project hosting communities. This process
+extends throughout the life of the project and encompasses a range of activities and approaches, from information
+sharing and consultation to ensure that the project beneficiaries are fully engaged during the various stages of the
+project.
+
+The proposed project will build on this Citizen Engagement focus. It will support the development of a framework
+     The World Bank                                                                               RESTRUCTURING ISDS
+     EG: Household Natural Gas Connection Project (P146007)
+
+
+
+ for household gas service delivery performance improvement and monitoring and develop a monitoring system to
+ develop a Key Product Indicator. As a relevant tool for citizen engagement, EGAS and the participating LDCs will be
+ strengthening the role of the customers’ service centers (CSC’s) to a more engaging role with citizens. Initially prior
+ to the implementation of the proposed project, the Bank will also support a safety awareness campaign geared
+ toward the more rural areas, where concerns on the safety of usage of natural gas connections and appliance were
+ raised during the social consultations. Once the project is moved to implementation this will be sustained by the
+ Social Development Officers hired by the project.
+
+
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower
+ capacity to plan and implement the measures described.
+ Given that routing of the high pressure pipelines and exact locations of the PRSs was not known with certainty
+ neither at the appraisal time of the original project nor expected to be known at the appraisal of the restructured
+ project (additional 9 governorates), an ESIAF)and Resettlement Policy Framework (RPF) were selected to be the
+ safeguard instruments used to address OP 4.01 and OP 4.12 respectively. The ESIAF and the RPF have been updated
+ to reflect the changes in the geographical scope and baseline conditions of the original project expanding its
+ boundaries from 11 governorates to 20 governorates.
+ The mitigation measures to address potential negative environmental and social impacts are well presented and
+ detailed in the Environmental and Social Management and Monitoring Framework (ESMMF) contained in the
+ updated ESIAF. The ESIAF has been updated, reviewed, approved and disclosed in-country and at the Bank’s
+ external web site on June 18th and July 06th respectively.
+
+ The objective of the ESMMF is to outline a mechanism for minimizing or eliminating potential negative impacts and
+ for monitoring the application and performance of the mitigation measures. The ESMMF identifies roles and
+ responsibilities for different stakeholders for implementation and monitoring of mitigations, and whenever
+ applicable, the ESMMF is designed to accommodate alternative context-specific mitigation and monitoring
+ measures. The ESMMF for this project is prepared in accordance with the World Bank Group’s Environmental,
+ Health, and Safety (EHS) Guidelines for Gas Distribution Systems.
+ Once the PRS locations and pipeline routes are identified, site specific ESIAs/ESMPs will be prepared to include
+ mitigation measures which are specific to these locations and routes. The site specific ESIAs/ESMPs will be prepared
+ following the principles and procedures set forth in the updated ESIAF. Clear measures for handling health and
+ safety issues, managing the impacts of labor influx and compensating resettlement impacts will be set forth clearly
+ in the ESMP or further associated tool (e.g. the RAPs). The site specific ESIAs/ESMPs and RAPs will be prepared,
+ cleared and disclosed prior to the commencement of any construction works. A reputable national consulting firm
+ will be contracted by Egyptian Gas Holding Company (EGAS) - “the implementing agency�? - to prepare the site
+ specific ESIAs/ESMPs which will be reviewed by the Bank safeguards task team before final review and clearance by
+ the Bank.
+ In terms of implementation of environmental and social mitigation measures, all contracts for construction will
+ include site specific ESMPs which will be mandatory to implement. EGAS environmental and social officers will
+ ensure the implementation of the ESMP requirements. In addition, Bank supervision missions will ensure
+ compliance with the ESMP measures.
+ Over the past decade, EGAS has developed strong knowledge and competence in implementing Bank safeguard
+ requirements, especially ESMPs and RAPs, since its engagement with the Bank in the execution of the EG-Natural
+ Gas Connections Project (P095392) in the period from 2008 to 2014 and the implementation of the ongoing
+ Households Natural Gas Connection Project (P146007) since 2014. In addition, EGAS will ensure, through its
+ contractual arrangements with the contactors, that all ESMP/RAP requirements will be embedded in these
+ contracts and will be binding for all contractors.
+     The World Bank                                                                              RESTRUCTURING ISDS
+     EG: Household Natural Gas Connection Project (P146007)
+
+
+
+
+ However, due to the expansion of the project geographic scope to cover 20 governorates all over Egypt, the
+ capacity of EGAS for close supervision of the ESMP/RAP implementation will need strengthening and further
+ development. With assistance from the Bank safeguards task team members, a capacity development and
+ strengthening plan is being prepared to ensure that EGAS will be able to secure sufficient human, technical and
+ financial resources to implement the ESMP/RAP requirements. In addition, capacity assessment of the contractors
+ who will be mandated to execute the project on the ground will be conducted and gaps will be identified. The Bank
+ safeguards task team will ensure that both EGAS and its contractors have sufficient resources and competency to
+ implement the safeguards requirements. This may include the possibility of utilizing external consultants to support
+ EGAS and its contractors at least for a transition period until the internal capacities of EGAS/Contractors are
+ strengthened.
+
+ As for health and safety concerns, EGAS and its contractors have dedicated health, safety and environment (HSE)
+ departments with well-trained and competent staff who are familiar with implementing health and safety measures
+ in the gas sector. In the capacity assessment which will be conducted, adequacy of human resources allocated for
+ health and safety in EGAS and contractors will be assessed and additional resources may be recommended
+ especially at the contractors’ level.
+
+ EGAS Environmental staff have received training on environmental auditing, EIAs preparation and review for
+ industrial establishments and environmental legislation. The social teams have received comprehensive training,
+ through the Bank Task Team environmental and social specialists on number of topics that include but are not
+ limited to environmental assessment, OP4.01, social impacts assessment, OP 4.12 on Involuntary Resettlement,
+ establishing and operating grievance redress mechanism. Furthermore, the environmental departments in EGAS
+ contractors (such as Egypt Gas and Town Gas) have gained experience through the implementation of the Natural
+ Gas Connections Project (P095392) and the ongoing Households Natural Gas Connection Project (P146007). The
+ ESMMF within the updated ESIAF has recommended some additional training and capacity building for EGAS
+ contractors and for EGAS and the LDCs environmental and social officers. A capacity needs assessment for the LDCs
+ and EGAS has been prepared by an independent consultant. The assessment laid out the specific needs of the LDCs
+ and EGAS to implement and supervise the prepared ESMPs.
+
+
+5. Identify the key stakeholders and describe the mechanism for consultation and disclosure on safeguard policies,
+ with an emphasis on potentially affected people.
+ Consultations are being carried out with key stakeholders across the various stages of the project. The original ESIAF
+ and RPF were consulted upon twice in 2014 during the preparation of the Households Natural Gas Connection
+ Project (P146007) as required for category A projects. These were very well advertised and attended in the 11
+ governorates. Tools used included focus group discussions, individual interviews, group meetings and public
+ consultation.    Consultation      activities  (scoping,    interviews,    focus     group     discussions,     public
+ hearing/consultations/scoping sessions) were held with various stakeholders and community members in host
+ communities in the 11 Governorates. These consultations were in compliance with World Bank policies related to
+ disclosure and public consultation and Egyptian regulations related to public consultation (Law 4/1994 modified by
+ Law 9/2009). Throughout the various consultation and engagement activities, the work teams experienced and
+ recorded overwhelming public acceptance, by the communities and the governmental stakeholders towards the
+ proposed project. Aside from limited concerns regarding arrangements for the Natural Gas installation payments
+ and street restoration, all participants expressed their eagerness for commencement of project implementation
+ without much delay and many others requested the extension of the project to additional areas.
+
+ For the updated ESIAF/RPF to include the additional Governorates, a public consultation session was held in
+                      The World Bank                                                                            RESTRUCTURING ISDS
+                      EG: Household Natural Gas Connection Project (P146007)
+
+
+
+                  October 10th, 2016 in Cairo. The invitation to the session was publicized in widely spread national newspaper. In
+                  addition, EGAS invited key stakeholders from the addition 9 Governorates to attend the consultation session and
+                  provided dedicated transportation to all participants. Several NGOs representing the civil society in the 9
+                  governorates actively participated in the discussions and provided comments on the Draft ESIAF/RPF. The NGO
+                  representatives determined their concerns regarding potential negative environmental and/or social impacts which
+                  may affect some people in their respective governorates especially farmers whose agricultural lands will be affected
+                  by the gas pipelines. In addition, concerns about restoration of street conditions after completion of works and
+                  extending the gas networks to deprived areas were flagged.
+
+                  The session was well attended and documented by EGAS where all comments and discussions were included and
+                  addressed in the updated ESIAF/RPF.
+
+                  The preparation of the updated ESIAF/RPF was closely supported by the Bank safeguards task team, reviewed and
+                  cleared by the Bank on April 17th, 2017. The Final updated ESIAF and RPF were disclosed locally on EGAS website on
+                  June 18th and on the Bank’s external web site on July 06th. In addition, the updated ESIAF and RPF will be available
+                  at each Governorate electronically and in hard copies upon request from any concerned party.
+
+                  Further public consultation sessions and complementary consultation activities (e.g. scoping, interviews and focus
+                  group discussions) are being and will continue to be held as part of the preparation of the site specific
+                  ESIAs/ESMPs/RAPs and the same established system for arranging consultations, engaging stakeholders, addressing
+                  their concerns in the safeguards instruments are being followed.
+
+            DISCLOSURE_TABLE
+            B. DISCLOSURE REQUIREMENTS
+ENV_TABLE
+ Environmental Assessment/Audit/Management Plan/Other
+
+        Date of receipt by the Bank                                       Date of submission for disclosure
+        17-Apr-2017                                                       06-Jul-2017
+         For Category ‘A’ projects, date of distributing the Executive Summary of the EA to the Executive Directors
+
+
+         “In country�? Disclosure
+
+            Country                                                         Date of Disclosure
+            Egypt, Arab Republic of                                         18-Jun-2017
+            Comments
+            The link to the website is
+            http://www.egas.com.eg/Corporate_Overview/ExtensionOfNaturalGasConnectionsProject.aspx
+
+
+RESETTLE_TA BLE
+
+
+
+
+Resettlement Action Plan/Framework Policy Process
+           The World Bank                                                                         RESTRUCTURING ISDS
+           EG: Household Natural Gas Connection Project (P146007)
+
+
+
+
+Date of receipt by the Bank                                   Date of submission for disclosure
+17-Apr-2017                                                   06-Jul-2017
+“In country�? Disclosure
+
+ Country                                                       Date of Disclosure
+ Egypt, Arab Republic of                                       18-Jun-2017
+ Comments
+ The link to the website is
+ http://www.egas.com.eg/Corporate_Overview/ExtensionOfNaturalGasConnectionsProject.aspx
+ COMPLIANCE_TABLE
+  C.   COMPLIANCE MONITORING INDICATORS AT THE CORPORATE LEVEL
+
+EA_TABLE
+ OP/BP/GP 4.01 - Environment Assessment
+ Does the project require a stand-alone EA (including EMP) report?                                Yes
+
+ If yes, then did the Regional Environment Unit or Practice Manager (PM) review
+                                                                                                  Yes
+ and approve the EA report?
+
+ Are the cost and the accountabilities for the EMP incorporated in the
+                                                                                                  Yes
+ credit/loan?
+
+
+
+ PCR_TABLE
+ OP/BP 4.11 - Physical Cultural Resources
+ Does the EA include adequate measures related to cultural property?                              Yes
+
+ Does the credit/loan incorporate mechanisms to mitigate the potential adverse
+                                                                                                  Yes
+ impacts on cultural property?
+
+
+
+ IR_TABLE
+ OP/BP 4.12 - Involuntary Resettlement
+ Has a resettlement plan/abbreviated plan/policy            framework/process
+                                                                                                  Yes
+ framework (as appropriate) been prepared?
+
+ If yes, then did the Regional unit responsible for safeguards or Practice
+                                                                                                  Yes
+ Manager review the plan?
+
+ Is physical displacement/relocation expected?                                                    No
+
+ Is economic displacement expected? (loss of assets or access to assets that
+                                                                                                  TBD
+ leads to loss of income sources or other means of livelihoods)
+          The World Bank                                                                         RESTRUCTURING ISDS
+          EG: Household Natural Gas Connection Project (P146007)
+
+
+
+
+PDI_TABLE
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the World Bank for
+                                                                                                 Yes
+disclosure?
+
+Have relevant documents been disclosed in-country in a public place in a form
+and language that are understandable and accessible to project-affected groups                   Yes
+and local NGOs?
+
+
+
+ALL_TABLE
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional responsibilities been
+                                                                                                 Yes
+prepared for the implementation of measures related to safeguard policies?
+
+Have costs related to safeguard policy measures been included in the project
+                                                                                                 Yes
+cost?
+
+Does the Monitoring and Evaluation system of the project include the
+                                                                                                 Yes
+monitoring of safeguard impacts and measures related to safeguard policies?
+
+Have satisfactory implementation arrangements been agreed with the
+borrower and the same been adequately reflected in the project legal                             Yes
+documents?
+
+
+
+
+III. APPROVALS
+
+
+    Task Team Leader(s)                   Sameh I. Mobarek
+
+
+    Approved By
+
+    Safeguards Advisor                    Nina Chee                                28-Aug-2017
+
+    Practice Manager/Manager
+
+.
+
+
+    Note to Task Teams: End of system generated content
+

@@ -1,0 +1,239 @@
+                            INTEGRATED SAFEGUARDS DATA SHEET
+                                        APPRAISAL STAGE
+
+                                                                     Report No.: 87652
+
+Date ISDS Prepared/Updated:           April 24, 2014
+I. BASIC INFORMATION
+    A. Basic Project Data
+    Country:                    Mozambique             Project ID:             P149629
+    Project Name:               Enhancing Spatial Data for Flood Risk Management Project
+    Task Team Leader:           Louise E. M. Croneborg
+                                (Water Resources Management Specialist, AFTN2)
+    Estimated Board Date:       (RVP Approval) 10- May-2014
+    Managing Unit:              AFTN2
+    GEF Focal Area:             n/a
+    Sector(s):                  General water, sanitation and flood protection sector 100%
+    Theme(s):                   Natural disaster management 30%, Water resources management 30%,
+                                and climate change 40%
+    Is this project processed under OP 8.50 (Emergency Recovery) or OP 8.00           No
+    (Rapid Response to Crises and Emergencies)?
+                                 Project Financing Data (in USD Million)
+    Total Project Cost:       4.95 & 4.07              Total Bank Financing:    4.95 & 4.07
+    Financing Gap:            0.00
+      Financing Source                                                                        Amount
+      Recipient                                                                                  0.00
+      Global Facility for Disaster Risk Reduction and Recovery (GFDRR)                           4.95
+      (Limpopo)
+      Global Facility for Disaster Risk Reduction and Recovery (GFDRR)                           4.07
+      (Zambezi)
+      Total                                                                                      9.02
+    Environmental Category: C
+    Is this a Repeater project? No
+    Is this a Transferred       No
+    project?
+.
+    B. Project Development Objective(s)
+    1. The Project Development Objective (PDO) is to increase the capacity of Mozambique to
+    prepare for and manage flood events in the Limpopo and Zambezi River basins.
+
+    C. Project Description
+    1. The topographic maps and data currently available for vulnerable areas of the
+    Limpopo and Zambezi River basins are inadequate for modern hydraulic and flood risk
+    modeling procedures. This lack of adequate maps and terrain models also hinders management
+    of shared waters amongst the riparians Mozambique, Malawi, Zambia, and Zimbabwe. The
+    project will therefore support the acquisition of high-resolution spatial data through airborne
+    lidar1 and photography surveys, the associated creation of digital elevation models (DEMs),
+    further analysis to create useful information products, and the incorporation of that information
+    into policy making and investment planning in priority areas of the Limpopo and Zambezi
+    River basins. The integration of more detailed, high-resolution spatial and topographic data into
+    tools and models used for planning, monitoring, response, and warnings can translate into
+    improved societal and economic benefits (for example: more accurate flood models and
+    predictions, flood protection, increased resilience to extreme events and climate change,
+    building-back-better of key infrastructure such as bridges and roads, improved design and siting
+    of infrastructure, general spatial planning and emergency response).
+
+    2. Understanding the dynamics of high-magnitude floods through computer simulations is
+    critical to flood preparedness and planning. High-resolution DEMs are necessary inputs to
+    hydraulic models, which simulate the flow of water across the surface of the earth. As a result,
+    modelers can see where floodwaters will go, their depth at any given location, the forces they
+    will exert there, and their residence time. When combined with historical river discharge
+    records, hydrologists can then estimate the frequency with which floods of a given magnitude
+    will occur at a given location. The resulting information is then used to improve long-term
+    planning, infrastructure siting and design, emergency response measures, and other proactive
+    management activities. Aerial photography is often used to create landcover classification
+    maps, which in turn are used in hydrologic and hydraulic models to provide better estimates of
+    hydrologic parameters such as runoff and infiltration coefficients. Aerial photography
+    complements DEMs by allowing accurate identification of specific features, such as road
+    crowns, surface water bodies, and other landscape features.
+
+    3. Light Detection and Ranging (LiDAR) is a remote sensing technology that measures
+    distance by bouncing a laser off a target and analyzing the reflected light. When flown in
+    an aerial survey, LiDAR can be used to scan large swaths of terrain and create three
+    dimensional models of the terrain surface. Following complex prost-processing techniques, the
+    raw data are transformed into a digital elevation model at extremely high resolution. With high-
+    resolution LiDAR-derived digital elevation models as an input, hydraulic models are expected
+    to improve in accuracy by a minimum of 20 percent and in some areas, such as the on the
+
+1
+  Lidar is a remote sensing technology that measures distance by illuminating a target with a laser and analyzing the
+reflected light. In this context, it will be used to construct three-dimensional terrain model. See Annex X for a
+detailed description of the technology and its applications.
+Zambezi River delta, which is particularly flat, by a minimum of 35 percent. Classification of
+river embankment areas is expected to improve by a minimum of 70 percent. The accuracy
+improvements are based on baselines estimates that use global digital elevation models at a 90
+meter resolution. The collection of LiDAR-derived DEMs will enable the creation of accurate
+hydraulic models for use in planning and investment scenarios.
+
+4. The project will consist of two small recipient-executed grants implemented in parallel by
+ARA-Sul and ARA-Zambeze, respectively, with each grant constituting one of the project’s two
+components as follow:
+
+5. Component A. Limpopo high-resolution mapping surveys & model development.
+Component A will consist of: pre-survey assessment; acquisition and delivery of Light
+Detection and Ranging survey (LiDAR) through specialist firm of prioritised areas of the
+Limpopo River basin; post-survey processing; intermediate application of survey data; direct
+application; and dissemination and data management. Component A will be supported by
+training activities, as well as strengthening the Information and Communication Technologies
+(ICT) necessary to process, analyse, share and disseminate the LiDAR survey data and
+associated developed information products.
+
+6. Component B. Zambezi high-resolution mapping surveys & model development.
+Component B will consist of: pre-survey assessment; acquisition and delivery of Light
+Detection and Ranging survey (LiDAR) through specialist firm of prioritised areas of the
+Zambezi River basin; post-survey processing; intermediate application of survey data; direct
+application; and dissemination and data management. Component A will be supported by
+training activities, as well as strengthening the ICT necessary to process, analyse, share and
+disseminate the LiDAR survey data and associated developed information products.
+
+7. As shown, each component will consist of a series of activities, beginning with preliminary
+consultations, needs assessments, and survey area prioritization, and culminating with the
+incorporation of new information products into decision making processes.
+
+D. Project location and salient physical characteristics relevant to the safeguard analysis
+(if known)
+8. There are no physical interventions related to the two small recipient executed grants. The
+activities involve two surveys in the Limpopo and Zambezi River basins, and investment into
+technical assistance, training and information and communication technologies.
+
+
+E. Environmental and Social Safeguards Specialists on the Team
+George Ledec – Environment Specialist
+Kristine Schwebach – Social Development Specialist
+
+
+6. Safeguard Policies                   Triggered?       Explanation (Optional)
+Environmental Assessment OP/BP          No               The policy is not triggered as the
+4.01                                                     project envisions no investments or
+                                                         works that would require
+                                                         environmental assessment.
+Natural Habitats OP/BP 4.04            No                The policy is not triggered as the
+                                                         project envisions no investments that
+                                                         would threaten natural habitats.
+Forests OP/BP 4.36                     No                The policy is not triggered as the
+                                                         project envisions no investments in
+                                                         management or destruction of
+                                                         natural forests or plantations.
+Pest Management OP 4.09                No                The policy is not triggered as the
+                                                         project will not procure pesticides
+                                                         nor result in their use.
+Physical Cultural Resources OP/BP      No                The policy is not triggered as there
+4.11                                                     are no works that would result in the
+                                                         known or unknown risk of impacting
+                                                         physical cultural heritage.
+Indigenous Peoples OP/BP 4.10          No                There are no Indigenous Peoples in
+                                                         the project area.
+Involuntary Resettlement OP/BP 4.12    No                The policy is not triggered as the
+                                                         project envisions no investments or
+                                                         works that would lead to involuntary
+                                                         resettlement.
+Safety of Dams OP/BP 4.37              No                No construction/rehabilitation or use
+                                                         of waters from a medium or large
+                                                         dam is envisioned in this project.
+Projects on International Waterways    No                The policy is not triggered because
+OP/BP 7.50                                               there are investments that would fall
+                                                         under the provisions of the policy.
+Projects in Disputed Areas OP/BP 7.60 No                 No project activity will be
+                                                         implemented in disputed areas.
+
+
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project.
+Identify and describe any potential large scale, significant and/or irreversible impacts:
+
+Not applicable.
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future
+activities in the project area:
+Not applicable.
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize
+adverse impacts.
+None applicable.
+4. Describe measures taken by the recipient to address safeguard policy issues. Provide an
+assessment of recipient capacity to plan and implement the measures described.
+Not applicable.
+5. Identify the key stakeholders and describe the mechanisms for consultation and
+disclosure on safeguard policies, with an emphasis on potentially affected people.
+Not applicable.
+
+
+B. Disclosure Requirements
+Environmental Assessment/Audit/Management Plan/Other
+Date of receipt by the Bank                                                      None required.
+Date of submission to InfoShop                                                   None required.
+For category A projects, date of distributing the Executive Summary of the
+EA to the Executive Directors
+"In country" Disclosure
+If the project triggers the Pest Management and/or Physical Cultural Resources policies,
+the respective issues are to be addressed and disclosed as part of the Environmental
+Assessment/Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please explain why:
+Not applicable.
+
+
+C. Compliance Monitoring Indicators at the Corporate Level
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) report?         Yes [ ] No [ ] NA [ x ]
+OP/BP 4.11 - Physical Cultural Resources
+Does the EA include adequate measures related to cultural property?       Yes [ ] No [ ] NA [ x ]
+Does the grant incorporate mechanisms to mitigate the potential adverse   Yes [ ] No [ ] NA [ x ]
+impacts on cultural property?
+OP 7.50 - Projects on International Waterways
+Have the other riparians been notified of the project?                    Yes [ ] No [ ] NA [ x ]
+If the project falls under one of the exceptions to the notification      Yes [ ] No [ ] NA [ x ]
+requirement, has this been cleared with the Legal Department, and the
+memo to the RVP prepared and sent?
+Has the RVP approved such an exception?                                        Yes [ ] No [ ] NA [ x ]
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the World Bank's Yes [ ] No [ ] NA [ x ]
+Infoshop?
+Have relevant documents been disclosed in-country in a public place in a       Yes [ ] No [ ] NA [ x ]
+form and language that are understandable and accessible to project-
+affected groups and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional responsibilities    Yes [ ] No [ ] NA [ x ]
+been prepared for the implementation of measures related to safeguard
+policies?
+Have costs related to safeguard policy measures been included in the           Yes [ ] No [ ] NA [ x ]
+project cost?
+Does the Monitoring and Evaluation system of the project include the           Yes [ ] No [ ] NA [ x ]
+monitoring of safeguard impacts and measures related to safeguard
+policies?
+Have satisfactory implementation arrangements been agreed with the             Yes [ ] No [ ] NA [ x ]
+recipient and the same been adequately reflected in the project legal
+documents?
+
+
+
+
+III. APPROVALS
+
+
+Task Team Leader:                            Name: Louise E. M. Croneborg
+Approved By:
+Regional Safeguards Advisor:                 Name: Alexandra                  Date: April 24, 2014
+                                             Bezeredi
+Sector Manager:                              Name: Magda Lovei                Date: March 07, 2014
+

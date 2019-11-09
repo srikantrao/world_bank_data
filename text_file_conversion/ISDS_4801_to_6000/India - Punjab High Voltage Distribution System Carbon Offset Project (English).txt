@@ -1,0 +1,481 @@
+Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+Report No.: 48615 
+Date prepared/updated:  05/13/2009 
+ 
+I.  Basic Information 
+ 
+1. Basic Project Data 
+ 
+Country:  INDIA 
+Project ID:  ID: P105618 
+Additional Project ID 
+(if any)
+:
+Project Name:  PUNJAB HIGH VOLTAGE DISTRIBUTION SYSTEM CARBON OFFSET 
+PROJECT 
+Task Team Leader:  Jeremy Levin 
+Estimated Appraisal Date: June 2009 
+Estimated ERPA Date: July 2009 
+Managing Unit:  SASDE 
+Lending Instrument:  Carbon Offset 
+Sector:  Power 
+Theme : Climate Change 
+IBRD/IDA Amount (US$m.): 0 
+PCF Amount (US$m.): $10 million (estimated) 
+Other financing amounts by source:  
+PSEB Equity: $53 million, 
+REC: $477 Million 
+ 
+Environmental Category: B 
+Is this a transferred project 
+Yes [ ] 
+    No [X ] 
+Simplified Processing 
+Simple [X ] 
+    Repeater [ ] 
+Is this project processed under OP 8.00 (Rapid Response to Crises 
+and Emergencies) 
+Yes [ ] 
+No [ X] 
+2. Project Objectives: 
+The proposed development objectives of the Carbon Offset Project are: 
+·
+Reduce global emissions of carbon dioxide  
+·
+Increase the efficiency, reliability, and quality of electricity supply in the local 
+distribution system of Punjab State Electricity Board (PSEB) 
+3. Project Description: 
+ 
+The project will reduce technical losses from current levels of ~18 percent to 11 percent within a 
+five year period in 46 separate distribution divisions in Punjab.  PSEB will decommission 
+transformers of 50 to 200 kVA and install new 6.3-kVA, 10-kVA, 16-kVA, and 25-kVA 
+transformers in 19 of the 20 distribution circles in Punjab while upgrading the voltage from a 3-
+phase 400V system to an 11kV high voltage distribution system (HVDS).  The objective is to 
+reduce energy losses in distribution lines by providing higher voltage power to individual 
+agricultural pump (AP) consumers and to reduce non-technical losses.  
+ 
+The loss reduction program implemented in all 46 divisions will have an aggregate annual 
+energy savings of 490 GWh per year in peak years.  As a result of energy savings, the project 
+Page  2
+will generate emission reductions by reducing the existing and future load/demand, thus avoiding 
+calculated levels of electricity generation in the region.  
+ 
+Distribution system conversions will reduce lines current by 27.5 times and thus the technical 
+energy losses by around 800 times. Additional benefits that will accrue include: 
+·
+Increased energy availability to serve future or unmet current demand, 
+·
+Improved voltage profiles for AP consumers. The voltage drop will be reduced, 
+especially during peak time, which improves the voltage profile available to the pump 
+sets leading to improvements in the life of AP motors and reducing consumer 
+expenditures for frequent motor rewinds, 
+o
+Reduced transformer failure resulting from local overloading, and 
+o
+Reduced emissions of nitrogen oxide (NOx) and sulpher oxide (SOx) and other 
+particulates, which contribute to local environmental problems. 
+ 
+The present Clean Development Machanism (CDM) Program of Activity (POA) targets only 
+technical loss reduction in the feeders and excludes the energy saving and emission reductions 
+through reduction in other losses or end use improvements from replacement of inefficient Agri-
+Pumps by efficient pumps.  The category
+ of the chosen methodology “comprises technologies or 
+measures to improve the energy efficiency of an electricity network by up to the equivalent of 60 
+GWh
+e
+per year.”  
+ 
+The implementation (initial tendering) for 6 projects consisting of about 81,000 agricultural 
+consumers started in October 2007. The 40 remaining projects will be fully implemented within 
+a
+three-year period, and are to be completed by March 2010.  
+ 
+4. Project Location and salient physical characteristics relevant to the safeguard analysis: 
+ 
+Actions to be undertaken in each of the 46 divisions include: 
+ 
+–
+Dismantling existing transformers and unnecessary lines so that lines crossing is avoided; 
+–
+Changing the configuration of the distribution network using existing poles and 
+conductors; 
+–
+Installing small capacity dedicated distribution transformers for each AP consumer.  
+–
+Strengthening poles and installing additional poles wherever necessary. 
+ 
+As a result of energy savings on account of technical loss reductions in the distribution of power, 
+the project leads to equivalent reduction in the power generation at the grid level. At the 
+Northern grid level, wherein the power generation is a mix of hydro and fossil fuel, it leads to 
+reduction of carbon dioxide (a Green House Gas) emissions.  By reducing the existing and future 
+load/demand the amount of mainly coal-based electricity generation in the region, the emissions 
+of nitrogen oxide (NOx) and sulpher oxide (SOx) and other particulates are also reduced, 
+producing positive environmental and health benefits. 
+ 
+The project will lead to avenues of direct and indirect employment during the implementation 
+phase. The additional power made available in the state will help in improving the quality of life 
+of the citizens and poverty alleviation, thus fostering social well being. 
+Page  3
+No other negative impacts are expected from the project.  An investigation was undertaken to 
+identify potential environmental issues in the transformers, and there was no presence of Poly 
+Chlorinated Biphenyls (PCB) in the transformer oil.  
+ 
+5. Environmental and Social Safeguards Specialists on the Team: 
+Pyush Dogra 
+ 
+Environment Specialist 
+ 
+R.R. Mohan 
+ 
+Senior Social Development Specialist   
+ 
+6. Safeguard Policies Triggered 
+(please explain why)
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+X
+Natural Habitats (OP/BP 4.04) 
+ X 
+Forests (OP/BP 4.36) 
+ X 
+Pest Management (OP 4.09) 
+ x 
+Physical Cultural Resources (OP/BP 4.11) 
+ X 
+Indigenous Peoples (OP/BP 4.10) 
+ X 
+Involuntary Resettlement (OP/BP 4.12) 
+ X 
+Safety of Dams (OP/BP 4.37) 
+ X 
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X 
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify 
+and describe any potential large scale, significant and/or irreversible impacts: 
+ 
+Changing over from low voltage to high voltage supply will be a major step in reducing technical 
+losses from the electricity distribution network. Up-grading of the system will ensure that 
+significant additional power previously lost in the distribution system will now be available for 
+direct consumption.   
+ 
+The improper handling of the dismantled transformers could lead to leakage of Poly Chlorinated 
+Biphenyls in case these were used as dielectric medium and operational safety during 
+implementation are two issues. These issues have been examined as part of the ESA and there 
+are no PCBs present in the PSEB transformer oil.  Therefore, no significant and/or adverse 
+environmental and social impacts are anticipated. 
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+ 
+No adverse indirect or long term environmental or social impacts are anticipated. It is noted that 
+PSEB has established and maintained adequate internal systems and procedures for health and 
+safety which are anticipated to be able to address potential future environmental and social 
+concerns if they arise.    
+Page  4
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts: 
+N.A. 
+ 
+4. 
+Describe measures taken by the borrower to address safeguard policy issues. Provide an 
+assessment of borrower capacity to plan and implement the measures described
+:
+PSEB as part of due diligence on environmental and social aspect has conducted an 
+“Environmental and Social Review (ESR).” This report was prepared describing impacts of the 
+project, mitigating arrangements, and the relevant systems in place within PSEB to address these 
+and future potential issues.  
+ 
+This Report describes that as a result of energy savings on account of technical loss reductions in 
+the distribution of power, the project leads to equivalent reduction in the power generation at the 
+grid level. At the Northern grid level, wherein the power generation is a mix of hydro and fossil 
+fuel, it leads to reduction of carbon dioxide (a Green House Gas) emissions. No other negative 
+impacts are expected from the project. Further, no PCBs are found in the transformer oil. This 
+was verified by conducting relevant field tests which have been duly documented in the ESR. 
+ 
+On Safety aspects PSEB has a separate Safety Code developed in house which highlights the 
+various practices and guidelines for Engineering and technical staff safety. This safety code is 
+part of ESR. The occupational Health and Safety issues are also proposed to be developed from 
+contract to contract basis on each sub project under the project. The procedures in this regard for 
+contractor in his staff are also referred to in the developed ESR by PSEB. 
+ 
+PSEB is aware of the policy on Physical Cultural Resources. This policy will be triggered in case 
+there is a requirement to construct / replace the supports (poles / concrete bases) for new 
+transformers replacing the existing ones. It will essentially confirm that ‘chance find’ procedures 
+are in place to guide the project authorities to handle such a situation. The Chance find 
+procedures shall be adopted under relevant Acts, and is duly mentioned in the ESR. 
+ 
+Institutionally these aspects are mainstreamed in the PSEB operations, and concerned officers 
+shall be made aware of the health and safety aspects through specific trainings. Occupational 
+health and safety aspects are also checked while awarding work to the contractors under work 
+contracting agreements. 
+ 
+PSEB has disclosed the Environmental and Social Review on their website and has also solicited 
+stakeholder’s comments on the same through paper advertisement. Comments so received shall 
+be discussed in a stakeholder’s workshop proposed along with disclosure of POA.   
+ 
+A
+copy of final ESR shall be kept in the office of every Executive engineer associated with the 
+project in addition to head quarter of the PSEB. 
+ 
+Page  5
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people: 
+ 
+For the project under consideration there will not be any adversely affected stakeholders, 
+identified as the rural end users served by the PSEB distribution system.  PSEB has solicited 
+stakeholder’s comments on Environmental & Social Review (ESR) by displaying the copy of 
+ESR on their website and simultaneously requesting through paper advertisement comments on 
+ESR from stakeholders. PSEB is also organizing additional workshops to solicit additional 
+stakeholder input which will be completed by June 2009. 
+ 
+B. Disclosure Requirements Date
+ 
+Environmental Assessment/Audit/Management Plan/Other: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+Date of receipt by the Bank 
+ 
+Date of "in-country" disclosure 
+March 21,2009 
+Date of submission to InfoShop 
+May 14, 2009 
+For category A projects, date of distributing the Executive 
+Summary of the EA to the Executive Directors 
+ 
+Resettlement Action Plan/Framework/Policy Process:  
+Was the document disclosed 
+prior to appraisal?
+ 
+Not Applicable
+ 
+Date of receipt by the Bank 
+ 
+Date of "in-country" disclosure 
+ 
+Date of submission to InfoShop 
+ 
+Indigenous Peoples Plan/Planning Framework:  
+Was the document disclosed 
+prior to appraisal?
+ 
+Not Applicable
+ 
+Date of receipt by the Bank 
+ 
+Date of "in-country" disclosure 
+ 
+Date of submission to InfoShop 
+ 
+Pest Management Plan:  
+Was the document disclosed 
+prior to appraisal?
+ 
+Not Applicable
+ 
+Date of receipt by the Bank 
+ 
+Date of "in-country" disclosure 
+ 
+Date of submission to InfoShop 
+ 
+*
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, 
+the respective issues are to be addressed and disclosed as part of the Environmental 
+Assessment/Audit/or EMP. 
+If in-country disclosure of any of the above documents is not expected, please explain why: 
+Page  6
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is 
+finalized by the project decision meeting) 
+ 
+OP/BP 4.01 - Environment Assessment
+ 
+Does the project require a stand-alone EA (including 
+EMP) report? 
+Yes [  ]          No [ X ]          N/A [  ] 
+If yes, then did the Regional Environment Unit or Sector 
+Manager (SM) review and approve the EA report? 
+ 
+Are the cost and the accountabilities for the EMP 
+incorporated in the credit/loan? 
+ 
+OP/BP 4.04 - Natural Habitats
+ 
+Would the project result in any significant conversion or 
+degradation of critical natural habitats? 
+Yes [  ]          No [  ]          N/A [ X ] 
+If the project would result in significant conversion or 
+degradation of other (non-critical) natural habitats, does 
+the project include mitigation measures acceptable to the 
+Bank? 
+ 
+OP 4.09 - Pest Management
+ 
+Does the EA adequately address the pest management 
+issues? 
+Yes [  ]          No [  ]          N/A [X  ] 
+Is a separate PMP required? 
+Yes [  ]          No [  ]          N/A [X  ] 
+If yes, has the PMP been reviewed and approved by a 
+safeguards specialist or Sector Manager?  Are PMP 
+requirements included in project design? If yes, does the 
+project team include a Pest Management Specialist? 
+ 
+OP/BP 4.11 
+–
+Physical Cultural Resources
+ 
+Does the EA include adequate measures related to 
+cultural property? 
+Yes [  ]          No [  ]          N/A [ X ] 
+ 
+The Chance find procedures shall be 
+adopted under relevant Acts as 
+mentioned in the ESR. 
+ 
+Does the credit/loan incorporate mechanisms to mitigate 
+the potential adverse impacts on physical cultural 
+resources? 
+ 
+OP/BP 4.10 - Indigenous Peoples
+ 
+Has a separate Indigenous Peoples Plan/Planning 
+Framework (as appropriate) been prepared in 
+consultation with affected Indigenous Peoples? 
+Yes [  ]          No [  ]          N/A [X ] 
+If yes, then did the Regional unit responsible for 
+safeguards or Sector Manager review the plan? 
+ 
+If the whole project is designed to benefit IP, has the 
+design been reviewed and approved by the Regional 
+Social Development Unit? 
+ 
+OP/BP 4.12 - Involuntary Resettlement
+ 
+Page  7
+Has a resettlement plan/abbreviated plan/policy 
+framework/process framework (as appropriate) been 
+prepared? 
+Yes [  ]          No [  ]          N/A [X  ] 
+If yes, then did the Regional unit responsible for 
+safeguards or Sector Manager review and approve the 
+plan/policy framework/process framework? 
+ 
+OP/BP 4.36 
+–
+Forests
+ 
+Has the sector-wide analysis of policy and institutional 
+issues and constraints been carried out? 
+Yes [  ]          No [  ]          N/A [X ] 
+Does the project design include satisfactory measures to 
+overcome these constraints? 
+ 
+Does the project finance commercial harvesting, and if 
+so, does it include provisions for certification system? 
+ 
+OP/BP 4.37 - Safety of Dams
+ 
+Have dam safety plans been prepared? 
+Yes [  ]          No [  ]          N/A [  ] 
+Have the TORs as well as composition for the 
+independent Panel of Experts (POE) been reviewed and 
+approved by the Bank? 
+ 
+Has an Emergency Preparedness Plan (EPP) been 
+prepared and arrangements been made for public 
+awareness and training? 
+ 
+OP/BP 7.50 - Projects on International Waterways
+ 
+Have the other riparians been notified of the project? 
+Yes [  ]          No [  ]          N/A [X ] 
+If the project falls under one of the exceptions to the 
+notification requirement, has this been cleared with the 
+Legal Department, and the memo to the RVP prepared 
+and sent? 
+ 
+What are the reasons for the exception?  Please explain: 
+ 
+Has the RVP approved such an exception? 
+ 
+OP/BP 7.60 - Projects in Disputed Areas
+ 
+Has the memo conveying all pertinent information on the 
+international aspects of the project, including the 
+procedures to be followed, and the recommendations for 
+dealing with the issue, been prepared 
+Yes [  ]          No [  ]          N/A [X ] 
+Does the PAD/MOP include the standard disclaimer 
+referred to in the OP? 
+ 
+The World Bank Policy on Disclosure of Information 
+Have relevant safeguard policies documents been sent to 
+the World Bank's Infoshop? 
+Yes [  X]          No [  ]          N/A [  ] 
+Have relevant documents been disclosed in-country in a 
+public place in a form and language that are 
+understandable and accessible to project-affected groups 
+and local NGOs? 
+Yes. 
+PSEB has disclosed the 
+Environmental & Social Review 
+(ESR) on their website. 
+All Safeguard Policies
+ 
+Page  8
+Have satisfactory calendar, budget and clear institutional 
+responsibilities been prepared for the implementation of 
+measures related to safeguard policies? 
+Yes [  ]          No [  ]          N/A [  ] 
+Have costs related to safeguard policy measures been 
+included in the project cost? 
+ 
+Does the Monitoring and Evaluation system of the 
+project includes the monitoring of safeguard impacts and 
+measures related to safeguard policies? 
+ESR includes safety aspects and 
+safety code which is incorporated in 
+the systems of PSEB. 
+Have satisfactory implementation arrangements been 
+agreed with the borrower and the same been adequately 
+reflected in the project legal documents? 
+ 
+D. Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Jeremy Levin 
+Environmental Specialist: 
+Pyush Dogra 
+Social Development Specialist 
+R.R.Mohan 
+ 
+04/07/2009 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+ 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+ERIC BRUSBERG/ SANJAY SRIVASTAVA
+ 
+04/22/2009 
+Comments:   
+Sector Manager: 
+JULIE FRASIER (ACTING) 
+ 
+05/12/09 
+Comments:   

@@ -1,0 +1,412 @@
+﻿COMBINED PROJECT INFORMATION DOCUMENTS / INTEGRATED
+SAFEGUARDS DATA SHEET (PID/ISDS)
+CONCEPTSTAGE
+U                                               Report No.: PIDISDSC14598
+Date Prepared/Updated:    21-Jul-2015
+O
+I. BASIC INFORMATION
+A. Basic Project Data
+Country:        Sri Lanka                 Project ID:  P156056
+Parent
+Project ID
+(if any):
+Project Name: Social Safety Nets Project (P 156056)
+Region:         SOUTH ASIA
+Estimated       01-Dec-2015               Estimated    31-Mar-2016
+Appraisal Date:                           Board Date:
+Practice Area   Social Protection & Labor  Lending     Investment Project Financing
+(Lead):                                   Instrument:
+Sector(s):      Other social services (90%), Public administration- Other social services (10%)
+Theme(s):       Social Safety Nets/Social Assistance & Social Care Services (60%), Social
+Protection and Labor Policy & Systems (40%)
+Borrower(s):    Democratic Socialist Republic of Sri Lanka
+Implementing    Ministry of Social Services, Ministry of Housing and Samurdhi
+Agency:
+Financing (in USD Million)
+Financing Source                                                        Amount
+BORROWER/RECIPIENT                                                         0.00
+International Development Association (IDA)                               75.00
+Total Project Cost                                                        75.00
+Environmental C - Not Required
+Category:
+Concept         Track II - The review did authorize the preparation to continue
+Review
+Decision:
+Is this a       No
+Repeater
+project?
+Other Decision
+(as needed):
+Page 1 of 10
+
+
+﻿B. Introduction and Context
+Country Context
+Sri Lanka is a middle-income country with a per capita income of US$ 3,625 in 2014. The
+country has achieved strong human development outcomes, reflected in literacy rates and life
+expectancy higher than any other country in the region. Since emerging from a 30-year civil war
+in 2009, Sri Lanka has enjoyed a rebound in economic activity, with real GDP growth averaging
+7.5 per cent, largely driven by public investment in infrastructure.
+Over the past decade, Sri Lanka has made significant progress in reducing extreme poverty and
+promoting shared prosperity. Between 2002 and 2012, nationally defined headcount poverty fell
+from 22.7% to 6.7%. Over this period, per capita consumption of the bottom 40 percent grew at
+an annual rate of 3.3%, compared to 2.8% for the population as a whole. Recent analysis suggests
+that this was driven primarily by increased labor income, especially among agricultural workers.
+However, growth has not been even and pockets of poverty remain, especially in the east and
+north of the country and in the Estate sector. The inclusion of these remaining poor into the
+productive economy, and into good jobs, remains a challenge.
+Despite the pro-poor growth of recent years, many households remain vulnerable to falling back
+into poverty. In 2012/13, around 30% of Sri Lankans consumed less than $2.50 per capita per day
+in PPP terms. In some districts, 60% or more of households remain vulnerable to poverty, while
+in the north an estimated 44% of households are food insecure. In addition, Sri Lanka is exposed
+to frequent natural disasters, especially floods and droughts. Child malnutrition rates remain
+unusually high for a middle-income country, at around 30%. Finally, Sri Lanka is a small island
+economy, which will depend increasingly on external factors to sustain growth in the coming
+years. The country's exports are dominated by primary products and simple manufactures, whose
+prices are set internationally and subject to significant fluctuations. Volatility in the prices of
+imports and inputs have also historically affected job creation, fiscal space and the cost of living.
+Sri Lanka also faces a looming demographic burden. Driven by a secular downtrend in the birth
+rate and increased life expectancy (at 74 years in 2012), the dependency ratio is gradually rising
+as the population ages. By 2021, one in six Sri Lankans will be over 60. The majority of elderly
+individuals are not covered by formal sector pensions, and will be forced to rely on external
+0           assistance to support them in retirement. Meanwhile, the country's savings rate is relatively low
+by international standards, and will face further downward pressure as elderly individuals stop
+working and draw on savings to fund their retirement.
+These challenges highlight the need for a well-designed and adequately funded safety net system.
+Reflecting its middle income status, Sri Lanka's safety net will need to evolve from one focused
+on intensive, community-based livelihood support and universal subsidies to a systems approach
+to social protection that provides income support and opportunities for economic inclusion for the
+poorest and most marginalized, insures the vulnerable against unanticipated shocks, and gives
+individuals in the informal sector opportunities to save for their retirement.
+Sectoral and Institutional Context
+Sri Lanka has an extensive, community-based system of social protection. The delivery of social
+services is managed at the local level, with 331 divisional secretaries (DS) appointed to manage
+administrative units called DS divisions. Within each DS division, Grama Niladaris (village
+officers, GN) are responsible for small clusters of villages, maintaining the voter registry,
+Page 2 of 10
+
+
+﻿collecting statistics and handling grievances. Interacting with 500-1,000 households each, the
+GNs serve as the closest point of government contact with citizens. Specific social programs also
+have officers at the GN division level, who report to the respective implementing line ministry.
+The social protection system is relatively decentralized, with program lists maintained by GN-
+level program officers, cross-checked by the GN and approved by the DS. The DS is responsible
+for monitoring and reporting on local activities, and in many cases the central government does
+not have access to detailed beneficiary information.
+Sri Lanka's social protection spending is fragmented and inadequate to address the needs of the
+poor. Social protection spending in Sri Lanka has historically been relatively generous,
+comprising at various times food rations, subsidies and cash transfers. However, federal
+expenditure on social protection programs has declined steadily in recent years, to around 1.5% of
+GDP in 2013. Almost 90% of this spending goes to public sector pensions and benefits to military
+families (both of which are skewed towards wealthier households).
+In 2013, only 0.21% of GDP was spent on social safety net programs. The largest of these is
+Divineguma, an integrated welfare program operated by the Ministry of Housing and Samurdhi
+(MHS) that provides cash transfers, microfinance and various community and livelihood
+development activities. Social pensions for the elderly and the disabled are provided by the
+Ministry of Social Services, Welfare and Livestock Development (MSSWLD), but these
+programs have low coverage and amounted to only 0.03% of GDP in 2013. Promises during the
+2014 election to significantly increase the benefits of these programs is estimated to have lifted
+their total budget to around 0.7% of GDP.
+Social safety net programs are failing to make a difference in the lives of many poor households.
+This is primarily due to their low generosity, as initially adequate benefits have been eroded by
+inflation over time. Recent survey analysis indicates that poverty reduction over the past decade
+would have been 10% higher if benefit amounts had stayed constant in real terms. Furthermore,
+because of ineffective targeting, more than half of the poorest quintile do not receive any
+assistance at all. Analysis of the Household Income and Expenditure Survey (HIES) 2012-13
+shows that these programs therefore have a limited impact on the poverty headcount rate; in their
+absence, the official poverty rate would rise from 6.7 to 7.4 percent. This impact is only modest
+compared to other middle-income countries. Sri Lanka could also do more to help families with
+children; almost 9% of children under 15 remain in poverty even after accounting for public
+transfers.
+The lack of modem information systems undermines program management and oversight.
+Record-keeping in both the MHS and the MSSWLD is still paper-based. Aside from the
+limitations this imposes on staff productivity, the lack of transparent record-keeping creates
+opportunities for mismanagement and precludes high-level monitoring and evaluation. Both
+programs are administered primarily at the DS division level, leaving senior management with
+only an aggregate picture of the program's impact and no means to assess overlaps or gaps in
+coverage. The use of electronic management information systems (MIS) would therefore
+considerably increase accountability and efficiency, and provide opportunities to measure and
+improve program impact.
+There is also very little coordination between social programs even though they all operate at the
+DS level. Beneficiaries can potentially receive benefits from several ministries. The degree of this
+Page 3 of 10
+
+
+﻿duplication is not known, due to deficiencies in both systems and policies. Providing information
+on overlaps and clear policy guidance on how to treat them could achieve potential savings.
+Harmonizing program management (and especially payment of benefits) could also reduce the
+administrative burden on local officials and beneficiaries. T here is significant potential to achieve
+such harmonization given all programs are managed at the DS division level.
+In recognition of these challenges, the GoSL plans to strengthen program generosity, targeting
+and information management, and review the design of graduation programs. Benefit amounts
+were increased at the start of 2015, raising adequacy considerably. Efforts are underway to review
+targeting in the Divineguma program, recertify households, and introduce criteria by which
+beneficiaries should graduate out of the program over time. The GoSL has started to address
+issues of information management, developing an MIS for the Divineguma program and the
+specifications for an MIS for the MSSWLD social pensions. World Bank technical assistance has
+helped in these activities, but further investment and policy changes are needed to complete the
+work and operationalize the systems.
+This project will support the GoSL's efforts to modernize and refocus the country's main social
+safety net programs. In response to expressions of interest from both the MHS and the MSSWLD,
+this project will address the above issues by financing the development and population of
+management information systems, improving targeting methodology, and developing clear
+guidelines for beneficiary selection and recertification. Technical assistance will be provided to
+refine and evaluate graduation programs. The technical assistance will also support the
+completion of a national social protection strategy, which will provide a basis for harmonization
+of programs.
+Relationship to CAS/CPS/CPF
+The project is fully aligned with the 2013-16 CPS. The CPS notes that the current system is
+overly fragmented and poorly targeted, and distributes a small benefit to a large share of the
+population. Thus the system does not reduce poverty and vulnerability to thedegree possible even
+within the current budget. As proposed in the 2014 CPS review, and recently affirmed by the
+GoSL, this project will build on AAA provided over recent years, and on the work of previous
+projects, to reduce poverty and vulnerability through more efficient, better targeted and more
+accountable social assistance spending.
+C. Proposed Development Objective(s)
+Proposed Development Objective(s) (From PCN)
+The Project Development Objective is to enhance the poverty impact of Sri Lanka's main safety
+net programs (Divineguma, the elderly benefit, and the disability benefit), by improving their
+targeting, coverage and accountability.
+Key Results (From PCN)
+The PDO will be assessed based on the following results indicators:
+a.     Percentage of Divineguma beneficiary households in the poorest two
+consumption quintiles
+b.     Coverage of the poorest quintile under the Divineguma program
+c.     Coverage of eligible households in the poorest quintile under the elderly and
+disability benefit programs
+d.     Percentage of beneficiaries receiving their benefits according to the published
+schedule
+Page 4 of 10
+
+
+﻿e.     Percentage of grievances redressed within X weeks
+D. Concept Description
+O
+The proposed project consists of three components: (i) strengthening the targeting and delivery
+systems of the Divineguma program; (ii) modernizing the delivery and payments systems of the
+O
+MSSWLD cash transfer programs; and (iii) technical assistance for strategic planning and
+refinement of programs. The project will adopt a DLI-based financing approach, in which
+*            disbursements are made against results achieved through the activities described below. The DLIs
+will focus on improvement of targeting, coverage and accountability, and will be agreed with the
+GoSL during project preparation.
+Component 1: Strengthening the targeting and delivery systems of the Divineguma program
+(Indicative allocation: US$ 45 million)
+Pillar 1: Recertification of Divineguma beneficiaries (Indicative allocation: US$ 25 million). This
+pillar will support the collection of updated poverty scorecard data, development and adoption of
+revised targeting criteria, and revision of beneficiary lists to reflect these changes.
+The poverty scorecard, based on an existing survey instrument designed by the MHS, will include
+information on household composition and correlates of poverty such as assets, education,
+employment and dwelling type. Data collection will be subject to random spot checks to ensure
+data integrity. Collection of data and spot checks will be supported by World Bank technical
+assistance under Component 3.
+The scorecard data will be entered into the Divineguma MIS. A targeting formula will be
+developed to approximate poverty using the data. Households will be ranked using the formula,
+and cut-offs for program benefits determined based on the desired program size and fiscal space.
+Individuals in the database will be identified by National Identity Card (NIC) number, enabling
+O
+U            connectivity with other government databases. Data sharing protocols will be developed to
+enable the database to be used by other social programs.
+Existing beneficiaries who no longer qualify under the revised criteria will be exited from the
+program. Since these households have been receiving benefits from the program for up to 20
+years, it is recognized that their sudden disqualification could have social and political
+consequences. For this reason, support will be gradually phased out by moving these households
+to a time-bound graduation program. The graduation package could potentially include incentives
+such as lump sum cash payments and residual safety net support such as a matching scheme for
+retirement savings contributions (which would be piloted with technical assistance under
+Component 3). The graduation package will be refined based on outcomes and will continue to
+serve as a path out of the program for beneficiaries identified through subsequent recertifications
+or voluntarily opting out.
+Newly qualifying households will be enrolled in the program, with performance targets set to
+ensure this process occurs in a timely manner. The collection of new scorecard data will identify
+excluded households and address the currently very high rate of undercoverage in the program.
+Communications and outreach strategies to locate excluded households will be developed and
+implemented with technical assistance under Component 3.
+Page 5 of 10
+
+
+﻿A centrally-managed grievance redress mechanism will be developed to provide households with
+the opportunity to order an objective reassessment of eligibility. Beneficiary lists will be
+published online (subject to privacy considerations) to ensure transparency.
+Pillar 2: Strengthening the delivery systems of the Divineguma program (Indicative allocation:
+US$ 20 million). This pillar will support the implementation of a management information system
+(MIS) solution for the Divineguma program that has been developed and piloted but is not yet
+being used for program management. The management of the Divineguma program are keen to
+operationalize the software, but require hardware, training of staff and development of
+appropriate rules and procedures in order to do so.
+The MIS is a web-based application accessible with appropriate credentials from any internet-
+connected computer. Information is stored on the GoSL's cloud, which was developed with
+World Bank assistance under the e-Sri Lanka Initiative. The cloud service and software
+development assistance is provided by the Information and Communication Technology Agency
+(ICTA), a statutory agency that is the apex ICT institution in the GoSL. The MIS would enable
+Divineguma management to fully oversee and manage program activities, for which they
+presently rely on individual reports from their field officers. There is also a provision for
+beneficiaries and the public to access selected program data through an inform ation portal.
+To operationalize the MIS, the first step advised by the ICTA is to conduct an audit of the MIS
+for security and interoperability. This will be supported under Component 3. Access to the MIS
+will then be provided to local level officers, with a phased period of transition from paper to
+electronic records. Training will be provided to officers in the use of the MIS with technical
+assistance under Component 3. Protocols will be developed to store and update the poverty
+scorecard data in the MIS. A mechanism already exists to enable a poverty score to be calculated
+based on these data. Further changes to the software may be required to address the graduation of
+formerly qualifying beneficiaries. Adoption and use of the system will be time-bound, with DLIs
+based on performance targets.
+O
+Component 2: Modernizing the delivery systems of the MSSWLD elderly and disability benefit
+programs (Indicative allocation: US$ 20 million)
+Pillar 1: Design of the Management Information System (Indicative allocation: US$ 10 million).
+This pillar will support the design, population and use of a management information system
+(MIS) for the elderly and disability benefit programs. The blueprint for this MIS has already been
+prepared with World Bank technical assistance, and the MSSWLD has expressed interest in
+developing the software as soon as possible. The MIS will be designed by a consultant with the
+guidance of the ICTA, and rolled out at the GN and DS division levels. During preparation the
+team will explore the potential for MSSWLD field staff to share hardware with the Divineguma
+program, as circumstances permit.
+Targeting of MSSWLD benefits is currently based on income, household and beneficiary
+characteristics (including age and severity of disability). Since the household characteristics used
+for targeting are a subset of those used for Divineguma, the MIS will be designed to draw these
+data from the Divineguma poverty scorecard database (based on sharing protocols mentioned
+above). The objectives of this data sharing are to achieve economies in data collection activities,
+Page 6 of 10
+
+
+﻿ensure consistency of data used for targeting, and prevent overlaps in benefit receipts. Both
+ministries and the NPD have agreed that such an arrangement would be desirable. The data
+sharing and harmonization will be managed through an inter-ministerial steering committee, to be
+established by the GoSL with World Bank technical assistance under Component 3.
+Pillar 2: Nationwide rollout of bank payment of benefits (Indicative allocation: US$ 10 million).
+This pillar will support the payment of elderly and disability benefits directly to beneficiaries'
+bank accounts, using the new MIS to manage the transactions. This will replace the current check-
+based payment system, enhancing accountability, speed of payment, and financial inclusion of
+beneficiaries.
+A bank payment mechanism was developed for disability beneficiaries in nine northern districts
+under the Diri Sawiya project. Beneficiaries provided a bank account number to MSSWLD
+administration, who then transferred benefit payments directly into their bank accounts. Although
+the process was well established and providing timely payments to verified beneficiaries by the
+project's end, MSSWLD staff were required to update paper lists of account numbers each month
+due to the lack of an electronic MIS. This cumbersome process added to their workload and
+presented a risk of errors. Accordingly, the MSSWLD decided to suspend bank payments as of
+June 2015.
+With an electronic MIS in place, the MSSWLD would be able to store beneficiary bank account
+numbers and automatically issue payment instructions to current beneficiaries each month. This
+pillar will activate once the MIS is operational. Beneficiary bank account numbers will be
+collected by program field staff, and assistance will be provided where necessary to enable the
+beneficiaries to open bank accounts. Phased DLI targets will be established to shift payment from
+check to electronic transfer. Awareness campaigns will be carried out under the TA to ensure that
+beneficiaries understand the new process, and a process evaluation will assess and refine the
+program registration and benefit payment mechanisms.
+O
+Component 3: Support for strategic planning and implementation of systems modernization
+(Indicative allocation: US$ 10 million)
+o
+This component will support the development and adoption of a social protection strategy for Sri
+Lanka, and provide technical support for Components 1 and 2.
+The primary objective will be to finalize and approve a social protection sector strategy. While
+the broad contours of Sri Lanka's aspirations for social protection have been expressed in various
+manifesto sand program documents, the country needs to refine its objectives regarding
+beneficiary selection, elements of life cycle support, graduation paths, scalability of social safety
+nets to respond to natural disasters, and gradual consolidation of programs. In addition, as
+programs implement electronic management systems there will be a need to ensure compatibility
+and harmonization of these systems. The TA will help the government to collect the required
+information and hold consultations to decide on these issues, and to approve and disseminate a
+formal strategy document. Support may also be needed for the subsequent implementation of
+recommendations. Finally, the component will assist the GoSL to establish and sustain an inter-
+ministerial working group to harmonize social protection systems.
+To support the modernization of systems under Components 1 and 2, the TA will finance third
+Page 7 of 10
+
+
+﻿party monitoring and spot checks, and assist the MHS and MSSWLD to revise their targeting
+protocols. Exposure visits may be organized to introduce senior officials to the poverty registry
+and targeting systems used in other countries, such as Pakistan, Mexico and Brazil. To support the
+rollout of the MIS for each program, the TA will cover security audits of the systems, training of
+program staff, and the development of program operations manuals. To help manage the exit of
+beneficiaries from the Divineguma program, the TA will pilot and evaluate programs to promote
+the economic empowerment, employment and graduation of the poor. Finally, communications
+campaigns will be developed to inform beneficiaries of program changes regarding targeting and
+payment of benefits, and a process evaluation conducted to refine the registration and payment of
+MSSWLD beneficiaries.
+II. SAFEGUARDS
+A. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+Project will be carried out across the entire country, and has no physical characteristics relevant to
+the safeguard analysis.
+B. Borrower's Institutional Capacity for Safeguard Policies
+Not applicable.
+C. Environmental and Social Safeguards Specialists on the Team
+Darshani De Silva (GENDR)
+Mohamed Ghani Razaak (GSURR)
+D. POLICIES THAT MIGHT APPLY
+Safeguard Policies          Triggered? Explanation (Optional)
+Environmental Assessment    No          The project does not include components with
+OP/BP 4.01                              physical activities that could generate adverse
+environmental impacts.
+Natural Habitats OP/BP 4.04  No
+a         Forests OP/BP 4.36         No
+Pest Management OP 4.09     No
+Physical Cultural Resources  No
+OP/BP 4.11
+Indigenous Peoples OP/BP    No          There are no official records / census data on the
+4.10                                    presence of IP communities in Sri Lanka. Therefore
+this policy is not triggered.
+Involuntary Resettlement OP/ No         No constructions or physical interventions are
+BP 4.12                                 planned under the project.
+Safety of Dams OP/BP 4.37   No
+Page 8 of 10
+
+
+﻿Projects on International  No
+Waterways OP/BP 7.50
+Projects in Disputed Areas OP/ No
+U         BP 7.60
+E. Safeguard Preparation Plan
+1. Tentative target date for preparing the PAD Stage ISDS
+11-Jan-2016
+2. Time frame for launching and completing the safeguard-related studies that may be
+needed. The specific studies and their timing should be specified in the PAD-stage
+ISDS.
+No studies are envisioned or planned at this time.
+III. Contact point
+World Bank
+Contact: Thomas Walker
+Title:  Economist
+Borrower/Client/Recipient
+Name:    Democratic Socialist Republic of Sri Lanka
+Contact: Mr. Priyantha Rathnayake
+Title:  Director General
+Email:  dg@erd.gov.1kdg@erd.gov.lk
+Implementing Agencies
+Name:    Ministry of Social Services
+Contact: Mrs. D.K. Renuka Ekanayaka
+Title:   Secretary
+Email:  dkre820@gmail.com
+Name:    Ministry of Housing and Samurdhi
+Contact: Dhammika Gunawardene
+Title:  Director General (Samurdhi)
+o        Email:   dhammikal957@gmail.com
+IV. For more information contact:
+The InfoShop
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 458-4500
+Fax: (202) 522-1500
+Web: http://www.worldbank.org/infoshop
+V. Approval
+Task Team Leader(s): Name: Thomas Walker
+Approved By
+Page 9 of 10
+
+
+﻿Safeguards Advisor:     Name: Maged Mahmoud Hamed (SA)                Date: 04-Aug-2015
+Practice Manager!       Name: Pablo Gottret (PMGR)                    Date: 04-Aug-2015
+Manager:_________________                                             ______           ___
+0
+Country Director:       Name: Rolande Simone Pryce (CD)               Date: 06-Aug-2015
+1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at
+the InfoShop and (ii) in country, at publicly accessible locations and in a form and language that are accessible to
+potentially affected persons.
+P
+Page 10 of 10
+
+

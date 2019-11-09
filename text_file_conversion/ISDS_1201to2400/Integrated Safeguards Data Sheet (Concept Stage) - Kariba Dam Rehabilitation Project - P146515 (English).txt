@@ -1,0 +1,340 @@
+                                           INTEGRATED SAFEGUARDS DATA SHEET
+                                                    CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                             Report No.: ISDSC6215
+
+                         Date ISDS Prepared/Updated: 02-May-2014
+                         Date ISDS Approved/Disclosed: 17-Dec-2014
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:           Africa                          Project ID:     P146515
+                            Project Name:      Kariba Dam Rehabilitation Project (P146515)
+                            Task Team          Marcus J. Wishart
+                            Leader:
+                            Estimated          28-Oct-2014                     Estimated       09-Dec-2014
+                            Appraisal Date:                                    Board Date:
+                            Managing Unit:     GWADR                           Lending         Investment Project Financing
+                                                                               Instrument:
+                            Sector(s):         Hydropower (60%), Flood protection (20%), General water, sanitation and flood
+                                               protection sector (20%)
+                            Theme(s):          Water resource management (60%), Natural disaster management (40%)
+                            Financing (In USD Million)
+                            Total Project Cost:    294.20                    Total Bank Financing:        75.00
+Public Disclosure Copy
+
+
+
+
+                            Financing Gap:           0.00
+                              Financing Source                                                          Amount
+                              BORROWER/RECIPIENT                                                          19.20
+                              International Development Association (IDA)                                 75.00
+                              African Development Bank                                                    75.00
+                              EC European Development Fund (EDF)                                         100.00
+                              Free-standing Single Purpose Trust Fund                                     25.00
+                              Total                                                                      294.20
+                            Environmental A - Full Assessment
+                            Category:
+                            Is this a          No
+                            Repeater
+                            project?
+
+                           B. Project Objectives
+                           The proposed Project Development Objective is to assist the Zambezi River Authority in securing the
+                           long-term safety and reliability of the Kariba Dam Hydro-Electric Scheme.
+                         C. Project Description
+                         The proposed project will assist ZRA in financing implementation of two critical components for the
+                         rehabilitation of the Kariba Dam.
+Public Disclosure Copy
+
+
+
+
+                         Component 1: Stabilization of the Kariba Dam Plunge Pool. This includes an estimated US$80m for
+                         reshaping and stabilization of the plunge pool. The ZRA commissioned consultants who completed a
+                         series of feasibility and design studies in July 2012 estimating the cost of the works at around US
+                         $50m, excluding required advanced infrastructure (access roads etc.), tendering, supervision and
+                         engineering costs, along with the owners own costs, provisional sums or escalations from 2012.
+                         These works are required to prevent further scour along the weak fault zone towards the dam
+                         foundations.
+
+                         An 80m deep scour hole has formed in the bedrock immediately downstream of the dam foundations
+                         over the past 50 years. This work is unprecedented in dam history and urgently needed to prevent any
+                         potential further regression and protect the dam from catastrophic failure due to lack of foundation
+                         support. The measures are required to reshape the plunge pool through excavation of the downstream
+                         face and north and south bank sides of the pool. An estimated volume of 300,000 m3 of rock is
+                         required to be excavated from the plunge pool resulting in a stepped profile to increase the energy
+                         dissipation and guide the spilling water in the downstream direction, away from the dam foundations.
+                         A 3D FEM model has been established to assess how the plunge pool scouring progress and
+                         excavation works would affect the stress field of the dam foundation. Further geological
+                         investigations may also be required during work preparation and execution period.
+
+                         This component would support: (i) technical assistance to ZRA in procurement for the works
+                         associated with reshaping of the plunge pool, through either design-build contract or preparation and
+                         supervision of detailed bidding documents; (ii) works associated with the reshaping of the plunge
+                         pool; (iii) environmental and social mitigation activities; and, (iv) strengthening the project
+                         implementation team for effective project monitoring and implementation. This will be supported
+Public Disclosure Copy
+
+
+
+
+                         through the provision of: i) Consulting Services; ii) Civil Works; (iii) Goods, Equipment and Non-
+                         Consulting Services; along with (iv) Operating expenses.
+
+                         Component 2: Rehabilitation of the Spillway Up-stream Hydro-mechanical Facility. The ZRA
+                         completed a series of feasibility and design studies in July 2012 estimating the cost of the works at
+                         around US$120m for capital expenditures related to the design, fabrication and installation of an
+                         emergency gate and a new gantry, with refurbishment of associated civil works, including
+                         replacement of secondary concrete and stopbeam built-in-parts, to prevent failure of the upstream
+                         spillway control facility. This excludes any advanced infrastructure, tendering, supervision and
+                         engineering costs, along with the owners own costs, provisional sums or escalations from 2012.
+
+                         The studies conducted by ZRA highlight concerns over the limited function of the upstream stop
+                         beam-facility due to the advanced deterioration of the secondary concrete in the guide slots, and
+                         inability to lower the stop-beams for closing a sluice in the event of a downstream flood gate failure.
+                         This means that there is no way to stop water flow if the downstream flood gate is jammed and
+                         cannot be closed. The water level in such a case may go down to the sill of the spillway at +455.37
+                         meters, well below the minimum operating level before the gates can be repaired. Thereafter, it may
+                         take more than a year to restore the water level to the minimum operational level, corresponding to
+                         the live storage volume of 41.3 km3, given that the annual runoff volume ranges between 15-94 km3/
+                         year. During this period no power production would be possible at either the Zambian or
+                         Zimbabwean power stations.
+
+                         There is also a possibility that the gate could be jammed in the middle position and cannot be fully
+Public Disclosure Copy
+
+
+
+
+                         opened when required during large floods. The swelling effect of alkaline aggregate reaction (AAR)
+                         in the dam concrete has resulted in distortions of the stop-beam guides, causing periodic jamming of
+                         the stop-beams during operations. The AAR has also reduced the tolerances for gate movements
+                         making gate operation increasingly difficult. The support would include plans to upgrade the current
+                         stop beams (composed of six pieces) to a flexible roller gate which has independent opening/closing
+                         function for the upstream sluice opening irrespective of downstream gate position/flow condition.
+                         The existing gantry crane also needs to be replaced with higher capacity gantry in order to operate
+                         the new emergency gate under water flowing conditions.
+
+                         The operation of the flood gates is also constrained by the plunge pool condition. The operator can
+                         currently open only a maximum of three out of six gates due to excessive scouring and erosion of the
+                         plunge pool over 50 years of operation. This has the effect of needing a low ering of the operation
+                         rule curve of the reservoir, thus reducing the water available for power generation. The delay in
+                         commissioning of the north bank power station further contributed to more spilling and unanticipated
+                         deepening of the plunge pool. Continued spilling will cause the progression of scouring towards the
+                         dam toe area affecting the foundation rock supporting the dam. An empirical formula based
+                         simulation, (numerical and physical modeling) has been established to allow comparison with survey
+                         results to better understand the scouring phenomena and predict the progression and the intervention
+                         measures required to arrest the scouring.
+
+                         This component will support: (i) technical assistance to ZRA for either a design-build contract or
+                         preparation and supervision of detailed bidding documents for the sluice gates; (ii) works required
+                         for rehabilitation of the sluice gates; (iii) environmental and social mitigation activities; (iv)
+                         strengthening of the project implementation team for effective project monitoring and
+                         implementation. This will be supported through the provision of: i) Consulting Services; ii) Civil
+                         Works; (iii) Goods, Equipment and Non-Consulting Services; along with (iv) Operating expenses.
+Public Disclosure Copy
+
+
+
+
+                         Project Cost and Financing
+
+                         The cost of the Kariba Dam Rehabilitation Program is estimated at around US$200 million. This is
+                         based on a series of feasibility and design studies completed in July 2012 by consultants appointed
+                         by the Zambezi River Authority. These initial estimates were subject to an independent review by an
+                         expert panel in 2013 and have been escalated to account for possible advanced infrastructure,
+                         tendering, supervision and engineering costs, along with the owners' own costs, provisional sums and
+                         escalations from 2012.
+
+                         The ZRA is a financially autonomous organization that generates operating revenue through water
+                         tariffs charged to the power utilities for water consumed in the generation of electricity. The formula
+                         used is intended to provide the ZRA with sufficient revenues to carry out the mandated functions,
+                         including operation and general maintenance but not to generate profits or finance major
+                         rehabilitation works. The current tariff structure includes two-parts, with a fixed monthly element
+                         supplemented by a volumetric charge billed monthly. The formula is reviewed every three years with
+                         tariffs adjusted annually according to the CPI rate of the United States. The ZRA has experienced a
+                         steady supply from 2007 to 2011, averaging around 35,000 MCM in the past 10 years. Tariffs have
+                         increased roughly 10% per annum from 2008 to 2011, with average annual revenues of around US
+                         $10 to 12m per year. A preliminary financial model has been developed and preparation would
+                         support a more detailed analysis to provide an indication of:
+
+                         (i) ZRA’s current assets and liabilities, including cash flows available to service debt;
+Public Disclosure Copy
+
+
+
+
+                         (ii) ZRA’s ability to take on further debt and at what cost;
+                         (iii) the impact of additional debt to ZRA’s tariff structure; and
+                         (iv) optimal tenor and margins ZRA should consider when seeking any debt.
+
+                         A preliminary financial analysis indicates that concessional resources less than 3-5% could be repaid
+                         by the Zambezi River Authority within a 10 year grace period without any increase in the current
+                         tariff regime. Any non-concessional resources would require an increase in the current water tariff
+                         regime charged by the ZRA which would have a pass through effect on the electricity sector tariffs.
+                         Any such non-concessional resources would further require a substantial equity injection in order to
+                         be financially sustainable under ZRAs current financing framework.
+
+                         The Governments of Zambia and Zimbabwe have formally written to request support from the Bank
+                         in exploring viable options for financing and raising resources for the Kariba Dam Rehabilitation
+                         Program. Given that the Government of Zimbabwe is currently limited in its access to concessional
+                         financing until settlement of outstanding arrears to the multi-lateral development banks, it will defer
+                         the full cost to Zambia.
+
+                         The proposed project is intended to be processed as one in a Series of Projects envisaged as part of a
+                         program of support to the riparian states and regional bodies in the Zambezi River basin in
+                         accordance with Investment Project Financing OP/BP 10.00. The Series of Projects is being
+                         supported through the multi-donor trust fund for Cooperation in International Waters in Africa
+                         (CIWA MDTF), complimenting an existing portfolio and pipeline of IDA projects among the eight
+                         riparian states within the Zambezi River basin over a 10 to 15 year period. The projects are intended
+                         to provide a broad program of support in response to the common development goals of the riparian
+                         states and regional organizations relating to the integrated development and management of water
+                         resources in the Zambezi River basin.
+Public Disclosure Copy
+
+
+
+
+                         An allocation of US$25 million has been earmarked from Zambia’s national IDA envelope for the
+                         proposed project. The African Development Bank has indicated an interest to co-finance a portion
+                         equal to the IDA contribution and the European Union has submitted an application to the 11th
+                         European Development Fund for an estimated €50 to 70 million (~US$70-100m).
+
+                         Regional concessional funds could be used to leverage the national contribution from Zambia and
+                         close the financing gap. The project meets IDA’s regional eligibility criteria in that it provides
+                         specific investments that have important regional as well as national social and economic benefits for
+                         the eight riparian states as well as the members of the Southern African Power Pool.
+                         D. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+                         The project is located on the mainstem of the Zambezi River between Zambia and Zimbabwe at the
+                         Kariba Dam. The Bank was involved in supporting the initial financing and development of the
+                         Kariba Dam between 1954 and 1959 through an IBRD loan to the Federation of Rhodesia and
+                         Nyasaland. This predates the current operational safeguard policies and the project involved the
+                         resettlement of 57,000Gwembe-Tonga peoples; 34,000 people were resettled in Zambia.
+                         Subsequently, the IDA financed Power Rehabilitation Project (1998) attempted to improve the life of
+                         affected people through the Gwembe Tonga Rehabilitation and Development Program. Integrated,
+                           multi-sectoral activities, designed through a consultative process attempted to balance infrastructure
+                           needs with food production activities. While the outcomes of all the components funded under the
+                           project were judged satisfactory, efforts at rehabilitation and environmental management for the
+Public Disclosure Copy
+
+
+
+
+                           people were considered partially achieved.
+                           E. Borrowers Institutional Capacity for Safeguard Policies
+                           The Borrower has limited experience with World Bank safeguard policies. There is a dedicated water
+                           resources and environmental management department that carries out routine monitoring and
+                           community relations. The ZRA also manages the Zambezi Valley Development Fund which was
+                           established in 1997 to enhance the socio-economic status of people displaced during construction of
+                           the Kariba Dam. A detailed assessment will be carried out during preparation to determine
+                           appropriate capacity enhancement measures as required.
+                           F. Environmental and Social Safeguards Specialists on the Team
+                           Kristine Schwebach (GSURR)
+                           Sanjay Srivastava (GENDR)
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+                           Safeguard Policies               Triggered? Explanation (Optional)
+                           Environmental Assessment         Yes            The rehabilitation measures are not expected to have
+                           OP/BP 4.01                                      any significant adverse environmental impacts. Any
+                                                                           potential impacts are likely to be associated with site
+                                                                           specific rehabilitation works. Given the limited
+                                                                           scope, the project's potential negative and positive
+                                                                           environmental impacts will be assessed as part of the
+                                                                           detailed design works. Recommendations will be
+                                                                           made to ensure necessary measures required to
+                                                                           prevent, minimize, mitigate, or compensate for any
+Public Disclosure Copy
+
+
+
+
+                                                                           potential adverse impacts during implementation.
+                           Natural Habitats OP/BP 4.04      No             The policy is not triggered. The rehabilitation works
+                                                                           will take place in situ and will not lead to the
+                                                                           significant loss or degradation of any critical natural
+                                                                           habitats.
+                           Forests OP/BP 4.36               No             The policy is not triggered. The project is limited to
+                                                                           rehabilitation of the existing dam and will not impact
+                                                                           on the health and quality of any forests; affect the
+                                                                           rights and welfare of people and their level of
+                                                                           dependence upon or interaction with forests; nor will
+                                                                           it bring about changes in the management,
+                                                                           protection, or utilization of natural forests or
+                                                                           plantations.
+                           Pest Management OP 4.09          No             The project does not involve the use of pesticides
+                                                                           and agro-chemicals. Thus the policy is not triggered.
+                           Physical Cultural Resources      Yes            The rehabilitation includes civil works and so
+                           OP/BP 4.11                                      provisions will be included for chance find
+                                                                           procedures in the Environmental Management Plan.
+                                 Indigenous Peoples OP/BP                                    No                         There are no Indigenous Peoples in the project area.
+                                 4.10
+Public Disclosure Copy
+
+
+
+
+                                 Involuntary Resettlement OP/                                TBD                        The rehabilitation works is not expected to require
+                                 BP 4.12                                                                                the land acquisition, leading to involuntary
+                                                                                                                        resettlement, or restrictions of access to resources,
+                                                                                                                        livelihoods or legally designated parks and protected
+                                                                                                                        areas. The need for a resettlement instrument will be
+                                                                                                                        confirmed before appraisal.
+                                 Safety of Dams OP/BP 4.37                                   Yes                        The rehabilitation works will be carried out in
+                                                                                                                        compliance with the OP/BP with the project aimed at
+                                                                                                                        ensuring appropriate measures are implemented and
+                                                                                                                        sufficient resources provided to ensure the continued
+                                                                                                                        safety of the dam. An independent Panel of Experts
+                                                                                                                        will be appointed to review the investigations,
+                                                                                                                        design, and implementation of the rehabilitation
+                                                                                                                        works.
+                                 Projects on International                                   Yes                        No new works will be undertaken and the
+                                 Waterways OP/BP 7.50                                                                   rehabilitation is not anticipated to adversely change
+                                                                                                                        the quality or quantity of water flows to other
+                                                                                                                        riparians in the Zambezi River basin, nor will it
+                                                                                                                        adversely affect water use by the other riparians. The
+                                                                                                                        rehabilitation works will not exceed the original
+                                                                                                                        scheme, change its nature, or so alter or expand its
+                                                                                                                        scope and extent as to make it appear a new or
+                                                                                                                        different scheme. However, notification will be made
+                                                                                                                        in accordance with provisions of the ZAMCOM
+                                                                                                                        Agreement along with the Revised SADC Protocol
+Public Disclosure Copy
+
+
+
+
+                                                                                                                        on Shared Watercourses in compliance with OP/BP
+                                                                                                                        4.37.
+                                 Projects in Disputed Areas OP/ No                                                      The policy is not triggered. The dam has been under
+                                 BP 7.60                                                                                joint operation under the current arrangements since
+                                                                                                                        1987 and there are no disputes over the project area.
+
+                         III. SAFEGUARD PREPARATION PLAN
+                               A. Tentative target date for preparing the PAD Stage ISDS: 30-Apr-2014
+                               B. Time frame for launching and completing the safeguard-related studies that may be needed.
+                                  The specific studies and their timing1 should be specified in the PAD-stage ISDS:
+                                      Safeguard studies that may be required will be confirmed and launched during the March 2014
+                                      consultative mission.
+                         IV. APPROVALS
+                                 Task Team Leader:                            Name: Marcus J. Wishart
+
+                                 Approved By:
+
+
+
+
+                         1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+                          form and language that are accessible to potentially affected persons.
+                         Regional Safeguards Name: Alexandra C. Bezeredi (RSA)   Date: 02-May-2014
+                         Coordinator:
+                         Sector Manager:     Name: Jonathan S. Kamkwalala (SM)   Date: 17-Dec-2014
+Public Disclosure Copy
+Public Disclosure Copy
+The original had problem with text extraction. pdftotext Unable to extract text.

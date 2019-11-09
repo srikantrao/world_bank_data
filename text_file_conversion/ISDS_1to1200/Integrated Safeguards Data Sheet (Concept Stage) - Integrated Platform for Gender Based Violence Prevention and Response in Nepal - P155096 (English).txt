@@ -1,0 +1,168 @@
+                                           INTEGRATED SAFEGUARDS DATA SHEET
+                                              IDENTIFICATION / CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                             Report No.: ISDSC12550
+
+                         Date ISDS Prepared/Updated: 23-Mar-2016
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:             Nepal                         Project ID:      P155096
+                            Project Name:   Integrated Platform for Gender Based Violence Prevention and Response in
+                                            Nepal
+                            Team Leader(s): Luiza A. Nora
+                            Estimated Date 24-Mar-2016
+                            of Approval:
+                            Managing Unit:       GSU06                         Lending          Lending Instrument
+                                                                               Instrument:
+                            Sector(s):           Central government administration (10%), Public administration- Other social
+                                                 services (10%), Information technology (10%), Other social services (70%)
+                            Theme(s):            Gender (80%), Other social development (10%), Social Inclusion (10%)
+                            Financing (in USD Million)
+                            Total Project Cost: 2                            Total Bank Financing: 0
+                            Financing Gap:      0
+                              Financing Source                                                                        Amount
+Public Disclosure Copy
+
+
+
+
+                              State and Peace Building Fund                                                                2
+                            Environment        C - Not Required
+                            Category:
+
+                           B. Project Development Objective(s)
+                           The development objective of this project is to raise awareness about, and improve response to,
+                           Gender Based Violence in Nepal. This will be achieved by improving the quality and reach of
+                           services for GBV survivors through a helpline, promoting greater awareness among key stakeholders
+                           and strengthening the capacity of National Women Commission (NWC).
+                           C. Project Description
+                           In June 2013, the World Bank and OXFAM International organized a regional conference on GBV –
+                           “Joining Forces to Overcome Violence against Women in South Asia” where the Bank committed to
+                           address GBV. The Bank in collaboration with IFC, Young Innovations and the Computer
+                           Association of Nepal jointly organized a Hackathon on Violence Against Women (VAWHack). The
+                           Hackathon was the first time in Nepal that the private sector, youth technology and practitioner
+                           communities worked jointly on the issue of VAW. The hackathon was organized in collaboration
+                           with the National Women Commission and Young Innovations. VawHack produced ICT
+                           applications developed by Nepal’s youth for victims, support services providers and perpetrators of
+                         VAW. Winning apps were integrated into a comprehensive online platform FightVAW (www.
+                         fightvaw.org). In 2014, the World Bank. published the regional report that documented the
+                         prevalence and typology of, risk and protective factors for, context behind, and promising approaches
+Public Disclosure Copy
+
+
+
+
+                         to addressing Violence against Women and Girls (VAWG)—while in the process bringing together
+                         diverse stakeholders to discuss these facets of VAWG. The project builds on Bank’s past efforts to
+                         address GBV and draws on its comparative advantage to convene multiple stakeholders, to produce
+                         analytical work, and sector operations for its various components.
+                         More specifically, the project is founded on the achievements and lessons of the FightVAW initiative
+                         and will support its conversion from a case management system to a national ICT-based helpline for
+                         GBV survivors. The initiative was implemented from August 2013 to June 2015 in Kathmandu
+                         district with a focus on women survivors of GBV, but also attempted to involve men and boys. The
+                         FightVAW initiative developed a Helpline and a full-fledged case management system from the
+                         ideas generated during the Hackathon. Other ICT applications including an Android application that
+                         allows users in unsafe situations to discretely press the power button and message family and friends
+                         along with GPS location was developed. The initiative partnered with i) youth and women’s media
+                         organizations to disseminate information on the Helpline, and ii) CSOs providing support services to
+                         respond to cases reported to the Helpline. The NWC demonstrated interest and relevance of the
+                         technology during the Hackathon and therefore coordinated the FightVAW activities and piloted the
+                         system.
+                         During the FightVAW pilot, the case management system and referral processes were refined with
+                         feedback from CSOs and NWC. The CSOs and NWC reported that the Case Management System
+                         (CMS) would improve coordination and enable tracking of cases to ensure GBV survivors are
+                         receiving continuous support. Outreach activities indicated a need for a Helpline dedicated to GBV
+                         issues similar to Child Helpline. Other results from the initiative include:
+                         •        Capacity building of CSO focal points on using applications and internet-based applications.
+                         •        Improved institutional relationships between government stakeholders, including NWC,
+                         Nepal Police, Ministry of Home Affairs, Department of Women and Children at the Ministry of
+                         Women, Children and Social Welfare, Office of the Prime Minister, other development partners, and
+                         CSOs, as well as increased awareness on the nature and scope of GBV and the internet-based
+Public Disclosure Copy
+
+
+
+
+                         applications developed to combat the issue.
+                         •        Some 57 cases recorded by phone, SMS or entered manually (including calls from family
+                         members reporting domestic violence and trafficking of women).
+                         •        Compilation and maintenance of a database of 94 organizations that work to address GBV.
+                         •        Monitoring of 12 news sites for GBV-related news.
+                         •        A collection of stories of women and girls who had experienced gender-based violence.
+
+                         Key lessons of the FightVAW initiative include ability of the World Bank to bring together
+                         traditional and non-traditional actors to address GBV and the pilot provided platform for
+                         coordination of services. These lessons have contributed to designing the components.
+                         D. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+
+
+                         E. Borrower’s Institutional Capacity for Safeguard Policies
+
+
+                         F. Environmental and Social Safeguards Specialists on the Team
+                           Bandita Sijapati (GSURR)
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+Public Disclosure Copy
+
+
+
+
+                           Safeguard Policies                 Triggered?    Explanation (Optional)
+                           Environmental Assessment OP/       No
+                           BP 4.01
+                           Natural Habitats OP/BP 4.04        No
+                           Forests OP/BP 4.36                 No
+                           Pest Management OP 4.09            No
+                           Physical Cultural Resources OP/    No
+                           BP 4.11
+                           Indigenous Peoples OP/BP 4.10      Yes           The proposed TF will support capacity building
+                                                                            activities that facilitate support to GBV victims,
+                                                                            including those from indigenous groups and
+                                                                            other vulnerable communities. Changing gender
+                                                                            norms and providing support to victims
+                                                                            however could result in intra-household tensions
+                                                                            as well as friction at the local level. To address
+                                                                            these concerns, a Vulnerable Community
+                                                                            Development Plan will be prepared to maximize
+                                                                            support services to victims from vulnerable
+                                                                            groups, including indigenous community; and
+                                                                            measures for mitigating potential conflicts
+                                                                            within households as well as local levels
+                           Involuntary Resettlement OP/BP     No
+                           4.12
+Public Disclosure Copy
+
+
+
+
+                           Safety of Dams OP/BP 4.37          No
+                           Projects on International          No
+                           Waterways OP/BP 7.50
+                           Projects in Disputed Areas OP/BP   No
+                           7.60
+
+                         III. SAFEGUARD PREPARATION PLAN
+                             Appraisal stage ISDS required?: No
+                         IV. APPROVALS
+                           Team Leader(s):            Name: Luiza A. Nora
+                           Approved By:
+                           Safeguards Advisor:        Name: Maged Mahmoud Hamed (SA)                   Date: 01-Apr-2016
+                           Practice Manager/          Name: David Seth Warren (PMGR)                   Date: 01-Apr-2016
+                           Manager:
+                         1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the
+Public Disclosure Copy
+
+
+
+
+                         InfoShop and (ii) in country, at publicly accessible locations and in a form and language that are accessible to potentially
+                         affected persons.
+Public Disclosure Copy
+

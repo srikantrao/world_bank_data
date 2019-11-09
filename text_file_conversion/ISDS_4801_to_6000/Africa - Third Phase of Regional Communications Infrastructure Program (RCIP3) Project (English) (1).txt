@@ -1,0 +1,438 @@
+Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+I.  Basic Information
+ 
+Date prepared/updated:  04/24/2009 
+Report No.:  AC4173
+1. Basic Project Data  
+ 
+Country:  Africa 
+Project ID:  P111432 
+Project Name:  RCIP3 - Regional Communications Infrastructure Program - Phase 3 
+Task Team Leader:  Doyle Gallegos 
+Estimated Appraisal Date: April 20, 2009 
+Estimated Board Date: June 11, 2009 
+Managing Unit:  CITPO 
+Lending Instrument:  Adaptable Program 
+Loan 
+Sector:  Telecommunications (60%);Information technology (20%);General information 
+and communications sector (20%) 
+Theme:  Infrastructure services for private sector development (P);Regional integration 
+(P);Administrative and civil service reform (S);Other environment and natural resources 
+management (S) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+153.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER/RECIPIENT 
+0.00
+0.00 
+Environmental Category: B - Partial Assessment 
+Simplified Processing 
+Simple [] 
+Repeater [] 
+Is this project processed under OP 8.50 (Emergency Recovery) 
+or OP 8.00 (Rapid Response to Crises and Emergencies) 
+Yes [ ] 
+No [ ] 
+2. Project Objectives 
+Project development objectives for RCIP 3 are similar to the initial RCIP APL. The RCIP 
+Program, and all Projects under RCIP have one to two of the following development 
+objectives, depending of the individual Government’s request: (i) contribute to lower the 
+price of international broadband capacity and extend the reach of backbone networks 
+across Eastern and Southern Africa and (ii) contribute to improved Government 
+efficiency and transparency through eGovernment applications   
+ 
+3. Project Description 
+RCIP MALAWI PROJECT:  
+ 
+Component 1 - Enabling Environment (US$2million): This component will provide 
+support to the overall enabling environment for the project. This includes project-specific 
+activities and general support for the sector. Subcomponent 1.1 – Capacity building an 
+advisory support to sector agencies. This subcomponent will provide technical capacity 
+building and Monitoring and Evaluation (M&E) assistance to the agencies of government 
+Page  2
+involved in the ICT sector. The key agencies are the PPP Unit (formerly the Privatization 
+Commission), the Ministry of Information and Civic Education (MICE) and the Malawi 
+Communications Authority (MACRA). The technical capacity building component will 
+support a range of activities designed to assist these agencies in project specific work and 
+in improving the overall competitive and regulatory environment for the ICT sector. This 
+includes the following activities: : (a) support for negotiations with private and public 
+agencies relating to cross-border connectivity development, (b) support for regulatory 
+technical assistance to maximize benefits from access to capacity (regulatory tools to 
+guarantee open access to national and international infrastructure, cost-modeling, price 
+control mechanisms, interconnection, essential facility regulation, policy and regulatory 
+competition law, spectrum management, etc) and for assessing  the policy and regulatory 
+environment and suggest possible changes; (c) policy and regulatory capacity building, 
+consensus building activities, training in the topics mentioned in 1(b) (sector policy and 
+implementation of regulatory reforms) and in particular for strengthening the policy 
+making role in the Ministry (ICT department), (d) drafting a new ICT law, licensing 
+framework and related regulations to deal with a converged network (including 
+broadcasting aspects), (e) drafting “e-legislation” and its corresponding regulatory 
+frameworkto address issues such as e-security, fraud, intellectual property rights (f) 
+support for development of legal framework to support the development of Public Private 
+Partnerships (PPP) arrangements in the ICT sector, (g) capacity building for M&E; 
+Subcomponent 1.2 – Technical support for PPP design and 
+implementation.Thissubcomponent will support the PPP design and training aspects of 
+the project. It will include all preparatory work for the main investment activities to be 
+undertaken by the project, technical advice on aspects of the tender design, technical 
+studies, auction design, contract preparation and technical and legal aspects of contract 
+supervision. Subcomponent 1.3 – Environmental, Social and Resettlement activities. The 
+activities to be undertaken as part of this project are unlikely to have any major 
+environmental or resettlement implications. However, as is required under Malawian law, 
+the possibility has to be examined as part of the project design and then monitored during 
+implementation.  
+ 
+Component 2 – Connectivity (US$14.5 million).  This component will support regional 
+and international connectivity in Malawi through two major subcomponents:  
+Subcomponent 2.1 Regional connectivity through PPP. This subcomponent will support 
+regional connectivity to link Malawi with coastal landing stations of the submarine cables 
+which are due to be completed by 2010. This will be implemented through a Public 
+Private Partnership in which the Government, in its position as major purchaser of ICT 
+services will purchase capacity, thereby reducing the commercial risk to investors in fiber 
+optic cable operators. Any infrastructure developed under this project will be owned and 
+operated by the private sector as part of competitive markets under the regulatory 
+oversight of existing sector institutions. By retaining the option to connect through either 
+Mozambique or Tanzania, the project supports a competitive tendering process for the 
+provision of services and will promote competition between cables and between landing 
+station. Subcomponent 2.2 Establishment of a virtual landing station. The key to the 
+success of the project will be ensuring that the private sector in Malawi all have equal 
+access to the regional connectivity provided under the project. This will promote 
+Page  3
+competition between players, maximize the usage of the connectivity and ensure that the 
+benefits of lower connectivity are passed on to customers. The key to achieving this will 
+be through the PPP contract design, the regulation of the sector and the establishment of a 
+neutral point of interconnection to which all operators and ISPs can obtain access. The 
+project will support the establishment and operation of this point of interconnection.  
+ 
+Component 3 - Project Management (US$2million):  This component will consist of 
+support to finance project management related issues, and namely support for (a) a 
+Project Manager, (b) a Technical Expert, (c) a Procurement Specialist, (d) a Financial 
+Management Specialist, (e) an M&E Specialist, (f) office equipment, (g) incremental 
+operating costs, (h) audits, and (i) environmental specialist expertise.  
+ 
+MOZAMBIQUE EGOVERNMENT AND COMMUNICATIONS 
+INFRASTRUCTURE PROJECT  
+ 
+Component 1 
+–
+Enabling environment (US$[4.15] million): This component will 
+provide technical capacity building and Monitoring and Evaluation (M&E) assistance to 
+the Ministry of Science and Technology (MCT), the Technical Unit for Implementation 
+of the ICT Policy (UTICT), the Ministry of Transport and Communication (MTC) and 
+the National Mozambican Communications Institute (INCM, the telecommunications 
+regulator).  
+ 
+Component 2 – Connectivity (US$[8.5] million):  This component will support 
+connectivity in Mozambique through several subcomponents: (a) support for the 
+establishment of an Internet Exchange Point (IXP); (b) support for purchase of capacity 
+on the networks for targeted users (schools, universities, hospitals, eGovernment users, 
+other user groups) ; (c) support for financing the Governments’ communications network 
+(e.g. extension of GovNet or agreed platform to districts); (d) support for the setup of the 
+Mozambique research and Education Network (MoRENet); (e) support for the 
+establishment of the National Community Multimedia Centre Program (CMC); and (f) 
+support for country-specific innovative demand-stimulation programs (e.g. community 
+radios, SMS-based services, MICTI, etc).  This component will also cover 
+implementation of recommendations stemming from the relevant environmental studies.  
+ 
+Component 3 – Transparency – eGovernment Applications (US$[8-11] million):  This 
+component will include two main areas:  (a) eGovernment Platform to support the 
+government’s cross-cutting and underlying activities, and (b) support for targeted 
+eGovernment applications.  
+ 
+Component 4 – Project Management Support (US$[2] million):  This component 
+willconsist of support to project management related issues, and namely support for 
+hiring key staff.  Other expenses under this component will include office equipment, 
+incremental operating costs and audits. It is likely that the Procurement Specialist and 
+Financial Management Specialist to be hired will be a shared resource with other projects 
+at MCT.  
+ 
+Page  4
+TANZANIA COMMUNICATIONS INFRASTRUCTURE AND EGOVERNMENT 
+PROJECT:  
+ 
+Component 1 
+–
+Enabling Environment (US$17 million). This component will 
+providesupport in the form of technical assistance (TA) and capacity building in order to 
+strengthen the policy and regulatory environment and promote further sector reform so as 
+to maximize benefits from access to international capacity.  In the area of connectivity 
+the following activities will be supported: (i) Strengthening of the ICT policy making 
+capacity at the Ministry of Communications, Science, and Technology (MCST); (ii) 
+Capacity building for the Tanzania ICT Body (to be confirmed during pre-appraisal 
+mission); (iii) TA for development and implementation of the Universal Access strategy; 
+(iv) TA for design of contracts for pre-purchase of capacity on the submarine cable(s); (v) 
+Capacity building and certification of trainers (“training the trainers”) to enhance ICT use 
+within the Government of Tanzania (GoT) through an ICT HR development program; 
+(vi) Capacity building to deal with changing environment and fast technology evolution 
+in areas such as cost-modeling, interconnection, regulatory tools to guarantee open access 
+to national and international infrastructure, essential facility regulation, competition 
+policy and regulation, spectrum and other scarce resource management; and (vii) 
+Capacity building and technical support for the development and implementation of the 
+National ICT Infrastructure Development Program.  
+ 
+The following activities will be supported in the area of eGovernment: (i) TA for 
+drafting e-legislation and its corresponding regulatory framework (to be confirmed during 
+pre-appraisal mission); (ii) TA on the feasibility of Public Private Partnerships (PPP) 
+model for the implementation of eGovernment applications; (iii) TA for feasibility 
+studies, development of bidding documents, and support during procurement, contracting 
+and implementation of eGovernment applications; and (iv) eGovernment capacity 
+building and communications support at Government institutions.  
+ 
+In addition, the following activities will be supported: (i) Capacity building in the area 
+of Monitoring and Evaluation (M&E); (ii) Environmental and social studies consistent 
+with the technical specification and timeframe provided by the Environmental and Social 
+Management Framework (ESMF) and the Resettlement Policy Framework (RPF); and 
+(iii) Additional technical assistance and capacity-building not identified ex-ante.  
+ 
+Component 2 – Connectivity (US$60 million).  This component will provide additional 
+funding for the National ICT Infrastructure Development Program in Tanzania through 
+several subcomponents: (i) Financing for the construction of the submarine cable(s) 
+landing station in Tanzania (US$2-4 million) (to be confirmed during pre-appraisal 
+mission); (ii) Support for pre-purchase of international bandwidth for priority targeted 
+user groups (US$6-8 million); (iii) Financing for equipment for a virtual Government 
+Communications Network (US$20 million) (amount and scope to be confirmed during 
+pre-appraisal mission); and (iv) Support for the extension of coverage and access to ICT 
+services in rural areas using PPP arrangements (US$30 million).  This component will 
+also cover implementation of recommendations stemming from the relevant 
+environmental studies.  
+ 
+Page  5
+Component 3 
+–
+eGovernment Applications (US$13 million). This component will 
+include support for implementation of targeted eGovernment applications such as: (i) 
+eProcurement; (ii) Records and Archive Management; (iii) Support to the Ministry of 
+Lands; (iv) Referral System for the Muhimbili Orthopaedic Institute; and (v) Quick-Win 
+Mobile (mGovernment) Applications (applications to be confirmed and further detailed 
+by appraisal).  
+ 
+Component 4 – Project Management Support (US$3-5 million).  This component 
+willconsist of support to finance project management related issues including project 
+coordination, procurement, financial management, monitoring & evaluation, project 
+communication, and environmental and social safeguards.  Other expenses under this 
+component will include office equipment, incremental operating costs, and audits.   
+ 
+4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis 
+Tanzania, Mozambique, and Malawi - This project is regional in scope and will focus on 
+reforms to government institutions and public-private partnerships throughout the 
+countries of Tanzania, Mozambique, and Malawi.   
+ 
+5. Environmental and Social Safeguards Specialists 
+Ms Kristine Schwebach (AFTCS) 
+Mr Warren Waters (AFTQK) 
+Ms Lungiswa Thandiwe Gxaba (AFTEN) 
+ 
+6. Safeguard Policies Triggered
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+X
+Natural Habitats (OP/BP 4.04) 
+ X 
+Forests (OP/BP 4.36) 
+ X 
+Pest Management (OP 4.09) 
+ X 
+Physical Cultural Resources (OP/BP 4.11) 
+ X 
+Indigenous Peoples (OP/BP 4.10) 
+ X 
+Involuntary Resettlement (OP/BP 4.12) 
+X
+Safety of Dams (OP/BP 4.37) 
+ X 
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X 
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts: 
+The Environment Category is B  
+ 
+OP/BP 4.01 - The risks associated with the kind of infrastructure under consideration 
+are generally low.  The route in Malawi, Mozambique and Tanzania does not affect any 
+group that meet criteria for indigenous people - and none of the impacts would be 
+Page  6
+significant, sensitive, diverse or unprecedented.  The Project is therefore assigned to 
+environmental category B under OP 4.01.  
+ 
+OP/BP 4.12 - Land acquisition for terrestrial facilities (if any) might be needed for the 
+virtual landing station. This is likely to be an existing telecom-related building and 
+therefore not likely to require land acquisition.   
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+NA   
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts. 
+NA   
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide 
+an assessment of borrower capacity to plan and implement the measures described. 
+Draft Environment and Social Management Framework has been prepared and a version 
+acceptable to the Association has been disclosed to the countries and at Infoshop for 
+Malawi and Mozambique prior to appraisal.  Tanzania's is in process to be disclosed.  
+ 
+Specific costed Environment Management Plans will be prepared as necessary.  
+ 
+Draft Resettlement Policy Framework has been prepared and a version acceptable to the 
+Association has been disclosed to the countries and at Infoshop for Malawi and 
+Mozambique prior to appraisal.  Tanzania's is in process to be disclosed. If it is 
+determined that project activities will require land acquisition or impact other assets, a 
+Resettlement Action Plan will be prepared, approved by the World Bank, and 
+implemented prior to initiating civil works   
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+ 
+B. Disclosure Requirements Date
+ 
+Environmental Assessment/Audit/Management Plan/Other: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+ 
+Date of receipt by the Bank 
+04/13/2009 
+ 
+Date of "in-country" disclosure 
+04/14/2009 
+ 
+Date of submission to InfoShop 
+04/14/2009 
+ 
+For category A projects, date of distributing the Executive 
+Summary of the EA to the Executive Directors 
+ 
+Resettlement Action Plan/Framework/Policy Process: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+ 
+Page  7
+Date of receipt by the Bank 
+04/13/2009 
+ 
+Date of "in-country" disclosure 
+04/14/2009 
+ 
+Date of submission to InfoShop 
+04/14/2009 
+ 
+Indigenous Peoples Plan/Planning Framework: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+Pest Management Plan: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+*
+If the project triggers the Pest Management and/or Physical Cultural Resources, 
+the respective issues are to be addressed and disclosed as part of the Environmental 
+Assessment/Audit/or EMP. 
+If in-country disclosure of any of the above documents is not expected, please 
+explain why: 
+NA   
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the 
+ISDS is finalized by the project decision meeting) 
+ 
+OP/BP/GP 4.01 - Environment Assessment 
+ 
+Does the project require a stand-alone EA (including EMP) report? 
+Yes 
+If yes, then did the Regional Environment Unit or Sector Manager (SM) 
+review and approve the EA report? 
+Yes 
+Are the cost and the accountabilities for the EMP incorporated in the 
+credit/loan? 
+Yes 
+OP/BP 4.12 - Involuntary Resettlement 
+ 
+Has a resettlement plan/abbreviated plan/policy framework/process 
+framework (as appropriate) been prepared? 
+Yes 
+If yes, then did the Regional unit responsible for safeguards or Sector 
+Manager review the plan? 
+Yes 
+The World Bank Policy on Disclosure of Information 
+ 
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+Yes 
+Have relevant documents been disclosed in-country in a public place in a 
+form and language that are understandable and accessible to project-affected 
+groups and local NGOs? 
+Yes 
+All Safeguard Policies 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities 
+been prepared for the implementation of measures related to safeguard 
+policies? 
+Yes 
+Have costs related to safeguard policy measures been included in the project 
+Yes 
+Page  8
+cost? 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures related to safeguard policies? 
+Yes 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+Yes 
+D. Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Ms Michele Ralisoa Noro 
+04/23/2009 
+Environmental Specialist: 
+Ms Lungiswa Thandiwe Gxaba 
+04/23/2009 
+Social Development Specialist 
+Ms Kristine Schwebach 
+04/23/2009 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+ 
+Approved by: 
+ 
+Sector Manager: 
+Mr Philippe Dongier 
+04/24/2009 
+Comments:   

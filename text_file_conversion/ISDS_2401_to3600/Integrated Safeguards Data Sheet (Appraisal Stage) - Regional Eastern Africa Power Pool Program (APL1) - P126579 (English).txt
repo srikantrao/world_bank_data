@@ -1,0 +1,499 @@
+﻿                                                                   INTEGRATED SAFEGUARDS DATA SHEET
+                                                                            APPRAISAL STAGE
+                                                                                                                                          Report No.: ISDSA355
+Public Disclosure Copy
+
+
+
+
+                         Date ISDS Prepared/Updated: 25-Apr-2012
+
+                         I.   BASIC INFORMATION
+                              1. Basic Project Data
+
+                              Country:                        Africa                                 Project ID:                      P126579
+                              Project Name:                   Regional Eastern Africa Power Pool Program (APL1) (P126579)
+                              Task Team Leader:               Paivi Koljonen
+                              Estimated Appraisal Date: 10-Apr-2012                                  Estimated Board Date:            21-Jun-2012
+                              Managing Unit:                  AFTEG                                  Lending Instrument:              Adaptable Program Loan
+                              Sector:                         General energy sector (100%)
+                              Theme:                          Regional integration (90%), Infrastructure services for private sector development (10%)
+                              Financing (In USD Million)
+                                   Financing Source                                                                                                      Amount
+                                   BORROWER/RECIPIENT                                                                                                     157.10
+                                   International Development Association (IDA)                                                                            684.00
+                                   African Development Bank                                                                                               354.30
+                                   FRANCE Govt. of [MOFA and AFD (C2D)]                                                                                    82.00
+                                   Total                                                                                                                 1277.40
+                              Environmental Category:         A - Full Assessment
+                              Is this a Repeater project? No
+
+                              2. Project Objectives
+
+                              Project objectives are to: (a) increase the volume and reduce the cost of electricity supply in Kenya; and (b) provide revenues to Ethiopia through
+                              the export of electricity from Ethiopia to Kenya.
+Public Disclosure Copy
+
+
+
+
+                              3. Project Description
+
+                              The project has two components:
+
+                              Component A. Construction of a High Voltage Direct Current (HVDC) transmission interconnection between Ethiopia and Kenya.
+
+                              #            Sub-Component A1. Transmission Lines. Construction of about 1,045 km of bipolar 500 kV HVDC overhead transmission line and
+                              towers.
+
+                              #          Sub-Component A2. Substations. Construction of one AC/DC converting substation in each side of the line, one in Ethiopia and one in
+                              Kenya. Each substation will have a capacity of 2,000 MW. These stations convert AC power into DC in Ethiopia and DC power into AC in Kenya
+                              (and vice versa as needed).
+
+                              #           Sub-Component A3. System Reinforcement. Reinforcements in Kenya of substations and transmission lines necessary to integrate
+                              regional interconnections, while managing the increased demand at the commissioning time of the interconnection for reliable operation of the
+                              Kenyan grid
+
+                              #         Sub-Component A4. Environmental and Social Management. Implementation of the Environmental and Social Management Plans and
+                              the RAPs.
+
+                              Component B. Project Management and Institutional Capacity Building
+
+                              #         Sub-component B1. Project Supervision and Management. Financing of the services of a Supervision Consultant, short-term
+                              consultants for implementation units and project management.
+
+                              #         Sub-component B2. Capacity Building. Technical assistance, planning studies, and capacity building to EEPCO and KETRACO,
+                              focusing on HVDC operations and maintenance, power trading, project management, procurement and financial management, environmental and
+                              social management.
+
+                              4. Project location and salient physical characteristics relevant to the safeguard analysis (if known)
+
+                              Ethiopia:
+
+                                                                                                                                                                       Page 1 of 7
+                         The project area is located in the Southern part of the country, in two Regional States; namely, Oromia and Southern Nations and Nationalities and
+                         Peoples Regional States (SNNPRS). The transmission line starts from the outskirts of Sodo town in Sodo Zuria woreda in SNNPRS, where the
+                         converter substation is located and terminates in Mega woreda of Oromia region along the border between Ethiopia and Kenya. The line route
+                         inside Ethiopia is about 433 km and traverses eight Woredas and 34 rural kebeles in Wolyta Sodo, Humbo, Mirab Abaya, Arba Minch, Konso,
+                         Yabello and Dire until it reaches the border with Kenya. The first section (204 km) of the transmission line is located in SNNPRS and the second
+                         section (229 km) in Oromia region.
+Public Disclosure Copy
+
+
+
+
+                         The first section of the line traverses mainly through rural areas without crossing a single urban center. Most of the rural villages are densely
+                         populated with intensively cultivated farmlands, mainly crop production dependent on rain-fed agriculture, using traditional methods of cultivation
+                         with very little land that is not cultivated. The second section of the line is mostly uninhabited with very low cultivation and thinly distributed
+                         population.
+
+                         While no potential significant adverse environmental risks are foreseen as a result of the erection of pylons and substations, and stringing of the
+                         transmission lines, a ground-truthing visit on the Ethiopia side of the selected route for the transmission line in December 2011 had shown that
+                         there could be potential threats to the Konso cultural landscape and the Konso-Gardula (Borena Administrative Zone) paleontological and
+                         archaeological sites. In June 2011, the Konso Cultural Landscape was demarcated and declared a World Heritage Site by UNESCO. The ESIA
+                         consultants have sought advice from the Ethiopian Authority for Research and Conservation of Cultural Heritage (ARCCH) and have carried out
+                         field work in the Borena Administrative Zone with the view of studying whether the transmission line could impact the historically and culturally
+                         important water wells and living religious and burial places.
+
+                         The transmission line will be rerouted away from the disclosed paleontological and archaeological sites (at bends 34 and 35) on the Ethiopia side
+                         of the line. The line will slightly traverse a very small portion of the eastern edge of the demarcated Konso Cultural Landscape but the ARCCH and
+                         the consultants who carried out the Environmental and Social Impact Assessment (ESIA) are of the opinion that any potential impacts arising from
+                         construction of pylons and substations may be insignificant. The ESIA and Environmental and Social Mitigation Plan (ESMP) have proposed
+                         appropriate mitigation measures and mitigation plans.
+
+                         Kenya
+
+                         The project area lies within the Rift Valley, Central, and Eastern Provinces of Kenya. The transmission line traverses the country from North to
+                         South through Marsabit, Samburu, Laikipia, Nyandarua, and Nakuru Counties and terminates in Suswa, about 100 km west of Nairobi. The line
+                         traverses mainly rural areas of the five Counties. The total length of the line is about 612 km. Most of the project areas are sparsely populated
+                         except the settlement areas of Nyandarua and Nakuru Counties. Route selection has guarded heavily populated areas.
+
+                         The project traverses two Important Bird Areas, Dida Galgalu Desert and Lake Ol Bolossat. The Marsabit National Park and Losai Natural Reserve
+                         are also traversed by the line. Dida Galgalu and Lake Ol Bollosat are important bird areas that are recognized as such by the Birdlife International.
+                         This implies that the two areas host avian diversity of significant conservation values. Marsabit National Park and Losai National Reserve are
+                         gazetted protected areas of importance to conservation. The Marsabit National Reserve is located 560 km to the north of Nairobi in the Marsabit
+                         County. The reserve covers an area of 1,600 km² in the middle of the desert wilderness, and includes a Forest Reserve on the forested Mount
+                         Marsabit, (although the Transmission line will not traverse the forested part off the reserve). The region surrounding the Marsabit Reserve is of dry
+                         and barren semi-desert character. The Marsabit Reserve is a protective area for large mammals such as buffalo, zebra, giraffe, cheetah, antelope,
+                         oryx, greater kudu, elephants, rhinoceroses, lions, leopard and numerous species of birds. The Losai National Reserve is located to the south-
+                         west of the Marsabit County, across the Kaisut Desert. The reserve is characterized by a semi-desert landscape with rugged terrains, seasonal
+Public Disclosure Copy
+
+
+
+
+                         rivers, a lava plateau with scattered volcanic plugs covered with thorn bushes, and a zone of impenetrable mountain forest on the north-eastern
+                         edge of the central highlands, and, while now significantly degraded, includes the Melako Conservancy within the Reserve, which is attempting to
+                         protect the habitats of the sand grouse. The Laikipia – Samburu ecosystem, also in the project area, cannot be considered a ‘biodiversity hot-spot’
+                         in the sense of having a wide diversity of endemic and/or endangered species, although it is host to lions, wild dogs, Grevy’s zebra, eland,
+                         elephants, reticulated giraffes and patas monkeys. The Longonot-Suswa area is prone to soil erosion and is currently under pressure from human
+                         activities.
+
+                         The project traverses a region of known paleontological and archaeological significance, which has not been systematically studied, necessitating
+                         provisions for chance finds during construction.
+
+                         5. Environmental and Social Safeguards Specialists
+
+                         Zarafshan H. Khawaja (AFTCS)
+                         Noreen Beg (AFTEN)
+                         Yasmin Tayyab (AFTCS)
+                         Nyambura Githagui (AFTCS)
+                         Edward Felix Dwumfour (AFTEN)
+
+                         6. Safeguard Policies                           Triggered?       Explanation (Optional)
+                         Environmental Assessment OP/BP 4.01             Yes              This policy is triggered due to the construction of the interconnector, requiring the
+                                                                                          identification, mitigation and monitoring of potential adverse environmental and
+                                                                                          social impacts.
+                                                                                          An Environmental and Social Impact Assessment (ESIA)/Environmental and Social
+                                                                                          Management Plan (ESMP) has been prepared for both Ethiopia and Kenya.
+                         Natural Habitats OP/BP 4.04                     Yes              This policy will not be triggered for Ethiopia since the project will not affect any
+                                                                                          natural habitats on the Ethiopian part of the line. It is triggered in Kenya as the
+                                                                                          project will traverse Important Bird Areas and will skirt Protected Areas and wildlife
+                                                                                          corridors.
+
+
+
+                                                                                                                                                                    Page 2 of 7
+                               Forests OP/BP 4.36                               No               This policy will not be triggered for either Ethiopia or Kenya side since no natural
+                                                                                                 forests will be traversed by the line or affected by the erection of pylons and
+                                                                                                 substations.
+                               Pest Management OP 4.09                          No
+                               Physical Cultural Resources OP/BP 4.11           Yes              The Konso Cultural Landscape and the historically and culturally important water
+Public Disclosure Copy
+
+
+
+
+                                                                                                 wells and living religious and burial places in the Borena Administrative Zone in
+                                                                                                 Ethiopia are located in the vicinity of the interconnector. The route has been
+                                                                                                 diverted away from disclosed paleontological and archaeological sites (at bends 34
+                                                                                                 and 35). While the line will pass slightly outside of the demarcated Konso Cultural
+                                                                                                 Landscape, the Ethiopian Authority for Research & Conservation of Cultural
+                                                                                                 Heritage (ARCCH) is of the opinion that potential impacts may be insignificant. In
+                                                                                                 Kenya, the route traverses a region of known paleontological and archaeological
+                                                                                                 significance, which has not been systematically studied; hence provisions will be
+                                                                                                 made with the National Museums of Kenya (NMK) for possible chance finds during
+                                                                                                 construction.
+                               Indigenous Peoples OP/BP 4.10                    No
+                               Involuntary Resettlement OP/BP 4.12              Yes              The route of the interconnector, with 433 km in southwestern Ethiopia and 612 km
+                                                                                                 in Kenya is being selected to minimize displacement of the existing population or
+                                                                                                 direct impact on their economic activities. In Kenya, the project will affect about
+                                                                                                 1,200 people (380 households), mainly residents of the Central and Rift Valley
+                                                                                                 Regions. Of these, only 9 households will need to be relocated. A Resettlement
+                                                                                                 Action Plan (RAP) has been prepared for the Kenya portion of Project consistent
+                                                                                                 with the policy provisions of OP 4.12. In Ethiopia, current estimates indicate that
+                                                                                                 about 5,743 people (1,165 households) will be affected by the Project. Since the
+                                                                                                 precise routing of the RoW has not yet been finalized, a Resettlement Policy
+                                                                                                 Framework (RPF) has been prepared consistent with the policy provisions of OP
+                                                                                                 4.12 as a guide to the preparation of a RAP when the routing of the RoW has been
+                                                                                                 finalized. They objective of the Kenya RAP and the Ethiopia RPF is to ensure that
+                                                                                                 all affected people will be compensated for their losses at replacement cost and
+                                                                                                 provided with rehabilitation measures to assist them to improve, or at least
+                                                                                                 maintain their pre-project standard of living and income earning capacity.
+                               Safety of Dams OP/BP 4.37                        No
+                               Projects on International Waterways OP/BP        No
+                               7.50
+                               Projects in Disputed Areas OP/BP 7.60            No
+
+
+                         II.   Key Safeguard Policy Issues and Their Management
+Public Disclosure Copy
+
+
+
+
+                               A. Summary of Key Safeguard Issues
+
+                               1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential large scale,
+                                  significant and/or irreversible impacts:
+                                  A. Summary of Key Safeguard Issues
+
+                                 1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential large scale, significant
+                                 and/or irreversible impacts:
+
+                                 Ethiopia
+
+                                 Social
+
+                                 Construction of the transmission line is expected to result in change in land use and land acquisition along its alignment. A major impact will be
+                                 loss of farmland used to grow cereal and perennial crops such as bananas and mangoes. Permanent land acquisition for the right-of-way
+                                 (RoW) will likely involve footing areas for the towers and the site of the substation in Wolyta/Solodo which will also affect people currently using
+                                 the site for grazing purposes. Temporary land acquisition will be required for erection of towers and stringing of conductors. Given that the
+                                 Project is linear in nature, only a portion of farmlands or irrigation structures will be affected, mostly in rural areas. The Project will affect about
+                                 341 hectares of farming and pasture land. The construction of access roads will also affect farmlands, perennial crops and trees located within
+                                 the right-of-way. The construction of tower foundations will be located in areas where there are no existing buildings.
+
+                                 A household survey of the eight woredas transversed by the transmission line was initially carried out in June-August 2008. From July-August
+                                 2011, another socioeconomic survey was carried out of households in the same eight woredas who reside within the 65 meters of the RoW and
+                                 whose properties and assets are likely to be affected by the construction of the transmission line. On the basis of this survey, current estimates
+                                 indicate that the Project will affect approximately 5,743 (1,165 households), who will either lose housing structures and/or farmland, trees or
+                                 perennial crops located within the RoW. It is also estimated that the Project will affect 256 housing structures and a small number of public and
+                                 community institutions that will lose different types of assets and property due to construction works. About 20 hectares of communal grazing
+                                 land needed for the construction of a substation at Wolyta Soda is also affected. Potential social impacts are likely to take place within the 65
+                                 meters width of the RoW for the transmission line. Most houses and structures will be shifted or “stepping back�? from the alignment and within
+                                 the existing village or farmland. People who lose part of their land will be able to continue farming activities in those areas where construction
+                                 activities are not planned and once these activities are over, they will be able to continue to cultivate crops under the transmission line.
+
+
+                                                                                                                                                                             Page 3 of 7
+                         The alignment of the transmission line corridor has been determined, however, the precise routing of the RoW has not yet been finalized.
+                         While the GoE has taken a preliminary census of PAPs and their lands and assets, they will not finalize the specific compensation for land take
+                         and affected assets until shortly after they finalize the alignment of the RoW. The final alignment will take into consideration measures to
+                         minimize impacts on land and structures. In view of which a Resettlement Policy Framework (RPF) has been prepared to clarify land
+                         acquisition and resettlement principles together with organizational arrangements under the Project. The RPF consistent with the World Bank’s
+                         Operational Policy 4.12 on Involuntary Resettlement will serve as a guide for the preparation of a Resettlement Action Plan when the routing of
+                         the RoW has been finalized. The key objective of the RPF is to ensure that all affected people will be compensated for their losses at
+Public Disclosure Copy
+
+
+
+
+                         replacement cost and provided with rehabilitation measures to assist them to improve, or at least maintain their pre-project standard of living
+                         and income earning capacity. Community participation and stakeholder consultation were an essential component in the preparation of the
+                         RPF. Consultation with project affected people and key stakeholders was carried out in five different woredas who will be affected by the
+                         project. The views and concerns of people, including the most vulnerable, expressed during these consultative meetings were taken into
+                         consideration in the preparation of the RPF.
+
+                         There are no Indigenous Peoples in the project area in Ethiopia.
+
+
+                         Environment
+
+                         There are no potential adverse biophysical environmental issues likely to be associated with the construction of the project in Ethiopia. If any at
+                         all, these may be associated with health and safety issues related to workers’ camp site activities which can be eliminated or reduced in a cost-
+                         effective manner through simple and appropriate preventive and mitigation measures on site. However, there was anticipation that the project
+                         could impact negatively on the Konso Cultural Landscape, which the transmission line was originally drawn to traverse at a section of its
+                         eastern border. There is a need also to avoid disturbing the historically and culturally important water wells and living religious and burial
+                         places in the Borena AdministrativeZone in Ethiopia. The sensitive Konso areas are to be avoided by rerouting the line away from the disclosed
+                         paleontological and archaeological sites (at bends 34 and 35). ESIA and ESMP have been developed for use during the implementation phase
+                         of the project on how to prevent impacts from occurring and to mitigate if they should emanate.
+
+                         Kenya
+
+                         Social
+
+                         Similar to Ethiopia, the construction of the transmission line is expected to result in change in land use, land acquisition, loss of livelihood and
+                         impact assets such as water tanks, gates, animal sheds, toilets, fences and business structures. Temporary and permanent land acquisition
+                         will be required for erection of towers and stringing of conductors. People who lose part of their land will be able to continue to farm and use the
+                         land for grazing purposes in those areas where construction activities are not planned or once construction activities are over. About 20
+                         hectares of grazing land will also be required for the construction of the substation at Suswa.
+
+                         Based on a socio-economic and census survey, the total affected population is 1,200 people (380 households) who are mainly residents of the
+                         Central and Rift Valley Regions. Of these, nine households (45 people) will need to relocate. The total land area traversed by the ROW is
+                         39.39 km2.
+
+                         KETRACO has prepared a Resettlement Action Plan (RAP) for the Kenya portion of the Project in full consultation with the potentially affected
+Public Disclosure Copy
+
+
+
+
+                         people and the relevant Kenyan institutions and consistent with the policy provisions of OP 4.12. The RAP identifies the principles, measures
+                         and procedures to improve or at least restore the livelihoods of affected people.
+
+                         In the initial screening of the project, OP 4.10 (Indigenous Peoples) was triggered to take account of the possible presence of groups in Kenya
+                         for whom the policy might be applicable. Based on subsequent further analysis, however, there are no groups in the area that meet the policy's
+                         applicability criteria as interpreted in the past by the Bank in the Kenya context. OP 4.10 is therefore not triggered for the project.
+
+
+                         Environment
+
+                         There are four key environmental concerns. The first concern, specific to the routing of the line, is the impact on natural plant, animal habitats,
+                         and bird migration routes as the selected route traverses the Marsabit National Reserve and the Losai National Reserve, and passes through
+                         an Important Bird Area (IBA) - Lake Ol Bolossat.
+
+                         The second is the need to limit encroachment on natural habitats, and avoid ecological hot spots and wildlife corridors that may be affected as
+                         a result of construction of the pylons 4-6 km from the main road. The Bank has been informed that routing closer to the road is not possible
+                         because of (a) resettlement costs and disturbance to the marginalized communities who depend on road traffic for their livelihoods, and (b)
+                         town planning. Vision 2030 calls for an expansion of towns and villages along the route, so the transmission line must be sited some distance
+                         outside the proposed expansion. Nevertheless, the surveyors will take every precaution to align the route away from ecological hot spots, while
+                         at the same time avoiding populated areas to limit social impacts on local communities.
+
+                         The third concern is the need to conserve water use, for construction and for workers, because much of the Project traverses severely water-
+                         constrained areas, where scarcity of water is a potential source of conflict.
+
+                         The fourth concern is the need to pay careful attention to the presence of paleontological and archaeological remains during final siting of the
+                         transmission towers and construction activities and to consult with and involve authorities from the NMK because the project will traverse a
+                         region of known paleontological and archaeological significance, which has not been systematically studied.
+
+                         To minimize the Project’s impact on plant and animal habitats, KETRACO, in consultation with the Kenya Wildlife Service (KWS) and Kenya
+                         Forest Service (KFS) will implement measures to limit non-critical habitat loss and degradation, in particular during construction. Ecological hot
+                         spots (such as the habitats of the sand grouse within Losai Reserve) will be avoided, and construction will be scheduled to avoid wildlife
+                         migration sections along the three portions of the proposed route that traverse migratory corridors. Construction contracts will reflect this
+                         requirement. Guards will be posted at construction and campsites to ensure that wildlife are not poached and that precious woods such as
+                                                                                                                                                                 Page 4 of 7
+                           sandalwood are not chopped down for resale. KFS and KWS will continue to liaise with KETRACO in the implementation of the Environmental
+                           Management Plan, particularly along migration corridors and ecologically sensitive areas, periodically monitoring the impact on biodiversity
+                           attributed to construction and maintenance of the transmission line and substations. Care will be taken to disguise the pylons to limit aesthetic
+                           damage to the landscape.
+
+                           To minimize bird coll isions, KETRACO will take appropriate measures in the design and construction of the transmission lines to minimize the
+                           risk of electrocution of birds in Important Bird Areas. More information on any bird migratory routes that may pass the line has been provided in
+Public Disclosure Copy
+
+
+
+
+                           the ESIA, and appropriate bird warning devices (balls on the lines, platforms on the towers for raptors and nesting birds) will be used as
+                           necessary and will be budgeted for in Project costs. Nature Kenya, the Ornithology Department of the Museums of Kenya and KWS will
+                           provide guidance on which specific actions are appropriate.
+
+                           Water use management plans will be incorporated in the EMP to ensure appropriate water use management practices are employed during
+                           construction, and at worker camps, or in areas where there will be a short-term significant increase in population. Guidance will be sought from
+                           the Water Resource Management Authority, as to whether permits for water use for construction purposes are required.
+                         2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area:
+                             Provision of more jobs is likely to lead to less poaching, (although in the short term care will have to be taken to prevent poaching and tree
+                           cutting at temporary worker camps) and government development plans would need to include development of boreholes and local electricity
+                           provision, thereby limiting strains on existing sources of water supply that cause conflict, and may reduce the cutting of shrubs and grasses for
+                           fuel.
+
+                           The Konso Cultural Landscape (KCL) and the paleontological and archaeological sites in the Borena Administrative Zone continue to attract
+                           tourists and paleontologists/archaeologists to the area. There is need for the ARCCH to develop a clear geo-referenced map of the areas
+                           including the prescribed buffers, particularly for the KCL. Per agreement with EEPCo, qualified authorities of the ARCCH will be present during
+                           final planning for positioning of the transmission towers and construction in the sensitive Konso area, and will be notified by the project owner of
+                           any “chance find�? during excavation works along the line. Work will stop until ARCCH has carried out full inspection of the area of the "chance
+                           find" and provided its consent for work to continue.
+                         3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+                            Detailed line routing studies have been undertaken in 2009 and again in 2011, and the final line routing has been selected to avoid as much
+                           as possible, crossing environmentally sensitive areas (such as the Matthews Forest range, the Aberdares, and local conservancies in Kenya
+                           and to minimize resettlement in along the line). The ESIAs have been prepared based on the agreed route selection. A further rerouting at the
+                           Ethiopian side of the line has been considered and agreed in order to stay away from the Konso Cultural Landscape and the identified
+                           paleontological and archaeological sites in the Borena Administrative Zone.
+                         4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower capacity to plan
+                            and implement the measures described.
+                            The responsibility in the two countries to implement and monitor the ESMP and RAP will be with EEPCO in Ethiopia and KETRACO in Kenya.
+
+                           EEPCO has adequate institutional arrangements in place to ensure the implementation of the Environment and Social Management Plan for
+                           the Project components in Ethiopia. The implementation of the Resettlement Action Plan in Ethiopia will involve the Woredas (counties) along
+                           the transmission line route. Each affected Woreda Administration will establish a Committee for the purpose of verifying and valuing
+                           resettlement and compensation requirements in the presence of EEPCO staff. On the particular issue relating to the protection of physical
+Public Disclosure Copy
+
+
+
+
+                           cultural resources (i.e. Konso Cultural landscape and the archaeological and paleontological sites), EEPCO will be working closely with and
+                           under the guidance of the ARCCH. ARCCH will conduct an orientation and training session for relevant project participants and construction
+                           contractors to alert the latter to the cultural heritage aspects of the project’s impact area and to the characteristics and management procedures
+                           for possible chance finds during construction.
+
+                           EEPCo will liaise with ARCCH which will conduct an orientation and training session for relevant project participants and construction
+                           contractors to alert the latter to the cultural heritage aspects of the project’s impact area and to the characteristics and management procedures
+                           for possible chance finds during construction.
+
+                           KETRACO’s Environment, Safety, Quality and Liaison Unit will implement the Environment and Social Management Plan for the Project
+                           components in Kenya. KETRACO will set up a separate Resettlement Implementation Committee. Under the leadership of the Senior
+                           Environmental Officer, the Committee will be in charge of the day-to-day implementation of the RAP. It will include District Commissioners from
+                           the Counties along the transmission line and from each of the affected villages, a village chairman, elder, and a representative of women and
+                           youth.
+
+                           In addition, KETRACO will engage an Independent Evaluation Panel to monitor the progress of the RAP’s implementation. This external party
+                           will conduct semi-annual audits and a close down audit. The Panel will consist of a firm or persons who have handled resettlement programs.
+                           They will review the reports prepared by KETRACO on resettlement and will make site visits to obtain information from project affected
+                           persons, and to verify the reports.
+
+                           Under the ongoing IDA-supported Electricity Expansion Project (P103037), KETRACO is receiving capacity building in environmental
+                           management and monitoring. It is the implementing entity for the Mombasa-Nairobi 220 kV high voltage line (financed by AfDB, EIB, and AFD)
+                           and thus has experience in implementing environmental and social management activities. During project preparation, KETRACO’s
+                           environmental and social management capacity was assessed and found to be adequate for its role as an implementing entity, although it is
+                           recommended that more staff be added to address the heavy workload, particularly in terms of RAPs. KETRACO’s environmental and social
+                           staff will be included in training visits to utilities that have implemented Bank safeguards. Funding has been included in the financing plan.
+
+                           KETRACO will liaise with NMK which will conduct an orientation and training session for relevant project participants and construction
+                           contractors to alert the latter to the cultural heritage aspects of the project’s impact area and to the characteristics and management procedures
+                           for possible chance finds during construction.
+                         5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies, with an emphasis
+                            on potentially affected people.
+                                                                                                                                                                   Page 5 of 7
+                             The safeguards documents have been prepared in consultation with the PAPs. Public consultation was a key element in the preparation of
+                           the ESIAs, the Kenya RAP and the Ethiopia RPF. The objectives of the consultation process were to inform the affected households,
+                           communities, local authorities and other interested stakeholders about the Project’s potential impacts and proposed mitigation measures;
+                           collect their views to feed into the design of the project, if possible; and to enable the preparation of the environmental and social safeguard
+                           instruments. The preparation of the ESIAs in Kenya and Ethiopia has included three sets of consultation with the project affected communities
+                           to ensure that they understand and agree to the potential disturbances and the mitigation measures recommended in the ESIAs, RAP and
+                           RPF. In Kenya a total of 11 community consultation meetings were held in the project affected area on the RAP. A diversity of community
+Public Disclosure Copy
+
+
+
+
+                           stakeholders including Government administrators (chiefs, village headmen, etc), village elders, farmers, teachers, men and women were
+                           consulted in pre-arranged public meetings held in public institutions such as schools, markets and/or identified homesteads along the proposed
+                           line route. The stakeholders were mobilized by chiefs, teachers and school management committee members. Teachers sent pupils to inform
+                           their parents of the planned meetings. Chiefs deployed their assistants and village headmen to make announcements and post notices at
+                           market centres informing the public about planned meetings. Similarly, in Ethiopia, consultations were carried out with project affected people
+                           and key stakeholders on the preparation of the RPF in five different woredas which will be affected by the Project.
+
+                           The ESIAs have been disclosed in Kenya, Ethiopia on January 28 and 29, 2012 respectively and at the Bank’s InfoShop in Washington on
+                           January 30, 2012. The Kenya RAP was disclosed in Kenya and at the Bank’s InfoShop on March 26 and 27 respectively. The Ethiopia RPF
+                           was disclosed in Ethiopia on April 4, 2012 and at the Bank’s InfoShop on April 5, 2012.
+
+                         B. Disclosure Requirements Date
+
+                         Environmental Assessment/Audit/Management Plan/Other
+                           Was the document disclosed prior to appraisal?                                                                 Yes
+                           Date of receipt by the Bank                                                                                    24-Jan-2012
+                           Date of "in-country" disclosure                                                                                27-Jan-2012
+                           Date of submission to InfoShop                                                                                 30-Jan-2012
+                           For category A projects, date of distributing the Executive Summary of the EA to the Executive
+                           Directors
+                          Resettlement Action Plan/Framework/Policy Process
+                           Was the document disclosed prior to appraisal?                                                                 Yes
+                           Date of receipt by the Bank                                                                                    25-Jan-2012
+                           Date of "in-country" disclosure                                                                                26-Mar-2012
+                           Date of submission to InfoShop                                                                                 27-Mar-2012
+                         If the project triggers the Pest Management and/or Physical Cultural Resources policies, the respective issues are to be addressed and
+                         disclosed as part of the Environmental Assessment/Audit/or EMP.
+                         If in-country disclosure of any of the above documents is not expected, please explain why:
+Public Disclosure Copy
+
+
+
+
+                         C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is finalized by the project decision meeting)
+
+                         OP/BP/GP 4.01 - Environment Assessment
+                           Are the cost and the accountabilities for the EMP incorporated in the credit/loan?                     Yes [     ]      No [   ]   NA [    ]
+
+                         OP/BP 4.04 - Natural Habitats
+                           If the project would result in significant conversion or degradation of other (non-critical) natural   Yes [     ]      No [   ]   NA [    ]
+                           habitats, does the project include mitigation measures acceptable to the Bank?
+                         OP/BP 4.11 - Physical Cultural Resources
+                           Does the credit/loan incorporate mechanisms to mitigate the potential adverse impacts on               Yes [     ]      No [   ]   NA [    ]
+                           cultural property?
+                         OP/BP 4.12 - Involuntary Resettlement
+                           If yes, then did the Regional unit responsible for safeguards or Sector Manager review the             Yes [     ]      No [   ]   NA [    ]
+                           plan?
+                         The World Bank Policy on Disclosure of Information
+                           Have relevant safeguard policies documents been sent to the World Bank's Infoshop?                     Yes [     ]      No [   ]   NA [    ]
+
+                           Have relevant documents been disclosed in-country in a public place in a form and language             Yes [     ]      No [   ]   NA [    ]
+                           that are understandable and accessible to project-affected groups and local NGOs?
+                         All Safeguard Policies
+                           Have satisfactory calendar, budget and clear institutional responsibilities been prepared for          Yes [     ]      No [   ]   NA [    ]
+                           the implementation of measures related to safeguard policies?
+                           Have costs related to safeguard policy measures been included in the project cost?                     Yes [     ]      No [   ]   NA [    ]
+
+                           Does the Monitoring and Evaluation system of the project include the monitoring of safeguard           Yes [     ]      No [   ]   NA [    ]
+                           impacts and measures related to safeguard policies?
+                           Have satisfactory implementation arrangements been agreed with the borrower and the same               Yes [     ]      No [   ]   NA [    ]
+                           been adequately reflected in the project legal documents?
+                                                                                                                                                                Page 6 of 7
+                         III. APPROVALS
+
+                            Task Team Leader:                  Paivi Koljonen
+                            Approved By:
+                            Regional Safeguards Coordinator:   Name: Alexandra C. Bezeredi (RSA)   Date: 25-Apr-2012
+Public Disclosure Copy
+
+
+
+
+                            Sector Manager:                    Name Lucio Monari (SM)              Date: 18-Apr-2012
+Public Disclosure Copy
+
+
+
+
+                                                                                                                       Page 7 of 7
+

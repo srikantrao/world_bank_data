@@ -1,0 +1,693 @@
+﻿The World Bank                                                                          RESTRUCTURING ISDS
+Indonesia Second Power Transmission Development Project (P123994)
+
+
+
+
+                      Integrated Safeguards Data Sheet
+                                   Restructuring Stage
+
+
+       Restructuring Stage | Date ISDS Prepared/Updated: 18-Mar-2019| Report No: ISDSR26220
+
+
+
+
+                       Regional Vice President:    Victoria Kwakwa
+                              Country Director:    Rodrigo A. Chaves
+                Senior Global Practice Director:   Riccardo Puliti
+                   Practice Manager/Manager:       Julia M. Fraser
+                            Task Team Leader:      Tendai Gregan
+              The World Bank                                                                         RESTRUCTURING ISDS
+              Indonesia Second Power Transmission Development Project (P123994)
+
+
+
+
+    Note to Task Teams: The following sections are system generated and can only be edited online in the Portal.
+
+.
+
+    I. BASIC INFORMATION
+
+    1. BASIC PROJECT DATA
+
+    Project ID                                                  Project Name
+                                                                Indonesia Second Power Transmission Development
+    P123994
+                                                                Project
+    Task Team Leader(s)                                         Country
+    Tendai Gregan                                               Indonesia
+    Approval Date                                               Environmental Category
+    08-Jul-2013                                                 Partial Assessment (B)
+    Managing Unit                                               Is this a Repeater project?
+    GEE02                                                       Yes
+
+
+    PROJECT FINANCING DATA (US$, Millions)
+
+    SUMMARY               -NewFin1
+
+
+
+
+    Total Project Cost                                                                                             159.03
+    Total Financing                                                                                                159.03
+    Financing Gap                                                                                                    0.00
+
+
+    DETAILS -NewFinEnh1
+
+
+
+
+    World Bank Group Financing
+      International Bank for Reconstruction and Development (IBRD)                                                 137.60
+    Non-World Bank Group Financing
+      Counterpart Funding                                                                                           21.43
+         Borrower/Recipient                                                                                         21.43
+
+
+    2. PROJECT INFORMATION
+            The World Bank                                                                           RESTRUCTURING ISDS
+            Indonesia Second Power Transmission Development Project (P123994)
+
+
+
+    Current Project Development Objective
+    The development objective of the proposed project is to meet growing electricity demand and increase access to
+    electricity in the Project Area through strengthening and expanding the capacity of the power transmission networks in
+    the Project Area in a sustainable manner.
+
+
+    Proposed New PDO
+    The development objective of the project is to meet growing electricity demand in the Project Area through
+    strengthening and expanding the capacity of the power transmission networks in the Project Area in a sustainable
+    manner.
+.
+
+
+    Note to Task Teams: End of system generated content, document is editable from here.
+
+
+    1. PROJECT DESCRIPTION
+
+The project consists of a single component with two parts as described below. The revised cost estimate of the
+restructured project is about US$159.03 million in which $127.60 million is to be provided by IBRD and the
+rest by PLN.
+
+      •   Extension and rehabilitation of selected existing substations in the Project Area, including adding one
+          or more new transformers and associated equipment; and/or replacing existing transformers with new
+          transformers and associated equipment with higher capacity; and
+      •   Construction of selected new substations in the Project Area, including installation of transformers and
+          associated equipment.
+
+    The project will be implemented in phases. The first phase will consist of sub-projects (Group 1) which have
+    been fully appraised and are ready for implementation upon approval of the project by the World Bank's
+    Board of Executive Directors. The second phase will consist of sub-projects (Group 2) which will be brought
+    forward by PLN when their preparation is complete. Each sub-project of Group 2 will be appraised by the
+    Bank’s team against of a set of eligibility criteria and will be accepted for financing only after the app raisal
+    confirms that it meets the criteria. Sub-projects will be financed on a first-come, first-appraised basis until all
+    IBRD funds allocated to the project is fully committed.
+
+    Note to Task Teams: The following sections are system generated and can only be edited online in the Portal.
+
+.
+
+    1. PROJECT LOCATION AND SALIENT PHYSICAL CHARACTERISTICS RELEVANT TO THE SAFEGUARD ANALYSIS (IF
+       KNOWN)
+        The World Bank                                                                          RESTRUCTURING ISDS
+        Indonesia Second Power Transmission Development Project (P123994)
+
+
+
+The subprojects are located in various urban, peri- urban and rural areas in Java, Bali, Sulawesi, Kalimantan,
+and Sumatra islands. For expansion and rehabilitation subprojects, the key activity is to install new
+transformers and associated equipment or replace existing transformers and associated equipment with new
+ones with higher capacity in the existing substations. Rehabilitation does not require land acquisition and will
+be implemented within the premises of these substations. While most of expansion subprojects do not
+require land acquisition, some subprojects will require limited additional pieces of land, which is normally
+adjacent to the existing substations. For new substations, the key activity is to construct new substations
+which have one or two transformers and associated equipment, a control room and ancillary equipment.
+Typically, a new substation requires a short transmission line (up to 5 km long) to connect the substation to
+the existing network and in few cases, upgrading of an existing road. A new substation requires an enclosed,
+leveled site free of any vegetation or human habitation (except for substation operators), typically measuring
+about 150m x 150 m. For substations that involve construction of connecting transmission lines or upgrading
+of existing access road, these structures require additional permanent and temporary land acquisition. New
+subproject sites can be, and normally are, selected flexibly within a certain area to minimize the scale of such
+structures and avoid or minimize impacts on environment or land acquisition. Site visits and screening
+undertaken by the task team has determined that Indigenous Peoples as defined by OP 4.10 are not present
+in, nor have collective attachment to the project area under the proposed subprojects of Group 1. Similarly,
+no natural and or critical habitats will be impacted by the subprojects of Group 1. However, as PLN can
+update, replace or propose new subprojects in the second group, these subprojects may be located in areas
+that indigenous people communities are present, or have impacts on natural habitats. Each subproject will
+be evaluated against the project safeguard checklist in the ESMF. No subproject will be approved for funding,
+if any of the following could occur: significant degradation or conversion of natural habitats and temporary
+or permanent relocation or any other type of impact on PCR.
+
+
+
+2. ENVIRONMENTAL AND SOCIAL SAFEGUARDS SPECIALISTS ON THE TEAM
+
+
+Ninin Kania Dewi, Social Specialist
+Agustina Parwitosari, Environmental Specialist
+SAFEGUARD_TABLE
+3. SAFEGUARD POLICIES TRIGGERED
+ Safeguard Policies                         Triggered          Explanation
+                                                               The following impacts are identified during
+                                                               construction for rehabilitation and expansion of
+                                                               substations: (i) increased level of dust and noise
+                                                               from the use and movement of machinery; (ii)
+                                                               nontoxic solid waste during construction; (iii) oil
+ Environmental Assessment (OP) (BP 4.01) Yes                   spill or leakage from machinery or transformers;
+                                                               (iv) prohibition of PCB and (v) worker health and
+                                                               safety from existing EMF. Impacts during operation
+                                                               include (i) oil leaks from transformers; (ii) fire and
+                                                               emergency preparedness; (iii) solid wastes and (iv)
+                                                               worker health and safety. Other issues for
+       The World Bank                                                                         RESTRUCTURING ISDS
+       Indonesia Second Power Transmission Development Project (P123994)
+
+
+
+                                                             equipment upgrade and additions that have been
+                                                             identified include managing potential legacy soil
+                                                             contamination and storing and disposing of old
+                                                             transformers. For new substations, in addition to
+                                                             the above impacts, other issues include the
+                                                             management of vegetation clearance and sediment
+                                                             and erosion control.
+
+                                                             Land acquisition processes, including public
+                                                             consultation and satisfactory compensation for the
+                                                             population residing in the project area is the main
+                                                             social issue under the project.           Since land
+                                                             acquisition is limited, impacts on the individual
+                                                             project affected people (PAP) is normally modest
+                                                             and limited in the acquisition of small pieces of land
+                                                             or cutting down of a few trees. There will be no
+                                                             worker camps.        The social nuisances from
+                                                             construction (noise, dust, traffic, etc.), will be
+                                                             managed under the EMP.
+
+                                                             A due diligence audit was conducted during
+                                                             preparation of the Indonesia Power Transmission
+                                                             Development Project (IPTD) aiming to identify any
+                                                             potential environmental and social liabilities of the
+                                                             existing substations where the Bank will finance
+                                                             expansion or upgrading subprojects, any physically
+                                                             connected projects, and other potential corporate
+                                                             reputation risks, such as the potential climate
+                                                             changes impacts of the project. The due diligence
+                                                             audit confirmed that PLN has acceptable
+                                                             environmental, health and safety policies in place
+                                                             and no potential environmental and social liabilities
+                                                             were identified in the existing substations.
+
+                                                             Supervision of the on-going two transmission
+                                                             projects with PLN shows that close supervision and
+                                                             monitoring of contractor performance is needed to
+                                                             ensure the Standard Operating Procedures are
+                                                             followed.
+Performance Standards for Private Sector
+                                           No
+Activities OP/BP 4.03
+                                                             Site visits and initial screening undertaken by the
+                                                             task team has determined that the proposed
+Natural Habitats (OP) (BP 4.04)            No                subprojects in PLN's list for the first group will not
+                                                             cause conversion of degradation of critical or other
+                                                             natural habitats. Most project activities will take
+       The World Bank                                                                           RESTRUCTURING ISDS
+       Indonesia Second Power Transmission Development Project (P123994)
+
+
+
+                                                             place at the existing sites of the substations or in
+                                                             the vicinity of the existing substations.
+                                                             However, newly proposed subprojects by PLN for
+                                                             the second group may have impacts on natural
+                                                             habitats. Eligibility criteria for financing subprojects
+                                                             will include provisions that subprojects having
+                                                             impacts on natural habitats will be excluded from
+                                                             the project financing.
+                                                             Site visits and screening undertaken by the task
+                                                             team has determined that the proposed
+Forests (OP) (BP 4.36)                    No
+                                                             subprojects proposed by PLN for the first and
+                                                             second group will not cause impacts on forest.
+Pest Management (OP 4.09)                 No
+                                                             It is expected that the proposed project will not
+                                                             involve      any     sites      with    archeological,
+                                                             paleontological, historical, religious or of unique
+Physical Cultural Resources (OP) (BP 4.11) No
+                                                             natural value as defined under the policy.
+                                                             However, chance finds procedures would be
+                                                             included as part of the EMP and ESMF.
+                                                             Site visits and screening undertaken by the task
+                                                             team has determined that Indigenous Peoples as
+                                                             defined by OP 4.10 are not present in, nor have
+                                                             collective attachment to the project area under the
+                                                             proposed list of subprojects under the first group
+Indigenous Peoples (OP) (BP 4.10)         Yes                and second group.
+                                                             However, newly proposed subprojects by PLN in
+                                                             the second group may be located in areas where
+                                                             indigenous communities are present. An
+                                                             Indigenous People Planning Framework (IPPF) will
+                                                             be developed during preparation.
+                                                             A new power substation requires an enclosed
+                                                             leveled site, typically of less than 2 hectares. Some
+                                                             substations may need construction of a short
+                                                             transmission line connecting to existing
+                                                             transmission lines, upgrading of existing or
+                                                             construction of short new access roads. Land for
+                                                             these structures may require temporary and
+                                                             permanent land acquisition from forest, residential
+Involuntary Resettlement (OP) (BP 4.12)   Yes
+                                                             and agriculture land. Scales of impacts are quite
+                                                             limited and can be minimized due to the flexibility
+                                                             in site selection.
+
+                                                             Rehabilitation of existing substations does not
+                                                             require land acquisition and will be implemented
+                                                             within the premises of these substations. However,
+                                                             some expansion subprojects will require a small
+           The World Bank                                                                               RESTRUCTURING ISDS
+           Indonesia Second Power Transmission Development Project (P123994)
+
+
+
+                                                                       amount of land, normally adjacent to the existing
+                                                                       sites.
+
+                                                                       For many expansion and new subprojects in PLN’s
+                                                                       proposed list, the site/land has already been
+                                                                       obtained by PLN.
+
+                                                                       Abbreviated LARAPs will be prepared for all new
+                                                                       substations and expansion of existing substations
+                                                                       that requires land acquisition in the first group and
+                                                                       any subproject identified and defined prior to
+                                                                       appraisal in the second group.
+
+                                                                       For the second group subprojects, a Land
+                                                                       Acquisition and Resettlement Policy Framework
+                                                                       will be prepared by PLN. A LARAP for each
+                                                                       subproject requiring land acquisition will be
+                                                                       developed during project implementation, when
+                                                                       the subprojects are proposed for financing.
+ Safety of Dams (OP) (BP 4.37)                   No
+ Projects on International Waterways (OP)
+                                                 No
+ (BP 7.50)
+ Projects in Disputed Areas (OP) (BP 7.60)       No
+KEY_POLICY_TABLE
+I. KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT
+
+ A.     SUMMARY OF KEY SAFEGUARD ISSUES
+
+
+ 1. Describe any safeguard issues and impacts associated with the Restructured project. Identify and describe any
+      potential large scale, significant and/or irreversible impacts.
+      The following impacts are identified during construction for rehabilitation and expansion of substations: (i) increased
+      level of dust and noise from the use and movement of machinery; (ii) non-toxic solid waste during construction; (iii)
+      oil spill or leakage from machinery or transformers; (iv) possible discovery of PCB and (v) worker health and safety
+      from existing EMF. Impacts during operation include (i) oil leaks from transformers; (ii) fire and emergency
+      preparedness; (iii) solid wastes and (iv) worker health and safety. Other issues for equipment upgrade and additions
+      that have been identified include managing potential legacy soil contamination and storing and disposing of old
+      transformers. For new substations, in addition to the above impacts, other issues include the management of
+      vegetation clearance and sediment and erosion control.
+
+      PLN have advised that PCB are not in use in any of the substations that will be upgraded or extended and are not used
+      in any new substations. As a precaution, PCB has been included in the list of potential issues to be managed for each
+      subproject.
+       The World Bank                                                                                   RESTRUCTURING ISDS
+       Indonesia Second Power Transmission Development Project (P123994)
+
+
+
+  Land acquisition processes, including public consultation and satisfactory compensation for the population residing
+  in the project area is the main social issue under the project. Since land acquisition is limited, impacts on the individual
+  project affected people (PAP) is normally modest and limited in the acquisition of small pieces of land or cutting down
+  of a few trees. There will be no worker camps. The social nuisances from construction (noise, dust, traffic, etc.), will
+  be managed under the EMP.
+
+  With regards to land acquisition, in Group 1 there is no new substations to be constructed. Draft LARAP of two
+  subprojects which are proposed for Group 2 have been reviewed. These are Gedong Tataan Substation in Lampung
+  and Tembilahan Substation in Riau. The land required for each substation is about 20,000m2 (2 hectares) and are
+  owned by only one land owner in case of Gedong Tataan and four land owners in case of Tembilahan. No significant
+  impact to the land owners was observed as the lands are not used for productive purpose and none of the owners
+  earn income from the lands.
+
+
+
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area.
+  No long-term adverse impact is envisaged due to the project activities. The reinforcement of substations will result in
+  improvement of power supply adequacy and quality in the project areas, which is an ingredient for economic growth
+  and household quality of life.
+
+
+3. Describe any potential alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+  For those subprojects in Group 1 which involves land acquisition, alternatives were considered to minimize impacts
+  on resettlement and environment.
+  For new substations in Group 2, the specific location is flexible within a defined area. The impact on resettlement
+  and environment will be assessed for alternative sites as part of the site selection process.
+
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower
+  capacity to plan and implement the measures described.
+  The borrower has prepared the following documents:
+
+  1. An EMP for upgrades and expansions of existing substations. This EMP for Upgrades covers a large number of
+  small, discrete substation upgrade and / or extension subprojects, across five PLN Project Offices. This approach
+  replaces a large number of repetitive and identical EMPs.
+  These projects have very small footprints, mostly within the boundaries of existing substations, and the severity and
+  risk environmental and social impacts are low. The potential environmental and social issues of most of these
+  subprojects are very similar (with few exceptions which will be separately addressed in the EMP). Furthermore, since
+  all subcomponents will be owned by PLN, the EMP aspects of: institutional arrangements, occupational health and
+  safety, and emergency preparedness and response systems are established by PLN corporate policy and will be the
+  same for all of the subprojects.
+
+  The EMP contains standard mitigation and monitoring plans to cover typical impacts from upgrading equipment and
+  installing new equipment at substations, including worker health and safety, earthworks and solid and hazardous
+  waste management. The EMP also contains standard EMP monitoring, reporting and review processes to streamline
+  processes across the Project Offices and the subprojects.
+     The World Bank                                                                              RESTRUCTURING ISDS
+     Indonesia Second Power Transmission Development Project (P123994)
+
+
+
+However, each subcomponent is unique in the sense that: (a) it is situated at its? own unique location, (b) public
+consultations would involve different affected groups, and (c) the outcome of the public consultation may present
+special environmental or social issues. Therefore, there is a screening process for each site to determine whether
+there are social and /or environmental risks beyond those covered in the standard mitigation and monitoring plans.
+Additional specific mitigation plans, and monitoring plans have been developed for those sites with unique situations.
+
+2. An Environmental and Social Management Framework (ESMF), to ensure that subprojects in Group 2 to be
+financed under IPTD2 meets World Bank safeguard policy requirements. The framework provides guidance for
+preparation, appraisal and implementation of Environmental Management Plans and the roles and responsibilities of
+each institution.
+
+It is expected that the subprojects will also meet all relevant environment requirements and processes under
+Indonesian regulations and laws. Note that for the type and scale of the projects, no AMDAL (EIA) is required under
+the Indonesian regulations and laws for any of the proposed activities. For a new substation associated with a new
+transmission line, an UPL / UKL (EMP and Environmental Monitoring Plan) is required. There is no environment
+requirement for a new substation, which is connected to existing transmission lines and for substation upgrades and
+extensions.
+
+Environmental Codes of Practice (ECOP- standard environmental specifications for contractors) have been developed
+for the five types of physical works listed below as part of ESMF:
+•     Rehabilitation of substations: install/replace transformers and other equipment within their existing property
+boundaries;
+•     Expansion of substations: require additional land adjacent to existing substations;
+•     Construction of new substations: construction of typical on-site components of a substation;
+•     Construction of transmission branches to connect new substations to the existing sub-transmission network;
+•     Upgrading of existing access roads and a new road.
+
+3. Draft EMPs for two new subprojects in Group 2, i.e., Gedong Tataan and Tembilahan substations have been
+reviewed by the Bank and found satisfactory. However, these subprojects will be fully appraised with other
+subprojects in Group 2 during implementation.
+
+Environment impacts will be mitigated according to measures set out in the EMPs. Measures include the following:
+(i) the construction site will be sprinkled with water during dusty conditions (ii) construction activities will be
+performed only during normal working hours; If construction activities have to be performed before or after the
+specified time limits, the local society must be notified in advance; (iii) Contaminated soils and solid waste will be
+removed and disposed to sites approved by local authorities; (iv) Bidding documents shall prohibit procurement of
+equipment containing PCB. For the construction phase, the EMP for each substation (including the Environmental
+Codes of Practice) will be included in the bidding documents and contracts as legal obligations for contractors to
+implement. During operation, the EMP will be transferred to the respective operating entities for implementation.
+
+4. Land Acquisition and Resettlement Policy Framework as guidance for preparing and implementing the land
+acquisition of the subprojects in Group 2. The Framework provides guidance on general principles of land acquisition
+and resettlement that conform with the World Bank?s OP 4.12 on Involuntary Resettlement, the requirement for
+preparing the LARAP for subprojects proposed for financing, including the process of LARAP approval and
+implementation; socioeconomic survey and inventory of affected people and assets; compensation scheme and
+categories of affected persons; institutional responsibilities; monitoring and evaluation and the grievance mechanism.
+     The World Bank                                                                             RESTRUCTURING ISDS
+     Indonesia Second Power Transmission Development Project (P123994)
+
+
+
+5. Indigenous Peoples Planning Framework (IPPF) providing guidelines for the preparation and implementation of
+Indigenous Peoples Plan in Group 2, if the subprojects will affect indigenous peoples. The Framework regulates the
+need for preparing the Indigenous Peoples Plans for any proposed subprojects that are found to affect indigenous
+peoples. The Framework also provides guidelines for the indigenous peoples screening in the project area,
+preparation of Social Assessment when necessary, the main principles to be followed when the subprojects affect
+indigenous peoples, reporting, monitoring and documentation and the grievance mechanism.
+The Framework describes how the project implementing unit can ensure that free, prior and informed consultations
+are undertaken, in a language spoken by, and location convenient for, potentially affected IP. The views of IP are to
+be taken into account during preparation and implementation of any subproject, while respecting their current
+practices, beliefs and cultural preferences. The outcome of the consultations will be documented into the subproject
+documents.
+
+6. Draft LARAPs for two new substations in Group 2: i.e Tembilahan Substation in Riau province, and Gedong
+Tataan Substation in Lampung province have been reviewed by the Bank and found satisfactory. Full appraisal of the
+substations will be fully carried out later during implementation with other subprojects in Group 2
+
+In both subprojects, since the land required for new substation is more than one hectare, the process of land
+acquisition will follow the national regulation to use the Land Acquisition Committee (LAC) of the respective local
+government and the land price for compensation will be appraised by the land appraisal team/institution.
+
+Due diligence was conducted for Batulicin substation in South Kalimantan province, for which the land acquisition
+was completed in 2010. The World Bank will finance the expansion of the substation. The process of land acquisition
+was followed national regulation (Perpres 36/2005 jo 65/2006) and its implementation guideline, Regulation of BPN
+Head No. 3/2007.
+Land acquisition was implemented by Kabupaten Land Acquisition Committee (LAC) of Kabupaten Tanah Bumbu,
+South Kalimantan. Value of land was valued by the land appraisal team established by the LAC. This value became a
+reference during the negotiation.
+
+Borrower capacity:
+
+PLN will be the implementing agency and six regional project management offices (PMOs) in Java-Bali, Sumatera,
+Kalimantan and Sulawesi will be directly in charge of managing construction of the subprojects, including safeguard
+responsibilities. The Planning and Affiliation Development Directorate (PLAD) and Construction and Renewable
+Energy Directorate (CRED) at PLN headquarters will be responsible for overall coordination and oversight during
+project preparation and implementation.
+
+PLN has experience in preparing and implementing two on-going transmission projects financed by the World Bank.
+At PLN headquarters a dedicated unit within the PRMD is responsible for coordinating environmental and social issues
+during preparation and implementation of the project. The unit?s manager and staff who are also coordinating other
+World Bank financed projects have adequate knowledge and experience with the Bank policies. PLN headquarters is
+responsible for the preparation of ESMF, LARPF, and IPPF and during implementation, for overall coordination and
+reporting. It was agreed that PLN will employ a Project Management Consultant (PMC) including an
+environment/social specialist within a month after the effectiveness of the loan. The environment/social consultant
+will support the Environment Unit of PLAD to oversee project implementation.
+
+All six PMOs are staffed with dedicated environment and social staff, who are familiar with the Indonesian regulation
+on environment, EIA and EMP processes (called Amdal and UKL/UPL respectively) and land acquisition. The PMOs for
+       The World Bank                                                                               RESTRUCTURING ISDS
+       Indonesia Second Power Transmission Development Project (P123994)
+
+
+
+  Java-Bali and the PMO for Sumatra 2 (South Sumatra) have experience with implementation of WB financed projects.
+  The PMOs for Sumatra 1(North Sumartra), Kalimantan, and Sulawesi have no previous experience with the WB
+  project, but each has competent environment and social specialists as full-time permanent staff. The PMOs are
+  directly responsible for preparation and implementation of EMPs and, if required, LARAPs and IP Plans.
+
+  During preparation, environmental and social staff of all five PMOs received training in EMP, LARAP and IPP from the
+  Bank team in October 2011. During supervision, further training will be provided to PLN staff in charge of social and
+  environmental management. Progress of EMP, LARAP, and IP preparation and implementation will be carefully
+  monitored.
+
+
+5. Identify the key stakeholders and describe the mechanism for consultation and disclosure on safeguard policies, with
+  an emphasis on potentially affected people.
+  The key stakeholders have been identified as the land owners and occupiers (in the case of new substation sites) and
+  the immediate community surrounding the subproject sites.
+
+  All safeguard documents were publicly disclosed for at least two weeks and comments sought from the public.
+  Disclosure notices were broadcasted online and through newspapers at the provincial branch offices and main offices
+  of the PMOs from December 28, 2011 to January 10, 2012. Documents were available from PLN in Indonesian (hard
+  copies in the offices and a soft copy on the PLN website) for the public to read and comment on. The draft final
+  documents were disclosed on PLN website on January 2012 and the final documents were disclosed on PLN website
+  in March 2013. The draft final documents were also disclosed at the Infoshop in Washington D.C. in January 2012 and
+  the final documents were disclosed there in April 2013.
+
+  Each of the provincial branch offices of the PMOs where the subprojects are located advertised an “open office�? for
+  10 working days from December 28, 2012 to January 10, 2012, during which people could drop in to discuss the
+  project with staff knowledgeable about the project. There were no visitors to the open office days, and PLN received
+  no comments or feedback from the public or key stakeholders. Consultation details have been recorded in the final
+  versions of the documents.
+
+  For the two new substation sites in Group 2 for which LARAP and EMP were prepared (Gedong Tataan and
+  Tembilahan) one public meeting and consultations has been carried out at or near the proposed sites for affected
+  stakeholders to attend. The consultation was undertaken in parallel with the survey for the LARAP and EMP
+  preparation in November 2011. All feedback received has been recorded in the final versions of the documents.
+
+  For all other new substation sites in the second group, the PMOs will hold at least one public consultation meeting at
+  or near the proposed sites. For all substation upgrades and extensions, the documents will be disclosed online and
+  through newspapers, documents will be available in English and Bahasa for comment, and the PMOs will hold “open
+  office�? days as close to the sites as possible with staff available to consult with the public.
+
+  The first restructuring, which was to enable the financing of substations at higher transmission voltages, was approved
+  and disclosed on April 15, 2018. The second restructuring, which is focused on improving the quality and reliability of
+  power supplies with a lower energy generation produced, does not trigger new safeguards policies nor change the
+  project category nor raise new safeguards issues. The ISDS, with necessary update, is to be disclosed in the
+  ImageBank.
+                         The World Bank                                                                        RESTRUCTURING ISDS
+                         Indonesia Second Power Transmission Development Project (P123994)
+
+
+
+DISCLOSURE_TABLE
+B.                   DISCLOSURE REQUIREMENTS
+ENV_TABLE
+ Environmental Assessment/Audit/Management Plan/Other
+
+        Date of receipt by the Bank                                     Date of submission for disclosure
+        13-Jan-2012                                                     16-Jan-2012
+         For Category ‘A’ projects, date of distributing the Executive Summary of the EA to the Executive Directors
+
+
+         “In country�? Disclosure
+
+            Country                                                        Date of Disclosure
+            Indonesia                                                      28-Dec-2011
+            Comments
+
+
+
+
+RESETTLE_TA BLE
+
+
+
+
+Resettlement Action Plan/Framework Policy Process
+
+Date of receipt by the Bank                                               Date of submission for disclosure
+13-Jan-2012                                                               16-Jan-2012
+“In country�? Disclosure
+
+          Country                                                          Date of Disclosure
+          Indonesia                                                        28-Dec-2011
+           Comments
+
+
+INDIG ENOUS_TA BLE
+
+
+
+
+Indigenous Peoples Development Plan/Framework
+
+Date of receipt by the Bank                                                Date of submission for disclosure
+13-Jan-2012                                                                16-Jan-2012
+“In country�? Disclosure
+           The World Bank                                                             RESTRUCTURING ISDS
+           Indonesia Second Power Transmission Development Project (P123994)
+
+
+
+ Country                                                         Date of Disclosure
+ Indonesia                                                       28-Dec-2011
+ Comments
+
+
+
+
+COMPLIANCE_TABLE
+  C.   COMPLIANCE MONITORING INDICATORS AT THE CORPORATE LEVEL
+
+EA_TABLE
+ OP/BP/GP 4.01 - Environment Assessment
+ Does the project require a stand-alone EA (including EMP) report?                    Yes
+
+ If yes, then did the Regional Environment Unit or Practice Manager (PM) review
+                                                                                      Yes
+ and approve the EA report?
+
+ Are the cost and the accountabilities for the EMP incorporated in the credit/loan?   Yes
+
+
+
+ IP_TABLE
+ OP/BP 4.10 - Indigenous Peoples
+ Has a separate Indigenous Peoples Plan/Planning Framework (as appropriate)
+                                                                                      Yes
+ been prepared in consultation with affected Indigenous Peoples?
+
+ If yes, then did the Regional unit responsible for safeguards or Practice Manager
+                                                                                      Yes
+ review the plan?
+
+ If the whole project is designed to benefit IP, has the design been reviewed and
+                                                                                      Yes
+ approved by the Regional Social Development Unit or Practice Manager?
+
+
+
+ IR_TABLE
+ OP/BP 4.12 - Involuntary Resettlement
+ Has a resettlement plan/abbreviated plan/policy framework/process framework
+                                                                                      Yes
+ (as appropriate) been prepared?
+
+ If yes, then did the Regional unit responsible for safeguards or Practice Manager
+                                                                                      Yes
+ review the plan?
+
+ Is physical displacement/relocation expected?                                        No
+
+ Is economic displacement expected? (loss of assets or access to assets that leads
+                                                                                      No
+ to loss of income sources or other means of livelihoods)
+
+
+
+ PDI_TABLE
+            The World Bank                                                             RESTRUCTURING ISDS
+            Indonesia Second Power Transmission Development Project (P123994)
+
+
+
+    The World Bank Policy on Disclosure of Information
+    Have relevant safeguard policies documents been sent to the World Bank for
+                                                                                       Yes
+    disclosure?
+
+    Have relevant documents been disclosed in-country in a public place in a form
+    and language that are understandable and accessible to project-affected groups     Yes
+    and local NGOs?
+
+
+
+    ALL_TABLE
+    All Safeguard Policies
+    Have satisfactory calendar, budget and clear institutional responsibilities been
+                                                                                       Yes
+    prepared for the implementation of measures related to safeguard policies?
+
+    Have costs related to safeguard policy measures been included in the project
+                                                                                       Yes
+    cost?
+
+    Does the Monitoring and Evaluation system of the project include the monitoring
+                                                                                       Yes
+    of safeguard impacts and measures related to safeguard policies?
+
+    Have satisfactory implementation arrangements been agreed with the borrower
+                                                                                       Yes
+    and the same been adequately reflected in the project legal documents?
+
+
+
+
+II. APPROVALS
+
+
+                                             Tendai Gregan
+    Task Team Leader(s)
+                                             Stephan Claude Frederic Garnier
+
+    Approved By
+
+    Practice Manager/Manager
+
+.
+
+
+    Note to Task Teams: End of system generated content
+

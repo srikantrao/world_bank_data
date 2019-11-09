@@ -1,0 +1,539 @@
+﻿                     INTEGRATED SAFEGUARDS DATASHEET
+                             APPRAISAL STAGE
+
+I. Basic Information
+Date prepared/updated: 6/12/2015                                                      Report No.:    86957
+1. Basic Project Data
+Country: Nigeria                                   Project ID: P120207
+Project Name: Nigeria Power Sector Guarantees Project
+Task Team Leader: Erik Magnus Fernstrom
+Estimated Appraisal Date: 26-March-2014            Estimated Board Date: 1-May-2014
+Managing Unit: AFTG2                               Lending Instrument: PRG
+Sector: Power (100%)
+Theme: Infrastructure services for private sector development (100%)
+IBRD Amount (US$m.):                0
+IDA Amount (US$m.):                 0
+GEF Amount (US$m.):                 0
+PCF Amount (US$m.):                 0
+Other financing amounts by source:
+         Borrower                                                               0.00
+         IBRD Guarantee (up to)                                             395.00
+Environmental Category: A - Full Assessment
+Simplified Processing                              Simple []            Repeater []
+Is this project processed under OP 8.50 (Emergency Recovery) or OP
+                                                                          Yes [ ]    No [X]
+8.00 (Rapid Response to Crises and Emergencies)
+
+2. Project Objectives
+The development object of the PSGP Project is to increase the supply of electricity to the
+Nigerian consumers.
+
+3. Project Description - Description of the PRG Series
+The proposed Series of PRGs (the Series) will support the implementation of the Roadmap for
+Power Sector Reforms. Each PRG will support a specific transaction, such as a greenfield IPP, a
+GENCO privatization, or a DISCO privatization. Each of the transactions supported will fall
+under one of the PRG Series Sub-Components (described below) and the commercial, technical,
+economic, financial, safeguards due diligence will be similar for each transaction as described in
+this PAD. The PRG Series will support transactions on a first-come-first-served basis. As per the
+FGN’s request and FGN’s borrowing plan with the Bank, the proposed Series is initially expected
+to be capped at US$700 million in the form of IBRD PRG support. Guarantees will be provided
+in support of private transactions, as and when such transactions are ready. The proposed support
+(up to US$395 million) for Azura Power and Exxon QIPP will form an integral part of the series.
+Subsequent transactions will be presented to the Board for approval as additional financing to the
+PSGP PRG Series.
+
+The proposed Series contains: Component 1: PRG Series with three sub-components based on the
+type of transactions supported:
+             (i) Sub-Component 1: Greenfield IPP Transactions;
+             (ii) Sub-Component 2: Privatization of GENCOs; and
+             (iii) Sub-Component 3: Privatization of DISCOs.
+Sub-Component 1: Greenfield IPP Transactions: Support to greenfield IPPs will include the
+option of both credit enhancement for NBET and private debt mobilization support, i.e.: (a) the
+NBET credit enhancement guarantee, with or without Letter of Credit; (b) the commercial debt
+mobilization guarantee; or (c) a combination of both forms of guarantees. The first generation of
+fully project financed IPPs will need a reasonable securitization package to close, as most of the
+key agreements with responsible government institutions (such as NBET, Market Operator,
+NERC) have yet to be tested. The FGN has agreed to provide a backing of NBET’s obligations
+and a combination of termination and liquidity cover through MIGA/IBRD. As the commercial
+framework and market performance is confirmed, subsequent pipeline transactions should expect
+gradually lower securitization support both in terms of outright FGN support to NBET as well as
+WBG guarantee instruments until the market develops to the point where willing buyer-willing
+seller transactions are possible. Annex 2 provides a brief description of the pipeline for greenfield
+IPPs. Two greenfield IPP transactions have been identified for PRG support (the Azura Edo and
+the Qua Iboe IPPs). These are described below in more detail. Additional IPPs are being
+identified for support as transactions mature.
+
+Sub-Component 2: Privatization of GENCOs: The structures of the PRGs in support of the
+GENCOs will be similar in terms to greenfield IPPs. The PRGs could support the initial capital
+mobilization that is anticipated to be carried out by the new owners of the 6 new GENCOs. New
+finances could be used for expansion of the available capacity of the plants or for rehabilitation of
+the currently installed but unavailable capacity. The PRG support will be for: (a) the NBET credit
+enhancement guarantee, with or without Letter of Credit; (b) the commercial debt mobilization
+guarantee; or (c) a combination of both forms of guarantees. However, currently, the capital
+expenditure (CAPEX) plans are being developed by the new owners who have recently taken
+over the GENCOs. Annex 2 provides a description of all the privatized GENCOs (not the
+prioritization of transactions). The privatized GENCOs include both gas fired as well as
+hydropower companies.
+
+Sub-Component 3: Privatization of DISCOs: It is important that each link in the energy value
+chain be fully functional for the reforms to be effective. The ability, therefore, of the DISCOs to
+successfully turn around dismal customer service levels and improve revenues flows to finance
+investments upstream in the value chain will make or break the power sector reform efforts. The
+PRG structures available to DISCOs may fall into one of the following categories: (a) commercial
+debt mobilization guarantee; and/or (b) regulatory risk guarantee (draft Term Sheets in Annex
+10).The PRGs to be provided under sub-component 3 are necessary to ensure the DISCOs are
+able to attract the CAPEX financing required to implement the investment plans proposed by the
+new owners, and provide confidence to commercial lenders that the regulatory process will not be
+reversed. The criteria used for selecting DISCOs will include, inter alia, their revenue potential,
+cost effectiveness (using population density as a proxy), industrial customer base and access to
+electricity generation. Out of the 11 DISCOs being privatized, four have been identified as
+advanced stage candidates: Abuja DISCO, Benin DISCO, Eko DISCO, and Ikeja DISCO. Annex
+2 provides a description of the four DISCOs.
+
+The First Two IPP Transactions in the PRG Series (Under Sub-Component 1)
+
+The first two front-runner transactions (up to US$395 million) are fully described in this PAD. By
+mitigating the uncertainty that these frontrunner transactions face, the PRG Series will augment
+the reforms and build market confidence and set industry benchmarks. The successful
+implementation of the first set of transactions will be critical to the success of the power reform
+agenda, as it will confirm the viability of the financial, transactional and regulatory systems put in
+place under the reform program. In the longer term, as Nigeria’s power sector reforms progress
+through the transitional phase, it is expected that the need for risk mitigation will decrease, as
+NERC, NBET, and TCN establish track records of successful financial and operational
+performance. The FGN has nominated, as transactions that require credit enhancement and debt
+mobilization support in the short to medium term, a total of 18 new greenfield IPPs, 6 privatized
+GENCOs, and 11 privatized DISCOs. This PAD presents the PRG design for the complete Series
+and appraises the overall scope of the universe of transactions to be supported. It also presents the
+first two greenfield IPP transactions for Board approval. A pipeline of IPPs, GENCOs, and
+DISCOs that are in advanced stage of preparation has been established and will be considered for
+PRGs when mature. Subsequent PRGs will be presented to the Board as additional financing to
+the PSGP.
+
+The first two IPP transactions will increase the installed power generation capacity by around
+1,000 MW, and deploy nearly US$2 billion in financing, which includes about US$1.7 billion of
+private capital. The initial set of greenfield IPP transactions proposed for PRG coverage are as
+follows: Azura Edo IPP (Azura) and Qua Iboe IPP (QIPP). These initial transactions inherently
+possess a higher level of risk and require diligent support in order to achieve success. In the long
+term, the risks as well as costs of such transactions are expected to reduce. The two greenfield
+IPP transactions that have been identified for PRG support under Sub-Component 1 are described
+as follows (draft Term Sheets in Annex 10):
+
+        a) Transaction 1: Azura Edo IPP (up to US$245 million): The Azura Edo IPP
+           includes: (a) The NBET credit enhancement guarantee (up to US$120 million), and
+           (b) The commercial debt mobilization guarantee (up to US$125 million). This open-
+           cycle gas-fired power plant is being developed by Azura Power West Africa Limited
+           (the “Company�?), a Special Purpose Vehicle (“SPV�?) incorporated in Nigeria, with
+           the sole purpose of developing a 459 MW open-cycle gas power plant located in the
+           vicinity of Benin City, in Edo State, Nigeria. The Sponsors are: (a) Amaya Capital
+           Ltd., a principal investment firm and majority investor in Azura Power Holdings
+           Ltd., its dedicated vehicle for investing in IPPs and the power distribution sector in
+           Africa, jointly owned with the American Capital Energy and Infrastructure Fund, a
+           fund managed by American Capital Ltd.; (b) Aldwych International Ltd.
+           (“Aldwych�?), an international power developer focusing on Sub -Saharan Africa; (c)
+           African Infrastructure Investment Fund 2 (“AIIF2�?), an Africa -focused fund
+           managed by the Macquarie Group and Old Mutual which will invest through both its
+           Rand-denominated and US$-denominated vehicles; and (d) Asset and Resource
+           Management Ltd., a leading Nigerian asset manager. The Sponsors are investing in
+           the Company through Azura Edo Ltd. (the “Shareholder�?), an SPV incorporated in
+           Mauritius. The Edo State Government, the local State authority, is also expected to
+           have a 2.5 percent shareholding in the Company. The Power Plant will be located in
+           Edo State and will have an installed capacity of about 1,000 MW, developed in two
+           phases (a first phase of 459 MW and a second phase of 500 MW. It is possible that
+           the Company later converts the first phase project into a combined cycle plant and
+           then adds ‘Phase 3’ thus the total capacity could reach 1,500MW). The Plant is
+           expected to include 4 high voltage (15 kV to 330 kV) transformers, one for each of
+           the generator sets and a switchyard that is designed to accommodate additional
+           capacity in the event that plant is converted into combined-cycle. Power will be
+           evacuated from the switchyard through a single tower on a new 330 kV transmission
+           line connecting the plant to the adjacent 300/132 kV new Benin North substation,
+           currently under construction. Total transaction costs are estimated at US$813 million,
+           expected to be financed on 72.5:27.5 debt-to-equity ratio. The most advanced of the
+           IPPs, Azura has already executed its PPA with NBET as part of the Presidential
+           Signing Ceremony held 22 April 2013 in Abuja, although certain aspects, such as the
+           security package provided by NBET under the PPA, and termination provisions
+           under the Put Call Option Agreement (PCOA), including the final PRG terms, are
+           being finalized.
+
+           (a) Transaction 2: Qua Iboe IPP (up to US$150 million): The Qua Iboe IPP includes
+           the NBET credit enhancement guarantee (up to US$150 million). This 533 MW
+           combined-cycle gas-turbine (CCGT) power plant is being developed by a Joint
+           Venture (JV) between Mobil Producing Nigeria Unlimited (MPN) and the Nigerian
+           National Petroleum Corporation (NNPC). MPN is a wholly owned indirect affiliate
+           of Exxon Mobil Corporation, and is the operator of the JV. The JV is involved in the
+           exploration, development, and production of several oil and gas concessions in
+           Nigeria. The power plant will be constructed in Ibeno, Akwa Ibom State, on the
+           south-eastern coast of Nigeria. The JV will also be responsible for the construction of
+           a new, 58-km, 330 kV double-circuit transmission line connecting the plant to the
+           new Ikot Abasi substation. The new substation at Ikot Abasi is part of a larger plan
+           being progressed by the Transmission Company of Nigeria and the Niger Delta
+           Power Holding Company Ltd. to extend the grid from Ikot Ekpene to Ikot Abasi
+           through a new 78 km transmission line that is scheduled to be completed by mid-
+           2014. Selection of EPC contractors for the power plant and the transmission line is
+           being finalized. QIPP has met the disclosure and consultation requirements for its
+           power plant ESIA. The Nigerian Electricity Regulatory Commission has issued MPN
+           the requisite power generation license. Total cost of the power plant is estimated at
+           US$1 billion. Transmission line is estimated to cost US$136 million. Major
+           agreements underpinning the project, e.g. the PPA and PCOA, are being finalized.
+
+4. Project Location and salient physical characteristics relevant to the safeguard analysis
+The project is national in scope. The PRGs will cover payments for electricity that will be
+supplied to the national grid (through existing or new associated infrastructure).
+
+5. Environmental and Social Safeguards Specialists
+   Mr Thomas E. Walton (GENDR)
+   Ms Paula F. Lytle (GSURR)
+   Mr Amos Abu (GENDR)
+6. Applicable Environmental and Safeguards Policies
+
+VII. Environmental and Social Safeguards
+
+Performance Standards (PS) for Azura IPP
+
+     Performance Standards (PS)                                                         Triggered
+    PS 1. Assessment and Management of Environmental and Social Risks and Impacts          YES
+    PS 2. Labor and Working Conditions                                                     YES
+    PS 3. Resource Efficiency and Pollution Prevention                                     YES
+    PS 4. Community Health, Safety and Security                                            YES
+    PS 5. Land Acquisition and Involuntary Resettlement                                    YES
+    PS 6. Biodiversity Conservation and Sustainable Management of Living Natural            NO
+    Resources
+    PS 7. Indigenous People                                                                 NO
+    PS 8. Cultural Heritage                                                                YES
+
+   Performance Standards (PS) for QIPP
+Performance Standards (PS)                                                            Triggered
+PS 1. Assessment and Management of Environmental and Social Risks and Impacts            YES
+PS 2. Labor and Working Conditions                                                       YES
+PS 3. Resource Efficiency and Pollution Prevention                                       YES
+PS 4. Community Health, Safety and Security                                              YES
+PS 5. Land Acquisition and Involuntary Resettlement                                      YES
+PS 6. Biodiversity Conservation and Sustainable Management of Living Natural             YES
+Resources
+PS 7. Indigenous People                                                                  NO
+PS 8. Cultural Heritage                                                                  YES
+
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+and describe any potential large scale, significant and/or irreversible impacts:
+
+        1.      PRG Series
+
+The PRG Series is classified as ‘Category A’ because of its geographical extent and the power
+sector investments it will support - a number of which have major environmental impacts. World
+Bank Performance Standards (PSs) for Projects Supported by the Private Sector (OP 4.03) apply
+to the Azura IPP, QIPP, and subsequent transactions in this Series. Environmental and social
+safeguards appraisal has been carried out by the joint WBG team. The safeguards preparation
+approach for PSGP is consistent with the overall project processing arrangement, in which two
+PRGs are presented for Board approval now, and subsequent investments for which PRGs are
+being sought will be presented to the Board as additional financing. A prerequisite for Board
+presentation of any investment will be completion and disclosure of the appropriate safeguards
+instruments satisfactory to the Bank. In Nigeria, ESIA drafts are disclosed in the project-affected
+area as part of the FMEnv review process that includes a public hearing and comment period. If
+the draft disclosed by FMEnv has already been cleared by the Bank, this disclosure will also
+satisfy the disclosure requirement of PS 1; otherwise, the proponent will make a separate in-
+country disclosure after Bank clearance. Depending on investment type and setting, the main
+environmental impact management instrument to satisfy PS 1 requirements will be one of the
+following:
+
+            (i) For new IPPs – a full ESIA: The IPPs nominated by FGN are all gas-fired
+            generation plants of moderate size, many if not all of which would be classified in
+            Category B if they were being supported as individual transactions. None of the
+            power plants under consideration is expected to be located on or near critical natural
+            habitats. However, FMEnv has been requiring full ESIAs for these plants, and the
+            Bank will do the same. Ancillary facilities, the most significant of which are gas
+            pipelines and power transmission lines, will be covered in the IPP ESIA when they
+            are being constructed by the developer. When they are being constructed by NGC or
+            TCN and thus have separate ESIAs in accordance with Nigerian regulations, those
+            ESIAs will also have to be acceptable to the Bank, disclosed, and included in the
+            documentation for Board presentation. Where a new IPP requires land acquisition, a
+            RAP will also have to be acceptable to the Bank, disclosed and included in the Board
+            presentation.
+
+            (ii) For privatization of existing generating facilities: Depending on the
+            characteristics of the individual transactions, GENCO privatizations (which may be
+            gas fired or hydropower plants) will be treated as Category A or B under PSGP. An
+            environmental audit acceptable to the Bank, including a remedial action plan to
+            address deficiencies, risks, or legacy issues identified in the audit. The decision on
+            disclosure of an audit will be made on a case-by-case basis with the client; some
+            audits contain information that is sensitive from a security standpoint, and others do
+            not. Clear responsibilities for implementation of the various elements of the action
+            plan will have to be spelled out in the legal agreements for the privatization.
+
+            (iii) For privatization of distribution companies: Privatization of distribution
+            companies would be classified in Category B if it were being financed as a separate
+            transaction. The investments the DISCOs will need to make in their respective
+            systems may not be known with certainty at the time a PRG is issued. They are
+            unlikely to require full ESIAs under World Bank or Government procedures, but new
+            infrastructure investments by the DISCOs will need some level of environmental
+            assessment culminating in formulation of environmental and social management
+            plans (ESMP). For work at existing substations or other facilities that may be
+            included in a DISCOs program, an environmental audit will be conducted as a first
+            step in the implementation process to determine the physical state of the facilities, the
+            viability of investing in their rehabilitation from an environmental management
+            perspective, and the potential environmental and social impacts associated with the
+            rehabilitation project. Under these circumstances, an Environmental and Social
+            Management Framework (ESMF) has been prepared to guide DISCOs in carrying out
+            the necessary environmental and social assessments or audits and preparing the
+             appropriate safeguards instrument for each distribution system PRG. The level of
+             detail and rigor in the assessment or audit should be consistent with Category B.
+In addition to the safeguards instruments for individual investments, FGN will undertake a
+Sectoral Environmental and Social Impact Assessment (SESIA) for development of gas-fired
+generating plants in Nigeria. The terms of reference for the SESIA have been drafted by the
+Environment, Resettlement and Social Unit (ERSU) in PHCN, approved in draft by the Bank, and
+presented for stakeholder consultation at a workshop conducted by ERSU on 24 October, 2012.
+Comments and recommendations from the stakeholders have been taken into consideration in the
+final terms of reference. The SESIA will be conducted early in PSGP implementation, reviewed
+and approved by the Bank, disclosed, and made available to IPP developers to inform the ESIAs
+for their respective investments.
+
+        2.      First Two IPP Transactions
+
+The Azura Edo site is in a disturbed area that would not be considered natural habitat. Azura is
+acquiring land from two communities and have prepared a Resettlement Action Plan (RAP)
+approved by the Bank for this purpose. The Azura Edo plant will receive gas through short
+pipeline spurs from the Escravos-Lagos Pipeline System (ELPS) that has already been the subject
+of a Pipeline Integrity Study conducted for WAGP and updated for NEGIP. The plant will
+evacuate power to nearby TCN substations through short transmission lines - less than 1 km for
+Azura Edo. PS 8 applies to the project because the land being acquired for Azura Edo contains
+some shrines and sacred areas of local cultural importance. In addition, the excavation of the
+power plants’ sites and ancillary activities relating to gas pipelines and mounting of the
+transmission lines may lead to chance finds of physical cultural properties. The Azura Edo ESIA
+and RAP provide for protection of known cultural resources, and the ESMPs for all plants will
+include measures to protect chance finds. PS 2, 3, and 4 also apply because of the industrial
+nature of the power plant workplaces, their emissions of air pollutants and greenhouse gases, and
+the risks, albeit minor, that gas-fired power plants and gas pipelines pose to nearby communities.
+The requirements of all triggered performance standards are met in the ESMPs included in the
+ESIAs with the exception of PS 5, for which RAPs are prepared. The ESRS was disclosed on
+September 5, 2013.
+
+QIPP Plant will receive gas from the offshore Oso platform via a pipeline which will land at the
+NNPC/MPN’s Qua Iboe Terminal that abuts the plant site. Its power will be transmitted to TCN’s
+Ikot Abasi Substation through a 58-km line that will be operated by TCN. The QIPP transmission
+line crosses small amounts of swamp forest and other wetland, and also affects crops and
+productive trees. The routing of the line was designed to minimize impact on populated areas.
+The QIPP plant site is disturbed land. PS 2, 3, and 4 apply because of the industrial nature of the
+power plant workplaces, their emissions of air pollutants and greenhouse gases, and the risks,
+albeit minor, that gas-fired power plants and gas pipelines pose to nearby communities. PS 5, 6
+and 8 because the project’s gas pipeline and transmission line pass through some natural habitats,
+the project may involve or affect physical cultural resources, and it will require acquisition of
+land currently used for agricultural production. The requirements of all triggered performance
+standards are met in the ESMPs included in the ESIAs with the exception of PS 5, for which a
+RAP has been prepared. The ESIAs for the QIPP plant and QIPP transmission line were disclosed
+respectively on 19 June 2012 and 13 December 2012. The RAP for the QIPP transmission line
+was disclosed on 1 November 2013. The ESRS was disclosed by MIGA on June 17, 2014.
+2. Describe any potential indirect and/or long term impacts due to anticipated future
+activities in the project area:
+The ESMPs included in the ESIAs for the two plants indicate that nearly all potential adverse
+environmental, social, and health and safety impacts can be mitigated to low levels. None of the
+residual impacts are considered major, and the few that are predicted to be moderate after
+mitigation are: reduction in local biodiversity due to site clearing (Azura-Edo), and short-term
+noise impacts during construction at both locations. Loss of wetland associated with the QIPP
+transmission line is being minimized by modification of the originally-proposed alignment.
+Quantitative models were employed to analyze impacts on air quality and noise levels during
+plant operation – a process that involved consideration of cumulative impacts for the Azura-Edo
+plant because of the proximity of another emission source, the Ihovbor power plant. Modeling
+results predicted no violations of World Bank Group or WHO guidelines. Both plants would
+contribute to greenhouse gas emissions but to a much smaller extent than the most likely
+alternative power sources (fuel oil, coal, or individual diesel generators). Moderate positive
+impacts would occur in the forms of short-term employment during construction, service
+contracts for local firms during construction and operation, and training for local people to
+prepare them for possible longer-term employment at the plants.
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize
+adverse impacts. Other energy sources and fuel types were considered but determined either to
+be not feasible or less desirable environmentally. Alternative locations were examined, and the
+selections made were based on a combination of proximity to load, proximity to gas supply, and
+proximity to grid connection points. Alternative alignments were examined for the QIPP
+transmission line, and the selected alignment was one that minimized resettlement and wetland
+loss.
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+assessment of borrower capacity to plan and implement the measures described.
+Prior to the commencement of construction, Azura will appoint an Environmental, Health and
+Safety (EHS) professional and a community liaison officer both of whom will report to Azura’s
+General Manager. The EHS professional and the community liaison officer will have the
+responsibility for overseeing the development and implementation of the ESMP. Azura will
+establish an overarching policy defining the environmental and social objectives and principles
+that will guide the Project to achieve sound EHS and Social performance and as such the ESMP
+and IFC’s ESAP will be the basis of developing the thematic points of detailed management
+programs to support the policy objectives. These management programs will be compliant with
+IFC Performance Standards, WBG General and Thermal Power Plant EHS Guidelines, WHO
+standards, and Nigerian standards.
+
+MPN implements an Operations Integrity Management System (OIMS) to manage the Security,
+Safety, Health and Environmental (SSHE) risks inherent in its business operations. The OIMS
+provides a disciplined management framework, which will apply to all phases of the Project.
+MPN shall require the EPC contractors to have SSHE management systems in place comparable
+to the OIMS system. Within OIMS, MPN has an Environmental Management System (EMS) and
+Occupational Health and Safety System (OHS) to methodically identify, assess and manage
+Project activities that may potentially result in significant OHS and environmental impacts,
+including monitoring of contractors.
+
+NBET will rely on the Environment, Resettlement and Social Unit (ERSU) of the project
+implementation unit for NEGIP and NEDP for the management of safeguard policies. ERSU has
+demonstrated satisfactory capacity to address impacts of power project and associated facilities;
+in fact, the ERSU prepared both the ESMF and the RPF for NEGIP. NEGIP, TDP and NEDP
+supervision missions have shown that the ERSU's capacity to implement the ESMF properly for
+those projects is fully adequate. ERSU has overseen audits of substations, prepared ESMPs, and
+supervised preparation of RAPs and implementation of ESMPs for substation and distribution
+line improvements and extensions.
+
+In addition to the safeguards instruments for individual investments, FGN will undertake a
+Sectoral Environmental and Social Impact Assessment (SESIA) for development of gas-fired
+generating plants in Nigeria. The terms of reference for the SESIA have been drafted by the
+ERSU, approved in draft by the Bank, and presented for stakeholder consultation at a workshop
+conducted by ERSU on 24 October, 2012. Comments and recommendations from the
+stakeholders have been taken into consideration in the final terms of reference. The SESIA will
+be conducted early in PSGP implementation, reviewed and approved by the Bank, disclosed, and
+made available to IPP developers to inform the ESIAs for their respective investments.
+
+5. Identify the key stakeholders and describe the mechanisms for consultation and
+disclosure on safeguard policies, with an emphasis on potentially affected people.
+The Azura ESIA includes a detailed socio-economic assessment, stakeholder engagement and
+disclosure process. The RAP includes a detailed stakeholder engagement plan. A significant
+number of meetings took place between May 2010 and February 2012 such as preliminary
+community engagement exercise prior to socio-economic and valuation survey; valuation
+methodology; review of data collection; consultation with vulnerable groups, youth groups, and
+local traders; and address of grievances. Furthermore, Affected People and communities had the
+opportunity for informed participation in key phases of resettlement planning, as such, a series of
+meetings were held with community leaders, appointed community valuers, and the State
+Government to discuss entitlement matrix and gain feedback which were taken into account in
+finalizing the draft RAP for disclosure. Stakeholders in the project-affected area participated in
+the public hearing convened by FMEnv as part of the national ESIA review procedure. The
+issues identified have been/will be addressed in the respective assessments undertaken and
+management plans such as: (i) Local Employment and Procurement Policy; (ii) Local
+Employment Strategy; (iii) Comprehensive Community Investment Plan; (iv) Traffic
+Management Plan; and (v) Physical Cultural Resources Management Plan. There were no
+specific objections to the Project which is generally perceived as an opportunity to bring further
+development in the areas. As per its Stakeholder Engagement Plan, Azura Power will maintain a
+formal procedure for communications with the regulatory authorities and communities. The
+community liaison officer will be responsible for disseminating information, handling grievances
+and coordinating community communications through the course of the Project.
+
+The QIPP ESIA includes a detailed socio-economic assessment and stakeholder engagement and
+disclosure process. MPN has community relations principles and guidelines, which will be the
+basis of developing a project-specific Community Engagement Plan. The MPN guideline outlines
+a standard engagement procedure that is designed to provide transparent, two-way engagement
+with stakeholders. A Grievance Redress Mechanism is included as part of the RAP and the
+Community Engagement Plan will include a grievance redress procedure. In addition to
+consultations during ESIA preparation and participation in preparation of the RAP, stakeholders
+in the project-affected area participated in the public hearings convened by FMEnv as part of the
+national ESIA review procedure. Key issues identified by stakeholders included impacts on
+human health from air emissions and degradation of land and water resources. Communities
+along the transmission line were primarily concerned about impacts on land use and
+compensation. In addition, communities requested infrastructure improvements and other
+economic benefits, including local employment opportunities, and provision of electricity. Details
+of all the issues raised and interactions with the various stakeholders are included in the EIA. The
+extent of the information provided about the project was considered to be adequate and the
+stakeholder comments were considered to be free in their expression.
+
+
+
+B. Disclosure Requirements Date
+Environmental Assessment/Audit/Management Plan/Other:
+  Was the document disclosed prior to appraisal?                        Yes
+  Date of receipt by the Bank                                        02/01/2012
+  Date of "in-country" disclosure                                    03/05/2012
+  Date of submission to InfoShop                                     03/05/2012
+  For category A projects, date of distributing the Executive
+  Summary of the EA to the Executive Directors
+Resettlement Action Plan/Framework/Policy Process:
+  Was the document disclosed prior to appraisal?                        Yes
+  Date of receipt by the Bank                                        02/01/2012
+  Date of "in-country" disclosure                                    03/06/2012
+  Date of submission to InfoShop                                     03/06/2012
+Indigenous Peoples Plan/Planning Framework:
+  Was the document disclosed prior to appraisal?                        N/A
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+Pest Management Plan:
+  Was the document disclosed prior to appraisal?                        N/A
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+* If the project triggers the Pest Management and/or Physical Cultural Resources, the
+respective issues are to be addressed and disclosed as part of the Environmental
+Assessment/Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please explain why:
+
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is
+finalized by the project decision meeting)
+
+PS1. - Assessment and Management of Environmental and Social Risks and Impacts
+Does the project require a stand-alone EA (including EMP)          Yes [ x ] No [ ]               N/A [ ]
+report?
+If yes, then did the Regional Environment Unit or Sector Manager Yes [ x ]   No [ ]               N/A [ ]
+(SM) review and approve the EA report?
+Are the cost and the accountabilities for the ESAP incorporated in Yes [ x ] No [ ]               N/A [ ]
+the credit/loan?
+PS 2. – Labor and Working Conditions
+Does a Human resources policy has been agreed on as part of the    Yes [ x ] No [ ]               N/A [ ]
+ESMS?
+PS 3 - Resource Efficiency and Pollution Prevention
+Does the EA adequately address pollution prevention, control and Yes [ x ]   No [ ]               N/A [ ]
+abatement issues?
+Is a separate PMP/VMP required?                                     Yes [ ]    No [ ]   N/A [ x ]
+If yes, has the PMP/VMP been reviewed and approved by a
+safeguards specialist or Sector Manager? Are PMP/VMP                Yes [ ]    No [ ]   N/A [x ]
+requirements included in project design? If yes, does the project
+team include a Specialist?
+PS 4. Community Health, Safety and Security
+Does the EA adequately address communities and workers              Yes [ x ]   No [ ]   N/A [ ]
+exposure to hazards and safety issues?
+Has an Emergency Preparedness and Response Plan (EPRP) been Yes [ x ]           No [ ]   N/A [ ]
+prepared in stand-alone or as part of the ESAP?
+PS 5. Land Acquisition and Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy                     Yes [x ]    No [ ]   N/A [ ]
+framework/process framework (as appropriate) been prepared?
+If yes, then did the Regional unit responsible for safeguards or
+Sector Manager review the plan?                                     Yes [x ]    No [ ]   N/A [ x ]
+PS 6. Biodiversity Conservation and Sustainable Management of Living Natural Resources
+Does the project result in significant conversion or degradation of Yes []    No [ x ]  N/A [ ]
+natural habitats or threatening of endangered/iconic species?
+Have Biodiversity Action Plan (BAP) been prepared                   Yes []    No [ ]   N/A [ x]
+Does the project design include satisfactory mitigation measures    Yes [x]    No [ ]   N/A [ ]
+acceptable to the Bank?
+PS 7. Indigenous Peoples
+Has a separate Indigenous Peoples Plan/Planning Framework (as
+appropriate) been prepared in consultation with affected            Yes [ ]    No [ ]   N/A [x ]
+Indigenous Peoples?
+PS8. –Cultural Heritage
+Does the EA include adequate measures related to cultural           Yes [x]    No [ ]   N/A [ ]
+property?
+Does the credit/loan incorporate mechanisms to mitigate the         Yes [X]    No [ ]   N/A [ ]
+potential adverse impacts on physical cultural resources?
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the         Yes [X]    No [ ]   N/A [ ]
+World Bank's Infoshop?
+Have relevant documents been disclosed in-country in a public
+place in a form and language that are understandable and            Yes [X]    No [ ]   N/A [ ]
+accessible to project-affected groups and local NGOs?
+All Performance Standards
+Have satisfactory calendar, budget and clear institutional          Yes [X]    No [ ]   N/A [ ]
+responsibilities been prepared for the implementation of measures
+related to performance standards?
+Have costs related to safeguard measures been included in the       Yes [X]    No [ ]   N/A [ ]
+project cost?
+Does the Monitoring and Evaluation system of the project include
+the monitoring of safeguard impacts and measures related to         Yes [X]    No [ ]   N/A [ ]
+performance standards?
+Have satisfactory implementation arrangements been agreed with
+the borrower and the same been adequately reflected in the project Yes [X]     No [ ]   N/A [ ]
+legal documents?
+  D. Approvals
+
+Signed and submitted by:                              Name        Date
+Task Team Leader:                   Mr Erik Magnus Fernstrom   07/01/2015
+Environmental Specialist:           Mr Thomas E. Walton        07/01/2015
+Social Development Specialist       Ms Paula F. Lytle          07/01/2015
+Additional Environmental and/or     Mr Amos Abu
+Social Development Specialist(s):                              07/01/2015
+
+Approved by:
+Regional Safeguards Coordinator:    Hanneke van Tilburg        07/01/2015
+  Comments:
+Practice Manager                    Meike van Ginneken         07/01/2015
+  Comments:
+

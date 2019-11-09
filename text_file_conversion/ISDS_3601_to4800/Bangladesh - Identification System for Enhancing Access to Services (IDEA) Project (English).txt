@@ -1,0 +1,455 @@
+Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+I.  Basic Information
+ 
+Date prepared/updated:  01/25/2011 
+Report No.:  AC5915
+1. Basic Project Data  
+ 
+Country:  Bangladesh 
+Project ID:  P121528 
+Project Name:  BD Identification System for Enhancing Access to Services (IDEA) 
+Project 
+Task Team Leader:  Junghun Cho 
+Estimated Appraisal Date: January 27, 
+2011 
+Estimated Board Date: May 26, 2011 
+Managing Unit:  SASGP 
+Lending Instrument:  Specific Investment 
+Loan 
+Sector:  General public administration sector (60%);Information technology (40%) 
+Theme:  Other public sector governance (70%);Technology diffusion (30%) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+194.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER/RECIPIENT 
+24.00
+24.00 
+Environmental Category: C - Not Required 
+Simplified Processing 
+Simple [] 
+Repeater [] 
+Is this project processed under OP 8.50 (Emergency Recovery) 
+or OP 8.00 (Rapid Response to Crises and Emergencies) 
+Yes [ ] 
+No [X] 
+2. Project Objectives 
+The Project intends to support the second phase of Bangladesh#s long-term drive for 
+building a National ID scheme, building on successful outputs of the first phase project, 
+Preparation of Electoral Roll Project . Therefore, the Project will attempt to address 
+urgent deficiencies of current systems and to lay a foundation for following phases, by 
+issuance of ID cards with robust security features, developing capacity to provide identity 
+verification services, and developing capacity to use the ID system by other service 
+providers to improve efficiency and transparency. The project will begin to facilitate the 
+last goal, but does not anticipate full usage of the ID system by public service providers 
+by completion.  
+ 
+With this in mind, the Project Development Objective (PDO) is to establish an efficient, 
+secure and reliable national ID system in Bangladesh that serves as the basis for more 
+efficient, fair and transparent service delivery and further e-governance reform.   
+ 
+Page  2
+3. Project Description 
+Component 1: Regulatory, Policy Framework for the National Identification System and 
+Integration into Service Delivery (US$ 4.59)  
+ 
+This component will support the regulatory framework governing the issuance and 
+updating of identification numbers and the compilation, maintenance, and utilization of 
+the data associated with the identification system.  It would involve two sets of activities: 
+strengthening the legal and policy framework for the NID system housed in the NIDW, 
+and providing an operational framework for the use of the NID system by other entities.  
+ 
+#
+Legal and Policy Framework  for National ID System  
+ 
+The 2010 National ID and Registration Act provides a high-level framework for the 
+BEC, through the establishment of an independent National ID Wing, to maintain a 
+national identification system. While this provides a sound foundation, the operation of 
+the NID system requires far more detailed regulations which would regulate issues of 
+privacy, access to the information in the NID system by different categories of potential 
+users (including the full range of government agencies), and overall security of the 
+system. The Act does not establish rules for how the NID system should be used which 
+may lead to inconsistencies as various public agencies seek to mandate use of the existing 
+NID system and cards as part of their own service delivery.  
+ 
+The Project will provide technical assistance to BEC and other relevant agencies in 
+drafting NID regulations to address these issues.  NID regulations will cover operation of 
+the NID system and its use for verification of identity.  This scope reflects the BEC#s 
+mandate, which is limited to handling the issuance of NID cards and maintaining the NID 
+database and verification services. At the same time the BEC expects to have privacy and 
+security issues involving the NID addressed in a manner consistent with its own 
+regulations in legislation applicable to the entire Government.  It will ensure this 
+harmonization through continuing cooperation with other entities involved with e-
+governance and the inter-ministerial committee on information policy.  
+ 
+#
+Integration of the National ID system into management of service delivery in 
+select agencies  
+ 
+This subcomponent will provide technical assistance, advisory services, capacity 
+building, and limited equipment to agencies outside the BEC in order to identify and 
+prepare business processes and supporting software systems to utilize the NID system. 
+Such assistance would focus primarily on having a streamlined system for incorporating 
+verification of identity as is needed for the purposes of the selected agencies.  It also will 
+assist in the development or upgrading of database systems in these service providers 
+based on integrating the unique ID numbers for greater reliability, consistency, and 
+comprehensiveness.  
+ 
+The BEC will oversee a #NID Service Fund# to deploy packages of assistance as per 
+agreed-upon action plans for integrating usage of the NID system.  The allocation of the 
+Page  3
+proposed NID Service Fund will be determined by the Project Steering Committee and 
+administered by the NIDW on the basis of agreed-upon action plans.  Assistance will be 
+limited to the setting up of systems and not ongoing maintenance.  
+ 
+This component will also ensure linkage of the NID system with the digital birth and 
+death registration systems being operated by the Local Government Division and the 
+national population registry in the Bangladesh Bureau of Statistics.  The BEC and the 
+Local Government Division are expected to develop protocols whereby data from birth 
+and death registration system is shared with the National ID system.  At the same time, 
+the National ID system would assign a unique national ID number at the time of 
+registration of birth which would be reflected in the birth registry and on certificates..  
+Numbers will be generated automatically through the NID system and transmitted to 
+local government registrars of births in the field.  All three agencies have agreed on 
+modalities for sharing of information and ensuring the sharing of data.  
+ 
+Component 2: Operation and Management of the National Identification System 
+(US$140.54)  
+ 
+This component will design and implement the operational facilities to implement the 
+NID system. This will include procurement of hardware, software, design consultancies 
+and management services for all the IT facilities of the NIDW.  
+ 
+#
+National ID Database, Datacenter & Disaster Recovery Center (DRS)  
+ 
+The maintenance of an accurate, comprehensive citizens# identity database and 
+operation of a reliable and secure data center and disaster recovery center are the 
+backbone of the NID system. The project will build on the work conducted to create the 
+current electoral voter database of 87 million and subsequent de-duplication and 
+cleansing efforts.  It will address two major issues in the database through a process of 
+confirmation of data among citizens.  First, the confirmation of data will include better 
+quality of photographs and fingerprints in order to allow for better ID verification both 
+on-site and off-site. Second, it will introduce birth registration numbers into the 
+categories of information maintained in the database to allow for data linkage between 
+the two systems.  The confirmation process may also add other data fields as part of a 
+consolidated effort to gather data regarding citizens relevant for databases outside of the 
+biographical information requirements of the NID system (e.g. data relevant for social 
+protection programs).  Such additional data would not be maintained by the NID system.  
+ 
+The project will also support the secure physical housing of the NID system data.  The 
+NID database will be housed in and managed at the data center of the Bangladesh 
+Computer Council (BCC), the only tier-three data center in country, while the disaster 
+recovery center will be located in the NIDW office. This will ensure the highest level of 
+security and functionality available in country.  In addition, the Project will finance 
+installation of a stand-alone tier three data center to which the data recovery center will 
+be transferred, when the Government completes its planned Election Center.  All works 
+are expected to be completed by 2015.  
+Page  4
+#
+ID Card Production and Distribution to Citizens  
+ 
+The Project will finance replacing the current laminated voter ID card with a card with 
+more robust security features. This replacement is required in order to counter the current 
+widespread practice of using fake and forged ID cards.  With verification often occurring 
+by simple physical examination of cards, the need for a more secure card is significant.  
+The ID card design will affect many aspects of NID system, including total project costs 
+and utility of national ID card in society.  The project will follow the recommendations  
+of the government-wide national ID Card Design Committee consisting of representatives 
+of BEC, LGD, BBS officials and other local experts.  
+ 
+The project will distribute ID cards in two phases.   All citizens  will be called to BEC 
+upazila offices twice: once to confirm information and provide biometric data 
+(fingerprints) and in many cases to provide a new photograph (Phase 1), and a second 
+time to collect the NID card (Phase 2).  The final distribution strategy will be subject to a 
+number of factors which need to be assessed conclusively through pilot tests, as they 
+could make a crucial difference in the risk level, cost and success of the entire NID 
+program.  These are primarily (i) rate of required modifications to demographic data for 
+NID purposes; (ii) rate of mismatches between live fingerprints and voter list data base; 
+(iii) rate of new photographs required, and (iv) decentralized rate of demographic data 
+updates requiring offline adjudication.  
+ 
+#
+Data communications network  
+ 
+A
+reliable data communications network linking the NID data center at the BCC, NIDW 
+Office with databases of all line ministries and those of private service providers as well 
+as with all upazila server stations is critical for successful operation of the NID system.  
+In particular, the decentralized enrollment or updating of citizens# information in the 
+NID system, replacement and distribution of new ID cards, verification for service 
+agencies and gateway to other agencies all require a functional, real-time data 
+communications network.  
+ 
+The Project will support the preparation of a detailed network design taking into 
+consideration the standard operating procedures of NID. The detailed network plan will 
+determine how best to integrate exclusive government cable lines, internet service, and 
+the virtual private network which will be used for connecting the NID database with 
+various points around the country.  
+ 
+#
+Business Process Management  
+ 
+This project subcomponent will review and, if necessary, revise the specific NID 
+operating procedures to develop an integrated business process management software and 
+system. The operating procedures to be developed will encompass all key functions, 
+including:  
+ 
+#
+registering and updating data for the NID system at upazila-level election offices,  
+Page  5
+#
+NID card production and distribution at the ID Card production site,  
+ 
+#
+monitoring and regulating e-ID verification services at the data center, and  
+ 
+#
+administering financial flows from service fees from users at the NIDW Office.  
+ 
+Component 3: Capacity Building, Communication Program, and Overall Project 
+Management (US$ 36.42)  
+ 
+This component will develop the capacity of the newly established National 
+Identification Wing (NIDW) of the BEC to develop and manage the human and financial 
+resources necessary for the sustainable operation of the NID system. This will also 
+provide a comprehensive communication program and overall project management 
+support.  
+ 
+#
+Comprehensive capacity building program for the newly established NIDW  
+ 
+The Project will finance a comprehensive Implementation Support Consultancy which 
+will bring a number of experts on various aspects of the NID System on a long-term 
+residency basis. They would be paired with government officials who would be newly 
+recruited into the NIDW. This long-term pairing arrangement is considered as one of the 
+most effective capacity building arrangements. Key personnel to be included in the ISC 
+are a principal advisor to the General Director of NIDW, a chief operation officer in 
+charge of ID card production and distribution, a chief technology officer in charge of 
+database and other IT issues, a chief administration/finance office, chief communication 
+officer and chief procurement officer.  In addition to pairing advisors with these key 
+personnel, the consultancy will provide overall management support and capacity 
+building to the NIDW  
+ 
+At the upazila level, the Project will finance local project consultants in each upazila 
+office to complement BEC officers to handle ID data update, ID card replacement, and 
+other routine NID tasks. The project, on average, will finance three project staff (two 
+work station operators and one IT manager) while a number of large size upazilas will 
+have more project staff proportionally. Recruitment of project staff for each upaliza will 
+be delegated to the district election office as they are well positioned to understand the 
+market for necessary skill sets and recruit and deploy project staff to upazila under its 
+jurisdiction.  
+ 
+A
+major component of capacity building will be technical assistance to plan for the 
+long-term financial and institutional sustainability of the NID system.  This assistance 
+would focus on legal arrangements to retain key staff, sustain service orientation, and 
+implement more complex financial management systems involving substantial revenue 
+flows from services.  While there will be no changes in the institutional arrangements for 
+at least the life of the project, options for continuation as is or other arrangements such as 
+spinning off of the ID function from the BEC will be examined. The Government is 
+committed to provide the NIRW a necessary management flexibility to sustain the 
+complex nature of NID office.  
+Page  6
+In addition, there would be a number of training and twinning arrangements during the 
+project to bring first-hand experience from practitioners of NID systems in other 
+developing and developed countries.  
+ 
+#
+Change management and communications  
+ 
+An effective change management and communication program is of critical importance 
+in managing citizens# expectations on NID and in mitigating uncertainty of  NID card 
+replacement schedule during the Project.  Citizens should be sufficiently informed and 
+convinced of the value of having new ID cards and the NID office should be able to 
+communicate with citizens in a comprehensive and timely manner. The Project will 
+finance a comprehensive communication program by hiring a consortium of professional 
+communication firms . The NIDW would have a Communication Officer in its structure 
+and the Project will finance a long-term advisor to implement communication activities 
+including the mass communication campaign.   
+ 
+4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis 
+The Project will be implemented throughout country. The NID data center and Card 
+Production Site would be in Dhaka while ID registration and update and e-ID verification 
+service will take place at the local (upazila) level.   
+ 
+5. Environmental and Social Safeguards Specialists 
+ 
+6. Safeguard Policies Triggered
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+ X 
+Natural Habitats (OP/BP 4.04) 
+ X 
+Forests (OP/BP 4.36) 
+ X 
+Pest Management (OP 4.09) 
+ X 
+Physical Cultural Resources (OP/BP 4.11) 
+ X 
+Indigenous Peoples (OP/BP 4.10) 
+ X 
+Involuntary Resettlement (OP/BP 4.12) 
+ X 
+Safety of Dams (OP/BP 4.37) 
+ X 
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X 
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts: 
+The Project is assessed not to create any potential, large scale, significant impact.   
+ 
+Page  7
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+The Project is utilizing existing government offices to provide NID service and NID card 
+production. No addition physical infrastructure is anticipated from the Project.   
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts. 
+N.A.   
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide 
+an assessment of borrower capacity to plan and implement the measures described. 
+N.A.   
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+N.A.   
+ 
+B. Disclosure Requirements Date
+ 
+Environmental Assessment/Audit/Management Plan/Other: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+For category A projects, date of distributing the Executive 
+Summary of the EA to the Executive Directors 
+ 
+Resettlement Action Plan/Framework/Policy Process: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+Indigenous Peoples Plan/Planning Framework: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+Pest Management Plan: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+*
+If the project triggers the Pest Management and/or Physical Cultural Resources, 
+the respective issues are to be addressed and disclosed as part of the Environmental 
+Assessment/Audit/or EMP. 
+Page  8
+If in-country disclosure of any of the above documents is not expected, please 
+explain why: 
+N.A.   
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the 
+ISDS is finalized by the project decision meeting) 
+ 
+The World Bank Policy on Disclosure of Information 
+ 
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+N/A 
+Have relevant documents been disclosed in-country in a public place in a 
+form and language that are understandable and accessible to project-affected 
+groups and local NGOs? 
+N/A 
+All Safeguard Policies 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities 
+been prepared for the implementation of measures related to safeguard 
+policies? 
+N/A 
+Have costs related to safeguard policy measures been included in the project 
+cost? 
+N/A 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures related to safeguard policies? 
+N/A 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+N/A 
+D. Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Mr Junghun Cho 
+12/20/2010 
+Environmental Specialist: 
+Mr Shakil Ahmed Ferdausi 
+12/21/2010 
+Social Development Specialist 
+Ms Sabah Moyeen 
+12/22/2010 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+ 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Sanjay Srivastava 
+01/18/2011 
+Comments:   
+Sector Manager: 
+Mr Joel Hellman 
+01/18/2011 
+Comments:   

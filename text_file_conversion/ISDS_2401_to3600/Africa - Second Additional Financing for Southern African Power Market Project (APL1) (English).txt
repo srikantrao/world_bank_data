@@ -1,0 +1,408 @@
+﻿                   INTEGRATED SAFEGUARDS DATASHEET
+                           APPRAISAL STAGE
+
+I. Basic Information
+Date prepared/updated: 04/11/2012                                    Report No.: AC6676
+1. Basic Project Data
+Original Project ID: P069258                  Original Project Name: 3A-Southern Afr
+                                              Power Mrkt APL 1 (FY04)
+Country: Africa                               Project ID: P126421
+Project Name: Second Additional Financing for Southern African Power Market Project
+(APL1)
+Task Team Leader: Manuel Berlengiero
+Estimated Appraisal Date: April 10, 2012      Estimated Board Date: May 31, 2012
+Managing Unit: AFTEG                          Lending Instrument: Adaptable Program
+                                              Loan
+Sector: Transmission and Distribution of Electricity (100%)
+Theme: Infrastructure services for private sector development (38%);Regional
+integration (37%);Export development and competitiveness (25%)
+IBRD Amount (US$m.):             0
+IDA Amount (US$m.):            201.5
+GEF Amount (US$m.):              0
+PCF Amount (US$m.):              0
+Other financing amounts by source:
+         BORROWER/RECIPIENT                                             0.00
+                                                                        0.00
+Environmental Category: A - Full Assessment
+Simplified Processing                         Simple []           Repeater []
+Is this project processed under OP 8.50 (Emergency Recovery)
+                                                                   Yes [ ]    No [X]
+or OP 8.00 (Rapid Response to Crises and Emergencies)
+
+2. Project Objectives
+The development objectives for this project has slightly changed from the original project
+which was to facilitate further development of an efficient power market in the Southern
+African Development Community.
+
+ Modification of the Project Development Objective is proposed to better reflect the
+project area of influence and physical investments is proposed to be modified as follow
+“To expand transmission capacity for better serving domestic and regional power demand
+and to support regional power market integration and telecommunication development�?.
+
+3. Project Description
+The SAPMP project consists of four main components: (i) Support to the SAPP Co-
+ordination Center; (ii) Rehabilitation and reinforcement of the high voltage transmission
+corridor from Inga to Kasumbalesa at the border with Zambia; (iii) Construction of a
+double circuit 220 kV line by CEC from Luano substation in Zambia to link the DRC
+transmission system at Kasumbalesa; and (iv) A feasibility and preliminary design study
+of an interconnector between Zambia and Tanzania that would connect the SAPP to the
+market that would be formed by interconnecting Tanzania, Uganda and Kenya.
+
+4. Project Location and salient physical characteristics relevant to the safeguard
+analysis
+In the DRC, the transmission lines between the Inga hydropower station on the Congo
+River and Kasumbalesa on the border with Zambia will be rehabilitated and transformers
+and other equipment will be upgraded. In addition, transmission lines will be constructed
+between Fungurume and Panda, Panda -Karavia and between Karavia and the border at
+Kasumbalesa. This new construction in the DRC will take place in southern Katanga
+province, southeast of Kolwezi.
+
+ A number of urban centers in the province -Lubumbashi, Kolwezi, Likasi, and
+Kasumbalesa, and several villages are located alongside the existing transmission lines.
+The population living in the area depends on subsistence farming, hunting, and fishing,
+although the copper mining industry was once the lifeblood of the economy.
+
+ In Zambia, a transmission line will be constructed by the Copperbelt Energy
+Corporation (CEC) and financed outside this project. The line, starting at the Zambia-
+DRC border at Kasumbalesa and going 45 km to the Luano substation, involves clearing
+a 45m width within the existing wayleave. The new line will be built alongside the
+existing 220kV line for which CEC has wayleave rights.
+
+5. Environmental and Social Safeguards Specialists
+   Mr Paul Jonathan Martin (AFTEN)
+   Mr Antoine V. Lema (AFTCS)
+
+6. Safeguard Policies Triggered                             Yes         No
+Environmental Assessment (OP/BP 4.01)                        X
+Natural Habitats (OP/BP 4.04)                                X
+Forests (OP/BP 4.36)                                                     X
+Pest Management (OP 4.09)                                                X
+Physical Cultural Resources (OP/BP 4.11)                                 X
+Indigenous Peoples (OP/BP 4.10)                                          X
+Involuntary Resettlement (OP/BP 4.12)                        X
+Safety of Dams (OP/BP 4.37)                                              X
+Projects on International Waterways (OP/BP 7.50)                         X
+Projects in Disputed Areas (OP/BP 7.60)                                  X
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project.
+Identify and describe any potential large scale, significant and/or irreversible impacts:
+The project is under Category A. Safeguards policies triggered include: (i) Environmental
+Assessment (OP/BP 4.01); (ii) Natural Habitats (OP/BP 4.04) and (iii) Involuntary
+Resettlement (OP/BP 4.12). Safeguards instruments prepared to mitigate potential
+adverse environmental or social impacts were: Environmental Impact Assessments
+(EIAs), Resettlement Action Plan (RAPs) and Environmental and Social Management
+Plans (ESMPs). An independent consultant prepared the instruments, which were cleared
+by the client (SNEL) and the Bank, and disclosed in 2004, both in DRC and Zambia. In
+2008, the two safeguards instruments were updated, cleared and re-disclosed, by the
+client and by the Bank
+
+ The major environmental issue in the DRC and Zambia is the management of natural
+habitats and, for Zambia in particular, the management of critical natural habitats (two
+forest reserves) (OP 4.04). In Zambia, the proposed power line traverses two National
+Forest Reserves (Kamenza Forest reserve No. 19 and Luano Forest Reserve No. 12),
+which are legally protected areas; classified as IUCN Category VI protected areas. The
+two Forest Reserves are critical natural habitats. Conclusions from the ESIA, deemed
+acceptable by the Bank, indicate that the conversion of the critical natural habitats for
+power line construction is not significant, as it does not threaten the integrity of the
+forests involved. The existing right-of-way will be used (land already converted) and the
+damage to the forest (which appears to be degraded) is expected to be very limited in
+extent.
+
+  The major social impact will be limited land acquisition for power lines and associated
+infrastructure (OP 4.12), mainly in DRC. The transmission lines generally have relatively
+limited impacts--productive trees must be removed from the right-of-way (but farmers
+can usually continue to grow crops under the lines) and some houses need to be relocated
+a few meters beyond the reserve. However, transmission lines usually do not affect
+people's livelihoods in a significant manner. Power substations, by contrast, require
+reasonably sized parcels of land, and can displace residents and other users, particularly if
+located near populated areas. For this reason, the sitting of power substations at
+Fungurume and Karavia, and Luano, emphasizes minimization of impact, which means
+the substations are located far enough from populated centers to significantly reduce the
+extent of social impact.
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future
+activities in the project area:
+More efficient power distribution should induce local development, which would have
+potential long-term environmental and social impacts, both beneficial and adverse. The
+project monitoring program will track such changes so that major adverse long-term
+impacts can be mitigated in a timely fashion. Long term environmental benefits will
+result from the increased use of existing hydropower over non-renewable energy (fossil
+fuels) in the SADC countries. Better exploitation of hydropower and increased efficiency
+in the use of existing generation plants will reduce the airborne emissions produced by
+coal-fired generation (NOx, S02, C02, and SPM), as well as local damage associated with
+mining and transportation. Increased utilization of existing assets to defer the need for
+new generation development makes sound commercial and environmental sense.
+
+  An additional direct benefit to the population of the DRC will be that offered by the
+integrated infrastructure inputs to communities along the route of the new transmission
+lines built by the project. The concept is based on a possibility to use the shield wire of
+the transmission line conductor for distribution of electricity along the transmission line
+route. This technique overcomes the high cost of transformation that made such a scheme
+impossible in the past. It has been used successfully in Ghana and in parts of Latin
+America for the past 10 to 15 years.
+
+ Experience has shown that communities along the route can develop and poverty can be
+reduced if they are supplied with electricity, but they can benefit more if supplied
+simultaneously with other complementary infrastructure and health services. Such inputs
+will be modular and scalable. The consultations will seek to determine the day-to-day
+needs of the community such as water supply and treatment, communication, electricity,
+clinical care, etc. They will also identify the capability of the community to manage these
+inputs and possibly to set up some of them, such as the communication, including
+internet, as small businesses.
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize
+adverse impacts.
+Given the advanced stage of project implementation, alternatives are not feasible. The
+remaining alternative of not going ahead with the project is undesirable if power market
+integration in Southern Africa is to be realized and also to support DRC economic
+growth. Indeed, the project is necessary to allow the available energy generated from the
+Inga hydropower stations to be transported to the existing markets in the Katanga
+Province, including the mining and industrial complexes critical to the economy of DRC,
+and the power exports into the Southern African Power Pool (SAPP).
+
+  Furthermore, as already mentioned, the SAPMP and the PMEDE, for which the Board
+approved an additional financing grant of US$283 million in June 2011, are
+interdependent. Without the completion of the SAPMP, the benefits of the PMEDE
+would not be fully realized, and vice-versa. Consequently, achievement of the objectives
+of both projects (accounting together for a total IDA financing of over US$ 1 billion)
+depends on the full rehabilitation of the long-distance high voltage transmission system
+from Inga to the border with Zambia.
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide
+an assessment of borrower capacity to plan and implement the measures described.
+In the DRC, during the implementation of the original project, SNEL strengthened its
+environmental management unit, Unité de Gestion Environmental unit (UGES). The staff
+of the unit has been increased from three to 8 specialists, (5 environmentalists and 3
+social scientists.) Staff has received short courses in environmental management and
+hands on training from Bank’s safeguards specialists. UGES has progressively proved
+itself within SNEL and is leading the work to ensure the implementation of safeguards
+instruments prepared for the project: the environmental and social impact assessment
+(ESIA) including an environmental and social management plan (ESMP), and the
+Resettlement Action Plan (RAP). In June 2003 SNEL prepared an environmental and
+social impact assessment (ESIA) including an environmental and social management plan
+(ESMP), and RAP for the population to be affected by the construction of the
+transmission line from Fungurume to Kasumbalesa on the DRC side. Both instruments
+were approved by the DRC ministry of environment and the Bank. In January 2009, the
+2003 ESIA and its ESMP were revised and re-disclosed. Both instruments are being
+implemented in conjunction with the civil works (which were delayed).
+
+  While the implementation of the ESMPs moved forward with ease, shortcomings were
+noted in the implementation of the RAP and a resettlement audit was triggered. The
+findings of the audit suggest that: i) the original RAP from 2008 contained several
+weaknesses; ii) the number of households adversely affected by the construction of the
+transmission line was estimated at 435 in 2008 against 965 concluded by the audit in
+2012; 864 households have been compensated; 60 eligible households remain to be
+compensated and 101 households claimed to be eligible for compensation (for which the
+project sponsor will follow up to determine if these latter households are eligible for
+compensation); iii) compensation was negotiated following the principle of replacement
+cost at market value.
+
+ An Action Plan was completed by the auditor and endorsed by SNEL to address any
+shortcomings in the process. Key actions include: i) hiring of an independent consultant
+to carry out the remaining outstanding compensation; ii) the establishment of a
+Compensation and Resettlement Committee; iii) strengthening UGES presence on the
+ground; iv) ensuring that the institutional arrangements part of the RAP and a proper
+grievance mechanism are in place. Those actions will be fully completed by October
+2012. Close monitoring and progress on those actions will be monitored as part of the
+Bank’s supervision.
+
+ In Zambia, a similar safeguards process took place, but without the deficiencies
+encountered in DRC. The Copperbelt Energy Corporation (CEC) took the direct
+responsibility for the safeguards instruments. In June 2003 CEC prepared an
+environmental and social impact assessment (ESIA) including an environmental and
+social management plan (ESMP), and RAP for the population to be affected by the
+construction of the additional transmission line between Luano (Zambia) and
+Kasumbalesa (DRC). Both instruments were approved by the Zambia Environmental
+Council (ZEC) and in line with the Bank’s safeguard policies. In January 2009, the 2003
+ESIA and its ESMP were revised and re-disclosed to take into account the results of the
+public disclosures, and submitted to the ZEC for its review and approval. The Bank’s
+review confirmed full compliance of the updated ESIA with the Bank’s safeguard
+policies, and has been subsequently disclosed in the InfoShop in country in February
+2009. The ESIA and the RAP assessed potential issues associated with the line routing.
+The new line routing follows the right-of-way of the existing 220kV Zambia-DRC
+interconnector and traverses two National Forest Reserves . The findings of the ESIA did
+not identify any significant adverse impacts to the forests traversed; as the existing right-
+of-way will be used (land already converted) and the damage to the forest (which appears
+to be degraded) is expected to be very limited in extent.
+
+ The ESMP of the ESIA has still to be fully implemented due to delays in the
+implementation of the corresponding investment in DRC (civil works for the CEC line
+have yet to start). The RAP, however, has been successfully implemented in line with the
+requirements of the ESIA, the Bank and Zambia guidelines. CEC in Zambia completed
+the implementation of the RAP in 2010, and submitted a completion report, to the
+satisfaction of the Zambia Environmental Council (ZEC) and in line with the Bank
+policies.
+
+ Environmental Safeguard Issues: Each of the two agencies responsible for implementing
+the respective environmental management plans, including specific environmental
+safeguard issues related to natural habitat management, has implemented some of the
+measures themselves and instructed contractors working on the transmission line to carry
+out instructions as defined in the respective environmental assessments. Periodic reports
+on the implementation of the ESMPs have been submitted to the World Bank.
+
+  In addition, on the DRC side, to enhance the benefits of local communities, SAPMP
+includes a component for community infrastructure development along the transmission
+line from Fungurume to Kasumbalesa; seven selected villages are targeted. The objective
+of the component was, and still is, to increase the social benefits of the project,
+particularly, to electrify the selected villages. The combined effect of electrification and
+community infrastructures, is, expected to trigger an induced development and transform
+those villages to local growth pools.Criteria used for village selection included, proximity
+to the transmission line (the closer to the line, the better), population size (the larger the
+population, the better), and poor access to public services. Infrastructures to be built are:
+schools, health clinics and centers, and water wells; in addition the provision of village
+electrification.
+  A review of the environmental social documentation of the community infrastructure
+designs, ahead of the commencement of the civil works, revealed several shortcomings,
+both in terms of design of the investments and environmental and social documentation.
+Remedial actions were identified prior to commencement of civil works and they
+included: i) consultations with provincial and local stakeholders; ii) the preparation of an
+Environmental and Social Management Framework (ESMF); iii) the preparation of a
+Medical Waste Management Plan (MWMP); iv) an abbreviated social assessment
+survey; v) the review of the designs of the community infrastructures and vi) the creation
+of a local community infrastructure working group including: SNEL, relevant sector
+representatives of the Katanga provincial administration, and the supervision consultant.
+  The World Bank team is closely supervising this component. As part of the proposed
+second additional financing, it is proposed to include financing for additional social
+studies to better tailor the investments to the local context and a beneficiary assessment to
+monitor and evaluate the outcomes of the component to ensure it fully achieves its
+intended objectives.
+5. Identify the key stakeholders and describe the mechanisms for consultation and
+disclosure on safeguard policies, with an emphasis on potentially affected people.
+The preparation of the SAPMP and additional financing has been participatory at several
+levels. Key stakeholders, in addition to SNEL management and staff are the Ministry of
+Energy, the Ministry of Environment, project affected persons (PAPs), people living in
+the seven villages targeted by the community investment program and the European
+Investment Bank (EIB).
+
+ This group of stakeholders was extensively consulted in conjunction with the
+preparation of the safeguards instruments, particularly, the ESIA, ESMF, and the RPF.
+Safeguards documents prepared for the project were disclosed in country, and at the
+Infoshop at the Bank. Copies and summaries of safeguards instruments were distributed
+to relevant local government offices and made available to PAPs and local stakeholders
+in project affected areas.
+
+ Consultations with local communities will be continuously organized during the
+implementation of all stages of the civil works, to minimize conflicts, enhance
+cooperation, and improve social benefits and performance of the works contracts.
+
+ Prior to appraisal, the Environmental Assessment, Environmental Management Plan,
+and Resettlement Action Plan for each activity was disclosed publicly at the World Bank
+InfoShop and made available at locales convenient to the affected population and NGOs,
+with at least the executive summary translated into local language so that everyone may
+be appraised of, and comment on, the proposed initiatives. Moreover, each RAP
+contained provisions that stipulated the consultation of local populations throughout the
+implementation.
+
+  In addition, to enhance the benefits of local communities, SAPMP includes a component
+for community infrastructure development along the transmission line from Fungurume
+to Kasumbalesa; seven selected villages are targeted. The objective of the component
+was, and still is, to increase the social benefits of the project, particularly, to electrify the
+selected villages. The combined effect of electrification and community infrastructures,
+is, expected to trigger an induced development and transform those villages to local
+growth pools. Criteria used for village selection included, proximity to the transmission
+line (the closer to the line, the better), population size (the larger the population, the
+better), and poor access to public services. Infrastructures to be built are: schools, health
+clinics and centers, and water wells; in addition the provision of village electrification.
+  A review of the environmental social documentation of the community infrastructure
+designs, ahead of the commencement of the civil works, revealed several shortcomings,
+both in terms of design of the investments and environmental and social documentation.
+Remedial actions were identified prior to commencement of civil works and they
+included: i) consultations with provincial and local stakeholders; ii) the preparation of an
+Environmental and Social Management Framework (ESMF); iii) the preparation of a
+Medical Waste Management Plan (MWMP); iv) an abbreviated social assessment
+survey; v) the review of the designs of the community infrastructures and vi) the creation
+of a local community infrastructure working group including: SNEL, relevant sector
+representatives of the Katanga provincial administration, and the supervision consultant.
+
+ The World Bank team is closely supervising this component. As part of the proposed
+second additional financing, it is proposed to include financing for additional social
+studies to better tailor the investments to the local context and a beneficiary assessment to
+monitor and evaluate the outcomes of the component to ensure it fully achieves its
+intended objectives.
+
+
+
+B. Disclosure Requirements Date
+Environmental Assessment/Audit/Management Plan/Other:
+  Was the document disclosed prior to appraisal?                   Yes
+  Date of receipt by the Bank                                  08/05/2008
+  Date of "in-country" disclosure                              11/20/2008
+  Date of submission to InfoShop                               04/03/2012
+  For category A projects, date of distributing the Executive
+  Summary of the EA to the Executive Directors
+Resettlement Action Plan/Framework/Policy Process:
+  Was the document disclosed prior to appraisal?                   Yes
+  Date of receipt by the Bank                                  08/05/2008
+  Date of "in-country" disclosure                              11/20/2008
+  Date of submission to InfoShop                               04/03/2012
+Indigenous Peoples Plan/Planning Framework:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+Pest Management Plan:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+* If the project triggers the Pest Management and/or Physical Cultural Resources,
+the respective issues are to be addressed and disclosed as part of the Environmental
+Assessment/Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please
+explain why:
+As per Additional Finance policy, the above documents will not be redisclosed.However,
+the updated ISDS will be disclosed in Country and at Infoshop.
+
+
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the
+ISDS is finalized by the project decision meeting)
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) report?               Yes
+If yes, then did the Regional Environment Unit or Sector Manager (SM)           Yes
+review and approve the EA report?
+Are the cost and the accountabilities for the EMP incorporated in the           Yes
+credit/loan?
+OP/BP 4.04 - Natural Habitats
+Would the project result in any significant conversion or degradation of        No
+critical natural habitats?
+If the project would result in significant conversion or degradation of other   N/A
+(non-critical) natural habitats, does the project include mitigation measures
+acceptable to the Bank?
+OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy framework/process               Yes
+framework (as appropriate) been prepared?
+If yes, then did the Regional unit responsible for safeguards or Sector         Yes
+Manager review the plan?
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the World Bank's        Yes
+Infoshop?
+Have relevant documents been disclosed in-country in a public place in a        Yes
+form and language that are understandable and accessible to project-affected
+groups and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional responsibilities     Yes
+been prepared for the implementation of measures related to safeguard
+policies?
+Have costs related to safeguard policy measures been included in the project    Yes
+cost?
+Does the Monitoring and Evaluation system of the project include the            Yes
+monitoring of safeguard impacts and measures related to safeguard policies?
+Have satisfactory implementation arrangements been agreed with the              Yes
+borrower and the same been adequately reflected in the project legal
+documents?
+  D. Approvals
+
+Signed and submitted by:                              Name       Date
+Task Team Leader:                   Mr Manuel Berlengiero      04/10/2012
+Environmental Specialist:           Mr Paul Jonathan Martin    04/10/2012
+Social Development Specialist       Mr Antoine V. Lema         04/10/2012
+Additional Environmental and/or
+Social Development Specialist(s):
+
+Approved by:
+Regional Safeguards Coordinator:    Ms Alexandra C. Bezeredi   04/10/2012
+  Comments:
+Sector Manager:                     Mr Lucio Monari            04/10/2012
+  Comments:
+

@@ -1,0 +1,496 @@
+Integrated Safeguards Data Sheet (Updated)
+Report No: AC327
+Section I - Basic Information
+Date ISDS Prepared/Updated: 10/03/2003
+A. Basic Project Data (from PDS)
+I.A.1. Project Statistics
+Country: AFRICA                                  Project ID: P069258
+Project: Southern African Power Market (APLl)    Task Team Leader: Ludmilla Butenko
+Authorized to Appraise Date: June 3, 2003        IBRD Amount (Sm):
+Bank Approval: October 21, 2003                  IDA Amount ($m): 178.60
+Managing Unit: AFTEG                             Sector: Power (80%); General energy sector (20%)
+Lending Instrument: Adaptable Program Loan (APL)  Theme: Regional integration (P); Infrastructure
+Status: Lending                                  services for private sector development (P); Export
+development and competitiveness (S)
+I.A.2. Project Objectives (From PDS):
+To facilitate the development of an efficient regional power market which would: (i) decelerate the increase
+of electricity prices in the Southem African Development Community countries through increased
+competition; (ii) increase industrial competitiveness of the region; (iii) create the conditions for accelerated
+investment in the power sector, including by the private sector; and (iv) foster regional integration.
+I.A.3. Project Description (From PDS):
+This regional program is intended to facilitate multi-country electricity trade in Southern Africa and
+support the operations of the Southern African Power Pool (SAPP) by providing technical assistance to the
+SAPP Coordination Center, strengthening regional transmission core and removing some of the physical
+bottlenecks that inhibit growth. The main sector issues to be addressed by the program are: (a) insufficient
+transmission capacity to maximize the benefits of regional power trade; (b) need to develop a fully
+functional Coordination Center of the SAPP; (c) need to increase trade on the short term energy market; (d)
+need to introduce clear rules of the game for private sector participation in the regional power operations;
+(e) harmonization of regulation affecting cross-border power trade as the national utilities embark on a
+reform process.
+The program comprises the highest priority projects identified by the Integrated Regional Power Master
+Plan (Pool Plan) prepared by the SAPP. This subset of interventions has been adopted by NEPAD and
+SADC as priority areas in the energy sector. The program comprises three phases over a period of six
+years. The first phase is planned to last from 2003 through December 2007, the second from 2004 through
+2008, and the third from 2006 through 2009.
+The first phase, APL1, will improve electricity trading in the Pool by making the information available to
+all member utilities and improving the speed of transactions by providing technical assistance to the SAPP
+Coordination Center. It will also make a significant block of hydro energy from Inga, the DRC, available
+to the SAPP. This will have benefits both in avoiding the use of high cost thermal generation and will serve
+in improving the quality of electricity supply throughout the region. This infrastructure component involves
+rehabilitating and upgrading the converter and inverter stations on the DC transmission link from the Inga
+hydropower station to Kolwezi in the Democratic Republic of Congo; maintaining the DC transmission line
+from Inga to Kolwezi; rehabilitating and reinforcing the AC network from Kolwezi to Karavia substation
+near Lubumbashi, in the Katanga region of the DRC; constructing a 220 kV line transmission from
+Fungurume to Karavia and from Karavia to the DRC/Zambia border at Kasumbalesa; and constructing,
+
+
+
+2
+ISDS
+with private sector funds, a continuation of the new transmission line from Kasumbalesa to Luano
+substation near Kitwe in Zambia. The new line will run parallel to the existing 220 kV line and to a large
+degree within the existing right-of-way.
+The second phase, APL2, will finance connection of Malawi to the regional electrical network through a
+transmission line from Mozambique. This initiative will benefit Malawi by increasing its power system
+security and avoiding higher electricity cost in the long run, and it will benefit Mozambique by the revenues
+it will earn from the use of the line.
+The third phase, APL3, will make more hydro energy from the DRC available to the Pool and will
+improve the stability of the interconnected grid. If the feasibility study done in the first phase shows it to be
+economic, the third phase will also connect Zambian and Tanzanian grids which will facilitate the
+connection of Uganda and Kenya to the Pool in the more distant future. This would expand the market
+significantly and bring new trading opportunities to all members.
+The ISDS is concerned only with the first phase of the program and is based on the studies of the
+alignment, and the requisite environmental and social assessments that have been carried out for APL1.
+I.A.4. Project Location: (Geographic location, information about the key environmental and social
+characteristics of the area and population likely to be affected, and proximity to any protected areas, or sites or
+critical natural habitats, or any other culturally or socially sensitive areas.)
+While the SAPM program ultimately will involve all of the member countries, the activities under APL 1,
+and thus this ISDS, focus on reinforcing the existing transmission corridor in the Democratic Republic of
+Congo and Zambia.
+In the DRC, the transmission lines between the Inga hydropower station on the Congo River and
+Kasumbalesa on the border with Zambia will be maintained and transformers and other equipment will be
+upgraded. In addition, transmission lines will be rehabilitated between Fungurume and Panda (80 km) and
+Panda - Karavia (70 km). A new right-of-way has been selected for construction of the transmission line
+between Karavia and the border at Kasumbalesa. This new construction in the DRC will take place in
+southern Katanga province, southeast of Kolwezi. In this province of the DRC, rehabilitation and
+construction of transmission lines and related access roads will mostly take place in heavily degraded areas
+dominated by open woodland Zambezian forest. The scarcity of flora and fauna in this location is the
+result of intense pressure on available resources, due to cutting of trees for fuel and due to subsistence
+hunting. No major waterways will be crossed by the proposed route, other than the Lufira River. There are
+no protected areas near the power lines, no known critical natural habitats, nor any culturally or socially
+sensitive areas. A number of urban centers in the province - Lubumbashi, Kolwezi, Likasi, and
+Kasumbalesa, and several villages are located alongside the existing transmission lines. The population
+living in the area depends on subsistence farming, hunting, and fishing, although the copper mining industry
+was once the lifeblood of the economy.
+In Zambia, a transmission line will be constructed by the Copperbelt Energy Corporation (CEC) and
+financed outside this project. The line, starting at the Zambia-DRC border at Kasumbalesa and going 45
+km to the Luano substation, involves clearing a 45m width within the existing wayleave. The new line will
+be built alongside the existing 220kV line for which CEC has wayleave rights. The area is covered by a
+mix of Miombo woodland species, and vegetation clearing will be one bf the major environmental impacts
+during construction. Due to farming activities and poaching for the past years, big fauna has disappeared,
+and only small animals remain. The proposed power line traverses two National Forest Reserves
+(Kamenza Forest reserve No. 19 and Luano Forest Reserve No. 12), which are legally protected areas,
+
+
+
+3
+ISDS
+classified as IUCN Category VI protected areas . The two Forest Reserves are critical natural habitats.
+The proposed line route is sparsely populated; hence few people will be affected in terms of relocation.
+Some settlers will be restricted from carrying out fanning activities along the wayleave during construction,
+but alternative arrangements will be made for these people.
+Both in the DRC and in Zambia non-critical natural habitats (wetlands, specific forest types) were
+identified in the environmental assessments.
+Both in the DRC and in Zambia no known cultural property sites are going to be affected by construction
+and operation of the transmission lines. Construction crews will be instructed on how to handle chance
+finds of archaeological resources.
+(1) Zambia's Forest Reserves are classified as IUCN Category VIII in WCMC/World Bank, 1993. Ecologically
+sensitive sites in Africa. Vol. VI. Washington, DC. The category no longer exists and was merged with current
+category VI.
+B. Check Environmental Classification: A (Full Assessment)
+Comments: The program was assigned an Enviroinmental Category A due to its expected potential
+environmental and social impacts. The DRC component was classified as a category A initiative because, at
+the time, it appeared it might affect critical habitats and involve significant involuntary resettlement. The
+Zambia component, which is a private sector investment using only corporate funds, was similarly classified
+because it is viable only if the DRC segment of the lines, which is financed in part by the World Bank, is built.
+A field reconnaissance was undertaken later to determine land-use along the right of way, the need for land
+acquisition and, therefore, involuntary resettlement, and whether any (critical) natural habitats lie along the
+proposed alignments. A principal mitigation measure of the impact of the transmission lines consists of
+carefully siting transmission lines and access roads through low density development areas in order to
+minimize physical relocation while also avoiding significant natural habitats.
+C. Safeguard Policies Triggered (fronm PDS)
+(click on EI for a detailed desciption or click on the policy number for a brief description)
+Policy                                   Triggered
+Environmental Assessment (OP 4.01, BP 4.01, GP 4.01)         0 Yes 0 No
+Natural Habitats (OP 4.04, BP 4.04, GP 4.04)                 0 Yes 0 No
+Forestry (OP 4.36, GP 4.36)                                  0 Yes * No
+Pest Management (OP 4.09)                                    0 Yes 0 No
+Cultural Property (OPN 11.03)                                0 Yes 0 No
+Indigenous Peoples (OD 4.20)                                 0 Yes * No
+Involuntary Resettlement (OP/BP 4.12)                        * Yes 0 No
+Safety of Dams (OP 4.37, BP 4.37)                            0 Yes * No
+Projects in International Waters (OP 7.50, BP 7.50, GP 7.50)  0 Yes * No
+Projects in Disputed Areas (OP 7.60, BP 7.60, GP 7.60)*      0 Yes * No
+Section 11 - Key Safeguard Issues and Their Management
+D. Summary of Key Safeguard Issues. Please fill in all relevant questions. If in,formation is not available,
+describe steps to be taken to obtain necessaty data.
+
+
+
+4
+ISDS
+II.D. 1a. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe
+any potential large scale, significant and/or irreversible impacts.
+In compliance with Safeguard OP 4.01 the major potential environmental and social impacts of the project
+have been identified by two stand-alone environmental assessments, one for the DRC and the other for the
+Zambia component of the project. These assessments have determined that two other key Safeguard
+Policies are invoked: Natural Habitats (OP 4.04) and Involuntary Resettlement (OP 4.12).
+The major environmental issue in the DRC and Zambia is the management of natural habitats and, for
+Zambia in particular, the management of critical natural habitats (two forest reserves) (OP 4.04). In
+Zambia, the proposed power line traverses two National Forest Reserves (Kamenza Forest reserve No. 19
+and Luano Forest Reserve No. 12), which are legally protected areas, classified as IUCN Category VI
+protected areas. The two Forest Reserves are critical natural habitats. Indications are that the conversion
+of the critical natural habitats for power line construction is not significant, as it does not threaten the
+integrity of the forests involved. The existing right-of-way will be used (land already converted) and the
+damage to the forest (which appears to be degraded) is expected to be very limited in extent.
+The major social impact will be limited land acquisition for power lines and associated infrastructure (OP
+4.12). The transmission lines generally have relatively limited impacts--productive trees must be removed
+from the right-of-way (but farmers can usually continue to grow crops under the lines) and some houses
+need to be relocated a few meters beyond the reserve. However, transmission lines usually do not affect
+people's livelihoods in a significant manner. Power substations, by contrast, require reasonably sized
+parcels of land, and can displace residents and other users, particularly if located near populated areas. For
+this reason, the siting of power substations at Fungurume and Karavia, and Luano, emphasizes
+minimization of impact, which means the substations are located far enough from populated centers to
+significantly reduce the extent of social impact.
+II.D. I b. Describe any potential cumulative impacts due to application of more than one safeguard policy or
+due to multiple project component.
+It is anticipated that there will be no cumulative adverse impacts.
+II.D.lc Describe any potential long term impacts due to anticipated future activities in the project area.
+More efficient power distribution should induce local development, which would have potential long-term
+environmental and social impacts, both beneficial and adverse. The project monitoring program will track
+such changes so that major adverse long-term impacts can be mitigated in a timely fashion.
+Long term environmental benefits will result from the increased use of existing hydropower over
+non-renewable energy (fossil fuels) in the SADC countries. Better exploitation of hydropower and
+increased efficiency in the use of existing generation plants will reduce the airbome emissions produced by
+coal-fired generation (NOx, S02, C02, and SPM), as well as local damage associated with mining and
+transportation. Increased utilization of existing assets to defer the need for new generation development
+makes sound commercial and environmental sense.
+The population of southem Africa will benefit from the improvement of quality, lower cost and expansion
+of electricity supply. Certain industries will become more competitive as the cost of electricity is held down
+by the economies of scale available through the electricity market. An additional direct benefit to the
+population of the DRC will be that offered by the integrated infrastructure inputs to communities along the
+route of the new transmission lines built by the project. The concept is based on a possibility to use the
+shield wire of the transmission line conductor for distribution of electricity along the transmission line
+route. This technique overcomes the high cost of transformation that made such a scheme impossible in the
+
+
+
+5
+ISDS
+past. It has been used successfully in Ghana and in parts of Latin America for the past 10 to 15 years.
+Experience has shown that communities along the route can develop and poverty can be reduced if they are
+supplied with electricity, but they can benefit more if supplied simultaneously with other complementary
+infrastructure and health services. Such inputs will be modular and scalable. They will be based on a set
+of consultations with the beneficiary communities followed by a package of hardware and training designed
+to meet the needs and opportunities identified in the consultations. The consultations will seek to determine
+the day-to-day needs of the community such as water supply and treatment, communication, electricity,
+clinical care, etc. They will also identify the capability of the community to manage these inputs and
+possibly to set up some of them, such as the communication, including intemet, as small businesses. The
+necessary hardware will be packaged in containers the size of shipping containers so that they can be
+shipped, brought by road using standard equipment and installed in a very short time. The packages can be
+scaled to the size necessary for the particular community. This would be followed by an intensive set of
+training, the formation of sustaining organizations (if necessary, with the help of NGOs), and monitoring.
+For the communities, it will represents an opportunity to start some economic activity that would help
+attack poverty; and for the utility owning the transmission line, it will result in reduced vandalism of the
+line since the communities will have a stake in continuity of service.
+II.D.2. In light of 1, describe the proposed treatment of alternatives (if required)
+The determination of the Kolwezi-Kasumbelesa line in the DRC and the Kasumbalesa-Luano line in
+Zambia has examined not only the alternative of no-action but also the possibility of alternative alignments
+and of alternative technologies. The present proposal has, in other words, been accepted only after careful
+study to minimize resettlement and environmental damage, while also taking into account technical and
+economic factors.
+The altemative of no-action was rejected because prolongation of the current situation of insecure,
+inefficient and expensive power impedes economic development and poverty alleviation efforts. The
+proposed project components reflect actual priorities identified by the region for the development of the
+interconnected power network and specified in the Integrated Regional Power Masterplan, which has
+considered a full range of alternatives. They are a result of a collective effort of all member countries.
+DRC. Determination of the alignment of the new transmission lines underwent an extensive study in order
+to determine the optimal route from the technical, environmental, social and economic perspectives. The
+original planning study for SNEL identified six options for delivering electrical power to southern Africa:
+*      Option 1: reconstruct the existing 220kV Karavia - Luano line;
+*      Option 2 : construct a new single-circuit 220kV line between Karavia and Luano;
+*      Option 3: construct two new 220kV lines between Karavia and Luano;
+*      Option 4: construct a new double-circuit 220 kV line between Karavia and Luano;
+*      Option 4a: construct a new double-circuit 220 kV line between Karavia and the border and a new
+single- circuit 220 kV line from the border to Luano;
+*      Option 5: construct a new 330kV line between Karavia and Luano;
+*      Option 6: construct a new 330kV line between Kolwezi-Karavia-Luano.
+Option 2, which proposes a new 44 km long 220 kV line (with additional 45km in Zambia) line with an
+optic cable conumunication system, between Karavia at Lubumbashi and the border near Kasumbalesa, was
+selected for several reasons. This option links two substations with the same voltage, thus reducing the
+investment cost substantially. It also enables SNEL to realize a long-term goal of electrifying certain rural
+communities along the line route. Option 2, in short, is the simplest plan that resolves the various
+considerations, including environmental and social concerns, as well as technical and economic matters, at
+
+
+
+6
+ISDS
+reasonable cost.
+The proposed alignment of the transmission line required verification because significant shifts in
+population had occurred since the time of the original study. Consequently, the consultant, in addition to
+the usual documentary research, undertook helicopter inspections of the proposed alignment and of
+alternative alignments. The aerial reconnaissance trips were complemented by field visits to the originally
+proposed and alternative alignments in order to verify the initial findings. This work determined that the
+original alignment would require extensive physical relocation of populations, while an alternative
+alignment between Fungurume and Kasumbalesa would greatly reduce the extent of the social impact of the
+project. For this reason, SNEL accepted the recommendation of the consultant, and shifted the alignment
+to the new routing that would avoid most of the physical relocation of people without greatly increasing the
+distance to be traversed by the lines.
+SNEL, and its consultant, considered four factors in this decision.
+*      Minimize the distance required because, in homogeneous areas, costs rise proportionately with
+distance;
+*      Take advantage of existing infrastructure and equipment to the fullest extent possible;
+Parallel existing routes in order to facilitate access and limit the appearance of new enterprises for
+in order to minimize adverse environmental impacts;
+*      Avoid zones where conditions might put the feasibility and security of the investment at risk (e.g.,
+flood zones, erosion areas, landslide areas, rocky slopes). Reduce any environmental and social disturbance
+to an absolute minimum;
+*      Avoid built and densely populated areas on the ground that such occupation is incompatible with
+electric transmission lines;
+*      Avoid isolated areas where vandalism and theft could threaten the integrity of the investment
+As a result, the present alignment significantly reduces social, and environmental, concerns to a bare
+minimum, while taking into account technical and economic considerations. Notably, only a dozen
+structures will now be affected by the alignment, in contrast.to the several hundreds of structures that
+would have been lost under the original planning. Also, the extent of permanent and temporary land taking
+is basically the same now that SNEL and CEC have agreed to allow farmers to continue subsistance
+farming of low-level crops under their lines once construction is complete.
+Zambia. The selection of the most appropriate routing for the construction of a new transmission line was
+an iterative process that tried to secure the most environmentally acceptable route that is both technically
+and economically feasible. The process commenced with the identification of constraints and then looked at
+finding a route that avoided those constraints as much as possible.
+The starting point was to investigate the route that provided a direct line between the points to be connected
+and then identified reasons why this option could not be selected. The major constraint was the need to
+avoid completely any sites with a high amenity value such as:
+*      Areas of outstanding natural beauty
+*      Heritage sites
+*      Sites of special scientific interest
+*      National parks
+*      Recreational areas
+In addition, for technical considerations, as well as to reduce the visual impact of any proposed lines,
+heavily developed and residential areas were to be avoided as much as possible.
+
+
+
+7
+Placing of transmission lines within an existing route corridor provided significant advantages both in terms
+of reducing visual impact but more importantly in reducing the environmental impact of the project. This
+decision was based on the understanding that a wayleave carrying two lines requires less ground area than
+two wayleaves each carrying one line. Therefore, the next stage of the iterative process involved looking at
+existing lines and wayleaves to see if these can be included for some or all of the proposed new line.
+Finally, the process concluded with a detailed analysis of a variety of options to ensure that the best
+compromise of all the above factors was adopted.
+Line Routing Options Considered. After a detailed desktop review of the possible line routing options,
+three potential routes were considered sufficiently viable to warrant a further detailed investigation.
+Option A - The Direct Route: This route was identified simply by creating a straight line between the
+terminal substations of Luano (Zambia) and Karavia (DRC) and modifying the route of the line to avoid
+any significant constraints. This option, therefore, identified the shortest possible theoretical distance that
+could be adopted by the Project and was a useful means of identifying the constraints that exist in selecting
+an appropriate line route.
+Option B - Use of Existing Wayleave: This routing option utilized the space provided within the CEC
+wayleave for the existing 220kV Zambia-DRC interconnector. The circuit runs adjacent to the existing
+circuit from Luano to the DRC border.
+Option C - Southern Routing: Recognizing the reduction of environmental impact arising from the use
+of an existing wayleave, this option initially followed the route of the existing wayleaves for the 66kV
+transmission line from Luano to Solwezi. After looping round the south of the city of Chingola, the line
+route then headed approximately north in a relatively straight direction towards the border on its way to
+Karavia.
+Findings. Option A was considered not to be feasible due to the fact that the route would run very close to
+the town center of Chililabombwe, as well as a tailings dam associated with Konkola mine. In addition, it
+would need to cross existing Copperbelt Energy Corporation transmission lines. The visual impact due to
+the proximity to residential areas would be much higher, and the line would require several large angle
+deviations, as well as a crossing over the main road to Kasumbalesa. A high number of river crossings
+would also be required for this route, and the generally wetter ground conditions could lead to increased
+environmental damage during the construction phase.
+Option B represented an increase in route length of only 2km over the most direct route, and followed the
+sparsely populated route of the existing 220kV line. This route would require ground clearing to be
+undertaken within the existing wayleave rights of the existing circuit, and would have a low visual impact
+due to the terrain covered. This route is least onerous in terms of both river and road crossings, and has
+suffered only a minor encroachment of farming activities within the present wayleave.
+Option C again used existing wayleaves for part of its route, but represented an increased route distance of
+20km over option B. While this route generally runs through sparsely populated areas, it would require a
+higher number of road and river crossings than Option B. In addition, this route required a completely new
+wayleave to be cleared for a distance of about 40km and an extension of the existing wayleave by about
+45m for some 25km. Near the border, this route would traverse a number of farming plots.
+In conclusion, route option B mitigated the environmental impact of the project significantly. The route is
+efficient to the extent that it is less than 5 percent longer in distance than the direct route from Luano to the
+
+
+
+8
+ISDS
+border crossing. In addition, the siting of the line within the boundaries of an existing wayleave
+significantly provides the following benefits:
+the line is constructed in an area that has not been significantly developed;
+*      the visual impact of the line is reduced;
+*      land clearance requirements to accommodate a line within an existing wayleave are significantly
+lower than if a completely new wayleave had to be established;
+*      the extent of physical relocation and other social impacts were significantly reduced to minimal
+levels.
+Altemative Technologies: Overhead lines versus underground cables. Further, the advantages of different
+technologies, specifically, overhead transmission lines versus underground cables, were examined. Each
+option offers distinct advantages, but suffers from distinct disadvantages. While overhead lines impact on
+the landscape in rural settings and affect scenery in tourist centers, their impact is more pronounced in
+urban settings. Underground cables, by contrast, show impacts only at sealing end points, as well as at
+points where cable cooling systems are sited. For overhead lines the only land and habitat really lost is the
+land around the tower base and the access routes for construction, whereas the cable option affects the
+15-30 m width of the entire cable route. A greater degree of land will be sterilized with an underground
+cable due to the restrictions that would need to be placed upon all sub-soil activities as well as the planting
+of trees and bushes along the entire route length for safety purposes. An underground option would also
+require large areas of land to be set aside to accommodate cable joint bays, and could cause pollution from
+cable fluid leaks. Finally, as has been experienced throughout the whole of Africa, the economic case for
+the utilization of an underground circuit cannot be normally justified at this voltage level, and this is
+certainly the case for this project, as the cost of 220kV underground cable is 15 to 20 times higher than the
+equivalent capacity of overhead line. For all of these reasons, the overhead transmission system is
+environmentally, socially and economically a better choice.
+IH.D.3. Describe arrangement for the borrower to address safeguard issues
+Environmental and social safeguard measures will be put in place by each country in the South African
+Power Market program. Specifically, in the DRC, the environmental unit within the project management
+unit in SNEL will be responsible for implementation of both the environmental management plan and the
+resettlement action plan. In Zambia, the Copperbelt Energy Corporation (CEC) will take direct
+responsibility for both of these instruments. Overseeing activities in both countries will be the
+Environmental Subcommittee of SAPP, which has recently issued specific EIA guidelines for transmission
+lines to be followed by the SAPP members.
+Environmental Safeguard Issues. Each of the two agencies responsible for implementing the respective
+environmental management plans, including specific environmental safeguard issues related to natural
+habitat management, will implement some of the measures themselves or will instruct contractors working
+on the transmission line to carry out instructions as defined in the respective environmental assessments.
+The periodic reports on the implementation of the EMPs will be submitted to the World Bank for review.
+Social Safeguard Issues. SNEL in DRC and CEC in Zambia have each adopted a Resettlement Action
+Plan (RAP) to guide implementation of any necessary land acquisition and resettlement. Each RAP has
+been developed in close consultation with the affected populations. At the discretion of the World Bank,
+the status reports on the implementation of the RAPs will be submitted to the World Bank for review.
+IL.D.4. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard
+policies, with an emphasis on potentially affected people.
+
+
+
+9
+ISDS
+The key stakeholders include those proposing the project, those benefiting from the project, and those
+affected by the project.
+The project proponents include: the Governments of the countries involved in the interconnection, the
+SADC national power utilities organized in the SAPP, and independent power producers. These
+proponents are in constant communication over the design and implementation of the program and its
+sequencing. The power utilities, through the SAPP Subcommittees (including Environmental
+Subcommittee) and Working Groups, have directed project design and preparation. Subsequently, the
+SAPP Coordination Center will be actively involved in implementation, monitoring and evaluation of the
+project, including safeguard issues.
+The project beneficiaries, the customers who will benefit from improved power supply, are regularly
+canvassed by their utility companies. The customers include both household consumers and industrial
+consumers, who are represented by their trade groups. The utility companies thus receive the views of
+consumers through individual and organized contacts, and can represent these views in regional forums.
+The third group of stakeholders, the people affected by the project initiative, is the group of most concern
+here. Their views and assistance have been -- and will be -- solicited throughout the project. During the
+initial field reconnaissance, project teams contacted local leaders, and organized community meetings with
+people along the proposed alignment in order to determine the optimal alignment and to identify owners and
+users of affected parcels of land. In addition, people adversely affected by the project (PAPs) have been --
+and will be -- advised regularly and in a timely manner of project developments, e.g. the sequencing of
+construction, the negotiation of compensation, the lodging of complaints.
+In the DRC, project preparation involved, first, contacting local authorities to inform them about the
+project and to obtain certain general information about their areas. These initial meetings took place
+between 31 January and 3 February 2003. Subsequently, in the second phase of the consultations, the
+village populations themselves were convened for open meetings in order to determine their concerns and
+hopes. These general meetings were followed by individual meetings with particular affected persons in
+order to determine their particular concerns. These more substantive consultations took place between 12
+and 22 March 2003.
+In Zambia, an initial scoping of study issues was conducted with stakeholders. The project then undertook
+a baseline survey to establish the existing ecological and socio-economic situation in the project area. The
+Institute of Environmental Management was active in the study area from November 2002 to January 2003
+in order to carry out this work. IEM collected primary data on the social and economic factors through
+visits to the project area, and conducted interviews with the various stakeholders including council officials,
+government departments, the affected farmers or individuals within the project area. This general study of
+environmental and social conditions was followed by a comprehensive baseline survey of the project area in
+February and March 2003 in order to determine environmental and social impacts, such as the exact extent
+of physical relocation required.
+Similarly, PAPs will have the opportunity to participate fully in the implementation of the program. For
+example, they will be able to negotiate compensation rates for their lost assets and may file grievances if
+they are unsatisfied, including compensation for unanticipated damages during construction.
+Finally, prior to appraisal, the Environmental Assessment, Environmental Management Plan, and
+Resettlement Action Plan for each activity has been disclosed publicly at the World Bank InfoShop and
+
+
+
+10
+ISDS
+made available at locales convenient to the affected population and NGOs, with at least the executive
+summary translated into local language so that everyone may be appraised of, and comment on, the
+proposed initiatives. Moreover, each RAP contains provisions that stipulate local populations are to be
+consulted throughout the program, that compensation rates are to be published and made available, that
+PAPs can negotiate the estimated values of their lost assets and have the right to lodge grievances with
+impartial parties, and that payment to the PAPs will be made in a convenient and transparent manner to
+them.
+E. Safeguiards Classification (select in SAP). Category is determined by the highest impact in any policy. Or
+on basis of cumulative impacts from multiple safeguards. Whenever an individual safeguard policy is
+triggered the provisions of that policy apply.
+[ ] SI. - Significant, cumulative and/or irreversible impacts; or significant technical and institutional risks in
+management of one or more safeguard areas
+[X] S2. - One or more safeguard policies are triggered, but effects are limited in their impact and are
+technically and institutionally manageable
+S3. - No safeguard issues
+[ ] SF. - Financial intermnediary projects, social development funds, community driven development or similar
+projects which require a safeguard framework or programmatic approach to address safeguard
+issues.
+F. Disclosure Requirements
+Environmental Assessment/Analysis/Management Plan:          Expected       Actual
+Date of receipt by the Bank                                               5/6/2003
+Date of "in-country" disclosure                                           5/13/2003
+Date of submission to InfoShop                                            5/13/2003
+Date of distributing the Exec. Summary of the EA to the Executive         6/4/2003
+Directors (For category A projects)
+Resettlement Action Plan/Framework:                         Expected       Actual
+Date of receipt by the Bank                                               4/16/2003
+Date of "in-country" disclosure                                           5/13/2003
+Date of submission to InfoShop                                            5/13/2003
+Indigenous Peoples Development Plan/Framework:              Expected       Actual
+Date of receipt by the Bank                                 Not Applicable Not Applicable
+Date of "in-country" disclosure                             Not Applicable Not Applicable
+Date of submission to InfoShop                              Not Applicable Not Applicable
+Pest Management Plan:                                       Expected       Actual
+Date of receipt by the Bank                                 Not Applicable Not Applicable
+Date of "in-country" disclosure                             Not Applicable Not Applicable
+Date of submission to InfoShop                              Not Applicable Not Applicable
+Dam Safety Management Plan:                                 Expected       Actual
+Date of receipt by the Bank                                 Not Applicable Not Applicable
+Date of "in-country" disclosure                             Not Applicable Not Applicable
+Date of submission to InfoShop                              Not Applicable Not Applicable
+If in-country disclosure of any of the above documents is not expected, please explain why. Due to
+
+
+
+11
+ISDS
+technical limitations of the system, the table above contains only the dates for the Zambian ETA, EMP and
+RAP. The dates of review and disclosure for the DRC EIA, EMP and RAP are provided below. All dates
+are actual.
+Environmental Assessment and Environmental Management Plan
+Date of receipt by the Bank              05/05/2003
+Date of in-country disclosure            06/02/2003
+Date of submission to InfoShop           06/02/2003
+Date of distributing the Exec. Summary of
+the EA to the Executive Directors        06/04/2003
+Resettlement Action Plan
+Date of receipt by the Bank              05/05/2003
+Date of in-country disclosure            06/02/2003
+Date of submission to InfoShop           06/02/2003
+Signed and submitted bv       Name                                        Date
+Task Team Leader:             Ludmilla Butenko                            09/30/2003
+Project Safeguards Specialists 1:  John A. Boyle                          10/01/2003
+Project Safeguards Specialists 2:
+Project Safeguards Specialists 3:
+Approved by:                  Name                                        Date
+Regional Safeguards Coordinator: Serigne Omar Fye                         10/01/2003
+Sector Manager                Yusupha B. Crookes                          09/30/2003
+
+
+

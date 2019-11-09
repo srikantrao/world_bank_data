@@ -1,0 +1,471 @@
+﻿                   INTEGRATED SAFEGUARDS DATASHEET
+                           APPRAISAL STAGE
+
+I. Basic Information
+Date prepared/updated: 09/19/2011                                     Report No.: 64630
+1. Basic Project Data
+Original Project ID: P116194                  Original Project Name: EG-Giza North
+                                              Power Project
+Country: Egypt, Arab Republic of              Project ID: P116198
+Project Name: EG-Giza North Additional Financing
+Task Team Leader: Jianping Zhao
+Estimated Appraisal Date: August 1, 2011      Estimated Board Date: November 22, 2011
+Managing Unit: MNSSD                          Lending Instrument: Specific Investment
+                                              Loan
+Sector: General energy sector (100%)
+Theme: Infrastructure services for private sector development (100%)
+IBRD Amount (US$m.):           340.00
+IDA Amount (US$m.):              0.00
+GEF Amount (US$m.):              0.00
+PCF Amount (US$m.):              0.00
+Other financing amounts by source:
+         Borrower                                                     360.00
+         EC: European Investment Bank                                 164.00
+                                                                      524.00
+Environmental Category: A - Full Assessment
+Repeater []
+Is this project processed under OP 8.50 (Emergency Recovery)
+                                                                   Yes [ ]     No [X]
+or OP 8.00 (Rapid Response to Crises and Emergencies)
+
+2. Project Objectives
+The project development objective is to contribute to improving the security and
+efficiency of electricity supply within the Borrower#s territory by adding new generation
+capacity based on efficient thermal power generation technology.
+
+3. Project Description
+The proposed project activities to be financed by the additional financing would consist
+of the following: (i) the construction of a third 750-MW unit at the existing Giza North
+Power Plant with two 750-MW power generation units; and (ii) the construction of a 105-
+km gas transmission pipeline to ensure sufficient supply of natural gas to the expanded
+power plant; and (iii) the construction of two single circuit 500 kV overhead transmission
+lines each with a length of approximately 25 km which were upgraded from the originally
+designed 220 kV lines. In addition, the design of the Giza North power transmission
+substation is also upgraded to accommodate the larger plant. The power plant and
+transmission component is implemented by Egyptian Electricity Holding Company
+(EEHC) and its subsidiaries, and the gas pipeline component is implemented by Egyptian
+Natural Gas Co. (GASCO).
+
+4. Project Location and salient physical characteristics relevant to the safeguard
+analysis
+The power plant is located at Giza North, on the El-Beheiry canal in El-Kata village, the
+Sixth of October governorate. It is on El-Manashi / El-Khatatba road, with Riah El-
+Beheiry canal from the east and agriculture land from the north, south and west sides.
+The site is located approximately 30 kilometers northwest of Cairo City and along the
+Manshyyet El-Qanater / Etay El-Baroud Regional Road, which runs parallel to the El-
+Rayyah El- Beheiry canal. The site is a part of the flat agricultural land partly covered
+with fruit trees and palm trees. The site has historically been used for cultivation of wheat
+and vegetables and showed no evidence of any current or past encroachment or squatters.
+The site with approximately 295,000 square meters of flat land is flanked on three sides
+(west, north and east) by agriculture lands with similar land use. The main road runs
+parallel to the southern side of the site connecting to the city - Sixth of October, which is
+15 km east with a reported population of over a million people. The site did not indicate
+presence of any industrial contamination or waste disposal or cultural properties. The site
+of the Giza North power plant was chosen due to its proximity to water canal, gas
+network and the national electricity transmission network.
+
+  The 105 km Nubaria-Metnama pipeline will be buried below the ground level at a depth
+of 2-3 meters. It will run through agricultural lands and cross transportation routes and
+waterways. Farming will be temporarily disrupted but no physical resettlement is
+expected. After completion of works, the land will be fully restored to original condition,
+and farmers will be allowed to cultivate. There will be some restriction within the right of
+way with respect to future construction that may potentially damage the pipeline. All
+river and water body crossing for the pipeline will use Horizontal Directional Drilling
+(HDD) technique to pass under the river bed, which is an internationally accepted
+standard practice to minimize environmental obstruction to water course. Most of the
+land acquisition will be temporary and limited to the construction period. Only about 4
+feddans (about 4 acres) are expected to be acquired permanently for the valve rooms.
+With regard to temporary land acquisition it should be noted that Egypt has a well-
+established and transparent crop compensation system that is generally in compliance
+with Bank safeguard policies. Farmers will be compensated for loss of agricultural
+income prior to the start of physical works. This approach has successfully been applied
+in several previous Bank-funded projects and the proposed gas pipeline construction
+should benefit from this experience. Compensation rates are well known and detailed
+records are kept. Farmers interviewed generally expressed satisfaction with the system.
+The exact alignment of the pipeline is not yet finalized but communities have been
+consulted, and are reportedly supportive of the project.
+
+ Preliminary routes for transmission lines have been identified, while the final ground
+survey will mark the location of tower footings.
+5. Environmental and Social Safeguards Specialists
+   Mr Knut Opsal (EASER)
+   Mr Sanjay Srivastava (SARDE)
+
+6. Safeguard Policies Triggered                               Yes         No
+Environmental Assessment (OP/BP 4.01)                          X
+Natural Habitats (OP/BP 4.04)                                              X
+Forests (OP/BP 4.36)                                                       X
+Pest Management (OP 4.09)                                                  X
+Physical Cultural Resources (OP/BP 4.11)                                   X
+Indigenous Peoples (OP/BP 4.10)                                            X
+Involuntary Resettlement (OP/BP 4.12)                          X
+Safety of Dams (OP/BP 4.37)                                                X
+Projects on International Waterways (OP/BP 7.50)               X
+Projects in Disputed Areas (OP/BP 7.60)                                    X
+
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project.
+Identify and describe any potential large scale, significant and/or irreversible impacts:
+An ESIA was undertaken for original Bank funded project, which proposed to finance
+construction and operation of 2x750 MWe, dual fuel Combined Cycle power plant. The
+ESIA was reviewed, cleared and disclosed following a rigorous Bank safeguards review
+process. The proposed additional financing includes financing of an additional unit of
+750 MWe, increasing the capacity of Giza North power project to 3x750 MWe. The
+earlier ESIA study from 2010 was updated by EEHC through independent consultants by
+assessing environment and social impacts of another unit of 750 MWe, which are
+summarized below.
+
+ The 3x750 MWe gas power plant will continue to be based on Combined Cycle Gas
+Turbines (CCGT) including low NOx burners and once through cooling system designed
+to meet the World Bank emission and discharge requirements. The additional unit will be
+housed in the same original site, which is a flat land purchased directly from a private
+owner through a commercial transaction that has been completed and settled. The site has
+historically been used for cultivation of wheat and vegetables and showed no evidence of
+any current or past industrial or commercial activity or encroachment or squatters.
+
+ Given the location of site, easy and adequate availability of water next to the site, choice
+of gas as primary fuel and choice of technology and easy access to highway, the ESIA
+indicates that environmental impacts associated with the site will be primarily
+construction related such as increased dust, noise, and vibration, which are expected to be
+non significant, reversible and non-cumulative. Any adverse environmental impacts that
+may result during construction will be mitigated by implementing an Environmental
+Management Plan, prepared as part of the ESIA.
+  Regarding the operation of the power plant, the Gas Turbine Units will be dry NOx
+type, i.e. equipped with low-NOx combustors, minimizing the emission of NOx which is
+the key pollutant associated with combustion of natural gas. Detailed design will also
+consider further NOx reduction techniques, such as over fire air ports and flue gas re-
+circulation. Air pollution control systems will ensure compliance with both the WB and
+EEAA emission standards for power plant. Stack emissions to the air from the proposed
+plant are expected to be within the Egyptian, as well as the World Bank guidelines, with
+full compliance with SO2 standards when firing the emergency light fuel oil. The
+anticipated ambient air quality (PM10, NOx and SOx) due to emissions from 3x750
+MWe plant will be well within the Egyptian 24-hour limit of 150 ug/m3. The maximum
+24-hour ambient impact level of NOx at Giza North power project is 125.6 #g/m3
+(excluding the background level). The maximum combined 1-hour impact level,
+including the highest value during 2006, is 354.75 #g/m3. The Giza North plant
+contributed 327.3 #g/m3 at this location. To ensure continuous compliance with the
+emission levels, monitoring stations equipped with meteorological monitoring system
+within the power plant site will be installed to regularly monitor air quality in the area.
+  Cooling water and process water for power plant operation will be drawn from the El-
+  Rayyah El-Beheiry (a small branch out of the mainstream of the Nile river) via an intake
+structure. The quantity of the cooling water that will be returned back to the El-Rayyah
+El-Beheiry is about 40.8 m3/sec, which represents a loss of about only about 0.07%.
+Potable water will be supplied to the power plant via the El-Kata local potable water
+system. Cooling water will be returned to the El-Rayyah El-Beheiry via a discharge
+structure whilst waste process water will be disposed through El-Kata local sewer system
+or after treatment via discharge system. No ground water or other surface water will be
+used during power plant construction and operation. The Contractors will be responsible
+for relevant water/toilet facilities during construction and the need to provide appropriate
+services will be specified in their contracts. The aquatic environment surrounding the
+project site is characterized by poor biodiversity and no sensitive ecosystems. The project
+is expected to have limited and insignificant impacts due to construction of the power
+plant, dredging and or due to construction of the intake and discharge structures In
+addition, good site management and engineering practices during construction will ensure
+that any residual impacts are reduced to a minimum. A wastewater treatment facility on
+the site will treat liquid wastes and produce an effluent suitable for discharge into the
+canal. All oil waste effluents will be collected into a separate network and sent to an oil
+separator, then disposed of by a specialized company. The use of water treatment
+chemicals will be reduced to the minimum required to achieve safe and efficient
+operation of the power plant.
+
+ Power plant operation will result in a heated plume of returned cooling water being
+discharged into the El-Rayyah El-Beheiry. Thermal modeling of the discharge plume
+shows that, at max. operational conditions, the point at which the plume has decreased in
+temperature to 3°C above ambient, lies at approximately within 100 m from the point of
+discharge. The temperature of the returned cooling water at the point of discharge
+conforms to the Egyptian Standard, and the discharge as modeled satisfies the World
+Bank standard of a maximum increase of 3°C above ambient at the edge of the full
+mixing zone.
+ The construction of the Giza North power plant is expected to generate an ambient
+maximum noise level of 59 dB(A) during the day at the fence of the power plant and 57
+dB(A) at night. These worst-case construction noise levels are both within Egyptian and
+World Bank guidelines, and for most of the construction periods, the noise levels will be
+lower than these values.
+
+ As assessed during the original project, the land requirements for associated
+infrastructure will be minimal, and a Resettlement Policy Framework has been developed
+that provides details of policies, procedures and implementation arrangements to address
+any cases of involuntary resettlement that may arise. In case of land acquisition,
+Resettlement and rehabilitation will be addressed through preparation of a specific
+Resettlement Action Plan.
+
+ The associated infrastructure requirements due to new additional unit of 750 MWe will
+be changed to some extent. The environmental impacts of associated infrastructure such
+as gas pipeline, transmission lines, potable water connections and access road are
+expected to be localized, short lived, and reversible. Mitigation measures have been
+provided by adequate institutional arrangements and budget for effective implementation,
+supervision and monitoring. These requirements will be included as conditions of
+contract on the contractor and any subcontractors employed to build or operate any part
+of the power plant.
+
+  The Giza North power plant will be connected to the Egyptian Unified Power System
+(UPS), which is owned and operated by the Egyptian Electricity Transmission Company
+(EETC), a subsidiary company to the EEHC, via connecting transmission lines.
+Connection methodology includes evacuation of power generated by the three modules
+(3x750 MWe) via both 220 kV and 500 kV national grids. The connection will include -
+a) Connection to the 220 kV grid using four circuits 220 kV underground cables between
+Abo-Ghaleb and Giza North with a length 2.5 km and construction of 220 kV double
+circuit overhead transmission line between Ashmoun and Giza North 220 kV with a
+length about 10 Km; and b) Connection to the 500 kV grid through construction of Giza
+North substation 500 /220 kV; and construction of 25 km of 500 kV single circuit
+overhead line between Cairo and Giza North. A generic Environment and Social
+Management Plan (ESMP) has been included in the ESIA of Giza North Power Plant.
+The exact alignment for the transmission line routes and tower footings will be known
+during implementation after actual ground survey, after which a site specific ESMP and
+site specific Resettlement Action Plan (RAP) will be prepared. Before finalization of the
+transmission lines design, the ESMP and RAP will be reviewed by the Bank# safeguards
+team and disclosed to ensure compliance with the Bank policies. The project will use
+manual methods for removal of shrubs along the right of way for the transmission lines,
+and does not envisage use of herbicides or chemicals for maintenance of right of way,
+therefore, the policy on Pest Management has not been triggered (OP 4.09). ESIA
+includes procedures consistent with the Bank policy on Cultural Properties OPN4.11, for
+any chance find of any cultural properties. The majority of affected land owners seem to
+have fairly large farms, with average land holdings estimated at 8-10 Feddans. The land
+required for each tower footing is expected to be maximum 20x20 meters. This
+requirement will be almost half for angle towers compared to suspension towers. Very
+small pieces of land will be taken against compensation, but no resettlement will be
+associated to the power interconnecting lines.
+
+ GASCO has determined the pipeline routing in accordance with normal international
+practice, it having been chosen to avoid, as far as possible, the crossing of major
+infrastructure/ natural features (roads, railways, rivers, etc.) and to minimize disturbance
+to the agricultural land through which they pass for most of the route. The gas pipeline
+will be buried underground along the identified route and only about 4 feddans (about 4
+acres) are expected to be acquired permanently for the valve rooms. Most of the impacts
+will be construction related and are expected to be temporary and insignificant. The
+anticipated environmental impacts include generation of dust, noise and workers health
+and safety issue.
+
+ A separate Environmental and Social Impact Assessment has been prepared for the
+Nubaria # Metnama pipeline. Finally Resettlement Policy Frameworks (RPFs) have been
+prepared for the power plant and the Nubaria # Metnama pipeline respectively to ensure
+that any land acquisition will be in compliance with both Egyptian legislation and Bank
+relevant rules and regulations. The RPFs will as relevant be used as a basis to identify,
+prepare, implement and monitor Resettlement Action Plans.
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future
+activities in the project area:
+The updated ESIA for the power plant indicates that the environmental and social
+impacts associated with the power plant including the associated infrastructure, if
+mitigation measures are implemented, will not be of major significance , unprecedented
+or irreversible. The indirect impacts of associated infrastructures are summarized as
+follows:
+
+ Access Road. As part of the development of the power plant, an existing access road
+will be paved from the main regional road on the verge of the site west southern
+boundary to the inside of the proposed site, over a very short distance of about 1.7 km.
+The environment impacts of construction will be mitigated and monitored using the
+Environment management plan. It is likely that the right of way of the existing road will
+be sufficient and additional land acquisition is not expected.
+
+  Potable water connections: Even though potable water network may exist to the power
+plant site, the power plant produces its demand of potable water via its own water
+treatment system. No potable water pipelines are envisaged to be extended particularly
+for the power plant
+
+ Local livelihoods: A few part time fishermen utilize the waters near the planned power
+plant. Based upon experience from a number of similar plants elsewhere along the Nile
+ River and its branches, as well as the opinions of the fishermen, the impacts of slightly
+warmer water on fisheries are likely to be positive.
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize
+adverse impacts.
+A #no action alternative# was considered but was found to be unviable as it will result in
+the demand for electricity exceeding supply, with an increasing deficit as demand
+increases in future years, which is likely to have much higher social and economic
+implications.
+
+ The project also considered various choice of technology for meeting the power needs.
+This included: gas/oil-fired steam units; gas/oil-fired combined cycle units; gas/oil-fired
+simple cycle combustion turbine units; pumped storage; wind farms; and integrated solar-
+combined cycle generating units. Other possible options included #importing electricity#,
+#rehabilitation of existing power plants#, #transmission and distribution investment# and
+#IPPs#. However, an assessment of various economic, social and environmental
+parameters favor a gas/oil-fired combined cycle units of a net 3x750 MWe generating
+capacity at Giza North. An analysis of alternatives indicated that compared to other fossil
+fuel generating technologies, gas-fired combustion turbine generators have a relatively
+low emissions of carbon dioxide (CO2), moderate emission levels of nitrogen oxides
+(NOx) and the lowest emission levels (almost traces) of sulfur dioxide (SO2) and
+particulates. Analyses of various choice of fuel indicated that Natural gas has the least
+and social environmental impacts.
+
+ A comparative analysis of various designs options for power plants was undertaken to
+decide the current design, which includes a stack designed to maximize buoyancy and
+dispersion of emissions and its height (82 m) exceeding good engineering practice; Gas
+Turbines equipped with low NOx combustors minimizing emissions of NOx; direct
+cooling water to maximize generating efficiency, minimizing visual impact, noise
+emissions and the potential for visible vapor plumes or ground fogging.
+
+ The ESIA considered 3 sites for power generation plant. The selected site was chosen
+due its proximity to road, water canal, transmission links and with low environmental and
+social impacts. Two alignment options were considered for transmission lines. A shorter
+connection had also been discussed, but has not been found acceptable as it will likely go
+through a number of orchards as well as cultivated lands.
+
+  The proposed option seems to be less intrusive, both in terms of adverse socio-economic
+impacts and land acquisition challenges. The proposed transmission route and
+transmission towers would be footed mostly (at least 80%) on dry, unproductive land.
+The final location of towers and sub stations is yet to be determined following a detailed
+land survey. A preliminary walk through of these sites does not indicate the presence of
+any sensitive habitats or receptors indicating that the identified route will cause no
+significant, cumulative or irreversible environmental impacts.
+
+ There are several conceivable alternative routes for the Nubaria # Metnama pipeline, but
+in selecting the proposed alignment GASCO has made a systematic effort to avoid any
+buildings and structures, including graveyards, religious sites and any possible historical
+areas.
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide
+an assessment of borrower capacity to plan and implement the measures described.
+The Project Management Units will have the overall responsibility for implementation of
+Environment and Social Management Plans and the RPFs. The PMU will hire
+environmental and social specialists who will work closely with contractors and
+subcontractors to ensure that all environment and social impact mitigation measures
+including occupation, health and safety guidelines are mainstreamed into the project
+design; monitored and supervised. Assistant Plant Manager reporting directly to
+Chairman/General Manager of CEPC and supported by CEPC Project Manager in
+collaboration with PGESCo Site Manager will have direct responsibility for the
+Environment, Safety and Quality Assurance program on site during construction and
+operation. All staff employed at the plant will be trained in general operation of the
+power plant; occupational health and safety; and contingency plans and emergency
+procedures.
+
+ Egypt has a well established and transparent crop compensation system that is generally
+in compliance with Bank safeguard policies. Farmers will be compensated prior to
+initiating any construction works for any temporary loss of agricultural income. This has
+been applied successfully in several previous Bank-funded projects and compensation
+rates are well known and detailed records are kept.
+
+5. Identify the key stakeholders and describe the mechanisms for consultation and
+disclosure on safeguard policies, with an emphasis on potentially affected people.
+During the preparation of ESIA and RPF for the original project, the client undertook
+consultations with a variety of organizations to assist them in the identification of
+environmental and social concerns and the overall development of the project. These
+stakeholders included the Egyptian Electricity Holding Company (EEHC), Cairo
+Electricity Production Company (CEPC), Egyptian Environmental Affairs Agency
+(EEAA), the 6th of October Governorate and the District Council of the 6th of October,
+including Imbaba & Menshat El-Qanater zone, Egyptian General Authority for Shore
+Protection, Hydraulics Research Institute and local population leaders. The purpose of
+these consultations was primarily to provide information regarding the project, identify
+published and non-published sources of relevant data and information relating to the site
+and surrounding area, obtain views on the scope of the project, and open channels for
+ongoing discussions The key environmental and social issues raised during these
+consultations are summarized in the ESIA report and these issues were subsequently
+taken into account in the preparation of ESIA documentation both for local permitting
+requirements and this ESIA report. Mini meetings were held with fishermen along the El-
+Rayyah El-Beheiry at about 5 km to the north west of the proposed site, the El-Kata area
+representatives, Imbaba and Menshat El-Qanater District Administration, General
+Authority for Fishery Development and two active NGOs in the 6th of October zone,
+"October for Environment & Development", 6 of October City, and "Youth and
+Environment Friends", Siqil, Ossim.
+ In addition to continued consultation during the ESIA process for the original project,
+formal consultations were undertaken by EEHC and CEPC to discuss the ESIA/ESMP
+and RPF. A scoping session was convened on October 21, 2009 where a wide selection
+of stakeholders participated. A second public consultation meeting was held on January
+11, 2010. No scoping session was held for the additional financing, but a public
+consultation session was convened at the draft ESIA stage. On February 17, 2011 36
+persons participated in the Nubaria # Metnama pipeline consultations, and April 19, 2011
+over 150 persons participated in consultations on the power plant. The details of the
+above meetings have been outlined in the ESIAs for the original project and AF
+respectively, and the documentation includes Q & A, newspaper advertisements,
+invitations, consultation agendas, list of participants, nontechnical summary, as well as
+presentation slides and photos.
+
+  1.    The addition of a third 750 MW unit triggers the policy on Projects on
+International Waterways (OP 7.50). Therefore, the Bank notified the riparian states
+(Burundi, Democratic Republic of Congo, Ethiopia, Eritrea, Kenya, Rwanda, Southern
+Sudan, Sudan, Tanzania, and Uganda) along the River Nile that the GOE is currently
+preparing the Additional Financing for Giza North Project on August 11, 2011 and
+provided with them 30 days for any comments and response. No comments were received
+from any of the riparian states during the notification period. Based on the location of the
+power plant and the findings of the ESIA, the team#s assessment is that the proposed
+project activities will not cause appreciable harm to the other riparian states.
+
+
+
+B. Disclosure Requirements Date
+Environmental Assessment/Audit/Management Plan/Other:
+  Was the document disclosed prior to appraisal?                     Yes
+  Date of receipt by the Bank                                     05/31/2011
+  Date of "in-country" disclosure                                 05/31/2011
+  Date of submission to InfoShop                                  06/24/2011
+  For category A projects, date of distributing the Executive
+                                                                  07/07/2011
+  Summary of the EA to the Executive Directors
+Resettlement Action Plan/Framework/Policy Process:
+  Was the document disclosed prior to appraisal?                     Yes
+  Date of receipt by the Bank                                     05/31/2011
+  Date of "in-country" disclosure                                 05/31/2011
+  Date of submission to InfoShop                                  06/23/2011
+Indigenous Peoples Plan/Planning Framework:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+Pest Management Plan:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+* If the project triggers the Pest Management and/or Physical Cultural Resources,
+the respective issues are to be addressed and disclosed as part of the Environmental
+Assessment/Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please
+explain why:
+
+
+
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the
+ISDS is finalized by the project decision meeting)
+
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) report?              Yes
+If yes, then did the Regional Environment Unit or Sector Manager (SM)          Yes
+review and approve the EA report?
+Are the cost and the accountabilities for the EMP incorporated in the          Yes
+credit/loan?
+OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy framework/process              Yes
+framework (as appropriate) been prepared?
+If yes, then did the Regional unit responsible for safeguards or Sector        Yes
+Manager review the plan?
+OP 7.50 - Projects on International Waterways
+Have the other riparians been notified of the project?                         No
+If the project falls under one of the exceptions to the notification           N/A
+requirement, has this been cleared with the Legal Department, and the memo
+to the RVP prepared and sent?
+Has the RVP approved such an exception?                                        N/A
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the World Bank's       Yes
+Infoshop?
+Have relevant documents been disclosed in-country in a public place in a       Yes
+form and language that are understandable and accessible to project-affected
+groups and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional responsibilities    Yes
+been prepared for the implementation of measures related to safeguard
+policies?
+Have costs related to safeguard policy measures been included in the project   Yes
+cost?
+Does the Monitoring and Evaluation system of the project include the           Yes
+monitoring of safeguard impacts and measures related to safeguard policies?
+Have satisfactory implementation arrangements been agreed with the             No
+  borrower and the same been adequately reflected in the project legal
+  documents?
+
+
+  D. Approvals
+
+Signed and submitted by:                               Name                Date
+Task Team Leader:                   Mr Jianping Zhao                     09/13/2011
+Environmental Specialist:
+Social Development Specialist
+Additional Environmental and/or     Mr Hocine Chalal                     09/13/2011
+Social Development Specialist(s):   Ms Hana Salah                        09/13/2011
+
+Approved by:
+Regional Safeguards Coordinator:    Mr Hocine Chalal                     09/13/2011
+  Comments:
+Sector Manager:                     Ms Patricia Veevers-Carter           09/14/2011
+  Comments:
+

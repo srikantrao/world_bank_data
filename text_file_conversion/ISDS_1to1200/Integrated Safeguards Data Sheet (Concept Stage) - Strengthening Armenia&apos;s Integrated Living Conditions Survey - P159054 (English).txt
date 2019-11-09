@@ -1,0 +1,186 @@
+                                           INTEGRATED SAFEGUARDS DATA SHEET
+                                              IDENTIFICATION / CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                                Report No.: ISDSC16871
+
+                         Date ISDS Prepared/Updated: 04-Oct-2016
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:             Armenia                         Project ID:       P159054
+                            Project Name:        Strengthening Armenia's Integrated Living Conditions Survey
+                            Team Leader(s):      Moritz Meyer,Nistha Sinha
+                            Estimated Date       01-Dec-2016
+                            of Approval:
+                            Managing Unit:       GPV03                           Lending           IPF
+                                                                                 Instrument:
+                            Financing (in USD Million)
+                            Total Project Cost: 0.2                            Total Bank Financing: 0
+                            Financing Gap:      0
+                              Financing Source                                                                            Amount
+                              Trust Fund for Statistical Capacity Building                                                   0.2
+                            Environment         C - Not Required
+                            Category:
+Public Disclosure Copy
+
+
+
+
+                           B. Project Development Objective(s)
+                           The development objective of this activity is to strengthen poverty monitoring in Armenia via
+                           improvements to the quality of microdata (ILCS) collected by the National Statistical Service
+                           (NSSRA).
+                           C. Project Description
+                           This grant project aims to improve the quality of the ILCS.
+
+                           First, the ILCS survey last underwent improvements in 2004, more than 10 years ago. A review of
+                           the sampling design and survey procedures would be important to undertake so that the survey
+                           design can be updated.
+
+                           Second, over the last decade the country has experienced population shifts and changes in structure
+                           of economic activity which should be reflected in the ILCS survey design. Non-response has
+                           emerged as a concern with the highest rate of refusal (18 percent) in the capital city, Yerevan. Up
+                           until the 2013 survey, ILCS was using a sampling frame (database of addresses) based on the 2001
+                           population census which contributed to the non-response rate. From 2014 round, the NSSRA has
+                           begun to use the list of addresses (sampling frame) derived from the 2011 population census. Given
+                           the population dynamics in the country, it is important to understand the extent to which this list of
+                         addresses is still current 6 years after the census was conducted. Because any selected household that
+                         refuses to be interviewed is replaced from a list of reserve addresses, use of an outdated sampling
+                         frame will exacerbate non-response because the reserve address might no longer exist and new
+Public Disclosure Copy
+
+
+
+
+                         housing units created after 2011 will not be represented. Procedures to address this issue will have to
+                         be developed.
+
+                         Third, there appears to be underreporting of consumption expenditures in the ILCS perhaps in some
+                         part due to better off households refusing to participate in the survey. Consumption estimated from
+                         the ILCS is only about a third of private consumption calculated from the national accounts. Such
+                         discrepancies between household and national accounts based consumption estimates are common
+                         across the world but the discrepancy tends to be much smaller than what we observe in the ILCS.
+                         This underreporting in the survey could arise from richer households refusing to participate and/or
+                         from responding households not fully reporting income/consumption. Training of field teams will
+                         help address underreporting or concealing of consumption and income by responding households
+                         given that they visit households 5 times during the month of interview and recording of consumption
+                         and income. Analysis of the characteristics of those who refuse to participate in the survey will help
+                         understand to what extent selective refusal by the better off is affecting the survey.
+
+                         Finally, working with the NSSRA, the World Bank?s poverty team in Armenia has identified the
+                         precision of poverty estimates produced by the ILCS as a key concern. The ILCS is designed to
+                         produce consumption-based poverty estimates at the national, rural-urban, and 11 regional (or marz)
+                         levels. Having precise and reliable estimates of poverty at all these levels is important for informing
+                         government?s development policies especially at the regional level. Statistically, precision or degree
+                         of reliability of poverty estimates is represented by the standard error of the point estimate of poverty
+                         (the number that is usually reported) and the associated 95 percent confidence intervals which
+                         indicate the range of poverty estimates within which the actual poverty rates must lie. One rule of
+                         convention used by statisticians is that this confidence range should not be too wide: if the point
+                         estimate of poverty is z then the confidence range should not exceed 2*0.05z. Although poverty
+                         estimates at the national and rural-urban level are estimated with some precision (that is, low
+Public Disclosure Copy
+
+
+
+
+                         standard errors and narrow 95 percent confidence intervals), marz-level poverty estimates tend to be
+                         less precisely estimated. In 2014, the national poverty estimate was 30 percent with a confidence
+                         interval of 27.9 percent and 32 percent implying that the actual poverty rate was somewhere within
+                         this range with 95 percent certainty. At the marz level this confidence interval varies widely making
+                         it difficult to rank regions by their poverty rates or estimating the number of poor. For example, both
+                         Ararat and Armavir marzes are estimated to have a poverty rate of 29 percent but the confidence
+                         interval for the latter ranges from 19 percent to 38 percent while that of the former ranges from 23.5
+                         percent to 34.6 percent.
+
+                         Expanding the sample size is important for improving reliability of poverty estimates. The accuracy
+                         or precision of the poverty estimates depends on both the sampling error, which can be measured
+                         through variance estimates, and the nonsampling error, which results from all other sources of error,
+                         including response and measurement errors as well as coding, keying and processing errors. The
+                         sampling error is inversely proportional to the square root of the sample size and hence expandi ng
+                         sample size is one way in which precision of poverty estimates can be improved. Expansion of
+                         sample size would be particularly important for the regions were the ILCS currently reports very
+                         wide confidence intervals.
+
+                         The grant will provide additional resources to NSSRA to enhance the quality of 2017 ILCS data by
+                         addressing the issues identified above. This grant will be complemented with a Bank-executed
+                           technical assistance supporting a review of survey design and processes, identifying the updates/
+                           changes needed, and providing training to NSSRA staff on these topics. The recipient executed grant
+                           will support a) implementation of updates to the survey design and training for field teams; and b)
+Public Disclosure Copy
+
+
+
+
+                           expansion of the sample size. For the given budget and costs, the grant can support the addition of
+                           2,600 households, taking the total sample to 7,784 households. The expansion of the ILCS sample
+                           will come from addition of enumeration areas (primary sampling units) rather than increases in the
+                           number of households interviewed within each enumeration area.
+
+                           The proposed activities will build on the World Bank?s ongoing engagement with NSSRA and will
+                           be complemented through a Bank-executed technical assistance for reviewing and updating sampling
+                           design and survey implementation. These enhancements will be implemented with the 2017 ILCS
+                           round.
+                           The grant has two components:
+                           1) Component 1 ($190,000, expanded ILCS sample) will implement a sampling design with
+                           expanded the sample size. The revised sampling design will be supported through a separated Bank-
+                           executed TA to the NSSRA. Based on early discussions with NSSRA, the grant could finance
+                           additional field personnel needed (consultant services), training of the additional personnel and
+                           printing of additional interview material (questionnaire, field manuals etc).
+
+                           2) Component 2 ($10,000, Project Management) will finance the operating costs of the Grant.
+                           D. Project location and salient physical characteristics relevant to the safeguard
+                           analysis (if known)
+
+
+                           E. Borrower’s Institutional Capacity for Safeguard Policies
+
+
+                           F. Environmental and Social Safeguards Specialists on the Team
+Public Disclosure Copy
+
+
+
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+                           Safeguard Policies                 Triggered?      Explanation (Optional)
+                           Environmental Assessment OP/       No
+                           BP 4.01
+                           Natural Habitats OP/BP 4.04        No
+                           Forests OP/BP 4.36                 No
+                           Pest Management OP 4.09            No
+                           Physical Cultural Resources OP/    No
+                           BP 4.11
+                           Indigenous Peoples OP/BP 4.10      No
+                           Involuntary Resettlement OP/BP     No
+                           4.12
+                           Safety of Dams OP/BP 4.37          No
+                           Projects on International        No
+                           Waterways OP/BP 7.50
+Public Disclosure Copy
+
+
+
+
+                           Projects in Disputed Areas OP/BP No
+                           7.60
+
+                         III. SAFEGUARD PREPARATION PLAN
+                               Appraisal stage ISDS required?: No
+                         IV. APPROVALS
+                           Team Leader(s):                  Name: Moritz Meyer,Nistha Sinha
+                           Approved By:
+                           Safeguards Advisor:              Name: Nina Chee (SA)                                               Date: 27-Sep-2016
+                           Practice Manager/                Name: Carolina Sanchez (PMGR)                                      Date: 29-Sep-2016
+                           Manager:
+
+
+
+                           1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the
+                           InfoShop and (ii) in country, at publicly accessible locations and in a form and language that are accessible to potentially
+                           affected persons.
+Public Disclosure Copy
+

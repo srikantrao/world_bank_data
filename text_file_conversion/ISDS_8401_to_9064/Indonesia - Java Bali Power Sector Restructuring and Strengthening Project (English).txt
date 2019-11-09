@@ -1,0 +1,255 @@
+ISDS
+THE WORLD BANK GROUP                                            AWorld Frec ol Poverty
+nfoShop
+Integrated Safeguards Data Sheet (Initial)
+Date ISDS Prepared/Updated: 03/05/2003                                  25560
+Section I - Basic Information                                       March 5, 2003
+A. Basic Project Data
+Country: INDONESIA                               Project ID: P063913
+Project: Java-Bali Power Sector Restructuring and  Task Team Leader: M. Farhandi
+Strengthening Project
+Authorized to Appraise Date: March 7, 2003       IBRD Amount ($m): 140.00
+Bank Approval: May 29, 2003                      IDA Amount ($m):
+Managing Unit: EASEG                             Sector: Power (95%); Oil and gas (5%)
+Lending Instrument: Specific Investment Loan (SIL)  Theme: State enterprise/bank restructuring and
+Status: Lending                                  privatization (P)
+I.A.2. Project Objectives:
+The development objective of the Project is to improve the performance of the power sector on Java-Bali
+by: (a) supporting the State power company (PLN) to implement its financial and corporate restructuring
+plan, and to strengthen key elements of the Java-Bali electricity supply system; and (b) assisting the State
+gas company (PGN) to prepare the groundwork for restructuring its gas transmission and distribution
+operations, given the importance of natural gas for power generation.
+This objective is to be achieved through the provision of Bank financing toward priority investments and
+technical assistance for PLN, and technical assistance for PGN. In particular, project components for
+PLN will: (i) support PLN's financial and corporate restructuring, by enhancing the company's
+information technology capabilities; (ii) achieve greater utilization of existing generation capacity on
+East Java, by relieving constraints in the bulk transmission grid; (iii) improve the reliability of existing
+generation supply at the PLN and independent power producer (IPP) geothermal power plants on West
+Java, by strengthening the associated local transmission system; and (iv) improve the reliability of power
+supply at various locations throughout Java and Bali, by strengthening and debottlenecking local
+transmission and subtransmission networks. Technical assistance to PGN will enhance its capabilities
+for expanding gas utilization on Java.
+I.A.3. Project Description:
+
+
+
+2
+ISDS
+Component I - 500kV Transmission System
+The Project will support PLN's initiatives to (a) achieve greater utilization of existing generation
+capacity on Java, (b) improve the security of supply to the cities of Cirebon and Surabaya, (c)
+debottleneck local interconnections between bulk transmission and subtransmission levels on Java; and
+(d) replenish essential stocks of associated equipment. This will be achieved through the provision of
+financing toward: (i) 500kV substation expansion; and (ii) 500kV circuit breakers.
+Component 2 - 150kV Transmission System
+The Project will support PLN's initiatives to (a) provide a level of security commensurate with the
+existing and potential PLN and IPP geothermal generation capacity evacuated through the West Java
+150kV subtransmission network near Bandung, (b) improve security of supply to Surabaya, and (c)
+relieve multiple localized overloading and voltage problems at subtransmission level, via PLN's
+150/70kV and 150/20kV transformer replacement and substation expansion program for Java-Bali (with
+specific subprojects to be approved by the Bank during project implementation). This will be achieved
+through the provision of financing toward: (i) 150kV subtransmission line uprating; (ii) 150kV substation
+extensions; and (iii) 150kV circuit breakers.
+Component 3 - Information Technology (Enterprise Resource Planning System)
+The Project will support the implementation of PLN's financial and corporate restructuring program
+through partial financing for PLN's improved information technology capabilities, in particular, the
+initial rollout of an Enterprise Resource Planning (ERP) system. This will involve partial financing of
+ERP software licenses along with related hardware (i.e., servers and local/wide area networks) and
+consulting services.
+Component 4 - PLN Technical Assistance
+The Project will support PLN to (a) implement the institutional aspects of PLN's Environmental
+Management Plan (EMP) for the Project, and (b) proceed further with preparation for the Upper Cisokan
+pumped storage plant on Java. This will be achieved through the partial financing of technical assistance
+for: (i) EMP implementation; and (ii) a review of the design of the Upper Cisokan pumped storage plant.
+Component 5 - PGN Technical Assistance
+The Project will support PGN's restructuring and institutional strengthening program, through the partial
+financing of technical assistance for: (i) gas pricing; (ii) PGN corporate restructuring; (iii) PGN gas
+distribution IPO; (iv) PGN gas transmission strategic partner; and (v) PGN capacity building.
+I.A.4. Project Location: (Geographic location, information about the key environmental and social
+characteristics of the area and population likely to be affected, and proximity to any protected areas, or sites
+or critical natural habitats, or any other culturally or socially sensitive areas.)
+The Project will support the uprating of existing transmission lines and the expansion of existing
+substations throughout PLN's 500kV and 150kV interconnected transmission system on the islands of
+Java and Bali. The key population likely to be affected are landholders along existing transmission
+rights-of-way. Nevertheless, many of the potential impacts that would normally be of concern in an
+electric transmission project are unlikely to arise under this Project. For all subprojects as currently
+envisaged under the Project, no new transmission lines are planned, and PLN already owns or has access
+rights to all of the land involved. No subcomponents are in proximity to any protected areas, sites of
+
+
+
+3
+ISDS
+critical natural habitats, or culturally/socially sensitive areas.
+B. Check Environmental Classification: B (Partial Assessment)
+Comments: Adverse environmental and social impacts of all of the Project's planned physical
+subcomponents will be minor and easily manageable by means of good engineering, construction and
+communication practice. Therefore, the Project has been rated as a category B project (i.e. Partial
+Assessment).
+C Safeguard Policies Triggered
+Policy                                Applicability
+Environmental Assessment (OP/BP/GP 4.01)                    * Yes 3' No    C TBD
+Natural Habitats (OP/BP/GP 4.04)                            C' Yes * No    0TBD
+Forestry (OP/GP 4.36)                                       C, Yes 0 No    C TBD
+Pest Management (OP 4.09)                                   C Yes * No     0'TBD
+Cultural Property (OPN 11.03)                               C Yes * No     C TBD
+Indigenous Peoples (OD 4.20)                                0 Yes *No      J} TBD
+Involuntary Resettlement (OP/BP 4.12)                       * Yes 0 No     C TBD
+Safety of Dams (OP/BP 4.37)                                 X.0 Yes * No   C TBD
+Projects in International Waterways (OP/BP/GP 7.50)         C Yes * No     C TBD
+Projects in Disputed Areas (OP/BP/GP 7.60)*                  0 Yes * No    C TBD
+*By supporting the proposed project, the Bank does not intend to prejudice the final determination of the parties' claims
+on the disputed areas
+Section II - Key Safeguard Issues and Their Management
+D. Summary of Key Safeguard Issues. Please fill in all relevant questions. If information is not available,
+describe steps to be taken to obtain necessary data.
+II.D.la. Describe any safeguard issues and impacts associated with the proposed project. Identify and
+describe any potential large scale, significant and/or irreversible impacts.
+The proposed Project activities consist of replacing or uprating the conductors on existing transmission
+lines, expanding existing substations, and improving transformers and interconnectors within the existing
+transmission system. For all subprojects as currently envisaged in the Project, no new transmission lines
+are included; therefore there will be no associated need for land acquisition or resettlement, and no
+dwellings, enterprises, or buildings will be adversely affected. Any land acquisition and compensation
+which might arise for subprojects to be prepared during project implementation will be undertaken in
+accordance with the Project's Land Acquisition and Resettlement Policy Framework. There are no
+polychlorinated biphenyls (PCB's) involved, and there will be only limited increases in exposure to
+electromagnetic fields (EMF). Principal concems relate to traffic control during rewiring, disposal of old
+equipment, coordination of activities with other departments, and public information and relations with
+communities where the subprojects would occur.
+II.D. I b. Describe any potential cumulative impacts due to application of more than one safeguard policy or
+due to multiple project component.
+There will be no significant cumulative impacts.
+II.D. I c Describe any potential long term impacts due to anticipated future activities in the project area.
+There are no potential long term impacts due to anticipated future activities in the project area.
+
+
+
+4
+ISDS
+Il.D.2. In light of 1, describe the proposed treatment of alternatives (if required)
+The choice of the Project's physical subcomponents was made after a full assessment of the Java-Bali
+supply and demand balance, along with PLN's corresponding investment program. Subcomponents were
+chosen based on their ability to: (i) achieve greater utilization of existing generation capacity on East
+Java, by relieving constraints in the bulk transmission grid; (ii) improve the reliability of existing
+generation supply at the West Java PLN and IPP geothermal power plants, by strengthening the
+associated local transmission system; and (iii) improve the reliability and quality of power supply at
+various poorly-performing locations throughout Java and Bali, by strengthening and debottlenecking
+local subtransmission networks. All of the selected subcomponents are incremental investments that will
+provide more cost effective improvements in supply efficiency, reliability and quality than would be the
+case with constructing entirely new lines and substations. Furthermore, such investments will have
+minimal environmental and social impacts, and can be commissioned more rapidly.
+Not undertaking these investments would result in continued system bottlenecks and inefficiencies, in
+turn creating an artificial demand for new power generation capacity, which-if such capacity were
+constructed-would be constrained by the same bottlenecks. One alternative might be to utilize the same
+level of funds on demand side measures. However, the Java-Bali system has suffered from chronic
+underinvestment for the past 5-6 years, and the levet of system loadings in many localized areas are far in
+excess of levels which could be efficiently mitigatecl by local demand side initiatives. Nevertheless, PLN
+is not neglecting the demand side, having already initiated a comprehensive Integrated Resource Planning
+(IRP) Program of both supply-side and demand-side measures, including: (i) increasing peak power
+tariffs relative to off-peak tariffs; (ii) offering interruptible tariffs to large consumers, as well as buyback
+tariffs from customers with their own captive power plants; and (iii) promoting the replacement of
+existing street lighting with high efficiency bulbs. (This Program is being supported through grant
+financing from USAID).
+II.D.3. Describe arrangement for the borrower to address safeguard issues
+The World Bank Group's safeguard policies on social and environmental issues were fully considered
+and addressed during project preparation. An EMP has been prepared for the Project outlining
+provisions to ensure compliance with safeguard policies during project implementation. PLN's
+established procedures for designing, constructing, and maintaining transmission lines are summarized in
+the 1996 General Policy Concerning the Establishment of Overhead Transmission Lines, and this has
+been incorporated into the Project's EMP. The General Policy addresses public participation,
+compensation and rehabilitation of property, and general mitigation measures. This Policy has
+previously been reviewed and approved by the World Bank. The existing General Policy provides
+adequate guidance for activities planned under the Project. Specific policies and procedures applicable
+to any land acquisition and compensation which may arise during the course of project implementation
+are addressed in the EMP, but have also been collated in a stand alone Land Acquisition and
+Resettlement Policy Framework. Any land acquisition and compensation which might arise for
+subprojects to be prepared during project implementation will be undertaken in accordance with this
+Policy Framework. Land Acquisition and Resettlement Action Plans consistent with this Policy
+Framework will be submitted by PLN to the Bank for approval after specific planning information on
+such subprojects becomes available.
+PLN has established a Project Implementation Unit (PIU) with overall responsibility for coordination and
+management of the Project, and a subordinate Project Environmental Team (PET) will oversee and
+coordinate all aspects of the Project's EMP. The PET will have the on-going task of environmental
+screening of all subcomponents or activities to be funded under the Project. The PET will confirm that
+for any changes or additions to the currently proposed subprojects, appropriate review is conducted. The
+
+
+
+5
+ISDS
+PET will oversee any needed AMDAL studies in collaboration with the implementing PLN project
+operations units. If either ANDAL-RKL-RPL or UKL-UPL are needed, the PET will review the terms of
+reference, and provide advice and support to the implementing unit. The PET will also review the results
+of any such studies to ensure that that they are satisfactorily completed and ready for submission to the
+relevant AMDAL Commission.
+II.D.4. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on
+safeguard policies, with an emphasis on potentially affected people.
+During the preparation of the draft EMP for the Project, PLN convened a public consultation session in
+Surabaya with representatives from many stakeholder groups: government agencies, landholders, local
+business, community organizations, and academics. During project implementation, subcomponents will
+be screened by PLN's PET in order to determine their status under Indonesia's AMDAL requirements and
+World Bank safeguard policies and procedures, in accordance with the Project's EMP. For all
+subcomponents and activities likely to be conducted under the Project, the Indonesia's AMDAL
+requirements equal or exceed the World Bank Safeguards in rigor, and an important component of the
+AMDAL process is consultation with the public at the local level, in the kecematan (sub-districts) where
+the subcomponent activities will take place. The Project's EMP and Land Acquisition and Resettlement
+Policy Framework indicate that, where consultation is required, PLN survey teams will provide
+site-specific maps describing physical impacts and project needs. Prior to any land acquisition, PLN will
+conduct a public consultation and information campaign to inform the people of the project and to absorb
+their views on impacts, concerns, compensation procedures, resettlement options, and project activities.
+If necessary, consultation programs can be assisted by qualified independent entity (i.e. university), who
+can provide informal door-to-door interviews to get reliable information and to establish close
+communication between the project and any affected people.
+E. Safeguards Classification. Category is determined by the highest impact in any policy. Or on basis of
+cumulative impacts from multiple safeguards. Whenever an individual safeguard policy is triggered the
+provisions of that policy apply.
+S1. - Significant, cumulative and/or irreversible impacts; or significant technical and institutional risks
+in management of one or more safeguard areas
+[X] S2. - One or more safeguard policies are triggered, but effects are limited in their impact and are
+technically and institutionally manageable
+[ ] S3. - No safeguard issues
+] SF. - Financial intermediary projects, social development funds, community driven development or
+similar projects which require a safeguard framework or programmatic approach to address
+safeguard issues.
+F. Disclosure Requirements
+Environmental Assessment/Analysis/Management Plan.          Expected      Actual
+Date of receipt by the Bank                                1/30/2003     1/30/2003
+Date of "in-country" disclosure                            2/14/2003
+Date of submission to InfoShop                             2/14/2003
+Date of distributing the Exec. Summary of the EA to the ED  Not Applicable Not Applicable
+(For category A projects)
+Resettlement Action Plan/Framework.                         Expected      Actual
+Date of receipt by the Bank                                1/30/2003     1/30/2003
+Date of "in-country" disclosure                            2/14/2003
+Date of submission to InfoShop                             2/14/2003
+
+
+
+6
+ISDS
+Indigenous Peoples Development Plan/Framework:              Expected       Actual
+Date of receipt by the Bank                                Not Applicable Not Applicable
+Date of "in-country" disclosure                            Not Applicable Not Applicable
+Date of submission to InfoShop                             Not Applicable Not Applicable
+Pest Management Plan.                                       Expected      Actual
+Date of receipt by the Bank                                Not Applicable Not Applicable
+Date of "in-country" disclosure                            Not Applicable Not Applicable
+Date of submission to InfoShop                             Not Applicable Not Applicable
+Dam Safety Management Plan:                                 Expected      Actual
+Date of receipt by the Bank                                Not Applicable Not Applicable
+Date of "in-country" disclosure                            Not Applicable Not Applicable
+Date of submission to InfoShop                             Not Applicable Not Applicable
+If in-country disclosure of any of the above documents is not expected, please explain why.
+Siened and submitted by       Name                                        Date
+Task Team Leader:             M. Farhandi                                 2/13/2003
+Project Safeguards Specialists 1:  Thomas E. Walton                       2/27/2003
+Project Safeguards Specialists 2:  Cyprian F. Fisiy                       2/26/2003
+Project Safeguards Specialists 3:
+Approved by:                  Name                                        Date
+Regional Safeguards Coordinator: Glenn S. Morgan                          2/28/2003
+Sector Manager/Director:      Keshav Varma (Acting)                       2/28/2003
+For a list of World Bank news releases on projects and reports, click here
+SEARCH    _ | . FEEDBACK  _  SUE M& _p     SHOWCASE -
+
+
+

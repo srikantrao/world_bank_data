@@ -1,0 +1,236 @@
+ISDS
+THE WORLD BANK GROUP                                             AWortd Free of Poverty
+E              -                                                                     i;_-
+InfoShop                                                        24227
+Integrated Safeguards Data Sheet I
+Date ISDS Prepared/Updated: 05/22/2002
+Section I - Basic Information
+A. Basic Project Data
+Country: MOLDOVA                                 Project ID: P040558
+Project: ENERGY 11                               Task Team Leader: Vladislav Vucetic
+Authorized to Appraise Date: May 9, 2002         IBRD Amount ($m):
+Bank Approval: June 18, 2002                     IDA Amount ($m): 35.00
+Managing Unit: ECSIE                             Sector: PD - Distribution & Transmission; PY -
+Lending Instrument: Specific Investment Loan (SIL)  Other Power & Energy Conversion
+Status: Lending                                  Theme: ENERGY
+I.A.2. Project Objectives:
+The objectives of the project are to:
+(i)   improve the security and reliability of the electricity transmission system and wholesale
+electricity supply and, therefore, facilitate unimpeded commercial operation of the power system, both
+domestically and internationally; and
+(ii)  improve the availability, quality, and efficiency of heating in selected priority public buildings
+(schools, hospitals, and residential buildings for disabled and other vulnerable groups).
+I.A.3. Project Description:
+The Project comprises four components:
+(A) Electricity system upgrade;
+(B) Heating supply and efficiency improvement;
+(C) Technical assistance for project implementation and energy sector reforms; and
+(D) Project management and administration (incremental operating costs).
+The total project cost is estimated at about US$43.8 million, of which US$27.4 million is the cost of the
+electricity component, US$9.4 the cost of the heating component, US$5.8 million is the cost of technical
+assistance, and US$1.2 million is the incremental operating cost.
+Component A: Electricity system upgrade. This component includes the following subcomponents:
+i. Improvement of metering in the electricity transmission networkThis component includes
+installation of energy meters at all interconnecting points of the 110-400-kV transmission
+
+
+
+2
+ISDS
+network, which would enable metering and recording of active and reactive electricity flows in
+the wholesale electricity market. The meters would record at 15-minute intervals, be able to
+transmit information to the National Dispatch Center, and have remote and on-site data
+downloading and reading capabilities. The metering system should be able to support a variety of
+market arrangements, from bilateral contracts to short-term spot markets based on competitive
+bidding.
+ii. Rehabilitation and upgrade of power system dispatch This component includes installation
+of the necessary hardware and software to enable real time acquisition of operational information
+from the main facilities (power stations and transmission system substations), analysis and
+monitoring of the system status at the National Dispatch Center, and control and dispatch of the
+power plants, load centers, and the transmission system, to maintain a reliable, secure and
+economic operation, and facilitate financial settlements in the wholesale electricity market. The
+main elements of the system include Remote Terminal Units (RTU) and the corresponding local
+data acquisition equipment at the power plants and transmission substations, the System Control
+And Data Acquisition (SCADA) system, and the Energy Management System (EMS).
+iii. Rehabilitation and upgrade of system telecommunicationThis component includes
+installation of the necessary communications equipment (fiber optics, power line carrier
+systems-PLC, and radio systems), which would serve the communication needs of metering and
+dispatch.
+iv. Priority rehabilitation of the transmission network, including environmental upgrades
+This component covers replacement and repair of high voltage transmission line pylons and the
+most urgently needed rehabilitation measures in selected high-voltage substations (station
+batteries for 11 substations, 330-kV equipment for the Chisinau, Straseni and Balti substations
+and a number of 1 10-kV circuit breakers for various substations)The component also includes
+physical mitigation measures for appropriate disposal of old PCB-containing condenser batteries,
+to be implemented when replacement of the batteries is required.
+Component B:     Heating  Supply and Efficiency ImproQdiientomponent includes
+improvements in supply and distribution of heat and demand side measures for heat and hot water
+consumption in selected public buildings (schools, hospitals, and residential buildings for disabled and
+other vulnerable groups). About 20 buildings, comprising the first investment batch, have been identified
+and technically appraised. An indicative list of additional buildings has been prepared, and includes
+about 95 objects in 8 municipalities (Cantemir, Chisinau, Falesti, Floresti, laloveni, Soroca, Straseni and
+Ungeni) and under the central Ministries of Health and Education. The list includes about 50 schools and
+kindergartens with more than 15,000 pupils and about 25 hospitals and clinics with more that 4000 beds.
+A detailed analysis during the project implementation may result in some of the objects being changed
+due to technical or financial reasons. The criteria for the selection of the public buildings is in Annex 13.
+The Ministry of Energy expressed strong interest to include in the project some residential apartment
+buildings, located close to the chosen public buildings, which could be a reasonable solution from
+technical and economic point of view. At this stage (the start of the project), there is no legal,
+institutional, and regulatory framework in place to include individual private apartments and other
+commercial users into the investment project. Such framework should be developed under the
+USAID-financed technical assistance. The Energy I project could include some pilot schemes with
+residential and other buildings, in agreement with IDA and once the legal, regulatory and institutional
+framework developed by USAID-funded consultants has been implemented by the government.
+The heating component will be implemented in three batches: the first would include the already
+
+
+
+3
+ISDS
+identified and appraised 20 buildings (including the pilot project in Ungeni); the second batch will be
+prepared (identified and appraised) with the assistance of the Swedish and local consultants within 6-8
+months from the start of the project; and the third batch will be identified and appraised within 18-24
+months from the start of the project. For each batch, a technical and financial feasibility analysis of the
+proposed investments will be completed. The investments should be least cost - i.e., the proposed
+technical solution should satisfy the required heating standards at minimum costs (investment plus
+operating costs).
+Component C: Technical Assistance for Project Implementation and Energy Sector Reforms. The
+project would include technical assistance for the following activities:
+i. Project implementation: consultant services for procurement and project management for the
+electricity and heating components;
+ii. PCB follow-up study (electricity system): The environmental assessment carried out in the
+context of project preparation indicated that no appreciable adverse environmental impacts
+would result from the implementation of the proposed electricity system upgrades. However, in
+order to strengthen its capacity to deal with the potential problem of condensor batteries
+containing PCBs located at substations throughout the country, the Government has requested
+the inclusion in the technical assistance component funds to carry out a follow-up study of the
+issue, including the development of recommendations for appropriate protection of the sites and
+disposal of old PCB-containing condensor batteries, to be implemented when replacement of the
+batteries is required. Actual removal of the capacitors or renewal of old ones is not foreseen
+under the project.
+iii. Assistance for sector reforms: development of legal, institutional and regulatory framework for
+development of decentralized heating systems; audit of sector historic debts and their
+restructuring; support to energy regulatory commission; support to Moldelectrica for corporate
+operations and operation of the wholesale electricity market (including strengthening financial
+management system); support to the Government for privatization of electricity industry.
+Component D: Project Management and Administration. This component includes the incremental
+costs associated with the establishment and operation of a Project Implementation Unit, created by the
+project beneficiaries specifically for implementation of this project. The incremental cost of international
+audits of project accounts and Moldelctrica's financial statements is also included.
+I.A.4. Project Location: (Geographic location, information about the key environmental and social
+characteristics of the area and population likely to be affected, and proximity to any protected areas, or sites
+or critical natural habitats, or any other culturally or socially sensitive areas.)
+Republic of Moldova (locations throughout the country, including municipalities to be determined.)
+B. Check Environmental Classification: B (Partial Assessment)
+Comments:
+C Safeguard Policies Triggered
+Policy                                Applicability
+Environmental Assessment (OP/BP/GP 4.01)                   * Yes     No     TBD
+Forestry (OP/GP 4.36)                                         Yes *No       TBD
+Natural Habitats (OP/BP 4.04)                                 Yes *No    STBD
+
+
+
+4
+ISDS
+Safety of Dams (OP/BP 4.37)                                  Yes * No      TBD
+Pest Management (OP 4.09)                                    Yes * No      TBD
+Involuntary Resettlement (OP/BP 4.12)                        Yes 0 No      TBD
+Indigenous Peoples (OD 4.20)                                 Yes * No      TBD
+Cultural Property (OP 4.1 1)                                 Yes *No       TBD
+Projects in Disputed Territories (OP/BP/GP 7.60)*            Yes * No    ^ TBD
+Projects in International Waterways (OP/BP/GP 7.50)          Yes * No      TBD
+*By supporting the proposed project, the Bank does not intend to prejudice the final determination of the parties'claims
+on the disputed areas
+Section II - Key Safeguard Issues and Their Management
+D. Summary of Key Safeguard Issues. Please fill in all relevant questions. If information is not available,
+describe steps to be taken to obtain necessary data.
+II.D.la. Describe any safeguard issues and impacts associated with the proposed project. Identify and
+describe any potential large scale, significant and/or irreversible impacts.
+The only safeguard policy that applies to this project is Environmental Assessment. Generally it is expected
+that the project will have no appreciable adverse environmental impacts, but instead will have environmental
+benefits associated with the replacement of old equipment with more environmentally-benign equipment,
+and the execution of certain mitigation measures that otherwise would likely not be carried out. Details are
+provided in the PAD.
+II.D. lb. Describe any potential cumulative impacts due to application of more than one safeguard policy or
+due to multiple project component.
+None.
+II.D.1c Describe any potential long term impacts due to anticipated future activities in the project area.
+None anticipated.
+II.D.2. In light of 1, describe the proposed treatment of alternatives (if required)
+N/A
+II.D.3. Describe arrangement for the borrower to address safeguard issues
+The Borrower prepared Environmentl Management Plan for the project. Implementation of the EMP will be
+a covenant in the Development Credit Agreement.
+II.D.4. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on
+safeguard policies, with an emphasis on potentially affected people.
+Key stakeholders include the Government of Molodova; Moldelectrica; by extension, all users of electricity
+in Moldova (essentially the entire population); the municipalities that will participate in the heating
+component.
+The Ministry of Energy published an announcement in the major newspapers of Moldova, indicating the
+availability for review of the project EMP by any interested party. The same public announcement included
+information on a public meeting for discussion of the project EMP. The public meeting was organized by
+the Ministry of Energy with the active participation of the Ministry of Environment and Territorial
+
+
+
+5
+ISDS
+Development (Environmental Policy Division), which routinely maintains close working ties with the
+environmental NGOs represented in Moldova. The public meeting took place on May 15, 2001 and was
+attended by 45 representatives of various NGOs, the media, municipalities and ministries. The Borrower's
+combined EA/EMP for the project was submitted to the Bank in August 2001, together with the report on
+the public consultation and disclosure process.
+E. Safeguards Classqifcation. Category is determined by the highest impact in any policy. Or on basis of
+cumulative impacts from multiple safeguards. Whenever an individual safeguard policy is triggered the
+provisions of that policy apply.
+] SI. - Significant, cumulative and/or irreversible impacts; or significant technical and institutional risks
+in management of one or more safeguard areas
+[X] S2. - One or more safeguard policies are triggered, but effects are limited in their impact and are
+technically and institutionally manageable
+] S3. -No safeguard issues
+] SF. - Financial intermediary projects, social development funds, community driven development or
+similar projects which require a safeguard framework or programmatic approach to address
+safeguard issues.
+
+
+
+6
+ISDS
+F. Disclosure Requirements
+Environmental Assessment/Analysis/Management Plan:            Expected      Actual
+Date of receipt by the Bank                                                 8/8/2001
+Date of "in-country" disclosure                                             5/15/2001
+Date of submission to InfoShop                                              2/13/2002
+Date of distributing the Exec. Summary of the EA to the ED
+(For category A projects)
+Resettlement Action Plan/Framework:                          Expected       Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+Indigenous Peoples Development Plan/Framework:               Expected       Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+Pest Management Plan:                                        Expected       Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+Dam Safety Management Plan:                                  Expected       Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+If in-country disclosure of any of the above documents is not expected, please explain why.
+Signed and submitted by        Name                                        Date
+Task Team Leader:             Vladislav Vucetic                            May 9, 2002
+Project Safeguards Specialists 1:
+Project Safeguards Specialists 2:
+Project Safeguards Specialists 3:
+Approved by:                  Name                                         Date
+Regional Safeguards Coordinator: Bernard Baratz                            May 13, 2002
+Sector Manager/Director:       Hossein Razavi                              May 14, 2002
+For a list of World Bank news releases on projects and reports, click here
+SEAlCH         FEE0UACK       SrE MAP        SMOWCASE
+
+
+

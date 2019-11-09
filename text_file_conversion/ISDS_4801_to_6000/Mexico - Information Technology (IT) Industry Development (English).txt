@@ -1,0 +1,506 @@
+Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+I.  Basic Information
+ 
+Date prepared/updated:  06/09/2008 
+Report No.:  AC3727
+1. Basic Project Data  
+ 
+Country:  Mexico 
+Project ID:  P106589 
+Project Name:  Information Technology (IT) Industry Development 
+Task Team Leader:  Eloy Eduardo Vidal 
+Estimated Appraisal Date: January 21, 
+2008 
+Estimated Board Date: July 15, 2008 
+Managing Unit:  CITPO 
+Lending Instrument:  Specific Investment 
+Loan 
+Sector:  Information technology (100%) 
+Theme:  Other financial and private sector development (P) 
+IBRD Amount (US$m.): 
+80.00 
+IDA Amount (US$m.): 
+0.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ Borrower 
+0.00 
+ Financing 
+Gap 
+0.00
+0.00 
+Environmental Category: B - Partial Assessment 
+Simplified Processing 
+Simple [X] 
+Repeater [] 
+Is this project processed under OP 8.50 (Emergency Recovery) 
+or OP 8.00 (Rapid Response to Crises and Emergencies) 
+Yes [ ] 
+No [X] 
+2. Project Objectives 
+The objective of the Project is to assist the Government of Mexico to implement an 
+alternative strategy for PROSOFT to foster the creation of jobs in Mexican IT Companies 
+by improving their competitiveness and efficiency through access to: (a) a larger supply 
+of trained personnel; (b) technologies, quality standards and global marketing networks 
+of multinational corporations; and (c) private debt finance.   
+ 
+3. Project Description 
+The project is designed in response to a strong demand from State Governments , and 
+strongly reinforces previous efforts mad
+e
+by the Secretar√≠a de Econom√≠a through the 
+PROSOFT program. The project would cost US$80.0 million, financed by the Bank.  
+ 
+The project would include the following components with Bank financed amounts in 
+parenthesis:  
+ 
+A. 
+Human Skills Development (US$38.3 million)  
+ 
+Page  2
+This component would help the IT/ITES industry to compete globally by increasing the 
+quantity, and improving the quality of skilled manpower. The Project would support 
+establishing the M√©xico Federal Institute for Remote Services and Technology 
+(MexicoFIRST), using a PPP approach that would bring together leading corporations, 
+industry organizations, global standards bodies, academia and government entities. 
+MexicoFIRST will facilitate the design of courses and skill development programs for 
+niche specializations in areas having good market potential, and in line with industry 
+requirements. It would complement existing university programs.  
+ 
+B. 
+Strengthening of IT Clusters (US$9.0 million)  
+ 
+This component will help existing IT Clusters and associations in promising States 
+having high potential in the IT/ITES sector.  
+ 
+C. 
+ Financing of the IT Industry (US$2.9 million)  
+ 
+This component will create the ìFinancing of IT Companies Accreditation Programî 
+(FIT). This program will seek to reduce the information asymmetry between Financing 
+Intermediaries (FI) and enterprises and thus facilitate credit to the sector. Business 
+schools and other training centers would be invited to participate in the FIT program.  
+ 
+D. 
+Supporting Infrastructure (US$10.1 million)  
+ 
+This component would finance technical assistance to prepare feasibility studies, design, 
+and bidding specifications based on a PPP model for IT Parks in selected locations 
+(US$0.9 million); and the Federal Government portion of the investment required for 
+each PPP for the IT Parks. (US$9.2 million).  
+ 
+E. 
+Outsourcing of Government Services (US$2.7 million)  
+ 
+This component would finance technical Assistance to review the legal and regulatory 
+framework of PPPs for Government services and to propose and draft new changes and 
+regulations and/or rules to simplify the implementation of PPPs (US$0.3 million); 
+technical assistance to carry out feasibility studies, design and bidding specifications 
+preparation for PPPs to outsource selected Government services to IT companies (US$1.0 
+million);  
+ 
+training of Government officials on the design and implementation of PPPs for e-
+government (US$0.9 million); and technical assistance and equipment to support the 
+creation of an Integration Competency Center to help government agencies and private 
+sector players to adopt a flexible, agile and highly modular approach to e-government 
+(US$0.6 million).  
+ 
+F. 
+Strengthening of the IT Legal and Regulatory Framework and Institutions ($6.1 
+million)  
+ 
+Page  3
+This component would include technical assistance to draft changes and/or 
+improvements to the IT legal and regulatory framework (US$1.2 million); awareness 
+raising campaigns for specific programs such as the Trustmark Seal Program and other 
+improvements of sector laws and regulations and their enforcement (US$1.1 million); 
+tailor-made professional training for legislators, judges, public servants, law enforcement 
+officers, technical experts in trials, and professors and lawyers in general on IT issues, 
+regulations and enforcement best practices (US$1.9 million); creation of a Dispute 
+Settlement Center within the Mexican Software Consortium (US$1.0 million); and 
+support the creation and/or strengthening of local Masters programs in IT Law, training 
+professors of Law on IT issues, regulations and enforcement best practices (US$1.0 
+million).  
+ 
+G. 
+Strengthening of PROSOFT and Project Management ($3.6 million)  
+ 
+This component would create an International Consultative Commission in PROSOFT 
+to advice SE on new developments in the global IT industry to formulate new policies for 
+the sector. It would also finance operational costs of the Team (ìDireccion de Economia 
+Digitalî) in Secretaria de Economia to manage, implement, monitor and evaluate the 
+Project.   
+ 
+4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis 
+Mexico   
+ 
+5. Environmental and Social Safeguards Specialists 
+Mr Gunars H. Platais (LCSEN) 
+ 
+6. Safeguard Policies Triggered
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+X
+Natural Habitats (OP/BP 4.04) 
+ X 
+Forests (OP/BP 4.36) 
+ X 
+Pest Management (OP 4.09) 
+ X 
+Physical Cultural Resources (OP/BP 4.11) 
+ X 
+Indigenous Peoples (OP/BP 4.10) 
+X
+Involuntary Resettlement (OP/BP 4.12) 
+X
+Safety of Dams (OP/BP 4.37) 
+ X 
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X 
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts: 
+The key environmental and social impacts and benefits which may results from activities 
+financed under the Project include:  
+Page  4
+-
+Environmental benefits from economies of scale by the provision of common 
+wastewater and solid waste management facilities; and environmental planning.  
+ 
+-
+Socioeconomic benefits derived from higher living standards, the establishment of 
+knowledge-based companies, innovation, increased employment and academic 
+opportunities, networking of research organizations and private industry, and the 
+development of industries like real estate, retail, lifestyle and recreation.  
+ 
+-
+Noise and vibration during construction activities may be caused by the operation 
+of pile drivers, earth moving and excavation equipment, concrete mixers, cranes and the 
+transportation of equipment, materials and people.  
+ 
+-
+Soil erosion may be caused by exposure of soil surfaces to rain and wind during 
+site clearing, earth moving, and excavation activities. The mobilization and transport of 
+soil particles may, in turn, result in sedimentation of surface drainage networks, which 
+may result in impacts to the quality of natural water systems and ultimately the biological 
+systems that use these waters.  
+ 
+-
+Air quality may be impacted during construction by emissions of fugitive dust 
+caused by a combination of on-site excavation and movement of earth materials, contact 
+of construction machinery with bare soil, and exposure of bare soil and soil piles to wind. 
+During operation, emissions may be generated from kitchen stacks; air conditioning and 
+central heating systems; fuel storage tanks (if present); and diesel motor vehicles. 
+Specific emissions related to the semiconductor and electronics manufacturing (in case 
+such a plant is built within the IT parks) include greenhouse gases, toxic, reactive, and 
+corrosive substances (for example, acid fumes, dopant, cleaning gases, and volatile 
+organic compounds [VOCs]), resulting from diffusion, cleaning, and wet-etching 
+processes.  
+ 
+-
+Non-hazardous solid waste generated at construction sites may include excess fill 
+materials from grading and excavation activities, scrap wood and metals, and small 
+concrete spills. Other non-hazardous solid waste generated during operation includes 
+office, kitchen, and domestic wastes.  
+ 
+-
+Hazardous solid waste that may be generated includes spent solvents and oily 
+rags; empty paint cans; chemical containers; used lubricating oil; used batteries (such as 
+nickel-cadmium or lead acid); and lighting equipment, such as lamps or lamp ballasts. 
+Specific facilities, such as semiconductors (i.e. chip) and electronic manufacturing, -that 
+might be built in the IT parks- may include special hazardous wastes, such as those 
+generated from spent cleaning solutions, sludge from wastewater treatment, spent epoxy 
+material (printed circuit board [PCB] and semiconductor manufacturing), spent cyanide 
+solutions (electroplating), and soldering fluxes and metals residue (printed circuit board 
+assembly [PCBA]).  
+ 
+-
+Hazardous materials include the potential for release of petroleum based products, 
+such as lubricants, hydraulic fluids, or fuels during their storage, transfer, or use in 
+equipment. These materials may be encountered during decommissioning activities in 
+building components or industrial process equipment.  
+ 
+-
+Wastewater discharges may include sanitary wastewater with effluents from 
+domestic sewage, food service, and laundry facilities serving site employees. 
+Miscellaneous wastewater from laboratories, medical infirmaries, water softening etc. 
+may also be discharged to the sanitary wastewater treatment system. Process wastewater 
+from a number of semiconductor and PCBA manufacturing steps (if these are built within 
+Page  5
+IT parks) may include organic compounds, particularly non-chlorinated solvents (e.g. 
+pyrrole-based, aminebased, fluoro / ether-based resists, isopropyl alcohol, and 
+tetramethylammonium hydroxide) from cleaning, resist drying, developing, and resist 
+stripping; metals and cyanides from metallization and CMP processes; acids and alkalis 
+from spent cleaning solutions, process operations such as etching, cleaning, and 
+metallization, among others; and suspended solids from film residues and metallic 
+particles (derived from photolithography, metallization, backgrinding, and dicing 
+processes).  
+ 
+-
+Energy consumption in semiconductor manufacturing involves significant energy 
+use.  
+ 
+-
+Involuntary physical or economic resettlement during land acquisition to develop 
+the IT parks that may include: loss of shelter; loss of assets or access toassets; or loss of 
+income sources or means of livelihood, whether or not the affected persons must move to 
+another location.  
+ 
+-
+Indigenous peoples, although unlikely to be encountered in the outskirts of the 
+cities, where the subprojects will be developed, should be considered during the EA. 
+Impacts to these vulnerable groups include loss of identity, culture, and customary 
+livelihoods, as well as exposure to disease. In addition, indigenous populations might 
+have limited capacity to defend their interests in and rights to lands, territories, and other 
+productive resources, and/or restricts their ability to participate in and benefit from 
+development.  
+ 
+-
+Archaeological findings may be encountered and potentially damaged during 
+excavation activities of construction works. Culturally sensitive areas (i.e. where cultural 
+practices or artefacts are evident) may become impacted both by construction and 
+operation works, by modifying the religious or cultural value of a certain area.   
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+See above.   
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts. 
+As part of the EIA process, Environmental Management Plans (EMPs) will need to be 
+prepared and implemented. Effective implementation of EMPs will ensure that the 
+appropriate mitigation measures have been employed to avoid and/or minimize any 
+potential impacts resulting from the proposed activity. The DDE should agree with 
+SEMANART and other federal environment agencies on the supervision of the EMP 
+within the overall plan for the project. Accordingly, the supervision arrangements for the 
+EMP should summarize key areas on which supervision will focus‚
+ îcritical risks to 
+implementation of the EMP, how such risks will be monitored during implementation 
+and agreements reached with the Proponent. If identified as a requirement of the 
+subproject through the screening process, a Resettlement Action Plan, Indigenous 
+Peoples Plan, and/or a Physical Cultural Resources Management Plan, or a combination 
+of these, is prepared alongside or as an integrated part of the EMP.   
+ 
+Page  6
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide 
+an assessment of borrower capacity to plan and implement the measures described. 
+A
+detailed 2-day training course will be delivered within the first month of appraising the 
+Project (see Table 6). The target audience will be the Secretariat of Economy (SoE); 
+Direction of Digital Economy (DDE); SEMANART; and Municipalities that will be part 
+of the lending process. It will be the responsibility of the DDE to ensure that short 
+refresher trainings on a demand basis are provided to staff within the stakeholder groups. 
+This could be a 1-day presentation briefly outlining the procedures of the ESMF.   
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+The ESMF has been designed under the assumption that IT industry projects that involve 
+IT Parks are to be implemented by the Direction of Digital Economy (DDE) within the 
+Secretariat of Economy - as is the case of the specific project that is used as a practical 
+application of the Framework. However, the recommendations and guidelines contained 
+in this report would apply to any project implementing unit responsible for directly 
+implementing the mechanisms and recommendations outlined in the ESMF. Other 
+agencies at the federal and state level and municipal level will also play a key role in the 
+implementation and monitoring of the ESMF. These institutions include:  
+ 
+-
+Secretariat of Environment and Natural Resources (SEMANART)  
+ 
+-
+Labor and Social Prevision Secretariat  
+ 
+-
+State Economic Development Agencies  
+ 
+-
+Municipal Land-Use Authorities  
+ 
+-
+Municipal Construction Authorities  
+ 
+In regards to resettlement issues, the principal agency that overlooks the fair 
+compensation (monetary and in kind) of resettled communities is the Secretariat of 
+Agrarian Reform (Secretar√≠a de Reforma Agraria) which administers the communal 
+lands (ejidos) that cover close to 50% of the Mexican territory.  
+ 
+The National Commission for the Development of Indigenous Peoples (Comisi√≥n 
+Nacional para el Desarrollo de los Pueblos Ind√≠genas - CDI) is the federal institution in 
+charge of promoting and overseeing all issues related to indigenous communities. 
+However, in many cases communities are not exclusively indigenous and are therefore 
+looked after in broader terms by the Social Development Secretariat (Secretar√≠a de 
+Desarrollo Social - SEDESOL). SEDESOL would be at the forefront of the resettlement 
+issue in the event that the lands are not communal (ejiditarias, in which case it would be 
+the Secretar√≠a de Reforma Agraria).  
+ 
+In terms of archeological resources, all matters are regulated and administered by the 
+National Institute of Anthropology and History (Instituto Nacional de Antropolog√≠a e 
+Historia). However, it is important to mention that the EIA processdoes not require an 
+archeological survey as part of the baseline studies for an EIS and these are still 
+voluntary. However, if this agency is aware of or suspects archeological resources in the 
+project area, it may stop all development works until the area has been surveyed.   
+ 
+Page  7
+B. Disclosure Requirements Date
+ 
+Environmental Assessment/Audit/Management Plan/Other: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+ 
+Date of receipt by the Bank 
+01/10/2008 
+ 
+Date of "in-country" disclosure 
+01/21/2008 
+ 
+Date of submission to InfoShop 
+06/09/2008 
+ 
+For category A projects, date of distributing the Executive 
+Summary of the EA to the Executive Directors 
+ 
+Resettlement Action Plan/Framework/Policy Process: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+ 
+Date of receipt by the Bank 
+01/10/2008 
+ 
+Date of "in-country" disclosure 
+01/21/2008 
+ 
+Date of submission to InfoShop 
+06/09/2008 
+ 
+Indigenous Peoples Plan/Planning Framework: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+ 
+Date of receipt by the Bank 
+01/10/2008 
+ 
+Date of "in-country" disclosure 
+01/21/2008 
+ 
+Date of submission to InfoShop 
+06/09/2008 
+ 
+Pest Management Plan: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+*
+If the project triggers the Pest Management and/or Physical Cultural Resources, 
+the respective issues are to be addressed and disclosed as part of the Environmental 
+Assessment/Audit/or EMP. 
+If in-country disclosure of any of the above documents is not expected, please 
+explain why: 
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the 
+ISDS is finalized by the project decision meeting) 
+ 
+OP/BP/GP 4.01 - Environment Assessment 
+ 
+Does the project require a stand-alone EA (including EMP) report? 
+Yes 
+If yes, then did the Regional Environment Unit or Sector Manager (SM) 
+review and approve the EA report? 
+Yes 
+Are the cost and the accountabilities for the EMP incorporated in the 
+credit/loan? 
+Yes 
+OP/BP 4.10 - Indigenous Peoples 
+ 
+Has a separate Indigenous Peoples Plan/Planning Framework (as 
+appropriate) been prepared in consultation with affected Indigenous Peoples? 
+Yes 
+If yes, then did the Regional unit responsible for safeguards or Sector 
+Manager review the plan? 
+Yes 
+Page  8
+If the whole project is designed to benefit IP, has the design been reviewed 
+and approved by the Regional Social Development Unit or Sector Manager? 
+Yes 
+OP/BP 4.12 - Involuntary Resettlement 
+ 
+Has a resettlement plan/abbreviated plan/policy framework/process 
+framework (as appropriate) been prepared? 
+Yes 
+If yes, then did the Regional unit responsible for safeguards or Sector 
+Manager review the plan? 
+Yes 
+The World Bank Policy on Disclosure of Information 
+ 
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+Yes 
+Have relevant documents been disclosed in-country in a public place in a 
+form and language that are understandable and accessible to project-affected 
+groups and local NGOs? 
+Yes 
+All Safeguard Policies 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities 
+been prepared for the implementation of measures related to safeguard 
+policies? 
+Yes 
+Have costs related to safeguard policy measures been included in the project 
+cost? 
+Yes 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures related to safeguard policies? 
+Yes 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+Yes 
+D. Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Mr Eloy Eduardo Vidal 
+06/09/2008 
+Environmental Specialist: 
+Mr Gunars H. Platais 
+ 
+Social Development Specialist 
+ 
+ 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+ 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Ms Laura E. Tlaiye 
+ 
+Comments:   
+Sector Manager: 
+Mr Philippe Dongier 
+06/09/2008 
+Comments:   

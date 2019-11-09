@@ -1,0 +1,306 @@
+Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+I.  Basic Information
+ 
+Date prepared/updated:  08/20/2008 
+Report No.:  AC3792
+1. Basic Project Data  
+ 
+Country:  Vietnam 
+Project ID:  P088759 
+Project Name:  Financial Sector Modernization and Information System 
+Task Team Leader:  Xiaofeng Hua 
+Estimated Appraisal Date: July 30, 2008 
+Estimated Board Date: September 18, 2008 
+Managing Unit:  EASFP 
+Lending Instrument:  Specific Investment 
+Loan 
+Sector:  General finance sector (100%) 
+Theme:  Standards and financial reporting (P) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+60.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER/RECIPIENT 
+0.01 
+ 
+JAPAN: Ministry of Finance - PHRD Grants 
+0.83 
+ Financing 
+Gap 
+10.99
+11.83 
+Environmental Category: C - Not Required 
+Simplified Processing 
+Simple [] 
+Repeater [] 
+Is this project processed under OP 8.50 (Emergency Recovery) 
+or OP 8.00 (Rapid Response to Crises and Emergencies) 
+Yes [ ] 
+No [X] 
+2. Project Objectives 
+The Project is to assist the State Bank of Vietnam (SBV), the Credit Information Center 
+(CIC) and Deposit Insurance of Vietnam (DIV) to improve compliance with selected key 
+international standards in the delivery of their main functions in the context of 
+accelerated central bank reforms and banking sector development.   
+ 
+3. Project Description 
+Lending instrument:  The lending instrument will be a Specific Investment Loan (SIL) to 
+be funded by an IDA credit of US$60 million (SDR 36.82 million), which accounts for 
+84 percent of the total estimated Project cost (US$71.8 million). Standard IDA terms for 
+Vietnam will apply.  
+ 
+Project components:  The Project will have three beneficiaries: the SBV, the CIC and 
+DIV.  To support these entities address the identified functional, institutional and 
+technology weaknesses in information management and disclosure, there will be two 
+main streams of activities: (a) technical assistance programs for functional strengthening, 
+capacity building and support for business process re-engineering; and (b) design and 
+Page  2
+implementation of a centralized ICT architecture for data management, internal resource 
+planning and risk control.  These activities are grouped in eight components under three 
+parts: Part I 
+–
+Modernizing the SBV; Part II – Strengthening the CIC; and Part III – 
+Enhancing DIV.  The main delivery instruments are short- and longer-term technical 
+advice, hands-on as well as classroom-based training, detailed system design, and supply 
+and installation of ICT packages.  
+ 
+SBV Component 1 - Functional Strengthening and Business Re-engineering is to assist 
+the SBV to develop a policy and institutional framework and improve capabilities of the 
+information management and informed decision making. There are five subcomponents: 
+Component 1A – Improving Data Input Quality; Component 1B – Strengthening Policy 
+and Supervisory Functions; Component 1C – Developing Central Bank Financial 
+Reporting; and Component 1D – Enhancing Internal Resource Management and Control.  
+ 
+SBV Component 2 - ICT Platform Development is to assist the SBV to design and build 
+a
+centralized ICT platform based on international IT standards in order to support the 
+SBV’s evolving role as a central bank, taking into account relevant international best 
+practices, while keeping in mind all critical Vietnamese realities. Another critical part of 
+the new ICT platform is an Enterprise Resource Planning (ERP) system for internal 
+resource management and risk control.  
+ 
+SBV Component 3 – Project Implementation Management is to assist the SBV to 
+manage project implementation, ensure compliance of Bank guidelines for procurement 
+and financial management contract implementations are on schedule and ensure good 
+communications between the multiple parties.  
+ 
+CIC Component 1 – Business Process Re-engineering is to assist the CIC to re-engineer 
+the processes for its core businesses. More specifically, this component will help the CIC 
+to: (a) streamline credit information reporting requirements/templates, which will bring 
+the scope and depth of credit registration more in line with the PCR of OECD countries; 
+(b) provide statistical analysis on development in the credit market for the SBV and 
+extenders of credit; (c) design new business processes and specify user needs; and (d) 
+apply new processes and tools.  
+ 
+CIC Component 2 – ICT Capacity Development is to assist the CIC to acquire and 
+install centralized data management systems for the collection, storage, processing, 
+analysis and sharing of credit information.  The proposed new system architecture is 
+similar to that proposed for the SBV, although the CIC data warehouse can be considered 
+as an enhanced database.  In addition, there will be no stand-alone ERP.  
+ 
+DIV Component 1 – Business Process Re-engineering is to assist the DIV to re-engineer 
+business processes and provide systematic training to its management and staff.  More 
+specifically, this component will assist DIV to develop and use new business processes, 
+related operational policies and procedures for: (a) assessment and projection of the 
+DIV’s risk exposures to insured institutions; (b) financial assistance and payouts of PCFs 
+and larger insured institutions; and (c) DIV’s internal resource planning and management.  
+Page  3
+DIV Component 2 
+–
+ICT Platform Development is to assist the DIV to build the 
+technology capacity to support its current and future role.  The main expected results 
+include: (a) a centralized core data warehouse for data generated by DIV’s own activities; 
+(b) access to SBV’s data warehouse to obtain information from the SBV’s credit 
+institutions reporting regime and financial markets; and (c) a number of satellite risk 
+management systems with modern database interrogation tools; (d) an ERP system to 
+support the implementation of the DIV’s new customer-centric business model; and (e) 
+system design, procurement and implementation documents.  
+ 
+DIV Component 3 - Project Implementation Management is to assist the DIV to: a) 
+manage the implementation of the DIV part of the Project; b) to ensure compliance with 
+Bank guidelines for procurement and financial management; c) contract implementations 
+are on schedule and; d) there is good communication between the management and the 
+project task teams regarding project implementation.   
+ 
+4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis 
+The activities under the Project will mainly take place at the premises of the three 
+Beneficiaries, including their head offices in Hanoi and large branches in other main 
+cities of Vietnam.  There will be no investment in construction, nor is there need for land 
+acquisition.  Therefore no safeguard policies will be triggered.   
+ 
+5. Environmental and Social Safeguards Specialists 
+Mr Surhid P. Gautam (EAPCO) 
+ 
+6. Safeguard Policies Triggered
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+ X 
+Natural Habitats (OP/BP 4.04) 
+ X 
+Forests (OP/BP 4.36) 
+ X 
+Pest Management (OP 4.09) 
+ X 
+Physical Cultural Resources (OP/BP 4.11) 
+ X 
+Indigenous Peoples (OP/BP 4.10) 
+ X 
+Involuntary Resettlement (OP/BP 4.12) 
+ X 
+Safety of Dams (OP/BP 4.37) 
+ X 
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X 
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts: 
+Not applicable.   
+ 
+Page  4
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+Not applicable.   
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts. 
+Not applicable.   
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide 
+an assessment of borrower capacity to plan and implement the measures described. 
+Not applicable.   
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+Not applicable.   
+ 
+B. Disclosure Requirements Date
+ 
+Environmental Assessment/Audit/Management Plan/Other: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+For category A projects, date of distributing the Executive 
+Summary of the EA to the Executive Directors 
+ 
+Resettlement Action Plan/Framework/Policy Process: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+Indigenous Peoples Plan/Planning Framework: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+Pest Management Plan: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+*
+If the project triggers the Pest Management and/or Physical Cultural Resources, 
+the respective issues are to be addressed and disclosed as part of the Environmental 
+Assessment/Audit/or EMP. 
+Page  5
+If in-country disclosure of any of the above documents is not expected, please 
+explain why: 
+Not applicable.   
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the 
+ISDS is finalized by the project decision meeting) 
+ 
+The World Bank Policy on Disclosure of Information 
+ 
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+Yes 
+Have relevant documents been disclosed in-country in a public place in a 
+form and language that are understandable and accessible to project-affected 
+groups and local NGOs? 
+N/A 
+All Safeguard Policies 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities 
+been prepared for the implementation of measures related to safeguard 
+policies? 
+N/A 
+Have costs related to safeguard policy measures been included in the project 
+cost? 
+N/A 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures related to safeguard policies? 
+N/A 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+N/A 
+D. Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Ms Xiaofeng Hua 
+07/22/2008 
+Environmental Specialist: 
+ 
+ 
+Social Development Specialist 
+ 
+ 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+ 
+Approved by: 
+ 
+Sector Manager: 
+Mr Tunc Tahsin Uyanik 
+07/23/2008 
+Comments:  I clear. 

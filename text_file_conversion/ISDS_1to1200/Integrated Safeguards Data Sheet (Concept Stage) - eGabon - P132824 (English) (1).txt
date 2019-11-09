@@ -1,0 +1,315 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+CONCEPT STAGE
+Report No.: ISDSC8374
+,2   Date ISDS Prepared/Updated: 29-Jul-2015
+Date ISDS Approved/Disclosed: 04-Aug-2015
+I. BASIC INFORMATION
+A. Basic Project Data
+Country:        Gabon                      Project ID:   P132824
+Project Name:   eGabon (P132824)
+Task Team       Michel Rogy,Dominic S. Haazen
+Leader(s):
+Estimated        15-Jan-2016               Estimated     31-Mar-2016
+Appraisal Date:                            Board Date:
+Managing Unit: GTIl 1                      Lending       Investment Project Financing
+Instrument:
+Sector(s):      Public administration- Information and communications (20%), Information
+technology (24%), Telecommunications (40%), General information and
+communications sector (4%), Health (12%)
+Theme(s):       e-Government (50%), Infrastructure services for private sector development
+(20%), Micro, Small and Medium Enterprise support (25%), Regional
+integration (5%)
+Financing (In USD Million)
+Total Project Cost:      76.00            Total Bank Financing:   56.00
+Financing Gap:           20.00
+Financing Source                                              Amount
+Borrower                                                         0.00
+International Bank for Reconstruction and Development           56.00
+Total                                                           56.00
+Environmental B - Partial Assessment
+Category:
+Is this a       No
+Repeater
+project?
+B. Project Objectives
+The proposed project development objective (PDO) is to transform public health services delivery
+and foster digital job creation by expanding access to connectivity, promoting innovation and
+leveraging information and communications technologies (ICT).
+
+
+﻿Direct beneficiaries of the proposed project will be both agents and patients of the National Health
+System and private sector actors/entrepreneurs conducting business in the digital economy, with a
+specific focus on women and youth. Indirect beneficiaries potentially include all of the country's
+U       population, benefitting from increased availability of Health services at affordable rates, increased
+access to connectivity from extension of broadband networks, and increased job opportunities in or
+supporting the digital economy.
+C. Project Description
+In order to achieve the Project Development Objectives, the proposed project follows an integrated
+transformational solutions approach with four components: (1) strengthening of the National Health
+Information System to achieve "more health for money spent", and thereby improving the efficiency
+of health spending, quality of care and ease of access including for women, youth and other
+vulnerable populations; (2) stimulating the development of the digital economy and improving
+service delivery by encouraging development of local content, applications and services with an
+emphasis on eHealth through the creation of business incubators in Libreville, Port-Gentil and
+Franceville; (3) implementing selected missing links of the regional and national fiber optic
+backbone to connect areas of high relevance for the National Health Information System and enable
+greater connectivity for private citizens and businesses; and (4) Effective project implementation,
+monitoring and evaluation, and communication.
+Component 1: Strengthening of the National Health Information System (approximately US$ 34.5
+million). The aim of this component is to improve the efficiency and effectiveness of health service
+delivery which will be critical to improving Gabon's human development outcomes. It will also be
+leveraged to drive development of the digital innovation ecosystem in Gabon by incentivizing
+applications and local content development centered on health services and information. Specifically,
+this component will support ANINF and MoH in the development and the roll-out of the National
+Health Information System (NHIS), pursuant to the concept note prepared in July 2013. The NHIS
+will support informed strategic decision-making by providing access to high quality data which can
+help managers and health workers at all levels of the health system in planning and managing the
+health services; to monitor disease trends and control epidemics; and to provide periodic evaluation
+towards agreed targets. This component would include: (i) devising detailed feasibility studies for the
+NHIS; (ii) rolling out the NHIS; (iii) creating a detailed change management strategy for the MoH in
+the broader context of an articulated e-health strategy; (iv) providing study tours of Gabonese
+counterparts in selected lead practice countries; and (v) strengthening information system capabilities
+within the MoH and related agencies. This component will be implemented with support from the
+Health, Nutrition, and Population Global Practice.
+Component 2: Stimulating the development of local content, applications and services with an
+emphasis on eHealth through the creation of business incubators in Libreville, Port-Gentil, and
+Franceville (approximately US$ 11.0 million). The aim of this component is to promote economic
+diversification by encouraging the emergence of a digital innovation ecosystem in Gabon with the
+side benefit of improving both private and public e-service delivery. This component will support the
+Ministry of Digital Economy, ANINF and Agence Nationale pour la Promotion des Investissements
+(ANPI) in: (i) setting up business incubators in Libreville, Port-Gentil, and Franceville (where the
+International Center for Medical Research (CIRMF) is located); (ii) promoting digital
+entrepreneurship and growth of the ICT sector; and (iii) support development of innovative
+applications, with an emphasis on mobile-phone based health applications, to create opportunities for
+digital entrepreneurship, in particular for women. Specifically, this component would include: (i)
+
+
+﻿devising detailed design and feasibility studies for business incubators; (ii) providing a study tour of
+Gabonese counterparts in selected lead practice countries; (iii) building and/or renting and setting up
+three business incubators, and providing implementation support for the management of incubators
+through the most appropriate governance structure - including the private and the public sectors; (iv)
+U       strengthening the capacity of business incubators and beneficiaries through the provision of selected
+services; (v) developing a strategy to promote the development of local digital content, applications
+and services with a focus on health, including organizing hackathons and business plan competitions
+and setting up the appropriate legal and regulatory enabling environment; and (vi) strengthening the
+capacity of the ANINF and the Ministry in charge of the Digital Economy to drive and implement
+the e-applications agenda. This component will be implemented with support from the Trade and
+Competitiveness Global Practice.
+Component 3: Implementing selected missing links of the regional and national fiber optic backbone
+(approximately US$ 26.0 million, US$ 6.0 million from IBRD and US$ 20 million from other
+donors). The aim of this component is to improve access to connectivity, both to government
+institutions (particularly health facilities of high relevance for the National Health Information
+System) as well as private consumers and businesses. Increasing access is essential to ensuring
+greater access to new e-health and other electronic services as well as the wider social and economic
+opportunities enabled through voice and broadband connectivity - especially for the most vulnerable
+and price sensitive consumers. This component, building upon the Public Private Partnership (PPP)
+with Open Access to the backbone set up under CAB4, will support the Ministry of the Digital
+Economy and ANINF in improving the regional and national coverage of the fiber optic
+infrastructure. It will be implemented with co-financing with other donors - such as the Islamic
+Development Bank and the African Development Bank - which have expressed interest in supporting
+the Second Phase of the broadband infrastructure objectives of "Digital Gabon". This component
+would include: (i) Northern Route: national and regional capacity via terrestrial fiber "branching out"
+from Ndjolk to connect Oyem and the borders with Cameroon (Eboro) and Equatorial Guinea
+(KyeOssi); (ii) Southern Route: national capacity via terrestrial fiber from Libreville to Lambar6n6;
+and (iii) consultancy services to conduct feasibility studies for the missing links and to support the
+associated transactions for inclusion in the existing PPP. Oyem and Lamberene are both home to
+important health facilities and research centers, and extending the network would enable to operators
+to extend high quality, low cost services to a large number of consumers in these areas by leveraging
+the backbone for backhaul. In addition, connecting Gabon to Cameroon through the new operation
+o      (in addition to the connection to Congo under the CAB4 operation) will contribute to broadening the
+opportunities for regional connectivity and eHealth cooperation.
+Component 4: Effective project implementation, monitoring and evaluation, and communication
+(approximately US$ 4.5 million). This Component will support the setting up of a dedicated small
+Project Implementation Unit (PIU) and will also cover training, office equipment, operating costs,
+audits and communications as well as M&E, environmental and social studies, their implementation
+and/or the monitoring of their implementation.
+D. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+The proposed cities for the business incubators are already connected via the national fiber optic
+backbone and are the three most populated cities in the country: Libreville (estimated 41% of the
+Gabon's population), Port-Gentil (8%) and Franceville (3%). Project preparation will assess the exact
+locations (existing building or newly built building) to ensure the best access and through flow of
+entrepreneurs and developers, the opportunities to leverage industry clusters, as well as the need for
+
+
+﻿different strategies in the three locations. For example, while a full-fledged business incubator may
+be viable in Libreville, a different approach such as virtual incubation may work better in
+Franceville.
+O
+U       Selected missing links of the regional and national backbone would include: (i) north national and
+regional capacity via terrestrial fiber "branching out" from Ndjol6 to connect Oyem and the borders
+with Cameroon (Eboro) and Equatorial Guinea (KyeOssi); (ii) south national capacity via terrestrial
+fiber from Libreville to Lambar6n6. However the exact path of the terrestrial fiber and the location of
+associated technical sites are not yet known.
+E. Borrowers Institutional Capacity for Safeguard Policies
+The country has moderate capacity for safeguards. Given that the main beneficiaries (Ministry in
+charge of ICT, ANINF) as well as the CN-TIPPEE (in which the EGabon Project Implementation
+Unit will be implemented) have experienced with safeguards under the CAB Project (P122776),
+some technical support will be provided by Bank safeguards specialists during preparation to ensure
+compliance with all World Bank safeguards policies but also national ones. Government team will
+also benefit from continuous advice and guidance from Bank safeguards specialists in the project
+team during implementation.
+F. Environmental and Social Safeguards Specialists on the Team
+Antoine V. Lema (GSURR)
+Paul-Jean Feno (GENDR)
+II. SAFEGUARD POLICIES THAT MIGHT APPLY
+Safeguard Policies          Triggered? Explanation (Optional)
+Environmental Assessment    Yes         The sites of the business incubators will be in
+OP/BP 4.01                              Libreville, Port-Gentil and Franceville. Project
+preparation will assess the exact locations and if
+existing buildings or newly built buildings will be
+used. Selected missing links of the regional and
+national backbone would include : (i) north national
+and regional capacity via terrestrial fiber "branching
+out" from Ndjol6 to connect Oyem and the borders
+with Cameroon (Eboro) and Equatorial Guinea
+(KyeOssi); (ii) south national capacity via terrestrial
+fiber from Libreville to Lambar6n6. However the
+exact path of the terrestrial fiber and the location of
+associated technical sites are not yet known.
+Because the exact nature and location of investments
+may not be determined up front, the Borrower will
+prepare an Environment and Social Management
+Framework (ESMF) and Environmental and Social
+Impact Assessments (ESIAs) and/or Environmental
+Management Plans (EMPs) as needed pursuant to the
+ESMF.
+Natural Habitats OP/BP 4.04  TBD         The sites of the business incubators will be in
+
+
+﻿Libreville, Port-Gentil and Franceville.
+The sites of the business incubators will be in
+Libreville, Port-Gentil and Franceville. Project
+preparation will assess the exact locations and if
+existing buildings or newly built buildings will be
+used. Selected missing links of the regional and
+national backbone would include : (i) north national
+and regional capacity via terrestrial fiber "branching
+out" from Ndjol6 to connect Oyem and the borders
+with Cameroon (Eboro) and Equatorial Guinea
+(KyeOssi); (ii) south national capacity via terrestrial
+fiber from Libreville to Lambar6n6. However the
+exact path of the terrestrial fiber and the location of
+associated technical sites are not yet known.
+Forests OP/BP 4.36           TBD          The sites of the business incubators will be in
+Libreville, Port-Gentil and Franceville. Project
+preparation will assess the exact locations and if
+existing buildings or newly built buildings will be
+used. Selected missing links of the regional and
+national backbone would include : (i) north national
+and regional capacity via terrestrial fiber "branching
+out" from Ndjol6 to connect Oyem and the borders
+with Cameroon (Eboro) and Equatorial Guinea
+(KyeOssi); (ii) south national capacity via terrestrial
+fiber from Libreville to Lambar6n6. However the
+exact path of the terrestrial fiber and the location of
+associated technical sites are not yet known.
+Pest Management OP 4.09      No           The sites of the business incubators will be in
+Libreville, Port-Gentil and Franceville.
+Physical Cultural Resources  Yes          The sites of the business incubators will be in
+OP/BP 4.11                                Libreville, Port-Gentil and Franceville. Project
+a                                                 preparation will assess the exact locations and if
+existing buildings or newly built buildings will be
+used. Selected missing links of the regional and
+national backbone would include : (i) north national
+and regional capacity via terrestrial fiber "branching
+out" from Ndjol6 to connect Oyem and the borders
+with Cameroon (Eboro) and Equatorial Guinea
+(KyeOssi); (ii) south national capacity via terrestrial
+fiber from Libreville to Lambar6n6. However the
+exact path of the terrestrial fiber and the location of
+associated technical sites are not yet known. The
+proposed operation is not expected to pose risks of
+damaging on the existing community cultural
+property. Nevertheless, proposed subprojects will be
+screened for their potential impacts on cultural
+
+
+﻿property and chance fmd procedures will be applied
+and appropriate mitigation measures for both the
+identification and protection (from theft,
+mistreatment of discovered artifacts) of cultural
+property. While not damaging cultural property,
+subproject preparation may later identify and include
+assistance for preservation of historical or
+archeological sites. If these opportunities occur,
+cultural property management plans would be
+prepared for those subprojects. ESIA(s) to be
+prepared pursuant to the ESMF will analyze the
+potential project zones and measures to be followed
+should these properties be discovered during project
+implementation.
+Indigenous Peoples OP/BP      Yes          The sites of the business incubators will be in
+4.10                                       Libreville, Port-Gentil and Franceville. Project
+preparation will assess the exact locations and if
+existing buildings or newly built buildings will be
+used. Selected missing links of the regional and
+national backbone would include: (i) north national
+and regional capacity via terrestrial fiber "branching
+out" from Ndjol6 to connect Oyem and the borders
+with Cameroon (Eboro) and Equatorial Guinea
+(KyeOssi); (ii) south national capacity via terrestrial
+fiber from Libreville to Lambar6n6. Given that
+Indigenous Peoples are likely to be living in the areas
+where the missing links are expected to be built but
+the exact path of the terrestrial fiber and the location
+of associated technical sites are not yet known, the
+Borrower will prepare an Indigenous Peoples
+Planning Framework (IPPF) and subsequent
+Indigenous peoples Plans (IPPs) as needed.
+o       Involuntary Resettlement OP/  Yes          The sites of the business incubators will be in
+BP 4.12                                    Libreville, Port-Gentil and Franceville. Project
+preparation will assess the exact locations and if
+existing buildings or newly built buildings will be
+used. Selected missing links of the regional and
+national backbone would include : (i) north national
+and regional capacity via terrestrial fiber "branching
+out" from Ndjol6 to connect Oyem and the borders
+with Cameroon (Eboro) and Equatorial Guinea
+(KyeOssi); (ii) south national capacity via terrestrial
+fiber from Libreville to Lambar6n6. However the
+exact path of the terrestrial fiber and the location of
+associated technical sites are not yet known. Because
+the exact nature and location of investments may not
+be determined up front, the Borrower will prepare a
+
+
+﻿Resettlement Policy Framework (RPF) and
+subsequent Resettlement Action Plans (RAPs) as
+needed.
+Safety of Dams OP/BP 4.37    No            The project will not construct or rely on dams.
+Projects on International     No           The project will not affect international waterways.
+Waterways OP/BP 7.50
+Projects in Disputed Areas OP/ No          The project is not located in a disputed area.
+BP 7.60
+III. SAFEGUARD PREPARATION PLAN
+A. Tentative target date for preparing the PAD Stage ISDS: 09-Oct-2015
+B. Time frame for launching and completing the safeguard-related studies that may be needed.
+The specific studies and their timingi should be specified in the PAD-stage ISDS:
+Target date for the Quality Enhancement Review (QER), at which time the PAD-stage ISDS
+would be prepared: December 14, 2015.
+Because the final sites for the business incubators in Libreville, Port-Gentil and Franceville and
+the type of works (build or rehabilitate) as well as the exact path of the selected missing links have
+not been defined yet, an Environmental and Social Management Framework (ESMF) and, if
+needed, a Resettlement Policy Framework (RPF) as well as an Indigenous People Planning
+Framework (IPPF) will be prepared and consulted upon prior to Project appraisal. These
+documents will be reviewed and cleared by the World Bank and publicly in the country as well as
+in the Bank InfoShop. It is expected that by July 2015 studies for the ESMF and RPF will have
+been launched.
+Once the final sites for the business incubators in Libreville, Port-Gentil and Franceville are
+O
+chosen and the type of works (build or rehabilitate) identified as well as the exact paths for the
+selected missing links, an Environmental and Social Assessment, including an ESMP, as well as a
+resettlement action plan (RAP) and an Indigenous People Plan if needed will also be prepared. If
+sites and type of works are known soon (because feasibility studies have been completed), this
+could even be done before Project Appraisal.
+IV. APPROVALS
+Task Team Leader(s): Name: Michel Rogy,Dominic S. Haazen
+Approved By:
+Safeguards Advisor:     Name: Johanna van Tilburg (SA)                  Date: 03-Aug-2015
+Practice Manager/       Name: Boutheina Guermazi (PMGR)                 Date: 04-Aug-2015
+Manager:
+1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+form and language that are accessible to potentially affected persons.
+
+

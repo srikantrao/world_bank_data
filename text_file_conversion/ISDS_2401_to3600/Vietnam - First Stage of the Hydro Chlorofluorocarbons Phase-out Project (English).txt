@@ -1,0 +1,455 @@
+﻿                        INTEGRATED SAFEGUARDS DATASHEET                              74487
+                                APPRAISAL STAGE
+
+Report No.:
+Date prepared/updated: November 12, 2012
+
+I. Basic Information
+
+1. Basic Project Data
+Country: Vietnam                                  Project ID: P115762
+                                                  Additional Project ID (if any):
+Project Name: HCFC Phase-out Project Stage I
+Task Team Leader: Qing Wang
+Estimated Appraisal Date: Oct. 10-14, 2011       Estimated Regional Vice President Approval
+                                                 Date: November 2012
+Managing Unit: EASVS/EASER                       Lending Instrument: Specific Investment Loan
+Sector: Other industry (90%); Central government administration (10%)
+Theme: Pollution management and environmental health (50%); Environment policies and
+institutions (50%)
+IBRD Amount (US$m.):
+IDA Amount (US$m.):
+GEF Amount (US$m.):
+PCF Amount (US$m.):
+Other financing amounts by source: Ozone Trust Fund: US$ 9,763,820 (approved at the April
+2011 Executive Committee Meeting of the Montreal Protocol Multilateral Fund)
+Environmental Category: B
+Is this a transferred project                    Yes [X]                No [ ]
+Simplified Processing                            Simple [ ]             Repeater [ ]
+Is this project processed under OP 8.00 (Rapid Response to Crises      Yes [ ]       No [X]
+and Emergencies)
+
+2. Project Objectives:
+The project development objective is to reduce HCFC consumption in order to contribute to the
+Government of Vietnam’s efforts to comply with its Montreal Protocol phase-out obligations for
+HCFCs to be met between January 1, 2013 and January 1, 2015. The HCFC phase-out will be
+done in a manner that maximizes the climate co-benefits through the introduction of no to very
+low global warming potential (GWP) alternatives.
+
+3. Project Description:
+The proposed project covers Stage I of the HCFC phase-out, focusing on the foam sector. It is
+considered as a continuation of the National CFC and Halon Phase-out Plan in that it will build
+upon the infrastructure and capacity established under the previous project to deliver the required
+assistance to beneficiaries and stakeholders. The project consists of three components described
+below.
+
+
+                                                                                                 1
+Component 1: Investment in HCFC-141b Consumption Phaseout
+
+This component will support the cost of conversion to non-HCFC technology in the foam sector.
+It will consist of a series of investment activities (mainly procurement of equipment) at twelve
+foam producers. The project will promote the adoption of hydrocarbon technology in the foam
+sector, except in the manufacturing of integral skin shoe sole, where the water blown (CO2)
+system was found as the most cost-effective and suitable conversion method. Eligible
+incremental capital and operating costs for each enterprise has been determined on the basis of a
+conversion cost structure relevant to hydrocarbon/water blown (CO2) technology and
+subsequently approved by the Multilateral Fund Executive Committee.
+
+Component 2: Supporting Policies and Regulations and Technical Assistance Activities
+
+This component will provide technical assistance to the government agencies and involved
+beneficiaries and stakeholders to: (a) implement an import quota system to curb the supply of
+HCFCs; (b) recommend the government authorities not to issue licenses for establishing new
+facilities and expanding existing facilities using HCFCs; (c) ban the import of bulk HCFC-141b
+by January 1, 2015 through the HCFC quota system; and (d) support Workshops and Training,
+awareness campaigns, and consultants’ services (including studies) on the need to phase out
+HCFCs and on future regulatory measures.
+
+A regulation introducing an HCFC import quota system to curb the supply of HCFC-141b and
+HCFC-22, as well as other HCFCs, was issued in December 2011 and has been operational since
+January 1, 2012. A ban on the establishment of new or the expansion of existing HCFC-based
+manufacturing facilities will be put in place in 2012. A total ban on the import of bulk HCFC-
+141b will be put in place by January 1, 2015. In addition, a ban on new HCFC-based equipment
+installation in the cold storage sector will also be put in place at the beginning of the Project.
+
+Technical assistance (TA) activities to support implementation of investment interventions, and
+awareness campaigns on the need to phase out HCFCs and on future regulatory measures to
+eliminate HCFC use will be provided to target groups. Capacity building of customs officers will
+be carried out in order to ensure effective control of the import of HCFCs and products
+containing HCFCs. Training activities will be conducted to increase the technical capacity of
+local authorities to allow them to become more effective agents in identification and delivery of
+needed assistance to foam enterprises in their localities.
+
+ TA activities in the RAC manufacturing and servicing sectors will also be undertaken to control
+the demand of HCFC-22, although there will be no investment activities financed by the MLF
+under the project. The TA activity will lay the groundwork for strengthening technical capacity
+to reduce leakage of HCFC-22 in installation of new equipment and in servicing; promote
+recovery and recycling of gas; and improve overall performance of the refrigeration and air-
+conditioning sectors in Vietnam.
+
+Component 3: Project Management
+
+
+
+
+                                                                                                2
+A project management unit (PMU), under MONRE, will be established and financed to
+implement and coordinate project implementation and to assist MONRE to put in place
+regulations and sector specific policies.
+
+
+4. Project Location and salient physical characteristics relevant to the safeguard analysis:
+
+The project covers 12 foam enterprises. They are located in Hanoi, Da Nang, HCM City and
+Long An, Binh Phuoc and Ba Ria Provinces. Six enterprises (6M, Huu Nghi, Searee Danang,
+TST, Vietrust, Hoa Phat) are located in industrial areas and four (Saigon, Searefico, Glory Tabi)
+in residential areas. The four enterprises in the residential area have intentions to move to
+industrial areas before or during the project implementation stage expected to take place in 2012.
+These enterprises’ lands have been acquired from the IZ Management Bodies for at least three
+years already. A due diligence review on land acquisition was carried out during project
+preparation by reviewing red books, purchasing/renting contracts for plots of land and site visits
+to five enterprises and confirmed that there are not any legacies or outstanding issues regarding
+the land acquired or occupied. One other enterprise (Thanh Canh) is located in a rural area; on
+land the company purchased in 2007. Thanh Canh is to build a new and larger factory on the
+same site where the local government has decided to turn the rural area into an industrial zone.
+The remaining enterprise (Minh Dieu) is located in a residential area but relocation to an IZ is
+not needed because the HCFC alternative technology that will be applied in this case does not
+have safety issues as would be the case for HC technology.
+
+5. Environmental and Social Safeguards Specialists on the Team:
+
+    Thuy Cam Duong         390844    Environmental Specialist
+    Nguyen Van Trung       14108     Social Safeguard Specialist               Consultant
+
+
+
+
+                                                                                                3
+6. Safeguard Policies Triggered (please explain why)                          Yes   No
+Environmental Assessment (OP/BP 4.01)                                          X
+The project will have a positive impact on the global environment by
+reducing the use of HCFCs, which are ozone-depleting substances and
+greenhouse gases with a global warming potential (GWP) ranging from
+several hundred to several thousand times that of CO2. While HCFCs have
+an impact on the global environment, they have no adverse local impact as
+these chemicals are stable and not considered toxic or otherwise dangerous
+for the environment.
+
+As described in more detail in Section II, minor environmental impacts
+could result from mishandling of some of the chemicals that are already
+used in foam production and which will be used to replace HCFCs. The
+manufacturing process also involves potential occupational and health
+safety issues. Therefore, OP 4.01 is triggered under the project.
+Natural Habitats (OP/BP 4.04)                                                       X
+The project will be implemented in industrial areas (except one enterprise
+in residential area), thus there is no impacts on natural habitat.
+Forests (OP/BP 4.36)                                                                X
+The policy is not triggered since there is no proposed investment involving
+forest harvesting or forest management.
+Pest Management (OP 4.09)                                                           X
+The policy is not triggered as the project does not involve the procurement
+or use of any pesticides or herbicides.
+Physical Cultural Resources (OP/BP 4.11)                                            X
+The policy is not triggered as the project area does not have any
+impact on any PCR.
+Indigenous Peoples (OP/BP 4.10)                                                     X
+The policy is not triggered since no ethnic minority communities are
+present in or have collective attachment to the project area.
+
+Involuntary Resettlement (OP/BP 4.12)                                               X
+All of the enterprises involved are either located on private land which
+they own or they are located on (or will move to) established industrial
+zones. A due diligence review of land issues for all 12 enterprises was
+carried out by the World Bank and confirmed that there are not any
+legacies or outstanding issues regarding the land acquired or occupied.
+Therefore, the policy is not triggered.
+Safety of Dams (OP/BP 4.37)                                                         X
+The policy is not triggered since there is no construction or
+rehabilitation of dams or dykes.
+Projects on International Waterways (OP/BP 7.50)                                    X
+The policy is not triggered as the project does not have any impact
+on any international waterway.
+Projects in Disputed Areas (OP/BP 7.60)                                             X
+The policy is not triggered as the project is not located in any
+disputed areas.
+
+
+
+                                                                                         4
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify and
+describe any potential large scale, significant and/or irreversible impacts:
+There are no large-scale, significant and/or irreversible impacts caused by the project or caused
+by foam production. The following texts describe small-scale (and easily mitigable) impacts.
+
+Hydrocarbon and CO2 have been selected as blowing agents to replace HCFC-141b that is being
+used in the foam sector. Hydrocarbon has a Global Warming Potential of less than 25.
+Hydrocarbon (cyclopentane) is classified as a Volatile Organic Compound (VOC), but its use
+results in very low levels of emissions of about 2-3% of the blowing agent, which results in
+minuscule emissions, compared for example, to emissions from two-stroke motorcycle traffic in
+urban areas. Therefore, there is no significant environmental impact from the cyclo-pentane
+itself.
+The other chemicals involved in foam production are MDI, polyol, amine catalysts and fire
+retardants. The 12 foam enterprises purchase pre-formulated polyol (blended with or without
+HCFC-141b) and polymeric MDI (isocyanates) for their rigid foam production. The probability
+that a spill of polymeric MDI - a liquid at room temperature - contaminates the soil and water is
+very low, because the floor of the foam production areas consists of cement coated with an anti-
+leakage, low permeability/chemical layer such as epoxy. In the case that MDI leaks into the soil,
+it will react with moisture, and the reaction would result in CO2 and insoluble polyurea
+compounds, which are not biodegradable but chemically inert. MDI may cause health impacts
+such as eye, respiratory system and skin irritation. Exposure via skin contact and inhalation can
+result in respiratory sensitisation.
+Fire retardant and amine catalysts (very limited amount) are mixed/pre-formulated in the polyol
+at the system houses (pre-blended polyol suppliers), from which the foam enterprises purchase
+pre-blended polyol and MDI, so the foam enterprises will not handle these toxic chemicals
+directly. Fire retardant and amine catalysts will remain in the final foam products and are not
+likely to be emitted to the environment during the foam production or later. Therefore, there are
+no anticipated legacy environmental contamination issues that are associated with foam
+production.
+Methylene chloride is the cleaning agent now used in the foam production process. It can affect
+the body if it is inhaled or if the liquid comes in contact with eyes or skin or is swallowed.
+Methylene chloride can be a hazardous waste but only when present in large quantities and high
+concentrations, as defined in Vietnamese regulations. However, only small quantities are used in
+foam production and the mixing heads for the new cyclopentane based foaming units to be
+purchased under the project will facilitate the phase-out of the use of methylene chloride as a
+cleaning agent.
+There are minor environmental and OHS risks associated with inappropriate handling of the
+various foam production chemicals or which could be caused by spills. The project itself will not
+result in any additional impacts or risks as all these chemicals are already in use at the plants.
+Nevertheless, good operational procedures and mitigation measures must be in effect at all
+facilities supported by the project.
+
+                                                                                                  5
+As a result of new processes and chemicals introduced by the project, there are however
+additional safety requirements regarding fire and explosion risks associated with the adoption of
+the hydrocarbon (cyclopentane) technology during the foam production process.
+Finally, there is non-hazardous solid waste generated during foam production process which
+needs to be adequately disposed of.
+
+2. Describe any potential indirect and/or long-term impacts due to anticipated future activities in
+the project area:
+There are no indirect, cumulative, or long-term impacts caused by the project.
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+impacts:
+The technology choices for Phase 1 are well proven and robust, which would be feasible from a
+technical or economic point of view. And they are all “low�? GWP options. Continuing with the
+use of HCFCs is not an option for Vietnam due to its obligations under the Montreal Protocol.
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+assessment of borrower capacity to plan and implement the measures described:
+An Environmental Management Plan (EMP) has been prepared by the Borrower to guide foam
+enterprises to address all of the issues noted above relating to environmental or OHS risks. The
+EMP was prepared following relevant national legal documents, the Bank’s OP 4.01 and The
+World Bank Group OHS guidelines. The World Bank has reviewed and found acceptable the
+EMP.
+Some of the most typical mitigation measures are the following:
+   -   Proper design and construction of foam workshop and proper chemical storage
+   -   Good practice of chemical handling; specifically, careful cyclopentane handling to avoid
+       uncontrolled reactions and conditions resulting in fire and explosion and careful MDI
+       handling to avoid inhalation and skin contact resulting in eye, respiratory system and
+       skin irritation and respiratory sensitisation
+   -   Communication and training workers about the potential risks
+   -   Preparation of appropriate emergency preparedness and response measures
+   -   Use of proper labor safety devices
+   -   Using of efficient and adequate extraction ventilation
+   -   Conduction of safety audit at each foam production workshop before foam production
+       start-up
+   -   Putting in place appropriate measures for solid waste collection as per legal requirements
+       of the Government of Vietnam
+Each participating enterprise in the project will be legally required to follow the environmental
+and safety provisions of the EMP. The EMP describes the measures that will be taken by the
+project implementing agency, the Ministry of Environment and Natural Resources, to monitor
+compliance and to ensure enforcement.
+
+                                                                                                  6
+The World Bank has evaluated the capacity of both MONRE, the implementing agency and that
+of the foam production companies, each of which has been visited by technical specialists. The
+project management unit falls under the National Ozone Unit set up in MONRE. This Unit has
+been implementing for almost 5 years a similar project, the CFCs and Halon Phase-out Project,
+so they are very familiar with relevant World Bank and GoV requirements. Their capacity has
+been evaluated and appropriate training on safeguards has been carried out under the CFCs
+Project.
+The foam production companies have good operational procedures in place and are in
+compliance with good-practice occupational, health and safety measures as well as with
+environmental requirements. However, an audit of the production facility will be carried out
+before foam production start-up using hydrocarbons and they will also be legally required to
+follow the OHS and environmental requirements of the EMP. The project will support training
+and capacity building for the foam enterprises in these areas.
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on
+safeguard policies, with an emphasis on potentially affected people:
+Because there are no likely impacts of the foam production enterprises that extend beyond the
+plant itself, the stakeholders from an environmental perspective are the enterprises themselves
+and their labor force.
+The stakeholders were consulted on the content and approach of the environmental management
+plan during a series of technical meetings and workshops that took place in the several months
+leading up to September 2011. Participants included MONRE representatives, the enterprises
+themselves, representatives from local governments, and environmental and social experts from
+the Bank, both staff and consultants. The feedback from stakeholders was only on very technical
+points and has been incorporated in the final EMP.
+The EMP has been disclosed in English in the Vietnam Development Information Centre
+(VDIC) and in the Bank InfoShop before appraisal.
+
+B. Disclosure Requirements Date
+Environmental Assessment/Audit/Management Plan/Other: EMP
+ Was the document disclosed prior to appraisal?                                Yes
+ Date of receipt by the Bank                                                9/19/2011
+                                                                      10/23/2011 in English
+ Date of "in-country" disclosure
+                                                                    10/27/2011 in Vietnamese
+  Date of submission to InfoShop                                            11/1/2011
+  For category A projects, date of distributing the Executive
+  Summary of the EA to the Executive Directors
+Resettlement Action Plan/Framework/Policy Process: N/A
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+Indigenous Peoples Plan/Planning Framework: N/A
+  Was the document disclosed prior to appraisal?
+
+                                                                                             7
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+Pest Management Plan: N/A
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+* If the project triggers the Pest Management and/or Physical Cultural Resources policies,
+the respective issues are to be addressed and disclosed as part of the Environmental
+Assessment/Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please explain why:
+  The EMP was slightly revised during the appraisal mission. The revised EMP in English and
+  Vietnamese was re-disclosed to foam enterprises on Oct. 23, 2011 and Oct. 27, 2011
+  respectively. The revised EMP in English was re-disclosed in the Vietnam Development
+  Information Centre (VDIC) and in the Bank InfoShop on November 1, 2011.
+
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is
+finalized by the project decision meeting)
+
+OP/BP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including         Yes [X]       No [ ]       N/A [ ]
+EMP) report?
+If yes, then did the Regional Environment Unit or Sector     As a transferred project, the SM
+Manager (SM) review and approve the EA report?               reviewed and approved the EMP.
+Are the cost and the accountabilities for the EMP            Yes, financing for EMP
+incorporated in the credit/loan?                             accountabilities are included in the
+                                                             financing agreement to be signed
+                                                             with each participating enterprise.
+OP/BP 4.04 - Natural Habitats
+Would the project result in any significant conversion or    Yes [ ]       No [ ]       N/A [X]
+degradation of critical natural habitats?
+If the project would result in significant conversion or
+degradation of other (non-critical) natural habitats, does
+the project include mitigation measures acceptable to the
+Bank?
+OP 4.09 - Pest Management
+Does the EA adequately address the pest management           Yes [ ]      No [ ]       N/A [X]
+issues?
+Is a separate PMP required?                                  Yes [ ]       No [ ]       N/A [X]
+If yes, has the PMP been reviewed and approved by a
+safeguards specialist or Sector Manager? Are PMP
+requirements included in project design? If yes, does the
+project team include a Pest Management Specialist?
+OP/BP 4.11 – Physical Cultural Resources
+
+
+                                                                                                    8
+Does the EA include adequate measures related to           Yes [ ]   No [ ]   N/A [X]
+cultural property?
+Does the credit/loan incorporate mechanisms to mitigate
+the potential adverse impacts on physical cultural
+resources?
+OP/BP 4.10 - Indigenous Peoples
+Has a separate Indigenous Peoples Plan/Planning            Yes [ ]   No [ ]   N/A [X]
+Framework (as appropriate) been prepared in
+consultation with affected Indigenous Peoples?
+If yes, then did the Regional unit responsible for
+safeguards or Sector Manager review the plan?
+If the whole project is designed to benefit IP, has the
+design been reviewed and approved by the Regional
+Social Development Unit?
+OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy            Yes [ ]   No [ ]   N/A [X]
+framework/process framework (as appropriate) been
+prepared?
+If yes, then did the Regional unit responsible for         N/A
+safeguards or Sector Manager review and approve the
+plan/policy framework/process framework?
+OP/BP 4.36 – Forests
+Has the sector-wide analysis of policy and institutional   Yes [ ]   No [ ]   N/A [X]
+issues and constraints been carried out?
+Does the project design include satisfactory measures to
+overcome these constraints?
+Does the project finance commercial harvesting, and if
+so, does it include provisions for certification system?
+OP/BP 4.37 - Safety of Dams
+Have dam safety plans been prepared?                       Yes [ ]   No [ ]   N/A [X]
+Have the TORs as well as composition for the
+independent Panel of Experts (POE) been reviewed and
+approved by the Bank?
+Has an Emergency Preparedness Plan (EPP) been
+prepared and arrangements been made for public
+awareness and training?
+OP/BP 7.50 - Projects on International Waterways
+Have the other riparians been notified of the project?     Yes [ ]   No [ ]   N/A [X]
+If the project falls under one of the exceptions to the
+notification requirement, has this been cleared with the
+Legal Department, and the memo to the RVP prepared
+and sent?
+What are the reasons for the exception? Please explain:
+Has the RVP approved such an exception?
+OP/BP 7.60 - Projects in Disputed Areas
+
+                                                                                        9
+Has the memo conveying all pertinent information on the       Yes [ ]        No [ ]     N/A [X]
+international aspects of the project, including the
+procedures to be followed, and the recommendations for
+dealing with the issue, been prepared
+Does the PAD/MOP include the standard disclaimer
+referred to in the OP?
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to       Yes [X]        No [ ]     N/A [ ]
+the World Bank's Infoshop?
+Have relevant documents been disclosed in-country in a
+public place in a form and language that are
+understandable and accessible to project-affected groups
+and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional    Yes [X]        No [ ]     N/A [ ]
+responsibilities been prepared for the implementation of
+measures related to safeguard policies?
+Have costs related to safeguard policy measures been
+included in the project cost?
+Does the Monitoring and Evaluation system of the
+project include the monitoring of safeguard impacts and
+measures related to safeguard policies?
+Have satisfactory implementation arrangements been
+agreed with the borrower and the same been adequately
+reflected in the project legal documents?
+
+
+D. Approvals
+
+ Signed and submitted by:                             Name                              Date
+ Task Team Leader:                    Qing Wang                                       9/22/2011
+ Environmental Specialist:            Douglas J. Graham                               9/22/2011
+ Social Development Specialist        Nguyen Van Trung                                9/22/2011
+ Additional Environmental and/or      Thuy Cam Duong                                  9/22/2011
+ Social Development Specialist(s):
+
+ Approved by:
+ Regional Safeguards Coordinator:
+   Comments: Does not need to be approved by RSC as this is a transferred project.
+ Sector Manager:                    Jennifer Sara                                     9/27/2011
+   Comments:
+
+
+
+
+                                                                                                  10
+

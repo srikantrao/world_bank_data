@@ -1,0 +1,314 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+APPRAISAL STAGE
+Report No.: ISDSAI 191
+0
+Date ISDS Prepared/Updated: 30-Mar-2015
+o
+Date ISDS Approved/Disclosed: 30-Mar-2015
+I. BASIC INFORMATION
+1. Basic Project Data
+Country:        Haiti                      Project ID:  P148259
+Project Name: HT Strengthening Hydro-Met Services (P148259)
+Task Team       Gaetano Vivo
+Leader(s):
+Estimated       09-Mar-2015                Estimated    28-May-2015
+Appraisal Date:                            Board Date:
+Managing Unit: GSURR                       Lending      Investment Project Financing
+Instrument:
+Sector(s):      Flood protection (60%), Irrigation and drainage (40%)
+Theme(s):       Natural disaster management (60%), Other rural development (20%), Urban
+planning and housing policy (20%)
+Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+8.00 (Rapid Response to Crises and Emergencies)?
+Financing (In USD Million)
+Total Project Cost:       5.00            Total Bank Financing:    0.00
+Financing Gap:            0.00
+Financing Source                                                        Amount
+Borrower                                                                    0.00
+Strategic Climate Fund Grant                                                5.00
+Total                                                                       5.00
+Environmental B - Partial Assessment
+Category:
+Is this a       No
+Repeater
+project?
+2. Project Development Objective(s)
+The proposed PDO is to strengthen the Government of Haiti's institutional capacity to provide
+weather, water and climate services customized to the needs of the civil protection and agriculture
+sectors, which contributes to increasing resilience.
+The PDO will be achieved through: (i) integrating existing hydro-met data collecting networks into a
+Page 1 of 7
+
+
+﻿national data platform and strengthening capacity for data archiving, validation, and analysis; and (ii)
+identifying weather, water, and climate services' requirements for select end users (including
+agriculture and civil protection).
+3. Project Description
+The project will support the Government of Haiti's capacity to increase its resilience today and build
+its future adaptive capacity by providing access to water, weather, and climate information to end
+users. By strengthening the collaboration between relevant institutions and end-users, the focus will
+a         be on enhancing accessibility and customization of hydro-met information that is critical for decision
+making in emergency management and agriculture. In these two sectors, the project will leverage
+synergies with existing World Bank-IDA operations (e.g. the Re-launching Agriculture 2 and the
+Disaster Risk Management and Reconstruction projects) which aim to increase resilience to
+exogenous shocks, including hydro-meteorological hazards.
+The project will comprise three components:
+Component 1. Support the hydro-meteorological services' institutional reform process and develop
+data management tools (US$3,000,000). The focus of this component will be on the integration of
+the existing hydro-met data collection networks into one national data platform accessible across all
+end users in the GoH. In addition to providing the technical platform, the component will provide the
+technical assistance to GoH to gradually move from the current structure of six hydro-meteorological
+networks managed by five different government entities to a structure with one national agency
+coordinating the development, operation and maintenance of all hydro-meteorological data
+management. Specifically, the Component will support a country-wide, geo-referenced baseline
+assessment of stations, define requirements for an optimal national network, repair and replace,
+where needed, existing data-collecting sensors. It will provide the GoH with a data platform that can
+gather data from all existing sensors. In order to support the institutional reform process, this
+component will include technical assistance to achieve the merging of CNM and SNRE and
+facilitate the evolution towards the Agency model. Finally, the component will support technical
+capacity building in the hydro-met institutions through training and study tours. This component will
+also support climate-resilience research benefitting Haiti, by financing scholarships, research projects
+and international collaborations.
+Component 2. Identify weather, water and climate services' requirements for select end users and
+developing information services to support decision making (US$1,400,000). The focus of this
+component will be the definition of hydro-met information requirements for end-users. In line with
+recommendations from the Global Framework for Climate Services this is expected to be a long-term
+process, with a continuous user feedback mechanism, including in the aftermath of major events. End
+users targeted by the project include: civil protection (e.g. parametric thresholds for select high-risk
+zones, in order to enable use of the hydro-meteorological data platform as a decision support
+mechanism for the activation of warnings by DPC) and agriculture (e.g. leveraging the new data
+platform to improve existing information services for farmers and national food security agency).
+These sectors were chosen with a view to tapping on synergies with existing Bank projects, such as
+the Re-launching Agriculture: Strengthening Agriculture Public Services II (P126744); the Disaster
+Risk Management and Reconstruction (P126346). Several other sectors supported by the World
+Bank in Haiti will benefit from an improved access to reliable hydromet information, including:
+infrastructure design (e.g. update return periods for select hazards in order to better integrate climate
+resilience measures into infrastructure design), and public health (e.g. information service for
+warnings of water-borne diseases and contingency planning).
+Page 2 of 7
+
+
+﻿Component 3. Support to project implementation, monitoring and evaluation, and PPCR knowledge
+management (US$600,000). Component 3 will include two subcomponents. (i) Strengthening
+MARNDR capacity to comply with Bank fiduciary, safeguard, and M&E procedure and ensure
+O
+U         effective and timely implementation of project activities. This will include the recruitment of a
+Project Coordinator in charge of day-to-day project management, additional human resources, and
+financing of operating cost. (ii) Supporting MARNDR M&E capacity and PPCR knowledge
+management. An M&E specialist financed through the project will strengthen MARNDR's capacity
+to monitor and report progress on the project-level results of the SPCR (in coordination with CIAT).
+4. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+The project will maintain and replace hydro-meteorological equipment and provide services and
+capacity building around the country. In the areas where new equipment will be installed awareness
+raising and communication activities will be carried out to ensure engagement and support of local
+communities. Project beneficiaries include all data users that may benefit from reliable hydro-
+meteorological and climate data to inform their decision-making. Direct beneficiaries include public
+and private actors who work in sectors specifically targeted by the project, i.e. farmers and
+emergency responders. Indirectly, the Haitian population in general and particularly the poor and
+most vulnerable to hydro-meteorological shocks (slum dwellers, rural population, and people living
+in high risk areas) will benefit from information services provided by the project or by applications
+stemming from them.
+5. Environmental and Social Safeguards Specialists
+Nyaneba E. Nkrumah (GENDR)
+Peter F. B. A. Lafere (GSURR)
+6. Safeguard Policies   Triggered? Explanation (Optional)
+Environmental           Yes         Hydromet projects usually provide environmental
+0         Assessment OP/BP 4.01               benefits, given that they support lower risks associated
+with floods, drought and fire, winds, extreme weather
+events, and even industrial accidents. Project activities are
+usually implemented within available hydromet sites and
+involve a minor installation of observation equipment
+with no or minimal environmental disturbance. This
+project, likewise, has a very low environmental and social
+risk and is rated a low risk Category B project. The main
+environment impacts are focused on three aspects of the
+equipment repair (Component 1):
+(a) the safe disposal/storage of old equipment, in
+particular, of mercury containing parts such as
+thermometers, temperature gauges, etc;
+(b) the safety of workers involved in repair: it is important
+to ensure that their exposure to mercury is minimized
+through the use of appropriate protective gear and
+handling protocols; and
+(c) possible exposure to electromagnetic fields (EMFs) if
+Page 3 of 7
+
+
+﻿the system for collection of the data from the equipment is
+sent by cell tower or other emitting frequency. While
+there is no clear proved risk to low levels of EMF, higher
+levels may cause a disturbance, particularly to those who
+are sensitive to EMFs.
+The environmental risks mentioned above are only
+associated with Component 1. This component focuses on
+strengthening the capacity of the GoH to collect, store
+and provide hydro-meteorological and climate data to end
+users. Under this component, the project may also fund
+the repair of equipment necessary to collect critical hydro-
+meteorological and climate data and will finance
+community awareness raising activities in places where
+repaired stations are located.
+A short Environmental and Social Management
+Framework (ESMF) has been prepared by the GoH to
+address (i) safe disposal/storage of old equipment, in
+particular, of mercury containing parts such as
+thermometers, temperature gauges, etc, (ii) the safety of
+workers involved in the repair or removal of equipment,
+and (iii) possible exposure to minor electromagnetic
+fields. The ESMF addresses potential negative impacts
+and appropriate procedures to avoid, minimize, and
+mitigate these impacts. It contains an Environmental
+Management Plan section as part of the ESMF which
+focuses specifically on procedures for safe removal and
+disposal of mercury. Consultations with Government
+personnel on the ESMF and site visits to hydromet
+stations have been completed. As sites where
+rehabilitation/installation of stations will happen are not
+chosen yet, no consultations with project affected people
+were done. However, once the sites are chosen,
+consultations will be done with project affected people.
+The ESMF was disclosed in country on March 24, 2015
+and on the Bank's website on March 25, 2015. The ESMF
+can be accessed at the following link on the Ministry of
+Agriculture's website
+http://agriculture.gouv.ht/view/01/IMG/pdf/
+cadre de_gestionenvironnementale_etsociale cges_.
+pdf
+In Haiti, it is unlikely that mercury, like in the US and
+Europe, is recycled. It is also unlikely that there is any law
+Page 4 of 7
+
+
+﻿related to the release of mercury into the air or water or
+ground. The EMP therefore focuses on assessing what is
+available in Haiti in terms of mercury storage and assesses
+other options for safe disposal. The EMP also focuses on
+safety issues for workers, including directives on
+protective gear, and standard operating procedures that
+need to be used when removing and storing (temporarily)
+parts containing mercury. Standard protocols are available
+in the literature which elaborate the steps necessary for
+the removal and storage of these parts prior to transport to
+a designated center or facility.
+Component 2 focuses on understanding hydro-met data
+requirements for end users and includes collection of
+information from end-users, workshops, etc. This
+component has no safeguard requirement.
+Component 3, support to project implementation,
+monitoring and evaluation focuses on recruitment of the
+project coordinator and team and project management.
+This component has no safeguard requirement.
+Natural Habitats OP/BP   No           This policy is not triggered given that the project is not
+4.04                                  expected to have impacts on natural habitats.
+Forests OP/BP 4.36       No           This policy is not triggered given that the project will not
+finance activities that affect forests.
+Pest Management OP 4.09 No            This policy is not triggered given that the project will not
+finance the purchase or use of pesticides.
+Physical Cultural        No           This policy is not triggered given that the project will not
+Resources OP/BP 4.11                  impact the quality or management of physical cultural
+resources as defined under the policy.
+Indigenous Peoples OP/   No           This policy is not triggered given that given that there are
+BP 4.10                               no indigenous peoples present in the project areas.
+Involuntary Resettlement No           This policy is not triggered given that there will be no
+OP/BP 4.12                            involuntary resettlement as defined under the policy.
+Safety of Dams OP/BP     No           This policy is not triggered given that the project will not
+4.37                                  support the construction or rehabilitation of dams nor will
+support other investments which rely on the services of
+existing dams.
+Projects on International  No         This policy is not triggered given that the project will not
+Waterways OP/BP 7.50                  affect international waterways as defined under the policy.
+Projects in Disputed     No           This policy is not triggered given that the project will not
+Areas OP/BP 7.60                      affect disputed areas as defined under the policy.
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+Page 5 of 7
+
+
+﻿1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+and describe any potential large scale, significant and/or irreversible impacts:
+The project will replace meteorological, agro-meteorological, hydrological, hydro-geological,
+climatic and marine equipment as well as support larger scale capacity building. There are no
+potential large scale, significant or irreversible impacts. The main impact will come from the safe
+disposal of mercury thermometers and the replacement, where possible, of this equipment with
+non-mercury elements.
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+in the project area:
+The main negative environmental impact is related to the safe disposal of mercury, often contained
+in the thermometers of old hydro-meteorological and other such equipment. Possible adverse
+effects may include exposure to mercury during installation and removal of the equipment, unsafe
+disposal of mercury containing components, and short terms exposure to minor electromagnetic
+fields as meteorological information is relayed over a network from the equipment to a central
+location. These environmental impacts are expected to be localized and minimized through
+responsive mitigation measures
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+impacts.
+The project alternative considered is to replace these older equipment containing mercury with
+components that are not hazardous. Where possible, the project will seek to purchase these models
+of equipment.
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+assessment of borrower capacity to plan and implement the measures described.
+The borrower has developed the ESMF and has assumed responsibility for safeguard monitoring
+and reporting. The borrower's capacity is limited but sufficient to ensure that the procedures
+outlined in the ESMF/EMP for mercury disposal are followed by the contractor. The ESMF
+contains screening procedures for the identification of sites for new meteo-hydrological equipment
+to prevent involuntary resettlement as defined by the policy.
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+on safeguard policies, with an emphasis on potentially affected people.
+The potentially affected people are not yet known because the project sites have not been
+identified. Nevertheless, the borrower has engaged and consulted with stakeholders (government
+agencies, local CBOs, etc) on the design of the project and the ESMF which are reflected in the
+ESMF. Mechanisms for local consultation and potentially affected people during site
+identification for infrastructure works are included in the ESMF.
+B. Disclosure Requirements
+Environmental Assessment/Audit/Management Plan/Other
+Date of receipt by the Bank                                24-Mar-2015
+Date of submission to InfoShop                             24-Mar-2015
+For category A projects, date of distributing the Executive  ///
+Summary of the EA to the Executive Directors
+Page 6 of 7
+
+
+﻿"In country" Disclosure
+Haiti                                                      24-Mar-2015
+Comments: Disclosed on the Ministry of Agriculture's website:
+http://agriculture.gouv.ht/view/01/IMG/pdf/
+cadre de_gestion environnementale et sociale cges_.pdf
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+o         Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please explain why:
+C. Compliance Monitoring Indicators at the Corporate Level
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP)  Yes [ X] No [  ]  NA [    ]
+report?
+If yes, then did the Regional Environment Unit or Practice  Yes [ X] No [  ]  NA [   ]
+Manager (PM) review and approve the EA report?
+Are the cost and the accountabilities for the EMP incorporated  Yes [ X] No [  ]  NA [  ]
+in the credit/loan?
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the  Yes [ X] No [  ]  NA [  ]
+World Bank's Infoshop?
+Have relevant documents been disclosed in-country in a public Yes [ X] No [  ]  NA [  ]
+place in a form and language that are understandable and
+accessible to project-affected groups and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional  Yes [ X] No [  ]  NA [  ]
+responsibilities been prepared for the implementation of
+measures related to safeguard policies?
+Have costs related to safeguard policy measures been included  Yes [ X] No [  ]  NA [  ]
+in the project cost?
+Does the Monitoring and Evaluation system of the project  Yes [ X] No [   ]  NA [   ]
+include the monitoring of safeguard impacts and measures
+related to safeguard policies?
+Have satisfactory implementation arrangements been agreed  Yes [X] No [   ]  NA [   ]
+with the borrower and the same been adequately reflected in
+the project legal documents?
+III. APPROVALS
+Task Team Leader(s): Name: Gaetano Vivo
+Approved By
+Practice Manager/      Name: Josef Lloyd Leitmann (PMGR)          Date: 30-Mar-2015
+Manager:
+Page 7 of 7
+
+

@@ -1,0 +1,599 @@
+                                  The World Bank
+                                  India Digital Financial Inclusion of Informal Sector
+
+
+
+
+                                                      Integrated Safeguards Data Sheet
+                                                    Identification / Concept Stage (ISDS)
+Public Disclosure Copy
+
+
+
+
+                                                 Concept Stage | Date ISDS Prepared/Updated: 08-Oct-2018 | Report No: ISDSC25028
+
+
+
+
+                         Oct 09, 2018                                                                                              Page 1 of 12
+                                  The World Bank
+                                  India Digital Financial Inclusion of Informal Sector
+
+
+
+                          BASIC INFORMATION
+
+                           A. Basic Project Data
+
+                           Project ID                            Project Name                   Environmental Category   Country
+                                                                 India Digital Financial        B - Partial Assessment
+                           P167886                                                                                       India
+                                                                 Inclusion of Informal Sector   (B)
+                           Team Leader(s)                        Estimated Date of Approval     Managing Unit            Financing Instrument
+                           Varsha Marathe Dayal,
+                                                                                                                         Investment Project
+                           Ciliaka Millicent Wanjiru                                            GFCSS
+                                                                                                                         Financing
+                           Gitau
+Public Disclosure Copy
+
+
+
+
+                          PROJECT FINANCING DATA (US$, Millions)
+
+                           SUMMARY                    -NewFin1
+
+
+
+
+                           Total Project Cost                                                                                                       2.73
+                           Total Financing                                                                                                          2.73
+                           Financing Gap                                                                                                            0.00
+
+                           DETAILS      -NewFinEnh1
+
+
+
+
+                           Non-World Bank Group Financing
+                              Trust Funds                                                                                                          2.73
+                                  Japan Social Development Fund                                                                                    2.73
+
+
+                           B. Project Development Objective(s)
+                           The Project Development Objective (PDO) is to foster increased use of digital financial services by informal sector
+                           women in low-income households in selected States.
+                           The project will reach at least 500,000 women from low income and marginalized households in six states namely
+                           Bihar, Uttar Pradesh, Rajasthan, Meghalaya, Assam and Gujarat. The project will enhance financial literacy and
+                           proficiency in using mobile technology among target groups, and catalyze adoption of digital financial services so that
+                           these households can access formal financial instruments for improved livelihoods.
+
+
+                           C. Project Description
+                                 1. The project client is Self-Employed Women’s Association (SEWA). The project envisages empowering
+                                    low-income households, particularly women who are members of SEWA to help them build
+
+
+
+                         Oct 09, 2018                                                                                                         Page 2 of 12
+                                  The World Bank
+                                  India Digital Financial Inclusion of Informal Sector
+
+
+
+
+                                        sustainable livelihoods by improving their financial literacy, making them proficient in mobile
+                                        technology and strengthening their access to digital financial products / services.
+                                 2.     The project's approach incorporates lessons and best practices from successful WBG initiatives in
+                                        the region. Financial inclusion projects in the region such as the WBG initiative in Bangladesh aimed
+                                        at leveraging Mobile Financial Services to accelerate women's financial inclusion have shown promise
+                                        in reducing gender gap in access to financial services.
+                                 3.     The project leverages the lessons and delivery systems developed as part of the previous SEWA-
+                                        JSDF partnerships. The first SEWA-JSDF project resulted in the establishment of SEWA Manager's
+                                        School (SMSc) that has shown success in developing a range of learning modules across skill /
+                                        knowledge areas in partnership with expert institutions and training grassroots women at scale. The
+                                        project trained 823,746 women across a number of training areas spanning technical, managerial and
+                                        leadership skills, resulting in increased household income (77% of beneficiaries) and increased
+                                        employability (84% of beneficiaries). The second project facilitated the creation of decentralized and
+Public Disclosure Copy
+
+
+
+
+                                        sustainable Community Learning and Business Resource Institutions (CLBRCs) to provide business
+                                        support to grassroots women entrepreneurs. 524,566 members were linked to services provided by
+                                        these CLBRCs. 192,889 members were trained in various programs including technical skills, green
+                                        livelihood areas and ICT skills. 85,000 women were linked to livelihood opportunities and 16,375
+                                        women were linked to markets, trade inputs and micro-credit. The second project also piloted several
+                                        ICT initiatives that successfully demonstrated the process of demystifying technology for marginalized
+                                        women and expanding their use in livelihood activities. The proposed project focuses specifically on
+                                        the relatively new field of digital financial services which has made rapid strides in recent years and
+                                        has shown great potential to promote financial inclusion. The project aims to increase awareness,
+                                        literacy and usage of digital finance applications and technologies among women from low income
+                                        and marginalized households by leveraging systems and building on experiences from the earlier
+                                        SEWA-JSDF projects.
+                                 4.     The project will focus on demonstrating innovative approaches that can be scaled up in other World
+                                        Bank supported interventions in the region. This will include mapping and customizing products /
+                                        technologies for underserved target segments; piloting open online learning platforms and scalable
+                                        training approaches for marginalized, rural women; innovatively leveraging existing networks and
+                                        member-to-member transactions to catalyze Fintech adoption; and supporting innovative ICT and
+                                        MIS projects that promote Fintech adoption and strengthen monitoring and evaluation.
+                                 5.     Multiple rounds of consultations have been carried out with target beneficiaries of the project,
+                                        SEWA grassroots leaders and SEWA managers. Consultations included field visits to SEWA CLBRCs,
+                                        visits to SEWA social enterprises as well as small-group discussions with all stakeholders. These
+                                        consultations have been instrumental in shaping the project design, and identifying activities based
+                                        on constraints, aspirations and explicit demands of target beneficiaries and grassroots leaders.
+                                        Activities are expected to be community-driven, with the involvement of women from marginalized
+                                        and excluded communities in all stages of implementation.
+                                 6.     Project Components:
+
+                           Component A: Needs assessment and technology mapping (US$ 0.26 million): This component will support
+                           foundational activities such as orientation workshops at the central, district / block and community level,
+
+                         Oct 09, 2018                                                                                                  Page 3 of 12
+                                  The World Bank
+                                  India Digital Financial Inclusion of Informal Sector
+
+
+
+
+                           detailed needs assessment of target beneficiaries, other assessments to understand footprint of ongoing
+                           digital financial services / schemes on the ground, product / technology identification and mapping, and
+                           partnerships with multiple categories of external institutions. Subcomponents include:
+
+                                 a. Orientation: The component will support a series of orientation workshops for SEWA management,
+                                    district / state leadership, state implementation partners, ICT team at central / district / block levels,
+                                    SEWA Bank and other sister SEWA institutions, partners and external stakeholders, as well as target
+                                    beneficiaries of the project. These workshops will outline project objectives, share and seek feedback
+                                    on implementation strategy and action plan, and develop a strong foundation for launch of
+                                    subsequent activities.
+                                 b. Needs assessment: The component will carry out a detailed assessment of target beneficiaries to
+                                    understand their socioeconomic status, access to digital devices such as smartphones, livelihood
+                                    activities, financial needs, level of digital literacy, level of financial literacy, the gaps, concerns and
+Public Disclosure Copy
+
+
+
+
+                                    issues with adopting technology, and other related aspects. The assessment will study the lifecycle
+                                    needs of the livelihood activities undertaken by marginalized women and vulnerable communities to
+                                    identify points / areas where adoption of Fintech can increase productivity, sustainability and
+                                    incomes. The assessment will similarly identify the needs and possible Fintech intervention points in
+                                    SEWA's various ongoing activities / programs including organizing activities, agriculture support
+                                    program, green livelihood initiatives, SEWA's agro-produce Rural Distribution Network (RUDI), artisan
+                                    support programs, microenterprise support programs, new-age initiatives such as rural homestays
+                                    with Airbnb, e-commerce partnership with Amazon, and other initiatives. The component will support
+                                    surveys to identify how banks including payment banks and other prepaid instruments market their
+                                    services to customers. The component will strengthen understanding banks' initiatives towards
+                                    fostering financial literacy and onboarding women through surveying their financial literacy centers.
+                                    The status of Government of India's Digidhan Abhiyan's initiatives in improving awareness of digital
+                                    payments in the target states will be assessed as well.
+                                 c. Partnerships and technology mapping: Based on assessments, the component will identify technology
+                                    products most suitable for the needs and aspirations of target beneficiaries and their livelihood
+                                    activities. This may include applications / digital products for banking, mobile wallets, utility
+                                    payments, money transfer / remittances, applying for small loans, micro-savings, mutual fund
+                                    investments and others. Technology mapping will be undertaken for multiple digital mediums
+                                    including smartphones, feature phones and computers. Shortlisted technology products / services will
+                                    be pilot tested with a sample set of beneficiaries to seek feedback and ascertain suitability. The
+                                    project will establish partnerships with various technology providers including telecom companies
+                                    such as Vodafone, Airtel, Reliance Jio, Idea; financial institutions such as State Bank of India (SBI), ICICI
+                                    Bank, Axis Bank, HDFC Bank, Bank of India and Bank of Baroda; credit card services such as
+                                    Mastercard; payments / remittance service providers such as Paytm, Mobikwik, Eko; unsecured small
+                                    loan providers / marketplaces such as Capital Float, Suvidhaa; Fintech think tanks such as iSpirit; other
+                                    financial service providers and including young organizations offering innovative financial services
+                                    leveraging the India Stack architecture. These partnerships will focus on making digital products /
+                                    applications available to beneficiaries in a manner that takes into account their literacy levels and
+                                    level of familiarity with technology. This can mean easy-to-use workflows, simplified interfaces and
+
+                         Oct 09, 2018                                                                                                   Page 4 of 12
+                                  The World Bank
+                                  India Digital Financial Inclusion of Informal Sector
+
+
+
+
+                                        multi-lingual forms. Wherever possible, the project will work with partners to suitably customize the
+                                        applications for beneficiaries. The project will also explore building customized applications to digitize
+                                        workflows for activities undertaken by SEWA members if a suitable off-the-shelf solution is not
+                                        available in the market. The component will support roundtable discussions, brainstorming
+                                        workshops with these partners, external experts and other stakeholders to facilitate establishment of
+                                        these partnerships. These discussions / workshops will be led by a Digital Finance Advisor.
+
+                           Component B: Strengthening SEWA's delivery system for improving financial and technology awareness
+                           (US$ 0.95 million): This component will focus on strengthening SEWA's institutional capacity to generate
+                           digital and financial awareness at the grassroots, train grassroots members in digital finance applications and
+                           effect large scale Fintech transformation in the target states. Subcomponents include:
+
+                                 a. Strengthening SEWA Management School (SMSc) by developing modules and digital learning
+Public Disclosure Copy
+
+
+
+
+                                    platform: The component will develop interactive and innovative classroom, digital and mobile-based
+                                    training modules to train members in using digital finance to perform key financial functions such as
+                                    accessing bank accounts, conducting transactions, conducting payments, savings, accessing credit and
+                                    other areas identified in Component A. In addition, it will focus on developing training modules to
+                                    disseminate basics of finance, basic mobile functions, mobile applications, internet banking, and a
+                                    range of other related areas. SEWA will partner with financial institutions, management schools,
+                                    research institutions and other relevant organizations and leverage GoI's Digidhan Abhiyan initiative
+                                    and ongoing WBG initiatives in the region (e.g. Bangladesh) to adapt / customize existing modules as
+                                    well as develop new learning modules. The component will also invest in developing an open online
+                                    learning platform tailored to the needs, capacities and aspirations of informal sector beneficiaries.
+                                    This platform will host interactive audio-visual based learning modules in digital financial services, as
+                                    well as modules in other areas (that may be developed independently by SEWA)
+                                 b. Building grassroots training capacity – training of master trainers: The component will create a cadre
+                                    of grassroots master trainers or local resource persons proficient in using digital finance technologies
+                                    and applications identified in Component A. These master trainers will drive the training, capacity
+                                    building and awareness generation at the grassroots. They will be drawn from the pool of SEWA
+                                    aagewans or grassroots leaders, 'Internet Saathis' trained under an ongoing SEWA initiative with Tata
+                                    Trust, resource persons trained by other civil society or private sector institutions in the target areas,
+                                    and other motivated youth from target communities who have demonstrated interest and aptitude
+                                    for ICT. Trainers trained under MeitY programs will be co-opted as well, as per need and relevance. All
+                                    trainers will be selected from local communities so that they are readily accessible at the village /
+                                    block level and continue to educate and train rural households beyond the project period.
+                                 c. Strengthening and expanding SEWA centers / touch points: SEWA takes its programs to its vast base
+                                    of rural members through a network of CLBRCs and Community Learning Centers (CLCs). The
+                                    component will focus on (a) Strengthening existing CLBRCs and CLCs by creating the necessary
+                                    additional facilities within these centers to facilitate interventions under this project. This will include
+                                    improving ICT facilities and communication mediums (such as video conferencing, social media
+                                    platforms, whatsapp groups etc.). This will also include onboarding centers onto SIDBI's Udyami Mitra
+                                    portal, and training SEWA members and other motivated youth from the larger community as credit
+
+                         Oct 09, 2018                                                                                                    Page 5 of 12
+                                  The World Bank
+                                  India Digital Financial Inclusion of Informal Sector
+
+
+
+
+                                    counselors in each center. (b) Increasing outreach by establishing additional centers, particularly in
+                                    states other than Gujarat, where SEWA may not have a strong network of centers. The component
+                                    will support the onboarding and capacity building of at least one ICT officer for each center.
+                                 d. Strengthening SEWA’s digital team: The component will also support the onboarding and capacity
+                                    building of a strong digital team at the central level to oversee the various digital activities of the
+                                    project and achieve key development objectives. The team will be led by a Chief Technology Officer
+                                    and will comprise of a Digital Financial Services Officer and a Mobile Technology / Services Officer.
+
+                           Component C: Catalyzing Fintech adoption at the grassroots (US$ 1.27 million): This component will drive
+                           large-scale awareness building, capacity building and Fintech adoption at the grassroots in the target states.
+                           Subcomponents include:
+
+                                 1. Rollout of trainings: The component will support large-scale rollout of Fintech training and capacity
+Public Disclosure Copy
+
+
+
+
+                                    building activities in the target states through trained master trainers via SEWA's network of rural
+                                    centers (CLCs / CLBRCs), with regular monitoring and direction from SMSc and the project
+                                    management team. Master trainers will undergo refresher trainings once a year to consolidate skills
+                                    and incorporate new developments in the Fintech space. The rollout plan will take into account the
+                                    cultural and socioeconomic differences in target states as well as livelihood-specific needs of
+                                    members. Systems developed and experience gained under past SEWA-JSDF projects will be
+                                    leveraged, particularly SEWA's grassroots reach through its network of CLBRCs, the SMSc training
+                                    infrastructure and lessons learnt from key ICT pilots for grassroots women. The project will target
+                                    SEWA members as early adopters by leveraging their trust and familiarity with SEWA programs. SEWA
+                                    members will in turn be the progressive drivers to encourage others to adopt new technologies.
+                                    Focusing on youth is a key part of the strategy. Experience in WBG projects and earlier SEWA-JSDF
+                                    initiatives has shown that younger members adopt technology faster and later drive adoption among
+                                    their families and friends.
+                                 2. Digitization of key SEWA activities: The component will foster large scale Fintech adoption by
+                                    supporting the introduction of digital transactions in ongoing SEWA economic activities that are
+                                    operating at scale. Key SEWA activities that have been identified for digitization are savings / credit
+                                    activities, annual membership fee collection, social enterprises such RUDI, SEWA Trade Facilitation
+                                    Center (STFC) as well as other economic activities undertaken by SEWA members in the target states.
+                                    Majority of the transactions in these activities are currently cash-based. The component will support
+                                    transition of cash-based transactions to digital payments in each of these identified activities by
+                                    training members in the relevant technologies, facilitating access and encouraging regular use. In
+                                    addition, the component will support the upgradation of existing SEWA web and mobile-based
+                                    applications such as mBachat and RUDI apps (developed under an earlier SEWA-JSDF project) to
+                                    enable digital financial transactions. The component will also support integration of various SEWA
+                                    MIS and ICT systems to produce better data / intelligence for improved M&E and stronger project
+                                    impact. Furthermore, the component will explore leveraging of new-age technologies to digitize key
+                                    SEWA activities and improve digital literacy of SEWA members. This includes use of blockchain
+                                    technology to digitize SEWA’s electoral process, use of Artificial Intelligence (AI) / Bigdata to generate
+                                    business intelligence that can strengthen and expand SEWA’s social enterprises.
+
+                         Oct 09, 2018                                                                                                Page 6 of 12
+                                  The World Bank
+                                  India Digital Financial Inclusion of Informal Sector
+
+
+
+
+                                 3. Promotional material and events: The component will promote digital technologies / products
+                                    through a mixture of classroom sessions, events, village meetings, community radio broadcasts,
+                                    narrowcasts, videos, street plays, radio advertisements, whatsapp broadcasts and other channels
+                                    available to SEWA. Partnerships with technology/telecom firms will be leveraged in order to change
+                                    the mindset of the rural customer towards adoption and address their key concerns regarding the
+                                    technology providers. Advocacy programs arranged in partnership with technology firms will boost
+                                    the trust building process and speed up adoption.
+                                 4. Grievance Redressal Mechanism (GSM): The component will support the set up of a Grievance
+                                    Redressal Cell to receive, record and address grievances of intended beneficiaries and SEWA
+                                    members at large. A complaint registration window will be opened in designated SEWA centers
+                                    (CLBRCs / CLCs) in a manner that ensures easy access to beneficiaries across all project states. This
+                                    will be supplemented by a toll-free phone number as well as an online complaint submission form on
+                                    SEWA's website. An MIS will be created to record complaints and track progress in resolution of these
+Public Disclosure Copy
+
+
+
+
+                                    complaints. Operators will be trained to handle complaints registered over the toll-free phone
+                                    number. Majority of these operators will be women, with proportionate representation for native
+                                    languages of all project districts. The project manager will undertake regular review of the Cell's logs
+                                    to ensure timely resolution of all complaints.
+
+                                        Component D: Project Management and Administration, Monitoring and Evaluation, and
+                                        Knowledge Dissemination (US$ 0.25 million): This component will support incremental project
+                                        management and administration expenses, monitoring and evaluation activities and knowledge
+                                        dissemination activities. Subcomponents include:
+
+                                 1. Project Management and administration: The component will support a small project management /
+                                    administration unit dedicated to managing the implementation of the project, including a full time
+                                    Project Manager, Procurement Specialist and Financial Management Specialist. The unit will be
+                                    responsible for implementing the grant, including hiring and supervising of implementing partners,
+                                    facilitating contacts with key partners, facilitating partnerships, organization trainings, preparation of
+                                    TORs for consultants, organizing consultations / workshops and overseeing other aspects of project
+                                    implementation. The component will also support incremental administrative and operational costs
+                                    of the project at SEWA, including key activities during the project lifecycle such as project launch,
+                                    annual audits and other fiduciary aspects.
+                                 2. Monitoring and Evaluation: The component will support key M&E activities including baseline survey,
+                                    midline survey, endline survey, impact assessment and development of ICM report. Baseline / midline
+                                    / endline / impact assessment studies will be undertaken by independent agencies onboarded
+                                    through a competitive process. M&E activities will be led by an M&E specialist, who will closely
+                                    monitor PDO and intermediate indicators and track progress towards Project Development Objective.
+                                    Besides managing independent survey / impact assessment agencies, and tracking progress, the M&E
+                                    specialist will oversee regular assimilation of data through SEWA's MIS systems, and complement this
+                                    with participative approaches such as Participative Rural Appraisals, Focus Group Discussions and
+                                    case studies. M&E data will be regularly shared with project beneficiaries, and their feedback / inputs
+
+
+                         Oct 09, 2018                                                                                                Page 7 of 12
+                                  The World Bank
+                                  India Digital Financial Inclusion of Informal Sector
+
+
+
+
+                                    will be recorded and incorporated in project implementation activities, to ensure ownership and
+                                    sustainability.
+                                 3. Knowledge dissemination: The component will support activities to disseminate the lessons and
+                                    experiences from the project with government agencies, civil society institutions, donor agencies,
+                                    academic and research institutions, financial institutions and other relevant stakeholders. The
+                                    component will support two knowledge dissemination workshops at the national level, as well as the
+                                    publication of a book detailing project impacts, key lessons as well as case studies of beneficiaries.
+
+                                 1. The financial and mobile literacy programs organized under the project will include not just the
+                                    program participants but the larger community. The resources created under the program such as
+                                    literacy material, mobile phone applications, and technology-based delivery models will be open for
+                                    the use of the community, and will be widely disseminated with other institutions through
+                                    knowledge-sharing workshops. Moreover, the resource persons trained at the village level will be a
+Public Disclosure Copy
+
+
+
+
+                                    valuable addition to the local rural financial eco-system. The innovative model of the community’s
+                                    partnership with corporate payment providers and financial institutions will have a demonstration
+                                    effect for other developmental programs. The lessons thereof and the final impact assessment are
+                                    expected to provide practical lessons for financial inclusion programs, especially to reach women,
+                                    tribal communities and other vulnerable sections of the society.
+                                 2. Monitoring & Evaluation process will be systematic and participative. The implementing agency will
+                                    monitor the results of project interventions continuously and systematically by gathering data using
+                                    appropriate MIS, prepare reports and consulting with the World Bank on a periodic basis, as and
+                                    when necessary. An independent impact assessment exercise will be undertaken to evaluate project
+                                    results by an external agency identified based on World Bank guidelines. Monitoring and Evaluation
+                                    will include participatory approaches. M&E by SEWA and independent impact assessments will be
+                                    complemented by beneficiary assessments through Participatory Rural Appraisals, Focus Group
+                                    Discussions, Interviews, and Case studies. M&E data will be shared with project beneficiaries and
+                                    other stakeholders on a regular basis, qualitative observations of beneficiaries and other stakeholders
+                                    will be recorded, and discussions on actions to be taken will be conducted.
+                                 3. Beneficiary selection will be undertaken through a participative process, and rigorously monitored
+                                    through MIS systems to ensure target beneficiaries from marginalized households and excluded
+                                    communities are covered by project activities. The project's capacity building / training programs and
+                                    learning modules will be open to all beneficiaries - SEWA members as well as individuals from the
+                                    larger community. Risks associated with targeting / selection of beneficiaries are expected to be low
+                                    as SEWA is a reputed community-based organization that is known to work for poor, informal sector
+                                    women regardless of caste, creed or religion. SEWA members include a significant number of women
+                                    from minorities, SCs and STs (indigenous communities). The project will mitigate risks through regular
+                                    community consultations as well as strong feedback mechanisms that will allow project activities to
+                                    be community-driven and relevant to the needs and aspirations of intended beneficiaries.
+                                 4. Key project activities are expected to be sustainable after grant closure. Experience has shown that
+                                    sustainability can best be achieved through integrating projects with local institutions' management
+                                    and activities. Key activities such as promoting literacy / capacity building and catalyzing Fintech
+                                    adoption will be integrated / aligned with ongoing activities of SEWA institutions and social
+
+                         Oct 09, 2018                                                                                             Page 8 of 12
+                                  The World Bank
+                                  India Digital Financial Inclusion of Informal Sector
+
+
+
+
+                                    enterprises. The project's decentralized approach focuses on creation of local resources (through
+                                    Training of Trainer or TOT model) and public goods for sustainability of activities and results at local
+                                    level. The project will focus will be on identifying sustainable technologies / products that will stay
+                                    relevant beyond the project period. The project will also develop linkages with GoI's Digidhan
+                                    Abhiyan. Earlier JSDF grants to SEWA demonstrated significant success in turning many of SEWA's
+                                    CLBRCs into sustainable business units. The training and facilitation activities planned under the
+                                    project at the CLBRC level will adopt appropriate revenue models to ensure continued sustainability
+                                    of the centers.
+                                 5. The DEA request for the activity was received on April 19, 2018. The relevant Government
+                                    Departments for digital financial inclusion (i.e. DFS - Department of Financial Services, Ministry of
+                                    Finance and MeitY) will be consulted regularly during project implementation. Initial discussions have
+                                    already been held to explore synergies, particularly in using training material and trainers trained
+                                    under MeitY programs.
+Public Disclosure Copy
+
+
+
+
+                                 6. Collaboration with IFC: The team has been collaborating with the IFC team who are supporting
+                                    SEWA’s transformation program (360 Strategic Business Review) and will explore the synergy
+                                    between the two engagements with SEWA.
+
+                           The project time-period is four years given the behavioral change targeted at women members of SEWA.
+                           Literature indicates that increased financial knowledge is the first step in the causal chain towards changes in
+                           financial decisions.
+
+
+
+
+                           SAFEGUARDS
+
+
+                          D. Project location and salient physical characteristics relevant to the safeguard
+                          analysis (if known)
+                          The project will work with women from low-income and marginalized households in the target states. The
+                          identified states for project engagement are Bihar, Uttar Pradesh, Rajasthan, Assam, Meghalaya and Gujarat.
+                          Overall, the environmental impacts of the project are expected to be positive due to improvement in
+                          livelihoods and financial literacy of the rural women [also marginalized/excluded] in low-income States. Key
+                          project activities include needs assessment, application customizations, training, capacity building and
+                          increasing and upgrading SEWA ‘touch points’. The project is not expected to fund any major civil works.
+                          Based on gaps identified through assessments [Project Component A], the project may fund minor
+                          renovations, increasing or expanding the ‘touch points’ [community learning centers where
+                          poor/marginalized women get trained], purchase of equipment and furniture, and encourage rural women to
+                          purchase mobile phones/smart phones. Since exact project locations are not known, safeguards
+                          management would be through providing guidance for avoiding, minimizing and mitigating impacts on the
+                          environment due to various activities.
+
+
+
+
+                         Oct 09, 2018                                                                                               Page 9 of 12
+                                  The World Bank
+                                  India Digital Financial Inclusion of Informal Sector
+
+
+
+
+                          E. Borrower’s Institutional Capacity for Safeguard Policies
+                          SEWA has substantial institutional capacity both centrally and in the field with extensive experience in
+                          participatory processes, implementing environmentally and socially-sensitive projects with vulnerable
+                          populations in India, and delivering relevant training and capacity building. SEWA has prior experience on
+                          similar projects. They have penetrated rural India by upscaling Community Learning centers and Community
+                          Learning Business Resource Centers, through an earlier JSDF Grant. Potential environmental impacts [though
+                          mostly small-scale and localized] of proposed activities include disposal of wastes [including e-wastes from
+                          discarded mobiles], dust and emissions. These can be mitigated by incorporating good design and civil works
+                          practices, including proper housekeeping measures, proper storage, and disposal of excavated earth
+                          materials and wastes, pollution management. For this, it is necessary that the project staff are provided with
+                          appropriate guidance material on environmental aspects and trained to identify and address any issue that
+                          might arise. To guide their staff to manage the potential environmental impacts [though mostly small-scale
+Public Disclosure Copy
+
+
+
+
+                          and localized] of these activities, a simple Environmental and Engineering Code of Practice [EECOP] will be
+                          prepared by SEWA. The EECOP will also provide guidelines which outline simple rules and procedures
+                          regarding identification, monitoring, and mitigation of possible environmental impacts. This include [but not
+                          limited to] guidance for (i) good civil works practices (ii) construction and demolition (C&D) waste
+                          management in case of minor renovations, (iii) plans for safe management of e-wastes from discarded
+                          mobiles, and, (iv) educating on safe usage of mobile phones, purchase of better equipment and furniture; (v)
+                          upgrading touch points with adequate water, proper sanitation facilities [and thereby minimizing and
+                          managing pollution] disabled friendly features, (vi) locational decisions, health and safety, (vii) training /
+                          capacity building needs and other such aspects. Since the exact location of all program activities are not yet
+                          known and few activities under the Program may have minor short-term implications, the environmental
+                          safeguards category at this stage has been determined as “B”. The environmental safeguard policy that it
+                          triggers is Environmental Assessment (OP/BP/GP 4.01). The impacts are proposed to be managed using
+                          EECOP.
+
+
+
+                          F. Environmental and Social Safeguards Specialists on the Team
+                          Gitanjali Chaturvedi, Social Specialist
+                          Deepa Balakrishnan, Environmental Specialist
+
+
+                          G. Policies that might apply
+                          Safeguard Policies Triggered by the Project                    Triggered?             Explanation (Optional)
+                          Environmental Assessment OP/BP 4.01                   Yes                   The project aims at assessing the needs of
+                                                                                                      the rural women for Fintech applications,
+                                                                                                      developing training modules for financial
+                                                                                                      awareness, capacity building, and
+                                                                                                      monitoring/evaluation. The project is not
+                                                                                                      expected to fund any civil works, purchase
+
+                         Oct 09, 2018                                                                                                    Page 10 of 12
+                                  The World Bank
+                                  India Digital Financial Inclusion of Informal Sector
+
+
+
+                                                                                                  of equipment / furniture which may lead to
+                                                                                                  any significant, irreversible or major
+                                                                                                  environmental impacts.
+                                                                                                  However, OP/BP 4.01 is triggered since
+                                                                                                  OP/BP 4.10 is triggered given the expected
+                                                                                                  positive impacts on indigenous population.
+                                                                                                  Indigenous People Framework will be
+                                                                                                  prepared, and the social assessment part of
+                                                                                                  said framework will be used as the
+                                                                                                  safeguards instrument for OP 4.01.
+                          Natural Habitats OP/BP 4.04                           No
+                          Forests OP/BP 4.36                                    No
+                          Pest Management OP 4.09                               No
+Public Disclosure Copy
+
+
+
+
+                          Physical Cultural Resources OP/BP 4.11                No
+                                                                                                  Although the exact project locations and
+                                                                                                  the profile of beneficiaries is not known,
+                                                                                                  the project is likely to have positive impacts
+                                                                                                  on indigenous populations if indeed, they
+                          Indigenous Peoples OP/BP 4.10                         Yes               are covered in its scope. An Indigenous
+                                                                                                  People's Framework will be prepared to
+                                                                                                  guide the project in the event that
+                                                                                                  scheduled tribes are reached at any stage
+                                                                                                  in the project's lifetime.
+                          Involuntary Resettlement OP/BP 4.12                   No
+                          Safety of Dams OP/BP 4.37                             No
+                          Projects on International Waterways OP/BP 7.50        No
+                          Projects in Disputed Areas OP/BP 7.60                 No
+
+
+                          H. Safeguard Preparation Plan
+
+                          Appraisal stage ISDS required? Yes
+                           SafeguardAppraisalStage
+                           a) Tentative target date for disclosing the appraisal stage ISDS
+                           30-Oct-2018
+                           b) Time frame for launching and completing the safeguard-related studies that may be needed.
+                           Indigenous People's Framework will be prepared by appraisal.
+
+
+                           APPROVALS
+
+
+
+                         Oct 09, 2018                                                                                                  Page 11 of 12
+                                   The World Bank
+                                   India Digital Financial Inclusion of Informal Sector
+
+
+
+
+                              Team Leader(s):                                  Varsha Marathe Dayal
+
+                              Approved By
+
+                              Safeguards Advisor:                             Maged Mahmoud Hamed                               12-Jul-2018
+
+                              Practice Manager/Manager:                       Esperanza Lasagabaster                            26-Sep-2018
+
+
+                          1Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) by the Bank and (ii) in country
+                          by the Borrower/Recipient, at publicly accessible locations and in a form and language that are accessible to potentially affected persons.
+Public Disclosure Copy
+
+
+
+
+                         Oct 09, 2018                                                                                                                            Page 12 of 12
+

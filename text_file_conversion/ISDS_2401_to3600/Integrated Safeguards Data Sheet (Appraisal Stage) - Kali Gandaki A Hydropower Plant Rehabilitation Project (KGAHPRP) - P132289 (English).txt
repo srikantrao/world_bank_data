@@ -1,0 +1,680 @@
+﻿                                                INTEGRATED SAFEGUARDS DATA SHEET
+                                                        APPRAISAL STAGE
+                                                                                                Report No.: ISDSA2210
+Public Disclosure Copy
+
+
+
+
+                         Date ISDS Prepared/Updated: 11-Feb-2013
+                         Date ISDS Approved/Disclosed: 29-Mar-2013
+                         I. BASIC INFORMATION
+                            1. Basic Project Data
+
+                            Country:           Nepal                              Project ID:    P132289
+                            Project Name:      Kali Gandaki A Hydropower Plant Rehabilitation Project (KGAHPRP)
+                                               (P132289)
+                            Task Team          Pravin Karki
+                            Leader:
+                            Estimated       31-Jan-2013                           Estimated   14-May-2013
+                            Appraisal Date:                                       Board Date:
+                            Managing Unit: SASDE                                  Lending     Specific Investment Loan
+                                                                                  Instrument:
+                            Sector:           Hydropower (100%)
+                            Theme:            Other economic management (70%), Water resource management (30%)
+                            Financing (In USD Million)
+                            Total Project Cost:         31.11            Total Bank Financing:      27.26
+                            Total Cofinancing:                           Financing Gap:              0.00
+Public Disclosure Copy
+
+
+
+
+                              Financing Source                                                             Amount
+                              BORROWER/RECIPIENT                                                             3.85
+                              International Development Association (IDA)                                   27.26
+                              Total                                                                         31.11
+                            Environmental B - Partial Assessment
+                            Category:
+                            Is this a          No
+                            Repeater
+                            project?
+
+                            2. Project Objectives
+                           The objective of the proposed project is to improve the reliability of power supply of Kali Gandaki A
+                           Hydropower Plant through rehabilitation and safety measures and to and improve the response
+                           capacity of Nepal in case of an emergency.
+                            3. Project Description
+                           Background
+
+
+
+                                                                       Page 1 of 12
+                         Kali Gandaki A Hydropower Project (Kali Gandaki A) is a 144 MW run-of-river plant with six hours
+                         of daily peaking capacity, located on Kali Gandaki river in Syangja. The dam is located below the
+                         confluence of Kali Gandaki and Andhi Khola rivers. The plant was largely funded by the ADB and
+Public Disclosure Copy
+
+
+
+
+                         commissioned in 2002 at a cost of US$453 million. Today it is the largest hydroelectric power
+                         station in Nepal, and it supplies nearly 50% of NEA’s total annual electricity generation which
+                         represents a quarter of the country’s total annual electricity generation. Kali Gandaki A is unique of
+                         its kind in Nepal offering both by its large capacity (144 MW) and its peaking capacity (6 hours).
+                         This important plant is currently facing: low availability of generation capacity from erosion and
+                         cavitation leading to severe damage to its power generation equipment and safety management
+                         issues.
+
+                         Severe Damages to Power Generation Equipment. Severe damage was found at critical plant
+                         equipment, including the main inlet valve, guide vane, and turbine runners caused by both erosion
+                         and cavitation. The erosion is caused by increased sediment concentration dominated by quartz
+                         particles in the water passing through these parts of the power generation units. Reduced efficiency
+                         of the sediment handling facilities at the headworks was identified as a significant cause of this
+                         increase in sediment concentration. In addition to erosion, the electro-mechanical equipment is
+                         affected by cavitation caused by decrease in the tail water level. The damage from erosion and
+                         cavitation is increasing, in turn reducing generation efficiency (2-3%) and reliability, and threatening
+                         the safety of the plant. For example in 2011, the production was recorded as 848 GWh, 8% lower
+                         than the maximum achievable production under the corresponding hydrological conditions. Expert
+                         advisers concluded that civil works at the headworks and tailwater areas are needed to address these
+                         issues. They also recommended that electro-mechanical equipment be retrofitted to avoid more
+                         severe damage and to enhance the performance of the equipment against silt erosion. Special
+                         coatings of turbines were also recommended.
+
+                         Sediment issues at Kali Gandaki. Both Kali Gandaki and Andhi Khola rivers lie in the middle
+                         mountains, a physiographic region of Nepal where increased erosion and sedimentation takes place.
+                         Sediment transport is a natural phenomenon in the Himalayas. Young Geology causes high sediment
+Public Disclosure Copy
+
+
+
+
+                         loads in the rivers during the monsoon season which carry increased sediments and floating debris to
+                         the plant. The abrasive sediment particles in high concentrations (above permitted limits) are
+                         transported into the flow passage of the power generation units, causing severe damage to the
+                         turbines. Unless sediment management is improved, wear and tear of the machinery will continue to
+                         be significant, and require unnecessarily long and frequent unscheduled shutdowns of the power
+                         generation units for repairs, subsequently further reducing the availability of this critical plant. In
+                         2011, the maximum power delivered per unit was 46.4 MW, 3.3 % lower than the 48 MW installed.
+
+                         Floating Debris. As with suspended and bedload sediments, transport of floating debris in the rivers
+                         is a natural phenomenon. Emerging towns and increasing population along the Kali Gandaki and
+                         Andhi Khola rivers introduce greater quantities of solid wastes including plastic and paper that
+                         contribute to the clogging of the intakes at Kali Gandaki. Poor control of the floating debris chokes
+                         the intake screen and reduces the efficiency of the sediment settling basins by introducing accelerated
+                         flows. The trash rack raking machine cannot keep up with the debris accumulation and operations
+                         must be stopped regularly to clean the screen, manually and/or via back flushing. For example in the
+                         summer of 2012, NEA engineers had to back flush the settling basin, resulting in a 13-hour plant
+                         shutdown and a generation loss amounting to 2 GWh or about US$174,000 when calculated at 8.7
+                         cents per kWh. The loss amounts to a staggering US$ 796,000 when considering diesel-based self-
+                         generation at 40 US cents/kWh. Only data from 2012 is presented here because extensive data from
+                         earlier years is not available due to two reasons: 1) NEA’s automatic data recording systems are
+
+                                                                      Page 2 of 12
+                         malfunctioning , and 2) in 2012 NEA decided to collect detailed information for a comprehensive
+                         analysis.
+Public Disclosure Copy
+
+
+
+
+                         The original designers of the plant had recommended continuous monitoring of sediments and
+                         shutting down the plant when the concentrations exceeded 10,000 Parts Per Million (PPM). This has
+                         never been practiced in Kali Gandaki simply because the country is always suffering from a power
+                         deficit and cannot afford to close the plant during periods of high sediments during the summer
+                         months. Physical model testing was performed to assess the performance of headworks and
+                         sedimentation handling facilities, based on which, modifications to the headworks and the
+                         sedimentation handling facilities will be conducted under the project to improve the performance of
+                         the settling basins.
+
+                         Cavitation. During maintenance, the dismantled runners, wicket gates and plates on the machine
+                         shop’s floors show typical wearing due to cavitation rather than the action of sand alone. Field
+                         measurements have confirmed that the cavitation problems exist mainly due to the lowering of the
+                         tail water level under the action of water release at the exit of the power house. This issue cannot be
+                         left unaddressed as it causes important vibration in the powerhouse which can damage all the
+                         equipment. Therefore the project will physically increase the level of the tailwater to restore the
+                         suction head and pressure on turbine runners to the design levels by installing a concrete sill at the
+                         junction with the river bed. This simple solution causes a head loss of 1meter which is compensated
+                         by an expected turbine efficiency gain of 2 to 3% and a decrease in maintenance frequency. Indeed,
+                         the runner must be repaired every year or two whereas experts estimate that combined with hard
+                         coating, the repairs could take place every fifth year. The observed cavitation causes vibrations that
+                         can negatively affect several important equipment including the runners, the wicket gates, guide
+                         bearings, thrust bearings. It could lead to ultimate destruction of these parts if the problems are
+                         neglected.
+
+                         Safety Management Improvements. Kali Gandaki A was funded through ADB and major
+                         international firms designed and constructed the project. The team’s assessment of the dam suggested
+Public Disclosure Copy
+
+
+
+
+                         good quality construction works and no evidence of structural concern. However the team identified
+                         the need to re-establish a satisfactory dam safety management. Adequate instruments need to be re-
+                         installed and properly maintained and staff trained in monitoring the instruments regularly. For NEA
+                         to regain control on dam safety management, the rehabilitation project will assist NEA in creating a
+                         central cell to house amongst other things technical archives of Kali Gandaki and other projects.
+                         NEA will also implement priority non-structural measures such as an emergency preparedness plan
+                         and an instrumentation plan with the assistance of a consulting firm. The proposed project will
+                         address three safety concerns at Kali Gandaki A. First, the Main Inlet Valves (MIV) that function as
+                         safety devices for the power plant are eroded and need repairs. Sediment deposition in the lower part
+                         of the valves hinders complete closure of the MIVs and headwork modifications proposed by the
+                         project will help reduce sedimentation in the MIVs. Secondly, the project will address some dam
+                         safety management issues consisting mainly of improper maintenance and lack of use of dam
+                         instrumentation. Lastly, the deficient control systems will be fixed in the plant to provide the
+                         operators with the emergency information necessary to maintain the plant.
+
+                         The need for an Operation Manual. Since the construction of the plant in 2002, the draft Operation
+                         Manual was not finalized. The draft manual clearly stated that “Sediment Management on [Kali
+                         Gandaki A] is one of the key elements in the project operation�? and recommended sediment
+                         management strategies such as regular flushing, and shutdown of the plant when sediment
+                         concentrations reached threshold values. The plant has always been run according to the instructions
+
+                                                                      Page 3 of 12
+                         of the Load Dispatch Center (LDC), which dispatches the electrical power supplied to the consumers,
+                         works towards maintaining balance between demand and supply, and tries to minimize power
+                         interruptions. This process is designed to meet consumer demand rather than to reflect plant
+Public Disclosure Copy
+
+
+
+
+                         conditions, such as sediment levels. As long as Kali Gandaki remains under pressure to generate
+                         regardless of its operating conditions, ensuring proper maintenance, safety and efficiency at Kali
+                         Gandaki A will continue to be compromised. The project will be completed in 2016. By that time
+                         new generation capacity is expected to come online. The project provides a good opportunity for the
+                         World Bank team to help the GoN, the LDC and NEA agree on optimal operating rules of Kali
+                         Gandaki in the medium and long term, based on the recommendations of the consulting firm hired
+                         for the project.
+
+                         Project Components
+
+                         Component A: Civil Works will address the main items related to civil works and will consist of the
+                         following sub-components.
+
+                         •        Headworks modifications. Under this sub-component, modifications will be made to the
+                         headworks including the intake and the settling basins.
+                         •        Improving Dam Safety & Instrumentation. Under this sub-component, instruments installed
+                         in the project will be repaired and others added as necessary to meet state of the art requirements. An
+                         operation and maintenance manual will be prepared which will include an instrumentation plan.
+                         Real-Time sediment monitoring instrument will be installed.
+                         •        Maintenance Works. Under this sub-component, maintenance of the headworks and the
+                         powerhouse areas, including the stabilization of the slope in the headworks area and the
+                         modifications to the tailrace to address cavitation.
+                         •
+                         Component B: Electro-Mechanical Works. This component consists of mechanical and electrical
+                         works divided into two sub-components.
+Public Disclosure Copy
+
+
+
+
+                         •        Mechanical Works. Under this sub-component the mechanical parts in the powerhouse and
+                         the intake will be repaired and upgraded.
+                         •        Electrical Works. The electrical works will repair and upgrade the control system of the
+                         power house and the dam.
+
+                         Component C: Technical Assistance and Capacity-Building. This component consists of the
+                         following four sub-components.
+
+                         •        Consulting Firm (Consulting Services for Dam Safety, Civil & Electro Mechanical works).
+                         Under this sub-component, technical advisory services will be provided to NEA through a consulting
+                         firm, for overseeing all the three components of the Project. The consultant will also provide the
+                         detailed technical design, held NEA with implementation and procurement, and help prepare the
+                         Operation and Maintenance Manual, Emergency Preparedness Plan and the Instrumentation Plan
+                         (IP).
+                         •        Asset Management. Under this sub-component technical assistance will be provided to NEA
+                         to improve and upgrade their asset management systems.
+                         •        Safeguard Implementation. This sub-component will provide technical assistance to NEA in
+                         implementing the Environmental Management Plan (EMP), Community Support Program and the
+                         Vulnerable Community Development Plan, including monitoring and evaluation.
+                         •        Capacity-Building. This sub-component will provide training to increase NEA’s capacity in
+
+                                                                      Page 4 of 12
+                         asset management, sediment management, safeguard implementation, and operations and
+                         maintenance of specialized fields of electro-mechanical equipment and safety instruments.
+                          4. Project location and salient physical characteristics relevant to the safeguard
+Public Disclosure Copy
+
+
+
+
+                         analysis (if known)
+                         The existing Kali Gandaki A Hydropower Plant is located approximately 180 km west of
+                         Kathmandu. The project was designed as a run-of-river type hydroelectric plant on the Kali Gandaki
+                         River, near the confluence with Andhi Khola river, with an installed capacity of 144 MW at a net
+                         head of 115 m utilizing a rated discharge of 142 m3/s to generate about 840 GWh of electric energy
+                         per annum.
+
+                         The existing headworks are located near the villages of Mirmi, Andhi Muhan and Harmichaur,
+                         downstream of the Andhi Khola confluence. The reservoir extends upstream to Set Beni at the
+                         confluence of the Seti Khola. The powerhouse is located underground except for the control building.
+                         During the dry season (Nov-May), the reservoir level is kept at 524 m and drawdown to generate
+                         max power of 144 MW. Power generation is reduced during the infilling. During the wet season
+                         (June-Oct) the reservoir is kept at a lower elevation of 518 m to minimize build up of sediments in
+                         the reservoir area. Based on continuous monitoring during the monsoon, the plant is to be shut down
+                         when the sediment concentrations reach 5,000 ppm. In reality real-time sediment monitoring
+                         instruments to measure sediment concentrations are not available in the plant. About 13 km
+                         downstream of the existing dam is dewatered section, after which a main tributary joins.
+
+                         The Kali Gandaki basin is sub-tropical to temperate with hot (max 40 degrees Celsius) and wet
+                         summers and cool winters (10 degrees Celsius). The basin is situated in the midland of the lower
+                         Himalayas. Most of the basin is hilly and deeply incised with elevations between 400 m and 1600 m
+                         in the project area. The sediment transport capacity of the Kali Gandaki river is quite high, especially
+                         during the monsoon.
+
+                         The Kali Gandaki River is inhabited by Snow Trouts in the upper reaches, Mahseer in the middle
+Public Disclosure Copy
+
+
+
+
+                         reaches and the River Carp and Catfish in the lower reaches. Out of a total 128 species of fish
+                         reported from the Gandaki River system, 57 species were collected from the Project area.
+
+                         As per the project completion report prepared by the Asian Development Bank (ADB), the project
+                         concept evolved as a result of increased environmental and social concerns at international and
+                         national levels. Environmental considerations were taken into account during the pre-feasibility and
+                         feasibility studies. Further site investigations, design changes and project optimization, reviews and
+                         recommendations by a Panel of Experts and ADB staff provided basis for detailed environmental
+                         studies and formulating mitigations measures. Some design parameters were changed or modified
+                         and additional studies have been conducted regarding environmental impacts during the detailed
+                         engineering design and planning phase. Important provisions and modifications were made to
+                         minimize and to mitigate and the adverse impacts as follows:
+
+                         •        The dam height was carefully selected to ensure that the water storage level did not inundate
+                         the religious “Holy Stone�? and the Seti Beni Market at the end of the backwater zone upstream.
+                         •        To sustain the aquatic and wildlife in the reduced flow zone below the diversion dam the
+                         result of model studies recommended a riparian release of 4 m3/s water from the dam during the dry
+                         season and an additional 2 m3/s would be provided during religious events.
+                         •        The locations of project sites including the transmission line alignment and substations were
+                         carefully sited to protect major settlement, school, hospital and cultural, religious and
+
+
+                                                                      Page 5 of 12
+                         environmentally sensitive area.
+                         •       Provision of 1 % investment from the project net revenues for rural electrification program
+                         of surrounding areas of the project.
+Public Disclosure Copy
+
+
+
+
+                         •       Allocation of US$ 4.3 million for environmental measures excluding in built contractors
+                         costs.
+
+                         The proposed Kali Gandaki A Hydropower Plant Rehabilitation Project is located within the project
+                         area of the existing power plant. Therefore, it will not occupy additional or new land area. No new
+                         additional ancillary facilities, such as access roads, camps, and transmission lines will be required.
+                         The proposed rehabilitation: i) will not change the original dam height, ii) will not increase the water
+                         level in the upstream reservoir, and iii) will not reduce the minimum water release that was
+                         established during the original project. Hence no new impact on forests, and land-use is expected
+                         from the proposed rehabilitation works.
+                         5. Environmental and Social Safeguards Specialists
+                         Drona Raj Ghimire (SASDI)
+                         Parthapriya Ghosh (SASDS)
+
+                         6. Safeguard Policies                Triggered? Explanation (Optional)
+                         Environmental Assessment OP/         Yes              OP/BP 4.1 is triggered because the rehabilitation
+                         BP 4.01                                              activities, although small scale and confined to
+                                                                              the existing plant area, activities may have
+                                                                              moderate adverse impacts on natural
+                                                                              environment, human health and safety.
+                         Natural Habitats OP/BP 4.04          No               Habitat (OP/BP 4.04) is triggered because
+                                                                              project will support fish trapping and hauling
+                                                                              program as an enhancement measure although
+                                                                              rehabilitation activities will not have new or
+Public Disclosure Copy
+
+
+
+
+                                                                              additional impacts on fish or natural habitat.
+                         Forests OP/BP 4.36                   No
+
+                         Pest Management OP 4.09              No
+
+                         Physical Cultural Resources OP/      Yes               Physical Cultural Property (OP/BP 4.11) is
+                         BP 4.11                                              triggered because the project is implementing
+                                                                              measures to protect and enhance the temples at
+                                                                              Seti Beni and Rudra Beni.
+                         Indigenous Peoples OP/BP 4.10        Yes               There are indigenous communities in the project
+                                                                              area. Consultations were carried out with them
+                                                                              during the preparation stage and a VCDP has also
+                                                                              been prepared.
+                         Involuntary Resettlement OP/BP       No                The policy is not triggered as Social Impact
+                         4.12                                                 Assessment carried out shows that proposed
+                                                                              project is not expected to have any land
+                                                                              acquisition or involuntary resettlement issues.
+                                                                              However, it identified some outstanding issues
+
+
+
+                                                                      Page 6 of 12
+                                                                                and certain recently emerged issues. Project has
+                                                                                prepared Social Action Plan in consultation with
+                                                                                the community to address the outstanding issues.
+Public Disclosure Copy
+
+
+
+
+                            Safety of Dams OP/BP 4.37           Yes               Although the proposed rehabilitation project
+                                                                                does not involve any dam rehabilitation works,
+                                                                                the dam safety policy is triggered because the
+                                                                                proposed rehabilitation project includes a
+                                                                                component on preparing a dam safety plan,
+                                                                                including an emergency preparedness plan and
+                                                                                instrumentation plan.
+                            Projects on International           Yes               OP/BP 7.50) triggered because the dam is
+                            Waterways OP/BP 7.50                                located on the Kali Gandaki River which is a
+                                                                                tributary to the Ganges, an international river.
+                                                                                However, the rehabilitation work is unlikely to
+                                                                                make substantial change in the river water quality
+                                                                                and/ or quantity that might affect downstream
+                                                                                user. Hence, a request for exception to the
+                                                                                notification requirement under OP 7.50 is being
+                                                                                sought from the Regional Vice President,
+                                                                                SARVP.
+                            Projects in Disputed Areas OP/BP No                   The project is not located in a disputed area, nor
+                            7.60                                                is the project area likely to become one in the
+                                                                                foreseeable future.
+
+                         II. Key Safeguard Policy Issues and Their Management
+                             A. Summary of Key Safeguard Issues
+                            1. Describe any safeguard issues and impacts associated with the Restructured project.
+Public Disclosure Copy
+
+
+
+
+                              Identify and describe any potential large scale, significant and/or irreversible impacts:
+                               The Project is not expected to cause any significant environmental and social safeguard impacts.
+                              Consisting largely of rehabilitation work, the proposed project consists of physical activities that
+                              will be mostly restricted to the existing plant facilities and its immediate surroundings. There will
+                              be no land acquisition and involuntary resettlement expected as a result of the civil works
+                              proposed. Possible social impacts could be more related to the contractor’s construction
+                              operations, such as noise, dust and public health issues. There are indigenous communities in the
+                              project areas. They may be affected with these impacts. Broad consultations were carried out with
+                              them to understand their attitude towards the proposed project, assess possible impacts in
+                              designing the necessary mitigation measures. The indigenous community is represented by Bote,
+                              Magars and Newars. A Vulnerable Community Development Plan in consultation with the
+                              community has been prepared to address the issues raised by the vulnerable communities.
+
+                              The moderate potential environmental impacts of the activities under the proposed rehabilitation
+                              project includes: temporary increase in flow release below the dam during construction, improper
+                              waste disposal during implementation, air and noise pollution during the construction, and
+                              variations in the water quality due to changed flushing regime during operation phase. The
+                              proposed rehabilitation works will take place within area already occupied by the existing power
+                              plant. Most of the measures identified for mitigation of construction period impacts likely to be
+
+
+                                                                        Page 7 of 12
+                          caused by the proposed project will be the responsibility of the contractor. These measures will be
+                          included in the bidding documents and monitored during the implementation.
+Public Disclosure Copy
+
+
+
+
+                          Though there are no adverse impacts due to the proposed project, the SIA revealed that there are
+                          certain outstanding issues that include: (i) release of 2 m3/s of water from the dam during the
+                          important cultural and religious festivals as per the EIA provision to facilitate the people
+                          downstream of headwork to take ‘holy bath’ in the Kali Gandaki River; (ii) transfer of ownership
+                          of land and houses to Bote families; (iii) transfer of ownership of Bote School to the School
+                          Management Committee; and (iv) extension of existing siren warning system to cover at least 13
+                          km dewatered stretch at Rudrabeni to warn and inform the people regarding the emergency and/or
+                          sudden release of water downstream of dam and associated risks during operation. The
+                          outstanding environmental issues include: insufficient environmental flow and additional flow for
+                          religious purposes, landscape restoration at the former contractor camp (in Mirmi) and disposal
+                          site of the original plant (at Thulobagar), continued support for the fish hatchery and fish trapping
+                          and hauling program, and strengthening of the siren warning system.
+
+                          Some issues emerged recently and include the need for protection work at Setibeni Holy Stone and
+                          for maintenance of resettled Bote houses and the school. During the implementation of the original
+                          project, suitable protection structure of gabion filled walk way around the holy stone of height
+                          more than 12 meters was provided that enabled access to the Sheela (Holy Stone), particularly
+                          during the peaking operation when the water level reached 524 m elevation. However, the holy
+                          stone has been suffering from current scouring from underneath and its concrete base may fall
+                          away in the foreseeable future. Due to a recent flood, the protection work carried out earlier has
+                          been completely destroyed. The community requested support for further repairs. The project will
+                          protect, enhance and will develop mechanism for the management of this holy site in consultation
+                          with the community. The second issues regards maintenance of resettled Bote houses and school.
+                          These houses were constructed ten years ago to resettle the affected Bote (Fisherman) families.
+                          Due to lack of resources, the Bote community could not maintain the houses and the school. As a
+                          goodwill measure the Project will renovate the houses and the school building. To ensure that Bote
+Public Disclosure Copy
+
+
+
+
+                          families are able to maintain their houses in the future, the project is providing them with
+                          subsidized boats for boat transportation for a sustained income.
+
+                           Newly emerged environmental issues include: sedimentation impacts and water level at Seti Beni,
+                           landslide on the access road to dam, catchment area watershed management, and water boat
+                           transportation safety and pollution.
+                         2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+                           in the project area:
+                             No long term impact
+                         3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+                           impacts.
+                             The proposed project is largely of a rehabilitation nature with limited impact. The proposed
+                           works will consist of headworks modifications to address the floating debris and suspended
+                           sediment problems and increase the effectiveness of the settling basins. The electro mechanical
+                           works consist of repairs of the machines.
+                         4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+                           assessment of borrower capacity to plan and implement the measures described.
+
+
+
+
+                                                                     Page 8 of 12
+                           The implementation of EA/EMP, SAP and VCDP will be the responsibility of the Project
+                          Manager who will be assisted by ESSD. ESSD will set up a social cell at the project level. The
+                          social cell of ESSD will comprise of one Social Development Officer (SDO) with adequate
+Public Disclosure Copy
+
+
+
+
+                          experience of hydro projects. The SDO will be assisted by two social mobilizers. ESSD will hire
+                          these mobilizers from a pool of locally qualified persons. One of the mobilizer will be a woman.
+                          For day to day operations, the SDO will directly report to the Project Manager. The Social Cell
+                          will be responsible for planning and designing of project information campaigns, group based and
+                          individual income generating activities, and community mobilization for implementation of SAP.
+                          As and when required, the social cell will hire the services of local NGOs or firms for the
+                          implementation of project information campaigns, poverty alleviation and income-generation
+                          activities, especially the formation of self-help groups (SHGs).
+
+                          An Environmental Management Unit (EMU) will be established within the proposed rehabilitation
+                          project site office under the technical supervision of the ESSD of NEA. EMU will carry out
+                          regular/ day-to-day monitoring and data recording and prepare monthly briefs for joint review at
+                          site by the project management, contractor and EMU. ESSD will visit the project site every three-
+                          month for internal monitoring and reporting. NEA will also engage an external agency for external
+                          evaluation twice during the project implementation (during mid-term and at the end of the project
+                          implementation). EMU will immediately report to the Project/NEA ESSD, if there is any issue that
+                          needs immediate attention or intervention.
+
+                          The ESSD/ Social Cell staff will coordinate with relevant department for the delivery of these
+                          activities. The success of implementation will largely depend on staff’s liaison with the
+                          community and other concerned government agencies. Other involved agencies are expected to
+                          collaborate with the Project, based on instructions from the KGA HPP. These arrangements have
+                          to be made during the first month of Project implementation in order to set up the various
+                          committees and implementation mechanisms required for the project. The role of the social cell
+                          and specifically of SDO will be that of a facilitator. The SDO will work as a link between the
+Public Disclosure Copy
+
+
+
+
+                          Project and the Community. They will educate the community on the need of the Project, on
+                          aspects relating to community development measures and ensure that help is extended to the
+                          community as per the SAP finalized in consultation with the community.
+
+                          Assessment borrower capacity to plan and implement the measures:
+                          The primary responsibility of coordinating work related to social and environmental safeguards
+                          will rest with the Project assisted by the Environment and Social Studies Department (ESSD). The
+                          project will establish an Environmental Management Unit (EMU) and a Social Cell. The EMU
+                          and the Social Cell will be staffed with specialized social and environment professionals either
+                          hired from the marked or on deputation from ESSD. ESSD over a period of time has acquired
+                          skill and experience to address social and environmental safeguard issues. Currently ESSD is
+                          working on several Bank funded projects. An Environmental and Social Specialist each from
+                          ESSD will be posted at the project site to monitor the implementation of environmental and social
+                          safeguards mitigation measures. The specialists will be responsible for generating monthly
+                          progress reports. The midterm and end term evaluation of implementation process will be carried
+                          out by an independent agency.
+
+                           Proposed Rehabilitation project will support orientation/ training to the site staff.
+                         5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+                           on safeguard policies, with an emphasis on potentially affected people.
+
+
+                                                                   Page 9 of 12
+                            Public Consultation, Participation and Disclosure (PCPD) program was developed and
+                           implemented taking into account the various areas of influence that were identified during initial
+                           part of the SIA study. Based on these recognized areas of influence, KGA HEP stakeholders
+Public Disclosure Copy
+
+
+
+
+                           comprise of following groups:
+
+                           •       Communities/families/ individuals who will be benefited by the Project;
+                           •       Government agencies at the district and regional level;
+                           •       Local Government Bodies ( VDCs and DDCs); and
+                           •       Political party representatives and NGOs operating in the Project area;
+
+                           The project undertook consultation with the community at four different locations. The issues
+                           discussed include (i) employment opportunities; (ii) protection work at holy stone and banks of
+                           Rudrabeni temple, (iii) rural electrification; (iv) extension of siren warning system to the
+                           dewatered stretch; (v) release of additional 2 m3/s of water; and (vi) transfer of land ownership to
+                           Bote families and school. Though the proposed works at the head works of the KGA HEP will not
+                           have any adverse social impacts, the project will continue to consult the community especially on
+                           community support program. Following consultation mechanism is proposed during the
+                           implementation of the proposed rehabilitation works in the KGA HEP:
+
+                           Upstream area at Setibeni Bazaar
+                           The local people at the Setibeni Bazaar will be closely consulted during the implementation of the
+                           proposed maintenance works for Setibeni Sheela. Moreover, platform for cremation will be
+                           constructed in consultation with the local people of the area. A committee comprising local key
+                           persons and the project officials will be formed for proper implementation of the proposed
+                           programs.
+
+                           Downstream Area at Rudrabeni
+                           The famous religious site of Rudrabeni Shree Ram temple is located at downstream area (about 13
+Public Disclosure Copy
+
+
+
+
+                           km from the dam) just before the Badigad tributary. The area holds significant importance for
+                           performing the final ritual that has been impacted due to low flow of the river. The local key
+                           persons and the priest of the Rudrabeni temple need to be consulted for maintenance works of
+                           bank protection in the area.
+
+                           Head works Area
+                           The Bote Community is the marginalized indigenous community residing at the head works area.
+                           They need to be consulted for the implementation of maintenance works for the resettled houses
+                           and the Bote school prior to the implementation of the works. Consultation will also be required
+                           for the land transfer issue .
+
+                           Disclosure: The safeguard documents (SIA, SAP and VCDP, EA and EMP) were disclosed in
+                           country on February 3, 2013 and were disclosed in Bank’s infoshop on 02.05.2013. The executive
+                           summary of the safeguard documents (EA, EMP, SAP and VCDP) has been translated into Nepali
+                           language language and disclosed in the country (on NEA’s website www.nea.org.np) and will also
+                           be displayed in the project affected area. Hard copies of the safeguards documents will be placed
+                           at the project office and respective VDCs. A copy will also be placed at the contractor’s project
+                           office.
+                         B. Disclosure Requirements
+
+
+
+                                                                     Page 10 of 12
+                         Environmental Assessment/Audit/Management Plan/Other
+                           Date of receipt by the Bank                                      05-Feb-2013
+                           Date of submission to InfoShop                                   05-Feb-2013
+Public Disclosure Copy
+
+
+
+
+                           For category A projects, date of distributing the Executive
+                           Summary of the EA to the Executive Directors
+                         "In country" Disclosure
+                           Nepal                                                            05-Feb-2013
+                           Comments:
+                          Indigenous Peoples Development Plan/Framework
+                           Date of receipt by the Bank                                      05-Feb-2013
+                           Date of submission to InfoShop                                   05-Feb-2013
+                         "In country" Disclosure
+                           Nepal                                                            05-Feb-2013
+                           Comments:
+                         If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+                         respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+                         Audit/or EMP.
+                         If in-country disclosure of any of the above documents is not expected, please explain why:
+
+
+                         C. Compliance Monitoring Indicators at the Corporate Level
+                         OP/BP/GP 4.01 - Environment Assessment
+                          Are the cost and the accountabilities for the EMP incorporated   Yes [   ]   No [   ]   NA [   ]
+                          in the credit/loan?
+                         OP/BP 4.11 - Physical Cultural Resources
+Public Disclosure Copy
+
+
+
+
+                          Does the credit/loan incorporate mechanisms to mitigate the      Yes [   ]   No [   ]   NA [   ]
+                          potential adverse impacts on cultural property?
+                         OP/BP 4.10 - Indigenous Peoples
+                          If the whole project is designed to benefit IP, has the design   Yes [   ]   No [   ]   NA [   ]
+                          been reviewed and approved by the Regional Social
+                          Development Unit or Sector Manager?
+                         OP/BP 4.37 - Safety of Dams
+                          Has an Emergency Preparedness Plan (EPP) been prepared and       Yes [   ]   No [   ]   NA [   ]
+                          arrangements been made for public awareness and training?
+                         OP 7.50 - Projects on International Waterways
+                          Has the RVP approved such an exception?                          Yes [   ]   No [   ]   NA [   ]
+                         The World Bank Policy on Disclosure of Information
+                          Have relevant safeguard policies documents been sent to the      Yes [   ]   No [   ]   NA [   ]
+                          World Bank's Infoshop?
+                          Have relevant documents been disclosed in-country in a public    Yes [   ]   No [   ]   NA [   ]
+                          place in a form and language that are understandable and
+                          accessible to project-affected groups and local NGOs?
+
+
+                                                                   Page 11 of 12
+                            All Safeguard Policies
+                             Have satisfactory calendar, budget and clear institutional      Yes [    ]   No [   ]   NA [   ]
+                             responsibilities been prepared for the implementation of
+Public Disclosure Copy
+
+
+
+
+                             measures related to safeguard policies?
+                             Have costs related to safeguard policy measures been included   Yes [    ]   No [   ]   NA [   ]
+                             in the project cost?
+                             Does the Monitoring and Evaluation system of the project        Yes [    ]   No [   ]   NA [   ]
+                             include the monitoring of safeguard impacts and measures
+                             related to safeguard policies?
+                             Have satisfactory implementation arrangements been agreed       Yes [    ]   No [   ]   NA [   ]
+                             with the borrower and the same been adequately reflected in
+                             the project legal documents?
+
+                         III. APPROVALS
+                            Task Team Leader: Pravin Karki
+                            Approved By
+                            Regional Safeguards Name: Sanjay Srivastava (RSA)                        Date: 11-Feb-2013
+                            Coordinator:
+                            Sector Manager:     Name: Jyoti Shukla (SM)                              Date: 29-Mar-2013
+Public Disclosure Copy
+
+
+
+
+                                                                     Page 12 of 12
+

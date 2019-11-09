@@ -1,0 +1,254 @@
+﻿                    INTEGRATED SAFEGUARDS DATASHEET
+                            APPRAISAL STAGE
+
+I. Basic Information
+Date prepared/updated: 12/21/2011                                    Report No.: AC6596
+1. Basic Project Data
+Original Project ID: P081771                 Original Project Name: E-Lanka
+                                             Development
+Country: Sri Lanka                           Project ID: P128702
+Project Name: SL: E-Srilanka Development Project Additional Financing
+Task Team Leader: Henry K Bagazonzya
+Estimated Appraisal Date: December 14,       Estimated Board Date: January 31, 2012
+2011
+Managing Unit: SASFP                         Lending Instrument: Specific Investment
+                                             Loan
+Sector: Information technology (40%);Central government administration
+(30%);General public administration sector (15%);Payments, settlements, and remittance
+systems (10%);Law and justice (5%)
+Theme: e-Government (40%);Administrative and civil service reform (30%);Rural
+services and infrastructure (20%);Micro, Small and Medium Enterprise support (10%)
+IBRD Amount (US$m.):             0
+IDA Amount (US$m.):             11
+GEF Amount (US$m.):              0
+PCF Amount (US$m.):              0
+Other financing amounts by source:
+         BORROWER/RECIPIENT                                            0.00
+                                                                       0.00
+Environmental Category: C - Not Required
+Repeater []
+Is this project processed under OP 8.50 (Emergency Recovery)
+                                                                  Yes [ ]     No [X]
+or OP 8.00 (Rapid Response to Crises and Emergencies)
+
+2. Project Objectives
+The Project Development Objective (PDO), which is same as the parent project
+(P081771), is to enhance growth and equity through: (i) improved access and use of
+information and communication; (ii) access to and use of public services on-line by
+businesses and citizens; and (iii) enhanced competitiveness of the private sector and in
+particular of knowledge industry and SMEs.
+
+ The objective will be achieved by (i) establishing an effective, citizen-centered and
+business-friendly government; (ii) empowering the rural poor, disadvantaged groups,
+women, and youth through increased and affordable access to information and
+communication tools; (iii) developing leadership and skills in ICT; and (iv) creating
+employment in the ICT industry and ICT-enabled services, and enhancing the
+competitiveness of user industries and services.
+3. Project Description
+The Additional Financing is being proposed to ensure that activities with the highest
+impact for preparation of the next stage of ICT development in Sri Lanka can be
+completed during the next 18 months. Therefore, the main focus will be on completing
+and scaling up activities that can link the existing platforms and systems to ensure that
+Government Ministries and agencies are connected at the national, regional and district
+levels and enhance the project#s impact and development effectiveness. It is also to
+ensure that citizens have access to services; including training and information from these
+developments and that an effort is put into improving the competitiveness of the country
+in ICT.
+
+ Component 1: Re-engineering Government(US$ 3.75 million).This will focus on 3 main
+activity areas: namely; Lanka Government Network (LGN III) & Training, Lanka Gate
+and E-Services which will scale up, rollout and improve access to citizens to government
+e-services resulting in efficiency improvements in service delivery.
+
+ Lanka Government Network (LGN III) & Training: (US$ 2.21) The Lanka Government
+Network has been completed and links internally 476 government entities. However,
+North and East could not be connected during project implementation due to the conflict.
+Additional financing will connect North and East to the already established government
+network. This is critical for achieving connectivity and improving ICT literacy
+throughout the whole government sector and inclusiveness in terms of efficient provision
+of services to all citizens. ICT training will be provided to all staff involved in the above
+process in order for them to use the established infrastructure efficiently and effectively,
+while providing services to the citizens. Out of the nearly 1200 public sector
+organizations only around 50% have ICT officers trained under the Project requiring the
+remaining 50% to be trained and appointed as Chief Innovation Officers to have the
+public sector ready for the next stage of re-engineering the government.
+
+  Lanka Gate (US$ 0.63 million): ICTA developed a middleware infrastructure that
+connects software components, people and applications. This allows secure electronic
+transactions to be conducted online. Additional financing will support improving the
+management structure for the platform, security framework, inter-operability and
+incremental hardware requirements, so that more services can be supported. In order to
+enhance the service delivery mechanism, additional service delivery channels (mobile,
+IPTV) will also be incorporated in the Country Portal.
+
+  E-Services (US$ 0.91 million): Additional financing will assist in establishing 50 more
+sustainable high impact e-services that would leverage the existing ICT infrastructure
+(Lanka Government Network, Lanka Gate and Telecenters and main e-Gov-applications
+like e-Civil Registry, e-Pensions etc. to reach citizens at divisional secretariat
+level/village level.
+
+ Component 2: Integrated communication (US$ 0.96 million).An integrated
+communication strategy will be developed and implemented at national, district and at
+village levels. This is intended to create awareness at all these levels about on line
+services offered by the government. The strategy and its implementation will also look in
+to improving coordination between government agencies, donors and service providers
+with the purpose of improving efficiency and access to ICT enabled services. The other
+function is to effectively communicate the need for adherence to standards when
+developing ICT applications
+
+ Component 3: Common enabling environment for the above activities (US$ 1.59
+million): Further enhancement of a common enabling environment in terms of policy,
+compatibility, standards, regulations under Electronic Transactions Law, preparation of,
+new laws etc. which are common to activities above to ensure the effective functioning of
+the systems, including developing leadership and specialized expertise to maintain and
+sustain such systems. This component will further look in to enhancement of current laws
+and development of new laws to enable the private sector to grow and to ensure
+competition and a level playing field. The component will support the expansion of local
+language compatibility with widely used software packages. Chief Innovation
+(Information) Officer (CIO) will be further trained implementation of government ICT
+policy and effective delivery of on line services to citizens and businesses. Cyber security
+and data protection will be another area which the component will support.
+
+ Component 4: Telecentres and e-society (US$ 2.39 million). The component will
+support the establishment of extra 40 telecentres in the Nothern province (underserved
+due to conflict).It will also support the rolling out of e-services through these centres and
+the development of 1-2 high impact services in collaboration with the private sector.
+
+ Component 5: Improving IT/ITES sector competitiveness (US$ 1.31 million)To
+improve location readiness Index for ICT/ITES industry in terms of Knowledge
+processing and ICT services. Activities under this component will include (i)
+development of skills certification program for IT/ITES.(ii) provision of industry
+statistics and information on industry needs(iii) Train the Trainer(ToT) Program in
+selected certifications, and (iv) marketing and promotion of the industry.
+
+ Component 6: Incremental Operating Cost (US$ 1.00 million): This component will
+support costs associated with project management including rent, utilities services etc.
+
+ The implementation arrangements remain the same for this additional financing. There
+are no unresolved fiduciary, environmental, social or safeguard issues; and all the legal
+covenants have been complied with. There is no outstanding audit report, nor ineligible
+expenditures. All disbursement conditions have been met.
+
+4. Project Location and salient physical characteristics relevant to the safeguard
+analysis
+The project will be implemented throughout the whole country with some focus on the
+North and East provinces of the country.
+5. Environmental and Social Safeguards Specialists
+   Ms Darshani De Silva (SASDI)
+
+6. Safeguard Policies Triggered                              Yes          No
+Environmental Assessment (OP/BP 4.01)                                     X
+Natural Habitats (OP/BP 4.04)                                             X
+Forests (OP/BP 4.36)                                                      X
+Pest Management (OP 4.09)                                                 X
+Physical Cultural Resources (OP/BP 4.11)                                  X
+Indigenous Peoples (OP/BP 4.10)                                           X
+Involuntary Resettlement (OP/BP 4.12)                                     X
+Safety of Dams (OP/BP 4.37)                                               X
+Projects on International Waterways (OP/BP 7.50)
+Projects in Disputed Areas (OP/BP 7.60)                                   X
+
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project.
+Identify and describe any potential large scale, significant and/or irreversible impacts:
+There are no environmental and social issues associated with the project. It is mainly
+focused on to ensure that citizens have access to services; including training and
+information from these developments and that an effort is put into improving the
+competitiveness of the country in ICT. Within this context, the project does not envisage
+financing construction/renovation/rehabilitation types of activities. Therefore, there will
+not be any involvement of land acquisition/involuntary resettlement or restrictions of
+access to resources and livelihoods.
+
+ It should be noted the Information Infrastructure Network, which had the possibility of
+creating environmental and social issues in the parent project has been removed from the
+project activities, as it has been financed by the Government of Sri Lanka and private
+sector.
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future
+activities in the project area:
+Not applicable
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize
+adverse impacts.
+Not applicable
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide
+an assessment of borrower capacity to plan and implement the measures described.
+Since there will not be any environmental and social issues associated with the project
+activities, the preparation of safeguards documents (e.g. environmental impact
+assessments, resettlement action plans, etc.) are therefore not required.
+5. Identify the key stakeholders and describe the mechanisms for consultation and
+disclosure on safeguard policies, with an emphasis on potentially affected people.
+Not applicable
+
+
+
+B. Disclosure Requirements Date
+Environmental Assessment/Audit/Management Plan/Other:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+  For category A projects, date of distributing the Executive
+  Summary of the EA to the Executive Directors
+Resettlement Action Plan/Framework/Policy Process:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+Indigenous Peoples Plan/Planning Framework:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+Pest Management Plan:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+* If the project triggers the Pest Management and/or Physical Cultural Resources,
+the respective issues are to be addressed and disclosed as part of the Environmental
+Assessment/Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please
+explain why:
+
+
+
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the
+ISDS is finalized by the project decision meeting)
+
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the World Bank's       N/A
+Infoshop?
+Have relevant documents been disclosed in-country in a public place in a       N/A
+form and language that are understandable and accessible to project-affected
+  groups and local NGOs?
+  All Safeguard Policies
+  Have satisfactory calendar, budget and clear institutional responsibilities    N/A
+  been prepared for the implementation of measures related to safeguard
+  policies?
+  Have costs related to safeguard policy measures been included in the project   N/A
+  cost?
+  Does the Monitoring and Evaluation system of the project include the           N/A
+  monitoring of safeguard impacts and measures related to safeguard policies?
+  Have satisfactory implementation arrangements been agreed with the             N/A
+  borrower and the same been adequately reflected in the project legal
+  documents?
+
+
+  D. Approvals
+
+Signed and submitted by:                               Name                        Date
+Task Team Leader:                   Mr Henry K Bagazonzya                        11/11/2011
+Environmental Specialist:           Ms Darshani De Silva                         11/11/2011
+Social Development Specialist
+Additional Environmental and/or
+Social Development Specialist(s):
+
+Approved by:
+Regional Safeguards Coordinator:     Mr Sanjay Srivastava                        11/21/2011
+  Comments: Cleared. Please refer to email dated Nov.16, 2011.
+Sector Manager:                      Mr Ivan Rossignol                           12/21/2011
+  Comments: Cleared.
+

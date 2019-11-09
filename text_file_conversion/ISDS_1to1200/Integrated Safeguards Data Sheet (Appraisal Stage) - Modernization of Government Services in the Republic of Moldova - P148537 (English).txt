@@ -1,0 +1,346 @@
+                                INTEGRATED SAFEGUARDS DATA SHEET
+                                               APPRAISAL STAGE
+.
+
+
+
+
+                                                                                         Report No.:ISDSA21729
+Date ISDSPrepared/Updated:                 24-Mar-2017
+Date ISDS Approved/Disclosed               03-Mar-2017
+I. BASIC INFORMATION
+    1. Basic Project Data
+    Country:                          Moldova                      Project ID:              P148537
+    Project Name:                     Modernization of Government Services in the Republic of Moldova
+                                      (P148537)
+    Task Team Leader(s):              Maya V. Gusarova,Sandra Sargent
+    Estimated Appraisal               13-Feb-2017                  Estimated Board          14-Aug-2017
+    Date:                                                          Date:
+    Managing Unit:                    GGO15                        Lending Instrument: Investment Project
+                                                                                       Financing
+    Is this project processed under OP 8.50 (Emergency Recovery) or OP 8.00(Rapid No
+    Response to Crises and Emergencies)?
+                                              Financing (In USD Million)
+    Total Project Cost:           23.00                         Total Bank Financing: 20.00
+    Financing Gap:                0.00
+      Financing Source                                                                                       Amount
+    BORROWER/RECIPIENT                                                                                          3.00
+    International Bank for Reconstruction and Development                                                       5.00
+    International Development Association (IDA)                                                                15.00
+    Financing Gap                                                                                               0.00
+    Total                                                                                                      23.00
+    Environmental Category:           C - Not Required
+    Is this a Repeater project?       No
+
+    2. Project Development Objective(s)
+    The project development objective is to improve access, efficiency and quality of delivery of selected
+    government administrative services.
+    3. Project Description
+    The project will achieve its development objective through the following four components:
+
+    Component 1: Administrative Service Modernization
+
+
+                                                    Page 1 of 7
+This component will support improvements in government services processes to address excessive
+administrative requirements, inefficiency of public institutions, ineffective communication and other
+deficiencies, creating barriers for citizens and businesses in accessing government administrative services. This
+component will support activities under the following subcomponents:
+
+Subcomponent 1.1 Business Process Reengineering. The objective of this subcomponent is to redesign up to 21
+selected central administrative services provided to citizens and businesses in order to reduce administrative
+burden of access and prepare for digitization of services under Component 2. The sub-component will support
+the following activities: (i) Inventory of existing services; (ii) Comprehensive service analysis including legal,
+technical, administrative, and procedural steps including links and required IT systems and changes; (iii) To-be
+process maps, requirements and work plan for reengineering services for delivery through a digital platform;
+(iv) Creation of service standards for each service reformed under the project, including development of a
+methodology to design and measure service standards in a uniform manner; v) Development of supporting
+documents to implement the to-be maps; and (vi) monitoring, evaluation and reporting systems to measure the
+impacts of reengineering.
+
+Subcomponent 1.2 Reform Management and Coordination. This subcomponent will develop capacity for reform
+management, develop a coordination mechanism and support change management. Change-management is a
+key success factor for public sector reform projects. The following activities will be supported: (i) technical
+assistance for reform management and a functioning coordination mechanism; (ii) technical assistance to change
+management, which would include, among others, development and implementation of a Change Management
+Strategy and Action Plan; (iii) leadership training, institutional communication; and (iv) Social Inclusion and
+Citizen Engagement Checklists ensuring compliance of selected government services in regard to social
+inclusion and citizen engagement requirements.
+
+Subcomponent 1.3 Expanding Access Points for Central Government E-Services. The subcomponent facilitates
+access to government administrative services at the local level through the creation of Unified Centers for
+Service Delivery (CUPS) across Moldova and supporting capacity building to promote citizen-centered
+facilitation services at CUPS. This subcomponent will support the following activities: (i) development of a
+feasibility study for CUPS; (ii) piloting of CUPS through different delivery systems including Novateca
+Libraries, Joint Information and Service Bureaus, post offices, and other access points. This may include
+purchase of equipment and small scale refinishing civil works to bring consistent look and branding for pilot
+CUPS, as confirmed by the feasibility study; (iii) evaluation of the pilots results; (iv) development of an
+institutional framework for CUPS; (v) roll out of CUPS at the national level.
+
+Subcomponent 1.4 Citizen Feedback and Outreach. This subcomponent focuses on mainstreaming citizens-
+centric approaches and socially inclusive citizen engagement in the project. The activities will include: (i) an
+annual customer survey will measure citizen satisfaction with services provided through the CUPS and the
+unified call center as well as e-services more broadly; (ii) regular online and offline citizen feedback
+mechanisms as routine procedure to evaluate the citizen-centric redesign, quality, accessibility and
+responsiveness of government administrative services; (iii) development of online and offline gender-sensitive
+and socially inclusive life scenarios combining relevant services into groups for citizens convenience; (iv)
+comprehensive, socially inclusive, and gender-sensitive citizen outreach through a public awareness campaign
+to inform all citizens, and specifically targeting women and socially vulnerable groups, about CUPS, available
+services the new version of the service portal, and the life scenarios, including brochures, print, newspaper,
+radio, video and other channels. This activity also includes hands-on training for service providers staff on
+specific topics related to e-governance platforms, e-services, citizen-centric redesign, and opportunities and
+skills for citizens participation, particularly participation of socially vulnerable groups.
+
+Component 2: Digital Platform and Services
+
+
+                                                 Page 2 of 7
+This component will support the digitization of selected reengineered administrative services; complete and
+strengthen a common infrastructure and mechanisms for rapid deployment of ICT-enabled administrative
+services; and introduce government wide IT Management and Cyber Security standards and procedures. It will
+finance the acquisition of additional shared computing infrastructure elements, digitization of 21 government
+services needed to deliver Government services electronically and development of IT Management and Cyber
+Security standards and procedures, as well as a learning management system to mainstream them within the
+government.
+
+Subcomponent 2.1: Digital Platform and Services. This subcomponent will digitize reengineered government
+services. Digitization will lead to a significant reduction in time, effort and resources spent by citizens accessing
+government services. More specifically, this subcomponent will support the following activities: (i)
+development of methodology for administrative services digitization; (ii) digitization of up to 21 government to
+citizen (G2C) and government to business (G2B) services that have undergone reengineering; and (iii) Quality
+Assurance and User Acceptance Testing (UAT). A precondition for digitization is that only services that have
+previously been reengineered and have no roadblocks regarding approval of adjusted legal framework will be
+selected.
+
+Subcomponent 2.2: Digital Infrastructure. Under the completed Governance e-Transformation Project (GET),
+the Government established a robust Digital Infrastructure. This includes both Government cloud computing
+platform (MCloud) and platform-level services which are based on common functions, such as authentication or
+electronic payments. The activities proposed under this subcomponent will: (i) upgrade the existing
+infrastructure, extend its functionality, and test it by service users; (ii) establish a unified call center for citizens,
+businesses, and government to access information on services, to support requests and problem solving, and to
+solicit citizen feedback, including socially vulnerable groups, on their needs and concerns to improve
+administrative services and make them more accessible for all types of vulnerable groups.
+
+Subcomponent 2.3: IT Management and Cyber Security. The successful implementation of Digital Services
+component requires a government-wide standardized approach to a full cycle IT management. The objectives of
+this subcomponent are to develop government IT Management and cloud security processes and standards and
+implement them across government. A cyber security awareness program for citizens will be developed as well.
+
+Component 3: Implementation of a Service Delivery Model
+
+This Component supports the alignment of institutional and staff capabilities of key government agencies with
+the new citizen-centric model and digital administrative service delivery arrangements, implemented under
+Components 1 and 2. Implementation of this Component will be managed and coordinated by the unit of the
+State Chancellery responsible for human resources policy coordination and management in public service.
+
+Subcomponent 3.1: Institutional Capability Development. This subcomponent will ensure that the required
+capabilities, structures and human resources are in place and aligned to the improved and digitized business
+processes of selected services. This will be achieved through the following activities: (i) institutional capability
+reviews, assessing the capacity development needs in line with the new model of the service delivery; (ii)
+analysis organizational structures and staffing arrangements and their alignment with business processes; and
+(iii) advisory services on management of staffing adjustments such as reassignment of staff, training,
+prequalification, natural attrition (including retirement), and early retirement.
+
+Subcomponent 3.2: Capacity Development. The project will support the development of an effective Learning
+and Development system focused on the needs of the new model for administrative services, building on
+existing strengths and tools. The following activities will be supported under this sub-component: (i)
+
+
+                                                    Page 3 of 7
+strengthening learning and development system for administrative service delivery; (ii) development of the
+internal training capacity through internal trainers development and creation of training packages in classic and
+e-learning format and (iii) training on citizen-centric service redesign and customer service (including gender
+aspects and awareness of the needs of socially vulnerable groups) and the effective internal use of digital
+platforms by civil servants involved in the delivery of services reengineered and digitized under the project. The
+project will also fund similar training for staff employed in unified service centers (CUPS).
+
+Subcomponent 3.3: Enhancing Performance in Service Delivery. In order to align incentives with service
+delivery objectives, performance objectives and indicators will have to be defined, understood and monitored
+for institutions, management and staff. The sub-component will support the following activities: (i) development
+of institutional Performance Frameworks that cover objectives and performance indicators at the institutional
+level, as well as the periodic completion of Social Inclusion and Citizen Engagement Checklists and can be
+cascaded to structural units for each entity covered under the project; (ii) a performance management system for
+CUPS staff; (iii) a mechanism for review and continuous improvement; and (iv) training of managers and staff
+for effective performance management.
+
+Component 4: Project Management
+
+This Component will finance the project implementation unit (PIU), based in E-Government Center and will co-
+finance the core E-Government Center management team.
+
+Sub-Component 4.1: Project Management Unit. The E-Government Center designated staff will serve as the
+Project Implementation Unit for MGSP dealing with fiduciary functions. The PIU staff will assist with
+preparation of budgets, procurement plans, detailed bidding documents and bid evaluation reports, contract
+management, disbursement and financial reporting. The sub-component will finance operating costs, including
+translation, vehicle operation and maintenance, communication and insurance costs, banking charges, rental
+expenses, office (and office equipment) maintenance, utilities, software licenses, document duplication/printing
+and consumables.
+
+Sub-Component 4.2: E-Government Center Management. E-Government Center core management team will
+provide day-to-day support to the State Chancellery inthe implementation of the Project. The E-Government
+Center will be the lead institution for implementation of the Government Services Modernization Action Plan
+for 2017-2021. The E-Government Center will be responsible for defining the technical approach and
+implementing activities of the Action Plan.
+4. Project location and Salient physical characteristics relevant to the safeguard analysis (if
+known)
+The project will be implemented country wide while the new IT equipment will be installed in the existing
+government offices.
+5. Environmental and Social Safeguards Specialists on the Team
+ Arcadii Capcelea( GEN03 )
+ Jelena Lukic( GSUGL )
+ Sandra Kdolsky( GSU03 )
+6. Safeguard Policies That Might Apply
+Safeguard Policies                             Triggered?      Explanation (Optional)
+Environmental Assessment OP/BP 4.01            No              This policy is not triggered. The project is not
+                                                               expected to have any adverse social or
+
+                                                 Page 4 of 7
+                                                        environmental impacts. All new equipment to be
+                                                        purchased will be installed within the existing
+                                                        government offices at the national and local levels.
+                                                        The project may include only refurbishment or
+                                                        small civil works with some construction impacts
+                                                        associated with the piloting and roll out of the
+                                                        CUPS, which are located in existing buildings, to
+                                                        provide a consistent look and better conditions for
+                                                        the citizen. These works would be minor indoor
+                                                        activities, would not involve remodeling of the
+                                                        building or replacement of its roof, and so generate
+                                                        some minor impacts which can easily mitigated by
+                                                        applying good construction practices. Operations
+                                                        Manual will include provisions to identify potential
+                                                        impacts and mitigation measures to be included in
+                                                        contracts for these small scale works, if their need
+                                                        is confirmed during the project implementation.
+                                                        Respectively, the project has been assigned
+                                                        Category C, and therefore, no Environmental
+                                                        Assessment is required.
+
+                                                        Social inclusion and citizen engagement are
+                                                        mainstreamed in the project design. The project
+                                                        design includes measures in the Component 3 to
+                                                        minimize effects of service reengineering and
+                                                        digitization on service employees. It is estimated
+                                                        that the risk of collective redundancy is low In
+                                                        instances, where there may be a residual risk of
+                                                        staff reductions, this will be managed in accordance
+                                                        with applicable labor law, civil servants law, any
+                                                        existing collective agreements, and all other
+                                                        applicable national legislation as well as good
+                                                        international practice. Should any collective
+                                                        redundancies are to occur, the Borrower will
+                                                        prepare social mitigation plan acceptable to the
+                                                        Bank. The social mitigation plan will include the
+                                                        budget to implement any consultation,
+                                                        compensation, and grievance mechanism as
+                                                        proposed in the plan.
+Natural Habitats OP/BP 4.04              No
+Forests OP/BP 4.36                       No
+Pest Management OP 4.09                  No
+Physical Cultural Resources OP/BP 4.11   No
+Indigenous Peoples OP/BP 4.10            No
+Involuntary Resettlement OP/BP 4.12      No
+Safety of Dams OP/BP 4.37                No
+
+
+                                          Page 5 of 7
+        Projects on International Waterways OP/BP No
+        7.50
+        Projects in Disputed Areas OP/BP 7.60       No
+.
+
+
+
+
+    II. Key Safeguard Policy Issues and Their Management
+    A. Summary of Key Safeguard Issues
+    1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe
+    any potential large scale, significant and/or irreversible impacts:
+    The project will not support any land acquisition. The project is not expected to have any adverse social or
+    environmental impacts. All new equipment to be purchased will be installed within the existing government
+    offices at the national and local levels. The project may include only refurbishment/small civil works with some
+    construction impacts associated with the piloting and roll out of the CUPS, which are located in existing
+    buildings, to provide a consistent look and better conditions for the citizen. These works would be minor indoor
+    activities, would not involve remodeling of the building or replacement of its roof, that would generate some
+    minor impacts which can easily mitigated by applying good construction practices. Operations Manual will
+    include provisions to identify potential impacts and mitigation measures to be included in contracts for these
+    small scale works, if their need is confirmed during the project implementation.
+    2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the
+    project area:
+    The project is gender sensitive. Citizen and engagement and social inclusion are mainstreamed in the project
+    design. The design of the Component 3 - Implementation of a Service Delivery Model includes measures to
+    minimize any negative impacts of service reengineering and digitization on service employees. These measures
+    include development of Learning and Development system for staff, advisory services on management of
+    staffing adjustments such as reassignment of staff, training, prequalification, natural attrition (including
+    retirement), and early retirement. It is estimated that the associated risk of collective staff redundancies is low.
+    3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+    NA
+    4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of
+    borrower capacity to plan and implement the measures described.
+    The Project does not trigger any safeguards policies. The Borrower will make all efforts to avoid staff
+    redundancies through implementation of measures included in the project design. In instances, where there may
+    be a residual risk of staff collective redundancies, this will be managed in accordance with applicable labor law,
+    civil servants law, any existing collective agreements, and all other applicable national legislation as well as
+    good international practice. Prior to implementing staff redundancies associated with the project, the Borrower
+    will prepare social mitigation plan (retrenchment plan) which will be subject to Bank review and approval.
+    5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on
+    safeguard policies, with an emphasis on potentially affected people.
+    In instances requiring the social mitigation plan (retrenchment plan) preparation, the Borrower will carry out
+    consultations with affected workers’ representatives and trade unions. The social mitigation plan will be
+    disclosed at the level of the organizational entity who will implement the social mitigation plan.
+    .
+
+
+
+
+     B. Disclosure Requirements
+     If the project triggers the Pest Management and/or Physical Cultural Resources policies, the respective
+    issues are to be addressed and disclosed as part of the Environmental Assessment/Audit/or EMP.
+
+
+                                                      Page 6 of 7
+    If in-country disclosure of any of the above documents is not expected, please explain why::
+    NA. The project is not expected to have any adverse social or environmental impacts.
+
+
+C. Compliance Monitoring Indicators at the Corporate Level
+PHCompliance
+
+
+
+
+ The World Bank Policy on Disclosure of Information
+ Have relevant safeguard policies documents been sent to the    Yes []        No []         NA     [X]
+ World Bank's Infoshop?
+ Have relevant documents been disclosed in-country in a         Yes []        No []         NA     [X]
+ public place in a form and language that are understandable
+ and accessible to project-affected groups and local NGOs?
+PHCompliance
+
+
+
+
+ All Safeguard Policies
+ Have satisfactory calendar, budget and clear institutional     Yes []        No []         NA     [X]
+ responsibilities been prepared for the implementation of
+ measures related to safeguard policies?
+ Have costs related to safeguard policy measures been           Yes []        No []         NA     [X]
+ included in the project cost?
+ Does the Monitoring and Evaluation system of the project       Yes []        No []         NA     [X]
+ include the monitoring of safeguard impacts and measures
+ related to safeguard policies?
+ Have satisfactory implementation arrangements been agreed      Yes []        No []         NA     [X]
+ with the borrower and the same been adequately reflected in
+ the project legal documents?
+
+
+         III. Approval
+         Task Team Leader(s):           Name:Maya V. Gusarova,Sandra Sargent
+         Approved By:
+         Practice Manager/Manager:      Name: Adrian Fozzard (PMGR)         Date: 24-Mar-2017
+
+
+
+
+                                                 Page 7 of 7
+

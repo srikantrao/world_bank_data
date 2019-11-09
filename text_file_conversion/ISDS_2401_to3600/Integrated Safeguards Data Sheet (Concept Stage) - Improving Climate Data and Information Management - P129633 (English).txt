@@ -1,0 +1,281 @@
+﻿                                           INTEGRATED SAFEGUARDS DATA SHEET
+                                                    CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                                 Report No.: ISDSC742
+
+                         Date ISDS Prepared/Updated: 21-Jun-2012
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:           Jamaica                           Project ID:      P129633
+                            Project Name:      Improving Climate Data and Information Management (P129633)
+                            Task Team          Enos E. Esikuri
+                            Leader:
+                            Estimated          00-undefined-0000                 Estimated        18-Nov-2011
+                            Appraisal Date:                                      Board Date:
+                            Managing Unit:     LCSEN                             Lending          Specific Investment Loan
+                                                                                 Instrument:
+                            Sector:            Public administration- Information and communications (100%)
+                            Theme:             Climate change (80%), Natural disaster management (15%), Vulnerability
+                                               assessment and monitoring (5%)
+                            Financing (In USD Million)
+                              Financing Source                                                             Amount
+                              Borrower                                                                       0.00
+                              Climate Investment Funds                                                       7.10
+Public Disclosure Copy
+
+
+
+
+                              Total                                                                          7.10
+                            Environmental B - Partial Assessment
+                            Category:
+                            Is this a          No
+                            Repeater
+                            project?
+
+                           B. Project Objectives
+                           The project development objective is to improve the quality and use of climate related information
+                           for effective planning and action at local and national levels.
+                           C. Project Description
+                           The Project has components that deal with the supply of climate information and its demand. It
+                           draws lessons of development from elsewhere which reveal that the mere supply of data does not
+                           automatically induce its use. There is thus a need to both provide information and demonstrate its
+                           utility for building climate resilience. On the supply side two components are involved with the
+                           generation of data and climate information and on the demand side there are components that deal
+                           with the use of this information in priority areas. These are the prerequisites to building climate
+                           resilience in the economy.
+                         Component 1 ($3.8 million): Upgrading of the data collection, processing and forecasting system of
+                         the Meteorological Services
+Public Disclosure Copy
+
+
+
+
+                         The current hydro-meteorological system is outdated, obsolete and unsuited to the task of providing
+                         timely information of (predictable) weather hazards. This component aims at improving the delivery
+                         and quality of climate information. This will be achieved by: (i) replacing the current obsolete
+                         RADAR system including the associated hardware, spare parts and software, as well as installation,
+                         calibration and training of technicians and engineers; (ii) replacing over 40 manually read rain-
+                         gauges with automatic recording systems fitted with satellite interface or data transmission modems
+                         capable of transmitting data in real time into newly installed CliData archiving system; (iii)
+                         installing/upgrading the hydrological stations; (iv) identifying and supporting innovative ICT-
+                         enabled tools including mobile and geo-referenced applications to engage citizens and stakeholders
+                         in the production and consumption of climate data and information; (v) review and update the
+                         technical expertise of key personnel and formulate strategies for greater sustainability and more
+                         effective customer service products that can assist in building climate resilience. This includes better
+                         forecasting and early warning systems with advice on preferred precautionary strategies for those at
+                         risk.
+
+                         This component will also support the development of climate change scenarios and the development
+                         of risk and adaptation profiles. Without accurate scenarios of future risks it is impossible to know
+                         what to adapt to and how to plan for climate change. Current scenarios are based on global and
+                         regional models which do not accurately reflect Jamaica’s climate conditions and specific
+                         vulnerabilities. Downscaling is especially challenging for Jamaica due to its hilly topography and
+                         will involve the use of meteorological data collected in Component 1 of this Project. This will be an
+                         iterative process that will need constant refinement. This component would support developing: (i)
+                         high resolution climate change scenarios at the national and sectoral levels by downscaling regional
+                         climate data models; (ii) sector specific methodologies (guideline documents and manuals) for
+                         climate resilient planning and design; (iii) the capacity of professionals to apply the scenarios in
+Public Disclosure Copy
+
+
+
+
+                         development planning.
+
+                         Component 2 ($1.2 million): Risk Information Platform and Vulnerability Assessment:
+
+                         This component will demonstrate use of the information generated in component 1. It will conduct
+                         vulnerability assessments using climate scenarios to analyze the expected consequences of climate
+                         change for 3 priority sectors. These assessments will enable the convergence of socio-economic data
+                         and climate data to more meaningfully devise adaptations strategies. It will use model information as
+                         well as historical trends to assess impacts on two ecosystems of high economic value – the marine
+                         ecosystem and agronomic ecosystems in the island hinterlands.
+
+                         Especially vuln erable are the coral reefs that face multiple pressures from rising temperatures, ocean
+                         acidification and contamination (sewage and chemicals). There is a need to develop strategies that
+                         would address the avoidable problems and help build ecosystem resilience.
+
+                         Over 70 percent of farms in Jamaica are engaged in rainfed agriculture. With the projected increased
+                         variability of rainfall there is a need to enhance crop resilience and assist farmers adapt to the
+                         inevitable. Information from downscaled models will be used to assess vulnerabilities to agriculture
+                         in different parts of the island as a first step in promoting adaptation.
+                         Finally, it will also conduct a detailed vulnerability assessment of risks of losses in the health sector
+                         with the costed plan of actions necessary to make key health facilities more climate resilient. Low
+                         cost but critical actions to enhance resilience in pilot facilities will be implemented.
+Public Disclosure Copy
+
+
+
+
+                         This component will develop a risk information platform, as an accessible information hub about
+                         climate change data, knowledge and good practices. The platform will also provide guidance to
+                         decision-makers and planners and will be based on intensive assessments of end-user needs and
+                         updated climate scenarios. It will allow users access to information and data related to crop
+                         suitability projections, adaptation practices and climate change sectoral and spatial impacts on
+                         agriculture, water resources, coastal and marine ecosystems. The figure below provides a stylized
+                         example of a possible climate information platform.
+
+                         Component 3 ($1.2 million): Climate Change Education and Awareness:
+
+                         There have been some successes but significant gaps remain in mainstreaming climate change issues
+                         into planning as well as in helping Jamaicans adapt to the impacts. Capacity and awareness remains
+                         limited among critical groups and there is limited sharing of information. The public needs more
+                         information on how to identify, cope with and respond to climate risks. Information is of limited
+                         utility unless it is used and there is wide awareness and hence this component will focus on
+                         developing a national climate change communication strategy. This component would support (i)
+                         review of climate/hydro-meteorological information and determining current and future user needs;
+                         (ii) carrying out consultations with stakeholders and sectors consuming meteorological, climatic and
+                         hydrological information to determine, among others, how best to communicate targeted information
+                         to users and how to build and strengthen in-country ownership of hydromet services; and (iii)
+                         conducting capacity and institutional strengthening, including training for the staff of the MSJ and
+                         associated key agencies to enhance service delivery. It will also develop and implement modules on
+                         climate change awareness and education activities which will include the use of demonstration
+                         projects, as well as the scaling up of “Voices For Climate Change�?, an innovative climate change
+                         awareness and education project, which was successfully implemented in selected communities
+Public Disclosure Copy
+
+
+
+
+                         across Jamaica. Moreover, during project preparation a social assessment will be prepared by the
+                         client in order to inform the design of this component to reflect cultural, gender, and socio-economic
+                         realities. This assessment will build upon existing experience and information from ongoing
+                         programs.
+
+                         Component 4 ($0.6 million): Project Management
+                         D. Project location and salient physical characteristics relevant to the                safeguard
+                         analysis (if known)
+                         The Project activities will be country-wide, helping to create the enabling conditions for building
+                         climate resilience by improving the quality of climate related information throughout Jamaica.
+                         E. Borrowers Institutional Capacity for Safeguard Policies
+                         The PIOJ will be responsible for overall execution of the Project. PIOJ is the focal point for the
+                         PPCR and has also been formally accredited by the Adaptation Fund of the UNFCCC as the National
+                         Implementing Entity. PIOJ has knowledge and experience in applying the social and environmental
+                         safeguards policies of the Bank through a number of Bank-financed projects.
+
+                         Day to day coordination will be maintained with the executing agencies through a Project
+                         Management Unit (PMU). The PMU would be supported by a Management Committee drawn from
+                           the various stakeholders in the area of hydromet (Meteorological Services Jamaica; Climate Studies
+                           Group of Physics Department and Computer Sciences Department of University of West Indies;
+                           Office of Disaster Preparedness and Emergency Management; Ministry of Agriculture and Fisheries
+Public Disclosure Copy
+
+
+
+
+                           (MOAF); Ministry of Health; PANOS – an organization dedicated to amplifying the voices of poor
+                           and marginalized through the media; Ministry of Housing, Water and Environment (MHEW),
+                           National Environment and Planning Agency (NEPA), Caribbean Institute for Media and a number of
+                           NGOs, CBOs and Parish Councils).
+                           F. Environmental and Social Safeguards Specialists on the Team
+                           Anjali Acharya (LCSEN)
+                           Kimberly Vilar (LCSSO)
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+                           Safeguard Policies                 Triggered?      Explanation (Optional)
+                           Environmental Assessment OP/       Yes             The project activities are expected to have
+                           BP 4.01                                            largely positive environmental and social
+                                                                              impacts as improving weather and climate
+                                                                              information and forecasting will contribute to
+                                                                              increase productivity, strengthen disaster risk
+                                                                              management and reduce vulnerability. However,
+                                                                              as there are some works involved (replacement
+                                                                              of radar; upgrading monitoring stations), there
+                                                                              may be some minor and reversible
+                                                                              environmental impacts from construction
+                                                                              activities. To ensure that these impacts are
+                                                                              adequately assessed and managed an
+                                                                              Environmental and Social Management
+                                                                              Framework (ESMF) laying out the applicable
+Public Disclosure Copy
+
+
+
+
+                                                                              policies and guidelines will be prepared,
+                                                                              discussed in Jamaica and disclosed.
+                           Natural Habitats OP/BP 4.04        TBD             Project activities are not expected to affect
+                                                                              natural habitats. However, as some
+                                                                              meteorological stations may be located in
+                                                                              protected areas and the exact locations and
+                                                                              potential impact are yet unknown, a screening
+                                                                              criterion to avoid negative impacts in Natural
+                                                                              Habitats and /or outside of protected areas will
+                                                                              be included in the ESMF. The ESMF will
+                                                                              exclude the opening of any new, permanent
+                                                                              roads inside of protected areas.
+                           Forests OP/BP 4.36                 No              Projects activities will not include forest
+                                                                              management or result in changes to the
+                                                                              utilization, or protection of any forested areas.
+                                                                              Therefore, this policy is not triggered.
+                           Pest Management OP 4.09            No              The project will not support the procurement or
+                                                                              use of pesticides or other agricultural chemicals,
+                                                                              or lead to the increased use of such chemicals
+                                 Physical Cultural Resources OP/                                   Yes                           The project includes construction works in
+                                 BP 4.11                                                                                         unknown locations. The team will thus include
+                                                                                                                                 in the ESMF: (a) screening procedures to ensure
+Public Disclosure Copy
+
+
+
+
+                                                                                                                                 that construction sites are assessed for the
+                                                                                                                                 presence of physical cultural resources and that
+                                                                                                                                 no works will affect known cultural sites, and
+                                                                                                                                 (b) chance find procedures, consistent with the
+                                                                                                                                 requirements of this policy, to be followed
+                                                                                                                                 during site preparation and construction.
+                                 Indigenous Peoples OP/BP 4.10                                     No                            Indigenous peoples with the four characteristics
+                                                                                                                                 described in the Policy are not present within
+                                                                                                                                 the Project area.
+                                 Involuntary Resettlement OP/BP                                    TBD                           This Policy will remain TBD and, during
+                                 4.12                                                                                            preparation, it will be defined whether the
+                                                                                                                                 proposed investments, especially works related
+                                                                                                                                 to installing and upgrading hydrological
+                                                                                                                                 stations, will require the taking of land. If
+                                                                                                                                 specific or potential impacts are identified,the
+                                                                                                                                 appropriate instrument will be prepared and
+                                                                                                                                 disclosed by appraisal, in accordance with OP
+                                                                                                                                 4.12.
+                                 Safety of Dams OP/BP 4.37                                         No                            The project will not finance the construction of
+                                                                                                                                 new, or rehabilitation of existing, dams. No
+                                                                                                                                 project investments will rely on the operation of
+                                                                                                                                 existing dams
+                                 Projects on International                                         No                            The project will not support activities which
+                                 Waterways OP/BP 7.50                                                                            affect international waterways as defined under
+Public Disclosure Copy
+
+
+
+
+                                                                                                                                 the policy. Therefore the policy is not triggered.
+                                 Projects in Disputed Areas OP/BP No                                                             The project will not be implemented in areas
+                                 7.60                                                                                            known to involve disputed areas as defined in
+                                                                                                                                 the policy. Therefore the policy is not triggered.
+
+                         III. SAFEGUARD PREPARATION PLAN
+                               A. Tentative target date for preparing the PAD Stage ISDS: 19-Nov-2012
+                               B. Time frame for launching and completing the safeguard-related studies that may be needed.
+                                  The specific studies and their timing1 should be specified in the PAD-stage ISDS:
+                                      Time frame for launching and completing the safeguard-related studies that may be needed. The
+                                      specific studies and their timing should be specified in the PAD-stage ISDS.
+                         IV. APPROVALS
+                                 Task Team Leader:                            Name: Enos E. Esikuri
+
+                                 Approved By:
+                                 Regional Safeguards Name: Francis V. Fragano (RSA)                                                                                             Date: 21-Jun-2012
+                                 Coordinator:
+
+
+                         1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+                          form and language that are accessible to potentially affected persons.
+                         Sector Manager:   Name: Karin Erika Kemper (SM)   Date: 24-Jun-2012
+Public Disclosure Copy
+Public Disclosure Copy
+

@@ -1,0 +1,339 @@
+                                INTEGRATED SAFEGUARDS DATA SHEET
+                                               APPRAISAL STAGE
+.
+
+
+
+
+                                                                                          Report No.:ISDSA21285
+Date ISDSPrepared/Updated:                 29-Mar-2017
+Date ISDS Approved/Disclosed               30-Mar-2017
+I. BASIC INFORMATION
+    1. Basic Project Data
+    Country:                          West Bank and Gaza            Project ID:              P148600
+    Project Name:                     West Bank and Gaza Electricity Sector Performance Improvement Project
+                                      (P148600)
+    Task Team Leader(s):              Roger Coma Cunill
+    Estimated Appraisal               20-Mar-2017                   Estimated Board          20-Jul-2017
+    Date:                                                           Date:
+    Managing Unit:                    GEE05                         Lending Instrument: Investment Project
+                                                                                        Financing
+    Is this project processed under OP 8.50 (Emergency Recovery) or OP 8.00(Rapid No
+    Response to Crises and Emergencies)?
+                                              Financing (In USD Million)
+    Total Project Cost:           8.00                           Total Bank Financing: 0.00
+    Financing Gap:                0.00
+      Financing Source                                                                                        Amount
+    State and Peace Building Fund                                                                                 2.00
+    Special Financing                                                                                             6.00
+    Total                                                                                                         8.00
+    Environmental Category:           B - Partial Assessment
+    Is this a Repeater project?       No
+
+    2. Project Development Objective(s)
+    The Project Development Objective is to enhance the energy sector’s institutional capacity, improve efficiency
+    of the distribution system in targeted areas, and pilot a new business model for solar energy service delivery in
+    Gaza.
+    3. Project Description
+    The proposed project proposes to improve the efficiency of the Palestinian electricity sector, reduce system
+    losses and pilot solar energy in support of energy security goals. These objectives will be achieved through
+    several interventions along the Palestinian energy supply chain, from generation, distribution, transmission to
+    regulation.
+
+    Component 1 - Strengthening the capacity of Palestinian electricity sector institutions: PETL and PERC (US$
+
+                                                     Page 1 of 7
+2.5 million):
+
+This component focuses on the sustainability and performance of the Palestinian Electricity Transmission
+Company Ltd (PETL) and the Palestinian Electricity Regulatory Council (PERC). It would reinforce PETL and
+PERC operational performance through the following interventions:
+
+(i) Sub-Component 1.1: Strengthen the Capacity of Palestinian Electricity Transmission Company Ltd - PETL
+(US$ 1.8 million):
+This entails investments to support the technical, operational and legal functions of PETL. It would strengthen
+PETL capacity as the single buyer of electricity from suppliers (i.e. IEC, future IPPs, Egypt, Jordan) and as
+seller of electricity to Palestinian Distribution companies. Key investments include:
+
+• Testing and commissioning equipment, and metering test bench for PETL;
+• Supply of vehicles and fault locator for the PMU & PETL;
+• Consultant to support PPA negotiations.
+
+(ii) Sub-Component 1.2: Palestinian Electricity Regulatory Council - PERC (US$ 0.7 million):
+This sub-component supports monitoring, evaluation, and financial audit functions of PERC. It provides funding
+to monitor the quality of service of DISCOs, tracking key performance indicators, auditing financial statements,
+and reviewing the use of Enterprise Resource Planning (ERP) systems. This sub-component will also support
+PERC in establishing the bulk-supply tariff at the distribution level and retail once the Power Purchase
+Agreement between IEC and PETL has been negotiated.
+
+
+Component 2 - Improving the operational performance of Palestinian Electricity Distribution Companies
+(DISCOs) (US$ 2.8 million):
+
+This component focuses on the sustained improvement of operational performance of the five DISCOs in the
+West Bank. It includes a “Revenue Protection Program” (RPP) with improved metering and billing systems. The
+RPP reduces commercial losses by the installation of smart meters targeting high end costumers and through
+investments to improve Management Information Systems (MIS). A US$ 1 million complementary Energy
+Sector Programmatic Technical Assistance (P162545) will finance a diagnostic of the existing meters in the
+utilities’ customers and put forward adequate technical specifications and an implementation action plan.
+
+(i) Sub-component 2.1: Revenue Protection Program (US$ 1.4 million):
+The RPP will provide smart meters to improve billing and collection from industrial and commercial customers
+that represent the majority of the electricity sales. The RPP will also include Advanced Metering Infrastructure
+(AMI) comprising communication devices, software (MDMS) and a Metering Control Center (MCC). The
+functionalities of the AMI and Control Center include: revenue protection (detection of theft, frauds), automatic
+meter reading, remote disconnection/reconnection, and load control and outage detection.
+
+The RPP implementation will consist of the following:
+
+HEPCO and JDECO: For HEPCO, the commercial and industrial sectors represent the “high value” segment
+since they make up only 28.2percent of customers but represent 59 percent of its total electricity sales. By
+installing an additional 5,449 smart-meters , 100 percent of energy consumed by this segment will be metered
+and billed. In JDECO, all customers in the industrial segment will benefit from the program. These customers
+are 0.6% of the company’s total number of customers but represent over 17% of its revenues. The program will
+also include several dozen “whole-sale” meters at the entrance of refugee camps to improve the transparency
+and data available on the impact of refugee camps on the commercial losses of distribution companies in the
+
+
+                                                Page 2 of 7
+West Bank.
+
+(ii) Sub-component 2.2: Management Information Systems (US$ 1.4 million from World Bank):
+This component focuses on providing state-of-the-art tools to Palestinian’s DISCOS that will enable improving
+key companies’ commercial and operational performances. The investment entails incorporating Management
+Information Systems (MIS) at JDECO, NEDCO and HEPCO that have the following features:
+
+a) Commercial Management System (CMS) to support the regular commercial cycle (meter reading, billing,
+collection, disconnection/reconnection);
+b) Incident Management System (IMS) for effective attention of customer’s complaints due to outages and other
+issues in electricity supply and fast service restoration;
+
+A US$ 1 million Energy Sector Programmatic Technical Assistance (P162545) will finance a study to assess a
+detailed assessment on existing software gaps in the selected DISCOs and draft bidding documents to optimize
+costs.
+
+Component 3 - Improving energy security in Gaza with solar energy (US$ 2 million):
+
+This component supports the design and implementation of a pilot business model for rooftop solar energy in
+Gaza. The pilot aims to reduce the barrier to entry for all income levels, including the poor, thereby creating a
+model that can be easily replicated and rapidly scaled up. Due to limited funding, this pilot will not significantly
+change Gaza’s energy crisis on its own. However, in the long terms, the benefits of scaling up rooftop solar will
+include: i) increased energy security in case of conflict, ii) longer hours of available power supply, and iii)
+cleaner and cheaper alternative to stand-by generators.
+
+The pilot will aim to install 0.5, 1, 2, and 3 KWp rooftop solar systems on residential rooftops for a total of
+1MW installed capacity. Qualified consumers who receive the rooftop solar systems will pay back the cost in
+monthly installments until the system is paid off. The monthly payments will then return to a revolving fund that
+will be used to install more solar systems. If the existing seed fund for the model is leveraged through additional
+funds from donors, private/commercial sectors and consumers themselves, then more capacity can be installed
+and a greater number of consumers reached by the program.
+
+The targeting of participants will adopt a two-pronged approach to ensure beneficiaries from the entire income
+spectrum can participate. The pay-back scheme will be designed so that the top 80% of the population can
+afford the monthly payments without the need for subsidies. The bottom 20%, which can be targeted through the
+World Bank’s existing Cash Transfer Program (CTP), will receive relevant subsidies to ensure they are also able
+to participate in the program. This two-pronged approach, with 80% non-subsidized, and 20% partially
+subsidized solar systems, strikes a good balance between ensuring that the poor are included in the program and
+the revolving fund continues to revolve, thereby creating a sustainable business model that can be adopted by
+the private sector.
+
+To reward payment loyalty, only consumers with good payment records will be eligible to participate in the
+program. The program will initially be led by the public sector (PENRA and GEDCO) to improve its visibility
+and control of the energy sector, but will be transferred to the private sector in subsequent phases once the pilot
+has been proven successful. The solar system installations will be outsourced to private contractors and the
+management of the revolving fund will be under the responsibility of the Ministry of Finance or through a
+private local bank. To ensure product sustainability, contractors will be required to provide a 2-3 year warrantee
+on parts and installation and have a permanent presence in Gaza so that consumers can easily reach them in case
+of any problems.
+
+
+
+                                                  Page 3 of 7
+Component 4: Technical Assistance, Capacity Building and Project Management (US$ 0.7 million): This
+component will be used to strengthen the capacity of PENRA and support staffing the Project Management Unit
+(PMU) for two years. The PMU is located at PENRA’s offices in Ramallah. The PMU staff will be integrated in
+PENRA’s payroll after two years to ensure the Project’s sustainability.
+4. Project location and Salient physical characteristics relevant to the safeguard analysis (if
+known)
+Project activities will target electricity distribution companies spanning the entire geographical area of West
+Bank and Gaza.
+5. Environmental and Social Safeguards Specialists on the Team
+ Helen Z. Shahriari( GSU05 )
+ Zeyad Abu-Hassanein( GEN05 )
+6. Safeguard Policies That Might Apply
+Safeguard Policies                             Triggered?      Explanation (Optional)
+Environmental Assessment OP/BP 4.01            Yes             This project is classified as category “B” according
+                                                               to the World Bank Policy OP 4.01. Project
+                                                               financing will include interventions for installation
+                                                               of rooftop PV solar panels, smart meters, equipment
+                                                               for operation of sub-stations, and other meters
+                                                               installed on the networks. The environmental
+                                                               impacts of those interventions are limited,
+                                                               localized, and easily mitigated. Since the exact
+                                                               locations of sub-projects will be fully determined
+                                                               during project implementation, an Environmental
+                                                               and Social Management Framework (ESMF) has
+                                                               been prepared and consulted by the client, approved
+                                                               by the Bank, and disclosed both locally and on the
+                                                               Bank Infoshop before appraisal date on March 12,
+                                                               2017.
+Natural Habitats OP/BP 4.04                    No              The installations and construction works are
+                                                               expected in urbanized areas and no natural habitat is
+                                                               expected to be impacted by project activities.
+Forests OP/BP 4.36                             No              The installations and construction works are
+                                                               expected in urbanized areas and no forests is
+                                                               expected to be impacted by project activities.
+Pest Management OP 4.09                        No              N/A
+Physical Cultural Resources OP/BP 4.11         No              no physical cultural resources are expected to be
+                                                               affected by project activities
+Indigenous Peoples OP/BP 4.10                  No              N/A
+Involuntary Resettlement OP/BP 4.12            No              The project does not trigger the World Bank
+                                                               Resettlement Policy (OP 4.12). The only civil
+                                                               works is limited to installation of the solar panels
+                                                               on the roof tops of the existing residential units in
+                                                               Gaza on a pilot bases. Under component 3, the
+                                                               business model for rooftop solar energy in Gaza.
+
+                                                 Page 4 of 7
+                                                                   Will be piloted. The pilot aims to reduce the barrier
+                                                                   to entry for all income levels, including the poor.
+                                                                   Although the OP 4.12 is not triggered the
+                                                                   Environmental and Social Management Framework
+                                                                   (ESMF) has been prepared and the PIU
+                                                                   environmental safeguards officers will screen all the
+                                                                   sub-projects for social and environmental
+                                                                   compliance.
+    Safety of Dams OP/BP 4.37                      No              N/A
+    Projects on International Waterways OP/BP No                   N/A
+    7.50
+    Projects in Disputed Areas OP/BP 7.60          No              N/A
+.
+
+
+
+
+    II. Key Safeguard Policy Issues and Their Management
+    A. Summary of Key Safeguard Issues
+    1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe
+    any potential large scale, significant and/or irreversible impacts:
+    Project financing will include interventions for installation of rooftop PV solar modules in Gaza, smart meters,
+    equipment for operation of sub-stations, and other meters installed on the networks. for the distribution
+    companies in West Bank The environmental impacts of those interventions are limited, localized, and easily
+    mitigated. The project triggers OP 4.01 on environmental assessment and the project is classified as category
+    "B" requiring partial assessment. Since the exact locations of sub-projects will be fully determined during
+    project implementation, an Environmental and Social Management Framework (ESMF) has been prepared and
+    consulted by the client, approved by the Bank, and disclosed both locally and on the Bank Infoshop by March
+    11, 2017. The ESMF identified the potential negative impacts of the investments during construction and
+    operation, e.g., noise, dust, interruption of services, health and safety risks, waste disposal, among others. It
+    includes proposed measures to mitigate for the potential risks. It also include screening methodology for sub-
+    projects against safeguards policies, a monitoring plan and implementation arrangements of the ESMF, as well
+    any capacity building needs.
+    2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the
+    project area:
+    Replacement of spare parts and batteries for the solar modules is expected once every three years. The ESMF
+    stipulates that disposal of batteries and spare parts will be conducted in an environmentally sound manner to a
+    licenced facility by the Palestinian Environmental Quality Authority.
+    3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+    N/A
+    4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of
+    borrower capacity to plan and implement the measures described.
+    A qualified environmental officer at PENRA/PIU will be hired, he will be responsible for conducting sub-
+    projects screening, identifying environmental and social risks, liaison with the Environment Quality Authority
+    as needed, and monitoring compliance of beneficiary distribution companies and their sub-contractors with the
+    provisions of the ESMF.
+    5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on
+    safeguard policies, with an emphasis on potentially affected people.
+
+
+                                                     Page 5 of 7
+   The Key stakeholder is the Palestinian Energy Authority (PENRA), direct beneficiaries from the project are the
+   electricity distribution companies in West Bank and Gaza. In addition, the implementation of the ESMF will be
+   ensured in close coordination with the Palestinian Environmental Quality Authority. Consultations with those
+   key stakeholders on the ESMF was conducted by the PIU at PENRA late February 2017. Further consultations
+   on follow-up ESIA/ESMF will be further conducted by the client and distribution companies with affected
+   people during project implementation. The ESMF will be disclosed locally at PENRA website (both in Arabic
+   and English) and at the Bank infoshop.
+   .
+
+
+
+
+B. Disclosure Requirements
+Environmental Assessment/Audit/Management Plan/Other
+Date of receipt by the Bank                                           19-Mar-2017
+Date of submission to InfoShop                                        20-Mar-2017
+For category A projects, date of distributing the Executive
+Summary of the EA to the Executive Directors
+"In country" Disclosure
+PHENVCTRY
+
+
+
+
+    West Bank and Gaza                                                          19-Mar-2017
+ Comments: ESMF disclosed in Penra premises in Ramallah.
+ If the project triggers the Pest Management and/or Physical Cultural Resources policies, the respective
+issues are to be addressed and disclosed as part of the Environmental Assessment/Audit/or EMP.
+ If in-country disclosure of any of the above documents is not expected, please explain why::
+ N/A
+
+
+C. Compliance Monitoring Indicators at the Corporate Level
+PHCompliance
+
+
+
+
+ OP/BP/GP 4.01 - Environment Assessment
+ Does the project require a stand-alone EA (including EMP)        Yes [X]        No []         NA          []
+ report?
+ If yes, then did the Regional Environment Unit or Practice       Yes [X]        No []         NA          []
+ Manager (PM) review and approve the EA report?
+ Are the cost and the accountabilities for the EMP                Yes [X]        No []         NA          []
+ incorporated in the credit/loan?
+PHCompliance
+
+
+
+
+ The World Bank Policy on Disclosure of Information
+ Have relevant safeguard policies documents been sent to the      Yes [X]        No []         NA          []
+ World Bank's Infoshop?
+ Have relevant documents been disclosed in-country in a           Yes [X]        No []         NA          []
+ public place in a form and language that are understandable
+ and accessible to project-affected groups and local NGOs?
+PHCompliance
+
+
+
+
+ All Safeguard Policies
+ Have satisfactory calendar, budget and clear institutional       Yes [X]        No []         NA          []
+ responsibilities been prepared for the implementation of
+ measures related to safeguard policies?
+ Have costs related to safeguard policy measures been             Yes [X]        No []         NA          []
+ included in the project cost?
+ Does the Monitoring and Evaluation system of the project         Yes [X]        No []         NA          []
+ include the monitoring of safeguard impacts and measures
+ related to safeguard policies?
+ Have satisfactory implementation arrangements been agreed        Yes [X]        No []         NA          []
+ with the borrower and the same been adequately reflected in
+
+                                                  Page 6 of 7
+the project legal documents?
+
+
+
+
+III. Approval
+Task Team Leader(s):           Name:Roger Coma Cunill
+Approved By:
+Safeguards Advisor:            Name: Nina Chee (SA)          Date: 30-Mar-2017
+Practice Manager/Manager:      Name: Erik Magnus Fernstrom   Date: 30-Mar-2017
+                               (PMGR)
+
+
+
+
+                                       Page 7 of 7
+

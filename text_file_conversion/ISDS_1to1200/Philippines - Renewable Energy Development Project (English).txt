@@ -1,0 +1,451 @@
+                                                                                                                      104872
+                                          INTEGRATED SAFEGUARDS DATASHEET
+                                                  APPRAISAL STAGE
+
+I. Basic Information
+  Date prepared/updated: 13-April-2016
+
+    1. Basic Project Data
+    Country: Philippines                            I Project ID: P147646
+    Project Name: Philippines Renewable Energy Development
+    Task Team Leader: Alan Townsend
+    Estimated Appraisal Date: Ongoing              I Estimated Board Date: May 16, 2016
+    Managing Unit: GEE02                           I Lending Instrument: Guarantee
+    Sector: Other Renewable Energy (60%), Energy efficiency in Heat and Power (40%)
+    Theme: Rural services and infrastructure (50%), Infrastructure services for private sector development
+    (50%)
+    Borrower/Recipient (existing capital in GOP guarantee fund) Amount (US$m.):         16
+    CTF (as guarantee) Amount (US$m.):                                                  44
+    Other (Private debt and equity) Amount (US$m.):                                    500
+    Environmental Category: Guarantee
+    Simplified Processing                             Simple [X]            Repeater[]
+    Is this project processed under OP 8.50 (Emergency Recovery) or OP
+                                                                            Yes []       No [X]
+    8.00 (Rapid Response to Crises and Emergencies)
+
+2. Project Objectives
+
+The project development objective is to catalyze private investment in renewable energy and
+electrification.
+3. Project Description
+
+The project is designed as a stand-alone Clean Technology Fund (CTF)-financed guarantee in the amount
+of $44 million. The guarantee will be provided to the LGU Guarantee Corporation (LGUGC), a private
+entity that operates the Electric Cooperative Partial Credit Guarantee (ECPCG) program for the benefit of
+the Republic of the Philippines, which owns ECPCG. The CTF Guarantee will be contingent finance that is
+callable cash, and as such, counts as Tier 1 capital. It can therefore be leveraged in the same manner as
+the cash which is today sitting in ECPCG-owned accounts, which are managed by an escrow agent (the
+Development Bank of the Philippines provides escrow services). 1 In terms of financial risk, the guarantee
+only covers 80% of regular principle and interest payments and there is no option for accelerated
+payment, both of which provide incentives to keep the lender in the deal. ECPCG cash will be first loss;
+the CTF Guarantee will be second loss, and will only be drawn upon in the event that ECPCG's cash in
+escrow is insufficient to pay a call. There have been no defaults to date in the ECPCG program, through
+more than five years of exposure.
+
+The proposed project will greatly expand the capacity of the ECPCG program. As stated above, ECPCG
+has approximately $16 million in Tier 1 capital. This capital can be leveraged five times, meaning that $80
+million in lending can be covered. ECPCG covers 80% of the underlying loans to Electric Cooperatives
+
+
+1DOE and DOF have been the joint owners of ECPCG since its inception; "ownership" in this case has two meanings: (i) ECPCG as a part of the
+policy program is the concern of two Departments; and (ii) DOE and DOF are joint account holders of the ECPCG escrow account and "own" the
+program capital.
+
+                                                                                                                                          1
+(ECs), so the program leverages another $20 million in uncovered debt, and leverages additionally the
+10% equity required from the borrowing EC. $44 million from the CTF will increase ECPCG capital to $60
+million. At five times leverage, over $440 million in total investment could be supported and with reflows
+a total of $500 million should be achievable. The default rate of ECPCG will be closely monitored and, if
+the defaults remain low, higher levels of leverage can be allowed.
+
+4. Project Location and salient physical characteristics relevant to the safeguard analysis
+
+The project will support the development and rehabilitation of renewable energy facilities and equipment
+and related support services in the entire Philippines.
+
+5. Environmental and Social Safeguards Specialists
+
+Gerardo F. Parco (GENDR)
+Marivi Amor Jucotan Ladia (GSURR)
+
+
+
+
+                                                                                                        2
+6. Safeguard Policies Trigger   Explanation (Optional)
+Triggered              ed?
+Environmental          Yes      The project has an environmental category of Financial
+Assessment    (OP/BP            Intermediary (Fl). Depending on the type of technology, scale and
+4.01)                           project location, the subprojects will fall under the World Bank's
+                                Environmental Assessment Categories A, B or C and under the
+                                Philippine EIS System Project Categories II and Ill. The LGUGC,
+                                assisted by NEA, will conduct the screening and scoping of the
+                                individual subprojects to          determine the appropriate
+                                environmental categorization and lead the review and clearance
+                                process for the safeguards compliance to the ESSF. The potential
+                                adverse direct impacts of the subprojects are related to: (i)
+                                localized environmental and social impacts and potential site-
+                                specific damages due to construction activities (water, noise,
+                                safety, air pollution); (ii) management of environmental flow and
+                                habitat alterations in the case of mini hydropower projects, (iii)
+                                change in land use or disturbance in protected areas (iv)
+                                management of the health and safety of workers during
+                                construction and operation; and (v) interaction of workers with
+                                the local community. The ESSF provides guidance for the
+                                preparation of the applicable Environmental and Social
+                                Assessment instruments, Environmental Management Plans
+                                (EMP) and Environmental Codes of practice (ECOPs) and
+                                appropriate social safeguards instruments for subprojects. This
+                                also contains a Grievance Redress Mechanism. The ESSF presents
+                                screening and scoping checklists and describes detailed plans for
+                                mitigation, monitoring and reporting of all identified impacts. It
+                                also lays out institutional responsibilities of the Borrower and sub-
+                                project proponents as well as the relevant policy and legal
+                                framework, financing, monitoring and reporting. The EMPs and
+                                ECOPs will be included in the bidding documents and the
+                                technical specifications in the design and construction contract of
+                                the subprojects, the details of which will be incorporated in the
+                                PhRED Project Operations Manual. Capacity building activities
+                                such as Regular project trainings on safeguards requirements and
+                                the ESSF to be led by LGUGC for project clients and participating
+                                agencies to include lessons learned and pre'ilious implementation
+                                experiences.
+
+
+
+
+                                                                                                        3
+6. Safeguard Policies     Trigger   Explanation (Optional)
+Triggered                 ed?
+Natural Habitats (OP/BP   Yes       The project will not fund any subproject proposed to be located
+4.04)                               in critical natural habitat or will cause to convert or degrade such.
+                                    This policy is triggered because by the nature of the proposed
+                                    subprojects, it is most likely that a number of them are located in
+                                    places considered as natural habitats. All subproject proposals
+                                    will be screened for potential adverse impacts on natural habitats
+                                    and protected areas and necessary mitigation measures will be
+                                    prepared as part of the subproject specific EA and EMP. Adequate
+                                    natural habitats conservation/protection measures will be spelled
+                                    out in the EMP and the ECOPs. For small hydropower projects, the
+                                    EMP will include monitoring of potential changes in flow
+                                    regulation that may be brought about by water retention
+                                    structures that may have consequent downstream impacts.
+Forests (OP/BP 4.36)      No        This policy is not triggered as harvesting of trees or forest
+                                    products will not be consumed or used in the subprojects.
+Pest Management (OP       Yes       The policy is triggered when the procurement and use of
+4.09)                               pesticides will be involved in plantations for providing source
+                                    materials or feedstock for biomass plants and in the control of
+                                    vegetation cover along transmission lines, power plants and
+                                    ancillary facilities.
+Physical       Cultural   Yes       For this project, it is required that all construction activities will
+Resources (OP/BP 4.11)              include mechanisms to address chance finds to avoid or mitigate
+                                    adverse impacts on PCRs. The environmental assessments will
+                                    confirm whether PCRs are affected and when present, the policy
+                                    is triggered. It will assess possible cause of disturbance to
+                                    historical areas such as architectural land marks and other
+                                    cultural property. During construction, the landscape of the sites
+                                    may also be affected and structural damage to old structures may
+                                    result due to vibrations and excavation of adjacent areas. The
+                                    EMP will provide for the mitigating measures needed to address
+                                    such disturbances or the handling of chance finds. Ways to
+                                    address chance finds are elaborated more in the ESSF AnnexS,
+                                    Cultural Property and Protection Measures. These chance finds
+                                    procedures shall form part of the EMP and the Safeguard
+                                    Procedures for Inclusion in the Technical specifications for
+                                    Contractors.
+Indigenous     Peoples    Yes       It is estimated that 17% of the Philippine population belongs to
+(OP/BP 4.10)                        one of the 110 indigenous tribes of the country. The probability
+                                    exists that fPs living within or outside their ancestral domain may
+                                    be affected (adversely or positively) by some of the subprojects
+                                    that are guaranteed by the PHRED. For this reason, an IP Policy
+                                    Framework (IPPF) annexed to the ESSF has been developed during
+                                    preparation to ensure that adverse effects are mitigated and
+                                    benefits to them are enhanced.
+
+
+
+                                                                                                             4
+ 6. Safeguard     Policies   Trigger   Explanation (Optional)
+ Triggered                   ed?
+ Involuntary                 Yes       Construction of new energy facilities such as substations may
+ Resettlement     (OP/BP               require temporary and permanent land acquisition from
+ 4.12)                                 commercial, residential and agriculture land. Rehabilitation of
+                                       existing structures may require small pieces of land for some
+                                       expansion. Run-of-the-river mini-hydro power plants will not
+                                       have huge water storage but may still inundate some agricultural
+                                       lands and affect some crops and access to livelihoods. Involuntary
+                                       resettlement impacts will be avoided by considering alternative
+                                       subproject sites, using existing road paths for distribution lines,
+                                       and engaging in a willing-buyer willing-seller mode of land
+                                       acquisition. For unavoidable impacts, the Land Acquisition and
+                                       Resettlement and Rehabilitation Policy Framework (LARRPF), an
+                                       integral part of the ESSF, was developed and disclosed.
+ Safety of Dams (OP/BP       Yes       While the project is expected to finance only small dams, those
+ 4.37)                                 lower than 15 meters in height, in relation with 1 to 10 MW, run-
+                                       of-river mini-hydropower plants, OP 4.37 policy is triggered as it
+                                       is expected that several subprojects involves the construction,
+                                       rehabilitation or of a dam. For dams considered to pose significant
+                                       risk, regardless of height, a dam safety framework will be required
+                                       that will specify the process to be followed for screening the
+                                       hazardous nature of the dams to be financed and determination
+                                       of the dam safety instruments required under the Policy (Panel of
+                                       Experts (PoE)) for high hazard dams, generic dam safety measures
+                                       designed by qualified engineers for other types of dams etc.). The
+                                       framework will also include the proposed institutional
+                                       arrangements for preparation, implementation, monitoring and
+                                       reporting requirements for the dam safety instruments.
+ Projects            on      No        There will be no subprojects in international waterways.
+ International
+ Waterways       (OP/BP
+ 7.50)
+ Projects in Disputed        No        There will be no subprojects in disputed areas.
+ Areas (OP/BP 7.60)
+
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify and
+describe any potential large scale, significant and/or irreversible impacts:
+The LGUGC will follow the project's Environmental and Social Safeguard Framework (ESSF). The
+procedures outlined in the framework indicate how their potential clients will carry out the assessment
+of environmental and social safeguard issues and the process by which the documents prepared would
+be reviewed by LGUGC and the World Bank to ensure that Bank policies are being followed. There are no
+large-scale, significant or irreversible impacts anticipated since the targeted projects under the EC-PCG
+are small-scale renewable energy projects. It is expected that the significant adverse direct impacts of the
+
+
+                                                                                                             5
+sub-projects will be related to: (i) localized environmental and social impacts and potential site-specific
+damages due to clearing of the area that will lead to small-scale vegetation loss and construction activities
+(noise, safety, air pollution); (ii) management of environmental flow and habitat alterations in the case of
+mini hydropower projects, (iii) change in land use or disturbance in protected areas (iv) management of
+the health and safety of workers during construction and operation; and (v) interaction of workers with
+the local community. However, to ensure that the appropriate environmental and social assessment and
+mitigating measures are incorporated in the planning and design of each investment, each sub-project
+will undergo the ESSF process which begins with the screening and scoping to determine its environmental
+category and assessment of the scope and coverage of significant impacts. The potential impacts are those
+typically associated with the construction and operation of small hydropower plants, installation or
+upgrading of power distribution lines and construction of substations. Positive environmental and social
+impacts will result from increased power supply from renewable energy, improved efficiency of power
+distribution, improved reliability of power supply, and increased access to electricity through
+intensification in and expansion of service areas.
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the
+project area:
+Overall, the project will benefit the environment with the promotion of renewable energy sources to meet
+the long-term, clean energy requirements of the country. The long term impact of the project is the
+provision of electricity in a sustainable manner shifting power generation to renewable sources
+particularly in off grid areas supporting the country social inclusion objectives. Any indirect or long term
+negative environmental impact is expected to be minor in the project area since each sub-project will
+implement and monitor the implementation of a comprehensive Environmental Management Plan.
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+The use of renewable energy sources is the best means of producing clean, sustainable energy for the
+masses. Introducing wholesale financing into the market that could potentially crowd out private
+commercial finance, was considered as a component of the project but the success of EC-PCG in leveraging
+private lending for the EC sector suggests that renewable energy as well could be more effectively
+supported with guarantees rather than IBRD or CTF lending.
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment
+of borrower capacity to plan and implement the measures described.
+The PHRED ESSF was developed by the borrower to establish the objectives and procedures and
+implementation arrangements for identifying, managing and monitoring potential environment and social
+impacts of project activities. This contains a separate IP Policy Framework and a Land Acquisition,
+Resettlement and Rehabilitation Policy Framework in its Annexes. Technical guidance on appropriate
+construction designs and practices will be provided by NEA to complement the EMP and the
+Environmental Code of Practice that the contractors should follow. LGUGC will also be supported by an
+Inter-agency Project Monitoring Board to ensure the success of the EC-PCG program. The same set of staff
+of LGUGC and its units will be involved in safeguards supervision. Moreover, additional staff such as
+environmental and social development consultants will be hired to augment the current work force.
+LGUGC will be organizing regular workshops and symposia with its potential clients - ECs, financial
+institutions, renewable energy developers and independent power providers - to regularly update them
+as part of their marketing strategy, on the EC-PC process requirements, including the safeguards
+requirements described in the ESSF. It is the responsibility of the sub-project proponent to prepare and
+carry out the necessary safeguards instruments required by the ESSF, and to obtain the environmental
+clearances for each sub-project before starting the construction. The sub-project proponents are
+
+                                                                                                           6
+responsible for the quality and accuracy of the information in the EA document, as well as the transmission
+of the EA documents to DENR.
+
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on
+safeguard policies, with an emphasis on potentially affected people.
+The key stakeholders of the projects are the electric cooperatives, participating private banks, Department
+of Energy (DOE), the LGUGC, NEA, NCIP and the consumers of the electricity that will be
+generated/distributed which would also include project affected persons. Public consultations with
+representatives from the identified key stakeholders was conducted and several meetings with potential
+proponents of sub-projects and the oversight agencies to discuss the details of the project including the
+safeguards requirements. In addition several workshops and joint site visits were also done by the task
+team of the WB and staff of the LGUGC, NEA and DOE to hold discussions with both the EC Officers and -
+local citizens. For the future sites, the public consultation process outlined in the ESSF will be followed.
+The dates below refer to the disclosure of the ESSF.
+
+   B. Disclosure Requirements
+
+   Environmental Assessment/ Audit/Management Plan/Other
+
+   Date of receipt by the Bank                                                   4/7/2016
+
+   Date of submission to lnfoShop                                                4/7/2016
+
+   For category A projects, date of distributing the Executive Summary .of the
+   EA to the Executive Directors
+
+   "In country" Disclosure
+
+   Philippines                                                                   4/13/2016
+
+   Comments:
+
+   Resettlement Action Plan/Framework/Policy Process
+
+   Date of receipt by the Bank                                                   4/7/2016
+
+   Date of submission to lnfoShop                                                4/7/2016
+
+   "In country" Disclosure
+
+   Philippines                                                                   4/13/2016
+
+   Comments:
+
+   Indigenous Peoples Development Plan/Framework
+
+
+
+                                                                                                         7
+   Date of receipt by the Bank                                                      4/7/2016
+
+   Date of submission to lnfoShop                                                   4/7/2016
+
+   "In country" Disclosure
+
+   Philippines                                                                      4/13/2016
+
+   Comments:
+
+   If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+   respective issues are to be addressed and disclosed as part of the Environmental
+   Assessment/Audit/or EMP.
+
+   If in-country disclosure of any of the above documents is not expected, please explain why:
+
+
+
+
+C. Compliance Monitorin·g Indicators at the Corporate Level (to be filled in when the ISDS is finalized by
+the project decision meeting)
+
+
+   OP/BP/GP 4.01 - Environment Assessment
+                                          '
+   Does the project require a stand-alone EA (including EMP) report? Yes I I           No Ix I   NA I I
+
+   OP/BP 4.04- Natural Habitats
+
+   Would the project result in any significant conversion or              Yes Ix I     No I I    NA I I
+   degradation of critical natural habitats?
+
+   If the project would result in significant conversion or degradation   Yes I I      No Ix I   NA I I
+   of other (non-critical) natural habitats, does the project include
+   mitigation measures acceptable to the Bank?
+
+   OP/BP 4.11 - Physical Cultural Resources
+
+   Does the EA include adequate measures related to cultural              Yes [XI      No I I    NA I I
+   property?
+
+   Does the credit/loan incorporate mechanisms to mitigate the            Yes [XI      No I I    NA I I
+   potential adverse impacts on cultural property?
+
+   OP/BP 4.10 - Indigenous Peoples
+
+
+
+                                                                                                          8
+Has a separate Indigenous Peoples Plan/Planning Framework (as       .Yes [ x l   No I I   NA I l
+appropriate) been prepared in consultation with affected Indigenous
+Peoples?
+
+If yes, then did the Regional unit responsible for safeguards or      Yes [X J   No I I   NA I I
+Practice Manager review the plan?
+
+If the whole project is designed to benefit IP, has the design been   Yes I I    No I I   NA [ x I
+reviewed and approved by the Regional Social Development Unit
+or Practice Manager?
+
+OP/BP 4.12 - Involuntary Resettlement
+
+Has a resettlement plan/abbreviated plan/policy framework/process Yes [ x I      No [I    NA [I
+framework (as appropriate) been prepared?
+
+If yes, then did the Regional unit responsible for safeguards or      Yes [XI    No [I    NA [I
+Practice Manager review the plan?
+
+OP/BP 4.36 - Pest Management
+
+Does the EA adequately address the pest management issues?            Yes [X)    No [I    NA [ I
+
+Is a separate PMP required?                                           Yes [ I    No [X)   NA [ I
+
+OP/BP 4.37 - Safety of Dams
+
+Have dam safety plans been prepared?                                  Yes [ I    No [ I   NA [ x I
+
+Have the TORs as well as composition for the independent Panel of Yes [ I        No [ I   NA [ x I
+Experts (POE) been reviewed and approved by the Bank?
+
+Has an Emergency Preparedness Plan (EPP) been prepared and            Yes [ I    No [I    NA [ x I
+arrangements been made for public awareness and training?
+
+The World Bank Policy on Disclosure of Information
+
+Have relevant safeguard policies documents been sent to the World Yes [XI        No [I    NA [I
+Bank's Infoshop?
+
+Have relevant documents been disclosed in-country in a public       Yes [XI      No [I    NA [I
+place in a form and language that are understandable and accessible
+to project-affected groups and local NGOs?
+
+All Safeguard Policies
+
+
+
+
+                                                                                                   9
+  Have satisfactory calendar, budget and clear institutional           Yes [X 1     No I 1    NA I 1
+  responsibilities been prepared for the implementation of measures
+  related t6 safeguard policies?
+
+  Have costs related to safeguard policy measures been included in     Yes [X   J   No I 1    NA I 1
+  the project cost?
+
+  Does the Monitoring and Evaluation system of the project include     Yes [X 1     No I 1    NA I 1
+  the monitoring of safeguard impacts and measures related to
+  safeguard policies?
+
+  Have satisfactory implementation arrangements been agreed with       Yes IX   J   No I 1    NA I 1
+  the borrower and the same been adequately reflected in the project
+  legal documents?
+
+
+
+D. Approvals
+
+
+  Task Team Leader:              Name: Alan F. Townsend
+
+  Approved By:
+
+  Regional Safeguards Advisor:   Name: Peter Leonard (SA)                  Date: 04/14/2016
+
+
+                                 l-£'1 i~aul
+  Sector Manager:                Name: Julia Fraser          \             Date: 04/14/2016
+                                  ~·~
+
+
+
+
+                                                                                                   10
+

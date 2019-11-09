@@ -1,0 +1,483 @@
+Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+I.  Basic Information
+ 
+Date prepared/updated:  04/19/2007 
+Report No.:  AC2687
+1. Basic Project Data  
+ 
+Country:  Africa 
+Project ID:  P084404 
+Project Name:  Southern African Power Market Program (APL2) 
+Task Team Leader:  Wendy E. Hughes 
+Estimated Appraisal Date: April 9, 2007 
+Estimated Board Date: June 19, 2007 
+Managing Unit:  AFTEG 
+Lending Instrument:  Adaptable Program 
+Loan 
+Sector:  Power (100%) 
+Theme:  Regional integration (P);Export development and competitiveness (S) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+93.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER/RECIPIENT 
+10.00
+10.00 
+Environmental Category: B - Partial Assessment 
+Simplified Processing 
+Simple [] 
+Repeater [] 
+Is this project processed under OP 8.50 (Emergency Recovery) 
+Yes [ ] 
+No [ ] 
+2. Project Objectives 
+The APL 2 Development Objectives are to (i) diversify Malawi?s supplies of energy such 
+that drought risk is mitigated and energy affordability and reliability improved, and (ii) 
+expand Malawi and Mozambique?s opportunities to benefit from bilateral and regional 
+power trading on the Southern African Power Pool.   
+ 
+3. Project Description 
+Overview  
+ 
+APL 2, Project 1 will be financed by two IDA Credits, one to the Government of 
+Malawi and one to the Government of Mozambique. These credits will be on-lent to the 
+respective electric power utilities: ESCOM and EDM, which would be the implementing 
+agencies.  
+ 
+The project will consist of three components: (A) Mozambique- Malawi 
+Interconnection; (B) Capacity Building and Technical Support for Upgrade and 
+Expansion to Support Power Trading; and (C) Improved Infrastructure to support 
+Electricity Trading.  
+ 
+COMPONENT A:  Mozambique-Malawi Interconnection  
+ 
+Page  2
+This component will cover about 210 km long transmission interconnection between the 
+electricity grid systems of Malawi and Mozambique. This link would also join Malawi to 
+the Southern Africa Power Pool (SAPP) and help it reap the benefits of being part of a 
+large, interconnected grid. Based on the detailed feasibility analysis by the consultants, it 
+has been established that the interconnection would be through a double circuit 220 kV 
+twin bundle conductor line emanating from existing Matambo substation in Mozambique, 
+which receives energy from the Hidroelectrica de Cahora Bassa (HCB).   A new 220 kV 
+substation shall be built at Phombeya to connect this transmission link with the ESCOM, 
+Malawi grid. The component also covers associated studies, works, engineering and 
+project management support to complete the interconnection, and investments for better 
+operation and maintenance of this critical link.  
+ 
+Alternatives Studied:  The feasibility for this interconnection was studied by an 
+international consultant, Lahmeyer International Gmbh, Germany in 2005. The study was 
+reviewed by EDM, ESCOM and subsequently by the World Bank team. Considering the 
+length for interconnection, three main alternatives were considered for this 
+interconnection ? i) Single Circuit 400 kV; ii) Single circuit 220 kV; and iii) double 
+circuit 220 kV. Though the alternative with double circuit 220 kV line was more 
+expensive, it was the only alternative which could meet the network stability requirement 
+for such long interconnection between the grid systems of Malawi and northern 
+Mozambique which are both relatively vulnerable to system-wide black-out.  The other 
+alternatives would have caused instability and black-outs in the two systems, in case of 
+sudden tripping of the line due to faults. The cost of black-outs would have been much 
+higher than the savings in capital cost with other alternatives.  
+ 
+Subsequently, several optimization options were analyzed for the selected alternative of 
+double circuit 220 kV line, such as conductor configuration of single conductor vs. twin 
+bundle, type of tower supports and building the line initially with single circuit and 
+subsequently stringing the second circuit, when the power flow on the line reaches higher 
+level. However, the final selection was done considering the possible role of this line as 
+part of SAPP system and the likely use of this link as an import and export link for both 
+countries. The selected configuration of the line, as detailed below also provides the 
+advantage of maximizing the utilization the right of way corridor.  
+ 
+The selected configuration of the line is a double circuit 220 kV line to transfer 
+minimum 300 MW of power through a double circuit line with twin bundle (2*431 mm2  
+?BISON?)  conductor in each phase. The self supporting steel lattice towers are proposed 
+to be of cross-rope, suspension type. The line would carry in one of its conductors an 
+optical fiber (OPGW) link for the control and protection of the transmission 
+interconnection. The OPGW would have spare capacity, which could be used for voice 
+and data transfer between the two countries. The line would pass through a distance of 
+about 134 km in Mozambique, as per the initial survey, including the  river crossing at 
+Zambezi River and then about 76 km in Malawi territory.  
+ 
+The associated works for the line included in the project are environment and social 
+studies and implementation of the RPF and environmental management plans, 
+Page  3
+preliminary and detailed survey for the route and alignment, license costs, engineering, 
+support for procurement, contracting and supervision and the project management during 
+implementation.  
+ 
+The associated work for the substations comprise of  
+ 
+i) 
+Extension of the existing 220 kV Matambo substation, in Tete region of 
+Mozambique, to provide for connecting the two circuits of the 220 kV line and associated 
+compensation equipment, as well as the work to provide necessary SCADA 
+interconnection etc.  
+ 
+ii) 
+A new 220 kV substation at Phombeya, in Blantyre region of Malawi, to receive 
+and transform the electrical power to 132 kV Voltage for connecting to ESCOM, 
+Malawi?s grid.  
+ 
+The component envisages funding of hotline maintenance equipment for both the 
+utilities and procurement of emergency restoration system  for Malawi, to handle any 
+tower outage contingency. The procurement of this equipment and training for the 
+utilities? staff would help to ensure a high availability of the critical link and reduce the 
+down time of the link in case of a fault.  
+ 
+COMPONENT B - Capacity Building and Technical Support for Upgrade and 
+Expansion to Support Power Trading  
+ 
+This component would provide technical support to ESCOM, Malawi and EDM, 
+Mozambique. The identified activities are described below. It is envisaged that this 
+component would also accommodate any small requests for technical support for the two 
+utilities, identified during the tenure of the credit.  
+ 
+ESCOM, Malawi Component: This would provide institutional support for the 
+development of ESCOM in the areas including planning, improved operational and 
+commercial performance, power trading, environment and social management.  This 
+assistance will help in identifying critical bottlenecks in the system and would be 
+preparatory step for efficient and better implementation of the future investments in 
+identified key areas like transmission and distribution critical rehabilitation, new hydro 
+generation, system operation, etc.  
+ 
+Some of the areas identified for support, under this component include:  
+ 
+o
+Update of power system development master plan for Malawi Power System  
+ 
+o
+Studies for transmission network urgent rehabilitation and system operation and 
+maintenance practices improvement.  
+ 
+o
+SCADA and communication system review and design of its upgrade, with 
+bidding documents and technical specifications.  
+ 
+o
+Assessment of rehabilitation needs of hydro power plants, respective EIAs, and 
+preparation of designs, specifications and bidding documents for the agreed scope.  
+ 
+o
+Consultant services and training for: (i) Design and implementation of a financial 
+and operational performance enhancement plan, and (ii) Revenue stream diagnostic study 
+Page  4
+and equipment and technical assistance in implementation of a revenue management 
+strategy based on study?s recommendations;  
+ 
+o
+Environmental and Social training and technical assistance;  
+ 
+o
+Capacity building and strengthening of project management unit for effective 
+implementation of the project;  
+ 
+o
+Power trading  and system operation technical assistance and training;  
+ 
+o
+Other studies, to be identified later.  
+ 
+EDM, Mozambique Component:  This would provide institutional support for the 
+development of EDM.  This would include mainly, the feasibility study for extension of 
+the interconnector to Nampula in North Mozambique; update of the power system 
+development plan; technical support for effective implementation of the project.  The 
+identified areas include:  
+ 
+o
+Feasibility study for extension of Matambo-Phombeya line to Nampula and 
+update pf Power system development plan.  
+ 
+o
+Capacity building and strengthening of the project implementation unit  
+ 
+o
+Training & Other studies (Environmental and resettlement, loss reduction study, 
+etc.)  
+ 
+COMPONENT C - Improved Infrastructure to Support Electricity Trading  
+ 
+This component will fund limited, urgent rehabilitation and reinforcement of the Malawi 
+and northern Mozambique grids, required to support electricity trading.  
+ 
+ESCOM, Malawi Component: This component would fund replacement of worn-out 
+circuit breakers and other switchgear, control and protection equipment, some critical 
+communication links from important load centers and generating stations to link the 
+national control centre for better system operation control and assessing the flow. Further 
+urgent rehabilitation activities to facilitate power exchange through the interconnector 
+may be identified as a result of the studies to be undertaken in Component B activities, 
+for example completion of critical missing overhead optical fibre links on existing 
+transmission lines to get data for critical generating stations and load centers at control 
+centers; associated communication equipment and OPGW splitters etc.; telephone 
+exchanges; replacement of overloaded distribution transformers with larger capacity at 
+the same location, replacement of small-sized conductor with bigger conductor on same 
+poles, etc..  This component would also finance key investment in support of the revenue 
+improvement activities, as per recommendations in the revenue diagnostic study, e.g. 
+meters etc.  None of these activities would have any environmental or social issues 
+implications, beyond those which can be addressed in contractor specifications (e.g. low 
+noise equipment, PCB free material, better erection techniques, etc.).  
+ 
+EDM, Mozambique Component: The power supply to the industrially-growing area of 
+Tete is of very poor quality and reliability. The supply problem was aggravated with the 
+damage due to fire of the 220/66/33 kV power transformer at Matambo substation, which 
+had been the main source of power supply to these areas. This component would fund the 
+provision of an 80 MVA 220/66/33 kV new transformer in the extended portion of the 
+Page  5
+Matambo substation and its interconnection with the 66 and 33 kV system and associated 
+civil works, control and protection work.  In a situation where EDM imports power from 
+Malawi, this strengthening of the Matambo transformer capacity will be critical in 
+ensuring that the traded electricity reaches customers in northern Mozambique.   
+ 
+4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis 
+The project is located in north-west Mozambique and southern Malawi.  The major 
+proposed investments are (i) upgrade of an existing sub-station at Matambo, near Tete in 
+Mozambique, (ii) construction of a new approximately 210 km transmission line west 
+from Matambo to Phombeya in Malawi, 134km in Mozambique, 76km in Malawi. The 
+exact routing of the line is not determined.  More detailed information will be obtained at 
+an early stage of project implementation; (iii) construction of a new substation at 
+Phombeya in Malawi.  It is also proposed to finance some critical rehabilitation / 
+strengthening of the transmission and distribution networks as described above.   
+ 
+5. Environmental and Social Safeguards Specialists 
+Mr Mohamed Arbi Ben-Achour (AFTS1) 
+Mr Robert A. Robelus (AFTU2) 
+ 
+6. Safeguard Policies Triggered
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+X
+Natural Habitats (OP/BP 4.04) 
+X
+Forests (OP/BP 4.36) 
+ X 
+Pest Management (OP 4.09) 
+ X 
+Physical Cultural Resources (OP/BP 4.11) 
+ X 
+Indigenous Peoples (OP/BP 4.10) 
+ X 
+Involuntary Resettlement (OP/BP 4.12) 
+X
+Safety of Dams (OP/BP 4.37) 
+ X 
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X 
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts: 
+Impact on displacement and dispossession is very limited. Based on a thorough social 
+analysis in each country along the entire wider transmission line corridor and the areas of 
+the two substations, a corridor with limited human activities has been retained for the 
+construction of the transmission line, to avoid the hardship of displacement. The data of 
+the social analysis have been represented in two Resettlement Policy Frameworks (RPF) - 
+one for Mozambique, one for Malawi.It was determined that RPFs, rather than 
+Resettlement Action Plans, would be appropriate since the exact location of the towers 
+and line route within the broader corridor was not known at the time of disclosure. At the 
+early stage of implementation a technical study and a survey will be conducted to 
+Page  6
+determine the exact location of the transmission line and towers within the corridor, and a 
+record the people and assets that will be affected will be developed.  Based on the results, 
+and if needed, a Resettlement Action Plan or an Abbreviated Resettlement Action Plan 
+will be prepared, approved, disclosed in-country and in the Infoshop and implemented 
+before the start of any investment and construction work.  
+ 
+For both countries an Environmental Assessment (EA) was prepared. The project 
+corridor in Mozambique and Malawi passes mostly through agricultural land or low 
+biodiversity-value bush-land. In Malawi an important forest reserve has been avoided by 
+selecting another corridor outside the Thambani Forest Reserve, one of the few remaining 
+forest areas in the country. The project will not cause any major or irreversible 
+environmental impacts in Mozambique or Malawi.  
+ 
+Some very limited spots along the transmission line route may need to be cleared of 
+landmines.  A World Bank field visit revealed that the environmental impacts on natural 
+habitat and the demining activities to be financed under the project were less severe than 
+formerly anticipated. Clearing of landmines is only intended in one or two spots along the 
+transmission line and not along the entire route in Mozambique as was formerly 
+considered. In Malawi, a high biodiversity forest reserve has been avoided by changing 
+the corridor. For these reasons the project EA category was changed from A into B.  
+ 
+The urgent rehabilitation and reinforcement activities under Component C, were defined 
+only after disclosure of the above EAs. None of these activities to be included in 
+Component C would have any environmental or social issues implications, beyond those 
+which can be addressed in contractor specifications (e.g. low noise equipment, PCB free 
+material, better erection techniques, etc.).  The environmental management aspects will 
+be handled according to the same standards as described in both EA studies. In particular, 
+the disposal of any hazardous wastes will be handled according to international standards.   
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+Because of the existence of high electrical voltage, the right of way areas will be 
+protected and public access may be restricted. Loss of land and other assets will be 
+addressed through the RAP.  Passage ways will be provided for the public.  There will be 
+no potential indirect and/or long term environmental impacts in either country.   
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts. 
+During preparation, for each country two possible corridors were considered. The 
+corridor that represents the least adverse impacts has been selected.  The transmission 
+line routing in Malawi has been changed in order to avoid the Thambani Forest Reserve, 
+an important high biodiversity area in Malawi. There are no other feasible alternative 
+routing options.   
+ 
+Page  7
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide 
+an assessment of borrower capacity to plan and implement the measures described. 
+During preparation, both EdM in Mozambique and ESCOM in Malawi have prepared an 
+Environmental Assessment (EA) and a RPF.   Both EAs contain an environmental and 
+social management and environmental capacity building plan.  
+ 
+ESCOM and EDM both have existing environmental and social units, which have been 
+supported by former or on-going World Bank-financed projects.  Within these units, 
+Resettlement Officers have been identified and designated.  
+ 
+Both units will need strengthening during implementation. Technical assistance and 
+training is included in Component B.  The resettlement and environmental officers of 
+both environmental and social units will be trained, beginning at the launch of the project, 
+in the area of World Bank safeguards, according to a training program designed with 
+input from World Bank specialists (ASPEN).  The safeguard officers will be in charge of 
+the implementation and monitoring of the RAPs and the EAs with technical assistance as 
+required.  EdM and ESCOM will hire international environmental management technical 
+assistance during the construction of the Interconnector in order to strengthen the existing 
+environmental management capacity within EdM and ESCOM. World Bank specialists 
+(ASPEN) will closely monitor the implementation of the safeguard mitigation measures.   
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+ESCOM and EdM conducted social assessments respectively in Malawi and 
+Mozambique to assess the impact of the project on the country at large and the local 
+population where the transmission lines will be implemented.  The local population, local 
+authorities, technicians as well as representatives of civil society at large were consulted 
+and their point of views used in the project design and the choice of the corridors for the 
+transmission lines.  Interviews and focus groups were used among other consultation 
+techniques.  The two RPFs and two EAs have been disclosed and debated in public areas 
+accessible to the public and have been disclosed in the Infoshop in Washington.  
+Disclosure of the RAPs, still to be prepared, will follow the same procedures.   
+ 
+B. Disclosure Requirements Date
+ 
+Environmental Assessment/Audit/Management Plan/Other: 
+Date of receipt by the Bank 
+06/30/2004 
+ 
+Date of "in-country" disclosure 
+11/24/2004 
+ 
+Date of submission to InfoShop 
+02/13/2007 
+ 
+For category A projects, date of distributing the Executive 
+Summary of the EA to the Executive Directors 
+ 
+Resettlement Action Plan/Framework/Policy Process: 
+Date of receipt by the Bank 
+02/08/2007 
+ 
+Date of "in-country" disclosure 
+02/14/2007 
+ 
+Date of submission to InfoShop 
+02/12/2007 
+ 
+Page  8
+*
+If the project triggers the Pest Management and/or Physical Cultural Resources, 
+the respective issues are to be addressed and disclosed as part of the Environmental 
+Assessment/Audit/or EMP. 
+If in-country disclosure of any of the above documents is not expected, please 
+explain why: 
+Not applicable   
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the 
+ISDS is finalized by the project decision meeting) 
+ 
+OP/BP/GP 4.01 - Environment Assessment 
+ 
+Does the project require a stand-alone EA (including EMP) report? 
+Yes 
+If yes, then did the Regional Environment Unit or Sector Manager (SM) 
+review and approve the EA report? 
+Yes 
+Are the cost and the accountabilities for the EMP incorporated in the 
+credit/loan? 
+Yes 
+OP/BP 4.04 - Natural Habitats 
+ 
+Would the project result in any significant conversion or degradation of 
+critical natural habitats? 
+No 
+If the project would result in significant conversion or degradation of other 
+(non-critical) natural habitats, does the project include mitigation measures 
+acceptable to the Bank? 
+N/A 
+OP/BP 4.12 - Involuntary Resettlement 
+ 
+Has a resettlement plan/abbreviated plan/policy framework/process 
+framework (as appropriate) been prepared? 
+Yes 
+If yes, then did the Regional unit responsible for safeguards or Sector 
+Manager review the plan? 
+Yes 
+The World Bank Policy on Disclosure of Information 
+ 
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+Yes 
+Have relevant documents been disclosed in-country in a public place in a 
+form and language that are understandable and accessible to project-affected 
+groups and local NGOs? 
+Yes 
+All Safeguard Policies 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities 
+been prepared for the implementation of measures related to safeguard 
+policies? 
+Yes 
+Have costs related to safeguard policy measures been included in the project 
+cost? 
+Yes 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures related to safeguard policies? 
+Yes 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+ 
+Page  9
+D. Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Ms Wendy E. Hughes 
+04/19/2007 
+Environmental Specialist: 
+Mr Robert A. Robelus 
+04/19/2007 
+Social Development Specialist 
+Mr Mohamed Arbi Ben-Achour 
+04/19/2007 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+ 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Warren Waters 
+04/19/2007 
+Comments:   
+Sector Manager: 
+Mr Subramaniam V. Iyer 
+04/19/2007 
+Comments:   

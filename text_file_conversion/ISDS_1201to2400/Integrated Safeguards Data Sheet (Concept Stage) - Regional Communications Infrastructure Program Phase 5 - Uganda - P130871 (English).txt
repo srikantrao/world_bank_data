@@ -1,0 +1,248 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+CONCEPT STAGE
+Report No.: ISDSC4409
+,2   Date ISDS Prepared/Updated: 25-Feb-2015
+Date ISDS Approved/Disclosed: 25-Feb-2015
+I. BASIC INFORMATION
+A. Basic Project Data
+Country:         Africa                     Project ID:   P130871
+Project Name:    Regional Communications Infrastructure Program Phase 5 - Uganda (P130871)
+Task Team        Peter Silarszky
+Leader(s):
+Estimated        23-Mar-2015                Estimated     26-May-2015
+Appraisal Date:                             Board Date:
+Managing Unit: GTIDR                        Lending       Investment Project Financing
+Instrument:
+Sector(s):       Telecommunications (50%), Information technology (35%), Public
+administration- Information and communications (15%)
+Theme(s):        Regulation and competition policy (5%), Rural services and infrastructure (5%),
+Infrastructure services for private sector developme nt (50%), e-Services (10%),
+e-Government (30%)
+Financing (In USD Million)
+Total Project Cost:      75.00             Total Bank Financing:    75.00
+Financing Gap:            0.00
+Financing Source                                               Amount
+BORROWER/RECIPIENT                                                0.00
+International Development Association (IDA)                      75.00
+Total                                                            75.00
+Environmental B - Partial Assessment
+Category:
+Is this a        No
+Repeater
+project?
+B. Project Objectives
+The development objectives of the proposed RCIP 5 project are consistent with the PDO of the RCIP
+Program as a whole, namely to support the Recipient's efforts to:
+(i) lower prices for international capacity and extend the geographic reach of broadband networks
+(the connectivity development objective); and
+
+
+﻿(ii) improve the Government's efficiency and transparency through e-Government applications (the
+transparency development objective).
+C. Project Description
+This is the fifth horizontal phase of the Regional Communications Infrastructure Program (RCIP)
+that was approved on March 29, 2007. RCIP is focused on closing the terrestrial connectivity gap by
+linking the capitals and major cities in E&SA. Each project under RCIP complements the submarine
+cable projects in the region by accelerating national infrastructure roll-out and facilitate uptake of
+a      services through e-Government initiatives. To maximize flexibility and client responsiveness in this
+multi-country effort, RCIP has been designed as a customizable menu of options from which
+individual governments can choose from and adapt to their unique circumstances. The menu of
+activities is categorized under three overarching components: (a) enabling environment including
+monitoring and evaluation; (b) connectivity; and (c) e-Government applications. The instrument is a
+series of Projects under Investment Project Financing (formerly known as an Adaptable Program
+Loan, APL).
+The proposed RCIP 5 project would include two country operations - RCIP South Sudan and RCIP
+Uganda.
+The instrument is a series of Projects under Investment Project Financing (formerly known as an
+Adaptable Program Loan, APL). The proposed RCIP 5 is the fifth phase of RCIP which was
+approved by the Board on March 29, 2007. RCIP 5 would include two country operations - RCIP
+South Sudan and RCIP Uganda.
+SOUTH SUDAN
+The proposed RCIP credit for South Sudan would be for US$30 million over five years (one third
+regional and two thirds' national IDA), complemented by anticipated funding of US$12 million in
+co-financing from the African Development Bank and a US$12m parallel investment from the
+private sector, which would be secured with the help of an IDA Partial Risk Guarantee, making US
+$54 million in total. The proposed project is composed of three components, as described below:
+Component 1: Enabling Environment (US$10m, of which US$2m from AfDB and US$8m from
+WBG)
+1A     Strengthening the National Communications Authority (US$8m from WBG)
+1B     Applications development and piloting, including Mobile Money and eGovernment (US$2m
+from AfDB)
+Component 2: Connectivity (US$42m, of which US$20m from the WBG; US$10m from AfDB, and
+US$12m in parallel financing from the private sector)
+2A     Government backbone network and data centres (US$10m from AfDB)
+2B     Accelerating the roll-out of a fibre backbone network, under a Public Private Partnership (US
+$20m in WBG funding and credit guarantees plus around US$12m in parallel private sector
+investment)
+Component 3: Project Implementation Unit (US$2m WBG)
+The final component for the investment grant in South Sudan would be funding for a project
+implementation unit (PIU). RCIP-5 will need its own PIU with its own technical staff and will need
+to maintain liaison with the future regulator and the private sector.
+
+
+﻿UGANDA
+The proposed RCIP Uganda IDA credit would be for US$70 million over a period of five years, of
+which about US$27 million would come from the Regional IDA allocation. Discussions have been
+initiated for financing of related activities with the African Development Bank, the Islamic
+U       Development Bank, and the Government of Korea should additional funding be required. The
+proposed RCIP 5 project in Uganda would consist of the following four components:
+Component 1: Enabling Environment (US$5m)
+This component aims to support the capacity of NITA-U (implementation agency), Ministry of ICT
+and other stakeholders to develop and review the relevant national policies, strategies, laws and
+technical regulatory frameworks in order to support the development of a vibrant ICT sector
+Component 2: Connectivity (US$30m)
+This component would support implementation of ICT infrastructure in Uganda through the
+following subcomponents: (i) pre-purchase of international bandwidth for priority targeted user
+groups (US$6 million); (ii) implementation of missing links to improve reach, availability and
+resiliency of the National Backbone Infrastructure (NBI) (US$14 million) and (iii) Government
+network providing broadband connectivity to MDAs, schools, hospitals, Universities and Research
+Institutions and NGOs (US$10 million).
+Component 3: e-Government Applications (US$30m)
+The objective of e-Government component under RCIP Project is to support the Government of
+Uganda in leveraging advances in ICT with the aim to transform public service delivery using ICT to
+improve the lives of Ugandans. In this respect, the government intends to:
+1)     Establish the enabling e-Government foundations (US$21 million)
+2)     Sector e-Transformations (US$9 million)
+a.     2-4 strategic e-services
+b.     sector "Quick Wins"
+c5      Component 4: Project Management (US$5m)
+This component will finance project management related issues including project coordination,
+procurement, financial management, monitoring & evaluation, project communication, and
+environmental and social safeguards. This component will finance consultancy on managing RCIP
+o      project including logistics, consumables and would also provide support incremental operating costs,
+and audits. This will also support development and implementation of communication strategy,
+awareness and partnership building as well as technical assistance (TA) necessary to support the
+successful implementation of the operation and providing support for monitoring and evaluation
+(M&E) of RCIP operation.
+D. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+In Uganda, project locations would be concentrated in and around Kampala City and other major
+urban and periurban areas in Uganda, and transit corridors for the fiber-optic network. The exact
+routing of the network and auxiliary infrastructure (e.g., antennae, masts, etc.) would be determined
+during project feasibility studies during implementation. The salient physical characteristics relevant
+to the safeguards analysis include: telecommunications infrastructure components of the project,
+particularly associated with the linear excavations for burying fiber-optic cable (alternatively
+overhead stringing of the cable) and civil works associated with building of national terrestrial
+backbones and roll-out of wireless networks.
+
+
+﻿E. Borrowers Institutional Capacity for Safeguard Policies
+In Uganda, the Borrower has abundant experience with linear infrastructure and telecommunication
+infrastructure projects, including World Bank financed. The Borrower also has an established
+national EIA system that would be used to ensure environmental due diligence. The National
+Information Technology Authority - Uganda (NITA-U) would be the implementing agency and
+would prepare environmental due diligence documents by engaging a consultant from an existing
+roster of registered environmental practitioners and would obtain approval by the National
+o      Environment Management Authority (NEMA) before proceeding with civil works. NITA-U does not
+have in-house environmental and social safeguards capacity. During project Appraisal, safeguards
+implementation arrangements and staffing shall be discussed with a view of either recruiting
+Safeguards Specialists or hiring Safeguards Consultants on a Retainer basis, in order to establish
+capacity for safeguards implementation.
+F. Environmental and Social Safeguards Specialists on the Team
+Constance Nekessa-Ouma (GSURR)
+Herbert Oule (GENDR)
+II. SAFEGUARD POLICIES THAT MIGHT APPLY
+Safeguard Policies          Triggered? Explanation (Optional)
+Environmental Assessment    Yes         RCIP 5 is assigned to social and environmental
+OP/BP 4.01                              category B due to site specific and easily manageable
+risks. There would be localized potential
+environmental and social impacts associated with the
+infrastructure components of the project, particularly
+associated with the linear excavations for burying
+fiber-optic cable (alternatively overhead stringing of
+the cable) and civil works associated with building of
+national terrestrial backbones and roll-out of wireless
+networks. Uganda will prepare ESMF that would set
+forth the basic principles and prerogative to be
+followed during project implementation. The ESMF
+shall be prepared in a Consultative manner. Once
+completed, the ESMF will be reviewed and cleared
+by the World Bank and then publicly disclosed both
+in-country and at InfoShop prior to appraisal. During
+project implementation, ESIAs and/or ESMPs shall
+be prepared where applicable before start of any civil
+works. In South Sudan, the ESMF will be prepared
+during project implementation, as it is an FCS.
+Natural Habitats OP/BP 4.04  Yes        The project may traverse through ecosystems such as
+forests and wetlands. Assessment and mitigation of
+any likely impacts on natural habitats shall be
+covered under the project ESMF.
+Forests OP/BP 4.36          Yes         The project may traverse through forest areas.
+Assessment and mitigation of any likely impacts on
+forests shall be covered under the project ESMF.
+
+
+﻿Pest Management OP 4.09      No           N/A because the project will not involve
+procurement and/or use of pesticides.
+Physical Cultural Resources  Yes          This policy is triggered because of the linear
+OP/BP 4.11                                infrastructure/civil works aspects of the project
+which may affect known or unknown PCRs. As part
+of the ESMF, a Chance Finds Procedure shall be
+developed. During project implementation a PCRs
+inventory and assessment shall be undertaken and
+their mitigation measures included in the projects
+ESIAs and/or ESMPs.
+Indigenous Peoples OP/BP     Yes           Since the project will be implemented throughout
+4.10                                      Uganda, it may affect IPs areas in Kisoro District and
+Karamoja Region. An Indigenous Peoples Planning
+Framework (IPPF) shall be prepared in a
+Consultative manner, and disclosed both in-country
+and at InfoShop before Project Appraisal. In South
+Sudan, it is proposed that the safeguards instruments
+will be deferred until implementation, as it is an FCS.
+Involuntary Resettlement OP/  Yes         The activities proposed to be funded under RCIP 5
+BP 4.12                                   could involve land acquisition for or loss of access
+(even temporarily) to some socioeconomic assets
+during the construction of telecommunications
+infrastructure such as ducts for laying fibers optic
+networks or access roads. However, whenever
+possible, the linear infrastructure would be placed in
+the existing, unencumbered rights of way (road
+reserves, railway reserves, etc.). To comply with OP/
+BP 4.12 policy requirements, Uganda will in a
+Consultative manner prepare RPF that sets forth the
+basic principles and prerogative to be followed
+during project implementation. Like the ESMF, once
+cleared, the RPF will be publicly disclosed both in-
+country and at InfoShop prior to appraisal.
+Safety of Dams OP/BP 4.37    No           N/A since the project does not support and is not
+associated with development of any dam structures.
+Projects on International    No           The project does not depend or support
+Waterways OP/BP 7.50                      developments related to International Waterways.
+Projects in Disputed Areas OP/ No         There is a potential risk of project activity in a
+BP 7.60                                   disputed area in South Sudan, but no construction
+work is currently planned close to the border with the
+North. In Uganda, the project is not envisaged to be
+implemented in any area of dispute.
+III. SAFEGUARD PREPARATION PLAN
+A. Tentative target date for preparing the PAD Stage ISDS: 27-Feb-2015
+B.
+1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+form and language that are accessible to potentially affected persons.
+
+
+﻿Time frame for launching and completing the safeguard-related studies that may be needed.
+The specific studies and their timingi should be specified in the PAD-stage ISDS:
+In Uganda, preparation of ESMF, RPF and IPPF was initiated in October 2013, and expected to be
+completed by February 27, 2015.
+As the detailed physical location of facilities or/and infrastructures to be financed are still
+unknown and would be determined only during implementation through feasibility studies,
+Uganda will prepare the required social and environmental safeguards instruments, namely the
+ESMF, RPF, and IPPF. These will set forth the principles and guidelines borrowers must follow to
+comply with the requirements of the triggered policies. To the extent possible, the ESMF, RPF,
+and IPPF would draw on existing frameworks prepared and implemented for similar types of
+infrastructure. These documents will be reviewed, cleared and disclosed at publicly accessible
+locations and in a form and language that are accessible to potentially affected persons (i) in-
+country, and (ii) at InfoShop prior to appraisal. World Bank staff would help the Borrower with
+detailed guidance on the preparation of these environmental and social safeguard instruments and
+would conduct close supervision. In South Sudan, it is proposed that the safeguards instruments
+will be deferred until implementation, as it is an FCS.
+IV. APPROVALS
+Task Team Leader(s): Name: Peter Silarszky
+Approved By:
+Regional Safeguards   Name: Alexandra C. Bezeredi (RSA)            Date: 25-Feb-2015
+Coordinator:
+Practice Manager/     Name: Mavis A. Ampah (PMGR)                  Date: 25-Feb-2015
+Manager:
+
+

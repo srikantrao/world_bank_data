@@ -1,0 +1,771 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+APPRAISAL STAGE
+Report No.: ISDSAI 121
+0
+Date ISDS Prepared/Updated: 18-Feb-2016
+o
+Date ISDS Approved/Disclosed: 18-Feb-2016
+I. BASIC INFORMATION
+1. Basic Project Data
+Country:        Kosovo                      Project ID:  P133829
+Project Name: Kosovo Water Security and Canal Protection Project (P133829)
+Task Team       Ahmed Shawky M. Abdel Ghany
+Leader(s):
+Estimated       22-Feb-2016                 Estimated    29-Jul-2016
+Appraisal Date:                             Board Date:
+Managing Unit: GWAO9                        Lending      Investment Project Financing
+Instrument:
+Sector(s):      Irrigation and drainage (40%), Water supply (25%), General energy sector
+(25%), Wastewater Treatment and Disposal (10%)
+Theme(s):       Water resource management (100%)
+Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+8.00 (Rapid Response to Crises and Emergencies)?
+Financing (In USD Million)
+Total Project Cost:      28.00             Total Bank Financing:    28.00
+Financing Gap:            0.00
+Financing Source                                                          Amount
+BORROWER/RECIPIENT                                                            0.00
+International Development Association (IDA)                                  28.00
+Total                                                                        28.00
+Environmental B - Partial Assessment
+Category:
+Is this a       No
+Repeater
+project?
+2. Project Development Objective(s)
+The development objective of the project is to contribute to restoring the canal original capacity as
+needed to secure bulk water for the various canal water users in Central Kosovo.
+3. Project Description
+The project consists of three components: (i) Canal infrastructure rehabilitation and modernization,
+Page 1 of 17
+
+
+﻿(ii) Water resources protection and monitoring, and (iii) Project management support.
+To be ready for implementation once the project is approved, the SCADA system under component 2
+has been designed up to the detailed design level, and bidding document has been prepared
+(equipment and associated training and operation services), to be implemented in the first year of
+O
+project implementation.
+Component 1: Infrastructure Rehabilitation and Modernization (categories: civil works)
+This component would focus on physical improvements to the deteriorated sections of the canal and
+its structures as well as improvements of hydraulic operations. Works under this component include
+(subject to the detailed design which will be undertaken after project approval):
+Subcomponent 1 (a) Small works for Gazivoda dam safety, canal repair and increased stability for
+protection against renewed physical damage from landslides and unstable soils (through lining,
+treatment of joints, abutments, foundations, cuttings, aqueducts, culverts, tile drains to control uplift
+pressure).
+Subcomponent 1 (b) Developing hydraulic-storage capacity along the canal. The project Legal
+Agreement would comprise a flexible language on developing new water storage, conducive to
+determining its exact size and location during the first Project Year after completing its detailed
+designs and site-specific safeguards studies. One possible option (for which preliminary design was
+undertaken under the FS) is to develop an emergency-and-balancing reservoir along the canal at
+Mihaliq area (in Vushtri municipality), for short-term storage (10 days) in order to: (1) bridge peak
+water demand and (2) enable continuation of water supply to the users during the temporary outages
+for canal repair, or amid having extreme events that disrupt the canal flow. Another option is to
+develop several micro storages along the canal.
+Component 2: Water Resources Protection and Management (categories: civil works and equipment)
+The project would also cover related water-resource management measures along the canal:
+Subcomponent 2 (a) Protection of the canal against renewed pollution, accidental pollution and other
+threats and man-made disruptions, through fencing, selective covers, or parallel interceptor drains
+with vegetative beds (subject to the detailed design). This would help address the ambient water
+quality in the canal, to meet the inflow quality requirements for the power plants and for the new
+Pristina Water Treatment Plant.
+Subcomponent 2 (b) Equipment for better management of gates and regulation of water flows, water
+monitoring (for the main Iber canal and for its secondary delivery system), including provisions for
+a        remote monitoring and controlling of related structures. A relatively advanced SCADA would be
+installed given the importance of the canal. The equipment would also include instrumentation for
+optimized operational schedule of the Gazivoda reservoir and its downstream balancing reservoir in
+Pridvorica, integrated with the proposed canal SCADA (to balance the releases for hydropower with
+the releases for the Iber canal).
+Component 3: Project Management, Coordination, Monitoring and Evaluation (categories:
+consultants, training, and incremental operating costs)
+This component would cover overall project management as well as coordination among the
+different ministries/agencies involved in water management as related to the Iber-Lepenc Canal. The
+activities would include the detailed design and supervision of the works contracts. The Project
+Implementation Unit (PIU) to be located within the Iber-Lepenc Company, will be responsible for
+day-to-day management of project activities and will work with relevant staff in other ministries such
+as the MESP on the project's safeguard aspects (Environmental and Social Impact Assessment
+Framework, ESIAF, and Resettlement Policy Framework, RPF) as well as on Monitoring and
+Evaluation (M&E).
+Page 2 of 17
+
+
+﻿As an overview the works that might be financed include: new concrete, rehabilitation of joints,
+rehabilitation of aqueducts, rehabilitations and new sections of access roads along the canal, bridge
+rehabilitation, including walkway bridges, slabs covering, reconstruction of cross ing channels above
+O
+U         and under the canal, retaining walls, storm water culverts, water distribution boxes, clearing of
+vegetation, fencing, 4000 m3 compensation reservoir, etc.
+The project will establish a Project Steering Committee, comprising high level officials from the
+various ministries engaged in the water sector (MESP, MED, Water Task Force, MAFRD) who
+would work together to provide advice and oversight for project activities. Given the multi-sector
+nature of water use, the Committee would be charged with reaching agreements as necessary in the
+efficient management and distribution of water from the Iber canal. As for gender development, the
+socioeconomic studies under the ESIAF includes the identification of any vulnerable groups,
+including internally-displaced people or refugees, ethnic groups such as Roma, landless laborers, and
+the rights of female household heads and women in common-law unions. The public consultation
+and grievance procedure under the RPF/ESIAF with ESMF will comprise measures ensuring that
+such vulnerable groups are consulted during subproject design and implementation.
+The Bank intends to mobilize a small Bank-executed trust-fund grant (WPP/WSP) to improve the
+capacity of ILC on the utility management aspects of managing the water restored/saved by the
+project.
+4. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+Environmental relevance of the project and majority of potential adverse environmental impacts
+relate predominately to activities envisaged within the project Component 1: Infrastructure
+Rehabilitation and Modernization which encompasses rehabilitation works on IL water canal and
+Gazivoda dam as well as development of Mihaliq dam and emergency reservoir. Some
+environmental impacts are also possible under the Component 2: Water Resources Protection and
+Management, however, these activities are small scale and include mainly protection work such as
+fencing of the canal area and light equipment purchase.
+The Iber-Lepenc (IL) canal, subject to rehabilitation works, is 49 km man-made hydraulic structure
+supplying water to central Kosovo. It runs from Gazivoda (Ujman) lake up to Prishtina city and ends
+at Badovc Lake. The intake for the IL canal "sub-basin" is Gazivoda reservoir on the Ib6r River. The
+IL canal conveys bulk water by gravity through a system comprising canal, siphons, aqueducts and
+pipes to supply various users. The excess water is released in the upstream part of the Sitnica River
+that flows back into the Ib6r River, carrying flow to Serbia. In its full length the canal passes through
+the territory of four municipalities - namely: Zubin Potok, Mitrovica, Vushtrri and Prishtina - passing
+through about 33 rural settlements and two cities.
+The water resource from the canal is used for various purposes: domestic, irrigation, industries and
+cooling of Kosovo A (in the summer months) and Kosovo B thermal power plants. It is expected that
+the demand for water from the IL canal will increase significantly with the new water treatment
+plants in Shkabaj and Vushtrri and the construction of KRPP coal power plant (600-MW lignite-fired
+power plant). Nevertheless, this increase of water use would occur even without the canal
+rehabilitation; and conversely, the canal rehabilitation would be needed even in the absence of these
+other investments.
+Page 3 of 17
+
+
+﻿Current state of IL water management infrastructures is characterized by major leakages from wear-
+down and insufficient maintenance, extensive water losses, and vulnerability to disruption by
+landslides, leakages and pollution.
+O
+)         The section of the IL canal that will be rehabilitated under the World Bank project crosses two major
+landscape units: the hilly areas with dense forest cover in the northern part and alluvial plain of
+central Kosovo in its section between Buschta Village and Pristina. The landscape of the
+geographical project area is fairly urbanized in the north, while the alluvial plain of central Kosovo is
+more densely populated and characterized by open field landscapes (mostly agrarian with plots in
+irregular forms and predominately planted with corn, maize, potatoes and forage crops), spangled
+with settlements of various sizes. Close to Pristina and the KEK Power Plan, the anthropogenic
+character of the landscape is intensified by the dense network of infrastructures (roads and power
+lines).
+The envisaged works on existing Gazivoda dam include small rehabilitation works related to
+spillway gates and optimized operations and works on increased stability for protection against
+landslides and unstable soils. Gazivoda dam is rock filled embankment dam which creates Gazivoda
+Lake. It is located in the Mitrovica District, Northern Kosovo. The lake is surrounded by forested
+hills and meadows and its shores are not populated. There are no nature protected areas located in
+Mitrovica District.
+IL Canal with Gazivoda dam present an existing infrastructure and the planned works will be
+predominantly rehabilitation ones, therefore no negative, irreversible or lasting, impacts to landscape,
+nature elements or environment are expected.
+The proposed Mihaliq dam is located in Vushtrri District. The area is predominantly rural with
+isolated farms and scattered settlements. The area for the emergency reservoir Mihaliq (ERM) lies in
+both sides of the valley and is predominately agricultural (cereals and grazing) land. The area of
+implementation of the future reservoir is about 30 ha and it is not inhabited.
+ERM will be of large capacity approximately 3.7 million m3, with a dam about 20-25 m in height.
+The relatively high dam results from the topography of the site selected for the planned reservoir
+(deep and narrow). There are no protected areas in the vicinity of the proposed dam, nor anywhere in
+Vushtrri District and no significant or sensitive species. The nearest village is located approximately
+1 (one) km downstream from the dam. Besides the height of the proposed dam and nearby
+a         downstream settlement, no other particular environmental risk factors have been identified relating to
+the new reservoir (no impact on natural habitats, physical cultural objects, physical relocation of
+population, etc.).
+Social Safeguards - As the project will invest in the rehabilitation of the canal, one obvious impact
+will be temporary land acquisition of the right of way to the canal and doing the rehabilitation works.
+Depending on the feasibility study, and where the location of the short term storage will be
+permanent, land acquisition impacts might be expected. For example if project will finance ERM
+than there will be a need for expropriation of approximately 30ha (and much less likely involuntary
+resettlement or demolition of structure in use) whereby 1/2 of land is cultivated only, with cereals.
+5. Environmental and Social Safeguards Specialists
+Bekim Imeri (GSU03)
+Natasa Vetma (GENO3)
+Page 4 of 17
+
+
+﻿6. Safeguard Policies   Triggered? Explanation (Optional)
+Environmental           Yes         The WB classified the project as category B project which
+Assessment OP/BP 4.01               implies that the project will not cause long-lasting,
+significant or/and adverse impacts to human health and
+environment.
+The environmental impacts are expected mostly from the
+Component 1: Infrastructure Rehabilitation and
+Modernization. Some construction works are also
+envisaged in the Component 2: Water Resources
+Protection and Management. Works on Gazivoda dam
+and canal repair (sub-component 1 a) present works on
+existing infrastructure and they include no widening or
+extension works, only rehabilitation. Some access roads
+might be extended.
+National legislation does not call for ESIA for IL canal
+lining or Gazivoda rehabilitation works. During the
+project preparation, Environmental and Social Impact
+Assessment Framework (ESIAF) with Environmental and
+Social Management Framework (ESMF) based on FS
+findings and available technical documentation was
+prepared as a form of environmental assessment for the
+existing infrastructure and planned works. Based on
+identified impacts and partly mitigation measures, process
+based ESMF with templates and ToRs for EMP
+checklists, EMPs and EIAs was prepared prior to the
+appraisal. Based on the screening process of ESMF,
+appropriate environmental due diligence documents will
+be prepared during the project implementation.
+Construction of the emergency reservoir at Mihaliq
+(ERM) including its dam, might require full ESIA under
+the Kosovo environmental legislation, depending on the
+Ministry of Environment and Spatial Planning opinion.
+Due to the size of the proposed Mihaliq dam and safety
+risks, ESIAF was carried out based on component
+preliminary designs and preliminary feasibility study
+identifying issues requiring special attention during
+preparation of full ESIA in accordance with national and
+WB procedures.
+The ESIAF identified major impacts and themes that
+should be addressed in ERM ESIA. Based on these
+concussions draft ToR for full ESIA was delivered as a
+part of the document. The ERM ESIA, including site
+specific EMP, will be prepared the during design period,
+i.e. before the works on ERM commence as well as timely
+Page 5 of 17
+
+
+﻿disclosed and consulted with the public at least twice
+through a website and public consultation meetings.
+Natural Habitats OP/BP   No           The works envisaged on the existing IL canal, Gazivoda
+4.04                                  dam or Mihailq dam will not impact any protected areas,
+important habitats or fragile ecosystems. Gazivoda dam as
+well as prospective Mihailiq dam are located in districts
+(Mitrovica and Vusthrri) that encompass no protected or
+sensitive areas on their territories. IL canal passes through
+4 districts (Mitrovica, Vusthrri, Obiliq, Pristina) however,
+neither Gazivoda dam or canal rehabilitation will claim
+additional surfaces while ERM will be constructed on
+predominantly anthropogenic land surfaces (agricultural
+or deserted agricultural land). Development of ERM,
+however, will pose a barrier to terrestrial animals which
+was addressed in the ESIAF and will be reflected in
+resulting environmental due diligence documents, ESIA
+in particular.
+Forests OP/BP 4.36       No           Planned Gazivoda dam and water canal rehabilitation
+works do not include widening or spreading to additional
+land surfaces. Possible extension of access roads might
+happened, but it is still not confirmed. ERM will be
+developed in the valley of the Bencuk creek which does
+not have forest communities present, only a small number
+of individual trees and is comprised mostly from
+agricultural land. Therefore, impact on the health and
+quality of forests is not envisaged by ERM.
+Pest Management OP 4.09 No            Increased efficiency of canal, foreseen decrease in losses
+in the network and subsequent increased availability of
+water resources could impact agriculture practices,
+however, studies have shown that market access/
+conditions, rather than water abundance, are the primary
+constraint to agriculture in the service area. Increase in
+amount of areas under irrigation is foreseen over time
+therefore, however, increased availability of water is not
+expected to lead to an expansion or intensification of
+agriculture immediately, therefore this OP is not
+triggered.
+Physical Cultural        No           There are no cultural heritage sites or objects in the
+Resources OP/BP 4.11                  vicinity of ILC according to ESIAF, and impact to
+physical or cultural resources are not expected. The
+chance findings due to earth works are, however, always
+possible, which is reflected in the environmental due
+diligence procedures and documents, meaning that chance
+finds clauses are included to ESIAF with ESMF and
+subsequently to EMPs and EMP Checklists.
+Indigenous Peoples OP/   No
+Page 6 of 17
+
+
+﻿BP 4.10
+Involuntary Resettlement Yes        OP 4.12 is triggered because the area through which the
+OP/BP 4.12                          canal passes is densely populated, so some of the
+protection measures (e.g. fences along canal banks) are
+likely to require some minor land acquisition, though not
+expected to require any physical relocation. In addition,
+land acquisition would probably be required for the
+storage reservoir(s) if they are included in the project
+(pending detailed designs). RPF is prepared to guide
+expropriation for works to be defined and designed in the
+following years. For every sub-project requiring land
+acquisition, a sub-project-specific RAP will be prepared.
+Safety of Dams OP/BP    Yes         The project envisages works (safety improvements) on
+4.37                                Gazivoda dam and new construction of Mihaliq dam
+(ERM development). Mihaliq dam is considered large (20
+- 25 m h; 3.7 mil m3) and it is located in the valley of the
+creek of Benquk only 1 km from the nearest downstream
+settlement which presents a safety risk. For these reasons
+OP/BP 4.37 is triggered. Pre-selection of Panel of
+Experts (PoE) for the development of Mihailiq dam and
+rehabilitation of Gazivoda dam has been completed. PoE
+will be appointed in time to review all dam safety
+documents, but possibly after the appraisal.
+For Gazivoda dam, a plan for construction supervision
+(CS) and quality assurance (QA) was prepared during
+project preparation, as well as the Framework O&M and
+EPP. For Mihaliq dam draft construction supervision
+(CSP) and quality assurance plan (QAP); frameworks for
+the Operation and Maintenance (O&M) plan and
+Emergency Preparedness Plan (EPP) were prepared prior
+to the appraisal. PoE must review all (Gazivoda and
+Mihaliq) dam safety assessments and associated
+Emergency Preparedness Plans (EPP) before the
+development of detailed designs and site specific ESIA
+(including ESMP).
+Projects on International  Yes      Iber River is shared with Serbia both upstream and
+Waterways OP/BP 7.50                downstream from IL canal so impacts to its water body
+potentially present a trans-boundary impact issue. Iber is a
+contributor to Black Sea basin.
+As the proposed project, in the part of IL and Gazivoda
+dam rehabilitation finances only repair / rehabilitation
+works, it can be considered rehabilitation of existing /
+ongoing scheme. For ERM, it is expected that the
+development would only restore the original capacity of
+the canal. Possible addition of equipment for better
+management, and emergency or balancing reservoir along
+Page 7 of 17
+
+
+﻿the channel, would not change the purpose of the canal,
+nor appreciably change the Iber-river water quantity or
+quality.
+The impact to trans-boundary waters was investigated on
+two levels: (i) for impact of works on the canal and on
+Gazivoda dam: per the advice from LEGEN, the team
+sought an exemption from the notification as the
+preliminary documentation indicated there was no
+appreciable impact on the quantity or quality of the water
+flowing back to Serbia. Moreover, the project would not
+finance works that increase water consumption; and (ii)
+for the development of Mihaliq dam and reservoir (ERM):
+ESIAF and FS were developed and thereof, based on
+preliminary analysis of the ERM impacts to downstream
+waters , LEGEN was re-consulted on the notification
+requirement. In more detail: The ERM reservoir's size
+(3.7 million m3) would be as small as 1% of Gazivoda
+reservoir. Canal operators are aware that the river flows
+required by Serbia need to be maintained, including the
+legally-mandated minimum environmental flow for the
+Iber/Sitnica river, estimated at 0.50 m3/sec in monthly
+average or 1.5 m3/sec in monthly peak, which can be met
+given that the "as-built" canal discharge ranges from 5 to
+15 m3/sec. Thus, expecting no appreciable harm to the
+riparian countries, exception from the notification of
+riparians was sought. The exception request for both
+Gazivoda dam and IL canal rehabilitation as well as ERM
+has been cleared by LEGEN.
+After the detailed design and ESIA for the ERM, the
+notification requirement would be re-assessed in
+consultation with LEGEN (in case the findings deviate
+from the preliminary findings of appraisal-stage FS and
+ESIAF, which is not likely).
+Projects in Disputed    No          Some administrative issues related to OP 7.60, might
+Areas OP/BP 7.60                    occur due to the fact that Republic of Kosovo is not
+recognized as an independent state by its immediate
+neighbor and Ibar riparian country, Republic of Serbia. In
+addition, Gazivoda dam, and part of the Canal, is located
+in the Northern Kosovo, which does not recognize
+National Government of Kosovo, and there is limited
+accessibility for the representatives of the Republic of
+Kosovo, as well as the WB team. However, LEGEC
+concluded that, based on several agreements and accords
+signed in 2012 and 2013, this policy would not apply.
+Nevertheless, risks associated with problem
+Page 8 of 17
+
+
+﻿implementation because of the fact that the Bank team
+and ILC Company has limited access to North of Kosovo
+needs to be recognized. The team already discussed
+various procurement measures to alleviate risk (hiring
+local company, etc.)
+O
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+and describe any potential large scale, significant and/or irreversible impacts:
+Environmental and Social Assessment OP4.01
+The project triggers OP 4.01. The World Bank classifies the project as category B project as the
+project activities present no major environmental risks and no significant, unprecedented,
+irreversible impacts to the environment are expected as a result of the project activities. Prior to
+the appraisal ESIAF with ESMF was prepared and only Feasibility Study (FS) and SCADA detail
+design were available which presented the basis for ESIAF development. Therefore, ESIAF, is a
+rather technical framework reflecting FS and component-level preliminary designs. ESIAF serves
+as initial environmental impact assessment for different components of the project. The impacts
+are assessed based on field visits and pre-feasibility and feasibility studies available. ESIAF is
+therefore conducted both for (i) Mihaliq emergency reservoir and dam and (ii) Gazivoda
+rehabilitation and IL canal rehabilitation. The ESIAF provides baseline information and project
+description for all components, and predicts impacts to the level possible depending on the level of
+design. Mitigation measures are also proposed as part of the ESIAF, based on identified impacts
+and description of works. ESIAF especially serves as preliminary ESIA for dam and reservoir as
+full ESIA will be prepared later during the project implementation. It also identifies site
+investigation and monitoring that needs to be done for the full ESIA and proposed ToR for the full
+ESIA. Identified potential impacts of the dam and reservoir will be fully addressed in full ESIA
+once all technical and other project details are known. The complementary ESMF, serves as
+process oriented framework and defines type of environmental due diligence documents that need
+to be prepared for different project components / activities. For small rehabilitation works, ESMF
+provides template EMP checklist, prepared based on the impacts and mitigation measures
+identified in ESIAF. ToRs and description of other type of due diligence document is also
+provided.
+The impacts associated with the canal rehabilitation and Gazivoda dam are small scale, temporary
+and site specific, in a way typical for infrastructure rehabilitation works (noise, waste, resource
+materials, etc.) therefore would be easily mitigated through implementation of respective site
+EMPs.
+The ESIAF however recognizes following: Main potential impacts of the Mihaliq reservoir will
+result from the filling in the emergency reservoir. In association with this main impact will be the
+change in regime from a highly oxygenated river stream to a lake with calm water and a risk of
+accumulation of nutrients such as phosphorus and nitrogen. The Mihaliq dam is deemed a large
+dam (due to terrain steep slopes) with the reservoir capacity around 3.7 million m3 and the dam
+20-25 m high. Besides the height of the proposed dam and nearby downstream settlement (1 km
+away), no other particular environmental risk factors have been identified relating to the new
+reservoir (no impact on natural habitats, physical cultural objects, physical relocation of
+population, etc.).
+Page 9 of 17
+
+
+﻿International Waterways OP 7.50
+Projects on International Waterways OP/BP 7.50 was initially triggered considering potential
+O
+Q)         impacts, amongst which, some could be labeled as trans-boundary impacts (e.g. potential impact to
+velocity, water abundance and quality of water in the operational phase). The water in the IL Canal
+is taken from the Iber river which, downstream from the reservoir and after its use in Kosovo,
+returns to Serbia and flows into Morava River and further to Danube River. Adverse impacts on
+the water body, including its quality and abundance, from the rehabilitation works on IL Canal and
+safety upgrades on Gazivoda dam are not expected since the works are mostly rehabilitation
+works, restoring the original capacity. It is also unlikely that Mihaliq emergency reservoir (ERM),
+would impact features of downstream river courses. When constructed, ERM, with its reservoir's
+size (approx. 3.7 million m3) would count as uptake as small as 1% of Gazivoda reservoir. The
+current intake delivers about 3m3/s while the maximum assessed intake of the canal is 10.8m3/s.
+This maximum presents a half of the originally designed intake capacity of 22 m3/s at head, which
+again points to that Project activities implementation would merely restore the original capacity, or
+part of the capacity, of the canal. Based on FS and ESIAF findings, expecting no appreciable
+harm to the riparian countries, exception from the notification of riparians was sought and cleared
+by LEGEN.
+Dam Safety OP 4.37
+The Component 1 includes development of a new dam (ERM) that is considered large and as such
+the dam presents potential risk therefore Safety of Dams OP/BP 4.37 policy is triggered.
+According to preliminary technical information, Mihaliq dam will be 600m long and 20-25 meters
+high and the reservoir will accumulate 3.7mil. m3 or water. Although the terrain that is planned to
+be flooded is not inhabited, the nearest settlement is located only 1 km downstream.
+Disputed Areas OP 7.60
+OP 7.60 Projects in Disputed Areas is not triggered for the Project, since Northern Kosovo, where
+a part of the works will take place (e.g. Gazivoda Damand part of the IL Canal) does not officially
+classify as a disputed area based on several agreements and accords signed in 2012 and 2013.
+o          However, Republic of Kosovo is not recognized as an independent state by some districts in
+Northern Kosovo as well as Republic of Serbia which can cause some administrative and access
+issues presenting an implementation risk. Procurement and implementation arrangements will be
+made to manage these risks.
+Natural Habitats OP4.04
+ESIAF analyses and pre-assessments showed that neither works on IL Canal and Gazivoda Dam
+or Mihaliq Dam are located in PA, critical or sensitive areas or bordering them. The works on
+existing infrastructure does not include uptake of new land or extensions. Development of ERM,
+however, will pose a barrier to fauna which was addressed in the ESIAF and will be reflected in
+full ESIA and mitigation or avoidance measures will be looked for in site specific ESMP. One
+internationally protected bird species (white stork) was observed in the project area. The IUCN
+classification of this species is Least Concern (LC) and its presence, impacts and eventual
+mitigation measures will be further elaborated in the ESIA. Therefore, ESIAF findings concluded
+no sensitive flora or fauna species or communities inhabit the area thus OP 4.04 Natural Habitats
+Page 10 of 17
+
+
+﻿was not triggered.
+Forests OP 4.36
+O
+OP 4.36 was not triggered because rehabilitation works on IL canal, though passing along forests
+in the northern part does not foresee widening of the canal thus this forest will not be affected.
+Some small vegetation clearance for sanitation and Canal safety reasons will take place, but only
+from the protective corridors. Some access roads might be extended but not in forest areas. The
+construction of ERM is planned in the area comprised of agricultural land and other anthropogenic
+land types.
+Involuntary Resettlement OP 4.12
+The envisaged emergency reservoir Mihaliq (ERM), is considered relatively large, and the
+topography of the terrain is requiring a high dam to create it. The preliminary design of the dam
+and reservoir is not yet known and the risk assessment will follow the full ESIA which is
+mandatory for this type of project under the current Kosovo environmental legislation. The works
+on Mihaliq dam encompass (i) earth works including clearing the construction site, removal of
+greenery, removal of top soil. As a result of these activities generation of large quantities of
+mineral waste, organic waste and other types of waste is expected. (ii) Water management works
+redirecting existing streams in order to conduct construction works are required and which may
+cause waster turbidity, pollution with heavy metals, organic waste, suspended solids, cause
+reduced oxygen presence in water and in general lower the water quality level which can
+subsequently negatively affect animal as well as human health. (iii) Operating of heavy machinery
+and transportation vehicles may result in increased noise and vibrations in the immediate
+surrounding resulting in negative health effects to present workers and disturbance of animals. In
+this specific case, amphibians, fish and birds (e.g. stork) will be mostly affected. (iv), Potential
+influence on water quality and biological communities of both the lake (water reservoir) and the
+Sitniza river subsidiary concerned are possible, but not yet known and will depend on the technical
+design of the dam and reservoir. Other effects may also include: (v) Potential pollution of the
+reservoir, particularly due to run-off and human activities; (vi) Deposit and spillage of domestic or
+hazardous substances (pesticides), in the watershed and vicinity of the project, (vii) Impact to
+a           ambient air due to heavy machinery during the construction and maintenance, but also changes in
+water regime; (viii) Land cover and the stability of the soils; (ix) Landscape pollution, (x) Loss of
+habitat which mostly consist of agricultural, anthropogenic areas.
+Works related to sub-component 1 a, IL Canal and Gazivoda dam rehabilitation, since
+encompassing rehabilitation works only and no additional works on widening or extension of the
+IL canal will be financed, are expected to be smaller scale construction works (especially in
+comparison to Mihaliq dam development). As such, no adverse significant, irreversible impacts
+are expected to result from their implementation. Potential impacts will be localized and
+temporary, predictable and typical for rehabilitation works: (i) Erosion in areas along the canal
+which present a steep slope; (ii) Impacts from inadequate sewage systems in housing near the
+canal and from work camps, (iii) Excavation of construction materials and all different kinds of
+solid waste previously dumped near the IL canal, (iv) Vegetation removal, (v) Potential pollutant
+discharges in the canal due to works; (vi) Noise and air emissions during the works; (vii) Animal
+and human disturbance.
+This also partially, and to the smaller scale, applies to and component 2 activities which envisages
+Page 11 of 17
+
+
+﻿only light concrete work and equipment purchase as those that might produce any environmental
+impact. Aforementioned impacts are typical and predictable relatively easy to mitigate.
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+in the project area:
+Many potential indirect impacts of potentially associated projects in the construction and
+operational phase of the project have been discussed, including construction of Kosovo C power
+plant, water treatment plants, possibility of increased irrigation, and more. The preliminary
+assessments showed that these investments are predominantly stirred by other factors and
+circumstances and would develop independently form the Water Security and Canal Protection
+project. Potential impacts can be grouped in two themes: (i) potentially associated projects and (ii)
+impacts from development of Mihaliq emergency reservoir, the second being already elaborated in
+the previous section (II A. 1).
+IL Canal and Gazivoda dam present existing and operating water distribution and management
+infrastructure. Although these improvements will most certainly benefit already planned projects,
+none of them occurred as a result of the planned IL Canal improvements. Works on this
+infrastructure consist of repair and rehabilitation activities impacting, in the long term, mainly its
+efficiency and water quality and both in the positive sense. Amongst other things, as a result of
+project subcomponent 1 a implementation, improvements in water quality and abundance along the
+IL Canal is expected. Additionally, even if a reservoir would be built along the IL Canal and
+meeting the legally-mandated minimum environmental flow for the Iber/ Sitnica river, estimated at
+0.50 m3/sec in monthly average or 1.5 m3/sec in monthly peak, can be easily accomplished given
+that the "as-designed" canal discharge ranges from 3 to 15 m3/sec.
+Currently, LC canal feeds 2 large secondary irrigation canals: Hamidi-Vasileve and Besi-
+Gracanka. In theory, changes in water abundance could impact agriculture practices, however, it is
+unlikely scenario in this case since: (i) studies have shown that market access/conditions, rather
+than water, are the primary constraint to agriculture in the service area, (ii) no irrigation expansion
+projects will be financed from this project, (iii) agricultural sector is not very developed in this part
+of Kosovo and the Government of Kosovo has no specific plans to promote irrigation expansion in
+the near future.
+o
+Although there is a number of planned off-takes from the Iber canal (a new power plant Kosovo C,
+a new water supply and intake for Pristina and Mitrovice water supply), these planned investments
+are not considered to be associated/linked with the present project because they are expected to
+proceed with or without the canal upgrading. Each of the planned projects will have an EIA
+carried out under national law and/or the requirements of involved IFIs (e.g. KFW) or private
+investors.
+Main existing road accessing the Mihaliq dam will probably be rehabilitated, and short stretch of
+road constructed, due to planned construction works as well as the operation of dam. Impacts
+related to increased accessibility of the area will be considered in the full ESIA.
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+impacts.
+Currently, it is not possible to close the Ib6r canal even for a few hours for maintenance, cleaning
+or any unforeseen emergency. For this purpose option of several smaller reservoir vs ERM were
+discussed and analyzed. The development of Mihaliq reservoir was chosen (although still not
+confirmed) as favorable solution due to two main factors:
+(i) The topography of the location allows building the reservoir with the required storage size
+Page 12 of 17
+
+
+﻿(around 3 million m3). This size can bridge demands from inter alia the new KRPP Power Plant,
+the new treatment plant in Shkabaj, and irrigation peaks in case formerly-irrigated areas are
+restored.
+(ii)   There is no need for resettlement of inhabitants. The large surfaces of land are already
+O
+state owned (only a limited voluntary acquisition of farm lands will be sought).
+In addition to unforeseen emergency, issues of: (i) bridging the peak demands, (ii) decreasing
+water turbidity after rain episodes making water incompliant with bulk consumers demands such
+as Pristina Water Company, and (iii) satisfying long-term increase in population and irrigation
+were considered as well.
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+assessment of borrower capacity to plan and implement the measures described.
+The Borrower, ILC, in line with the project categorization and preliminary environmental and
+social screening as well as Feasibility Study for the prospective works and component-level
+preliminary designs, prepared Environmental Impact Assessment Framework (ESIAF) with
+Environmental and Social Management Framework (ESMF) for both rehabilitation works on the
+existing infrastructure (Gazivoda dam and water canal) and the planned new Mihaliq dam and
+reservoir.
+Based on project components, the following activities are subject to the ESIAF:
+a.     Works for canal repair and increased stability and for protection against renewed physical
+damage from landslides, pollution and unstable soils at canal works;
+b.     Equipment for modernization and urgent repairs of the optimized operational schedule of
+the Gazivoda reservoir and dam - guidance and timeline on what and when will be prepared for
+the rehabilitation works;
+c.     Development of Mihaliq emergency/balancing reservoirs along the canal - impacts and
+mitigation measures that are identifiable at the feasibility stage, identification of missing
+information and defining ToR for the ESIA to be conducted before construction commencement.
+Kosovo environmental legislation does not require full ESIA for canal and dam rehabilitation
+works therefore ESIAF presents impacts assessment for Gazivoda dam and IL Canal
+rehabilitation, in the present environmental context and for known technical design. For Mihaliq
+dam and emergency reservoir (ERM), ESIAF presents a preliminary assessment aiming at
+identification of potential impacts that need special attention in the full ESIA and identifies site
+investigation and monitoring that needs to be done for the full ESIA.
+Based on ESIAF findings, ESMF was prepared as a guiding document which defines
+environmental and social screening, mitigating, monitoring and auditing procedures and
+management plans for the project activities. The documents required for different activities under
+project include, EMP checklists, EMPs, and EIAs.
+For Gazivoda dam and IL Canal rehabilitation appropriate due diligence draft document or
+templates were prepared as a part of ESMF: (i) Site specific Environmental Monitoring Plan
+(EMP) template, including environmental monitoring plan and (ii) overall EMP Checklist
+prepared for the environmental management of the works related to all canal rehabilitation and
+safety enhancement. While site specific EMPs are to be applied to construction and other works in
+specific circumstances that can have more significant or lasting impact, EMP Checklist presented
+in the ESIAF with ESMF is used for small scale works that have predictable, typical effect that
+can be easily mitigated with standard and generally applicable measures. A particular EMP
+Checklist would apply per section of canal on which works would be carried on. Both, EMP and
+Page 13 of 17
+
+
+﻿EMP Checklist will become an integral part of the bidding documentation. They should be
+finalized by works contractor and supervising engineer, as well as approved by the ILC and WB
+Environmental Specialist and disclosed, before commencement of works.
+The suggested mitigation measures identified for ERM, will be reevaluated and adjusted based on
+O
+conclusions of full ESIA. For Mihaliq reservoir a full ESIA will be prepared according to Kosovo
+environmental legislation, and according to WB procedures, during the project implementation.
+The project will support installation of the new instrumentation plan and monitoring (as part of the
+SCADA turnkey contract) to determine what if any other safety improvement measures are
+required for Gazivoda dam. Therefore CS, QA, Framework O&M and EPP were prepared for
+existing dam. PoE will prepare updated / detailed dam-safety assessments and the associated
+safety plans, e.g. O&M, and EPP, during project implementation, but prior to works
+commencement.
+For Mihaliq dam (ERM), draft construction supervision (CSP) and quality assurance plan (QAP);
+frameworks for the Operation and Maintenance (O&M) plan and Emergency Preparedness Plan
+(EPP) were prepared prior to appraisal. Detailed Construction Supervision and Quality Assurance
+Plan and Instrumentation plan; updated / detailed dam-safety assessments and the associated safety
+plans (e.g. O&M plan and EPP) for Mihaliq dam should be prepared significantly prior to
+preparation of detailed design and specific ESIA /ESMP.
+The borrower prepared Resettlement Policy Framework to address potential land impacts and
+acquisition temporary and permanent for both canal rehabilitation works and Emergency Reservoir
+sub-project. ILC legal department will formally process any land acquisition for the need of the
+project. However once the project implementation starts ILC will have to have external support to
+be able to comply with World Bank Operation Policy 4.12.
+Strengthening the ILC capacity is necessary to implement WB safeguards and the national
+environmental requirements. The key safeguards personnel on the ILC-PIU (at least one
+"safeguards officer") would be identified at project appraisal and most probably would be the head
+of the Legal Department of ILC. The identified personnel would undergo WB safeguards training
+in the first year of project implementation (via the project budget, component 3). A consortium of
+international-and-national implementation consultants would be recruited under competitive
+selection after project approval, to support the Government/PIU with detailed design, safeguards,
+a          and construction supervision. The safeguards officer on the ILC-PIU (legal department) would be
+tasked with the overall oversight of project safeguards (in coordination with the Ministry of
+Environment and Spatial Planning), including overseeing the activities and deliverables of the
+aforementioned safeguards implementation consultants. [Prior to project appraisal, the Bank
+assisted ILC to undertake "advance procurement" of an individual international expert, selected
+competitively, to help the ILC-PIU with all procurement activities, including procuring the
+aforementioned project-implementation consortium as well as the dams Panel of Experts (POE) as
+per OP4.37].
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+on safeguard policies, with an emphasis on potentially affected people.
+Key stakeholders to the project and consultation procedures are Iber-Lepenc Canal Corporation,
+Ministry of Economic Development, and Ministry of Environment and Spatial Planning.
+The ESIAF with ESMF, and RPF were disclosed on February 10, 2016 on ILC web sites where
+they remained available to public for two weeks. Documents were also available in hard copy on
+Page 14 of 17
+
+
+﻿premises of ILC, Vushtrii municipality as well in Norhern part of the Kosovo more specifically
+Zubin Potok in English, Albanian and Serbian language. In parallel with publishing the ESIAF
+with ESMF, call for comments was issued, with electronic and postal addresses at disposal for
+sending comments. Public consultations would take place in Pristina on February 26, 2016,
+Zubin Potok on February 25, 2016, and Vushtrii municipality on February 23, 2016. All relevant
+comments and Public Consultation Minutes would be included in the final version of ESMF.
+The WB disclosure and consultation procedures apply also to the other environmental due
+diligence documentation to developed during the project implementation such as EIA for Mihailiq
+reservoir and relevant EMPs or EMP Checklists for works. Public consultation invitations,
+announcements, list of attendants, summaries of comments received, etc. should be collected and
+attached to the project/sub-project ESIAs/ESMFs/EMPs for Infoshop disclosure. The documents
+are only considered final when public consultation minutes and disclosure conclusions are
+included to the document.
+Prior to appraisal following Dam Safety documents were disclosed: a) For Gazivoda dam:
+Construction Supervision (CSP) and Quality Assurance Plan (QAP); Framework Operation and
+Maintenance (O&M) plan and Framework Emergency Preparedness Plan (EPP); b) For the new
+dam: draft Construction Supervision (CSP) and Quality Assurance Plan (QAP); Framework
+Operation and Maintenance (O&M) plan and Framework Emergency Preparedness Plan (EPP).
+B. Disclosure Requirements
+Environmental Assessment/Audit/Management Plan/Other
+Date of receipt by the Bank                              12-Jan-2016
+Date of submission to InfoShop                           10-Feb-2016
+For category A projects, date of distributing the Executive
+Summary of the EA to the Executive Directors
+"In country" Disclosure
+Kosovo                                                   10-Feb-2016
+Comments: The ESIAF with ESMF is available on the web site of ILC from February 10, 2016
+for two weeks. In the same time, a hard copy of the documents was available for
+consultations at the reception of ILC premises in Pristina, Zubin Potok and Vushtrii
+municipality.
+Resettlement Action Plan/Framework/Policy Process
+Date of receipt by the Bank                              12-Jan-2016
+Date of submission to InfoShop                           10-Feb-2016
+"In country" Disclosure
+Kosovo                                                   10-Feb-2016
+Comments: The RPF is available on the web site of ILC from February 10, 2016 for two weeks.
+In the same time, a hard copy of the documents was available for consultations at
+the reception of ILC premises in Pristina, Zubin Potok and Vushtrii municipality.
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please explain why:
+Page 15 of 17
+
+
+﻿C. Compliance Monitoring Indicators at the Corporate Level
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP)  Yes [X] No [   ]  NA [    ]
+report?
+If yes, then did the Regional Environment Unit or Practice  Yes [ X] No [  ]  NA [   ]
+Manager (PM) review and approve the EA report?
+Are the cost and the accountabilities for the EMP incorporated Yes [ X] No [ ] NA [ ]
+in the credit/loan?
+OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy framework/ Yes [ X] No [ ] NA [ ]
+process framework (as appropriate) been prepared?
+If yes, then did the Regional unit responsible for safeguards or Yes [ X] No [ ] NA [ ]
+Practice Manager review the plan?
+Is physical displacement/relocation expected?            Yes [  ] No [X]     TBD [   ]
+Provided estimated number of people to be affected
+Is economic displacement expected? (loss of assets or access to Yes [ ] No [ ] TBD [ X]
+assets that leads to loss of income sources or other means of
+livelihoods)
+Provided estimated number of people to be affected
+OP/BP 4.37 - Safety of Dams
+Have dam safety plans been prepared?                     Yes [ X] No [    ]  NA [    ]
+Have the TORs as well as composition for the independent  Yes[X]   No[    ]  NA
+Panel of Experts (POE) been reviewed and approved by the
+Bank?
+Has an Emergency Preparedness Plan (EPP) been prepared and Yes[X]  No[       NA
+arrangements been made for public awareness and training?
+OP 7.50 - Projects on International Waterways
+Have the other riparians been notified of the project?   Yes [  ] No [X]     NA [    ]
+If the project falls under one of the exceptions to the  Yes [ X] No [    ]  NA [    ]
+notification requirement, has this been cleared with the Legal
+Department, and the memo to the RVP prepared and sent?
+Has the RVP approved such an exception?                  Yes [X] No [     ]  NA [    ]
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the Yes [ X] No [ ] NA [ ]
+World Bank's Infoshop?
+Have relevant documents been disclosed in-country in a public Yes [ X ] No [  ]  NA [  ]
+place in a form and language that are understandable and
+accessible to project-affected groups and local NGOs?
+All Safeguard Policies
+Page 16 of 17
+
+
+﻿Have satisfactory calendar, budget and clear institutional  Yes[X]  No[     NA
+responsibilities been prepared for the implementation of
+measures related to safeguard policies?
+Have costs related to safeguard policy measures been included Yes[X]  No[   NA
+o          in the project cost?
+Does the Monitoring and Evaluation system of the project  Yes[X]  No[       NA[
+0          include the monitoring of safeguard impacts and measures
+related to safeguard policies?
+Have satisfactory implementation arrangements been agreed  Yes[X]  No[      NA[
+with the borrower and the same been adequately reflected in
+the project legal documents?
+III. APPROVALS
+Task Team Leader(s): Name: Ahmed Shawky M. Abdel Ghany
+Approved By
+Safeguards Advisor:   Name: Agnes I. Kiss (SA)                   Date: 18-Feb-2016
+Practice Manager/     Name: Steven N. Schonberger (PMGR)         Date: 18-Feb-2016
+Manager:
+Page 17 of 17
+
+

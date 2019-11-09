@@ -1,0 +1,359 @@
+                                 The World Bank
+                                 Costa Rica Integrated System of Household Surveys ( P163431 )
+
+
+
+
+                                                    Integrated Safeguards Data Sheet
+                                                  Identification / Concept Stage (ISDS)
+Public Disclosure Copy
+
+
+
+
+                                              Concept Stage | Date ISDS Prepared/Updated: 30-May-2017 | Report No: ISDSC21445
+
+
+
+
+                         May 30, 2017                                                                                           Page 1 of 7
+                                 The World Bank
+                                 Costa Rica Integrated System of Household Surveys ( P163431 )
+
+
+
+                          BASIC INFORMATION
+
+                           A. Basic Project Data
+
+                           Project ID                    Project Name                 Environmental Category        Country
+                                                         Costa Rica Integrated
+                           P163431                       System of Household          C - Not Required              Costa Rica
+                                                         Surveys ( P163431 )
+                           Team Leader(s)                Estimated Date of Approval   Managing Unit                 Financing Instrument
+                                                                                                                    Investment Project
+                           Leonardo Ramiro Lucchetti     15-Jun-2017                  GPV04
+                                                                                                                    Financing
+
+                           PROJECT FINANCING DATA
+Public Disclosure Copy
+
+
+
+
+                          FINANCING
+
+
+                          FINANCING SOURCES
+
+                           Select all that apply
+
+                           [ ✔ ] Counterpart Funding      [ ✔ ] Trust Funds                [ ] Parallel Financing
+
+
+
+                           SUMMARY (USD)
+
+                           Total Project cost                                                                          1,823,042
+                           Total Financing                                                                             1,823,042
+                           Counterpart Funding                                                                         1,437,640
+                           Trust Funds                                                                                   385,402
+                           Financing Gap                                                                                         0
+
+                           DETAILS
+
+                           Counterpart Funding
+                           Source                               Currency                           Amount                        USD Equivalent
+                           Borrower(BORR)                       USD-US Dollars                   1,437,640                            1,437,640
+
+
+                           Trust Funds
+                           Source                               Currency                           Amount                        USD Equivalent
+
+
+                         May 30, 2017                                                                                                      Page 2 of 7
+                                  The World Bank
+                                  Costa Rica Integrated System of Household Surveys ( P163431 )
+
+
+
+                           Trust Fund for Statistical Capacity
+                                                                  USD-US Dollars                      385,402                              385,402
+                           Building(TSCB)
+
+
+                           B. Project Development Objective(s)
+                           The development objective of this TFSCB is to improve the quality of the statistical information provided by INEC by
+                           developing an ISHS. This is a multi-sectoral and multi-functional project that has the following objectives:
+
+                           i.       Establish an integrated sample design for household surveys.
+                           ii.      Define an integrated thematic and conceptual framework for household surveys.
+                           iii.     Develop an integrated information technology system for household surveys
+
+                           These three specific objectives will allow:
+Public Disclosure Copy
+
+
+
+
+                           â¢      Improving the MPI by adding variables and increasing the capacity of the ENAHO survey to produce more
+                           geographically disaggregated information, including with regards to minority populations;
+                           â¢      Calculating additional welfare indicators, such as the OECD's "Life Better" and new indicators associated to the
+                           SDGs;
+                           â¢      Collecting more geographically disaggregated information to monitor the National Development Plan and the
+                           regional development assessment (as requested by MIDEPLAN), as well as to close the regional development gaps that
+                           exist today in Costa Rica;
+                           â¢      Having more flexible sample designs to be able to generate information of socially and economically depressed
+                           geographical zones.
+                           â¢      Better planning of the surveys and the optimization of resources to avoid the duplicationof efforts by
+                           connecting the information between surveys.
+                           â¢      Improving the dissemination of data in different formats, so as to satisfy the needs of different users.
+
+                           These proposed development objectives will be applied to the following surveys currently collected by INEC: [i]
+                           ENAHO; [ii] Labor Force Survey (Encuesta Continua de Empleo); and [iii] Survey of Producer Households (Encuesta de
+                           Hogares Productores). The project also considers other surveys that are not collected by INEC, including the National
+                           Culture Survey (Encuesta Nacional de Cultura); Childhood and Motherhood (Encuesta MICS); Use of Time Survey
+                           (Encuesta de Uso de Tiempo); and Survey on Disability (Encuesta sobre Discapacidad). In the case of these specific
+                           surveys, this project will analyze the best way in which they can be incorporated to the ISHS, considering that their
+                           financing will proceed from the respective interested institutions.
+
+                           C. Project Description
+                           In order to implement the new ISHS, the GoCR has requested TA from the World Bank. The project should be framed
+                           within INEC's rule of law, organizational norm, and physical structure. The responsibility of the project's planning,
+                           execution and evaluation should fall under the Area of Censuses and Surveys in INEC.
+                           The proposed activities are classified into three components as follows.
+
+                           Component 1: An integrated and updated sample design for the household surveys
+                           This component will allow to obtain a sampling frame for all the household surveys that INEC will collect within the
+                           next ten years. This sampling frame should consider the accuracy and geographical disaggregation requirements of the
+                           different topics considered by the surveys, which requires establishing the sample sizes, the sampling selection
+
+
+                         May 30, 2017                                                                                                       Page 3 of 7
+                                 The World Bank
+                                 Costa Rica Integrated System of Household Surveys ( P163431 )
+
+
+
+                           method, the periodicity of the surveys, and the weighting methodology of the different samples so as to link the
+                           information in complementary subjects to avoid the duplication of efforts.
+                           Besides the indicated products, this component will carry-out internships and consultancies to build capacity on good
+                           practices and innovative sample methodologies. The main objective is to improve the estimations, and make the data
+                           collection process more efficient as well as the different systems and processes that intervene in the production of
+                           information about individuals and households.
+
+                           The internship aims to support learning from experiences from Latin American Statistical Institutes (for example,
+                           Brazil's and Ecuador's) regarding the sample design for and implementation of an ISHS. The following are the issues to
+                           be addressed: determine the different surveys and topics that integrate the ISHS, their periodicity, and thematic
+                           relationship among the different surveys; inquire about the analyses, tests, and decisions that led to the design of the
+                           ISHS; determine the methodological and operational aspects for the launching and implementation of the ISHS, and
+                           the advantages that the ISHS design would offer when compared to the design of the previous surveys.
+Public Disclosure Copy
+
+
+
+
+                           The consultancies are focused on the statistical design and set-up of the ISHS and its operational implementation.
+                           INEC's staff will receive the advice and guidance from an expert (provided by the project) in household survey
+                           sampling, with recent experience in current models of integrated household systems. This technical support will allow
+                           to create new capacities within INEC's staff for the subsequent development of the surveys. The consultancies have the
+                           following objectives:
+                           • Elaborate a diagnosis of the sample designs, precision levels, and geographical disaggregation of the estimations, as
+                           well as the methodologies of the surveys currently carried out by INEC.
+                           • Determine the surveys and topics that will integrate the ISHS and the required periodicity of visits, sample sizes
+                           according to the key variables in the thematic design, and the requirements related to geographic disaggregation.
+                           • Elaborate different designs of the ISHS together with a cost-benefit analysis of their implementation, operational
+                           difficulty, and maintenance over time.
+                           • Undertake the selection of the Master Sample according to the ISHS design, determine the calculation methodology
+                           of the weighting or expansion factors of the master sample and of the samples of the surveys in the model of the
+                           selected ISHS.
+                           • Design and execute a pilot test of the ISHS to evaluate the design and operational methodology of the application of
+                           the ISHS model.
+
+                           The topics included are not covered in university classes or careers, and thus, the only way to generate capacities is
+                           through these modalities. Both the internship and consultancies will strengthen the theoretical and practical
+                           knowledge of the officials working at the Sample Unit in relation to the design and implementation of an ISHS. The
+                           products have to do with generating professional capacities and solid documentation in topics such as: statistical
+                           techniques to harmonize processes of different surveys; the operational efficiency of integrated surveys; and the
+                           specific design aspects, such as the main variables, the sample size, rotation, the panel, weighting, the estimation
+                           methods and the calculation of the sampling errors. It is expected that during the course of the ISHS the team will
+                           produce a document about the statistical design, implementation, and maintenance, which will be finished by the end
+                           of the project.
+
+                           Component 2: An updated and articulated thematic design of the household surveys
+
+                           This component refers to the platform needed to incorporate the different surveys executed by INEC into the ISHS,
+                           alternating the different issues according to their periodicity (monthly, quarterly, annual, quinquennial, among others),
+
+
+                         May 30, 2017                                                                                                       Page 4 of 7
+                                 The World Bank
+                                 Costa Rica Integrated System of Household Surveys ( P163431 )
+
+
+
+                           the geographic scope of the requested information (national, regional, Great Metropolitan Area, urban, and rural
+                           zone), and the thematic complementarity of the different surveys. This will allow linking the information between
+                           surveys without exhausting households with multiple visits. This thematic platform will take into consideration current
+                           demands of information at the national and international levels, in particular those that are required to incorporate
+                           the country to the OECD, as well as to elaborate the SDGs.
+
+                           The above will be attained through the review of the topics that this type of research about the population and
+                           households demands, considering the issues of poverty, labor, incomes, demographics, education, social programs,
+                           and others that are necessary to answer the national and international requirements and recommendations from
+                           international organizations. Besides the thematic revision and extension, the team will look for new methods to collect
+                           and integrate information of the different stages in data gathering, in order to increase the efficiency of the field work.
+
+                           This requires the technical advice from experts with knowledge and experience in these new research modalities, that
+                           have mastery of the topics that need to be examined further and knowledge on how to improve the thematic research.
+Public Disclosure Copy
+
+
+
+
+                           These experts will work with INEC's staff in charge of the household surveys, reinforcing with additional staff hired for
+                           the project or substituting them in their current tasks. The team in charge of redesigning the surveys will be also in
+                           charge of developing and implementing the research, once the design stage has been concluded. As with the previous
+                           component, the staff will benefit from internships and consultancies, as explained below.
+
+                           The internships within the thematic component will aim to increase the knowledge of the team on the thematic design
+                           of the conceptual and operational implementation of the new recommendations to measure incomes, labor, poverty
+                           and related topics, as well as to recognize and evaluate the experience of a Latin American Statistical Institute (for
+                           example, Brazil's and Ecuador's) in the integration of the different topics within the design of an ISHS. The topics to be
+                           covered are related to analyzing the design of the measurement of incomes, labor, and so on; considering the
+                           information requirements of international organizations (such as OECD and SDGs); evaluating the design of questions
+                           and questionnaires to cover the different topics and user requirements; and understanding the design of the ISHS, the
+                           research topics, periodicity, execution and operationalization of the project.
+
+                           The consultancies will support the process of thematic design to be included in the ISHS according to the requirements
+                           of national and international users, the periodicity, coverage, and scope of the different topics:
+
+                           Forum for consultation with users: meeting with survey specialized users, under a participatory methodology
+                           established previously to satisfy their information needs and take into account recommendations for improvements.
+                           These consultations will include Academia, Government, Civil Society Organizations, Indigenous Experts, among others.
+
+                           • Documentation of the results obtained from the Forum regarding the consultation with users and recommendations.
+                           • Revision and adjustment of the design and content of the current statistical production according to the most recent
+                           recommendations from the OECD and SDGs as well as countries like Brazil and Ecuador; these recommendations
+                           include the proposal of new designs and contents.
+                           • Proposal, design, and operationalization of new questionnaires for the main topics of interest according to the
+                           recommendations.
+                           • Design of the ISHS (topics in the basic module, topics in special modules or surveys, research periodicity in each topic,
+                           samples required in each case).
+                           • Scope, limitations in the design and sample size, geographic disaggregation levels, and new research needs for each
+                           topic (for future presentation and approval).
+                           • Proposals for the content of the Interviewer's manual and training methodology.
+
+                         May 30, 2017                                                                                                         Page 5 of 7
+                                 The World Bank
+                                 Costa Rica Integrated System of Household Surveys ( P163431 )
+
+
+
+                           • Plan of inconsistencies: document containing the rules of consistency that have to be followed when collecting
+                           information -it is an input for information technology programming and quality control.
+                           • Definition of the Periodicity to colle ct and present each research topic (such as monthly job, annual household
+                           income, and other special topics).
+                           • Definition of scopes and limitations of the pilot: document with the results of the pilot survey, which evaluates the
+                           aspects that work and those that have to be improved.
+                           • Processes related to the execution of the ISHS: document that contains the operational proposal of the ISHS,
+                           including the definition of processes, their operationalization, programs that will help make a more efficient use of the
+                           resources, needed resources for implementation, hiring methods, and so on.
+                           • Final adjustments as a result of the pilot test and of the workshop to obtain feedback. This includes incorporating
+                           needed survey and documents' adjustments, as a result of the survey pilot tests.
+
+                           Both the internships and consultancies will strengthen and increase the conceptual knowledge needed to conduct the
+                           research and analysis on the topics of incomes and labor, with the aim to satisfy the new international requirements. In
+Public Disclosure Copy
+
+
+
+
+                           addition, they will facilitate learning about international experiences with respect to the articulation of the different
+                           topics in an ISHS. It is expected that the final project will produce a document that will include topics that should be
+                           covered in an ISHS, its operationalization in the field via questionnaires, scopes and thematic periodicity, and the
+                           limitations in the research of the different topics.
+
+                           Component 3: An integrated information technology system for the management of the household surveys
+
+                           This component will standardize all the statistical operations at the level of the survey questions, question values, and
+                           inconsistencies in the questionnaires. The main objective is to offer computational solutions in order to automate
+                           surveys with the aim of offering higher quality statistics on a timely manner.
+
+
+
+
+                           SAFEGUARDS
+
+
+                          D. Project location and salient physical characteristics relevant to the safeguard
+                          analysis (if known)
+
+
+
+                          E. Borrower’s Institutional Capacity for Safeguard Policies
+                          This is a statistical capacity building project coordinated by the Instituto Nacional de Estadística y Censos (INEC) in
+                          Costa Rica, with the objective to improve the quality of the statistical information provided by INEC by developing an
+                          Integrated System of Household Surveys (ISHS). It concerns improvements in survey design methodology, conceptual
+                          design of the ISHS, and integrated information technology system for the management of the ISHS. The activities to be
+                          funded by the project are limited to statistical capacity building in data analysis, sample design, and data cataloguing
+                          and dissemination. It will not fund any civil works. No safeguards instruments are likely to be required.”
+
+
+
+
+                         May 30, 2017                                                                                                        Page 6 of 7
+                                  The World Bank
+                                  Costa Rica Integrated System of Household Surveys ( P163431 )
+
+
+
+
+                          F. Environmental and Social Safeguards Specialists on the Team
+                          Ximena Rosio Herbas Ramirez (GEN04)
+
+
+                          G. Policies that might apply
+                          Safeguard Policies Triggered by the Project                          Triggered?                          Explanation (Optional)
+                          Environmental Assessment OP/BP 4.01                            No
+                          Natural Habitats OP/BP 4.04                                    No
+                          Forests OP/BP 4.36                                             No
+                          Pest Management OP 4.09                                        No
+                          Physical Cultural Resources OP/BP 4.11                         No
+Public Disclosure Copy
+
+
+
+
+                          Indigenous Peoples OP/BP 4.10                                  No
+                          Involuntary Resettlement OP/BP 4.12                            No
+                          Safety of Dams OP/BP 4.37                                      No
+                          Projects on International Waterways OP/BP 7.50                 No
+                          Projects in Disputed Areas OP/BP 7.60                          No
+
+
+                          H. Safeguard Preparation Plan
+
+                          Appraisal stage ISDS required? No
+
+
+                           APPROVALS
+
+                           Team Leader(s):                                     Leonardo Ramiro Lucchetti
+
+                           Approved By
+
+                           Safeguards Advisor:                                 Noreen Beg                                        22-May-2017
+
+                           Practice Manager/Manager:                           Oscar Calvo-Gonzalez                              23-May-2017
+
+
+                          1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) by the Bank and (ii) in country
+
+                          by the Borrower/Recipient, at publicly accessible locations and in a form and language that are accessible to potentially affected persons.
+
+
+
+
+                         May 30, 2017                                                                                                                               Page 7 of 7
+

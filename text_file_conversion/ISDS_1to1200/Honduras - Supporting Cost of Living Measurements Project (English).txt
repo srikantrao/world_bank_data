@@ -1,0 +1,304 @@
+         The World Bank
+         HN Supporting Cost of Living Measurements
+
+
+
+
+                           Integrated Safeguards Data Sheet
+                         Identification / Concept Stage (ISDS)
+
+                      Concept Stage | Date ISDS Prepared/Updated: 07-Nov-2017 | Report No: ISDSC23081
+
+
+
+
+Nov 07, 2017                                                                                            Page 1 of 7
+         The World Bank
+         HN Supporting Cost of Living Measurements
+
+
+
+ BASIC INFORMATION
+
+  A. Basic Project Data
+
+  Project ID                      Project Name                   Environmental Category      Country
+                                  HN Supporting Cost of
+  P165218                                                        C - Not Required            Honduras
+                                  Living Measurements
+  Team Leader(s)                  Estimated Date of Approval     Managing Unit               Financing Instrument
+  Liliana Do Couto Sousa, Ewa                                                                Investment Project
+                                                                 GPV04
+  Joanna Korczyc                                                                             Financing
+
+
+
+
+ Financing (in USD Million)
+
+  SUMMARY             -NewFin1
+
+
+
+
+  Total Project Cost                                                                                                     0.74
+  Total Financing                                                                                                        0.74
+  Financing Gap                                                                                                          0.00
+
+
+  DETAILS  -NewFin2
+
+
+
+
+  Total Government Contribution                                                                                          0.25
+
+
+  B. Project Development Objective(s)
+  To support the production of inclusive and high quality socioeconomic indicators through innovative strategies for
+  collection of household income and expenditure data and improvements to the household survey life cycle.
+
+  C. Project Description
+  The proposed activities are classified into three components as follows:
+
+  Component 1: Implementing cost-effective and high quality surveys [$270,817]
+
+  This trust fund will support pre-collection activities (training and the pilot survey), technical support, equipment, and
+  data quality monitoring for the ENIGH-2018 with the aim of identifying and implementing cost-effective approaches
+  that enhance quality. Strengthened institutional capacity, including new equipment, included in this component are
+  expected to benefit other surveys collected by the CBH and INE. This support will complement the technical assistance
+  being provided by the World Bank supporting sampling, questionnaire, and survey design. This technical
+  assistance includes the improvement of employment measurements, especially with regards to female rural economic
+
+
+
+Nov 07, 2017                                                                                                        Page 2 of 7
+         The World Bank
+         HN Supporting Cost of Living Measurements
+
+
+
+  activity. The following activities are included in this component:
+
+        1. Pilot survey: The pilot survey is an opportunity to test alternative approaches to improve the cost-
+             effectiveness and quality of the survey. These include testing of alternative visit lengths, distribution and order
+             of modules, and collection methodologies (such as online vs paper recall diaries) since the ENIGH 2018 requires
+             multiple visits to each household over the course of a week. In addition, some questions in the questionnaire
+             will be tested, including labor questions that may potentially undercount informal female economic activity.
+             Finally, the use of tablets rather than paper questionnaires will be tested.
+        2.   Training of field staff: Proper training of enumerators and supervisors is integral to a successful survey. The
+             trust fund will support costs associated with these trainings.
+        3.   Principal consultant: The principal consultant will provide overall logistical and technical support and is
+             expected to visit the project team and assess progress at least three times throughout the survey. As with the
+             other consultancies supported by this TF, the terms of reference for this consultancy will include reports
+             identifying quality and efficiency gains made for the ENIGH 2018, the extent to which these can be replicated in
+             other official surveys, and specific suggestions for further enhancements.
+        4.   Survey collection and data processing equipment: All surveys collected by INE and the CBH use paper
+             questionnaires. However, using computer-assisted personal interviewing (CAPI) techniques has been shown to
+             increase quality of data collection in a cost-effective manner by increasing monitoring and facilitating
+             consistency checks. The ENIGH team has agreed to test the use of CAPI instruments during the pilot to evaluate
+             its possible use for the ENIGH. If the authorities decide to use CAPI for the collection of the ENIGH, this TF will
+             support the necessary programming and purchase of equipment. If the decision is to use paper questionnaires,
+             this TF will support on-field data entry, the development of a data entry program implementing automatic
+             checks, and reporting quality statistics to headquarters (when internet access is available) allowing for
+             improved monitoring. Since the survey will be collected during repeated visits, on-field data entry will help
+             identify inconsistencies that can be addressed by the survey team in already-planned follow-up interviews.
+             Previous surveys have relied on on-field visual inspection by a designated team member. The TF will also
+             support the purchase of Stata and SPSS licenses for INE to improve data processing of the ENIGH and other
+             surveys.
+        5.   Data quality supervision and testing: Quality control supervisors will be on the field throughout the period of
+             survey collection. The per diem costs associated with this field supervision comprise a significant portion of the
+             support provided by this TF. This TF will also support the hiring of a programmer to help the ENIGH team
+             develop comprehensive data quality tests, to validate data entry and identify responses that may require
+             follow-up investigation. If the ENIGH is collected using CAPI, this consultant will support the codification of the
+             survey to CAPI.
+
+  Component 2: Supporting inclusion through measurement [$172,800]
+
+  This trust fund will cover the costs of including in the survey two isolated departments primarily populated by ethnic
+  minorities that are excluded from all poverty and CPI measurements: Gracias a Dios, an underdeveloped region
+  populated primarily by Indigenous Peoples (IP), and Islas de la Bahía, tourist destination islands populated primarily by
+  Afro-Hondurans. Because of the high costs of transportation to these areas and the difficulty of traveling within Gracias
+  a Dios, there are no recent representative socioeconomic data for these two regions beyond the 2013 population
+  census. While it is cost-prohibitive to survey these departments annually, including them in the ENIGH would provide
+  key indicators every five years. In particular, the 2018 ENIGH would allow for analysis on the appropriateness of the CPI
+  and official poverty basket methodology (based on the rest of the country) for these regions. This information is
+
+
+Nov 07, 2017                                                                                                           Page 3 of 7
+         The World Bank
+         HN Supporting Cost of Living Measurements
+
+
+
+  particularly important for identifying the challenges faced by IP and Afro-Hondurans, groups overrepresented in these
+  regions.
+
+  The TF will also support hiring local translators for the inclusion of non-Spanish speaking IP households. It will also
+  support consultations with national IP and Afro-Honduran organizations to review the questionnaire and interview
+  strategies.
+
+  Component 3: Supporting a culture of data transparency [$47,060]
+
+  To encourage a culture of transparency and accountability, as well as to increase public knowledge about the survey
+  and its results, funds will be used to support pre-survey outreach efforts, post-survey analysis, a financial audit of the
+  project, and the publication and dissemination of results from this survey. This support will include the development of
+  a data transparency and dissemination guideline including components of an SDSS assessment, a dissemination
+  timeline and methods to increase access to data, such as anonymization. The TF will support the hiring of an
+  international consultant to assist INE and CBH on the data analysis and tabulation of the results from the survey,
+  culminating in a training workshop on data analysis and report writing. This component will also support the
+  production of metadata and documentation meeting international standards
+
+
+
+
+  SAFEGUARDS
+
+
+ D. Project location and salient physical characteristics relevant to the safeguard
+ analysis (if known)
+ This grant will finance several components of this nationally-representative survey, including improving methodologies
+ for survey design and data collection. Component 2 supports efforts to include the remote areas of Gracias a Dios and
+ Islas de la Bahia within the survey sample. According to the 2013 census, 8.6 of the population is Indigenous (IP) or
+ Afro-descendant (Afro). The large majority, or 80 percent, of the Indigenous population live in their traditional lands in
+ rural areas whereas it is estimated that 20 percent live in urban areas. The levels of preservation of cultural practices
+ and use of traditional languages and governance systems varies among the different IP groups. There are nine ethnic
+ groups or peoples that including the following: the Lenca (453,672) that live primarily in the departments of Intibucá,
+ La Paz, Lempira, Ocotepeque y Santa Bárbara;the Maya Chortí (population: 33,256) that live in Copán and Ocotopeque;
+ the Tolupán (population: 19,033) that live in Yoro and Francisco Morazán; the Garifuna (population: 43,111) that live in
+ Cortés and Gracias a Dios; the Nahua (population: 6,339) that live in Olancho; the Pech (population: 6,024) that live in
+ Colón, Olancho and Gracias a Dios; the Tawahka (population: 2,690) that live in Olancho, Colón and Gracias a Dios; the
+ Miskito (population: 80,007) that live in Gracias a Dios; and Afro-descendants who speak English (negro de habla
+ inglesa) (population: 12,337) that live in Islas de la Bahia, Cortés, Atlántida, and Colón. Each Indigenous people or
+
+Nov 07, 2017                                                                                                         Page 4 of 7
+         The World Bank
+         HN Supporting Cost of Living Measurements
+
+
+
+ group are represented by one or more federations or organizations at local, regional and national levels. Given the
+ grant’s national scope, as well as the targeted efforts to reach Gracias a Dios home to IP population meeting the four
+ criteria of OP/BP 4.10, the Project triggers the Indigenous peoples’ policy. Given the lack of socioeconomic information
+ for this part of the country, this grant is highly relevant for IP populations as it could serve to improve the reliability and
+ visibility of IP and Afro populations in national policy making, public investments, and planning processes. The grant
+ will support methodologies critical to reach and effectively collect data from IP and Afro populations, including those
+ living in remote areas and with cultural, organizational, and linguistic variances from the non-indigenous Honduran
+ population.
+
+
+
+
+ E. Borrower’s Institutional Capacity for Safeguard Policies
+ This is a Statistical Capacity Building project coordinated with the Central Bank of Honduras and National Institute of
+ Statistics. Potential environmental impacts are limited due to the scope of activities. The activity to be funded by the
+ project are limited to capacity building, data production, and dissemination. It will not fund any civil work that could
+ have environmental impacts. In regards to capacity for engaging with and collecting data with IP and Afro
+ communities, INE undertook consultations with national organizations representing Honduran IP and AD communities
+ in the context of designing and collecting the 2013 population census. The grant will finance technical assistance aimed
+ directly at improving the capacity of the Institute to effectively reach and capture the realities of IP and Afro
+ communities in its scope of activities. It will do this both through establishing tailored methodologies that are designed
+ together with IP and Afro organizations and will be documented in the operations manual, and through partnering
+ with IP and Afro organizations to facilitate the local field work of surveyors.
+
+
+
+
+ F. Environmental and Social Safeguards Specialists on the Team
+ Dianna M. Pizarro, Social Safeguards Specialist
+ Robert H. Montgomery, Environmental Safeguards Specialist
+
+
+ G. Policies that might apply
+ Safeguard Policies Triggered by the Project                 Triggered?                     Explanation (Optional)
+                                                                                 This policy is not triggered as the proposed
+                                                                                 project activities do not involve physical
+ Environmental Assessment OP/BP 4.01                   No                        interventions with foreseeable impacts on
+                                                                                 environment or natural, physical or cultural
+                                                                                 resources.
+                                                                                 This policy is not triggered as project
+ Natural Habitats OP/BP 4.04                           No
+                                                                                 activities will not affect natural habitats.
+                                                                                 This policy is not triggered as no forests will
+ Forests OP/BP 4.36                                    No
+                                                                                 be affected by project activities.
+                                                                                 This policy is not to triggered given that the
+ Pest Management OP 4.09                               No                        project activities will not involve the
+                                                                                 purchase or use of pesticides.
+
+Nov 07, 2017                                                                                                             Page 5 of 7
+         The World Bank
+         HN Supporting Cost of Living Measurements
+
+
+
+                                                                   This policy is not triggered as no impacts to
+ Physical Cultural Resources OP/BP 4.11              No
+                                                                   physical cultural resources are expected.
+                                                                   This scope of the TA to be carried out is
+                                                                   national, and thus includes IP communities
+                                                                   that meet the four criteria of this policy.
+                                                                   Gracias a Dios is included within the pilot
+                                                                   survey and has a significant IP population.
+                                                                   The grant will support the design of tailored
+                                                                   methodologies to effectively reach and
+ Indigenous Peoples OP/BP 4.10                       Yes
+                                                                   capture reliable data from these
+                                                                   communities, and thus will apply the policy
+                                                                   through a TA approach where the scope
+                                                                   and implementation of the work carried
+                                                                   out will be fully aligned with the
+                                                                   requirements of the Policy and will be
+                                                                   documented in the Operations Manual.
+                                                                   This policy is not triggered given that no
+                                                                   involuntary taking of land leading to
+ Involuntary Resettlement OP/BP 4.12                 No            relocation or loss of assets, and no
+                                                                   restrictions of access to protected areas,
+                                                                   are expected under this project.
+                                                                   This policy is not triggered given that the
+                                                                   project will not support the construction or
+ Safety of Dams OP/BP 4.37                           No            rehabilitation of dams nor will support
+                                                                   other investments which rely on the
+                                                                   services of existing dams.
+                                                                   This policy is not triggered as the project
+ Projects on International Waterways OP/BP 7.50      No            will not affect international waterways as
+                                                                   defined under the policy.
+                                                                   This policy is not triggered as the proposed
+ Projects in Disputed Areas OP/BP 7.60               No            project will not affect disputed areas as
+                                                                   defined under the policy.
+
+
+ H. Safeguard Preparation Plan
+
+ Appraisal stage ISDS required? No
+
+
+  APPROVALS
+
+  Team Leader(s):                         Liliana Do Couto Sousa
+
+
+
+
+Nov 07, 2017                                                                                             Page 6 of 7
+          The World Bank
+          HN Supporting Cost of Living Measurements
+
+
+
+
+     Approved By
+
+     Safeguards Advisor:                             Noreen Beg                                        31-Oct-2017
+
+     Practice Manager/Manager:                       Oscar Calvo-Gonzalez                              02-Nov-2017
+
+
+ 1Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) by the Bank and (ii) in country
+ by the Borrower/Recipient, at publicly accessible locations and in a form and language that are accessible to potentially affected persons.
+
+
+
+
+Nov 07, 2017                                                                                                                              Page 7 of 7
+

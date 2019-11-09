@@ -1,0 +1,289 @@
+                                                                                 85204
+                          INTEGRATEDS AFEGUARDSD ATASHEET
+                                  APPRAISAL STAGE
+
+Report No.:
+Date prepared/updated: February 10, 2014
+
+I. Basic Information
+
+               ' tD ata
+        ' P fO_ICC
+I , B aSIC
+Country: Zambia                                   Project ID: P147659
+                                                  Additional Proiect ID (if any):
+Project Name: Support for Development of an Integrated MIS and Single Registry of
+Beneficiaries
+Task Team Leader: Cornelia Mihaela Tesliuc
+Estimated Aooraisa1 Date: February 13,2014        Estimated Board Date: N/A
+Managing Unit: AFTSE                              Lending Instrument: RE Trust Fund
+Sector: Public Administration Other Social Services
+Theme: Social Safety Net
+IBRD Amount (US$m.):
+IDA Amount (US$m.):
+GEF Amount (US$m.):
+PCF Amount (US$m.):
+Other financing amounts by source (US$m.): 1.00 (RSR MDTF)
+Environmental Category: C
+Is this a transferred oroiect                     Yes f l                   No [X]
+Simplified Processing                             Simple  fx]               RePeater 1
+Is this project processed under OP 8.00 (Rapid Response to Crises           Yes []     No [X]
+and Emergencies)
+
+
+2. Project Objectives:
+
+The development objective is to support Government of Zambia to strengthen its social
+protection system by building management information systems and a single registry of
+beneficiaries to allow robust identification of beneficiaries
+
+3. Project Description:
+
+Support for Development of MIS and Single Registry
+
+Sub-component 1.1: Design and development of a Single Registry (SR).
+This sub-component aims to develop a Single Registry for the key social safety net programs in
+Zambia. The SR will be hosted in the Ministry of Community Development Mother and Child
+Health (MCDMCH), which implements the larger programs in terms of number of beneficiaries,
+including the Social Cash Transfer Scheme (SCTS), the Public Welfare Assistance Scheme
+(PWAS), the Food Security Pack (FSP) and the Women Empowerment Fund (WEF). The key
+functionality of the SR is the inclusion of more robust controls on eligibility determination and
+enrollment of beneficiaries in individual programs and on periodic updating of information on
+beneficiaries to ensure they remain eligible. Another functionality is to facilitate rapid
+identification of beneficiaries for programs that are scaling up or trying to create synergies with
+complementary interventions to enhance their impact. It should also be able to produce key
+monitoring reports required for decision and management. The Registry will initially link the
+individual program MISs in MCDMCH. The SR shall also have the functionality to link to other
+databases of beneficiaries outside the MCDMCH as well with the National Population Registry
+when these data bases become automated. The key activities that will be supported under this sub-
+component, include among others: (i) Diagnostic study to identify the information needs of various
+stakeholders and develop the business specifications and functionalities of SR; (ii) Review of
+targeting procedures and forms for individual programs to ensure that core household information
+is collected in a harmonized way by individual programs to allow cross checks against each other
+via the SR; (iii) Workshops for consultations with various stakeholders to agree on key design for
+the registry; (iv) Consultancy for development, testing, and installation of the SR; and (v)
+Acquisition ofiCT equipment (server, workstations, connectivity devices).
+
+Sub-Component 1.2: Development and integration of individual program MISs.
+
+This component will aim to develop an informatics platform to support key business processes for
+all key safety net programs in the MCDMCH. Currently MCDMCH has only one program (SCTS)
+using a fllllctional MIS to support key process including enrollment of beneficiaries, preparation of
+benefit payroll, and change management. The key activities that will be supported tn1der this
+component include, among others: (i) System assessment to take stock of existing information
+systems and databases for each of the programs (this will be done in conjunction with diagnostic
+study for the SR); (ii) Updating of manual of operations and guidelines for each of the programs to
+ensure the procedures and information requirements are clearly defined and reflecting current
+practices; (iii) Consultancy to develop an integrated MIS for the key programs in MCDMCH
+including WE, PWAS, FSP to include user guide and training materials; and (vv) ICT equipment
+(server, work stations, connectivity devices)
+
+Sub-Component 1.3: Capacity Building for management, use and maintenance of MIS and
+Single registry
+
+Recognizing the importance of designing and administering complex informatics systems, this
+sub-component will provide TA for capacity building in the MCDMCH. Key activities to be
+supported under this component include, among others: (i) Training of staff in the use, trouble
+shooting and maintenance of MIS and SR, depending on the roles at each level; (ii) Printing of
+user guides and manuals for staff at each level; (iii) Provision of ICT equipment; (iv) Exchange
+visits to learn from experience of one or two cotllltries with good SR and MIS ; and (iv)
+Strengthening Procurement and FM capacity in MCDMC to ensure proper accountability for RSR
+limds.
+4. Project Location and salient physical characteristics relevant to the safeguard analysis:
+
+The project will be implemented in the central office of the Ministry of Community Development
+Mother and Child Health.
+
+5. Environmental and Social Safeguards Specialists on the Team:
+
+
+6. Safeguard Policies Triggered (please explain why)                         Yes            No
+Environmental Assessment (OPIBP 4.01)                                                        X
+Natural Habitats (OPIBP 4.04)                                                                X
+Forests (OPIBP 4.36)                                                                         X
+Pest Mana2ement (OP 4.09)                                                                    X
+Phvsical Cultural Resources (OPIBP 4.11)                                                     X
+Indigenous Peoples (OPIBP 4.10)                                                              X
+Involuntary Resettlement (OPIBP 4.12)                                                        X
+Safety of Dams (OPIBP 4.37)                                                                  X
+Pro.iects on International Watenvavs (OP/BP 7.50)                                            X
+Projects in Disputed Areas (OP/BP 7.60\                                                      X
+
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify and
+describe any potential large scale, significant and/or irreversible impacts:
+
+There are no safeguards issues and negative impacts associated with the proposed project. The
+project will finance mostly diagnostic studies to identify information needs, management
+information systems assessment and development, development of training materials, and
+training.
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in
+the project area:
+ n!a
+
+3. Describe any project alternatives (ifrelevant) considered to help avoid or minimize adverse
+impacts:
+
+n!a
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+assessment of borrower capacity to plan and implement the measures described:
+
+nla
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on
+safeguard policies, with an emphasis on potentially affected people:
+nla
+
+B. Disclosure Requirements Date
+Environmental Assessment/Audit/Manag ement Plan/Other:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of 11 in-country" disclosure
+  Date of submission to InfoShop
+  For category A projects, date of distributing the Executive
+  Summary of the EA to the Executive Directors
+Resettlement Action Plan/Framework!Policv Process:
+  Was the document disclosed priOr to appraisal?                               nla
+  Date of receipt bv the Bank                                                  nla
+  Date of "in-country" disclosure                                              nla
+  Date of submission    to InfoShop                                            nla
+Indigenous Peoples Plan/Planning Framework:
+  Was the document disclosed prior to appraisal?                               nla
+  Date of receipt by the Bank                                                  nla
+                       11
+  Date of "in-country disclosure                                               nla
+  Date of submission to Info Shop                                               nla
+Pest Management Plan:
+  Was the document disclosed prior to appraisal?                               nla
+  Date of receipt by the Bank                                                  nla
+                       11
+  Date of "in-country disclosure                                                nla
+  Date of submission to Info Shop_                                             nla
+* If the project triggers the Pest Management and/or Physical   Cultural Resources  policies,
+the respective issues are to be addressed and disclosed as part of the Environmental
+Assessment/Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please explain why:
+
+
+
+ C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the JSDS is
+finalized by the project decision meeting)
+
+OP/BP 4.01 -Environment Assessment
+Does the project require a stand-alone EA (including       Yes [ ]     No [ ]      N/A [ X]
+EMP) report?
+If yes, then did the Regional Environment Unit or Sector
+Manager (SM) review and approve the EA report?
+Are the cost and the accountabilities for the EMP
+incorporated in the credit/loan?
+OP/BP 4.04 -Natural Habitats
+  Would the project result in any significant conversion or    Yes [ ]   No [ ]   NIA [X]
+  degradation of critical natural habitats?
+  If the project would result in significant conversion or
+  degradation of other (non-critical) natural habitats, does
+  the project include mitigation measures acceptable to the
+  Bank?
+  OP 4.09 - Pest Mana2ement
+  Does the EA adequately address the pest management           Yes [ ]   No [ ]   N!A [X]
+  issues?
+  Is a separate PMP required?                                  Yes [ l   No [ ]   NIA [X]
+  If yes, has the PMP been revie"Yed and approved by a
+  safeguards specialist or Sector Manager? Are PMP
+  requirements included in project design? If yes, does the
+I project team include a Pest Management Specialist?
+  OP!BP4.11 Phvsical Cultural Resources
+  Does the EA include adequate measures related to             Yes [ ]   No []    NIA [X]
+  cultural property?
+  Does the credit/loan incorporate mechanisms to mitigate
+  the potential adverse impacts on physical cultural
+  resources?
+  OP/BP 4.10- Indi2enous Peoples
+  Has a separate Indigenous Peoples Plan/Planning              Yes [ ]   No [ ]   NIA [X]
+  Framework (as appropriate) been prepared in
+  consultation with affected Indigenous Peoples?
+  If yes, then did the Regional unit responsible for
+  safeguards or Sector Manager review the plan?
+  If the whole project is designed to benefit IP, has the
+  design been reviewed and approved by the Regional
+  Social Development Unit?
+  OP/BP 4.12 - Involuntary Resettlement
+  Has a resettlement plan/abbreviated plan/policy              Yes [ ]   No [ ]   NIA [X]
+  framework/process framework (as appropriate) been
+  prepared?
+  If yes, then did the Regional unit responsible for
+  safeguards or Sector Manager review and approve the
+  plan/policy framework/process framework?
+  OP!BP 4.36- Forests
+  Has the sector-wide analysis of policy and institutional     Yes [ ]   No [ ]   NIA [X ]
+   issues and constraints been carried out?
+   Does the project design include satisfactory measures to
+   overcome these constraints?
+   Does the project finance commercial harvesting, and if
+   so, does it include provisions for certification system?
+   OP/BP 4.37 - Safetv of Dams
+   Have dam safety plans been prepared?                        Yes [ ]   No [ l   NIA [ x]
+Have the TORs as well as composition for the
+independent Panel of Experts (POE) been reviewed and
+approved by the Bank?
+Has an Emergency Preparedness Plan (EPP) been
+prepared and arrangements been made for public
+awareness and training?
+OP/BP 7.50- Projects on International Watcrnrays
+Have the other riparians been notified of the project?       Yes f ]   No [ ]   NIA [X]
+If the project falls under one of the exceptions to the
+notification requirement, has this been cleared with the
+Legal Department, and the memo to the RVP prepared
+and sent?
+What are the reasons for the exception? Please explain:
+Has the RVP approved such an exception?
+OPJBP 7.60- Projects in Disputed Areas
+Has the memo conveying all pertinent infonnation on the      Yes [ ]   No [ ]   N/A [X]
+international aspects of the project, including the
+procedures to be followed, and the recommendations for
+dealing with the issue, been prepared
+Does the PAD/MOP include the standard disclaimer
+referred to in the OP?
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to      Yes [ ]   No [ ]   N!A [X]
+the World Bank's Infoshop?
+Have relevant documents been disclosed in-country in a
+public place in a fonn and language that are
+understandable and accessible to project-affected groups
+and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional   Yes [ ]   No [ ]   NIA [ X]
+responsibilities been prepared for the implementation of
+measures related to safeguard policies?
+Have costs related to safeguard policy measures been
+included in the project cost?
+Does the Monitoring and Evaluation system of the
+project include the monitoring of safeguard impacts and
+measures related to safeguard policies?
+ Have satisfactory implementation arrangements been
+ agreed with the borrower and the same been adequately
+ reflected in the project legal documents?
+D. Approvals
+
+ Signed and submitted by:                                      Name                                   Date
+ Task Team Leader:                   Cornelia Mihaela Tesliuc                                      February 10,
+                                     ' : ~.' i i .''   ,.:·                                           2014
+                                          '
+ Environmental Specialist:
+
+ Social Development Specialist
+
+ Additional Environmental and/or
+ Social Development Specialist(s):
+
+ Approved bv:
+ Regional Safeguards Coordinator:    Alexand~~ezeredi                 ifattnel<R, <       _.N_   V 2./zi/JL)
+   Comments:                                                                          v    "
+ Acting Sector Manager:              Manuel Salazar '1 1.          J' \\
+                                                              I C'l·''--
+                                                                         ~
+                                                                          \' \   'h.__
+                                                                                                   February 20,
+                                                                                                      2014
+   Comments:
+

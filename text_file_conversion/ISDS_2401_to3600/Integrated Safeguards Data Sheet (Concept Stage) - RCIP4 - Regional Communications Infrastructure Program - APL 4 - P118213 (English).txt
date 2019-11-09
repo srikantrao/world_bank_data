@@ -1,0 +1,274 @@
+﻿                                                                  INTEGRATED SAFEGUARDS DATA SHEET
+                                                                           CONCEPT STAGE
+                                                                                                                                          Report No.: ISDSC439
+Public Disclosure Copy
+
+
+
+
+                         Date ISDS Prepared/Updated: 01-Mar-2012
+
+                         I.   BASIC INFORMATION
+                              A. Basic Project Data
+
+                              Country:                       Africa                                 Project ID:                      P118213
+                              Project Name:                  RCIP4 - Regional Communications Infrastructure Program - APL 4 (P118213)
+                              Task Team Leader:              Maria Isabel A. S. Neto
+                              Estimated Appraisal Date: 20-Aug-2012                                 Estimated Board Date:            25-Oct-2012
+                              Managing Unit:                 TWICT                                  Lending Instrument:              Adaptable Program Loan
+                              Sector:                        Telecommunications (60%), Information technology (30%), Public administration- Information and communications
+                                                             (10%)
+                              Theme:                         Infrastructure services for private sector development (60%), Administrative and civil service reform (20%), Rural
+                                                             services and infr astructure (10%), Regulation and competition policy (10%)
+                              Financing (In USD Million)
+                                  Financing Source                                                                                                     Amount
+                                  BORROWER/RECIPIENT                                                                                                        0.00
+                                  International Development Association (IDA)                                                                             70.00
+                                  IDA Grant                                                                                                               22.00
+                                  Total                                                                                                                   92.00
+                              Environmental Category:        B - Partial Assessment
+                              Is this a Repeater project? No
+
+                              B. Project Objectives
+
+                              The development objectives of the proposed project are consistent with the PDO of the RCIP Program. The development objectives of the
+                              proposed RCIP 4 are to support the Recipient’s efforts to: (i) lower prices for international capacity and extend the geographicreach of broadband
+Public Disclosure Copy
+
+
+
+
+                              networks (the connectivity development objective); and (ii) improve the Government’s efficiency and transparency through e-Government
+                              applications (the transparency development objective).
+
+                              C. Project Description
+
+                              This is the fourth horizontal phase of the Regional Communications Infrastructure Program (RCIP) that was approved on March 29, 2007. RCIP is
+                              focused on closing the terrestrial connectivity gap by linking the capitals and major cities in East & Southern Africa (E&SA). Each project under
+                              RCIP complements the submarine cable projects in the region by accelerating national infrastructure roll-out and facilitate uptake of services
+                              through e-Government initiatives. To maximize flexibility and client responsiveness in this multi-country effort, RCIP has been designed as a
+                              customizable menu of options from which individual governments can choose from and adapt to their unique circumstances. The menu of activities
+                              is categorized under three overarching components: (a) enabling environment including monitoring and evaluation; (b) connectivity; and (c) e-
+                              Government applications.
+
+                              Closing the terrestrial connectivity gap under RCIP requires the combination of two key interventions: (i) investment support based on public-
+                              private partnership as feasibility studies have shown that some segments of the infrastructure network would not be fully commercially viable on a
+                              strictly private sector financing model and require demand-enhancing initiatives (e.g., e-Government applications); and (ii) policy and regulatory
+                              support to ensure that once in place, the infrastructure is accessible to all service providers on open, transparent and non-discriminatory terms.
+
+                              The recent development of submarine fiber optic cables connecting E&SA to the global communications networks ended the reliance of E&SA on
+                              expensive and relatively low-quality satellite connections for international Internet bandwidth with SEACOM, TEAMS, and EASSy submarine cable
+                              projects now operational. RCIP was designed to complement these new investments to ensure that terrestrial backbone infrastructure is in place to
+                              take advantage of the submarine cables landing on the east coast of Africa. The implementation of RCIP 4 would better integrate Uganda and
+                              Comoros within the region, allowing increase in regional trade as well as becoming more competitive internationally. Enhanced regional
+                              connectivity would also provide Uganda and Comoros diversity of access to onward international connectivity on submarine cables improving
+                              reliability. RCIP is designed to complement and benefit from other regional ICT activities that the World Bank Group is involved with including the
+                              Eastern Africa Submarine System (EASSy), Central African Backbone (CAB), and West Africa Regional Communications Infrastructure Program
+                              (WARCIP).
+
+                              The proposed RCIP 4 project would include two country operations – RCIP Uganda and RCIP Comoros.
+
+                              The proposed RCIP Uganda IDA credit would be for US$70 million over a period of five years, of which US$27 million would come from the
+                              Regional IDA allocation. Discussions have been initiated for financing of related activities with the African Development Bank, the Islamic
+                         Development Bank, and the Government of Korea should additional funding be required.
+                         The proposed RCIP Comoros IDA grant would be for US$22 million over a period of five years, of which US$21 million would come from the
+                         Regional IDA allocation (pending confirmation of the annual national IDA allocation for Comoros in the project approval year).
+
+                         The proposed RCIP 4 project would consist of the following four components:
+
+                         Component 1 - Enabling Environment. This component aims to promote further regional market integration, sector liberalization, and legal and
+Public Disclosure Copy
+
+
+
+
+                         regulatory reforms, and would include subcomponents focused on technical assistance (TA), capacity building, and training.
+
+                         Under RCIP Uganda, this component (US5 million) would provide support for capacity building in order to strengthen the policy and regulatory
+                         environment and promote further sector reform in order to maximize benefits from access to international capacity. The potential areas to be
+                         financed include ICT policy, legal and regulatory framework including e-legislation, IT skills development, training, etc. This component wo uld also
+                         finance TA necessary to support the successful implementation of the operation including environmental studies and providing support for
+                         monitoring and evaluation (M&E).
+
+                         Under RCIP Comoros, this component (US$3 million) would provide the Ministry of Transportation, Post & Telecommunications, Communication &
+                         Tourism, and independent regulator, Autorité Nationale de Régulation des TIC (ANRTIC), with support through TA and capacity building for (i)
+                         modernizing and harmonizing the legal and regulatory framework, including preparation of legal instruments for facilitating open access to cable
+                         infrastructure; (ii) support for sector reform and establishing PPP (private-public partnership) arrangements for access to the submarine cable,
+                         namely through hiring legal and business advisors to advise the government on negotiations with private operators, and by financing technical and
+                         financial audits of the structure to be established during the first years of operation; (iii) technical assistance, as needed, to support the planned
+                         transactions for the sector (introduction of competition and privatization of Comoros telecom); and (iv) performing environmental and social studies
+                         and providing support for participatory M&E.
+
+                         Component 2 - Connectivity. This component aims to (a) support the deployment of regional connectivity; (b) purchase bandwidth capacity for
+                         targeted users (schools, universities, hospitals, eGovernment use); (c) deployment of the national backbones, on the basis of PPPs, leveraging
+                         private sector investment; (d) support the establishment of government virtual private networks and to cater to all the government communications
+                         needs (both data and voice/video); (e) support to extend ICT in rural areas and/or community-driven ICT development on the basis of PPPs with
+                         competitive award of subsidies; and (f) support for country-specific innovative demand-stimulation programs.
+
+                         Under RCIP Uganda, this component (US$30 million) would support ICT infrastructure connectivity in Uganda through the following
+                         subcomponents: (i) pre-purchase of international bandwidth for priority targeted user groups (US$6 million); (ii) implementation of missing links to
+                         improve availability and resiliency of NBI (US$12 million); (iii) implementation of alternative route to submarine cables for Internet bandwidth
+                         through Mutukula (US$2 million); and (iv) provision of last mile broadband solutions for connecting Government MDAs, schools, hospitals, NGOs,
+                         and businesses using PPP arrangements (US$10 million). This component would also cover implementation of recommendations stemming from
+                         the relevant environmental studies.
+
+                         Under RCIP Comoros, this component (US$18 million) would include (i) TA to conduct a feasibility study for the submarine cable to connect
+                         Grande Comore to Mayotte; (ii) financing of the aforementioned Comoros-Mayotte connectivity; (iii) and financing of purchasing additional capacity
+                         from EASSy and/or LION2.
+
+                         Component 3 - eGovernment Applications. eGovernment applications apply the judicious use of ICT to enable governments to improve their
+Public Disclosure Copy
+
+
+
+
+                         internal systems, deliver services more efficiently and effectively, and make information more accessible to citizens. This component will support
+                         selected major government services which would be candidates for transition to eGovernment through the use of technology, business process re-
+                         engineering to streamline processes, and change management to ensure acceptance of the new methods of working. The applications will be
+                         prioritized as follows: (a) activities which will have the greatest impact in terms of transparency and accountability; (b) services where there is a
+                         change champion who could help promote adoption from within government; (c) possibility of private sector participation to enhance drive for
+                         results, efficiency, and economies of scale; and (d) high potential for success with implementation and payback within a few years, hence the
+                         possibility for quick wins.
+
+                         Under RCIP Uganda this component (US$30 million) would support the development of e-Government in Uganda through the following
+                         subcomponents: (i) development and implementation of the national databank as a identification source for all Ugandans with respect to e-
+                         Government services (US$8 million); (ii) development and implementation of shared ICT services platform (Government “cloud�?) for hosting all
+                         existing and future e-Government applications (US$10 million); (iii) development and implementation of Public Key Infrastructure (PKI) (US$4
+                         million); (iv) implementation of e-Government applications and support services to be identified by the e-Government readiness survey (US$4
+                         million); and (v) activities to support Business Process Outsourcing (BPO)/IT Enabled Services (ITES) including incubation, training, studies, and
+                         promotion (US$4 million). In addition, this component would also finance TA on e-Government related issues including interoperability, enterprise
+                         architecture, and privacy and data protection safeguards.
+
+                         While RCIP includes the possibility of e-Government related components, given that addressing the sector issues is a priority for Comoros, the
+                         Government of Comoros and World Bank team have decided that the proposed project would focus on the connectivity elements only for
+                         Comoros, and would not include financing for e-Government applications for this country.
+
+                         Component 4 - Project Management: This component would consist of support to finance project management related issues including project
+                         coordination, procurement, financial management, monitoring & evaluation, project communication, and environmental and social safeguards. This
+                         component would also provide support through office equipment, incremental operating costs, and audits. Under RCIP Uganda and Comoros the
+                         estimated amounts for this component is US$5 million and US$1 million, respectively.
+
+                         A Social and Environmental Focal Point (SEFP) for each country would be identified to help ensure appropriate and timely implementation of social
+                         and environmental aspects of RCIP4. These SEFPs would be the primary counterparts of the project Social and Environmental Safeguards
+                         Specialists on the World Bank side who will provide them with the necessary induction on World Bank Operational Safeguards policies to ensure
+                         compliance throughout project implementation.
+                            D. Project location and salient physical characteristics relevant to the safeguard analysis (if known)
+
+                           National level: rural and urban areas in Comoros.
+
+                           In Uganda, project locations would be concentrated in and around Kampala City and other major urban and periurban areas in Uganda, border
+                           post of Mukulula, and transit corridors for the fiber-optic network. The exact routing of the network and auxiliary infrastructure (e.g., antennae,
+                           masts, etc.) would be determined during project feasibility studies during implementation.
+Public Disclosure Copy
+
+
+
+
+                            E. Borrowers Institutional Capacity for Safeguard Policies
+
+                           In Comoros, the Borrower has generally weak capacity on the management and understanding of the environmental and social safeguard aspects
+                           of projects. The Ministry of Transportation, Post & Telecommunications, Communication and Tourism would be supported throughthe Project
+                           Preparation Advance and its capacity will be strengthened throughout the life of the project.
+
+                           In Uganda, the Borrower has abundant experience with linear infrastructure and telecommunication infrastructure projects, including World Bank
+                           financed. The Borrower also has an established national EIA system that would be used to ensure environmental due diligence. The National
+                           Information Technology Authority – Uganda would be the implementing agency and would prepare environmental due diligence documents by
+                           engaging a consultant from an existing roster of registered environmental practitioners and would obtain approval by the National Environmental
+                           Management Authority before proceeding with civil works.
+
+                           As required by the screening and triggering of the safeguards policies (OP/BP 4.01 and 4.12), the recipient governments will prepare
+                           Environmental and Social Management Frameworks (ESMF) and Resettlement Policy Frameworks (RPF) conforming to World Bank requirements.
+                           Consultants might be hired to conduct the project environmental and social assessment and elaborate both safeguards instruments commensurate
+                           to the magnitude of foreseen project impacts. These assessments would also advise on the capacity building needs and the institutional
+                           arrangement to be adopted by the Borrowers to ensure implementation of environmental and social recommendations. Once completed, both
+                           ESMF and RPF will be reviewed and cleared by ASPEN then publicly disclosed (i) in Uganda and Comoros, preferably on project sites, preferably
+                           with the executive summaries in a language understandable by affected communities and all other key interest groups, and (ii) at InfoShop prior to
+                           appraisal.
+
+                            F. Environmental and Social Safeguards Specialists on the Team
+
+                           Martin Fodor (AFTEN)
+                           Cheikh A. T. Sagna (AFTCS)
+                           Paul-Jean Feno (AFTEN)
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+
+                            Safeguard Policies                               Triggered?        Explanation (Optional)
+                            Environmental Assessment OP/BP 4.01              Yes                 RCIP 4 is assigned to social and environmental category B due to site specific
+                                                                                               and easily manageable risks. There would be localized potential environmental
+                                                                                               and social impacts associated with the infrastructure components of the project,
+Public Disclosure Copy
+
+
+
+
+                                                                                               particularly associated with: (i) the linear excavations for burying fiber-optic cable
+                                                                                               (alternatively overhead stringing of the cable) and civil works associated with
+                                                                                               building of national terrestrial backbones, rollout of rural networks, and of the
+                                                                                               landing stations, and (ii) in Comoros, temporary perturbation of marine
+                                                                                               ecosystem during the civil works of submarine cable. The borrowing countries
+                                                                                               will prepare ESMFs that would set forth the basic principles and prerogative to
+                                                                                               be followed during project implementation. Once completed, the ESMFs will be
+                                                                                               reviewed and cleared by the Bank and then publicly disclosed both in-country
+                                                                                               and at InfoShop prior to appraisal.
+                            Natural Habitats OP/BP 4.04                      No
+
+                            Forests OP/BP 4.36                               No
+
+                            Pest Management OP 4.09                          No
+
+                            Physical Cultural Resources OP/BP 4.11           No
+
+                            Indigenous Peoples OP/BP 4.10                    No
+
+                            Involuntary Resettlement OP/BP 4.12              Yes                 The activities proposed to be funded under RCIP4 could involve land
+                                                                                               acquisition for or loss of access (even temporarily) to some socioeconomic
+                                                                                               assets during the construction of telecommunications infrastructure such as
+                                                                                               ducts for laying fibers optic networks or access roads, however, whenever
+                                                                                               possible, the linear infrastructure would be placed in the existing, unencumbered
+                                                                                               rights of way (road reserves, railway reserves, etc.). To comply with OP/BP 4.12
+                                                                                               policy requirements, borrowers will prepare RPFs that sets forth the basic
+                                                                                               principles and prerogative to be followed during project implementation. Like the
+                                                                                                                        ESMFs, once cleared, the RPFs will be publicly disclosed both in-country and at
+                                                                                                                        InfoShop prior to appraisal.
+                                Safety of Dams OP/BP 4.37                                          No
+
+                                Projects on International Waterways OP/BP                          No
+                                7.50
+Public Disclosure Copy
+
+
+
+
+                                Projects in Disputed Areas OP/BP 7.60                              No
+
+
+
+                         III. SAFEGUARD PREPARATION PLAN
+
+                               A. Tentative target date for preparing the PAD Stage ISDS: 30-Jun-2012
+                               B. Time frame for launching and completing the safeguard-related studies that may be needed. The specific studies and their timing1
+                                  should be specified in the PAD-stage ISDS:
+                                    As the detailed physical location of facilities or/and infrastructures to be financed are still unknown and would be determined only during
+                                    implementation through feasibility studies, the Borrowers are tasked with preparing the required social and environmental safeguards
+                                    instruments, namely the ESMFs and RPFs. These will set forth the principles and guidelines borrowers must follow to comply with the
+                                    requirements of the triggered policies. To the extent possible, the ESMFs and RPFs would draw on existing frameworks prepared and
+                                    implemented for similar types of infrastructure. These documents will be reviewed, cleared and disclosed at publicly accessible locations and
+                                    in a form and language that are accessible to potentially affected persons (i) in-country, and (ii) at InfoShop prior to appraisal.
+
+                                    World Bank staff would help the Borrower with detailed guidance on the preparation of these environmental and social safeguard instruments
+                                    and would conduct close supervision.
+
+                         IV. APPROVALS
+                                Task Team Leader:                                Name: Maria Isabel A. S. Neto
+                                Approved By:
+                                Regional Safeguards Coordinator:                 Name: Alexandra C. Bezeredi (RSA)                                                                     Date: 01-Mar-2012
+                                Sector Manager:                                  Name: Doyle Gallegos (SM)                                                                             Date: 13-Feb-2012
+Public Disclosure Copy
+
+
+
+
+                         1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+                          form and language that are accessible to potentially affected persons.
+

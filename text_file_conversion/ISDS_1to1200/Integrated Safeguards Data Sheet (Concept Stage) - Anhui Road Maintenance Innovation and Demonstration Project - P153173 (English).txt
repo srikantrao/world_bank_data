@@ -1,0 +1,292 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+CONCEPT STAGE
+Report No.: ISDSC13230
+Date ISDS Prepared/Updated: 13-Jul-2015
+Date ISDS Approved/Disclosed: 14-Jul-2015
+I. BASIC INFORMATION
+A. Basic Project Data
+Country:         China                      Project ID:   P153173
+Project Name:    Anhui Road Maintenance Innovation and Demonstration Project (P153173)
+Task Team        Jens Christian Helbech Hede
+Leader(s):
+Estimated        04-Apr-2016                Estimated     01-Sep-2016
+Appraisal Date:                             Board Date:
+Managing Unit: GTIO2                        Lending       Investment Project Financing
+Instrument:
+Sector(s):       Rural and Inter-Urban Roads and Highways (70%), Information technology
+(15%), Sub-national government administration (15%)
+Theme(s):        Other public sector governance (100%)
+Financing (In USD Million)
+Total Project Cost:     380.00             Total Bank Financing:   150.00
+Financing Gap:            0.00
+Financing Source                                               Amount
+Borrower                                                        230.00
+International Bank for Reconstruction and Development           150.00
+0          Total                                                          380.00
+Environmental B - Partial Assessment
+Category:
+Is this a        No
+Repeater
+project?
+B. Project Objectives
+The Project Development Objective (PDO) is to improve road highway asset management capacity
+and road service delivery in the participating municipalities and county in Anhui Province.
+C. Project Description
+The project is designed to address some of the principal challenges of road asset management in
+Anhui. The main focus of the project will be on supporting: (i) better network knowledge (data),
+
+
+﻿improved capacity for analysis (systems), and their adoption for better decision-making through
+reforms; (ii) better value-for-money of maintenance allocations through new maintenance
+technologies focusing on preventive maintenance and new contracting models to increase efficiency
+through the involvement of the private sector; and (iii) better response to emergencies, which affect
+O
+Q)      road usage. The project will hence focus on improvements in maintenance planning as well as on
+delivery.
+The project will introduce two new features in road maintenance in Anhui: (i) large scale PBC
+through private sector participation; and (ii) preventive maintenance techniques currently not used in
+Anhui. The project will also serve as a demonstration for these innovations, which if successful, can
+be replicated in other provinces.
+Anhui has proposed that five pilot municipalities and one county will participate in the project
+(Hefei, Chuzhou, Suzhou, Anqing and Xuancheng Municipalities, and Guangde County). The pilot
+municipalities and county have been selected by Anhui Province based on criteria discussed with the
+Bank, and represent a geographic spread, socio-economic development levels, levels of poverty, road
+network conditions and road maintenance financing levels. These selections will be reviewed during
+project preparation, taking into account, inter alia, implementation capacity, fiscal capacity and the
+suitability of the road networks.
+In support of the achievement of the PDO and to support Anhui's highway maintenance development
+plan, the proposed project will comprise the following components.
+Component A - Road Asset Management System Upgrade. In response to the need for better and
+more efficient road asset management, this component will provide technical assistance, equipment,
+and software for the integration, optimization, and upgrade of the current road asset management
+information systems of Anhui, as well as introduction of relevant new modules and systems, e.g.
+condition monitoring on roads, bridges and tunnels; analysis of needs for maintenance and
+rehabilitation; prioritization of needs under budget constraints; and maintenance cost accounting.
+o
+Understanding that the developed and implemented technologies will only make an impact if
+institutionalized and embedded into the actual decision-making processes, this component will also
+include necessary activities to reform and enhance business processes to make full use of the asset
+a       management technologies. Project preparation will include analysis of and decisions regarding
+sustainable funding mechanisms and approaches to data collection (e.g., data collation in-house or
+keep it outsourced as today), systems operation and management (e.g. system upgrades and software
+licenses) as well as maintaining needed capabilities (e.g. replacement training). Taking into account
+the current implemented decentralized structure, the reforms will address revised roles and
+responsibilities as well as the re-engineered business processes, where system outputs will be used in
+decision-making. It will also examine opportunities to enhance the benefits of having up-to-date data
+and improved analytical capabilities in information dissemination, for instance through annual
+reports.
+Component B - Road Maintenance Marketization. In response to the needs for restructuring the
+organization of maintenance and rehabilitation works in the sector, this component will provide
+financing for the civil works under the marketization of road maintenance and rehabilitation for
+about 1,100 km of roads for minor, medium and major works. It is a PCN stage estimate that medium
+and major works would amount to about 800 km of national and provincial roads over the contract
+period.
+
+
+﻿Minor maintenance includes routine maintenance (pavement surface cleaning, snow cleaning, grass
+cutting, drainage cleaning, slope erosion protection, pothole patching etc.) and patching of smaller
+areas. Medium maintenance includes renewal of pavement surface by overlaying or by replacing the
+O
+existing wearing course. Major maintenance includes pavement reconstruction or rehabilitation. The
+project is not expected to include new roads, nor road widening.
+The private sector is expected to be a key driver in this restructuring, with enhanced private sector
+involvement in asset management (primarily in maintenance programming and application), and will
+be the vehicle for achieving improved efficiency and secure sustainable funding levels.
+Marketization will be implemented through PBC to the private sector where the contract holders will
+be required to plan and fund their work to meet defined road standards, and will be paid in
+installments linked to meeting these service standards. Contract periods are envisaged to be between
+3 to 10 years, and that about 200 km of roads will be packaged into each contract package using
+Output and Performance Based Contracts (OPRC) types of private engagements.
+Based on lessons learned from the previous project, this component will need to be carefully
+designed to: (i) offer work packages that will be of interest to private firms, as well as (ii) address
+internal resistance to marketization, especially resistance linked to staff losing their current jobs.
+The key for developing attractive work packages includes a suitable combination of roads (condition
+and length) and work types and contract length (which will support efficient use of the contractor's
+equipment and staff). Works packages will thus include a range of maintenance activities (minor,
+medium, and major works) and the contract duration will be suitable for efficient deployment of the
+contractor's equipment and staff. During project preparation the Anhui Province, with assistance
+from the Bank, will reach out to the industry to get a better feel for their preferences.
+Anhui has indicated that staff affected by the marketization will either be relocated to other road
+sections currently in need of staff or will be reassigned to the emergency centers to be established
+under the Project. This is expected to significantly reduce the likely internal resistance. The
+possibility of transferring current in-house staff to the contractors under certain conditions and
+obligations may also be considered during project preparation. Finally the project timing will benefit
+a       from being aligned with the Five Year Plan cycle (the 13th FYP will cover 2016-2020); this will
+make it easier to handle multi-year contracts, especially if the 5 year contract option is selected.
+A key feature of the design of this component is to bring international experience to Anhui and
+modify it to the specific context of China in general, and Anhui in particular.
+Component C - Innovative Preventive Maintenance Technology. This component will finance the
+application of innovative preventive maintenance technologies (medium maintenance) on about 640
+km of national and provincial roads (not the road sections under PBC). Technologies envisaged
+include pavement surface recycling, micro-surfacing, and slurry seal. Technologies to be applied will
+be analyzed during project preparation, and will take into account technologies already applied
+elsewhere in China as well as new external technologies relevant to the road types and climate in
+Anhui. This component will also include the manuals and technical specifications needed to support
+the application of the new technologies into the maintenance works portfolio.
+Component D - Establishment of New Road Emergency Response System. This component will
+
+
+﻿finance the development of maintenance emergency response centers (both upgrading of current
+facilities and new construction) in the participating municipalities/county (one in each), and equip the
+centers with advanced maintenance emergency response facilities and equipment. The centers will
+provide storage for equipment, and will include a maintenance workshop and office space.
+O
+)       Emergency response capabilities are part of national regulations, and this component will pilot
+improvements towards meeting these regulations. The component will also strengthen the
+institutional system of operation, in order to fully benefit from improved capacity and will look into
+possibilities of enhancing Disaster Risk Management (DRM).
+Component E - Institutional Capacity Building. This component will finance strategic studies and
+technical assistance (including international technical assistance) activities aimed at improving local
+capacities for planning and operating and maintaining road assets in Anhui. It will also support
+international and domestic study tours for relevant staff as well as relevant training. It is envisaged
+that study tours will focus on international and domestic best practices in asset management systems,
+asset evaluation, financial management, maintenance contracting, and maintenance technologies.
+Activities, including possible support to Project Management, and studies under this component will
+be developed during project preparation.
+Project Costs and Financing
+The total project cost is estimated at RMB 2.28 billion (US$ 380 million) of which US$ 150 million
+will be financed by the proposed IBRD loan and the remaining US$ 230 million will come from
+counterpart funds. Component A is currently budgeted at RMB 6 million (US$ 1 million of which
+US$ 800,000 is proposed as IBRD loan); Component B and C are together budgeted at RMB 2.20
+billion (US$ 366 million, of which US$ 140 Million is proposed from IBRD); Component D is
+estimated at RMB 75.7 million (US$ 12.6 million of which US$ 8.3 million is proposed from IBRD);
+and Component E is estimated at RMB 3 million (US$500,000, all proposed from IBRD). The
+distribution of project costs and loan allocation within the overall ceiling will be determined during
+project preparation.
+O
+U       D. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+O
+The proposed project is located in Anhui Province, an inland province in central China. The physical
+activities of the proposed project are the road maintenance works on the existing roads (component B
+and C) and construction of road maintenance emergency response centers in six cities in Anhui
+(component D). The specific roads and locations for maintenance will be selected during the project
+preparation and implementation based on actual road quality and maintenance needs. Suitable
+locations for the emergency centers will also be selected based on further analysis during project
+implementation.
+E. Borrowers Institutional Capacity for Safeguard Policies
+The Anhui PMO (i.e. Foreign Capital Utilization Office and Anhui Highway Administration Bureau)
+is very experienced in the application of World Bank safeguards policies given that they have
+successfully implemented four World Bank transport projects in the past decade. An experienced EA
+consultant will be engaged for safeguards documents preparation, and the Bank safeguards
+specialists will provide guidance and supervision on the project preparation and implementation.
+F. Environmental and Social Safeguards Specialists on the Team
+Peishen Wang (GENO2)
+
+
+﻿Zhefu Liu (GSURR)
+II. SAFEGUARD POLICIES THAT MIGHT APPLY
+Safeguard Policies           Triggered? Explanation (Optional)
+Environmental Assessment     Yes         The project will include physical activities of road
+OP/BP 4.01                               maintenance and construction of emergency response
+centers in participating municipalities of Anhui
+Province. The road maintenance will include typical
+activities such as minor repairing of potholes, road
+surface overlays and pavement rehabilitation. The
+emergency response centers are storage warehouses
+for emergency response equipment, vehicles and
+materials standing by for emergent road repair needs.
+It is envisaged that the main environmental and
+social impacts of the road maintenance works will be
+construction related impacts, such as disturbance of
+road traffic, nuisance of dust and noise/vibration,
+management of wastes, worker and community
+safety, and impact on existing green belt etc. All
+maintenance works will be conducted on existing
+roads and within the existing right-of-way, and
+maintenance materials (e.g. aggregate, sand, cement,
+asphalt etc.) are to be purchased from market
+suppliers, so there will not be new quarry sites or
+borrow pits involved. Therefore, the environmental
+and social impacts will be site-specific, temporary in
+nature, and can be readily managed with known
+mitigation measures and good construction
+management practice. Therefore, the project is
+proposed to be a Category B project as per OP4.01.
+Since not all the roads for maintenance may be
+identified during the project preparation stage, an
+environmental safeguards framework approach will
+be used for the environmental assessment. An
+Environmental Management Framework will be
+prepared, which will address the potential
+environmental and social impacts related to project
+activities, safeguards screening process for future
+roads maintenance, and include a set of generic
+Environmental Code of Practice (ECOPs). The
+ECOPs will be developed as a standard
+environmental manual for all the road maintenance
+activities, which will be incorporated into bidding
+documents and contracts with contractors. For the
+road maintenance identified during the preparation
+
+
+﻿for the first year of implementation, an EIA/EMP
+will be prepared to address road-specific
+environmental and social impacts.
+A key social issues will be the relocation of the in-
+house workers who are currently undertaking minor
+maintenance, but who will need to be relocated to
+other job locations or positions, as their current
+duties will be outsourced under the marketization.
+The EIA and EMP under this OP4.01 will include a
+robust analysis of the social impacts of this, not only
+for those directly impacted by the project, but also
+beyond the project scope, should Anhui decide later
+to rollout the marketization to the entire road
+network.
+Natural Habitats OP/BP 4.04  No           The road selected for maintenance will not involve
+natural habitats. All maintenance works will be
+conducted on existing roads and within the existing
+right-of-way, and maintenance materials are to be
+purchased from market suppliers, so there will not be
+new quarry sites or borrow pits involved. Therefore,
+this policy is not triggered.
+Forests OP/BP 4.36          No           The road maintenance works within the right-of-way
+on the existing roads will not have impacts on
+forests; therefore this policy is not triggered.
+Pest Management OP 4.09     No           The project will not involve procurement of pesticide
+or have any impact on pest management practice.
+This policy is not triggered.
+0
+Physical Cultural Resources  No          As all the road maintenance works will be within the
+OP/BP 4.11                               right-of-way on the existing roads, there are no
+physical cultural resources involved. Nevertheless,
+the chance-find procedures will be included in the
+EMF (ECOPs).
+Indigenous Peoples OP/BP     TBD         As it is not known at this stage if indigenous people/
+4.10                                     ethnic minorities are present in the project influence
+area, triggering of OP 4.10 is To Be Decided.
+Involuntary Resettlement OP/  Yes        The project will not require collective land and
+BP 4.12                                  housing demolition, and the road maintenances will
+be implemented within the right-of-way of the
+existing highways in the participating municipalities.
+In case there are any project modifications causing
+land acquisition and resettlement relocation prior to
+the Closing day of the Bank loan, resettlement policy
+framework is requested to guide the project
+modification. As the result, OP 4.12 was triggered.
+
+
+﻿Safety of Dams OP/BP 4.37      No            The project will not involve any dams; therefore, the
+policy is not triggered.
+Projects on International      No            The project will not involve any international
+Waterways OP/BP 7.50                         waterways. Therefore, the policy is not triggered.
+Projects in Disputed Areas OP/ No            The project will not involve any disputed areas.
+O
+BP 7.60                                      Therefore, the policy is not triggered.
+III. SAFEGUARD PREPARATION PLAN
+A. Tentative target date for preparing the PAD Stage ISDS: 11-Jan-2016
+B. Time frame for launching and completing the safeguard-related studies that may be needed.
+The specific studies and their timingi should be specified in the PAD-stage ISDS:
+Environmental Management Framework - October, 2015.
+Social impact analysis - October, 2015.
+IV. APPROVALS
+Task Team Leader(s): Name: Jens Christian Helbech Hede
+Approved By:
+Safeguards Advisor:      Name: Josefo Tuyor (SA)                           Date: 13-Jul-2015
+Practice Manager/        Name: Michel Kerf (PMGR)                           Date: 14-Jul-2015
+Manager:
+1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+form and language that are accessible to potentially affected persons.
+
+

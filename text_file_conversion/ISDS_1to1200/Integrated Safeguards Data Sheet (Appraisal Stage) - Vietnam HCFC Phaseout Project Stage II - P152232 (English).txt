@@ -1,0 +1,554 @@
+                                INTEGRATED SAFEGUARDS DATA SHEET
+                                                 APPRAISAL STAGE
+.
+
+
+
+
+                                                                                           Report No.:ISDSA20473
+Date ISDSPrepared/Updated:                  11-Jan-2018
+Date ISDS Approved/Disclosed                11-Jan-2018
+I. BASIC INFORMATION
+    1. Basic Project Data
+    Country:                           Vietnam                      Project ID:              P152232
+    Project Name:                      Vietnam HCFC Phaseout Project Stage II (P152232)
+    Task Team Leader(s):               Qing Wang,Katelijn Van den Berg
+    Estimated Appraisal                27-Dec-2017                  Estimated Board          15-Mar-2018
+    Date:                                                           Date:
+    Managing Unit:                     GEN2B                        Financing                Investment Project
+                                                                    Instrument:              Financing
+    Is this project processed under OP 8.50 (Emergency                    Recovery) or OP             No
+    8.00(Rapid Response to Crises and         Emergencies)?
+                                                Financing (In USD Million)
+    Total Project Cost:           14.64                          Total Bank Financing: 0.00
+    Financing Gap:                0.00
+      Financing Source                                                                                         Amount
+    Borrower                                                                                                       0.00
+    Montreal Protocol Investment Fund                                                                             14.64
+    Financing Gap                                                                                                  0.00
+    Total                                                                                                         14.64
+    Environmental Category:            B - Partial Assessment
+    Is this a Repeater project?        No
+
+    2. Project Development Objective(s)
+    The project development objective is to reduce HCFC consumption in order to assist Vietnam meet its HCFC
+    phase-out obligations under the Montreal Protocol, and to reduce greenhouse gas emissions arising from the
+    replacement of these HCFCs.
+    3. Project Description
+    The Stage II project is a continuation of the ongoing Stage I project and the project duration is expected to be
+    from 2017 to 2022. The project consists of three proposed components described below.
+
+    Component 1: HCFC Consumption Reduction (US$ 13.56 million)
+
+
+
+                                                     Page 1 of 11
+AC manufacturing and servicing sector. The project will finance incremental capital costs (ICC) needed for
+converting to non-HCFC based AC production including procurement of new production equipment,
+performance testing of new AC models, and technician training for installation and servicing, and incremental
+operating cost (IOC) based on MLF financing guidelines at four enterprises (consuming a total 175 MT of
+HCFC-22 in 2014). After conversion at the four enterprises, no HCFC-22 will be used for AC production in the
+entire sector, i.e. 251 MT of HCFC-22 will be completely phased out. The approved funding is US$2.18 million.
+The lower GWP alternatives to HCFC-22 in the AC sector are HFC-32 with a GWP 675 or R-290 with a GWP
+of 5, however both are flammable which will require special safety precautions and investments.
+
+Due to its classification as an A2L refrigerant, mildly flammable refrigerant, HFC-32 requires that certain
+measures be put into place before its wider use in Vietnam, including in manufacturing. TA will be needed
+specifically for effective adoption of this technology. Given its recent experience in this area including related
+to HFC-32 regulation, Japan has been approved under the MLF to provide TA as the Cooperating Agency while
+drawing practical expertise from Japanese AC manufacturers through JRAIA. TA activities are proposed at a
+total cost of $233,630: development of A2L policy measures, TA to the AC manufacturers, and TA for good
+practice in installation and operation. An additional 66.3 MT in HCFC-22 phase-out is expected from the AC
+servicing and Japan TA activities.
+
+Refrigeration manufacturing sector. The project will finance conversion of priority industrial refrigeration
+systems where cost-effective and low GWP alternatives (e.g. ammonia, hydrocarbons, HFC-32, etc.) are
+available through ICC (for system, component and process redesign, new equipment, performance verification,
+and safety training) and IOC at about 34 enterprises which are eligible for MLF funding. Approved funding is
+US$3.64 million. A reduction of 303 MT will be achieved by project closing. The implementation of HCFC
+phase-out in the refrigeration sector will be phased, whereby 6-10 demonstration subprojects for applications
+including ice making units, stand-alone refrigeration units, cold storage rooms, and condensing units will be
+started at the beginning of the Stage II project. As soon as a body of experience has been accumulated, the
+knowledge will be used by experts to inform remaining companies.
+
+Refrigeration servicing sector. The project will finance the following activities in the refrigeration servicing
+sector: training and certification in good servicing and maintenance practices, provision of servicing tools to
+selected vocational training centers to enable training in the handling of alternative flammable refrigerants and
+to selected servicing shops to inform the sector on alternatives and prepare for Stage III, TA demonstration for
+10 selected industrial refrigeration end users on HCFC leakage management. The approved funding is US$1.37
+million for an HCFC-22 phase-out impact of 285.3 MT.
+
+Foam sector. The project will finance ICC needed for foam production conversion to hydrocarbon, methyl
+formate or HFO (hydrofluoroolefin) alternatives at about 44 enterprises. After completion of conversion at these
+enterprises, it will be prohibited to use HCFC-141b contained in pre-blended polyol for foam production in the
+whole sector. About 2035 MT of HCFC-141b will be completely phased out. In order to allow SMEs
+(consuming less than 20MT of HCFC-141b) to convert to non-HCFC production in a cost-effective way, the
+project will also finance upgrading of two to four system houses to be competitively selected among existing
+foam producers or chemical suppliers that have established the basic system house infrastructure. These system
+houses would supply non-HCFC pre-blended polyol to SMEs. In addition, the project will finance conversion at
+an enterprise which used HCFC-22 of 100 MT in 2014 for XPS foam production. The approved funding for
+HCFC-141b phase-out and HCFC-22 phase-out in the foam sector is US$5.52 million and US$613,568
+respectively.
+
+Implementation in the foam sector will also be phased due to the limited funding approved in contrast to the
+large amount of HCFCs used. The largest consumer of pre-blended HCFC-141b polyol systems in Vietnam is
+the insulated roofing panel manufacturing industry. This subsector is made up of primarily SMEs in real terms.
+
+
+                                                Page 2 of 11
+Therefore, four demonstration projects including establishment of system houses for the roofing subsector will
+be initiated first at the beginning of the Stage II project.
+
+Component 2: Technical Assistance and Policy Actions (US$ 406,801)
+
+This component aims to support sector-wide technology and knowledge transfer, TA and exchange of best
+practices, as well as to create a policy and market environment that will enable and sustain sector
+transformation. TA activities focusing on the AC, refrigeration and foam manufacturing sectors will include
+training workshops on subproject preparation, approval and implementation procedures and requirements,
+international and national technical consultant services for subproject appraisal and technical support for the
+PMU and enterprises, development of technical standards of alternatives, training for government officials,
+training on the safe use of alternatives, study tours on HCFC alternatives, a joint study on integrating HCFC
+phase-out and EE improvement in the industrial refrigeration manufacturing and food process sectors, and
+others as needed.
+
+On policies, this component will cover the annual HCFC import quota issuance and the development and
+issuance of sector-specific policy and regulations by project completion, including a ban on local production and
+import of HCFC-22 based ACs, and a ban on import and use of pre-blended HCFC-141b polyol in foam
+production.
+
+Component 3: Project Management (Estimated US$ 678,001)
+
+The PMU currently implementing the Stage I HCFC Phase-out Project will most likely continue with financial,
+procurement, and safeguard management as well as monitoring and reporting responsibility. This component
+will finance the PMU staff including one project coordinator, two project officers, one procurement officer, one
+accountant and one administrative officer, project launch and completion workshops, financial audits, annual
+HCFC consumption verification, public awareness activities, and incremental operating cost (of the PMU).
+4. Project location and Salient physical characteristics relevant to the safeguard analysis (if
+known)
+The project will involve HCFC conversion at about 80 enterprises in air-conditioning, refrigeration, and foam
+manufacturing sectors around the country. A long list of potential participating beneficiary enterprises in these
+sectors has been identified during project preparation. The final beneficiary enterprises will only be confirmed
+during project implementation when subproject proposals are prepared by enterprises and appraised by the
+PMU. Ammonia, HFC-32 and hydrocarbons, which are flammable materials, are the main alternatives to be
+adopted by the project. This could lead to safety issues for which proper safety equipment, measures and
+training should be put into place.
+5. Environmental and Social Safeguards Specialists on the Team
+ Ha Thi Van Nguyen, Social Safeguards Specialist
+ Quang Nhat Nguyen, Social Safeguards Specialist
+ Son Van Nguyen, Environmental Safeguards Specialist
+ Van Trung Nguyen, Social Safeguards Specialist
+6. Safeguard Policies That Might Apply
+Safeguard Policies                             Triggered?     Explanation (Optional)
+Environmental Assessment OP/BP 4.01            Yes            The project will have a positive impact on the
+                                                              global environment by reducing the use of HCFCs,
+
+
+                                                Page 3 of 11
+                                                    which are ozone-depleting substances and
+                                                    greenhouse gases with a GWP ranging from several
+                                                    hundred to several thousand times that of CO2. The
+                                                    project will contribute to about 2.9 million CO2
+                                                    tons equivalent emission reduction per year after
+                                                    completion. It will support Vietnam to meet the
+                                                    2020 HCFC phase-out obligation (35% reduction of
+                                                    the baseline), eliminating the consumption of
+                                                    HCFCs of 1,006 MT.
+
+                                                    The project will include a series of investment
+                                                    activities and replace the HCFC use with the other
+                                                    alternative gases or refrigerants (hydrocarbons, HC-
+                                                    290, HFC-32, ammonia) in the existing AC,
+                                                    refrigeration and foam manufacturers. No closure of
+                                                    these enterprises is expected due to the project.
+                                                    Most of these enterprises are located in industrial
+                                                    area, but some SMEs are located in residential area.
+
+                                                    While HCFCs have an impact on global climate
+                                                    change, they have no adverse local impact as these
+                                                    chemicals are stable and not considered toxic or
+                                                    dangerous for the environment. The alternative
+                                                    gases or refrigerants have zero ODP and lower
+                                                    GWP but high flammability, and therefore, have
+                                                    high risk of fire and explosion. Few may result in
+                                                    environmental impacts if it is mishandled.
+                                                    Ammonia (NH3) is also a toxic gas. The
+                                                    manufacturing process also involves potential
+                                                    occupational and health safety issues. Therefore,
+                                                    OP 4.01 is considered triggered.
+                                                    EMPs, one for each of the three sectors (foam, AC
+                                                    and refrigeration) have been prepared and will be
+                                                    followed by the participating enterprises during
+                                                    subproject implementation.
+Natural Habitats OP/BP 4.04              No         The project will not affect any protected areas,
+                                                    known natural habitats, or established or proposed
+                                                    critical natural habitats as all the project activities
+                                                    will take place within the existing plant boundaries
+                                                    either located in industrial zones or residential
+                                                    areas, thus there is no impacts on natural habitat.
+Forests OP/BP 4.36                       No         There is no proposed investment involving forest
+                                                    harvesting or forest management.
+Pest Management OP 4.09                  No         The project does not involve the procurement or use
+                                                    of any pesticides or herbicides or result in an
+                                                    increase in pesticides usage.
+Physical Cultural Resources OP/BP 4.11   No         Given the project location and activities it will not
+                                                    adversely affect sites with archeological,
+                                                    paleontological, historical, religious, or unique
+
+                                         Page 4 of 11
+                                                                  natural values.
+    Indigenous Peoples OP/BP 4.10                  No             All sub-projects will be implemented within
+                                                                  existing project enterprises or in industrial area, so
+                                                                  there is no IP group to be affected. Therefore, the
+                                                                  project will not trigger this policy.
+    Involuntary Resettlement OP/BP 4.12            Yes            All sub-projects will be likely implemented within
+                                                                  existing enterprises, so land related impact are not
+                                                                  expected. However, some SMEs will possibly be
+                                                                  relocated to industrial areas as per the request of
+                                                                  local governments, the policy is therefore triggered.
+
+                                                                  A Resettlement Policy Framework has been
+                                                                  prepared to guide relocation and potential land
+                                                                  issues if any during preparation of the subproject
+                                                                  proposals (during the overall project
+                                                                  implementation stage.
+
+                                                                  Due diligence review for five first enterprises
+                                                                  confirmed that they had fully complied with
+                                                                  government regulation, and there were no legacy
+                                                                  issues pending to be solved. During
+                                                                  implementation, the borrower will ensure that
+                                                                  following the RPF proper screening be carried out
+                                                                  and reported for the Bank’s due diligence review.
+    Safety of Dams OP/BP 4.37                      No             There is no construction or rehabilitation of dams or
+                                                                  dykes.
+    Projects on International Waterways OP/BP No                  The project does not have any impact on any
+    7.50                                                          international waterway.
+    Projects in Disputed Areas OP/BP 7.60          No             No The project is not located in any disputed areas.
+.
+
+
+
+
+    II. Key Safeguard Policy Issues and Their Management
+    A. Summary of Key Safeguard Issues
+    1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe
+    any potential large scale, significant and/or irreversible impacts:
+    The project is classified as a Category B project. No large-scale, significant and/or irreversible impacts are
+    expected.
+
+    The project, under Component 1, will finance phase-out of 1,006 MT HCFC-22 from four AC manufacturer,
+    about 34 refrigeration manufacturers, one XPS foam manufacturer, and the refrigeration and AC servicing
+    sectors. The project will also finance complete phase-out of HCFC-141b (about 2,035 MT) in pre-blended
+    polyol in about 44 foam manufacturers.
+
+    The project activities will likely occur in the existing facilities, even though flammable substances such as
+    ammonia, R-32 and hydrocarbons (R-290 or cyclopentane) will be used, which may create safety and
+    occupational health issues. These impacts, with more details provided below, are site specific and can be
+    mitigated with appropriate mitigation measures.
+
+
+                                                     Page 5 of 11
+Air-conditioning production sector:
+
+In the AC sector, the HCFC-22 (R-22) is converted to the proposed alternative gases: HFC-32 with GWP of 675
+(about 1/3 that of HCFC-22) or HC-290 with a GWP of 5, both have zero ozone depletion potential (ODP).
+However, they are flammable as ISO 817-2014 classified as A2L (lower toxicity, lower flammability) and A3
+(lower toxicity, higher flammability) chemicals, respectively. Therefore, these two alternatives have safety risks
+and fire hazards must be properly addressed. Direct contact of HFC-32 can also be harmful to skin, and its
+inhalation or eye contact could cause significant effects or critical hazards as well.
+Other chemical involved in air-conditioning production is the synthetic Polyol ester (POE) oil. POE oil is
+completely wax-free and is the best choice of lubricants due to their better thermal stability, more miscible and
+highly biodegradable. When POE oils are exposed to moisture and heat, they may react, forming acid that is
+harmful to the system and difficult to be recovered. The recovery technique should be selected to avoid
+discharge which could cause water or soil pollution.
+
+The potential refrigerating effect of HFC-32 is 1.5 times better than that of HCFC-22. More specifically,
+pressure losses are lower with HFC-32 than HCFC-22 for the same capacity and the liquid density of HFC-32 is
+also 10% lower. Thus the piping diameter can be smaller. As a result, the charging volume can be 30% less than
+with HCFC-22. The cooling seasonal performance factor (CSPF) of HFC-32 is higher than conventional
+refrigerants. Its peak power consumption is also lower, helping to alleviate power shortages in large cities during
+periods of high demand.
+
+Refrigerator production sector:
+
+In the refrigeration sector, ammonia, HC-290 and HFC-32, are proposed alternatives to HCFC-22. Ammonia,
+which has zero GWP, is widely used for large distributed systems and large chillers. This refrigerant is an
+important option for many industrial refrigeration applications. However, ammonia is toxic and flammable
+(classified as B2L-lower flammability, higher toxicity) – appropriate safety precautions are required. NH3 may
+explode if heated; toxic if inhaled, causes severe skin burns and eye damage, very toxic to aquatic life; corrosive
+to the respiratory tract.
+
+There are also potential environmental and occupational health and safety (OHS) risks associated with
+inappropriate handling of these chemicals/gases, which could be caused by chemical spills or fire and explosion.
+Therefore, good operational procedures and mitigation measures should be effectively taken at all enterprises
+supported by the project.
+
+Extruded polystyrene (XPS) foam:
+
+The XPS foam production will use CO2 with Alcohol/DME/ u-HFC technology. The chosen technology is a
+low-GWP based system, which is a definitive alternative under the Montreal Protocol (MP) and additionally has
+a positive impact on climate and are not adverse to the environment, in compliance with MP Decision XIX/6.
+
+Polyurethane (PU) Foam production sector:
+
+Hydrocarbon (cyclopentane) and CO2 have been selected as blowing agents to replace HCFC-141b.
+Hydrocarbon has a GWP of less than 25. Cyclopentane is classified as a Volatile Organic Compound (VOC),
+but its use results in very low levels of emissions of about 2-3% of the blowing agent, which results in
+minuscule emissions, compared for example, to emissions from two-stroke motorcycle traffic in urban areas.
+Therefore, there is no significant environmental impact from the cyclo-pentane itself. However, due to its
+flammability, safety requirements associated with hydrocarbons are important and should be in place.
+
+
+
+                                                Page 6 of 11
+The other chemicals involved in foam production are Methylene Diphenyl Isocyanate (MDI), polyol, amine
+catalysts and fire retardants. The probability that a spill of polymeric MDI - a liquid at room temperature – the
+risk of contaminating the soil and water is very low, because the floor of the foam production areas consists of
+cement coated with an anti-leakage, low permeability/chemical layer such as epoxy. In the case that MDI leaks
+into the soil, it will react with moisture, and the reaction would result in CO2 and insoluble polyurea
+compounds, which are not biodegradable but chemically inert. MDI may cause health impacts such as eye,
+respiratory system and skin irritation. Exposure via skin contact and inhalation can result in respiratory
+sensitization.
+
+Fire retardant and amine catalysts (use very little amount) are mixed/pre-formulated in the polyol at the system
+houses (pre-blended polyol suppliers), from which the foam enterprises purchase pre-blended polyol and MDI,
+so the foam enterprises will not handle these toxic chemicals directly. Fire retardant and amine catalysts will
+remain in the final foam products and are not likely to be emitted to the environment during the foam production
+or later. Therefore, there are no anticipated legacy environmental contamination issues that are associated with
+foam production.
+
+Methylene chloride is the cleaning agent now used in the foam production process. It can affect the body if it is
+inhaled or if the liquid comes in contact with eyes or skin or is swallowed. Methylene chloride can be a
+hazardous waste but only when present in large quantities and high concentrations, as defined in Vietnamese
+regulations. However, only small quantities are used in foam production and the mixing heads for the new
+cyclopentane based foaming units to be purchased under the project will facilitate the phase-out of the use of
+methylene chloride as a cleaning agent.
+
+In the second phase project, the system houses will be invested to provide the pre-blended polyol for the other
+small and medium foam production enterprises to help them get rid of HCFC-141b with less investment as well
+as minimize the impacts and chemical risks for those SMEs.
+Lastly, since some enterprises might need to move in industrial zones requiring small scale construction
+activities. This would cause some construction related impacts which are expected to be small and can be
+addressed through application of the Environmental Codes of Practices (ECOPs) which are included in the
+EMPs. The impacts of non-hazardous solid waste generated during AC, refrigeration manufacturing and foam
+production process are also expected to be small and will be addressed in the subproject EMPs.
+
+OP4.10 Indigenous People: is not triggered, as the project scoping confirmed that there are no ethnic minority
+peoples in project areas, as HCFC conversion will be carried out in existing enterprise location or industry zones
+(IZ) to which some enterprises may be relocated.
+
+OP4.12. Involuntary Resettlement is considered triggered. Although the project investment will not result in any
+new or additional involuntary resettlement, some enterprises have or will have to be relocated to IZs per the
+Government’s land planning request when preparing or implementing their subprojects (which might result in
+involuntary resettlement). There is no potential large scale, significant and/or irreversible impacts anticipated
+from the HCFC Phase II project as known at the time of appraisal. The preparation of appropriate safeguard
+instrument is detailed in the RPF.
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the
+project area:
+There are no indirect, cumulative, or long-term adverse impacts caused by the project.
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+N/A
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of
+
+                                                Page 7 of 11
+borrower capacity to plan and implement the measures described.
+Environment
+
+Although most sub-projects will only be confirmed from a long list of potential enterprises in different sectors,
+through subproject proposals to be prepared by application enterprises and appraised by the PMU during project
+implementation, considering alternatives with zero ODP and low GWP have been identified and some of them
+have been being used internationally, the generic Environmental Management Plans (EMPs), one for each
+sector, have been prepared by the Borrower. The World Bank has reviewed them and found acceptable. The
+objectives of the EMPs are to: i) ensure compliance with the applicable national, laws, regulations, standards,
+and guidelines; ii) ensure that there is sufficient allocation of resources on the project budget for implementation
+of EMP-related activities; iii) ensure that environmental risks associated with a project properly managed. The
+EMPs consist of the set of good practice mitigation measures, including the World Bank Group’s EHS
+guidelines, to address the sector-specific impacts, common construction related impacts which referred to as
+Environmental Codes of Practices (ECOP), and guidance on site-specific impacts and mitigation measures. The
+EMPs also include monitoring, and institutional arrangement for implementation, and the budgets for their
+implementation including for capacity building in project environmental management. Some specific
+mitigations measures are provided below:
+- As the alternative chemicals and gases are flammable, it will require changes of charging equipment and some
+production procedures during the construction and equipment installation phase: (i) Redesign the process,
+manufacture the prototype and test them; (ii) Modify the assembly line such as: change high – pressure pump,
+equip handheld leak detector, test pressure and drying; (iii) Inspect quality and testing; (iv) Issue certificates; (v)
+Process, operation maintenance and safety training; and (vi) Provide technical assistance from external experts.
+- During operation phase, the measures on precautions and chemical emergency response are requested. The
+enterprises to produce, use and storage those gases should prepare a document and submit to the Department of
+Industry and Trade before commission. For safety operation, the enterprises must also have the license of
+firefighting and prevention issued from the Department of Police.
+
+Environmental Safeguard Implementation, Monitoring, and Training. The PMU will be responsible for overall
+supervision and monitoring of the subproject including implementation of the subproject EMPs and will provide
+safeguard training to the subproject staff. The PMU will assign a safeguard specialist to assist in the
+coordination, supervision, and monitoring of safeguard implementation activities. For all subprojects, the
+participating enterprises are required to develop their own EMP with specific impacts and mitigation measures
+based on the sector generic EMP. The PMU will appraise the subproject proposals by visiting enterprises to
+ensure safety measures and equipment are included in the subproject proposals. Appropriate emergency
+preparedness and response measures should be in place when subprojects are completed. A due diligence review
+on occupational health and safety measures, fire and exposure risk will be conducted during the commission of
+subprojects and the early operation phase by the PMU. The Bank team will also selectively visit some
+subprojects to carry out safety review as well. Enterprises staff involved in the production, installation and
+services will be trained under the project.
+
+Social
+
+Resettlement Framework: A Resettlement Policy Framework has been prepared to guide relocation and potential
+land issues if any during preparation of the subproject proposals (during the overall project implementation
+stage).
+
+Social Safeguard Due Diligence Review: Due diligence review of the five already confirmed participating
+enterprises (4 in the AC sector and the XPS foam enterprise) were carried out during project preparation. It is
+confirmed that all the five enterprises complied with government laws and regulations on involuntary
+resettlement, there were no legacy issues pending to be solved.
+
+                                                  Page 8 of 11
+Except for the five above confirmed participating enterprises, sub-projects will only be confirmed during project
+implementation, the Bank will review when and how the land was acquired or being acquired for the Industrial
+Zone and the enterprise relocation plan at the preparation stage of sub-projects. For each sub-project which
+require involuntary resettlement, if the land has been acquired before the grant agreement is signed, a due
+diligence review of the land acquisition process will be undertaken by the Bank team to confirm whether there is
+any legacy issues. The procedures for undertaking land due diligence review is presented as bellowed:
+a) PMU/MONRE submits to the Bank, a report containing general information on the actual status of the
+resettlement and compensation on the proposed project enterprises (within the selected IZ) as part of the
+package required for the subproject grant appraisal submission procedures.
+b) World Bank undertakes a due diligence (DD) of the resettlement and compensation in the selected area. The
+DD serves to confirm that involuntary resettlement and compensation in the proposed IZs is completed or
+substantially advanced. It will confirm that was undertaken following government norms and regulations and for
+general consistency with Bank policies and objectives. Additionally, it should confirm pending issues as per
+Grievances and Redress Mechanisms reports of the pertinent authorities, recommending actions to be followed.
+
+The DD report method used for gathering the information, includes desk review of documents issued by the
+Provincial, District and Communes levels, methods for gathering and analyzing the qualitative and quantitative
+information gathered in the field, results of the interviews with PAPs, and analysis of other pertinent issues and
+documents related to involuntary resettlement and land compensation on a case-by-case basis.
+
+Preparation of Abbreviated RAPs. An abbreviated RAPs (A-RAP) if applicable will be prepared for subprojects
+(as part of the sub-project proposals) to handle the relocation and potential land issues. Possible social issues if
+any outside resettlement will be reviewed as an annex to the generic EMP, as no significant social issues are
+expected.
+
+Monitoring. Based on the findings of the due diligence review or A-RAP, the Bank will monitor the involuntary
+resettlement and compensation that may be ongoing. The Bank will review the status of any pending
+compensation activities during implementation support missions.
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on
+safeguard policies, with an emphasis on potentially affected people.
+The project key stakeholders are the beneficiary enterprises and relevant government agencies: the Ministry of
+Natural Resources and Environment (MONRE), the Ministry of Industry and Trade (MOIT), and the Customs.
+The stakeholders were consulted on the contents of the EMPs and RPF during their preparation. Another
+stakeholder consultation workshop was organized on November 17, 2016. Participants of the workshop were
+MONRE, MOIT, and Customs representatives, the selected enterprises, and representatives from some local
+governments. The feedbacks from the consultations have been taken into account in the preparation and
+incorporated into the final EMPs and RPF.
+The generic EMPs and RPF in Vietnamese were disclosed locally at the PMU website on November 21, 2016
+and their English versions were disclosed through the Bank Operations Portal on November 21, 2016. The
+Appraisal Stage Integrated Safeguards Data Sheet of the project will also be disclosed through the Bank
+Operations Portal.
+.
+
+
+
+
+B. Disclosure Requirements
+Environmental Assessment/Audit/Management Plan/Other
+Date of receipt by the Bank                                            14-Nov-2016
+Date of submission to InfoShop                                         12-Jan-2017
+For category A projects, date of distributing the Executive
+Summary of the EA to the Executive Directors
+
+                                                 Page 9 of 11
+    "In country" Disclosure
+PHENVCTRY
+
+
+
+
+    Vietnam                                                                11-Jan-2017
+ Comments:
+ Resettlement Action Plan/Framework/Policy Process
+ Date of receipt by the Bank                                      30-Jun-2016
+ Date of submission to InfoShop                                   10-Jan-2018
+ "In country" Disclosure
+PHRESCTRY
+
+
+
+
+ Vietnam                                                                    22-Dec-2017
+ Comments:
+ If the project triggers the Pest Management and/or Physical Cultural Resources policies, the respective
+issues are to be addressed and disclosed as part of the Environmental Assessment/Audit/or EMP.
+ If in-country disclosure of any of the above documents is not expected, please explain why::
+
+
+
+C. Compliance Monitoring Indicators at the Corporate Level
+PHCompliance
+
+
+
+
+ OP/BP/GP 4.01 - Environment Assessment
+ Does the project require a stand-alone EA (including EMP)       Yes []    No [X]        NA         []
+ report?
+ If yes, then did the Regional Environment Unit or Practice      Yes []    No []         NA         []
+ Manager (PM) review and approve the EA report?
+ Are the cost and the accountabilities for the EMP               Yes []    No []         NA         []
+ incorporated in the credit/loan?
+PHCompliance
+
+
+
+
+ OP/BP 4.12 - Involuntary Resettlement
+ Has a resettlement plan/abbreviated plan/policy                 Yes [X]   No []         NA         []
+ framework/process framework (as appropriate) been
+ prepared?
+ If yes, then did the Regional unit responsible for safeguards   Yes [X]   No []         NA         []
+ or Practice Manager review the plan?
+ Is physical displacement/relocation expected?                   Yes []    No []         TBD        [X]
+ Is economic displacement expected? (loss of assets or access    Yes []    No []         TBD        [X]
+ to assets that leads to loss of income sources or other means
+ of livelihoods)
+PHCompliance
+
+
+
+
+ The World Bank Policy on Disclosure of Information
+ Have relevant safeguard policies documents been sent to the     Yes [X]   No []         NA         []
+ World Bank's Infoshop?
+ Have relevant documents been disclosed in-country in a          Yes [X]   No []         NA         []
+ public place in a form and language that are understandable
+ and accessible to project-affected groups and local NGOs?
+PHCompliance
+
+
+
+
+ All Safeguard Policies
+ Have satisfactory calendar, budget and clear institutional      Yes [X]   No []         NA         []
+ responsibilities been prepared for the implementation of
+ measures related to safeguard policies?
+ Have costs related to safeguard policy measures been            Yes [X]   No []         NA         []
+ included in the project cost?
+ Does the Monitoring and Evaluation system of the project        Yes [X]   No []         NA         []
+ include the monitoring of safeguard impacts and measures
+ related to safeguard policies?
+
+                                               Page 10 of 11
+Have satisfactory implementation arrangements been agreed     Yes [X]     No []        NA   []
+with the borrower and the same been adequately reflected in
+the project legal documents?
+
+
+III. Approval
+Task Team Leader(s):                Name:Qing Wang,Katelijn Van den Berg
+Approved By:
+Practice Manager/Manager:           Name: Christophe Crepin (PMGR)      Date: 11-Jan-2018
+
+
+
+
+                                             Page 11 of 11
+

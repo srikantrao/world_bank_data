@@ -1,0 +1,138 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+APPRAISAL STAGE
+Report No.: ISDSA499
+b  Date ISDS Prepared/Updated: 24-Jan-2012
+0
+1 1. BASIC INFORMATION
+U)     1. Basic Project Data
+0
+0
+.U,
+Q      Country:                Uzbekistan                   Project ID:              P122773
+.      Project Name:          Advanced Electricity Metering Project (P122773)
+Task Team Leader:      Leiping Wang
+Estimated Appraisal Date: 09-Feb-2012                Estimated Board Date:    27-Mar-2012
+Managing Unit:         ECSS2                         Lending Instrument:      Specific Investment Loan
+Sector:                General energy sector (100%)
+Theme:                 State-owned enterprise restructuring and privatization (80%), Climate change (10%), Regulation and competition
+policy (10%)
+Financing (In USD Million)
+Financing Source                                                                        Amount
+Borrower                                                                                   38.10
+International Bank for Reconstruction and Development                                     180.00
+Total                                                                                     218.10
+Environmental Category: C - Not Required
+Is this a Repeater project? No
+2. Project Objectives
+The project development objective is to reduce commercial losses of UE's three regional power distribution companies in Tashkent City, and the
+Oblasts of Tashkent and Syrdarya by improving their metering and billing infrastructure, and the commercial management system.
+3. Project Description
+The Project has three components. Each component is described below:
+a)    Component 1: Advanced Metering Infrastructure (AMI). This component includes supply, installation, and commissioning of (i) advanced electricity
+M     meters (AEMs) for around 1.2 million low voltage consumers and at low voltage sections of relevant distribution transformers of the three PESs; (ii)
+o     data concentrators, and communication systems among various sub-systems, the centralized management system in Tashkent and AEMs of both
+low voltage and, medium and high voltage customers of the three regional distribution companies; and (iii) hardware and software of the metering
+data management (MDM) systems, each for one of the three regional distribution companies.
+Component 2: Centralized Energy Data management (EDM) /Billing/Archive System. This component includes (i) design, supply, installation,
+customization and commissioning of the hardware and software, as well as training and after-sale services of a centralized EDM/billing/archiving
+center in Tashkent and its applications for the three PESs; and (ii) migration of all the existing billing data to the databases of the new EDM/billing
+system.
+Component 3. Management Efficiency Improvements and Project Implementation Support. This component includes: (i) assessment of electricity
+consumption patterns and physical connection conditions of various customers to identify opportunities for reducing commercial losses, starting
+from large consumers and to develop and implement a loss reduction strategy; (ii) business process re-engineering and institutional capacity
+strengthening for the operation of the new AMI and better utilization of rich information collected by the AMI to reduce commercial losses; (iii)
+project communication program to educate consumers of the benefits of the new system, how it works and the responsibility of the consumers to
+pay the electricity bills on time; (iv) project implementation supervision and administration; and (v) financial audits and possible technical
+assistance for further customization of the EDM system.
+4. Project location and salient physical characteristics relevant to the safeguard analysis (if known)
+Tashkent City, the Oblasts of Tashkent and Syr Darya
+5. Environmental and Social Safeguards Specialists
+Agnes 1. Kiss (ECSOQ)
+6. Safeguard Policies               Triggered?  Explanation (Optional)
+Page 1 of 3
+
+
+﻿Environmental Assessment OP/BP 4.01  No
+Natural Habitats OP/BP 4.04         No
+Forests OP/BP 4.36                  No
+Pest Management OP 4.09             No
+Physical Cultural Resources OP/BP 4.11  No
+0
+O       Indigenous Peoples OP/BP 4.10      No
+Involuntary Resettlement OP/BP 4.12  No
+0      Safety of Dams OP/BP 4.37           No
+.Ln     Projects on International Waterways OP/BP  No
+Q      7.50
+Projects in Disputed Areas OP/BP 7.60  No
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential large scale,
+significant andlor irreversible impacts:
+The project is likely to have minimal or no adverse environmental impacts. In fact, the project is expected to reduce the technical and none
+technical losses in the distribution networks and in this way will reduce the mainly thermal power generation in the country, resulting in a
+potential reduction of C02 emissions.
+On the social side, a social assessment was conducted which found that overall the project will have positive impacts for the poor and
+vulnerable. Customers' major concern of electricity supply is the low supply reliability; most people believe that paying electricity bill is an
+important duty and are indignant at those who engage in electricity theft. Electricity is not used for heating or cooking and the cost of lifeline
+electricity consumption is US$ 2 to 3/month. Therefore the proposed project is not expected to significantly increase the financial burdens to the
+poor. The project will improve customer services by (a) improving the efficiency of the existing service centers of the three distribution
+companies in the project areas; (b) introducing 24-hour customer service hotline with emergency response services for customers; (c)
+establishing a complaint-redress mechanism; and (d) developing a participatory public information program. In addition, the project will
+significantly improve the transparency and fairness of the metering reading, billing and fee collection of the three power distribution companies.
+These will be socially beneficial to all the electricity consumers in the project areas.
+2. Describe any potential indirect andlor long term impacts due to anticipated future activities in the project area:
+N/A
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+N/A
+0
+0      4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower capacity to plan
+a)       and implement the measures described.
+On environmental side, new meters provided under the project are specified considering environmental compatibility with regard to:
+0
+*       Critical materials: No components with critical content materials (mercury, cadmium, cobalt etc.); and
+Q        *       Manufacturer processes: The manufacturer shall have the manufacturer processes certified according ISO 14001.
+-O       On social side, although the project triggers no social safeguard policies, it does raise two potential social risks: the risk of increased power
+disconnection of the poor and vulnerable, and redundancies of staff controllers now reading old meters. The social assessment recommended
+that procedures be developed to ensure that the customers are given sufficient notice to clear any outstanding bills before their power is
+disconnected, and that opportunities for skills development training be offered to any affected employees, so that they could be absorbed in the
+UE organization performing other tasks. Both recommendations are reflected in the project design. In addition, a project communications
+program will be implemented to educate customers of how the system works and the benefits of the new system.
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies, with an emphasis
+on potentially affected people.
+N/A
+B. Disclosure Requirements Date
+If the project triggers the Pest Management andlor Physical Cultural Resources policies, the respective issues are to be addressed and
+disclosed as part of the Environmental Assessment/Auditior EMP.
+If in-country disclosure of any of the above documents is not expected, please explain why:
+N/A
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is finalized by the project decision meeting)
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the World Bank's Infoshop?  Yes [  ]  No [  ]  NA [ X]
+Page 2 of 3
+
+
+﻿Have relevant documents been disclosed in-country in a public place in a form and language  Yes [  ]  No [  ]  NA [ X]
+that are understandable and accessible to project-affected groups and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional responsibilities been prepared for  Yes [  ]  No [  ]  NA [ X I
+the implementation of measures related to safeguard policies?
+o       Have costs related to safeguard policy measures been included in the project cost?  Yes [  ]  No [  ]  NA [ X]
+C-)
+Does the Monitoring and Evaluation system of the project include the monitoring of safeguard  Yes[  ]  No[  ]  NA X]
+impacts and measures related to safeguard policies?
+0
+Z)       Have satisfactory implementation arrangements been agreed with the borrower and the same  Yes [  ]  No [  ]  NA [ X]
+.L      been adequately reflected in the project legal documents?
+Ill. APPROVALS
+0-     Task Team Leader:           Leiping Wang
+Approved By:
+Sector Manager:            Name Ranjit J. Lamech (SM)                              Date: 11-Feb-2012
+0
+P                                                                                                               )
+0
+0
+.U)
+Q
+Page 3 of 3
+
+

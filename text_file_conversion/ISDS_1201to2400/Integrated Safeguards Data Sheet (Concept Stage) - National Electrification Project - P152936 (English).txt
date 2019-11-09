@@ -1,0 +1,515 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+CONCEPT STAGE
+Report No.: ISDSCIO72
+Date ISDS Prepared/Updated: 09-Jan-2015
+Date ISDS Approved/Disclosed: 12-Jan-2015
+I. BASIC INFORMATION
+A. Basic Project Data
+Country:         Myanmar                    Project ID:   P152936
+Project Name:    National Electrification Project (P 152936)
+Task Team        Dejan R. Ostojic
+Leader(s):
+Estimated        13-Apr-2015                Estimated     27-Jul-2015
+Appraisal Date:                             Board Date:
+Managing Unit: GEEDR                        Lending       Investment Project Financing
+Instrument:
+Sector(s):       Transmission and Distribution of Electricity (100%)
+Theme(s):        Rural services and infrastructure (100%)
+Financing (In USD Million)
+Total Project Cost:     550.00             Total Bank Financing:   300.00
+Financing Gap:            0.00
+Financing Source                                               Amount
+BORROWER/RECIPIENT                                               50.00
+International Development Association (IDA)                     300.00
+Foreign Private Commercial Sources (unidentified)               200.00
+Total                                                           550.00
+Environmental B - Partial Assessment
+Category:
+Is this a        No
+Repeater
+project?
+B. Project Objectives
+19.    The project development objective is to help increase access to electricity in Myanmar.
+C. Project Description
+The expected results of the Project will include new household connections in urban and rural areas
+across the country. Also, the project will help establish and support a coordinated sector-wide
+institutional framework for the implementation of national electrification program, and strengthen
+
+
+﻿institutional capacity of implementing agencies, including both public and private sector active in the
+grid rollout and off-grid pre-electrification.
+The proposed grid roll-out program will not only improve the well-being of the affected population
+O
+by better lighting, telecommunications and entertainment, but also enable income-generation
+opportunities and enhanced productivity. Importantly, the program will prioritize connections for
+health clinics and schools, particularly in poor and vulnerable areas, to maximize developmental
+impacts.
+The project will include an off-grid pre-electrification program to directly benefit the poor and
+vulnerable households by targeting those who reside outside the realm of power grid and are
+expected to receive grid-based electricity services more than 10 years after the first phase of NEP.
+The project will also include a Contingency Emergency Response Component (CERC) to allow a
+rapid response and quick support for emergency recovery and reconstruction in case of an adverse
+natural disaster event.
+Many of these project benefits will occur over time and will continue to accrue many years after the
+project is completed. An impact evaluation to establish the baseline and assess these benefits in a
+timely and systematic manner will be initiated along with the proposed project.
+Achievement of the project development objective will be measured by the core sector indicator
+(CSI): People provided with access to electricity under the project by household connections.
+As a part of CSI monitoring, the project will also measure (i) number of new household customers
+connected to national grid; (ii) number of new household customers with access to electricity
+services from off-grid systems; and (iii) number of direct female beneficiaries out of people provided
+with access to electricity by household connections to the grid and off-grid solutions.
+Intermediate result indicators will include (i) amount of investment financing from the private sector,
+development partners and the government's budget leveraged for the electrification; (ii) permanent
+national electrification executive secretariat (NEES) established, adequately staffed and functional in
+line with its mandate; (iii) number of NEES and other agency staff trained; and (iv) number of
+a       qualified private sector operators/ village cooperatives participating in the grid and off-grid
+electrification program.
+The proposed project has three main components.
+Component 1: Grid rollout [IDA US$ 200 million]. The grid component will support the extension
+of distribution networks currently operated by Yangon Electricity Supply Board (YESB) and
+Electricity Supply Enterprise (ESE) and connections of villages and households which are identified
+in NEP as closest to the existing national grid and, thus, on the least-cost path for the grid rollout.
+This component will include (i) expansion of existing Medium Voltage (MV) substations and
+construction of new MV substations, (ii) construction of new MV lines, Low Voltage (LV) lines and
+MV/LV transformers; and (iii) household connections and meters. It is expected that the primary
+distribution MV parts (above 11 kV) will be implemented by ESE and YESB, while the 11 kV and
+LV components (including household connections) will be implemented through a public private
+partnership or direct private investments.
+
+
+﻿The Bank financing for the grid rollout will include two modalities. First, IDA will finance
+procurement of MV goods (transformers, poles, conductors, insulators, switchgear, materials etc.)
+which will be installed by ESE and YESB to expand the primary distribution network (above 11 kV).
+Second, IDA and IFC will use part of the IDA funds to support the private sector participation in the
+O
+expansion of secondary distribution network (11kV and 0.4 kV). The joint WBG team will develop
+and put in place a 'Menu of Options' for private sector participation. This could include (a) IDA
+funds to buy down the capital cost of assets and services; (b) Output Based Aid (OBA) scheme,
+whereby IDA funds would pay to the (private) service provider the difference in tariff between what
+the consumers are able to pay, and the tariff level that would deliver to the service provider an
+adequate (regulated) return; and (c) IDA support to selected concessioners in carrying out
+distribution activities in franchise areas of YESB and ESE. The above 'Menu of Options" is not
+exclusive and will be modified and adapted to the evolving conditions in the distribution sector
+during the project preparation.
+Component 2: Off-grid pre-electrification [IDA US$ 80 million]. The off-grid component will target
+households which are located outside the realm of the existing national grid and, thus, unlikely to
+receive grid-based access in the next 10 years. The pre-electrification will be based on application of
+mini-grids and household energy systems, including solar photovoltaic (PV) systems, mini-
+hydropower (not expected to exceed 1 MW), wind, diesel and hybrid systems (e.g. diesel/solar).
+Currently, MFLRD is responsible for the off-grid rural electrification through its local DRD
+(Department for Rural Development) offices. The implementation modalities for the off-grid
+electrification, including IDA and IFC support to the private sector, will be developed during the
+project preparation.
+Component 3: Capacity building and technical assistance (TA) [IDA US$ 20 million]. This
+component will provide TA and advisory support to GoM agencies responsible for the planning,
+implementation, monitoring and evaluation of the national electrification program. The capacity
+building will cover all institutional levels (union, state/ region, and district) involved in the NEP
+planning and implementation, including technical design, economic and financial analysis,
+environmental and social impact management, as well as procurement and financial management.
+Component 4: Contingent Emergency Response [US$ 0 million]. The objective of this "zero
+component" is to allow a rapid reallocation of IDA credit proceeds from other components to provide
+o emergency recovery and reconstruction support following an adverse natural disaster event. This
+component would finance public and private sector expenditures on a positive list of goods and/or
+specific works, goods, services and emergency operation costs required for Myanmar's emergency
+recovery. A Contingency Emergency Response Component (CERC) Operational Manual will apply
+to this component, detailing financial management, procurement, safeguard and any other necessary
+implementation arrangements.
+The proposed project will establish the basis for a sustained engagement of the WBG in supporting
+public and private sector investments needed to achieve universal access to electricity in Myanmar
+by 2030, as well as to strengthen institutional capacity of GoM. It is expected that the programmatic
+engagement will comprise three phases with the first phase covering 2015-2019. In addition to
+working with the public and private sector investors, the joint WBG energy team will work closely
+with all development partners (DPs) active in the power sector (ADB, JICA, KfW, DFID, Norway,
+Australia, etc.) and the NEP will be designed as an open platform which DPs can also use in
+supporting the electrification in Myanmar. Such a coordinated, sector-wide approach is considered
+the most effective in delivering benefits of electrification and working together with the GoM, DPs
+
+
+﻿and the private sector towards twin goals of reducing extreme poverty and increasing shared
+prosperity in Myanmar.
+D. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+Q       Electrification investments or any intervention under the Project will for now not be restricted to
+certain areas or specific sites in Myanmar. It is expected that the project implementation will
+eventually include all 64 districts covering all Regions and States in Myanmar.
+Using a least-cost approach, NEP has identified initial target areas for both the grid and off-grid
+components. Based on the initial lists, the district engineers of MOEP and MLFRD (District PMOs)
+have started identifying priority investments needed in each district. In addition to the least cost
+principle, the proposed priorities at the district level will take into account other criteria, such as
+imminent risk of power shortage in the district and potential congestion of the upstream substation in
+supplying more residential customers, and environmental and social criteria such as the inclusion of
+the ethnic minorities, vulnerable and poor people through explicit selection criteria. These criteria
+will be developed based on findings from a Poverty and Social Impact Assessment (PSIA) carried
+out during project preparation. The priority investments by district will be aggregated at the Union
+level after consultations with the district and the state/ regional authorities to ensure a strong support
+and ownership of the electrification program at all levels.
+Working with the selection criteria and procedures established during project preparation,
+subsequently specific investment proposals for funding from the Project will be submitted, screened
+and designed during project implementation. As a commitment in relation to the Thaton Power
+Station supported by the Bank-financed Myanmar Electric Power Project, Thaton District and the
+three villages near the power station will be prioritized for rural electrification under the NEP.
+However, the upgrading of the power station will not be completed until 2017 and the design of the
+rural electrification investments in the area will not be prepared until during implementation of NEP.
+The site will be included in the PSIA and consultation process for preparation of NEP, but since site-
+specific information for Thaton and all other sites will only become available with the investment
+proposals during project implementation site-specific safeguards instruments will not be prepared
+until project implementation. Instead an Environmental and Social Management Framework
+(ESMF) will be prepared during project preparation with provisions for screening sub-projects and
+preparing site-specific safeguards instruments.
+The social impacts will be assessed through the PSIA which is taking place in two phases. The first
+phase (PSIAl) focused on generating an overall understanding of access to electricity (barriers to
+access in rural and urban areas and for poor and marginalized households in particular), uses of
+electricity, quality of service and affordability of new tariffs of April 2014. The PSIA phase 1 report
+was finalized in December 2014. The second phase (PSIA2) which will take place from January to
+May 2015 aims to provide more in depth inputs to the design of subsidy schemes/tariff structure and
+additional information to inform the design of the Myanmar National Electrification Project. The
+ESMF and project design will integrate the data, analysis of potential project impacts and mitigations
+measures of the PSIA phase 2 report which will be available by project appraisal.
+E. Borrowers Institutional Capacity for Safeguard Policies
+Following the NEP recommendations, the government has established a National Electrification
+Executive Committee (NEEC) under the patronage of the Vice President through a decree (August
+27, 2014). NEEC is chaired by the minister of MOEP and co-chaired by the minister of MLFRD.
+
+
+﻿Also, a permanent NEEC Secretariat has been established in MOEP and MLFRD, overseeing Project
+Management Offices (PMOs) which are responsible for the technical activities carried out by ESE,
+YESB and DRD. Detailed TORs are under development for each entity and will be incorporated in
+the project Operational Manual (OM).
+0
+The institutional capacity in MOEP and MLFRD is low for all aspects of the electrification program,
+including capacity to implement and monitor safeguard requirements. Also, ESE (and to a less
+degree YESB) will require significant institutional strengthening in order to cope with the required
+doubling of electrification rate envisaged under the project. Particular attention is required for
+capacity building at the state/ regional/ district levels which will have important roles in project
+implementation. Currently, government offices at these levels have no capacity to coordinate
+electrification activities and have no experience concerning safeguards.
+As part of Project preparation, the Bank team will carry out an assessment of required capacities of
+the PMOs, including for safeguards requirements and provide the necessary training and support
+during preparation, appraisal and implementation. This will build on the training which the Bank
+already is providing to MOEP and MLFRD (on geospatial and investment planning). Also, the
+capacity building will draw lessons from the on-going Bank projects in MOEP (Myanmar Electric
+Power Project) and MLFRD (CDD project). The Project will include a comprehensive capacity
+building program that includes the creation of capabilities, both at the implementing institutions as
+well as directly with the PMOs, for screening, implementing and monitoring of safeguard
+requirements.
+An important part of the project preparation and implementation will be consultations with the local
+authorities, Civil Society Organizations (CSOs), private sector and the general public in areas
+included in the electrification program. This is necessary to mitigate risks associated with the
+environmental and social aspects of the electrification program, as well as to take into consideration
+affordability, social inclusion and other factors which can affect the achievement of project
+objectives at the village and household levels. The results of the PSIA and consultations will be fully
+integrated in the project design in order to mitigate any negative impacts on the poor and vulnerable
+households during the project implementation. The PSIA will review issues such as accessibility,
+affordability, vulnerability, poverty, gender, productive uses and benefits related to electricity and
+potential social impacts and risks from project proposed interventions.
+F. Environmental and Social Safeguards Specialists on the Team
+Frank Van Woerden (GENDR)
+Patricia Maria Fernandes (GSURR)
+Peter Leonard (OPSOR)
+II. SAFEGUARD POLICIES THAT MIGHT APPLY
+Safeguard Policies          Triggered? Explanation (Optional)
+Environmental Assessment    Yes         The project will invest substantially in grid roll-out
+OP/BP 4.01                              through the purchase of equipment including for
+MV-substations (expansion of existing substations
+and to be built), MV/LV transformers, MV and LV
+lines, household connections, meters, and off-grid
+systems including solar PV systems, mini-
+
+
+﻿hydropower, wind, diesel and hybrid systems.
+Environmental impacts for grid extensions are
+related to works at substations and the installation of
+power lines, which for instance may require safe
+disposal of construction and other waste. These
+substations are small and impacts are expected to be
+limited. Off-grid investments could include systems
+based on diesel generators, wind turbines and small
+scale hydropower expected not to exceed 1 MW.
+Possible impacts related for instance to fuel usage
+and installation of turbines in water streams would
+require environmental control measures but
+investments will not go beyond village level schemes
+(in principle less than 1 MW) and potential impacts
+are expected to be limited. In view of this, the project
+has been given a Category B classification under
+OP4.0 1. During project preparation, the modalities
+for selection and implementing sub-projects will be
+determined. Arguably, the single type of projects that
+could challenge the Category B classification could
+be the off-grid mini hydro-systems. Given that these
+systems remain below 1 MW, which would use
+around 10% or less of the available water course
+flow for power generation, without a need for
+building significant reservoirs or land-take, it is not
+expected that these systems would require a different
+categorization, but this will be further investigated
+and substantiated during project preparation.
+Project preparation will focus on building the
+capacity with the Project counterparts, to implement
+the Project with dedicated staff, capacity and strong
+mechanisms and procedures in place to screen,
+assess, plan and monitor the implementation of sub-
+projects. This capacity will also be required to
+support applicants with the efficient preparation of
+proposals for sub-projects. The implementation stage
+of the Project will also include the design of sub-
+projects based on approved application for sub-
+projects. Given this need to establish institutional
+arrangements and build implementation capacity
+first, all sub-projects and equipment purchases will
+be determined during project implementation and
+thus framework arrangements are required and will
+be prepared and agreed during project preparation for
+the modalities of selection and implementation of
+equipment purchases and implementation of
+
+
+﻿subprojects. These framework arrangements will
+include an Environmental and Social Management
+Framework (ESMF), including a Resettlement Policy
+Framework and an Indigenous Peoples Planning
+Framework, that will be prepared and adopted during
+project preparation. The ESMF will also include
+guidance on health and safety issues to be followed
+during project implementation based on the World
+Bank Group's Environmental, Health and Safety
+(EHS) Guidelines for Power Transmission and
+Distribution and including provisions for
+beneficiaries and worker health and safety. The
+ESMF will provide guidelines for screening of all
+subprojects and all project activities including
+procurement of goods that would result in
+investments, determination of requirements for
+assessment and preparation of further documentation
+in accordance with the World Bank safeguards
+policies including site-specific environmental and
+social management plans (ESMPs) and the
+implementation and monitoring of these ESMPs. If
+needed, the ESMPs will include a Resettlement
+Action Plan and Indigenous Peoples Plan as
+described below.
+As indicated previously, the social impacts will be
+assessed through the PSIA which is taking place in
+two phases. The first phase (PSIAl) focused on
+generating an overall understanding of access to
+electricity (barriers to access in rural and urban areas
+and for poor and marginalized households in
+particular), uses of electricity, quality of service and
+affordability of new tariffs of April 2014. The PSIA
+phase 1 report was finalized in December 2014. The
+second phase (PSIA2) which will take place from
+January to May 2015 aims to provide more in depth
+inputs to the design of subsidy schemes/tariff
+structure and additional informati on to inform the
+design of the Myanmar National Electrification
+Project. The ESMF and project design will integrate
+the data, analysis of potential project impacts and
+mitigations measures of the PSIA phase 2 report
+which will be available by project appraisal.
+Given the current lack of capacity with the
+implementing agencies and other parties that are
+expected to implement the project and investments in
+
+
+﻿sub-projects, a comprehensive safeguards capacity
+building program will be required to prepare
+designated PMO staff and others for project
+implementation. This training program will be
+designed and start in January 2015 to prepare project
+counterparts and staff already during project
+implementation.
+In addition to sub-projects that are implemented by
+ESE and YESB, it is expected that part of the sub-
+projects' investments to be funded by the Project will
+be implemented by private investors / operators and
+local communities. The ESMF will identify and
+include procedures for screening, impact
+assessments, planning, implementation and
+monitoring that differentiate for the various
+categories of implementing entities. Since the Project
+in principle will only finance the purchase of goods,
+the ESMF procedures will consider that these
+investments will be matched with funding from
+investors and local communities, as applicable, e.g.
+in-kind contributions to implement the project. It is
+envisaged that all project funded activities, including
+the sub-project that are implemented by private
+parties will be fully complying with the World Bank
+Safeguard Policies. Diversion of safeguarding
+responsibilities to investors under OP 4.03 is not
+foreseen at this stage of project preparation as the
+capacity concerning safeguards is not expected to be
+in place, but will be further investigated prior to
+appraisal.
+The Project is proposed to be classified as Category
+'B' as per OP 4.01 as the safeguard impacts of the
+type of subprojects supported are site-specific, few
+are irreversible and mitigation measures can be
+designed as part of the ESMF to minimize and
+mitigate impacts during project implementation.
+Natural Habitats OP/BP 4.04   TBD          Impacts on natural habitats are not expected, but
+cannot be fully excluded at this stage. This will be
+determined with the preparation of the ESMF. If
+needed, provisions for screening investments for this
+policy under project implementation with
+requirements as part of environmental assessment
+and ESMP, will be included in the ESMF.
+Forests OP/BP 4.36            TBD          This policy is not expected to be triggered, which
+will be further verified during project preparation.
+
+
+﻿Pest Management OP 4.09       TBD          This policy is not expected to be triggered, which
+will be further verified during project preparation.
+Physical Cultural Resources   Yes          Since specific project investments are not known by
+OP/BP 4.11                                 appraisal, it is not possible to rule out the presence of
+physical cultural resources. Provisions for screening
+investments during project implementation and,
+when needed, including requirements as part of
+environmental assessment and ESMP, to avoid
+impacting physical cultural resources, will be part of
+the ESMF.
+Indigenous Peoples OP/BP      Yes          The project is expected to be country-wide and cover
+4.10                                       all States and Regions, including areas with ethnic
+minorities who are covered by OP 4.10. Ethnic
+minorities in Myanmar live mainly, however not
+exclusively, in the seven States (Kayah, Kayin,
+Kachin, Chin, Mon, Rakhine, and Shan). Ethnic
+minority communities would benefit from project
+activities. However, the project also presents risks
+and challenges concerning ethnic minorities,
+particularly in terms of ensuring that they will
+receive appropriate benefits. Investing in distribution
+networks and off-grid electrification in conflict or
+post-conflict areas where ethnic minority
+organizations provide parallel social services and
+community infrastructure also poses risks that
+require a good consultation and project management
+approach. Since specific project sites will not be
+identified during project preparation, an Indigenous
+Peoples Planning Framework will be prepared as part
+of the ESMF to provide guidance on the screening
+and planning process for sub-projects, including
+requirements for sit-specific social assessment and
+consultations and the preparation of site-specific
+Indigenous Peoples Plans to address particular issues
+concerning ethnic minorities.
+Rural electrification of the villages near the Thaton
+Power Station in Mon State supported by the Bank-
+financed Myanmar Electric Power Project will be
+prioritized for inclusion in the National
+Electrification Program. The villages are inhabited
+mainly by ethnic minorities. However, as the
+upgrading of the power plant will not be completed
+until 2017 the project design cannot be prepared until
+project implementation. An Indigenous Peoples Plan
+for Thaton and other sub-projects in areas with ethnic
+minorities will be prepared during project
+
+
+﻿implementation once site-specific information will
+become available with the investment proposals.
+A Poverty and Social Impact Assessment will be
+undertaken during project preparation to assess
+potential project impacts and risks as well as issues
+pertaining to accessibility, affordability,
+vulnerability, poverty, gender, productive uses and
+benefits related to electricity. The PSIA will include
+social assessment requirements of OP 4.10, as well
+as OP 4.01, and will inform project design, the
+ESMF and the IPPF to address any particular issues
+concerning ethnic minorities. Thaton District and the
+villages near the power station supported by the
+Myanmar Electric Power Project will be covered by
+the PSIA. Consultations following OP 4.10
+provisions will be undertaken with Thaton villages,
+other select villages in different States and Regions,
+and civil society organizations, including ethnic
+minority organizations.
+Involuntary Resettlement OP/  Yes          Since specific project investments are not known by
+BP 4.12                                    appraisal, it is not possible to rule out that some sub-
+project would involve involuntary resettlement in the
+form of land acquisition or loss of other assets. The
+project will finance distribution networks, including
+expansion of existing Medium Voltage (MV)
+substations and construction of new MV substations,
+(ii) construction of new MV lines, Low Voltage (LV)
+lines and MV/LV transformers. These investments
+have a minimal footprint, normally follow existing
+right-of-way and have some flexibility in terms of
+specific location to avoid land acquisition or loss of
+property. However, some land acquisition or loss of
+assets may be needed for some sub-projects,
+particular in cases where new substations will be
+financed. Off-grid investments, such as mini-hydro
+systems may also have minor impacts. Potential
+impacts and risks in this regard will be assessed in
+more detail during project preparation as part of the
+PSIA. The PSIA will also assess any common
+arrangements for village based compensation for loss
+of assets or voluntary donations of land for rural
+electrification infrastructure undertaken by village
+cooperatives and other private sector entities. A
+Resettlement Policy Framework will be prepared as
+part of the ESMF to provide guidance on the
+screening and planning process for sub-projects
+
+
+﻿concerning involuntary resettlement impacts and will
+include a protocol for voluntary land donations.
+Safety of Dams OP/BP 4.37    TBD          The project interventions is not expected to require
+the construction of dams or impoundment structures,
+nor is it expected that they could cause impacts to
+existing structures as governed by this policy. This
+will need to be confirmed particularly for off-grit
+small-scale hydropower systems during project
+preparation. Hence, at concept stage the applicability
+of this policy has been classified as 'TBD'.
+Projects on International    No           The project interventions are in nature and in scale
+Waterways OP/BP 7.50                      not expected to cause any drainage or discharges to
+surface waters, nor entail any significant usage of
+surface water for cooling or other purposes, that
+would affect international waterways.
+Projects in Disputed Areas OP/ No         The project interventions are not in disputed areas
+BP 7.60                                   and will be wholly within the borders of Myanmar.
+III. SAFEGUARD PREPARATION PLAN
+A. Tentative target date for preparing the PAD Stage ISDS: 27-Feb-2015
+B. Time frame for launching and completing the safeguard-related studies that may be needed.
+The specific studies and their timingi should be specified in the PAD-stage ISDS:
+A.     Target date for the Quality Enhancement Review (QER), at which time the PAD-stage
+ISDS would be prepared:
+February 27, 2015
+B.     For simple projects that will not require a QER, the target date for preparing the PAD-
+stage ISDS:
+C.     Time frame for launching and completing the safeguard-related studies that may be
+.*         needed.
+The specific studies and their timing should be specified in the PAD-stage ISDS:
+February 27, 2015
+A safeguards capacity building program for project counterparts, implementing agencies and
+dedicated staff that will work on safeguards will be determined and commence in January 2015.
+An Environmental and Social Management Framework (ESMF) will be prepared during project
+preparation. The ESMF will cover all environmental safeguard policies triggered, including OP
+4.01, OP 4.04 and OP 4.11. The ESMF will also include an Indigenous Peoples Planning
+Framework (OP 4.10) and a Resettlement Policy Framework (OP 4.12). The ESMF will be
+disclosed in country and be subject to public consultations prior to project appraisal.
+Project preparation includes a Poverty and Social Impact Assessment (PSIA) to, inter alia, assess
+potential social impacts under OP 4.10 and OP 4.01. PSIA findings will be integrated into project
+1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+form and language that are accessible to potentially affected persons.
+
+
+﻿design, including the ESMF, RPF and IPPF, to enhance project benefits, particularly for the poor,
+and to avoid or mitigate risks and adverse social and environmental impacts.
+Public consultations will be undertaken during project preparation to inform the preparation of the
+project and the ESMF. The draft ESMF will be publicly disclosed to seek input and feedback from
+civil society and interested stakeholders, including ethnic minority organizations.
+O
+2 IV. APPROVALS
+Task Team Leader(s):    ame: Dejan R. Ostojic
+Approved By:
+Regional Safeguards   Name: Peter Leonard (RSA)                    Date: 09-Jan-2015
+Coordinator:
+Practice Manager/     Name: Julia M. Fraser (PMGR)                 Date: 12-Jan-2015
+Manager:
+
+

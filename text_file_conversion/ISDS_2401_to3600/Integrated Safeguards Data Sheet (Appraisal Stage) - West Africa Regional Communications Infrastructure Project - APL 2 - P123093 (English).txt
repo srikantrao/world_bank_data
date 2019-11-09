@@ -1,0 +1,522 @@
+﻿                                                INTEGRATED SAFEGUARDS DATA SHEET
+                                                        APPRAISAL STAGE
+                                                                                               Report No.: ISDSA2672
+Public Disclosure Copy
+
+
+
+
+                         Date ISDS Prepared/Updated: 02-Apr-2013
+                         Date ISDS Approved/Disclosed: 02-Apr-2013
+                         I. BASIC INFORMATION
+                            1. Basic Project Data
+
+                            Country:           Africa                            Project ID:    P123093
+                            Project Name:      West Africa Regional Communications Infrastructure Project - APL 2 (P123093)
+                            Task Team          Boutheina Guermazi
+                            Leader:
+                            Estimated          18-Mar-2013                       Estimated   30-May-2013
+                            Appraisal Date:                                      Board Date:
+                            Managing Unit:     TWICT                             Lending     Adaptable Program Loan
+                                                                                 Instrument:
+                            Sector:            Telecommunications (50%), General information and communications sector
+                                               (50%)
+                            Theme:             Regulation and competition policy (40%), Regional integration (40%),
+                                               Infrastructure services for private sector development (20%)
+                            Financing (In USD Million)
+                            Total Project Cost:     88.40                       Total Bank Financing:       60.00
+Public Disclosure Copy
+
+
+
+
+                            Total Cofinancing:                                  Financing Gap:               0.00
+                              Financing Source                                                            Amount
+                              BORROWER/RECIPIENT                                                            9.20
+                              International Development Association (IDA)                                  60.00
+                              EC European Investment Bank                                                  19.20
+                              Total                                                                        88.40
+                            Environmental B - Partial Assessment
+                            Category:
+                            Is this a          No
+                            Repeater
+                            project?
+
+                            2. Project Objectives
+                           The objectives of the project are to increase the geographical reach of broadband networks and to
+                           reduce costs of communications services in the territories of the Islamic Republic of Mauritania and
+                           in the Republic of Togo.
+                            3. Project Description
+
+
+                                                                       Page 1 of 9
+                         Similarly to APL 1-A and APL 1-B, the proposed operation will have in each country three
+                         components as follows:
+                          Component 1: Supporting connectivity,
+Public Disclosure Copy
+
+
+
+
+                          Component 2: Creating an enabling environment for connectivity, and
+                          Component 3: Project implementation.
+
+                          WARCIP Mauritania
+
+                         Component 1 Supporting connectivity will focus on: (a) building 4 fiber optic missing links (Link 1:
+                         531km Nouakchott-Atar-Choum; Link 2: 723km Rosso-Boghe Kaedi-Selibaby-Kiffa; Link 3: 280km
+                         Aioun-Nema; Link 4 – 43km Selibaby towards Mali border) to provide redundancy connectivity for
+                         cross-border links towards ECOWAS - namely towards landlocked countries Mali, Niger and
+                         Burkina Faso - and towards North Africa (via the connection with Morocco) as well as dissemination
+                         of international connectivity to most provincial capitals contributing hereby to reducing the urban/
+                         rural divide in the sub-region and a IXP / Carrier hotel / Datacenter building ; (b) establishing a
+                         national and regional Internet Exchange Point (IXP ) in this IXP / carrier hotel / datacenter building.
+                         Missing links and IXPs shall be built and operated under a PPP and in accordance with open access
+                         principles. Economic and financial analysis has been conducted for the proposed investment as part
+                         of project preparation. Missing links and neutral carrier hotel are jointly-co-financed with EIB.
+
+                         Component 2 Creating an enabling environment for connectivity will include the following activities,
+                         that have been identified taking due account of the strategic projects of the 2012-2016 Strategy for
+                         ICT and Modernization of Public Service: (i) Technical Assistance (TA) to implement Open Access
+                         Regime & PPP for national backbone including transaction/legal, regulatory and economic/financial
+                         support as well as supporting the drafting of the technical tender for backbone links and for IXP/
+                         Datacenter; (ii) TA on key regulatory priorities (develop technical, financial, and operational
+                         conditions to access existing fibers; define fiber interconnection and sharing regulation tools; define
+                         Reference Offer for International Connectivity; develop cost models for interconnection (fixed and
+Public Disclosure Copy
+
+
+
+
+                         mobile) and for broadband wholesale offers including facility sharing and support in defining the
+                         relevant markets and approving the interconnection catalogue; set up an observatory of the telecoms/
+                         ICT sector) ; (iii) TA to set up an Internet Exchange Point (IXP) and to design a management policy
+                         for “.mr�? domain name; (iv) TA on broadband stimulation strategies, including supporting ISPs
+                         creation, using universal access funds and costing and leveraging national postal operator Mauripost
+                         network, and associated action plan; (v) TA on a sector fiscal study; (vi) TA to develop institutional
+                         and operational capacities of MDEFPTN and other beneficiaries in policy and regulation, including
+                         training and (vii) Control/evaluation of backbone and Internet Xpoint and Carrierhotel/Datacenter
+                         building works.
+
+                         Component 3 Project implementation will (i) finance environmental and social studies, including
+                         their implementation and/or the monitoring of their implementation, (ii) provide support needed to
+                         strengthen the capacity of GoM to implement WARCIP Mauritania, including setting up a Project
+                         Implementation Unit (PIU) located within the Line Ministry (see below), covering office equipment
+                         and some operating costs, trainings on Bank’s project cycle and procurement and FM guidelines of
+                         Bank funded projects, (iii) finance audits, monitoring and evaluation (M&E) including appropriate
+                         actions to support efficient data collection, and communication and (iv) provide project
+                         implementation contingencies.
+
+                         WARCIP Togo
+
+
+                                                                      Page 2 of 9
+                         Component 1- Supporting Connectivity- will have financing and support for 2 main activities: (i)
+                         establishing a carrier hotel and national / regional IXP where a bandwidth market and a national /
+Public Disclosure Copy
+
+
+
+
+                         regional hub for capacity could be established in order to improve terms of access to international
+                         capacity at lower costs, and (ii) Purchase of bulk international bandwidth capacity to ensure that
+                         international (and national) capacity is available to the country at the lowest cost and highest quality.
+                         WARCIP Togo will provide resources for the launch of a competitive tender to purchase high
+                         capacity bandwidth from neighboring coastal countries to be delivered at the carrier hotel. By doing
+                         so, Togo will benefit from similar conditions of access to connectivity (diversity of choice, low
+                         prices) as other countries in the ECOWAS region.
+
+                          Component 2 - Creating an Enabling Environment for Connectivity will focus on (i) the
+                         transactional design and operating model for ownership and management of the carrier hotel using
+                         PPP and support for the competitive tender for the international bandwidth(ii) development of open
+                         access principles to create an enabling environment for improved connectivity, specifically through
+                         support to the regulator to develop regulatory instruments for open access to capacity and to ensure
+                         that the benefits of lower prices trickle down to end users on the retail level, (iii) policy and
+                         regulatory support to improve sectoral efficiency, including price regulation and market competition,
+                         in application of the new ICT policy and (iv) institutional strengthening to the Ministry, to the
+                         regulatory authority and to WACS SPV. A detailed list of activities is provided in Annex 2.
+
+                         Component 3: Project Implementation, Communications and M&E will provide support needed to
+                         strengthen the capacity of the Government to implement the connectivity project, including setting
+                         up a Project Implementation Unit (PIU) located within the Line Ministry and covering office
+                         equipment, operating costs, trainings. The component will also cover the cost audits,
+                         communications, monitoring and evaluation (M&E), and environmental and social studies, including
+                         their implementation and/or the monitoring of their implementation as well as provide project
+                         implementation contingencies
+Public Disclosure Copy
+
+
+
+
+                          4. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+                         For Mauritania and Togo, the exact sites and paths for civil works are not yet known. Some
+                         additional information to the exact paths of the missing links in the case of Mauritania and sites of
+                         neutral carrier hotels / national and regional IXPs in both countries could be known before the Board
+                         meeting, but likely not all the details will be available by then.
+                          5. Environmental and Social Safeguards Specialists
+                         Lucienne M. M'Baipor (AFTCS)
+                         Rita Dambita (TWICT)
+                         Paul-Jean Feno (AFTN1)
+
+                          6. Safeguard Policies                Triggered? Explanation (Optional)
+                          Environmental Assessment OP/         Yes               The operation includes physical investments
+                          BP 4.01                                              such as missing links of national and regional
+                                                                               backbones and neutral carrier hotels / national
+                                                                               and regional IXPs. Because the exact nature and
+                                                                               location of investments may not be determined up
+                                                                               front, the Borrower has prepared an Environment
+
+
+                                                                       Page 3 of 9
+                                                                            and Social Management Framework (ESMF) for
+                                                                            Bank’s approval before appraisal stage. ESIAs/
+                                                                            ESMPs will be prepared, consulted upon, and
+Public Disclosure Copy
+
+
+
+
+                                                                            disclosed once sites and works are finalized
+                            Natural Habitats OP/BP 4.04       Yes            The missing links shall be deployed alongside
+                                                                            existing roads and the neutral carrier hotels /
+                                                                            national and regional IXPs shall be established in
+                                                                            the capital city. While the links are not expected
+                                                                            to affect critical habitats, the ESMF process will
+                                                                            assess the possibility and, where necessary,
+                                                                            include mitigation measures for such impacts.
+                            Forests OP/BP 4.36                No
+
+                            Pest Management OP 4.09           No
+
+                            Physical Cultural Resources OP/   Yes            The missing links shall be deployed alongside
+                            BP 4.11                                         existing roads and the neutral carrier hotels /
+                                                                            national and regional IXPs shall be established in
+                                                                            the capital city. While the civil works are not
+                                                                            expected to affect physical cultural resources, the
+                                                                            ESMF process will assess this possibility and
+                                                                            include “chance finds�? procedures for inclusion
+                                                                            in the contractors’ contract
+                            Indigenous Peoples OP/BP 4.10     No
+
+                            Involuntary Resettlement OP/BP    Yes             The missing links should be deployed alongside
+                            4.12                                            existing roads and the neutral carrier hotels /
+Public Disclosure Copy
+
+
+
+
+                                                                            national and regional IXPs should be established
+                                                                            in the capital city. While the civil works will
+                                                                            most likely lead to some small land take and
+                                                                            temporary disruptions, due diligence will be
+                                                                            undertaken in each country. RPFs have been
+                                                                            prepared, consulted upon, and disclosed. RAPs
+                                                                            will be prepared, consulted upon, and disclosed as
+                                                                            and when necessary during project
+                                                                            implementation.
+                            Safety of Dams OP/BP 4.37         No
+
+                            Projects on International        No
+                            Waterways OP/BP 7.50
+                            Projects in Disputed Areas OP/BP No
+                            7.60
+
+                         II. Key Safeguard Policy Issues and Their Management
+                             A. Summary of Key Safeguard Issues
+
+
+
+                                                                    Page 4 of 9
+                         1. Describe any safeguard issues and impacts associated with the Restructured project.
+                           Identify and describe any potential large scale, significant and/or irreversible impacts:
+                            The terrestrial fiber optic links are expected to follow roads already in place and the IXP/Carrier
+Public Disclosure Copy
+
+
+
+
+                           Hotel/Datacenter to be built on an existing technical site. In the case of Togo a site will be defined
+                           for the carrier Hotel/Datacenter. The physical components of this project will mostly be limited to
+                           the building of the terrestrial fiber optic links and the IXP/Carrier Hotel/Datacenter. The risks
+                           associated with this kind of infrastructure are generally low.
+                           From an environmental and social safeguard standpoint, the WARCIP Mauritania and WARCIP
+                           Togo projects are rated as a Category B. That is, the environmental and social impacts of the
+                           project, for the most part, are expected to be minimal, site-specific and manageable to an
+                           acceptable level. Therefore, the following Safeguards policies are triggered: OP/BP 4.01
+                           (Environmental Assessment); OP/BP 4.04 (Natural Habitat), OP/BP 4.11 (Physical Cultural) and
+                           OP/BP 4.12 (Involuntary Resettlement. As the exact nature and location of investments may not
+                           be determined up front, the borrowers prepared and consulted upon an Environmental and Social
+                           Management Framework (ESMF) and a Resettlement Policy Framework (RPF).
+
+                           Negative environmental and social impacts of the project will come mainly from the laying of the
+                           fiber in the case of Mauritania and building the carrier Hotel in the case of Togo (and excavation
+                           through human settlements, fields, forests, etc.) that could lead to: soil erosion (esp in dune areas);
+                           soil and water pollution; loss of vegetation (tree felling); the disruption of life (waste from work),
+                           of socio-economic activities and livelihoods located on the way (workshops, garages, shops, etc.);
+                           disturbance of traffic; noise; dust; risk of accident and the generation of waste; risks of land
+                           acquisitions, occupation of private land; possible destruction of crops (in the areas of Rosso,
+                           Boghé, Kaédi, Selibabi, Kiffa and Nema), but also the risk of vandalism and social frustration
+                           when local workforce is not used. The potential environmental and social impacts are likely to be
+                           small-scale and site-specific and thus easily remediable and reversible. The accurate estimate of
+                           the number of people who will be affected is not feasible at this stage of the study. However, in the
+                           case of Mauritania a rough estimate of 1,192 could be made according to the proposed RoW,
+Public Disclosure Copy
+
+
+
+
+                           which is yet to be finalized. Land requirements are estimated at 85 ha. The specific ESIA with the
+                           EMPS when the detailed technical studies are available will confirm the project impacts to the
+                           land acquisitions and the number of population affected by the project in compliance with the
+                           principles and procedures agreed within RPF. In the case of Togo the figure does not exist as the
+                           site is still not identified.
+
+                           As the carrier Hotel in Mauritania will be built on an existing technical site, negative impacts for
+                           the IXP/Carrier Hotel/Datacenter should be limited to risks of accidents during the works and the
+                           works wastes.
+                         2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+                           in the project area:
+                            n/a
+                         3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+                           impacts.
+                            n/a
+                         4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+                           assessment of borrower capacity to plan and implement the measures described.
+                            Because the exact nature and location of investments may not be determined up front, the
+                           borrowers prepared and consulted upon an Environmental and Social Management Framework
+
+
+                                                                       Page 5 of 9
+                         (ESMF) and a Resettlement Policy Framework (RPF). Once the final path for the carrier hotel in
+                         Togo and the terrestrial fiber foreseen alongside existing railway tracks and roads and the final
+                         location of the associated technical sites are chosen and the specific civil works identified, the
+Public Disclosure Copy
+
+
+
+
+                         Borrowers will prepare and consult upon an Environmental and Social Management Plan (ESMP)
+                         as well as a Resettlement Action Plan (RAP) or an Abbreviated RAP whichever will be
+                         appropriate. These safeguard documents will be prepared as part of project implementation but
+                         before the carrier Hotel is built and the terrestrial fiber optic link is laid.
+
+                         The ESMF for Mauritania and ESMF for Togo outline: (i) Mitigation of impacts of the fiber
+                         laying and building the carrier hotel including environmental guidelines for contractors and
+                         guidelines applicable to health, safety and environment; (ii) Measures in case of archaeological
+                         discovery; (iii) Institutional strengthening measures (strengthening environmental expertise of the
+                         WARCIP PIU); (iv) Strengthening technical measures (provision for the implementation of
+                         environmental impact assessments ; monitoring and evaluation of WARCIP); (v) Informing
+                         stakeholders involved in the implementation of the project and public awareness; (vi) A program
+                         of surveillance and monitoring; (vii) Institutional responsibilities for environmental monitoring;
+                         (viii) The institutional arrangements for implementing the ESMF; (ix) The recommendations for
+                         implementation; (x) The timing for the implementation of measures and the Costs of
+                         environmental and social measures.
+
+                         The ESMF guides the preparation of safeguards instruments during sub-project preparation and
+                         implementation. It contains a simple of TORs for Environmental and Social Impacts Assessments
+                         (ESIA) and the screening guidelines to be used by the Environment and Social Focal Point of the
+                         project. Based on the outcomes of the screening process, the requirement to carry out an
+                         Environmental and Social Impact Assessment (ESIA) that includes an Environmental and Social
+                         Management Plan (ESMP) will be undertaken during project implementation in parallel with
+                         subproject technical feasibility studies. At the same time, prior to subproject appraisal, the
+                         implementing agency will agree to apply the following minimum standards during
+                         implementation: inclusion of standard Environmental Codes of Practice (ECOP) in the bid
+Public Disclosure Copy
+
+
+
+
+                         documents for the rehabilitation of IXP/Carrier Hotel/Datacenter.
+                         The proposed operation mainly the terrestrial fiber optic links which follow roads already in place
+                         and the IXP/Carrier Hotel/Datacenter to be built on an existing technical site, is not expected to
+                         pose risks of damaging existing community cultural property. Nevertheless, proposed subprojects
+                         will be screened for their potential impacts on cultural property and chance find procedures will be
+                         applied and appropriate mitigation measures for both the identification and protection of cultural
+                         property. These measures will be included in standard bidding documents as part of the social and
+                         environmental clauses for consideration by the construction companies. While not damaging
+                         cultural property, subproject preparation may later identify and include assistance for preservation
+                         of historical or archeological sites. If these opportunities occur, cultural property management
+                         plans would be prepared for those subprojects. The ESMF has provided the systematic steps to be
+                         followed once these properties are discovered during project implementation.
+
+                         The proposed activities under this operation should not cross natural parks or reserves. However,
+                         the project should make special arrangements for sites sensitive (wetlands and natural habitats). If
+                         the works will result any pressures on natural ecosystems, fauna and flora, the ESMF has
+                         recommended step to be followed during ESIA preparation in addition to avoid these sites with the
+                         project design (to follow existing roads as much as possible).
+
+                         The need for involuntary resettlement resulting from land acquisition in specific subproject areas
+
+                                                                   Page 6 of 9
+                          will only be known during project implementation when site-specific plans are available. The RPF
+                          includes guidance for preparing socio-economic surveys, a census of people and assets, and
+                          appropriate eligibility and entitlement frameworks. Therefore, subprojects will be screened for
+Public Disclosure Copy
+
+
+
+
+                          application of the resettlement policy and any subprojects involving involuntary resettlement or
+                          land acquisition will only be approved after preparation of a Resettlement Action Plan (RAP)
+                          acceptable to the Bank. Several issues will increase the complexity of land acquisition, including
+                          the lack of reliable land record systems and the inability of people losing land to either document
+                          ownership or be physically present to make eligibility claims. The safeguards framework will thus
+                          include procedures for identifying eligible project-affected individuals, calculating and delivering
+                          compensation, and determining mechanisms for land dispute grievance redress as well as
+                          mechanisms for adequately monitoring and evaluating the level of compliance.
+
+                          For Mauritania The total cost of activities is estimated at US$1,190,000. Bank will finance US
+                          $800,000 and GoM US$390,000. For Togo it is estimated at US$ 406,000. The Bank funds will
+                          not finance land acquisition.
+
+                          The supervision of safeguards implementation for WARCIP Mauritania will be done as part of the
+                          overall project implementation by the WARCIP PIU (on behalf of the National Connectivity
+                          Commission) in conjunction with the Line Ministry in charge of Environment and Sustainable
+                          Development. The technical expert within the WARCIP PIU will serve as an Environment and
+                          Social Safeguards Focal Point (Point Focal Environnement et Social (PFES) that will be in charge
+                          of coordinating the implementation, the monitoring (control and audit) of social and environmental
+                          aspects and be an interface between the project, local authorities and other stakeholders. He will be
+                          assisted by two external environmental and social experts.         To ensure successful
+                          implementation of the project safeguard measures, capacity of the WARCIP PIU as well as of the
+                          Line Ministry MDEFPNT, the APAUS and of the Line Ministry in charge of Environment and
+                          Sustainable Development will be strengthened throughout the project. To ensure effective Bank
+                          supervision, the WARCIP PIU will prepare and update reports on the implementation of the
+                          safeguards instruments prepared under WARCIP Mauritania before Bank supervision missions.
+Public Disclosure Copy
+
+
+
+
+                          During and throughout the project supervision, the World Bank task team will assess the
+                          appropriate implementation of the environmental and social mitigation measures and subsequently
+                          recommend additional strengthening measures as needed.
+
+                           In the case of Togo, WARCIP Togo PIU will be strengthened by hiring an environmental and
+                           social safeguards consultant (part time) who will work closely with Agence Nationale de la
+                           Gestion Environnemtale (ANGE). This environmental and social focal point (SEFP) responsible
+                           for following up on safeguards concerns to ensure that all subprojects identified for operation
+                           financing have included consistent and coherent environmental and social measures and are
+                           responsible for applying the safeguard screening and mitigation requirements to each subproject.
+                         5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+                           on safeguard policies, with an emphasis on potentially affected people.
+                             Mauritania
+                           Key stakeholders for consultation include current inhabitants (where applicable), Line Ministry in
+                           charge of Environment and Sustainable Development, the Line Ministry MDEFPNT, the APAUS,
+                           businesses and civil society. Stakeholders were interviewed in the project target areas during field
+                           visits made by the consultants working on the environmental and social safeguards. All the key
+                           actors, called to play a part in this process, have been consulted and informed. The potentially
+                           affected persons have been consulted as well.
+
+
+                                                                      Page 7 of 9
+                           In the case of Togo key stakeholders for consultations included elected local governments,
+                           operators including Togo Télécom, le DT de Moov and Togo cellulaire, in addition to Ministry of
+Public Disclosure Copy
+
+
+
+
+                           post and Telecom, Ministry of Environment and ANGE, in addition to businesses, civil society in
+                           the three potential sites for the carrier hotel (Afidényigba site, new Presidency site and Cacavelli
+                           site, all in the Capital city).
+
+                           During the preparation of safeguard documents for the subprojects and their implementation, the
+                           PUI will consult project-affected groups and local nongovernmental organizations on all
+                           environmental and social aspects of the project and will take their views into account accordingly.
+                           The implementing agency will initiate these public consultations as early as possible and will
+                           provide all relevant material in a form and language(s) that are understandable and accessible to
+                           the groups being consulted in a timely manner prior to consultation. The ESMF and RPF have
+                           been disclosed in the countries, in Mauritania on March 12, 2013 and in Togo on March 20, 2013.
+                           Both documents have been also disclosed at the World Bank's Infoshop for Mauritania on March
+                           08, 2013 and Togo on March 19, 2013.
+                         B. Disclosure Requirements
+                         Environmental Assessment/Audit/Management Plan/Other
+                           Was the document disclosed prior to appraisal?
+                           Date of receipt by the Bank                                      14-Jan-2013
+                           Date of submission to InfoShop                                   20-Mar-2013
+                           For category A projects, date of distributing the Executive
+                           Summary of the EA to the Executive Directors
+                         "In country" Disclosure
+                           Mauritania                                                       12-Mar-2013
+                           Comments:
+Public Disclosure Copy
+
+
+
+
+                           Togo                                                             19-Mar-2013
+                           Comments:
+                          Resettlement Action Plan/Framework/Policy Process
+                           Was the document disclosed prior to appraisal?
+                           Date of receipt by the Bank                                      26-Feb-2013
+                           Date of submission to InfoShop                                   20-Mar-2013
+                         "In country" Disclosure
+                           Mauritania                                                       12-Mar-2013
+                           Comments:
+                           Togo                                                             19-Mar-2013
+                           Comments:
+                         If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+                         respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+                         Audit/or EMP.
+                         If in-country disclosure of any of the above documents is not expected, please explain why:
+
+
+
+
+                                                                      Page 8 of 9
+                           C. Compliance Monitoring Indicators at the Corporate Level
+                            OP/BP/GP 4.01 - Environment Assessment
+Public Disclosure Copy
+
+
+
+
+                             Are the cost and the accountabilities for the EMP incorporated     Yes [    ]   No [   ]   NA [   ]
+                             in the credit/loan?
+                            OP/BP 4.04 - Natural Habitats
+                             If the project would result in significant conversion or           Yes [    ]   No [   ]   NA [   ]
+                             degradation of other (non-critical) natural habitats, does the
+                             project include mitigation measures acceptable to the Bank?
+                            OP/BP 4.11 - Physical Cultural Resources
+                             Does the credit/loan incorporate mechanisms to mitigate the        Yes [    ]   No [   ]   NA [   ]
+                             potential adverse impacts on cultural property?
+                            OP/BP 4.12 - Involuntary Resettlement
+                             If yes, then did the Regional unit responsible for safeguards or   Yes [    ]   No [   ]   NA [   ]
+                             Sector Manager review the plan?
+                            The World Bank Policy on Disclosure of Information
+                             Have relevant safeguard policies documents been sent to the        Yes [    ]   No [   ]   NA [   ]
+                             World Bank's Infoshop?
+                             Have relevant documents been disclosed in-country in a public      Yes [    ]   No [   ]   NA [   ]
+                             place in a form and language that are understandable and
+                             accessible to project-affected groups and local NGOs?
+                            All Safeguard Policies
+                             Have satisfactory calendar, budget and clear institutional         Yes [    ]   No [   ]   NA [   ]
+                             responsibilities been prepared for the implementation of
+                             measures related to safeguard policies?
+                             Have costs related to safeguard policy measures been included      Yes [    ]   No [   ]   NA [   ]
+Public Disclosure Copy
+
+
+
+
+                             in the project cost?
+                             Does the Monitoring and Evaluation system of the project           Yes [    ]   No [   ]   NA [   ]
+                             include the monitoring of safeguard impacts and measures
+                             related to safeguard policies?
+                             Have satisfactory implementation arrangements been agreed          Yes [    ]   No [   ]   NA [   ]
+                             with the borrower and the same been adequately reflected in
+                             the project legal documents?
+
+                         III. APPROVALS
+                            Task Team Leader: Boutheina Guermazi
+                            Approved By
+                            Regional Safeguards Name: Alexandra C. Bezeredi (RSA)                       Date: 02-Apr-2013
+                            Coordinator:
+                            Sector Manager:     Name: Randeep Sudan (SM)                                Date: 31-Mar-2013
+
+
+
+
+                                                                        Page 9 of 9
+

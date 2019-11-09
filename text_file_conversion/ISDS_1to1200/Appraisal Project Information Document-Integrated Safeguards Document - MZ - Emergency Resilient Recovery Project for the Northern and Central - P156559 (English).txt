@@ -1,0 +1,620 @@
+﻿0
+COMBINED PROJECT INFORMATION DOCUMENTS / INTEGRATED
+SAFEGUARDS DATA SHEET (PID/ISDS)
+APPRAISAL STAGE
+Report No.: PIDISDSA14933
+Date Prepared/Updated:     20-Aug-2015
+I. BASIC INFORMATION
+A. Basic Project Data
+Country:        Mozambique                  Project ID:  P156559
+Parent
+Project ID
+(if any):
+Project Name: MZ - Emergency Resilient Recovery Project for the Northern and Central
+(P156559)
+Region:         AFRICA
+Estimated       07-Aug-2015                 Estimated    29-Sep-2015
+Appraisal Date:                             Board Date:
+Practice Area   Social, Urban, Rural and    Lending      Investment Project Financing
+(Lead):         Resilience Global Practice  Instrument:
+Sector(s):      Primary education (30%), Water supply (20%), Irrigation and drainage (20%),
+Flood protection (30%)
+Theme(s):       Natural disaster management (40%), Water resource management (20%),
+Education for all (15%), Rural services and infrastructure (15%) , Climate
+change (10%)
+Borrower(s):    Ministry of Economy and Finance (MEF)
+Implementing    Ministry of Public Works, Housing and Water Resources (MOPHRH), Ministry
+Agency:         of Education and Human Development (MINEDH), Water and Sanitation
+Infrastructure Administration (AIAS), National Institute for Irrigation (INIR)
+o        Is this project processed under OP 8.50 (Emergency Recovery) or OP
+8.00 (Rapid Response to Crises and Emergencies)?
+Financing (in USD Million)
+Financing Source                                                          Amount
+BORROWER/RECIPIENT                                                            0.00
+International Development Association (IDA)                                  40.00
+Total Project Cost                                                           40.00
+Environmental B - Partial Assessment
+Category:
+Appraisal       The review did authorize to proceed with Negotiations, in principle
+Review
+Decision (from
+Decision Note):
+Page 1 of 14
+
+
+﻿0
+Other Decision:
+Is this a        No
+Repeater
+project?
+B. Introduction and Context
+Country Context
+Mozambique is located on the east coast of Africa, bordering six countries. With an area of
+800,000 square kilometers, the country is richly endowed with natural resources, including arable
+land, forests, fisheries, water and mineral resources. Mozambique's economy has grown rapidly
+since the end of the civil war in 1992. Annual Gross Domestic Product (GDP) growth averaged
+7.4 percent over the past two decades. Robust growth was made possible by sound
+macroeconomic management, a number of large-scale foreign-investment projects, political
+stability and significant donor support. In recent years, strong growth has more specifically been
+supported by foreign direct investment inflows in extractive industries. Major discoveries of coal
+and gas have the potential to transform Mozambique into a significant player in global markets.
+Despite this wealth and rapid development, Mozambique remains one of the poorest countries in
+the world, with approximately 70 percent of its 22.9 million people living and working in extreme
+poverty (less than US$2 a day). In 2007, 38 percent of the population was undernourished and
+only 42 percent had access to an improved water source. The country ranks 178 out of 187 in
+United Nations Development Programme's (UNDP) Human Development Index (2013), the
+lowest in southern Africa. Over 70 percent of the population live in rural areas and are still
+dependent on subsistence agriculture. The geographical distribution of poverty also remains
+largely unchanged since the last 2009 poverty assessment, with poverty concentrated in rural
+areas and in the Central and Northern regions. The Southern region experienced moderate
+reduction in poverty in the mid- and late-2000s, reflecting spillover effects from the rapid growth
+O
+U           of urban centers in the region.
+Mozambique experiences some of southern Africa's most variable hydrological and
+meteorological conditions. Tropical to sub-tropical climates prevail in the Northern and Central
+regions, whereas the South is predominantly arid. The oscillations of the Inter-Tropical
+Convergence Zone (referred to as El Niilo/La Niila phenomena) influence the timing and
+magnitude of rainy (October to March) and dry seasons (April to September). The country is
+particularly exposed to tropical cyclones and is also the third country most at risk from water and
+weather-related hazards in Africa . About 58 percent of the population and more than 37 percent
+of GDP are exposed to two or more natural hazards, which translates into 1.1 percent annual
+average loss in GDP. Floods in particular cause annual average losses in the order of US$17.5
+million in damage to household housing, US$0.7 million in damage to roads and bridges, and US
+$42.5 million of loss in maize.
+Sectoral and institutional Context
+Dikes & Flood Protection: The Ministry of Public Works, Housing and Water Resources
+(MOPHRH) through the National Directorate of Water (DNA) is responsible for the strategic
+management of water resources in Mozambique. DNA combines the responsibility for policy
+making, implementation, planning and management of water resources, as well as provision of
+water supply and sanitation services in rural areas. The strategic activities undertaken by DNA are
+Page 2 of 14
+
+
+﻿0            operationalized by the five Regional Water Authorities (ARAs). In Mozambique, dikes protecting
+irrigation schemes and urban areas are institutionally under the responsibility of ARAs, while
+dikes lying within irrigated schemes are under the responsibility of the Ministry of Agriculture
+and Food Security (MASA).
+Flood protection works are not abundant in the affected area. Affected dikes are located in the left
+bank of the lower Licungo River (Nante) and in the left bank of the lower Zambezi river (Luabo).
+These are very flat, productive and densely populated areas where thousands of people live and
+work under the protection of the dikes. These dikes are old infrastructures built in the 1960s to
+1980s. They have been subject to recurrent flooding every one or two years and subsequent
+erosions with lack of maintenance. They have at times suffered important breaches, which went
+several years with no repair, aggravating exponentially the vulnerability of areas, as was the case
+with the Nante dike that was dramatically damaged in the January and February 2015 flooding.
+Their top surfaces are used as local roads, and thus lowered when considered obstacles to
+crossing, especially with cattle. In addition, water pumping from the river towards the irrigated
+fields leads to excavations of the embankments. Aggravations of flood intensities over the last
+years indicate that design features are in critical need of review.
+Agriculture & Irrigation: Agriculture is a significant potential contributor to rural poverty
+reduction. Agricultural improvements offer scope to narrow persistent income disparities between
+rural and urban areas and to reduce poverty in regions that benefitted little from the economic
+gains of recent years. However, with increased unpredictability and severity, floods and droughts
+frequently disrupt agricultural production and livelihoods in Mozambique. With regards to the
+latest flooding event, more than 104,430 hectares of crops were lost between January and
+February 2015, impacting 102,000 farmer households. Moreover, the irrigation infrastructure in
+Mozambique is less developed than in other average Sub-Saharan African countries. As of 2007,
+2.7 percent of the country's cultivated area was equipped for irrigation, below the region's
+average of 3.5 percent. The equipped irrigation area contributes merely 4.8 percent to the total
+agriculture output. Mozambique thus stands as the country with the largest potential area increase
+for small-scale projects. To this end, and with the adoption of the National Strategy for
+Irrigationin December 2010, the National Institute for Irrigation (INIR) was recently established
+under the Ministry of Agriculture and Food Security (MASA) to adequately cover policy,
+strategic and operational issues related to irrigation. It is being equipped with the tools and
+capacity to facilitate a revival of the Mozambican irrigation. The Government of Mozambique
+(GoM) also adopted regulations governing water user rights, implemented through a network of
+regional water resource management centers that issue water user rights and collect water user
+fees from producers.
+The GoM has identified several priorities to improve the performance of the irrigation subsector
+and transform it into an engine of growth for agriculture: (i) enhance the management of irrigation
+assets, focusing particularly on cost recovery to finance operation and maintenance; (ii) improve
+the legal and regulatory framework on water for agriculture and the efficiency of enforcing the
+Land Law to clarify land use rights and enhance land use security to enhance access to irrigation
+as well as private investment in the subsector; and (iii) establish linkages and working
+relationships between public entities responsible for irrigation (at the central and provincial
+levels) and beneficiaries (such as smallholder farmer associations, irrigation associations,
+individual farmers, and private enterprises) through Public-Private Partnerships for irrigation
+development.
+Page 3 of 14
+
+
+﻿0
+*           Drinking Water Supply: The Water and Sanitation Infrastructure Administration (AIAS) is
+responsible for water, sanitation and waste water treatment in all secondary towns in
+Mozambique. In 2012, about 47 percent of the Mozambican population had access to an
+improved water source, and only 17 percent to adequate sanitation. Estimated access to an
+improved source of water supply were at 77 percent in urban areas and 29 percent in rural areas as
+of 2010. The coverage of drinking water supply in the three affected provinces is relatively lower
+when compared to country averages. In addition to their limited availability, drinking water
+systems are also highly vulnerable. The main factors contributing to their vulnerability are: (i)
+lack of compliance with the protection areas in the surroundings of capture sites; (ii) flood
+protection infrastructure below standards; and (iii) the proximity of infrastructures to areas prone
+to high runoff or landslides. The water supply systems in urban areas in the affected provinces are
+particularly vulnerable to the direct impact of floodwaters as they are usually lying in or near the
+riverbeds. The intakes of Mocuba, Molocue and Ile and conduits in Cuamba and Nacala are good
+examples as the systems proved indirectly vulnerable to energy outages.
+Education: It is estimated that 72 percent of schools in Mozambique are located in high-risk areas
+of one or more hazard (cyclone, floods, etc.). Due to inadequate design, poor construction
+quality, as well as inappropriate location and orientation, school buildings are highly vulnerable to
+the combined effects of flooding and wind hazards. In addition, more than 40 percent of
+classrooms are built directly by the communities, using substandard construction techniques and
+local materials (such as straw-bale, haystack, timber poles, and raw mud as walls finishing). Half
+of these "non-conventional" schools are located in the provinces of Nampula and Zambezia. This
+combination of high exposure and vulnerability to natural hazards results in frequent damages and
+destruction of schools. In recent years, the number of classrooms destroyed in a single disaster
+event has overpassed the number of classrooms built annually by the Ministry of Education and
+Human Development (MINEDH). As an example, the 2013 and 2015 floods destroyed or
+damaged respectively 695 and 433 conventional classrooms while during those same years the
+MINEDH built on average 600 classrooms annually. Under this scenario, the GoM will hardly
+manage to cover the deficit of classrooms estimated to be around 40,000.
+O
+Disaster Risk Management: In light of the recurring disasters affecting the country, the GoM is
+currently updating its legal and institutional DRM framework. The new Disaster Management
+Law 15/2014 was passed on June 20, 2014 by the Parliament but its full implementation requires
+additional regulations by the GoM. In the meantime, the Master Plan for Natural Disaster
+Prevention and Mitigation (2006-2014) remains the main operational reference document. It
+clearly links disaster prevention, mitigation and recovery with poverty and vulnerability reduction
+in an agriculture-based economy. While critical progress has been made in the past decade in
+building the disaster preparedness and response capacity of the INGC, supported by a large
+decentralized network of DRM committees, the 2015 floods highlighted the need to improve the
+dissemination of early warnings to vulnerable communities (last-mile connectivity), to
+systematize the mainstreaming of DRM in the recovery phase and to strengthen the coordination,
+monitoring and evaluation of recovery and reconstruction interventions.
+C. Proposed Development Objective(s)
+Development Objective(s)
+The Project Development Objective is to restore the functionality of critical infrastructure in a
+Page 4 of 14
+
+
+﻿0
+resilient manner in the disaster-affected provinces; and to improve the Government of
+Mozambique's capacity to respond promptly and effectively to an eligible crisis or emergency.
+Key Results
+(a)    Direct project beneficiaries, including female beneficiaries;
+(b)    Number of people protected by rehabilitated dike infrastructure;
+(c)    Number of children with access to improved education infrastructure;
+(d)    Number of people with access to improved irrigation infrastructure;
+(e)    Number of people in urban areas provided with access to improved water sources under
+the project; and
+(f)    Number of people supported by early warning and response systems.
+D. Project Description
+The Project addresses a combination of early, medium and long-term reconstruction needs based
+on priority sectors as identified in the GoM-World Bank-UN-EU Joint Damage Assessment
+report conducted in March 2015. The rehabilitation activities focus on specific high-risk zones to
+ensure that the mobilized resources target the rehabilitation of areas with the greatest potential
+rewards for the affected populations in a resilient manner. It will thus focus on: (i) the urgent
+rehabilitation of dikes in the short-term ahead of the upcoming rainy season in November; (ii) the
+rehabilitation of irrigation, drinking water, and education infrastructure in the medium-term to
+restore connectivity and preserve previous investments that are currently endangered; and (iii)
+technical assistance and analytical support in the areas of safer schools, early warning systems,
+recovery framework, and watershed management to build longer-term resilience.
+Component Name
+Component A - Resilient Infrastructure Rehabilitation
+Comments (optional)
+The activities to be financed under this component are the resilient rehabilitation or reconstruction
+of key: (i) dikes, (ii) irrigation, and (iii) drinking water supply infrastructure in Mozambique's
+Licungo River and (iv) education infrastructure, as recommended in the GoM-World Bank-UN-
+EU Joint Damage Assessment.
+Component Name
+Component B - Technical Assistance for Resilient Recovery and Vulnerability Reduction
+Comments (optional)
+This component would focus on enhancing the capacity to manage risks associated with natural
+hazards, and will be complemented by resources from GFDRR in support of Safer Schools, DRM
+Legal Framework, Recovery Framework, amongst others. Community engagement and outreach
+will also play a significant role under this component, with regards to the rehabilitation of schools
+and early warning systems.
+Component Name
+Component C - Project Implementation, Monitoring and Evaluation
+Comments (optional)
+This component will finance Project implementation, monitoring and evaluation costs for
+MOPHRH (for DNA), INIR, AIAS and MINEDH.
+Page 5 of 14
+
+
+﻿0
+Component Name
+Component D - Contingency Emergency Response Component (CERC)
+Comments (optional)
+This component would finance emergency works in case of another disaster event by including a
+"zero-dollar" Contingency Emergency Response Component (CERC). This would help reduce
+damage to infrastructure, ensure business continuity, and enable early rehabilitation.
+E. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+The Project will be implemented in selected flood-affected areas across the three provinces of
+Zambezia, Niassa and Nampula. The selection of priority geographic areas of intervention will be
+finalized upon project implementation given the emergency nature of the Project. Nonetheless,
+current available data indicate that some of the foreseen sub-projects activities will likely be
+rehabilitation of basic infrastructure and viable such as dike, irrigation, drinking water supply and
+education infrastructure. All water-related rehabilitation works, including dikes, irrigated
+schemes, and drinking water supply, will be conducted in the Licungo Watershed. This is part of
+the Licungo River, which originates in Mozambique and is not a tributary of an international
+waterway. The rehabilitation and reconstruction of classrooms, however, will focus on the
+Northern and Central regions across the Zambezia, Niassa and Nampula provinces.
+F. Environmental and Social Safeguards Specialists
+Cheikh A. T. Sagna (GSURR)
+Eden Gabriel Vieira Dava (GSUO 1)
+Paulo Jorge Temba Sithoe (GENDR)
+II. Implementation
+Q        Institutional and Implementation Arrangements
+Use of Existing Institutional Structures: Implementation arrangements for the proposed Project will
+be based on well-tested, existing institutional structures. The Project will be implemented by the
+following in line with their respective mandates: (i) MOPHRH through DNA for dikes rehabilitation
+and flood risk management; (ii) INIR for irrigation; (iii) AIAS for drinking water supply; and (iv)
+MINEDH for safer schools. All these institutions are currently implementing other Bank-financed
+projects and specific implementation arrangements will be derived from those in place under the
+following projects: (i) WRD Water Resources Development (MOPHRH); (ii) Transforming
+Hydrological and Meteorological Services (MOPHRH); (iii) PROIRRI Sustainable Irrigation
+Development Project (INIR); (iv) CCCP Cities and Climate Change Project (AIAS); and (v) ESSP
+Education Sector Support Program (MINEDH). Project teams in place would be strengthened with
+the recruitment of additional technical, financial management and procurement consultants, as
+appropriate. DNA has a longstanding technical ability to handle projects with very complex Bank
+Safeguards requirements. DNA will therefore take a leading role and coordinate the preparation of
+the ESMF, including the consolidation of progress reports. Hence, DNA would strengthen its
+technical staff to ensure adequate coordination towards the consolidation of the safeguards
+instruments.
+Project Steering Committee (PSC): A Project Steering Committee will be established under the
+Page 6 of 14
+
+
+﻿0
+leadership of the Ministry of Economy and Finance (MEF) and INGC, with INGC acting as the PSC
+Secretariat. It will report to the Technical Committee for Disaster Management (CTGC) to ensure
+overall coordination, monitor recovery efforts and provide Project implementation oversight. The
+PSC will also oversee the consolidation of implementation progress reports from DNA, INIR, AIAS
+and MINEDH every six months. A Project Coordinator will be specifically recruited for this Project
+under the PSC in order to manage coordination and the consolidation of reports amongst DNA, INIR,
+AIAS and MINEDH.
+III. Safeguard Policies that might apply
+Safeguard Policies          Triggered? Explanation (Optional)
+Environmental Assessment    Yes         The Emergency Resilient Recovery Project will
+OP/BP 4.01                              trigger this policy due to the involvement of civil
+works (rehabilitations, construction works) of public
+infrastructure in flood-affected areas. Civil works
+will possibly generate negative externalities such as:
+soil erosion and siltation, loss of trees, pollution to
+surface and ground water resources, soil erosion,
+dust emissions, solid and wastes.
+Components under the Project that would trigger this
+safeguard policy are Resilient Infrastructure
+Rehabilitation, which involve the rehabilitation and
+strengthening of dikes; the rehabilitation of damaged
+conventional classrooms and building of "mixed"
+classrooms to replace those non-conventional
+classrooms destroyed during the event; the
+rehabilitation of irrigation infrastructure; and fixing
+the intake of the Mocuba drinking water supply
+)                                                  system.
+The scope of specific Project activities will need to
+be more detailed. An ESMF will be prepared which
+will provide the criteria and procedures for screening
+Project activities and guide the preparation of site-
+specific Environmental and Social Impact
+Assessments (ESIAs) and Environmental and Social
+Management Plans (ESMPs). The ESMF will also
+assess the institutional capacity of DNA, INIR,
+AIAS, and MINEDH, including the already created
+implementation arrangements, and provide measures
+for capacity building along with an estimate of the
+budget needed for the implementation of the ESMF.
+The ESMF will also provide a list of activities that
+could be financed by the Project and screen out
+activities that correspond to Category A projects.
+Furthermore, the terms of reference for component
+B3 (Licungo Watershed Management study) will
+Page 7 of 14
+
+
+﻿also pay attention to environmental and social
+considerations.
+The justification for classification of category B is
+that most of the Project will focus on medium size
+rehabilitation and re-construction projects for dikes,
+irrigation schemes, and fixing an intake drinking
+water supply system. The anticipated scale of
+potential adverse environmental or social impacts on
+human populations is site-specific, few if any of
+them are irreversible and in most cases, mitigation
+measures could be designed to address the impacts.
+An ESMP for sub-projects can be used to address the
+impacts.
+Natural Habitats OP/BP 4.04   Yes           The Project will trigger this policy due to the
+sensitivity of riverbanks and the fact that floods
+strongly eroded riverbanks, given high speed and
+water flow rates, causing loss of vegetation and
+dragged eroded soil. The forest gallery that grows
+along streams was severely affected, is very
+fragmented and is also increasingly anthropic.
+The rehabilitating of irrigation infrastructures and
+drinking water supply in Mocuba, specially activities
+related to the fixing the intake of the water supply
+system, which is currently located in the Lugela
+River, may affect some already degraded and
+sensitive habitats along the riverbanks. The ESMF
+(and subsequent ESIAs and ESMPs) will include
+provisions for mitigating any possible impacts on
+natural habitats.
+Forests OP/BP 4.36            No            The Project will not interfere with natural forest.
+Pest Management OP 4.09       Yes           The Project will support the rehabilitation of
+irrigation schemes. This involves investments in the
+agriculture sector that will restore production and
+will likely resume the use of pesticides. However, the
+Project will not finance the procurement of
+pesticides. In cases where pesticides are used within
+existing production systems, the Project will promote
+the use of integrated pest management and the safe
+use, storage, and disposal of agro-chemicals. INIR is
+already applying an IPMP under PROIRRI Project
+that could be reutilized for this Project. The IPMP
+was duly prepared, consulted upon and disclosed to
+provide guidance on the use of proper use of
+pesticides and will be adjusted for the Project and re-
+disclosed.
+Page 8 of 14
+
+
+﻿0
+Physical Cultural Resources  Yes         The policy is triggered due to civil works that are
+OP/BP 4.11                               expected to be supported by the Project. The Project
+is not expected to affect known cultural resources.
+Nevertheless, to ensure due diligence, Chance Finds
+approaches will be included in the ESMF (and
+subsequent ESMPs) to provide the useful guidance
+during project implementation.
+Indigenous Peoples OP/BP    No           There are no Indigenous Peoples in the Project area.
+4.10
+Involuntary Resettlement OP/  Yes        The nature of Project activities may involve
+BP 4.12                                  temporary displacement and therefore OP 4.12 is
+triggered. Such activities involve low to medium
+civil works (i.e. rehabilitation of dikes, resilient
+schools, and irrigation schemes, etc.) that may
+require land for temporary or permanent usage. The
+land acquired for this purpose may lead to loss of
+asset, sources of income or means of livelihoods for
+some poor households. To ensure proper mitigation
+measures are set forth, the Borrower will prepare a
+Resettlement Policy Framework (RPF) to guide the
+preparation of site specific Resettlement Action
+Plans (RAPs) once such details are known. RPF will
+provide a framework for management of all potential
+negative social impacts, but also streamlining the
+positive impacts, as well as mainstreaming any
+potential resettlement considerations during the
+project implementation.
+Safety of Dams OP/BP 4.37   No           The Project does not involve dams.
+Projects on International   No           The Project does not involve International
+Waterways OP/BP 7.50                     Waterways. All water-related rehabilitation is located
+in the Licungo River Basin, which originates in
+Mozambique.
+Projects in Disputed Areas OP/ No        The Project is not being implemented in disputed
+BP 7.60                                  areas.
+IV. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+and describe any potential large scale, significant and/or irreversible impacts:
+The project is considered Category "B", and OP 4.01 is triggered. All works will focus on
+rehabilitation and reconstruction of infrastructure damaged during the flooding and storm events,
+which are expected to be small and medium scale, generating only minor and localized
+environmental impacts that can be easily identified, mitigated and managed. No large-scale,
+significant and/or irreversible impacts are expected. Overall, the expected environmental impacts
+are mostly associated with the construction phase of the rehabilitation works. Some of the key
+environmental impacts that may arise due to the proposed Project could be: i) rehabilitation or
+Page 9 of 14
+
+
+﻿reconstruction activities of dikes, schools, irrigation schemes, and drinking water supply
+infrastructure; ii) loss of trees due to an increase in migrant workers using fuel wood, leading to
+potential growth in soil erosion; and iii) increase in water logging and salinization around
+rehabilitated irrigation schemes. These potential impacts have been fully summarized in the
+safeguards section above, hence the triggering of key safeguards policies.
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+in the project area:
+There are not likely to be any long-term negative impacts from the proposed activities. Most of the
+rehabilitation and reconstruction works will focus on existing facilities. The proposed environment
+and social assessment process in the required safeguards instruments built using the existing
+safeguards instruments from (i) WRD Water Resources Development (MOPHRH); (ii)
+Transforming Hydrological and Meteorological Services (MOPHRH); (iii) PROIRRI Sustainable
+Irrigation Development Project (INIR); (iv) CCCP Cities and Climate Change Project (AIAS); and
+(v) ESSP Education Sector Support Program (MINEDH), namely, the Environmental and Social
+Management Framework (ESMF), Resettlement Policy Framework (RPF) and Integrated Pest
+Management Plan (IPMP) for the Project will ensure that these impacts are identified early enough
+in the project planning stage and suitably addressed through suitable mitigation measures as
+prescribed in these instruments.
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+impacts.
+The Project support investments in the rehabilitation or reconstruction of existing infrastructure,
+thus minimizing potential negative social and environmental impacts and increasing the efficiency
+of the investments. In addition, during the design and preparation of specific sub-components,
+alternatives to minimize adverse impacts will be further explored. These could include minimum
+adjustments in the existing alignments, and/or use of alternative materials to enhance the
+sustainability of infrastructure created.
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+assessment of borrower capacity to plan and implement the measures described.
+O
+Due to the envisaged potential negative impacts related to construction and/or rehabilitation
+works, an Environmental and Social Management Frameworks (ESMF), Integrated Pest
+Management Plan (IPMP) and Resettlement Policy Framework (RPF) will be prepared, consulted
+upon and disclosed both in-country and in the Bank's Infoshop. The ESMF and the RPF will
+provide a framework for management of all potential negative environmental and social impacts,
+but also streamlining the positive impacts during as well as mainstreaming any potential
+resettlement considerations during the implementation of the Project. The IPMP that was prepared
+for the PROIRRI Project will be adjusted as needed and re-disclosed. Furthermore, the terms of
+reference for sub-component B3 (Licungo Watershed Management study) will include attention to
+environmental and social considerations.
+Moreover, in light of possible retroactive financing required for sub-component A. 1, an
+environmental and social audit will be required for any works already completed and an/or an
+ESIA and ESMP (and RAP when needed) for works yet to begin.
+DNA, INIR, AIAS and MINEDH have had many years of experience with Bank projects and are
+familiar with Bank safeguards policies, as well as implementation and supervision processes for
+emergency projects.
+Page 10 of 14
+
+
+﻿DNA, INIR, AIAS and MINEDH will prepare four separate versions of each safeguards
+instrument - namely the ESMF, RPF, and IPMP - and DNA will be in charge of consolidating the
+four versions into one document for review, consultation and public disclosure.
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+on safeguard policies, with an emphasis on potentially affected people.
+Key stakeholders of the Project include the national government, local governments, and citizens
+living in the disaster affected/prone provinces. However, given the high profile of the Project and
+the number of stakeholder groups, there are certain groups that could potentially feel negatively
+affected. All stakeholders have a strong interest in the rehabilitation or reconstruction of
+infrastructure that will lead to increased opportunities. Technical reviews will be undertaken to
+ensure that critical works and activities related to flood management and rehabilitation or
+reconstruction of basic public services do not have a negative impact on local residents. Prior to/
+Once the implementation begins, environmental and social safeguards experts will disseminate
+relevant information to local communities living in flood prone areas to further increase awareness
+of the project.
+B. Disclosure Requirements
+Environmental Assessment/Audit/Management Plan/Other
+Date of receipt by the Bank                                30-Oct-2015
+Date of submission to InfoShop                             05-Nov-2015
+For category A projects, date of distributing the Executive  ///
+Summary of the EA to the Executive Directors
+"In country" Disclosure
+Comments:
+Resettlement Action Plan/Framework/Policy Process
+Date of receipt by the Bank                                //
+Date of submission to InfoShop
+"In country" Disclosure
+Comments:
+Pest Management Plan
+Was the document disclosed prior to appraisal?            No
+Date of receipt by the Bank                                ///
+Date of submission to InfoShop                             ///
+"In country" Disclosure
+Comments:
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+Page 11 of 14
+
+
+﻿respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+O
+Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please explain why:
+C. Compliance Monitoring Indicators at the Corporate Level
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP)  Yes[  ] No[X]     NA [   ]
+report?
+OP/BP 4.04 - Natural Habitats
+Would the project result in any significant conversion or  Yes [  ] No [X]   NA [   ]
+degradation of critical natural habitats?
+If the project would result in significant conversion or  Yes [  ] No [  ]   NA [ X ]
+degradation of other (non-critical) natural habitats, does the
+project include mitigation measures acceptable to the Bank?
+OP 4.09 - Pest Management
+Does the EA adequately address the pest management issues?  Yes [  ] No [  ]  NA [ X ]
+Is a separate PMP required?                             Yes [  ] No [    ]   NA [ X ]
+If yes, has the PMP been reviewed and approved by a     Yes [  ] No [    ]   NA [ X ]
+safeguards specialist or PM? Are PMP requirements included
+in project design?If yes, does the project team include a Pest
+Management Specialist?
+OP/BP 4.11 - Physical Cultural Resources
+Does the EA include adequate measures related to cultural  Yes [  ] No [  ]  NA [ X]
+property?
+Does the credit/loan incorporate mechanisms to mitigate the  Yes [  ] No [  ]  NA [ X]
+potential adverse impacts on cultural property?
+o        OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy framework/  Yes [  ] No [X]  NA [   ]
+process framework (as appropriate) been prepared?
+If yes, then did the Regional unit responsible for safeguards or Yes [ ] No [ ] NA [ X ]
+Practice Manager review the plan?
+Is physical displacement/relocation expected?           Yes [  ] No [    ]  TBD [   ]
+Provided estimated number of people to be affected
+Is economic displacement expected? (loss of assets or access to Yes [ ] No [ ] TBD [ ]
+assets that leads to loss of income sources or other means of
+livelihoods)
+Provided estimated number of people to be affected
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the  Yes[  ] No[X]  NA[    ]
+World Bank's Infoshop?
+Page 12 of 14
+
+
+﻿0
+Have relevant documents been disclosed in-country in a public Yes [  ] No [X]  NA [  ]
+place in a form and language that are understandable and
+accessible to project-affected groups and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional  Yes [X] No [  ]  NA [  ]
+responsibilities been prepared for the implementation of
+measures related to safeguard policies?
+Have costs related to safeguard policy measures been included Yes [ X] No [  ]  NA [  ]
+in the project cost?
+Does the Monitoring and Evaluation system of the project  Yes [ X] No [  ]  NA [  ]
+include the monitoring of safeguard impacts and measures
+related to safeguard policies?
+Have satisfactory implementation arrangements been agreed  Yes [X] No [ ]  NA [  ]
+with the borrower and the same been adequately reflected in
+the project legal documents?
+V. Contact point
+World Bank
+Contact: Michel Matera
+Title:   Sr Urban Spec.
+Contact: Jean Baptiste Migraine
+Title:   Disaster Risk Management Speci
+Borrower/Client/Recipient
+Name:    Ministry of Economy and Finance (MEF)
+Contact: Adriano Ubisse
+Title:   Director of Investment Cooperation
+Email:   aubisse@gmail.com
+0
+Implementing Agencies
+Name:    Ministry of Public Works, Housing and Water Resources (MOPHRH)
+Contact: Suzana Saranga Laforte
+Title:   National Director of Waters
+Email:   ssaranga@dnaguas.gov.mz
+Name:    Ministry of Education and Human Development (MINEDH)
+Contact: Eugenio Maposse
+Title:   National Director of Edifications
+Email:   eugenio.maposse@mined.gov.mz
+Name:    Water and Sanitation Infrastructure Administration (AIAS)
+Contact: Olinda de Sousa
+Title:   Executive Director
+Email:   occsousa@hotmail.com
+Name:    National Institute for Irrigation (INIR)
+Contact: Paiva Munguambe
+Title:   General Director
+Email:   kensydoge@yahoo.com
+Page 13 of 14
+
+
+﻿0
+VI. For more information contact:
+The InfoShop
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 458-4500
+Fax: (202) 522-1500
+Web: http://www.worldbank.org/infoshop
+VII. Approval
+Task Team Leader(s): Name: Michel Matera,Jean Baptiste Migraine
+Approved By
+Safeguards Advisor:  Name: Johanna van Tilburg (SA)          Date: 20-Aug-2015
+Practice Manager/    Name: Sameh Naguib Wahba (PMGR)         Date: 20-Aug-2015
+Manager:
+Country Director:    Name: Mark R. Lundell (CD)               Date: 31-Aug-2015
+P
+Page 14 of 14
+
+

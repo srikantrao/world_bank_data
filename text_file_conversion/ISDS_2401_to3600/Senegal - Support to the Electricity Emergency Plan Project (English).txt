@@ -1,0 +1,184 @@
+﻿                        INTEGRATED SAFEGUARDS DATA SHEET
+                                 CONCEPT STAGE
+                                                                               Report No.: AC6317
+
+
+Date ISDS Prepared/Updated: 09/01/2011
+
+I. BASIC INFORMATION
+
+A. Basic Project Data
+
+Country: Senegal                               Project ID: P125565
+Project Name: Support to the Electricity Emergency Plan Project
+Task Team Leader: Stephan Claude Frederic Garnier
+Estimated Appraisal Date: October 17,          Estimated Board Date: December 15, 2011
+2011
+Managing Unit: AFTEG                           Lending Instrument: Specific Investment
+                                               Loan
+Sector: General energy sector (100%)
+Theme: Infrastructure services for private sector development (100%)
+IBRD Amount (US$m.):            0.00
+IDA Amount (US$m.):            80.00
+GEF Amount (US$m.):             0.00
+PCF Amount (US$m.):             0.00
+Other financing amounts by source:
+        BORROWER/RECIPIENT                                               8.00
+                                                                         8.00
+
+
+B. Project Objectives [from section 2 of PCN]
+The proposed project development objective is to reduce SENELEC#s technical and commercial
+losses by rehabilitating/upgrading transmission and distribution grids and installation of smart
+meters, in selected zones.
+
+C. Project Description [from section 3 of PCN]
+The proposed project whose cost is estimated at about US$ 88 million (IDA: US$ 80 million)
+will have the following components:
+
+  Component 1: Transmission and distribution: (around US$45 million)
+  This component includes the upgrading, rehabilitation and replacement of new transmission
+lines and substations, the upgrading of the distribution network from 6.6 kV to 30 kV, the
+construction of new transformers, network protection and control, the extension and
+densification of the distribution network.
+  Although the envelope is limited to about US$45 million, a larger volume of investment has
+been identified and a full feasibility study will be carried out during project preparation, together
+with associated environment impact assessments. The final choice will be made based on several
+criteria, particularly economic attractiveness and urgency.
+ Overall, the current choice is dictated by the priorities established by SENELEC into its
+Distribution and Transmission Investment Program for the 2011/2014 period. This program
+results from the Transmission and Distribution Master Plans recently financed under the
+Electricity Sector Efficiency Enhancement Project supported by IDA, which ended December 31
+2010. The cost of this Program is estimated at approximately 150 billion CFA francs (or about
+US$350 million).
+
+ Component 2. Electronic and Pre-paid Meters Program: (around US$35 million)
+ The policy of installing either pre-paid or electronic meters (for large customers) for all
+SENELEC#s consumers has been adopted by the government after all other attempts at reducing
+losses and securing SENELEC#s revenue have failed. The metering program will be deployed
+in phases with due regard to meter standardization and their interface with the customer
+management system. The component proposed to Bank financing is only the first phase of the
+program. Other meter acquisition and installation will be financed through own resources and by
+other donors yet to be identified. The introduction of electronic and pre-paid meters will
+necessitate a revision of the current tariff level and structure.
+ Through this component it is also proposed to finance the installation of a new customer
+management system. The current system has been in operation since 1994 and is now obsolete.
+This situation also causes difficulties for obtaining support in case of malfunction or breakdown
+of equipment or software that are no longer manufactured or serviced. The acquisition of a
+modern customer management system will therefore: (i) replace the current system that has
+become obsolete both technically and operationally; (ii) encompass all commercial processes and
+re-orienting the customer information system on the client; (iii) improve sales and cost recovery
+for low and medium voltage customers through better customer management, billing and cash
+receipts; and (iv) bring flexibility to allow for adjustment in the future to deal with tariff changes,
+incentives for energy efficiency and the promotion of renewable energy.
+
+ Component 3. Institutional Support: (around US$8 million)
+ By addressing, through a set of coherent measures, the main causes of the crisis in the
+electricity sub-sector, the plan is positioned in the short term. However, it is necessary to
+conduct, in parallel, comprehensive analytical work on the strategic outlook in the medium and
+long term. (Indeed, the sector’s problems are largely due to poor planning and realization of
+investments). Therefore, the proposed operation plans to support the GOS in these prospective
+analytical works. Among the studies to be undertaken: (i) energy mix: medium and long term
+diversification into coal, gas, renewable energy and regional integration, and (ii) private sector
+participation, sector governance and SENELEC restructuring.
+ This component will also support the coordination/implementation organization of the project,
+through the financing of specific expertise to the SPE, APIX and SENELEC and operational
+costs. The French Development Agency (AFD) will also support the SPE with funding of about
+1 million Euros.
+ A Monitoring and Evaluation system is under preparation and should allow the SPE to monitor
+the results of the Takkal plan (and therefore of the proposed project) and take the necessary
+corrective actions as necessary. This component proposes to support the implementation of the
+system and to support activities: (i) to monitor and assess the impacts of the activities supported
+by the project and (ii) to carry out project related external audits by auditors acceptable to IDA.
+ Finally, a communication strategy to mitigate the opposition to the introduction of prepaid
+meters will be developed under this component.
+
+D. Project location (if known)
+Transmission projects
+ - Upgrading/modernization of HV substation
+ # Construction of a 90 kV substation in the SF6 at #Cap des Biches#
+ # Replacement of the 30 kV Thiona substation
+ - Upgrading/rehabilitation of HV lines
+ # 90 kV Cap des Biches-Thiona-Tobène
+ # Replacement of the line Hann- CDB 1
+
+ Distribution projects
+ -      Upgrading to higher voltage
+ #      Switching from 6,6 kV to 30 kV at 194 substations and 100 km in Dakar (Downtown,
+Water Treatment Plant and Bel Air)
+ -      Network Extensions and Densification in Dakar
+ #      Construction of 70 km MV, 185 km LV, 82049 connections and 164 transformers
+ -      Improvement in network operation
+ #      Remote operation of 30 substations of the HV network in Dakar
+ - Rehabilitation and replacement of distribution lines
+ # Replacement of the line Ourossogui Oréfondé 70 km
+ - Interconnection of secondary centers
+ # Construction of a new line Keur Mbaye-Koungheul
+ # Construction of a new line Koungheul # Koumpentoum
+ # Construction of a new line Kaymor #Nganda
+
+E. Borrower’s Institutional Capacity for Safeguard Policies [from PCN]
+The project implementation unit (APIX) has experience handling environmental and social
+safeguards according Bank rules and procedures. The environmental and social safeguards
+capacity will be re-assessed during project preparation and confirmed or strengthened as
+necessary to meet Bank requirements.
+
+F. Environmental and Social Safeguards Specialists
+   Mr Cheikh A. T. Sagna (AFTCS)
+   Mr Maman-Sani Issa (AFTEN)
+
+II. SAFEGUARD POLICIES THAT MIGHT APPLY
+Safeguard Policies Triggered                                       Yes         No          TBD
+Environmental Assessment (OP/BP 4.01)                               X
+    From an environmental and social safeguard point of view, the proposed project is a
+Category B project. That is, the environmental and social impacts of the project, for the most
+part, are projected to be minimal, site-specific and manageable to an acceptable level. An ESIA
+will be prepared before appraisal. The Involuntary Resettlement safeguards policy may have to
+Safeguard Policies Triggered                                      Yes          No                                         TBD
+be triggered as some households may be in the vicinity of the transmission lines.
+Natural Habitats (OP/BP 4.04)                                                  X
+Forests (OP/BP 4.36)                                                           X
+Pest Management (OP 4.09)                                                      X
+Physical Cultural Resources (OP/BP 4.11)                                       X
+Indigenous Peoples (OP/BP 4.10)                                                X
+Involuntary Resettlement (OP/BP 4.12)                                                                                        X
+    The Involuntary Resettlement safeguards policy may have to be triggered as some
+households may be in the vicinity of the transmission lines.
+Safety of Dams (OP/BP 4.37)                                                    X
+Projects on International Waterways (OP/BP 7.50)                               X
+Projects in Disputed Areas (OP/BP 7.60)                                        X
+
+
+Environmental Category: B - Partial Assessment
+
+III. SAFEGUARD PREPARATION PLAN
+
+A. Target date for the Quality Enhancement Review (QER), at which time the PAD-stage ISDS
+   would be prepared: 09/14/2011
+
+B. For projects that will not require a QER, the target date for preparing the PAD-stage ISDS:
+   11/03/2011
+
+C. Time frame for launching and completing the safeguard-related studies that may be needed.
+The specific studies and their timing1 should be specified in the PAD-stage ISDS.
+   Preparation of an Environmental and Social Impact Assessment:Draft: September 14, 2011
+     Final: September 25, 2011
+     Disclosure In-Country and Infoshop: October 4, 2011
+
+IV. APPROVALS
+
+    Signed and submitted by:
+    Task Team Leader:                              Mr Stephan Claude Frederic Garnier                             08/30/2011
+    Approved by:
+    Regional Safeguards Coordinator:               Ms Alexandra C. Bezeredi                                       08/30/2011
+      Comments:
+    Sector Manager:                                Mr Varadarajan Atur                                            08/30/2011
+      Comments:
+
+
+
+
+1   Reminder: The Bank’s Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the
+InfoShop and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to potentially affected
+persons.
+

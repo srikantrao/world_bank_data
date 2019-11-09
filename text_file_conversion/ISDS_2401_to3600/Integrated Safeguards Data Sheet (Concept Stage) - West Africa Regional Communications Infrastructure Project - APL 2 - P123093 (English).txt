@@ -1,0 +1,229 @@
+﻿                                                                    INTEGRATED SAFEGUARDS DATA SHEET
+                                                                             CONCEPT STAGE
+                                                                                                                                             Report No.: ISDSC670
+Public Disclosure Copy
+
+
+
+
+                         Date ISDS Prepared/Updated: 28-Feb-2012
+
+                         I.   BASIC INFORMATION
+                              A. Basic Project Data
+
+                              Country:                        Africa                                  Project ID:                       P123093
+                              Project Name:                   West Africa Regional Communications Infrastructure Project - APL 2 (P123093)
+                              Task Team Leader:               Boutheina Guermazi
+                              Estimated Appraisal Date: 04-Feb-2013                                   Estimated Board Date:             28-Mar-2013
+                              Managing Unit:                  TWICT                                   Lending Instrument:               Adaptable Program Loan
+                              Sector:                         Telecommunications (50%), General information and communications sector (50%)
+                              Theme:                          Regulation and competition policy (40%), Regional integration (40%), Infrastructure services for private sector
+                                                              development (20%)
+                              Financing (In USD Million)
+                                   Financing Source                                                                                                        Amount
+                                   BORROWER/RECIPIENT                                                                                                          0.00
+                                   International Development Association (IDA)                                                                                85.00
+                                   Total                                                                                                                      85.00
+                              Environmental Category:         B - Partial Assessment
+                              Is this a Repeater project? No
+
+                              B. Project Objectives
+
+                              The proposed project development objective (PDO) is to contribute to increasing the geographical reach of broadband networks and reducing
+                              costs of communications services in the territories of Mauritania, Mali and in Togo.
+
+                              C. Project Description
+Public Disclosure Copy
+
+
+
+
+                              Similarly to APL 1-A and APL 1-B, the proposed operation will have in each country three components as follows:
+                               Component 1: Supporting connectivity,
+                               Component 2: Creating an enabling environment for connectivity, and
+                               Component 3: Project implementation.
+
+                               WARCIP2-Mauritania
+
+                              Component 1 Supporting connectivity will focus on (i) building 2 fiber optic missing links (270 km link to Néma; 969 km link to Akjoujt-Atar-Tidijkja)
+                              to provide redundancy connectivity for cross-border links towards ECOWAS - namely towards landlocked countries Mali, Niger and Burkina Faso -
+                              and towards North Africa (via the connection with Morocco) as well as dissemination of international connectivity to all 13 provincial capitals
+                              contributing hereby to reducing the urban/rural divide in the sub-region and on (ii) establishing national and regional Internet Exchange Points
+                              (IXPs). Missing links and IXPs shall be (as for ACE international connectivity) built and operated under a PPP and in accordance with open access
+                              principles. Economic and financial analysis will be conducted for the proposed investment as part of project preparation.
+
+                              Component 2 Creating an enabling environment for connectivity will focus on (i) adapting as appropriate the existing transaction design and
+                              operating model for ownership and management of international infrastructure to the roll-out and operation of terrestrial backbone links financed
+                              under the project (ii) review and revise wherever necessary the legal and regulatory framework for ICT to maximize the benefits of the proposed
+                              connectivity project (iii) stimulating broadband usage both in urban and rural areas and (iv) strengthening of policymaking and regulatory functions.
+
+                              Component 3 Project implementation will provide support needed to strengthen the capacity of the Government to implement the connectivity
+                              project, including setting up very small Project Implementation Unit (PIUs) which will be mainstreamed into the Executing Agency, which is the
+                              Ministry of Employment, Professional Education and New Technologies (MEFPNT). The core PIUs staff will consist of a project coordinator,
+                              procurement specialist, finance specialist, accountant and an office assistant. Technical specialists may also be hired if required for
+                              implementation of the project. The component will also cover office equipment, incremental operating costs, audits and communications as well as
+                              M&E, environmental and social studies, their implementation and/or the monitoring of their implementation.
+
+                              WARCIP2-Mali
+
+                              Component 1 Supporting connectivity will focus on (i) building 2 missing links of the national and regional backbone (see picture below:
+                              Government phase II: 130 km link from Bamako to border with Guinea; 500 km link between Gao and Mopti to connect existing fibers to the
+                              borders of the West and fibers to the borders of the East of Mali) and on (ii) establishment of neutral carrier hotel / national and regional IXP
+                           where a market and a hub for capacity could be established in order to have alternative access to improve terms of access to capacity and lower
+                           cost . Missing links shall be built and operated under a PPP and in accordance with open access principles. Economic and financial analysis will
+                           be conducted for the proposed investment as part of project preparation.
+
+                           Component 2 Creating an enabling environment for connectivity will focus on (i) defining and implementing the transaction design and operating
+                           model for ownership and management of international, regional and national infrastructure including the carrier hotel / IXP (ii) reviewing the legal
+                           and regulatory framework for ICT and addressing any policy and regulatory bottlenecks to maximize the benefits of the proposed connectivity
+Public Disclosure Copy
+
+
+
+
+                           agenda (iii) stimulating broadband usage both in urban and rural areas and (iv) strengthening of policymaking and regulatory functions.
+
+                           Component 3 Project implementation will pr ovide support needed to strengthen the capacity of the Government to implement the connectivity
+                           project, including setting up very small Project Implementation Unit (PIUs) which will be mainstreamed into the Executing Agency, which is Ministry
+                           of Posts and New Technologies (MPNT) . The core PIUs staff will consist of a project coordinator, procurement specialist, finance specialist,
+                           accountant and an office assistant. Technical specialists may also be hired if required for implementation of the project. The component will also
+                           cover office equipment, incremental operating costs, audits and communications as well as M&E, environmental and social studies, their
+                           implementation and/or the monitoring of their implementation.
+
+                           WARCIP2-Togo
+
+                            Component 1 Supporting connectivity will focus on (i) establishment of a neutral carrier hotel / national and regional IXP where a market and a
+                           national / regional hub for capacity could be established in order to have alternative access to Togo Telecom to improve terms of access to
+                           international capacity and lower cost and on (ii) purchase of capacity on fiber-based transmission networks to connect targeted users (e.g. schools,
+                           universities, hospitals, and other priority groups) with discounted capacity prices. By doing so Togo will benefit from similar conditions of access to
+                           connectivity (diversity of choice, low prices) as other countries in the ECOWAS region. Economic and financial analysis will be conducted for the
+                           proposed investment as part of project preparation.
+
+                             Component 2 Creating an enabling environment for connectivity# will focus on (i) defining and implementing the transaction design and operating
+                           model for ownership and management of the carrier hotel / IXP and transaction support for the competitive tender for international bandwidth (ii)
+                           reviewing the legal and regulatory framework for ICT and addressing policy and regulatory bottlenecks to maximize the benefits of the proposed
+                           connectivity agenda (iii) stimulating broadband usage both in urban and rural areas and (iv) strengthening of policymaking and regulatory
+                           functions.
+
+                            Component 3 Project implementation will provide support needed to strengthen the capacity of the Government to implement the connectivity
+                           project, including setting up very small Project Implementation Unit (PIUs) which will be mainstreamed into the Executing Agency, which is the
+                           Ministry of Posts and Telecommunications (MPT) . The core PIUs staff will consist of a project coordinator, procurement specialist, finance
+                           specialist, accountant and an office assistant. Technical specialists may also be hired if required for implementation of the project. The component
+                           will also cover office equipment, incremental operating costs, audits and communications as well as M&E, environmental and social studies, their
+                           implementation and/or the monitoring of their implementation.
+
+                            D. Project location and salient physical characteristics relevant to the safeguard analysis (if known)
+
+                           Additional information to the exact paths of the missing links and sites of neutral carrier hotels / national and regional IXPs should be known before
+                           the Decis                                  ion meeting, but likely not all of it.
+Public Disclosure Copy
+
+
+
+
+                            E. Borrowers Institutional Capacity for Safeguard Policies
+
+                           The institutional responsibilities for preparing the various safeguards instruments will lie with the implementing agency. The agencies responsible
+                           for implementation are:
+
+                           In the case of Mauritania: the Ministry of Employment, Professional Education and New Technologies (MEFPNT).
+                           In the case of Mali: the Ministry of Posts and New Technologies (MPNT).
+                           In the case of Togo: the Ministry of Posts and Telecommunications (MPT).
+
+                           The Ministries have limited capacity for safeguards. Given that a lot more will be required for ensuring compliance from safeguards instrument
+                           preparation and reviews to implementation, there will be the need for capacity building. Any specific required action for some of the civil Works will
+                           be taken into account during project implementation. Institutional responsibilities for preparing the safeguard assessment strategy will be defined
+                           closely with the Safeguards Team.
+
+                           In addition, capacity building on safeguards issues will be provided to the Project Coordination Unit to implement the ESMF, ESIA/EMP, RPF and
+                           RAP.
+
+                            F. Environmental and Social Safeguards Specialists on the Team
+
+                           Paula F. Lytle (AFTCS)
+                           Maman-Sani Issa (AFTEN)
+                           Africa Eshogba Olojoba (AFTEN)
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+
+                            Safeguard Policies                               Triggered?       Explanation (Optional)
+                            Environmental Assessment OP/BP 4.01              Yes               The operation includes physical investments such as missing links of national
+                                                                                              and regional backbones and neutral carrier hotels / national and regional IXPs.
+                                                                                              Because the exact nature and location of investments may not be determined up
+                                                                                                                        front, the Borrower will prepare an Environment and Social Management
+                                                                                                                        Framework (ESMF).
+                                Natural Habitats OP/BP 4.04                                        TBD                   The missing links shall be deployed alongside existing roads and the neutral
+                                                                                                                        carrier hotels / national and regional IXPs shall be established in the capital city.
+                                                                                                                        While the links are not expected to affect critical habitats, the ESMF process will
+                                                                                                                        assess the possibility and, where necessary, include mitigation measures for
+Public Disclosure Copy
+
+
+
+
+                                                                                                                        such impacts.
+                                Forests OP/BP 4.36                                                 TBD                    The missing links shall be deployed alongside existing roads and the neutral
+                                                                                                                        carrier hotels / national and regional IXPs shall be established in the capital city.
+                                                                                                                        Therefore, the civil works involved are not expected to have an impact on
+                                                                                                                        forests.
+                                Pest Management OP 4.09                                            No
+
+                                Physical Cultural Resources OP/BP 4.11                             TBD                    The missing links shall be deployed alongside existing roads and the neutral
+                                                                                                                        carrier hotels / national and regional IXPs shall be established in the capital city.
+                                                                                                                        While the civil works are not expected to affect physical cultural resources, the
+                                                                                                                        ESMF will assess this possibility and include “chance finds�? procedures for
+                                                                                                                        inclusion in the contractors’ contracts.
+                                Indigenous Peoples OP/BP 4.10                                      TBD                   The missing links should be deployed alongside existing roads and the neutral
+                                                                                                                        carrier hotels / national and regional IXPs should be established in the capital
+                                                                                                                        city. While the civil works are not expected to affect Indigenous Peoples, due
+                                                                                                                        diligence will be undertaken in each country and IPPFs will be prepared, as
+                                                                                                                        necessary.
+                                Involuntary Resettlement OP/BP 4.12                                TBD                    The missing links should be deployed alongside existing roads and the neutral
+                                                                                                                        carrier hotels / national and regional IXPs should be established in the capital
+                                                                                                                        city. While the civil works are not expected to involve land acquisition/
+                                                                                                                        involuntary resettlement, due diligence will be undertaken in each country and
+                                                                                                                        RPFs will be prepared, as necessary.
+                                Safety of Dams OP/BP 4.37                                          No
+
+                                Projects on International Waterways OP/BP                          No
+                                7.50
+                                Projects in Disputed Areas OP/BP 7.60                              No
+
+
+
+                         III. SAFEGUARD PREPARATION PLAN
+
+                               A. Tentative target date for preparing the PAD Stage ISDS:
+Public Disclosure Copy
+
+
+
+
+                               B. Time frame for launching and completing the safeguard-related studies that may be needed. The specific studies and their timing1
+                                  should be specified in the PAD-stage ISDS:
+                                    Neither the exact path alongside existing roads nor the exact location of the neutral carrier hotels / national and regional IXPs have been
+                                    defined yet. Environmental and Social Management Frameworks (ESMF) and, where applicable, Resettlement Policy Frameworks (RPFs) and
+                                    Indigenous Peoples Planning Framework (IPPF) will be prepared and consulted upon for each country prior to Project appraisal. These
+                                    documents will be reviewed and cleared by the World Bank and publicly in the country as well as in the Bank InfoShop.
+
+                                    Once the final paths and sites are chosen and the specific civil works identified, an Environmental and Social Assessment including an ESMP,
+                                    and a RAP or Abbreviated RAP - whichever will be appropriate will also be prepared. If paths and sites are known soon (because feasibility
+                                    studies have been completed), this could even be done before Project Appraisal. For international links to be built on the borders of the
+                                    countries, it will be ascertained as soon as possible that there is no territorial dispute in the proposed Project area.
+
+                                    Finally, since the Program will involve PPP schemes, appropriate technical clauses will be prepared and included in the biddings/binding
+                                    documents for the Private Entity when necessary, to ensure the execution of agreed environmental and social safeguards measures and
+                                    implementation of the recommendations in the instruments.
+
+                         IV. APPROVALS
+                                Task Team Leader:                                Name: Boutheina Guermazi
+                                Approved By:
+                                Regional Safeguards Coordinator:                 Name: Alexandra C. Bezeredi (RSA)                                                                     Date: 12-Mar-2012
+                                Sector Manager:                                  Name: Randeep Sudan (SM)                                                                              Date: 28-Feb-2012
+
+
+
+
+                         1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+                          form and language that are accessible to potentially affected persons.
+

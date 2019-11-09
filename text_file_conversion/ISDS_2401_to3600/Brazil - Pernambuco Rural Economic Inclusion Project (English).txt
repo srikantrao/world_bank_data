@@ -1,0 +1,485 @@
+﻿                   INTEGRATED SAFEGUARDS DATASHEET
+                           APPRAISAL STAGE
+
+I. Basic Information
+Date prepared/updated: 08/11/2011                                  Report No.: AC6490
+1. Basic Project Data
+Country: Brazil                                Project ID: P120139
+Project Name: BR Pernambuco Rural Economic Inclusion Project
+Task Team Leader: Edward William Bresnyan
+Estimated Appraisal Date: July 21, 2011        Estimated Board Date: November 22, 2011
+Managing Unit: LCSAR                           Lending Instrument: Specific Investment
+                                               Loan
+Sector: General agriculture, fishing and forestry sector (40%);Agro-industry, marketing,
+and trade (30%);Water supply (20%);Information technology (10%)
+Theme: Rural markets (40%);Technology diffusion (30%);Trade facilitation and market
+access (20%);Rural policies and institutions (10%)
+IBRD Amount (US$m.):           100.00
+IDA Amount (US$m.):              0.00
+GEF Amount (US$m.):              0.00
+PCF Amount (US$m.):              0.00
+Other financing amounts by source:
+         Borrower                                                       35.25
+         Financing Gap                                                   0.00
+                                                                        35.25
+Environmental Category: B - Partial Assessment
+Repeater []
+Is this project processed under OP 8.50 (Emergency Recovery)
+                                                                    Yes [ ]     No [X]
+or OP 8.00 (Rapid Response to Crises and Emergencies)
+
+2. Project Objectives
+The proposed project would support the Borrower#s Results Management Framework,
+Todos por Pernambuco, by: (i) promoting rural business initiatives; and (ii) expanding
+rural access to water and other complementary infrastructure.
+
+3. Project Description
+In the State of Pernambuco, rural poverty accounts for over one-third of the total state
+poverty, despite the rural population share of about 20%. The rural poverty headcount of
+roughly 45% is slightly below that of the Northeast as a whole (50%) but substantially
+above the Pernambuco urban headcount of 25%. Recent measures of the Human
+Development Index (HDI) show Pernambuco ranked 23rd among the 27 Brazilian states,
+with an HDI of 0.718. Examination of the data would indicate a rural HDI of roughly
+0.550.
+ One of the reasons behind this elevated level of rural poverty is low agricultural
+productivity. Pernambuco is home to 5% of the country#s population and 6% of the
+agricultural labor force, yet generates only 2% of the Agricultural Gross Domestic
+Product (Ag GDP). For the staple crops of beans and rice, family farm yields are about
+one-half of those for non-family farms and, overall, average yields are only one-half of
+those for the nation as a whole. Family farms, some 90% of total farm establishments
+statewide, capture only 52% of value-added agricultural production. Average annual
+family farm income (US$5,100) is about one-tenth of that for commercial farms, a
+contributing factor to a rural Gini coefficient which exceeds 0.8 (IBGE 2006). Moving
+forward, the challenge for Pernambuco, and for Brazil more widely, will be to increase
+rural productivity with #climate-smart# and inclusive growth strategies.
+  Another factor influencing rural poverty in Pernambuco is the general scarcity of water.
+Pernambuco is one of Brazil#s driest states, with average annual per capita water
+availability of 1,320 m3, equivalent to only 4% of the national average. The combined
+semi-arid Sertão and transitional Agreste sub-regions represent 89% of the State#s
+territory yet have only about 20% of its available water, with per capita annual water
+availability ranging from 400 m3 to 800 m3, respectively. The impact of this extremely
+low level of water availability is a relatively stunted irrigated area (only 3% of the state#s
+total agricultural area) and periodic lack of water supply to rural enterprises and
+households, significantly limiting the growth of commercial food processing and
+domestic preliminary processing. The lack of adequate rural sanitation systems is also a
+constraint to commercial processing, even at the level of the smaller cooperative
+associations.
+  A third factor which exacerbates rural poverty is the lack of structural investments in
+transport and logistics, which reduce access to local and regional markets, by leading to
+stunted market opportunities owing to high transport costs, increased transport times and
+reduced access to fresh markets, and increased costs of off-farm inputs. Reducing these
+coordination costs, while achieving needed productivity gains, will be key to raising rural
+competitiveness.
+  From the point of view of agricultural production, there is much ground to be gained by
+small-scale producers in Pernambuco. Over the past decade, Brazil has become a
+globally competitive powerhouse in agriculture, with a nearly 70% increase in the value-
+added of crop production and a ten-fold increase in beef exports. Brazil is now the world
+leader in exports of poultry, sugar and ethanol and second worldwide in soybean exports.
+These impressive results attest to a strong history of capital investment and technological
+innovation in the sector, particularly in agricultural research, focusing on commercial
+agriculture, which comprises 16% of total farms nationwide. However, aside from strong
+performance in the horticultural sector around Petrolina (primarily irrigated parcels),
+agriculture in Pernambuco, particularly family agriculture, has not participated
+significantly in this production and export boom.
+  For these reasons, at a September 2009 meeting with Northeast Governors (and
+reiterated in a similar meeting in June 2011), the Bank articulated a strategic vision for
+continued engagement with Pernambuco and other Northeast states, emphasizing: (i)
+economic growth with inclusion and innovation; (ii) improved water productivity and
+management; and (iii) structural investments to enhance logistics and coordination. The
+State of Pernambuco#s 2008-2011 multi-year investment plan (PPA) and recent
+consultations toward its updated PPA (2012-2015) independently converge with this
+three-pronged approach by focusing on:
+  #     strengthening value chains and forging Local Productive Alliances (LPAs);
+  #      prioritizing expanded access to safe and reliable water for both human
+consumption and productive use through improved water resources development and
+constructing stronger water management policies and practices; and
+  #      financing structural investments to improve the enabling environment and
+encourage greater private investment.
+  Regarding structural investments, recent examples include the Suape Port Complex and
+the industrial pole of Vitoria de Santo Antão (agroprocessing); several big-ticket
+infrastructure projects are also planned, particularly the expansion of BR-101 and BR-
+104, water pipelines (Pajeu and Agreste) and irrigation canals, and the Saupe-Recife-
+Salgueiro corridor of the Trans-Northeast railway. The State has also worked to stimulate
+integration across several value chains, most notably fresh fruits and vegetables, dairy,
+small ruminants (e.g., lamb, goat), beekeeping and aquaculture. Efforts in the small-scale
+dairy sector show the benefits of building LPAs: under the program Milk for All (Leite
+para Todos) 4,400 enterprises have produced 33 million liters (2008), benefiting some
+90,000 families across 154 municipalities.
+  Main Challenges Facing Local Productive Alliances: Low rural productivity in
+Pernambuco is tied to several constraints, among the most important of which are:
+  #      low technological innovation, in terms of product, process and organization, as
+well as downside risks of production losses and threats to household food security, which
+could be exacerbated by increasing climate variability and subsequent water scarcity;
+  #      weak market intelligence that hinders a coordinated and targeted supply response;
+  #      poor access to capital, needed to boost smallholder asset accumulation on several
+fronts: physical, financial, human, managerial, and social; and
+  #      disconnect between supply-driven technical assistance and the expressed demands
+of the family farm, both for meeting market requirements (e.g., sanitary restrictions and
+certification) and reducing vulnerability through climate change adaptation.
+  The public sector must also invest in structural investments that create the foundation
+for improved rural services provision and rural competitiveness, particularly in
+infrastructure (e.g., rural roads and water resources to improve logistics coordination),
+phyto-sanitary regulation and certification, information and communication technologies
+(ICT), and technical knowledge generation and diffusion. Meanwhile, responses from
+commercial actors in the rural sector are needed so that the market constraints limiting
+the competitiveness of family farms can be relaxed. Adoption of adequate technology,
+market know-how, and the link to the markets # all in a market-driven and timely manner
+- are major areas where private investment and private sector leadership are required.
+  As given in the PPA (2008-11), Pernambuco#s approach to increased rural productivity
+builds on the following tenets:
+  #      Regional/territorial approach: Pernambuco#s twelve administrative regions and
+its six Territórios da Cidadania will aid in concentrating and coordinating various
+Federal- and State-level programs to boost economic and social inclusion.
+  #      Climate-smart responses: The proposed project would stimulate innovations that
+jointly raise agricultural productivity, increase the efficient use of scarce water, and
+promote climate change resilience while reducing carbon emissions.
+  #      Innovation: Rural producers must adopt new technologies and access greater
+commercial intelligence in order to thrive in dynamic markets. This will require fresh
+learning approaches to stimulate a #rural innovation culture# conducive to
+competitiveness and capable of connecting education to jobs.
+  #      Collective Action: Small-scale producers, working together under a shared
+objective, can reduce asymmetric bargaining power in markets traditionally dominated by
+intermediaries. Previous Bank-financed operations in Pernambuco have fostered more
+than 5,000 such common interest groups, primarily composed of households engaged in
+small-scale production, which would be targeted under the proposed operation.
+  #      Value chains: Rural producer-based organizations that participate in value chains
+can: (i) improve uptake of technological innovation through a scaled approach to
+technical assistance; (ii) expand access to timely commercial intelligence through
+interaction with downstream actors (e.g., processors, institutional buyers, freight-
+forwarders); and (iii) reduce individual risks through risk spreading across value chain
+actors.
+  #      Equity: Equity among value chain partners would be promoted through alliances
+(i.e. LPAs) that promote #win-win# market solutions.
+  Recent initiatives in irrigated agriculture hold promise for expanding smallholder
+participation in this sector. For example, the Public-Private Partnership (PPP) being
+forged in the Pontal irrigation perimeter mandates that at least 25% of these irrigated
+lands be offered to small-scale producers, preferably in a commercial alliance with
+larger-scale value chain participants (empresas âncoras) that occupy the remaining 75%.
+Additionally, existing perimeters with sizeable family farm participation (e.g., Brígida,
+with 1,000 family farmers cultivating 3,000 irrigated hectares), can serve as test cases for
+constructing greater access to private and institutional markets. In sum, PPPs contribute
+to the overall objective of the proposed project by: (i) improving the efficiency of
+existing productive infrastructure; and (ii) increasing the economic inclusion of
+smallholders in verified market opportunities.
+  Responding to water scarcity and its persistent unreliable supply, which constrains rural
+economic performance and social development, the State has prioritized the water sector
+in its development strategy, aiming to expand access to safe and reliable water for both
+human consumption and productive use through: (i) improved water resources
+development; and (ii) stronger management policies and practices for water infrastructure
+and sanitation services. As climate change will further intensify moisture deficits in
+Pernambuco, significant adjustments in water use for food production will be required,
+especially in dry land areas where rain-fed agriculture dominates. Water productivity in
+semi-arid rain fed cropping systems is quite low, with only 10 to 30% of total rainfall
+actually absorbed in production. Without improvements in #crop per drop#, future
+shortages of water could render agriculture non-viable or propel a shift toward less
+reliance on annual crops and more on perennial and livestock-based production systems.
+Adaptation measures to moderate this scenario include:
+  #      Rainwater harvesting, to capture and conserve rainfall and improve its
+productivity;
+  #      ICT solutions, leveraging soils mapping, precision agriculture, climate modeling
+and historical rainfall time-series to inform planting and input decisions;
+  #      Crop diversification and crop biotechnology solutions, incorporating drought-
+tolerant crops, and, where feasible, nanotechnologies; and
+  #       Supplementary irrigation, such as next-generation drip and aspiration
+technologies and the reuse of treated wastewater.
+  Project Components
+  Component 1: Investments in Rural Economic Inclusion (US$67.2 million) would
+finance matching grants (i.e., subprojects), consultants# services, training and technical
+assistance, toward the promotion of rural businesses in the Borrower#s territory.
+Specifically, activities under the Component would consist of: (i) Support to Local
+Productive Alliances; and (ii) Productive Investments.
+  1a. Support to Local Productive Alliances - would absorb 20% of Component costs and
+support pre-investment activities to: (i) promote the overall project concept and outreach
+to rural producer-based organizations (RPOs), potential commercial partners and
+financing institutions; (ii) facilitate territorial strategies across selected value chains; (iii)
+consistent with territorial strategies, create and consolidate local productive alliances; (iii)
+identify potential business opportunities on the part of these local productive alliances
+(i.e., a business proposal or perfil de negócio); (iv) fully prepare the business opportunity
+into a business plan (plano de negócio); and (v) build capacity among technical service
+providers to enhance the quality of their services provided to these local productive
+alliances. Outreach and promotional activities would be financed to identify the RPOs,
+commercial partners and financing institutions, and assist them in forming sound
+territorial strategies and local productive alliances.
+  1b. Productive Investments # would, with the remaining 80% of Component costs,
+provide subproject matching grants to co-finance the implementation of approximately
+300 feasible business plans, in the context of territorial strategies for value chains. In
+order to become eligible for the subproject matching grant, a business plan must be
+consistent with defined territorial strategies, financially feasible and entail a concrete
+Local Productive Alliance. Subprojects would be that portion of the Local Productive
+Alliance#s business plan that would be: (i) financed with proceeds from the proposed
+Loan; (ii) implemented by eligible RPOs; and (iii) governed by subproject agreements
+signed between the RPOs and the Borrower. Subprojects would include fixed capital
+(e.g., plant and equipment, minor small-scale infrastructure), working capital and
+technical assistance expenditures. RPOs would be responsible for a minimum of 20%
+and up to a maximum of 50% of subproject financing, resourced either through financial
+institutions (e.g., loans) or with their own contributions (in cash or in-kind). Subproject
+finance would be further governed by procedures outlined in the Project Operational
+Manual.
+  Component 2: Complementary Rural Infrastructure (US$54.3 million) would support
+the State#s efforts to extend its basic infrastructure network in rural Pernambuco,
+primarily: (i) access to water supply and sanitation services for both productive use and
+household consumption; (ii) improved water productivity; and (iii) promotion of
+innovative management models for decentralized administration and service delivery for
+water and sanitation services. The component would support actions to: (i) reduce social,
+cultural and environmental vulnerability in the communities of participating RPOs, and
+(ii) complement Component 1 investments in contributing to the productivity and
+competitiveness of productive chains, including LPAs and RPOs. Investments under
+Component 2 would span the following dimensions:
+ #       Rural Water and Sanitation: In the context of territorial planning, the component
+would finance small-scale rural water supply systems (including, in some cases, cisterns)
+and rural sanitation (including septic systems), in support of the Borrower#s goal of: (i)
+universalizing access to these services, particularly in the interior of Pernambuco; and (ii)
+extending application of these services to productive activities (e.g., irrigation,
+aquaculture, agroindustry). Consistent with accumulated experience in rural Pernambuco
+under ProRural#s oversight, these investments would be executed by participating RPOs
+under existing community participation approaches.
+ #      Logistics: Investments to reduce and/or eliminate, among others, bottlenecks in
+the flow of value-added production along the producer chain (e.g., small bridges, all-
+weather crossings, minor road reforms)
+ #      Investment Management: To strengthen the day-to-day management of small-
+scale rural water supply and sanitation systems -- both those financed under Component 2
+and existing systems in rural Pernambuco # Component 2 would support training and
+capacity-building designed to extend recent successful management pilots.
+ Component 3: Project Management, Supervision, Monitoring and Evaluation (US$9.2
+million) would support the incremental costs of: (i) the technical and administrative
+management of the proposed project, including incremental salaries; (ii) development,
+implementation and supervision of the Environmental and Social Management
+Framework, the Indigenous Peoples Planning Framework and the Project Communication
+Strategy; (iii) updates to SARA#s Management Information System for use in project-
+specific monitoring; and (iv) design, development and implementation of an impact
+evaluation module to track progress on results indicators.
+
+4. Project Location and salient physical characteristics relevant to the safeguard
+analysis
+The area for the proposed project includes 180 municipalities - i.e., all municipalities
+statewide except for those which comprise metropolitan Recife.
+
+ Pernambuco is home to 5% of the country#s population and 6% of the agricultural labor
+force. For the staple crops of beans and rice, yields for family farms are about one-half of
+those for non-family farms. Yields in Pernambuco are only about one-half of those for
+the nation as a whole. Family farms, some 90% of total farm establishments statewide,
+capture only 52% of value-added production. Moving forward, the challenge for
+Pernambuco, as well as Brazil more widely, will be to increase rural productivity with
+#climate-smart# and inclusive growth strategies.
+
+5. Environmental and Social Safeguards Specialists
+   Ms Judith M. Lisansky (LCSSO)
+   Mr Alberto Coelho Gomes Costa (LCSSO)
+   Ms Maria Bernadete Ribas Lange (LCSEN)
+6. Safeguard Policies Triggered                               Yes         No
+Environmental Assessment (OP/BP 4.01)                          X
+Natural Habitats (OP/BP 4.04)                                  X
+Forests (OP/BP 4.36)                                           X
+Pest Management (OP 4.09)                                      X
+Physical Cultural Resources (OP/BP 4.11)                       X
+Indigenous Peoples (OP/BP 4.10)                                X
+Involuntary Resettlement (OP/BP 4.12)                          X
+Safety of Dams (OP/BP 4.37)                                                X
+Projects on International Waterways (OP/BP 7.50)                           X
+Projects in Disputed Areas (OP/BP 7.60)                                    X
+
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project.
+Identify and describe any potential large scale, significant and/or irreversible impacts:
+The project does not entail any potential large scale, significant and/or irreversible
+negative impacts.
+
+ The Project implementation procedures will adopt strict environmental "screens" to
+ensure that approved subprojects demonstrate low potential for negative impact. The
+ESMF assessed the most common types of intervention expected, in order to propose
+mitigation measures a priori.
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future
+activities in the project area:
+None are expected because the proposed project interventions will be small-scale,
+demand-driven investments (i.e., subprojects). These subprojects would not cause
+significant adverse environmental impacts, related mainly to infrastructure development
+(i.e., water and sanitation), new agricultural practices (i.e., product diversification,
+conservation agriculture, promotion of value added products, and product certification)
+and non-agricultural activities such as small-scale processing units. Potentially adverse
+environmental or social impacts will be minor or non-existent, as they will be avoided or
+minimized through appropriate preventive actions and mitigation measures. The
+subproject selection procedures will be consistent with: (i) the national, state and local
+legislation concerning Brazilian Forest Code, natural habitats and protected areas (Law
+4.771/65; SNUC - Law 9985/00, Decree 4340/02 and Decree 5758/06); and (ii) World
+Bank safeguards policies.
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize
+adverse impacts.
+N/A.
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide
+an assessment of borrower capacity to plan and implement the measures described.
+The project has been rated a category #B# as the impact is limited in scope, localized,
+temporary and reversible. The Borrower has prepared an ESMF, an IPPF and an IRF. The
+Project would establish a technical committee (as done under the recently closed, Bank-
+financed Rural Poverty Reduction Project-RPRP) with the specific purpose of evaluating
+subprojects# environmental eligibility, and monitoring implementation compliance with
+Bank safeguards policy throughout the subproject cycle. During the implementation of
+the RPRP, the Client established a special team to coordinate, supervise and monitor
+activities related with vulnerable groups # particularly indigenous people and quilombola
+communities # and has been responsible for the successful implementation of its IPPF.
+The Client#s technical team is also in charge of a JSDF Grant to #level the playing field#
+of quilombola communities and has developed its capacity to work with vulnerable
+communities in very participatory ways. This team will be responsible for coordinating
+the implementation of the IPPF in the new operation and ensuring the ongoing
+consultation with indigenous people. Client capacity to manage resettlement issues will
+be reviewed during appraisal to determine what special capacity building issues may
+arise. If deemed necessary, capacity building in this area will be included in the yearly
+project implementation plans.
+
+  Site-specific assessments will be conducted and impact mitigation plans drawn up, as
+needed, during subproject preparation which complies with the overall project safeguard
+framework.
+
+ For effective and informed decision making on the need to conduct detailed assessments
+on subprojects, screening, supervision and monitoring mechanisms have been included in
+the IPPF.
+
+5. Identify the key stakeholders and describe the mechanisms for consultation and
+disclosure on safeguard policies, with an emphasis on potentially affected people.
+Key stakeholders associated with the Project are: the small-scale rural producers and their
+representative organizations (community associations, producer groups, rural labor
+unions, etc.) # including the most vulnerable social groups and traditional communities
+(indigenous people and quilombola communities); municipal government and civilian
+society representatives at municipal councils and territorial forums. Key stakeholders
+have been involved in project preparation through the ongoing consultation process.
+  The proposed project will take advantage of major gains in community organization,
+social capital building and social network strengthening attained during the RPRP. Key
+stakeholders will participate in the deliberative municipal councils and territorial forums
+and, thus, they will be strongly involved in the planning, implementation and monitoring
+of project s activities and their adherence to safeguard policies.
+  In addition, the proposed project will benefit from the previously mentioned network of
+collaborating governmental and nongovernmental organizations built during the RPRP
+and the ongoing consultation process with indigenous representatives.
+  Finally the IPPF will design a communication/mobilization campaign to ensure that
+indigenous communities will be mobilized and will have access to participate on the
+Project s deliberative municipal and territorial boards, to discuss their priority needs and
+to present their proposals on these deliberative boards.
+ From April to June 2010, eight consultations were held during regional summits of the
+Municipals Councils (#Encontros Regionais dos Conselhos Municipais#). A total of 180
+municipals councils were engaged in the regional summits.
+
+ In November 2010, the ESMF was presented to the Environmental State Council
+(Conselho Estadual de Meio Ambiente # CONSEMA).
+
+ A second phase of the consultation process to discuss specific project activities took
+place in March 2011. This phase was more comprehensive, focusing on civil society
+organizations active in the environmental sector as well as indigenous organizations.
+
+ During project implementation, as subprojects are prepared and potential impacts are
+identified, consultations will be held locally as needed.
+
+ The ESMF will be disseminated in Brazil through the Project website
+(www.prorural.pe.gov.br), and contains a more detailed description of possible positive
+and negative environmental impacts of the project supported subprojects.
+
+
+
+B. Disclosure Requirements Date
+Environmental Assessment/Audit/Management Plan/Other:
+  Was the document disclosed prior to appraisal?                      Yes
+  Date of receipt by the Bank                                      06/28/2011
+  Date of "in-country" disclosure                                  07/14/2011
+  Date of submission to InfoShop                                   07/14/2011
+  For category A projects, date of distributing the Executive
+  Summary of the EA to the Executive Directors
+Resettlement Action Plan/Framework/Policy Process:
+  Was the document disclosed prior to appraisal?                      Yes
+  Date of receipt by the Bank                                      06/22/2011
+  Date of "in-country" disclosure                                  07/14/2011
+  Date of submission to InfoShop                                   07/14/2011
+Indigenous Peoples Plan/Planning Framework:
+  Was the document disclosed prior to appraisal?                      Yes
+  Date of receipt by the Bank                                      06/22/2011
+  Date of "in-country" disclosure                                  07/14/2011
+  Date of submission to InfoShop                                   07/14/2011
+Pest Management Plan:
+  Was the document disclosed prior to appraisal?                       N/A
+  Date of receipt by the Bank                                                        N/A
+  Date of "in-country" disclosure                                                    N/A
+  Date of submission to InfoShop                                                     N/A
+* If the project triggers the Pest Management and/or Physical Cultural Resources,
+the respective issues are to be addressed and disclosed as part of the Environmental
+Assessment/Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please
+explain why:
+
+
+
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the
+ISDS is finalized by the project decision meeting)
+
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) report?               Yes
+If yes, then did the Regional Environment Unit or Sector Manager (SM)           Yes
+review and approve the EA report?
+Are the cost and the accountabilities for the EMP incorporated in the           Yes
+credit/loan?
+OP/BP 4.04 - Natural Habitats
+Would the project result in any significant conversion or degradation of        No
+critical natural habitats?
+If the project would result in significant conversion or degradation of other   N/A
+(non-critical) natural habitats, does the project include mitigation measures
+acceptable to the Bank?
+OP 4.09 - Pest Management
+Does the EA adequately address the pest management issues?                      Yes
+Is a separate PMP required?                                                     No
+If yes, has the PMP been reviewed and approved by a safeguards specialist or    N/A
+SM? Are PMP requirements included in project design? If yes, does the
+project team include a Pest Management Specialist?
+OP/BP 4.11 - Physical Cultural Resources
+Does the EA include adequate measures related to cultural property?             Yes
+Does the credit/loan incorporate mechanisms to mitigate the potential           Yes
+adverse impacts on cultural property?
+OP/BP 4.10 - Indigenous Peoples
+Has a separate Indigenous Peoples Plan/Planning Framework (as                   Yes
+appropriate) been prepared in consultation with affected Indigenous Peoples?
+If yes, then did the Regional unit responsible for safeguards or Sector         Yes
+Manager review the plan?
+If the whole project is designed to benefit IP, has the design been reviewed    N/A
+and approved by the Regional Social Development Unit or Sector Manager?
+OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy framework/process               Yes
+framework (as appropriate) been prepared?
+If yes, then did the Regional unit responsible for safeguards or Sector         Yes
+Manager review the plan?
+OP/BP 4.36 - Forests
+  Has the sector-wide analysis of policy and institutional issues and constraints   N/A
+  been carried out?
+  Does the project design include satisfactory measures to overcome these           N/A
+  constraints?
+  Does the project finance commercial harvesting, and if so, does it include        N/A
+  provisions for certification system?
+  The World Bank Policy on Disclosure of Information
+  Have relevant safeguard policies documents been sent to the World Bank’s          Yes
+  Infoshop?
+  Have relevant documents been disclosed in-country in a public place in a          Yes
+  form and language that are understandable and accessible to project-affected
+  groups and local NGOs?
+  All Safeguard Policies
+  Have satisfactory calendar, budget and clear institutional responsibilities       Yes
+  been prepared for the implementation of measures related to safeguard
+  policies?
+  Have costs related to safeguard policy measures been included in the project      Yes
+  cost?
+  Does the Monitoring and Evaluation system of the project include the              Yes
+  monitoring of safeguard impacts and measures related to safeguard policies?
+  Have satisfactory implementation arrangements been agreed with the                Yes
+  borrower and the same been adequately reflected in the project legal
+  documents?
+
+
+  D. Approvals
+
+Signed and submitted by:                              Name                            Date
+Task Team Leader:                   Mr Edward William Bresnyan                      06/30/2011
+Environmental Specialist:           Ms Maria Bernadete Ribas Lange                  07/11/2011
+Social Development Specialist       Ms Judith M. Lisansky                           07/11/2011
+Additional Environmental and/or     Mr Alberto Coelho Gomes Costa                   07/11/2011
+Social Development Specialist(s):
+
+Approved by:
+Sector Manager:                     Ms Ethel Sennhauser                             07/26/2011
+  Comments:
+

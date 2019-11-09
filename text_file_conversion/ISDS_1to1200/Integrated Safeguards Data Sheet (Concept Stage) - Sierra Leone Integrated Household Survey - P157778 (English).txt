@@ -1,0 +1,199 @@
+                                           INTEGRATED SAFEGUARDS DATA SHEET
+                                              IDENTIFICATION / CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                              Report No.: ISDSC15567
+
+                         Date ISDS Prepared/Updated: 29-Dec-2015
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:             Sierra Leone                   Project ID:      P157778
+                            Project Name:        Sierra Leone Integrated Household Survey
+                            Team Leader(s):      Kristen Himelein
+                            Estimated Date       03-Dec-2015
+                            of Approval:
+                            Managing Unit:       GPV01                          Lending          Lending Instrument
+                                                                                Instrument:
+                            Sector(s):           General agriculture, fishing and forestry sector (5%), Public administration-
+                                                 Other social services (5%), General public administration sector (80%),
+                                                 General education sector (5%), Health (5%)
+                            Theme(s):            Economic statistics, modeling and forecasting (5%), Poverty strategy, analysis
+                                                 and monitoring (80%), Social Protection and Labor Policy & Systems (5%),
+                                                 Gender (5%), Rural markets (5%)
+                            Financing (in USD Million)
+                            Total Project Cost: 1.75                          Total Bank Financing: 0
+Public Disclosure Copy
+
+
+
+
+                            Financing Gap:      0
+                              Financing Source                                                                         Amount
+                              Borrowing Agency                                                                           0.25
+                              Borrower                                                                                      0
+                              Trust Fund for Statistical Capacity Building                                                1.5
+                            Environment         C - Not Required
+                            Category:
+
+                           B. Project Development Objective(s)
+                           The overall development objective of this project is to support the Government of Sierra Leone in
+                           improving the availability and quality of poverty and other socioeconomic data to inform policy
+                           monitoring and planning through the implementation of the 2016 Sierra Leone Integrated Household
+                           Survey, and associated capacity building activities.
+                           C. Project Description
+                           Questionnaire Revision – Analysis of the 2011 SLIHS showed a number of short-comings in the
+                           instrument design. While a full review of the survey instrument will be conducted, certain target
+                           areas have already been identified. With regard to consumption, the main revisions will be related to
+                           the conversion of non-standard units and appropriate estimation for prices of home production. Food
+                         consumed away from the household will also be collected in the 2016 survey. These changes will be
+                         made in such a manner as to allow for the update of the previous years’ aggregates to ensure
+                         comparability of estimates over time. Outside of the consumption sections, the labor and agricultural
+Public Disclosure Copy
+
+
+
+
+                         modules were not comparable between the 2003 and 2011 rounds, and it was not possible to
+                         calculate standard international indicators for these topics. In the case of labor, changes can be made
+                         to the SLIHS to align with the 2014 Labor Force Survey, while some additional work may be
+                         necessary with agriculture. In addition, Sierra Leone suffered two major shocks in the past 18
+                         months with the outbreak of Ebola Virus Disease and the closure of the two main mining operations
+                         in the country, and the questionnaire will attempt to capture the welfare impact of these shocks. The
+                         revisions to the questionnaire will be made with substantial input from the relevant sectors within the
+                         World Bank, and from government and other stakeholders.
+
+                         Sample Selection – The sample design will be based on variance and clustering information from
+                         household consumption variable in the 2011 SLIHS. The design will maximize overall precision
+                         while still maintaining representative estimates at the district level. Cluster selection will use the
+                         estimated cluster sizes from the cartography for the upcoming 2015 census, which are projected to be
+                         available by September 2015. As the survey will follow immediately from the implementation of the
+                         census, initially clusters will use the census as the household listing for selection, though a separate
+                         listing operation may be necessary for later clusters. This provides significant cost savings to the
+                         overall design.
+
+                         Fieldwork – Fieldwork will be conducted over a 12 month period to adequately account for
+                         seasonality in employment and consumption statistics. In the previous round of the SLIHS,
+                         enumerators spent one month in each enumeration area (EA) collecting information via a
+                         consumption diary, and by overseen by a mobile supervisor with a motorbike. The current design
+                         would decrease the amount of time spent on the diary to two weeks, requiring fewer enumerators and
+                         supervisors. This decision was taken following a review of the previous data which showed minimal
+                         information gained from the additional time spent in the EA.
+Public Disclosure Copy
+
+
+
+
+                         Data Capture – The current planning for data capture will explore two options as improvements over
+                         the centralized, post-survey, scanning method used in 2011. The first is to do the data entry at
+                         district offices with dedicated staff on dedicated laptops. The second is to move to a full Computer
+                         Assisted Field Entry (CAFE) system in which teams travel with laptops and complete the data entry
+                         while in the enumeration area. The latter is the preferred option as teams would have the opportunity
+                         to revisit households and correct inconsistencies before leaving the cluster, though there is some
+                         hesitation on the part of the statistics bureau to move to completely decentralized entry due to the
+                         limited power supplies outside of major cities. In order for the decentralized data capture system to
+                         be effective, a robust program of data checks would need to be developed for the CSPro data entry
+                         software and training would need to be provided to supervisors, enumerators, and data entry
+                         technicians.
+
+                         Field Supervision and Data Checking – The field based data entry program allows for much faster
+                         access to data for review. The World Bank will assist SSL in evaluating data quality in near-real
+                         time, identifying problem enumerators and teams, and completing the feedback loop to improve data
+                         quality. The project will also build on systems developed for the 2014 Labor Force Survey,
+                         including (i) introducing screening and remuneration standards for field staff; (ii) using SMS-based
+                         reporting and aggregation to monitor progress of fieldwork; and (iii) using smartphone-based
+                         monitoring (e.g., back checks, spot checks, GPS recording).
+                           Comparability - Revisions to the questionnaire and improved data quality through increased
+                           supervision both have the potential to impact comparability between rounds and confound actual
+                           changes in well-being. The team is conscious of these potential issues but believes the benefits
+Public Disclosure Copy
+
+
+
+
+                           outweigh the costs. During the analysis phase the changes will be carefully considered and, if
+                           necessary, techniques such as imputation may be used to construct comparable trends.
+
+                           Weight Calculations – The weights will be calculated using the probabilities generated by the sample
+                           design, cluster-level non-response, and post-stratification using the population totals from the 2015
+                           census.
+
+                           Production of a Statistical Abstract – The project, along with the companion World Bank technical
+                           assistance project, will ensure the timely production of updated, comparable poverty numbers (with
+                           the 2003 and 2011 surveys), and tables of major correlates of poverty. To finalize the numbers, core
+                           members of SSL will travel to Washington DC to participate in learning events and a study tour to
+                           DC area statistical institutions (Bureau of Labor Statistics, Census Bureau).
+
+                           Dissemination – In addition to printed copies of the statistical abstract, the final anonymized datasets
+                           will be properly archived and disseminated through the SSL website or other appropriate data sharing
+                           platform.
+
+                           Bank Executed Component - In addition to the activities about that will be executed by Statistics
+                           Sierra Leone, there will also be a small Bank Executed component of the project. This component
+                           will constitute less than five percent of the total financing and will be targeting towards auditing and
+                           monitoring activities. In previous activities (not funded by the World Bank) there have been
+                           concerns regarding the misuse of resources and of quality issues. This funding mitigates those risks
+                           by hiring a procurement consultant to prevent any inadvertent mistakes, an independent financial
+                           auditor to review expenditures, and an independent verification team to spot check data quality by
+                           conducting partial re-interviews. In addition, the most recent procurement review of Statistics Sierra
+                           Leone indicated that they do not have sufficient capacity to carry out the procurement in accordance
+Public Disclosure Copy
+
+
+
+
+                           with World Bank guidelines, and in that case made the hiring of a procurement consultant a
+                           condition of approval.
+                           D. Project location and salient physical characteristics relevant to the safeguard
+                           analysis (if known)
+
+
+                           E. Borrower’s Institutional Capacity for Safeguard Policies
+
+
+                           F. Environmental and Social Safeguards Specialists on the Team
+
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+                           Safeguard Policies                   Triggered?       Explanation (Optional)
+                           Environmental Assessment OP/         No
+                           BP 4.01
+                           Natural Habitats OP/BP 4.04          No
+                           Forests OP/BP 4.36                           No
+                           Pest Management OP 4.09                      No
+Public Disclosure Copy
+
+
+
+
+                           Physical Cultural Resources OP/              No
+                           BP 4.11
+                           Indigenous Peoples OP/BP 4.10                No
+                           Involuntary Resettlement OP/BP               No
+                           4.12
+                           Safety of Dams OP/BP 4.37                    No
+                           Projects on International                    No
+                           Waterways OP/BP 7.50
+                           Projects in Disputed Areas OP/BP             No
+                           7.60
+
+                         III. SAFEGUARD PREPARATION PLAN
+                               Appraisal stage ISDS required?: No
+                         IV. APPROVALS
+                           Team Leader(s):                  Name: Kristen Himelein
+                           Approved By:
+                           Safeguards Advisor:              Name: Johanna van Tilburg (SA)                                     Date: 14-Dec-2015
+                           Practice Manager/                Name: Pablo Fajnzylber (PMGR)                                      Date: 19-Dec-2015
+                           Manager:
+Public Disclosure Copy
+
+
+
+
+                           1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the
+                           InfoShop and (ii) in country, at publicly accessible locations and in a form and language that are accessible to potentially
+                           affected persons.
+

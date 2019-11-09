@@ -1,0 +1,399 @@
+                                           INTEGRATED SAFEGUARDS DATA SHEET
+                                              IDENTIFICATION / CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                               Report No.: ISDSC20215
+
+                         Date ISDS Prepared/Updated: 07-Oct-2016
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:            Serbia                  Project ID: P162123
+                            Project Name:
+                            Team Leader(s): Svetlana Vukanovic,Juan Navas-Sabater
+                            Estimated Date 01-Nov-2016
+                            of Approval:
+                            Managing Unit:                              Lending       IPF
+                                                                        Instrument:
+                            Financing (in USD Million)
+                            Total Project Cost:    0.30534            Total Bank Financing: 0
+                            Financing Gap:         0
+                              Financing Source                                                                          Amount
+                              Trust Fund for Statistical Capacity Building                                              0.30534
+                            Environment         C - Not Required
+                            Category:
+Public Disclosure Copy
+
+
+
+
+                           B. Project Development Objective(s)
+                           The development objective of the project is to facilitate the growth of an Open Data ecosystem in
+                           Serbia that would catalyze a broader digital transformation of the country, improving government
+                           delivery to citizens and generating innovations and growth in the ITindustry, especially small and
+                           medium size enterprises.
+
+                           Specifically, the project aims to:
+                           ➢❨¢ Support the Government of Serbia with implementing the Strategy for e-Government
+                           Development and the Open Data Action Plan, launching a comprehensive Open Data Policyin Serbia
+                           that is firmly rooted in the national legislative and institutional framework and responsive to the
+                           needs of key data users;
+                           ➢❨¢ Enable effective reuse of data by both government (central and local) and external
+                           stakeholders (including businesses and civil society), generating business opportunities, improving
+                           public service delivery and enhancing government accountability;
+                           ➢❨¢ Build an open data portal and support the development of institutional capacities for
+                           releasing open data, from development of criteria for priority areas to technical skills of government
+                           officials;
+                           ➢❨¢ Secure greater use of open government data in practice and supportthe growth of data-driven
+                           business, civil society and media.
+                         The Strategy of Official Statistics Development in the Republic of Serbia over the period 2016 ➢❨
+                         2020 defines a vision of achieving ➢❨ a high degree of harmonization with international
+Public Disclosure Copy
+
+
+
+
+                         statisticalstandards➢❨ . Among the developmental activities envisaged, ICT is identified as an area
+                         upon which the development of modern statistics is directly contingent. In this regard, the Action
+                         Plan that is part of the Strategy mentions the use of modern technologies(including Open Data) as a
+                         basis for realizing the priority of further development of ICT.
+                         C. Project Description
+                         The project will support the development of an open data ecosystem in Serbia, helping it bridge the
+                         gap to European and global best practices in governance and supporting several strategic processes,
+                         including the implementation of the E-Government Development Strategy. It follows the
+                         recommendations from the ODRA Action Plan, which is in line with Serbia➢❨ s Action Plan for the
+                         Development of e-Government.
+
+                         The following activities will be implemented:
+
+                         1.      Support to the functioning of an Open Data Working Group (ODWG)
+
+                         The ODWG was established in March 2016 and has been structured to include a ➢❨ core group➢❨
+                         comprising institutions that will champion the open data initiative and bring expertise from several
+                         different angles, and a broader group of stakeholders that include large data-holding agencies as well
+                         as representatives of business, civil society and academia, with particular emphasis on organizations
+                         that can act as incubators of solutions and multipliers of results. As per the Action Plan for
+                         Development of e-Government, he Directorate for e-Government coordinates the work of the group.
+
+                         The following institutions are taking part in the ODWG:
+Public Disclosure Copy
+
+
+
+
+                         Cross-cutting:
+
+                         ➢❨¢ Office of the Prime Minister ➢❨ Delivery Unit, Team for Public Administration Reform: the
+                         Delivery Unit has been established within the Prime Minister➢❨ s Office in 2015 as a single
+                         information and coordination point supporting the head of Government in reaching evidence-based
+                         policy decisions. Its focus is on delivery of better results faster on a small number of top priority
+                         topics, while leaving ownership for these priorities with the respective Ministries/agencies. The team
+                         for Public Administration Reform is one of six currently operating teams and works closely with
+                         numerous institutions to reduce administrative burden and facilitate better cooperation and data
+                         exchange within Government.
+                         ➢❨¢ Public Policy Secretariat (PPS): another Center of Government institution, the PPS was
+                         established in 2014 with a mission to serve as a professional service to Government in creating and
+                         adopting public policies and legislation that will be of better quality, more harmonized and more
+                         efficiently implemented. Its mandate relates to improving management of public policies (planning,
+                         analysis, creation, adoption, monitoring, evaluation, implementation and coordination), monitoring
+                         the implementation of Government priorities, and establishing an effective coordination framework
+                         for public policy implementation. Its analytical unit both supports government agencies with
+                         developing quality strategic framework (including indicator development), as well as conducting on-
+                         demand analysis and evidence basis for specific policy measures considered. As such, it is the most
+                         significant institutional user of Government data for policy purposes.
+                         ➢❨¢ Statistical Office: the central institution charged with statistical data collection, processing,
+                         analysis and publication, setting standards, maintaining registers, etc. Due to the key role that official
+                         statistics play in the European integration process, the Statistical Office has been rapidly modernizing
+Public Disclosure Copy
+
+
+
+
+                         and adapting to European and international standards, with a plan for further reforms underway.
+                         While it is struggling with qualified staff retention, the Statistical Office is the key institutional
+                         bearer of expertise in data management as well as being the single         largest data holder itself.
+                         ➢❨¢ Commissioner for Information of Public Importance and Personal Data Protection : an
+                         autonomous and independent public authority established in 2004, with the role of enhancing
+                         administration transparency and assisting citizens with exercising the right of free access to
+                         information. The Commissioner promotes proactive publication of up to date information on
+                         webpages of public bodies and their information directories, and publishes the data it holds in an
+                         open format. The Commissioner➢❨ s role also pertains to personal data protection and irregularities
+                         during data collection, data keeping, using, processing, archiving, and transferring across borders and
+                         exercising the right to privacy.
+                         ➢❨¢ Chamber of Commerce and Industry: an independent non-budget in stitution, the Chamber
+                         acts as a representative of the business community, advocates for the interest of business with
+                         Government and public bodies, supports local and international companies with services, mediation,
+                         consulting and business information, provides business training for strengthening competitiveness,
+                         and promotes Serbia➢❨ s international economic cooperation. It includes an association of IT
+                         companies and an Innovations Center, and has been hosting and organizing events related to e-
+                         government and open data.
+
+                         Data-holding agencies:
+
+                         ➢❨¢ Ministry of Interior: opened first data set on traffic accidents, holder of large data sets
+                         including traffic control, vehicle registration (including depersonalized data on structure of vehicles
+                         in use), citizen register, depersonalized citizen residence register including in-country migration, etc.
+                         ➢❨¢ Public Procurement Office: opened all core data on contracting authority, type of procedure
+Public Disclosure Copy
+
+
+
+
+                         and type and subject of procurement. Potential to open all publicly accessible data, including reports
+                         on low and high value public procurements and to develop services based on open data integrated
+                         into the new public procurement portal, as well as to work towards Open Contracting standards.
+                         ➢❨¢ Agency for Medicines and Medical Devices: opened entire registry of medicines for human
+                         and animal use and all medical devices in use.
+                         ➢❨¢ Ministry of Education and Science: developed own open data portal including an ever-
+                         growing number of data sets such as school registers, current vacancies in schools, current excess
+                         staff by school, schoolbooks, faculties, studying programs, R&D institutions, R&D projects, etc. The
+                         portal can be integrated with the future central open data portal. This Ministry is also the first to run
+                         its own open data competitions targeting schools (for data visualization) and the academic
+                         community (for policy analysis).
+                         ➢❨¢ Agency for Environmental Protection: opened first data sets on quality of air, allergens and
+                         part of the pollutant registry. Holder of large amount of data already in electronic form and in
+                         compliance with EU and IPCC standards.
+                         ➢❨¢ Ministry of Energy and Mining: holder of significant data of primary value for the private
+                         sector and currently exploring opening data on energy permits.
+                         ➢❨¢ Ministry of Construction, Transport and Infrastructure: holder of significant data of primary
+                         value for freight operators, private vehicle users, construction companies and general public and
+                         recently opened e-permit portal for the citizens and companies.
+                         ➢❨¢ Public Investment Management Office: implements ongoing project utilizing public sector
+                         data on landslides, hazard and risk maps on municipal level for the development of a public GIS web
+                         portal as a platform for interactive landslide event reporting and unifying landslide data records,
+                         identifying critical sites for landslide rehabilitation and improvement of governmental agencies
+Public Disclosure Copy
+
+
+
+
+                         practice in building/updating national landslide database.
+
+                         First partnerships with data users and developers have also already been established. The ODWG
+                         includes a number of civil society groups that have been active in the field of open data, including
+                         transparency organizations, start-up hubs, privacy activists and promoters of digital culture.
+
+                         The first open data hackathon in Serbia was organized on 4-6 December 2015, gathering IT
+                         developers, civil society activists and media representatives working with data opened through the
+                         pilot initiatives. The software solutions and prototypes developed have been presented at a high-level
+                         conference on 8 December 2015, which officially launched the ODRA and where World Bank
+                         experts participated in panels with top government officials.
+
+                         The project will support the functioning of the ODWG through:
+
+                         ➢❨¢ Providi ng a part-time expert as ODWG facilitator who will moderate meetings, provide
+                         written inputs collecting best practices and tracking progress among pilot institutions, as well as
+                         monitoring use of open data, identify champions, ensure that the ODWG keeps open channels of
+                         communication with all external stakeholders, including the IT community and civil society
+                         organizations, and support revisions of the Open Data Action Plan. In the initial stage the facilitator
+                         will provide support for establishing a governance mechanism and coordinate MOUs between data-
+                         holding institutions and the core group managing the Open Data portal.
+                         ➢❨¢ Providing ad hoc short-term experts to advise on specific aspects of the open data program
+                         (including development of the legislative and institutional framework, addressing specific sectoral
+                         challenges, regulatory aspects such as anonymization, licensing, etc.)
+                         ➢❨¢ Capacity building through trainings, workshops, study visits, and mentoring
+                         ➢❨¢ Support for organization of meetings with the broader ODWG and public events, including
+Public Disclosure Copy
+
+
+
+
+                         joint sessions with agencies and organizations active within the Open Government Partnership.
+
+                         2.      Support to developing the legislative framework for open data
+
+                         The ODWG is charged with preparing the groundwork for amending the legal framework relevant to
+                         open data, including the Law on Free Access to Information of Public Importance (changes
+                         anticipated in the next several months) and Law on Personal Data Protection. Examples of best
+                         practices are being assessed to consider which model should be applied (e.g. amendments to existing
+                         relevant laws; a separate piece of legislation covering open data). The ODWG will also help with the
+                         preparation of relevant bylaws for ensuring implementation of open data as defined in the laws, as
+                         well as the transposition of the EU PSI directive.
+
+                         Activities will include:
+
+                         ➢❨¢ Short-term expert support to review existing legislation, assess comparative practices, and
+                         support impact assessments
+                         ➢❨¢ ODWG retreats with relevant authorities for drafting legislation (laws and bylaws)
+                         ➢❨¢ Public debates on draft legislative proposals concerning open data
+                         ➢❨¢ Meetings with parliamentary committees and public hearings on open data legislation in the
+                         National Assembly
+
+                         3.      Support to developing the institutional framework for open data
+Public Disclosure Copy
+
+
+
+
+                         Activities will include:
+
+                         ➢❨¢ Expert support to the ODWG in collecting best practices and assessing mechanisms for
+                         positioning Open Data within Serbia➢❨ s institutional framework, including appointment of Chief
+                         Data Officer, assessment of the institutional placement of e-Government and/or initiation of a new
+                         Government innovation hub
+                         ➢❨¢ Facilitating the designation of open data officers in all agencies and providing training and
+                         regular exchanges with the ODWG and external stakeholders
+                         ➢❨¢ Providing initial support to the identified institutional solution as approved by the
+                         Government, including capacity building, functional analyses, and development of internal acts
+
+                         4.      Development of a central open data portal
+
+                         The ODWG will assess best practices and approve the model to be applied, including specific
+                         features for user interaction and feedback and whether to include functionalities for publishing data
+                         from sources other than the public sector. The Portal as a highly functional software needs to include
+                         functionalities as mapping, visualization and analysis to aid government officials, journalists,
+                         businesses and most importantly citizens in using the available data. The project will support the
+                         development of the portal as endorsed by the ODWG.
+
+                         In addition to serving as a platform for releasing data sets, the open data portal will establish a
+                         mechanism to receive users➢❨ requests and feedback, channel it to the respective institution and
+                         monitor responses (which should all be published on the portal). It will include features that allow
+                         users to subscribe for updates in spec ific fields of interests and notify them when new datasets or
+Public Disclosure Copy
+
+
+
+
+                         updates are released.
+
+                         5.      Pilot projects and support to individual institutions with opening of data
+
+                         The ODWG will develop criteria identifying priority areas for open data, including impact on cit
+                         izens, relevance to developmental priorities potential, for development of innovative public services,
+                         business development potential, quality of data, capacity of data-holding institution, etc. The
+                         institutions that have already implemented first pilots in fall 2015 (see above) will continue to be
+                         supported in their efforts, while new ones will be identified as well. Preliminary interest exists with
+                         the Geodetic Authority, the Central Register of Obligatory Social Insurance (CROSO), the Ministry
+                         of Construction, Traffic and Infrastructure, the Serbian Business Registers Agency, as well as a
+                         number of other smaller data-holders.
+
+                         Furthermore, local-level pilots will be initiated supporting cities in their transition/transformation
+                         into Smart Cities. The City of Belgrade, Subotica, Novi Sad, Krusevac, and more expressed their aim
+                         to transform into Smart City by using ICT, in order to increase their competitiveness, quality of life,
+                         infrastructure accessibility, etc. Under the project the cities will be invited to nominate ideas for their
+                         local community, upon which the ODWG will select one to three that can be implemented within the
+                         available budget and that could be easily replicated to other local communities. While the focus will
+                         be on transport related programs and solutions (i.e. public transport, parking, cycling, road safety), it
+                         will not be limited to it.
+
+                         Pilot institutions will be supported through:
+Public Disclosure Copy
+
+
+
+
+                         ➢❨¢ Access to expert advisory services, including technical expertise
+                         ➢❨¢ Technical support with opening data, which may include engagement with IT maintenance
+                         companies already contracted by the data holding institution
+                         ➢❨¢ Opportunities to have their data included in hackathons and further incubated afterwards,
+                         benefitting from early learning and feedback
+                         ➢❨¢ Support in equipment and hardware, where exceptionally justified and necessary (e.g. with
+                         the Ministry of Interior)
+                         ➢❨¢ A data fellows program, supporting students from tech universities and open data activists to
+                         assist institutions with developing their open data programs
+
+                         6.       Stimulating demand for open data and support to open data users
+
+                         Ensuring that the data released is responsive to the needs of potential data users, that the drive for
+                         opening data is complemented with continuous skills building, and that all major strides in opening
+                         data are immediately followed by proactively created opportunities for use, will be a top priority of
+                         the project. To this end, several potential multipliers gathering relevant stakeholders are already
+                         actively involved, including in the IT startup community, civil society, academic research institutes,
+                         and media. This network will expand and will be invited to join ODWG meetings to ensure a
+                         consistent feedback loop .
+
+                         The project will support the demand side of open data through:
+
+                         ➢❨¢ Development of a strategy for audience growth and user engagement for the ODWG,
+                         including identification of specific user groups and their distinct needs, identification of models of
+Public Disclosure Copy
+
+
+
+
+                         engagement and specific channels with each group
+                         ➢❨¢ Contracting of organizations for development and incubation of open data-based solutions
+                         (both non-profit and private), including organizations that: gather large numbers of stakeholders and
+                         have the capacity to become champions of open data in their fields; propose creative uses of data for
+                         public good; represent innovative partnerships across sectors (e.g. developer groups working together
+                         with civil society organizations, academic researchers, or media)
+                         ➢❨¢ Boot camps and hackathons gathering multi-disciplinary teams to develop software solutions
+                         and generate ideas for implementing them
+                         ➢❨¢ Public challenges and contests for using open data to develop policy solutions
+                         ➢❨¢ Providing developers and activists specific opportunities to interact with policy-makers
+                         through the ODWG and data fellows program, testing the policy relevance of their ideas and
+                         informing future activities
+                         ➢❨¢ Continuous campaigns and maintenance of the open data community in Serbia, particularly
+                         via social media.
+
+                         7.       Development of open data knowledge products
+
+                         A set of indicators to measure and evaluate the impact of open data initiatives will be developed.
+                         The project will support the creation and publishing of guides to opening data for institutions, as well
+                         as translation into Serbian of existing toolkits and case studies collecting global best practices.
+                           8.       Broader stakeholder promotion and capacity building activities
+Public Disclosure Copy
+
+
+
+
+                           A national Open Data Days conference will be organized in the second year of project
+                           implementation, to gather all stakeholders and the broader public in a stock-taking effort and review
+                           what has been achieved.
+                           The workshops and trainings organized for the broader ODWG and open data officers will include
+                           specific components for enhancing general IT capacities in Government (including data management
+                           training, capacity building of IT staff, etc.).
+                           D. Project location and salient physical characteristics relevant to the safeguard
+                           analysis (if known)
+
+
+                           E. Borrower’s Institutional Capacity for Safeguard Policies
+
+
+                           F. Environmental and Social Safeguards Specialists on the Team
+
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+                           Safeguard Policies                  Triggered?       Explanation (Optional)
+                           Environmental Assessment OP/        No
+                           BP 4.01
+                           Natural Habitats OP/BP 4.04         No
+                           Forests OP/BP 4.36                  No
+                           Pest Management OP 4.09             No
+Public Disclosure Copy
+
+
+
+
+                           Physical Cultural Resources OP/     No
+                           BP 4.11
+                           Indigenous Peoples OP/BP 4.10       No
+                           Involuntary Resettlement OP/BP      No
+                           4.12
+                           Safety of Dams OP/BP 4.37           No
+                           Projects on International           No
+                           Waterways OP/BP 7.50
+                           Projects in Disputed Areas OP/BP    No
+                           7.60
+
+                         III. SAFEGUARD PREPARATION PLAN
+                                Appraisal stage ISDS required?: No
+                         IV. APPROVALS
+                           Team Leader(s):            Name: Svetlana Vukanovic,Juan Navas-Sabater
+                           Approved By:
+                           Safeguards Advisor:        Name: Nina Chee (SA)                                Date: 26-Oct-2016
+                         Practice Manager/                Name: Jane Lesley Treadwell (PMGR)                                 Date: 30-Oct-2016
+                         Manager:
+Public Disclosure Copy
+
+
+
+
+                         1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the
+                         InfoShop and (ii) in country, at publicly accessible locations and in a form and language that are accessible to potentially
+                         affected persons.
+Public Disclosure Copy
+

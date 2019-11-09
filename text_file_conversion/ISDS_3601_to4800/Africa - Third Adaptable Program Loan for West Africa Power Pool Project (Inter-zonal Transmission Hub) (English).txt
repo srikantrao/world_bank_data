@@ -1,0 +1,306 @@
+                   INTEGRATED SAFEGUARDS DATASHEET
+                           APPRAISAL STAGE
+
+I. Basic Information
+Date prepared/updated: 05/16/2011                                    Report No.: AC5982
+1. Basic Project Data
+Country: Africa                              Project ID: P094919
+Project Name: WAPP: Inter-Zonal Transmission Hub Project (Phase 1, APL3)
+Task Team Leader: Issa Diaw
+Estimated Appraisal Date: April 27, 2011     Estimated Board Date: June 28, 2011
+Managing Unit: AFTEG                         Lending Instrument: Adaptable Program
+                                             Loan
+Sector: Power (100%)
+Theme: Regional integration (100%)
+IBRD Amount (US$m.):             0.00
+IDA Amount (US$m.):             41.10
+GEF Amount (US$m.):              0.00
+PCF Amount (US$m.):              0.00
+Other financing amounts by source:
+         BORROWER/RECIPIENT                                            6.70
+         FRANCE: French Agency for Development                        32.30
+         EC: European Investment Bank                                 30.90
+         Financing Gap                                                 0.00
+                                                                      69.90
+Environmental Category: B - Partial Assessment
+Repeater []
+Is this project processed under OP 8.50 (Emergency Recovery)
+                                                                 Yes [ ]      No [X]
+or OP 8.00 (Rapid Response to Crises and Emergencies)
+
+2. Project Objectives
+The PDO is to reduce the cost of and improve the security of electricity supply to Burkina
+Faso, increase Ghana#s electricity export capacity and increase the overall reliability and
+stability of the WAPP zone A transmission network.
+
+3. Project Description
+- Component 1: Transmission Line between Bolgatanga, Ghana, and Ouagadougou,
+Burkina Faso. This component will finance (i) the construction of 210 km of 225 kV
+transmission line from Bolgatanga in the northern part of Ghana to the capital of Burkina
+Faso (ii) the construction/extension of substations at Ouagadougou and Bolgatanga and
+(iii) installation of telecommunication systems and Supervisory Control and Data
+Acquisition (SCADA) as well Energy Management Systems (EMS) and (iv)
+implementation of Environmental Management and Resettlement Action Plan and
+strengthening the management of the Kabore Tambi National Park.
+ - Component 2: Reinforcement of transmission grid in Ghana. This component will fund
+key non- funded reinforcements needed to strengthen the northern region network and to
+increase capacity export to Burkina Faso from 20 to 100 MW and it will include the
+provision of an additional 330/161kV transformer. The component will also finance the
+feasibility, engineering and environmental studies of the 161kV Atebubu-Tamale line.
+
+ - Component 3: Electrification of rural localities along the right of way in Burkina
+Faso:Design and engineering studies as well as works to electrify 24 localities not more
+than 6km from the right of way using the shieldwire of the 225kV transmission line.
+
+ - Component 4: Supervision/Owner’s engineer: This component will finance an Owner’s
+Engineer to supervise the procurement process and works in both Ghana and Burkina
+Faso to ensure proper coordination between the two utilities.
+
+ - Component 5: Capacity building and institutional support to GRIDCo and SONABEL
+for project implementation: Training and technical assistance in: (i) HV Planning,
+Hotwire; (ii) O&M of HV transmission systems; (iii) Development, operation and
+maintenance of SCADA systems; (iv) commercial trading of electricity; and (v)
+Telecommunications and HV network protection. It will also cover the acquisition of
+equipments and operational expenses of the Project Implementation Units.
+
+4. Project Location and salient physical characteristics relevant to the safeguard
+analysis
+The project is located in both Burkina Faso and Northern Ghana. The transmission line
+connecting Burkina Faso and Ghana will connect the cities of Ouagadougou (Burkina
+Faso) and Bolgatanga (Ghana) through the most direct routing optimized to minimize
+social and environmental consequences.
+
+5. Environmental and Social Safeguards Specialists
+   Ms Paula F. Lytle (AFTCS)
+   Mr Africa Eshogba Olojoba (AFTEN)
+   Mr Martin Henry Lenihan (ECSS4)
+
+6. Safeguard Policies Triggered                             Yes         No
+Environmental Assessment (OP/BP 4.01)                        X
+Natural Habitats (OP/BP 4.04)                                X
+Forests (OP/BP 4.36)                                                     X
+Pest Management (OP 4.09)                                                X
+Physical Cultural Resources (OP/BP 4.11)                     X
+Indigenous Peoples (OP/BP 4.10)                                          X
+Involuntary Resettlement (OP/BP 4.12)                        X
+Safety of Dams (OP/BP 4.37)                                              X
+Projects on International Waterways (OP/BP 7.50)                         X
+Projects in Disputed Areas (OP/BP 7.60)                                  X
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project.
+Identify and describe any potential large scale, significant and/or irreversible impacts:
+The WAPP APL3 - Phase 1 project falls into environmental category B as no major
+adverse long term impacts are anticipated. The World Bank policies for Involuntary
+Resettlement (OP/BP4.12), Environmental Assessment (OP/BP4.01) are triggered as
+well. A number of potentially negative impacts have been identified in the ESIAs and
+accordingly mitigation measures have been prepared in the Environmental and Social
+Management Plans. They include potential resettlement and compensation of people
+living in the RoW of the Transmission Line affecting 110 residential properties
+(population 1,178) and 236 owners of trees and agricultural land in Burkina, and 87
+residential properties (population 1166) and 89 owners of trees and agricultural land in
+Ghana. The total number of people to be resettled in Ghana and Burkina Faso is 2344.
+The Rural Electrification Component planned for Burkina Faso may have some minor
+impacts on economically valuable trees, but because detailed designs are not yet available
+it is not possible to estimate the resettlement impacts necessitating the preparation of an
+Resettlement Policy Framework as an annex to the Resettlement Action Plan.
+  Environmental impacts will include clearing of vegetation for route survey and
+construction activities, noise, potential impacts on flora and fauna, public health risks, etc
+etc. The transmission line will affect the Kabore Tambi National Park, which has the
+status of a protected area managed for ecosystem protection and recreation. The
+vegetation is mainly savanna strewn with some gallery forests in some areas. The
+transmission line will follow mostly an existing road to minimize impacts. The ESMP
+includes replanting an equivalent number/species of trees in denuded areas within the
+Park boundaries to replace trees cut down to allow for the construction of the
+transmission line. Furthermore and in accordance with OP4.04, the project includes
+provision for additional resources to the park rangers to assist in the implementation of
+the ESMP in the park.
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future
+activities in the project area:
+In general, the WAPP APL3 is expected to positively affect the beneficiary communities
+and individuals in several ways, including a projected region-wide lowering of electricity
+supply costs than would be achievable on an individual country basis, and an improved
+reliability and security of supply leading to reduced overall vulnerability to drought-
+induced power supply disruptions. The rehabilitations and installations of electricity
+infrastructure will not only improve the way of life of the people in terms of having
+improved access to less costly electricity, but will also serve as the basis for their social
+and economic empowerment and reduction in poverty levels. Moreover, WAPP provides
+tangible demonstration that regionally integrated infrastructure initiatives are powerful
+drivers for more comprehensive socio-economic and political integration.
+
+ The right of way of the project will require the permanent displacement of 110
+households in Burkina Faso, and 87 households in Ghana. Social disruption will be
+minimized through the provision of resettlement sites adjacent to original place residence,
+provision of adequate compensation and resettlement assistance as part of a Resettlement
+Action Plan. The project will also require the permanent removal of economically
+productive trees, and encroachment on some culturally sensitive zones, which will be
+offset through compensation, reforestation, and pacification rituals.
+
+ When erected in place, the pylons may be considered imposing and in areas close to
+settlements and at entry points into substations, they create visual intrusion. The
+suspected health effects of electromagnetic fields have not been conclusively linked to
+adverse health effects, but nonetheless, power lines and installations will be located at a
+safe distance from residential premises.
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize
+adverse impacts.
+All viable alternative project designs have been explored by GridCo and SONABEL to
+avoid or minimize the need for resettlement and in general to avoid environmentally and
+socially sensitive sites including schools, clinics, other community properties, sacred
+shrines and delicate habitats that may harbor rare and endangered species. Where this was
+not possible, mitigating measures have been identified to minimize the significance and
+likelihoods of the potential impacts. Impacts may be further limited, to the extent
+practicable, during final route alignment. The current routing has already been selected to
+avoid villages and other developed and sensitive areas and to run beside the existing
+roads right-of-way as much as possible.
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide
+an assessment of borrower capacity to plan and implement the measures described.
+An Environmental and Social Impact Assessment and Management Plan (ESIAs and
+ESMPs respectively) and Resettlement Instruments (RAPs for both Ghana and Burkina
+and an RPF for the Rural Electrification Component in Burkina)have been developed to
+address triggered safeguard issues.
+
+  Specific mitigation measures planned for Kabore National Park in Burkina Faso include
+  the replacement of trees cut down to allow for the construction of the transmission line.
+The current intention in the ESMP is to replant an equivalent number of trees in denuded
+areas within the Park boundaries. This would contribute to the ability of the Park to
+sustain its existing fauna that is currently under pressure from the declining habitat due to
+human activity within the Park. As regards the risks to bird life from contact with the HV
+line, it is already envisaged in the ESMP that the cables in the Park section would be
+equipped with bird deterrent devices to reduce the risk of strikes. Other physical devices
+will be used on the pylons to prevent other animals to climb up to the level of the cables.
+Additional support to the Park Management will help to improve access road planning
+strengthen the surveillance, maintain surface water drainage, improvefire management
+etc.
+
+ The GridCo and SONABEL have adequate capacity to satisfactorily manage the
+potential negative dimensions of transmission line projects and substations construction.
+Standard environmental and resettlement management practices will suffice to minimize
+any concerns during construction and operation.
+
+ The ESIAs contain acceptable Environmental and Social Management Plans (ESMPs)
+that describe the environmental management structure of the GridCo and SONABEL; the
+qualifications and functions of the respective project environmental and social teams;
+general health, safety, pollution prevention, and waste disposal procedures; and training
+program for project management and contractor personnel. The ESMPs specifies
+mitigation measures for various potential adverse impacts in the pre-construction,
+construction and operation phases of the project. Funds for implementing the ESMPs are
+also included in the project cost estimates.
+
+ In addition Resettlement Instruments (RAPs and RPF) have been developed to mitigate
+the potential negative impacts for the people living in the RoW of the TL. These include
+compensation and resettlement assistance measures, as well as provisions for consultation
+and grievance redress. Both SONABEL and GRIDCo have specialist who have
+experience in successfully implementing Resettlement Action Plans.
+
+5. Identify the key stakeholders and describe the mechanisms for consultation and
+disclosure on safeguard policies, with an emphasis on potentially affected people.
+To ensure an adequate flow of information on projects, public consultation has been
+made an integral part of the ESIA. This includes consultations during the preparation of
+the safeguard instruments (ESIA, ESMP reports). Also as part of the RAP, community
+consultations were held.
+
+  All the relevant bodies have been adequately informed of the Project and on the process
+leading from census to construction. Concerns of the communities and some details of
+consultations have been provided as Appendix of the ESIAs and RAPs. These landowner
+users, as well other stakeholders such as District Assemblies, other Government agencies
+and NGOs, were also consulted during the ESIA and RAP studies. They will be consulted
+again when the final alignment is set and other preparations. Local concerns were
+generally about the loss of crops and land use, sacred groves/shrines and failed payment
+of compensation by for past developments in the area. These concerns have been
+addressed through the inclusion of a comprehensive set of compensation and resettlement
+assistance measures as well as robust grievance redress mechanism.
+
+
+
+B. Disclosure Requirements Date
+Environmental Assessment/Audit/Management Plan/Other:
+ Was the document disclosed prior to appraisal?                 Yes
+ Date of receipt by the Bank                                 01/25/2011
+ Date of "in-country" disclosure                             03/07/2011
+ Date of submission to InfoShop                              04/14/2011
+ For category A projects, date of distributing the Executive
+ Summary of the EA to the Executive Directors
+Resettlement Action Plan/Framework/Policy Process:
+  Was the document disclosed prior to appraisal?                   Yes
+  Date of receipt by the Bank                                 01/25/2011
+  Date of "in-country" disclosure                             03/07/2011
+  Date of submission to InfoShop                              04/25/2011
+Indigenous Peoples Plan/Planning Framework:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+Pest Management Plan:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+* If the project triggers the Pest Management and/or Physical Cultural Resources,
+the respective issues are to be addressed and disclosed as part of the Environmental
+Assessment/Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please
+explain why:
+
+
+
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the
+ISDS is finalized by the project decision meeting)
+
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) report?               Yes
+If yes, then did the Regional Environment Unit or Sector Manager (SM)           Yes
+review and approve the EA report?
+Are the cost and the accountabilities for the EMP incorporated in the           Yes
+credit/loan?
+OP/BP 4.04 - Natural Habitats
+Would the project result in any significant conversion or degradation of        Yes
+critical natural habitats?
+If the project would result in significant conversion or degradation of other   Yes
+(non-critical) natural habitats, does the project include mitigation measures
+acceptable to the Bank?
+OP/BP 4.11 - Physical Cultural Resources
+Does the EA include adequate measures related to cultural property?             Yes
+Does the credit/loan incorporate mechanisms to mitigate the potential           Yes
+adverse impacts on cultural property?
+OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy framework/process               Yes
+framework (as appropriate) been prepared?
+If yes, then did the Regional unit responsible for safeguards or Sector         Yes
+  Manager review the plan?
+  The World Bank Policy on Disclosure of Information
+  Have relevant safeguard policies documents been sent to the World Bank’s       Yes
+  Infoshop?
+  Have relevant documents been disclosed in-country in a public place in a       Yes
+  form and language that are understandable and accessible to project-affected
+  groups and local NGOs?
+  All Safeguard Policies
+  Have satisfactory calendar, budget and clear institutional responsibilities    Yes
+  been prepared for the implementation of measures related to safeguard
+  policies?
+  Have costs related to safeguard policy measures been included in the project   Yes
+  cost?
+  Does the Monitoring and Evaluation system of the project include the           Yes
+  monitoring of safeguard impacts and measures related to safeguard policies?
+  Have satisfactory implementation arrangements been agreed with the             Yes
+  borrower and the same been adequately reflected in the project legal
+  documents?
+
+
+  D. Approvals
+
+Signed and submitted by:                             Name                          Date
+Task Team Leader:                   Mr Issa Diaw                                 05/10/2011
+Environmental Specialist:           Mr Africa Eshogba Olojoba                    05/10/2011
+Social Development Specialist       Ms Paula F. Lytle                            05/10/2011
+Additional Environmental and/or     Mr Martin Henry Lenihan                      05/10/2011
+Social Development Specialist(s):
+
+Approved by:
+Regional Safeguards Coordinator:    Ms Alexandra C. Bezeredi                     05/10/2011
+  Comments:
+Sector Manager:                     Mr Subramaniam V. Iyer                       05/10/2011
+  Comments:
+

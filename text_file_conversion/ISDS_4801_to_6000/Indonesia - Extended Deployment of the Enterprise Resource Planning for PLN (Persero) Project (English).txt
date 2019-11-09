@@ -1,0 +1,202 @@
+Page  1
+INTEGRATED SAFEGUARDS DATA SHEET 
+CONCEPT STAGE 
+Report No.:  AC4397 
+ 
+Date ISDS Prepared/Updated: 06/10/2009 
+ 
+I.  BASIC INFORMATION 
+ 
+A.  Basic Project Data 
+ 
+Country: Indonesia 
+Project ID: P116855 
+Project Name: Extended Deployment of the Enterprise Resource Planning for PLN 
+Task Team Leader: Migara Jayawardena 
+Estimated Appraisal Date:  
+Estimated Board Date: September 17, 2009 
+Managing Unit: EASIS 
+Lending Instrument: Specific Investment 
+Loan 
+Sector: Power (80%);Central government administration (20%) 
+Theme: Infrastructure services for private sector development (67%);Other public sector 
+governance (33%) 
+IBRD Amount (US$m.): 
+38.50 
+IDA Amount (US$m.): 
+0.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ Borrower 
+0.00
+0.00 
+B.  Project Objectives [from section 2 of PCN] 
+The Extended Deployment of the Enterprise Resource Planning for PLN, is proposed for 
+additional financing under the existing Java-Bali Power Sector Restructuring and Strengthening 
+Project.  
+ 
+The Java-Bali Power Sector Restructuring and Strengthening Project's objective is to improve 
+the reliability and efficiency of the power system in Java-Bali and strengthen PLN and PGN's 
+management capabilities.  This is to be achieved by undertaking the following tasks:  
+ 
+-
+Investments related to improving the electricity system and strengthening the transmission 
+network;  
+ 
+-
+Implementation of a pilot and then a deployment of the Enterprise Resource Planning (ERP) 
+system in the Java-Bali business units; and  
+ 
+-
+Technical assistance to complete feasibility work for a key power plant in; and strengthen 
+capacity and assist with the restructuring of PGN, a state-owned gas company.  
+ 
+Page  2
+The proposed project development objective, structure, and results indicators are reflective of a 
+first order restructuring of the project that was approved by the Board on June 19, 2008.  The 
+total loan amount of the existing project, including the front end fee, is $141 million. The Java-
+Bali Power Sector Restructuring and Strengthening Project is performing satisfactorily with 65% 
+of the loan disbursed and the remaining funds fully committed.  
+ 
+PLN is now proposing the extended deployment of the ERP system so that they can integrate 
+the Business Units outside of Java-Bali into one common business systems platform at an 
+estimated cost of $38.5 million.  The World Bank is well placed to assist PLN with this effort, 
+having been involved with the ERP deployment from its initial pilot stage.   The expansion to 
+business units beyond the Java-Bali network would be a replication of already-developed and 
+tested modules and practices, using broadly the same implementation team.  The proposed 
+additional financing is a natural extension of the modular deployment of the ERP systems, and is 
+fully consistent with the development objective of the existing Java-Bali Power Sector 
+Restructuring and Strengthening Project.   
+ 
+C.  Project Description [from section 3 of PCN] 
+PLN is now proposing an expanded deployment of the ERP system to the rest of its business 
+units so that they can integrate the Business Units outside of Java-Bali into one common 
+business systems platform.  This would complete the deployment of the ERP across the 
+company, further optimize the existing system to maximize its benefits, strengthen their capacity 
+to support the system on a continuing basis, and explore options for the next stage of technology 
+related enhancements to better manage their customer interface.  The deployment of the ERP to 
+the remainder of PLN#s operations is expected to strengthen their management capabilities in the 
+"outer islands".  This includes a number of business units that cover a vast geographic area 
+operating in many rural and underserved regions of the country.  Since the ERP system would 
+then cover most of the company, PLN plans to further optimize the system so that the full 
+potential of the integrated system can be realized.  As the ERP system expands coverage, there 
+will also be significant additional demands placed on the company's IT Shared Services group. 
+PLN plans to significantly strengthen the IT Shared Services group's capacity to support users on 
+an ongoing basis.  Given the ERP system's significance to its daily operations, PLN also 
+proposes to implement a disaster recovery center to ensure business continuity in the event of a 
+disaster. PLN would also like to continue with their Strategic Information Systems plan and 
+identify opportunities in Customer Care and Billing. A small component of financing will go 
+towards undertaking a detailed diagnostic and developing a roadmap for this critical area. The 
+total loan amount for the proposed project is US$38.5 million.   
+ 
+D.  Project location (if known) 
+The proposed Project for additional financing will support the deployment of the ERP system to 
+PLN's business units beyond the Java-Bali network.   
+ 
+E.  Borrower’s Institutional Capacity for Safeguard Policies [from PCN] 
+During the implementation of the Java-Bali Power Sector Restructuring and Strengthening 
+Project, PLN has managed environmental and social issues satisfactorily in accordance with the 
+project Environmental Management Plan (EMP) and safeguards arrangements endorsed by the 
+Page  3
+World Bank.  The proposed additional financing for Extended Deployment of the Enterprise 
+Resource Planning for PLN does not trigger any safeguards policies of the World Bank.   
+ 
+F.  Environmental and Social Safeguards Specialists 
+Mr Thomas E. Walton (AFTU2) 
+Ms Ninin K. Dewi (EASIS) 
+ 
+II.  SAFEGUARD POLICIES THAT MIGHT APPLY 
+Safeguard Policies Triggered
+ 
+Yes No TBD 
+Environmental Assessment (OP/BP 4.01) 
+ X  
+Not applicable because the project exclusively provides technical assistance in the form of 
+consulting services and information technology equipment.   
+Natural Habitats (OP/BP 4.04) 
+ X  
+Not applicable because the project exclusively provides technical assistance in the form of 
+consulting services and information technology equipment.   
+Forests (OP/BP 4.36) 
+ X  
+Not applicable because the project exclusively provides technical assistance in the form of 
+consulting services and information technology equipment.   
+Pest Management (OP 4.09) 
+ X  
+Not applicable because the project exclusively provides technical assistance in the form of 
+consulting services and information technology equipment.   
+Physical Cultural Resources (OP/BP 4.11) 
+ X  
+Not applicable because the project exclusively provides technical assistance in the form of 
+consulting services and information technology equipment.   
+Indigenous Peoples (OP/BP 4.10) 
+ X  
+Not applicable because the project exclusively provides technical assistance in the form of 
+consulting services and information technology equipment.   
+Involuntary Resettlement (OP/BP 4.12) 
+ X  
+Not applicable because the project exclusively provides technical assistance in the form of 
+consulting services and information technology equipment.   
+Safety of Dams (OP/BP 4.37) 
+ X  
+Not applicable because the project exclusively provides technical assistance in the form of 
+consulting services and information technology equipment.   
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X  
+Not applicable because the project exclusively provides technical assistance in the form of 
+consulting services and information technology equipment.   
+Projects in Disputed Areas (OP/BP 7.60) 
+ X  
+Not applicable because the project exclusively provides technical assistance in the form of 
+consulting services and information technology equipment.   
+Environmental Category:
+ 
+C
+-
+Not Required 
+ 
+III.  SAFEGUARD PREPARATION PLAN 
+ 
+Page  4
+A.  Target date for the Quality Enhancement Review (QER), at which time the PAD-stage ISDS 
+would be prepared:  N/A 
+ 
+B.  For simple projects that will not require a QER, the target date for preparing the PAD-stage 
+ISDS:  07/30/2009 
+ 
+C.  Time frame for launching and completing the safeguard-related studies that may be needed.  
+The specific studies and their timing
+1
+should be specified in the PAD-stage ISDS. 
+The proposed additional financing for the Extended Deployment of the Enterprise Resource 
+Planning for PLN does not trigger any safeguard policies. Therefore, no additional 
+safeguards related documents are needed.   
+ 
+IV.  APPROVALS 
+ 
+Signed and submitted by: 
+ 
+Task Team Leader: 
+Mr Migara Jayawardena 
+05/20/2009 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Bekir A. Onursal 
+05/29/2009 
+Comments:   
+Sector Manager: 
+Ms Sonia Hammam 
+06/02/2009 
+Comments:   
+1
+Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the 
+InfoShop and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to potentially affected 
+persons.
+ 
+Page  5

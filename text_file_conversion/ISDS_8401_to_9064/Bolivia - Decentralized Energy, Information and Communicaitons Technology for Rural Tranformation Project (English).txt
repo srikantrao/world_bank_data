@@ -1,0 +1,202 @@
+25558
+THE WORLD BANK GROUP
+Qfo S-ho
+'Mc W" KUL
+Integrated Safeguards Data Sheet (Updated)
+Date ISDS Prepared/Updated: 03/24/2003
+Section I - Basic Information
+A. Basic Project Data
+Country: BOLIVIA                                 Project ID: P073367
+Project: Bolivia: Decentralized Energy, Information and  Task Team Leader: Dana Rysankova
+Communications Technology for Rural Transformation
+Authorized to Appraise Date: March 6, 2003       IBRD Amount ($m):
+Bank Approval: May 29, 2003                      IDA Amount ($m): 20.00
+Managing Unit: LCSFR                             Sector: District heating and energy efficiency
+Lending Instrument: Adaptable Program Loan (APL)  services (34%); Information technology (33%);
+Status. Lending                                  General energy sector (33%)
+Theme: Other rural development (P); Infrastructure
+services for private sector development (S); Other
+urban development (S); Poverty strategy; analysis
+and monitoring (S)
+I.A.2. Project Objectives:
+The project development objective is to expand and improve delivery of electricity and ICT services
+through private-sector led mechanisms as a catalyst for the development of rural areas in Bolivia. Phase I
+activities will be confined to the following specific interventions in the identified project areas: (i)
+increasing access to rural infrastructure services by using innovative, output-based, decentralized service
+delivery models with increased private-sector participation and community involvement; (ii) defining and
+implementing improvements in policy, regulatory and institutional frameworks, and strengthening the
+respective key institutions; (iii) identifying and developing applications for the productive and social uses
+of electricity and ICT; (iv) intensively promoting the new services, including market development and
+training of local users, service providers and authorities; and (v) implementing rigorous monitoring and
+evaluation programs.
+I.A.3. Project Description:
+The National Rural Infrastructure Strategy TA will assist the Vice-Ministries of Energy and
+Communications in developing effective strategies to improve and accelerate electricity and ICT
+coverage expansion in rural areas, particularly addressing the following aspects: availability of financing;
+efficient planning and prioritization of investment projects based on "bottom-up" identification of
+demand and binding cost-minimizing criteria; efficient private-sector participation in investment,
+operation and maintenance (O&M); competitive allocation of subsidies; adequate user contributions
+based on capacity to pay; appropriate O&M arrangements ensuring long-term sustainability of
+investments; and introduction of adequate technical standards and regulations for rural areas.
+
+
+
+2
+ISDS
+The Rural coverage expansion component aims at direct expansion of electricity and phonle service into
+rural areas through a competitive award of subsidies to private-sector operators. Its sub-components are:
+the Solar PV Market Development sub-component, which will implement private-sector led off grid
+service delivery models, providing up to 20,000 new rural households, micro-enterprises, schools and
+health posts with sustainable electricity by offering a menu of decentralized service options (opening the
+Bolivian market for the first time to solar home systems below 40 Wp); the Grid Densification
+sub-component, which will develop new regulatory standards, build capacity and implement a
+demonstration investment project that densifies existing grids within a radius of 1 km; the Telephone
+Coverage Expansion sub-component, which will extend cell phone coverage to 42 municipal sections
+with populations of between 2,000 and 10,000 inhabitants that do not have cell phone service and/or a
+central telephone; and the Other Energy and ICT Investment sub-components, which will pilot
+additional small interventions related to the coverage expansion component, primarily pico-hydro
+stations (very small, household-based hydro units).
+The Productive and Social Uses component will identify, develop, facilitate and promote productive
+and social uses of the installed infrastructure. The Promotion, Communication and Capacity Building
+component will provide a common platform for community consultations, promotion campaigns and
+training of users in using the new infrastructure efficiently and productively. The Project Management,
+Monitoring and Evaluation component will focus primarily on monitoring and evaluation (M&E),
+including: development of M&E indicators, baseline and methodology; periodic evaluation of progress
+toward achieving the identified targets; and final evaluation upon project completion.
+l.A.4. Project Location: (Geographic location, information about the key environmental and social
+characteristics of the area and population likely to be affected, and proximity to any protected areas, or sites
+or critical natural habitats, or any other culturally or socially sensitive areas.)
+Zone 1 (Departments of Oruro and Potosi) includes 26 municipalities. This region is characterized by
+its elevation-between 3,000 and 4,000 meters above sea level. The main productive activities include
+quinua, llamas and alpacas (cameloids), potatoes, and minerals. The government competitiveness
+program (Unidad de Productividad y Competitividad) has identified this region as a potential export area,
+where three productive clusters are being formed-quinua, cameloids and tourism-and recommended
+for inclusion in the project. This zone has a total population of roughly 200,000 people, and its index of
+unsatisfied basic needs (NBI) is 3 1.8%, and electricity coverage is only 3 1.1%.
+Zone 2 (Valles Mesotermicos de Santa Cruz y Cono Sur de Cochabamba), which includes 20
+municipalities and a total population of around 183,000 people, has an NBI of 31.1 % and electricity
+service coverage of 35.9%. This zone covers the Valles Mesotermicos (1200 to 1800 meters above sea
+level). Production in this area of fruits and vegetables for the national market (mainly tomatoe and
+onion) has been on the rise. Zone 2 also includes the Cono Sur de Cochabamba, characterized by the
+Andean valleys, with a traditionally high production of potatoe, corn, barley and cattle. The ethnicity in
+both regions is Quechua. (According to the latest census, 90% of the people in the Cochabamba vicinity
+identified themselves as indigenous).
+B. Chieck Environmental Classification: B (Partial Assessment)
+Comments.
+C Safeguard Policies Triggered
+Policy                               Applicability
+Environmental Assessment (OP/BP/GP 4.01)                   * Yes O No
+
+
+
+3
+ISDS
+Natural Habitats (OP/BP/GP 4.04)                           0 Yes 0 No
+Forestry (OP/GP 4.36)                                      0 Yes 0 No
+Pest Management (OP 4.09)                                  O Yes * No
+Cultural Property (OPN 11.03)                              0 Yes * No
+Indigenous Peoples (OD 4.20)                               * Yes 0 No
+Involuntary Resettlement (OP/BP 4.12)                      0 Yes * No
+Safety of Dams (OP/BP 4.37)                                0 Yes * No
+Projects in International Waterways (OP/BP/GP 7.50)        0 Yes * No
+Projects in Disputed Areas (OP/BP/GP 7.60)*                0 Yes * No
+*By supporting the proposed project, the Bank does not intend to prejudice the final determination of the parties' claims
+on the disputed areas
+Section II - Key Safeguard Issues and Their Management
+D. Summary of Key Safeguard Issues. Please fill in all relevant questions. If information is nol available,
+describe steps to be taken to obtain necessary data
+II.D. I a. Describe any safeguard issues and impacts associated with the proposed project. Identify and
+describe any potential large scale, significant and/or irreversible impacts.
+An environmental assessment of the project has been undertaken, identifying any possible negative
+environmental effects due to the installation of equipment and other minor works. The assessment has
+concluded that the probability of negative environmental effects is very small. In fact, the project is
+expected to have a positive environmental impact due to the use of renewable energy technologies
+(photovoltaic systems), reducing CO2 emissions.
+II.D. I b. Describe any potential cumulative impacts due to application of more than one safeguard policy or
+due to multiple project component.
+There are no anticipated negative cumulative impacts.
+II.D. Ic Describe any potential long term impacts due to anticipated future activities in the project area.
+No negative long-term impact are foreseen. Due to the reduction of CO2 emissions, the project is
+expected to have a positive environmental impact. The project anticipates receiving additional support
+through the Community Development Carbon Fund (CDCF), which will buy CO2 emission reductions
+produced by the project.
+II.D.2. In light of 1, describe the proposed treatment of alternatives (if required)
+II.D.3. Describe arrangement for the borrower to address safeguard issues
+Environmental Management Plans (EMPs) for each sub-project will be developed during
+implementation. The EMPs will follow a prescribed format, including adequate monitoring indicators.
+Mitigation measures will be included in the contractors' bidding documents and environmental indicators
+will be monitored by the implementing agencies. The overall impact of the project on greenhouse gas
+reduction will be monitored as a key output indicator.
+II.D.4. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on
+safeguard policies, with an emphasis on potentially affected people.
+The main direct beneficiaries of the project will be roughly 20,000 rural, low-income households that
+will be offered electricity service and over 25,000 new cell phone users in rural towns. Farmers, small
+
+
+
+4
+ISDS
+businesses, schools, clinics and community centers in the project areas will also be served by the addition
+of electricity and ICT services and their related applications. Ultimately, the project would benefit the
+rural population in the rest of the country through replication on a larger scale.
+Indigenous communities are among the most significant beneficiaries of the project. Almost 80% of the
+people in the project areas identified themselves as indigenous in the 2001 census. In addition to
+household electricity, indegenous people will benefit from improved social services in schools, health
+posts and community centers, as well as from improved communication through ICT. All content and
+applications developed under the Productive and Social Uses Component, as well as their dissemination
+and training activities, will be specifically adapted (for language and cultural considerations) to reach
+indigenous groups. The communities will participate actively in project implementation to ensure that
+the project effectively responds to the real needs of indigenous people and their communities.
+E. Safeguards Classification. Category is determined by the highest impact in any policy. Or on basis of
+cumulative impacts from multiple safeguards. Whenever an individual safeguard policy is triggered the
+provisions of that policy apply.
+[ ] SI. - Significant, cumulative and/or irreversible impacts; or significant technical and institutional risks
+in management of one or more safeguard areas
+[X] S2. - One or more safeguard policies are triggered, but effects are limited in their impact and are
+technically and institutionally manageable
+[ ] S3. -No safeguard issues
+[ ] SF. - Financial intermediary projects, social development funds, community driven development or
+similar projects which require a safeguard framework or programmatic approach to address
+safeguard issues.
+
+
+
+5
+ISDS
+F. Disclosure Requiremnents
+Environmental Assessmnent/Analysis/Management Plan.         Expected       Actual
+Date of receipt by the Bank                                               2/26/2003
+Date of "in-country" disclosure                             3/7/2003
+Date of submission to InfoShop                              3/7/2003
+Date of distributing the Exec. Summary of the EA to the ED
+(For category A projects)
+Resettlement Action Plan/Framework:                         Expected       Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+Indigenous Peoples Development Plan/Framework.              Expected       Actual
+Date of receipt by the Bank                                               2/26/2003
+Date of "in-country" disclosure                             3/6/2003
+Date of submission to InfoShop                              3/6/2003
+Pest Managemnent Plan.                                      Expected       Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+Damn Safety Management Plan.                                Expected       Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+If in-country disclosure of any of the above documents is not expected, please explain why.
+Sihned and submitted by       Name                                        Date
+Task Team Leader:             Dana Rysankova                              March 9, 2003
+Project Safeguards Specialists 1:
+Project Safeguards Specialists 2:
+Project Safeguards Specialists 3:
+Approved by:                  Name                                        Date
+Regional Safeguards Coordinator: Juan D. Quintero                         March 7, 2003
+Sector Manager/Director:      Danny M. Leipziger                          March 7, 2003
+For a list of World Bank news releases on projects and reports, click here
+@l iOrEav                     3VTA1111111SM
+
+
+

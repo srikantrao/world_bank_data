@@ -1,0 +1,333 @@
+                                INTEGRATED SAFEGUARDS DATA SHEET
+                                                 APPRAISAL STAGE
+.
+
+
+
+
+                                                                                           Report No.:ISDSA15936
+Date ISDSPrepared/Updated:                  30-Mar-2017
+Date ISDS Approved/Disclosed                03-Apr-2017
+I. BASIC INFORMATION
+    1. Basic Project Data
+    Country:                           Nigeria                      Project ID:               P146330
+    Project Name:                      NG-Electricity Transmission Project (P146330)
+    Task Team Leader(s):               Kyran O'Sullivan,Jianping Zhao
+    Estimated Appraisal                20-Mar-2017                  Estimated Board           07-Jun-2017
+    Date:                                                           Date:
+    Managing Unit:                     GEE08                        Lending Instrument: Investment Project
+                                                                                        Financing
+    Is this project processed under OP 8.50 (Emergency Recovery) or OP 8.00(Rapid No
+    Response to Crises and Emergencies)?
+                                                 Financing (In USD Million)
+    Total Project Cost:           490.00                          Total Bank Financing: 486.00
+    Financing Gap:                0.00
+         Financing Source                                                                                      Amount
+    BORROWER/RECIPIENT                                                                                             4.00
+    International Development Association (IDA)                                                                  486.00
+    Total                                                                                                        490.00
+    Environmental Category:            B - Partial Assessment
+    Is this a Repeater project?        No
+
+    2. Project Development Objective(s)
+    The project development objective is to increase the transfer capacity of the transmission network in Nigeria.
+    3. Project Description
+    A.     Concept
+
+    The project supports priority investments for rehabilitation and upgrading of existing substations and
+    rehabilitation of existing transmission lines across the country in order to increase power transfer on the lines.
+    The rehabilitation to be carried out under the project is to address binding constraints to increase power transfer
+    capacity from about five GW currently to at least seven GW. The project also includes installation of a SCADA
+    system so as to maintain system stability. The substations are parts of the transmission network located across
+    the country. Rehabilitation under the project will expand transmission capacity by 3,060 MVA for
+    transformation at 330/132 kV (currently 8,138 MVA) and by 3,500 MVA for transformation at 132/33kV
+
+                                                      Page 1 of 7
+(currently 10,162 MVA). Rehabilitation of the proposed transmission lines will enable additional power
+evacuation of about three GW from the current maximum of approximately five GW. The increase in power
+transfer capacity from five to seven GW will enable DISCOS to supply consumers with this additional power.
+
+The project also provides technical assistance to help TCN develop a clear accountability framework and a
+functional governance structure, fill the gaps in both managerial and staff capacity, and explore private
+financing for the development of greenfield transmission projects. The two components are described below.
+
+B. Description of Project Components
+
+Component 1: Transmission Network Strengthening and Improvement (US$408 million, of which FGN US$4
+million and IDA and IDA SUF US$404 million equivalent excluding contingency). This component has four
+sub-components: (i) the upgrading and rehabilitation of up to 48 existing substations – of these, approximately
+11 require the replacement of transformers, while the others require the addition (and not the replacement) of
+transformers, and addition and replacement of protection and control systems, switchgear, and associated
+equipment; (ii) replacement of conductor on up to 13 132 kV transmission lines and conversion of up to two 132
+kV lines from single circuit to double circuit (the total length of the transmission lines is about 1,270
+kilometers); (iii) the upgrading and expansion of the network’s SCADA and telecommunication system; and (iv)
+installation of voltage regulation system at the remotely located Gombe su bstation in the north eastern that is
+supplied by a long 132kV line part of the country; and (v) purchase of spare equipment.
+
+Component 2: Capacity Building and Technical Assistance (IDA and IDA SUF US$42 million equivalent
+excluding contingency). This component includes the following activities: (i) consulting support and capacity
+building to improve the TCN PMU’s performance; (ii) consulting services for construction supervision and
+management; (iii) consulting services for feasibility studies of priority investment projects for donor financing
+as identified by the ongoing transmission expansion plan study; (iv) consulting services (transaction advisory) to
+support the implementation (i.e., selection and contracting of a private contractor) of a pilot PPP for
+transmission infrastructure that is part of network expansion (i.e., for greenfield infrastructure); (v) consulting
+services and capacity building to support TCN’s corporatization and commercialization efforts and enhance its
+managerial, technical, environmental/social, and financial capacity; and (vi) consulting services and capacity
+building to support public institutions in the sector, including NERC, BPE, NBET, and other government
+bodies, such as the Ministry of Power and the power task force attached to the Vice President’s office.
+4. Project location and Salient physical characteristics relevant to the safeguard analysis (if
+known)
+The project is national in scope. The project will only finance the rehabilitation of existing substations and re-
+conducting of existing transmission lines. The project is not expected to involve land acquisition.
+5. Environmental and Social Safeguards Specialists on the Team
+ Amos Abu( GEN07 )
+ Edda Mwakaselo Ivan Smith( GSU01 )
+6. Safeguard Policies That Might Apply
+Safeguard Policies                              Triggered?      Explanation (Optional)
+Environmental Assessment OP/BP 4.01             Yes             Environmental Assessment OP/BP 4.01 is
+                                                                triggered. The project finances the rehabilitation of
+                                                                existing substations and re-conducting of existing
+                                                                transmission lines. The main environmental impacts
+                                                                off-site are construction traffic, noise and dust; they
+
+
+                                                  Page 2 of 7
+                                                        are localized to the facilities and immediately
+                                                        adjacent communities and can readily be avoided or
+                                                        mitigated through the application of good practices.
+                                                        Significant social impacts are not expected; the
+                                                        labor force at each site will be small, hence large
+                                                        workers’ camps and large numbers of in-migrating
+                                                        workers will not be needed. An ESMF has been
+                                                        prepared because the selection of substations from
+                                                        the list of 48 substations and 15 transmission lines
+                                                        under consideration will not be made until after
+                                                        appraisal. Some candidate substations and lines
+                                                        might be subsequently dropped and others added.
+                                                        The ESMF was consulted upon and disclosed in-
+                                                        country and on the Bank’s website. Full
+                                                        environmental and social impact assessments will
+                                                        not be called for under Bank safeguards policies
+                                                        and are not likely to be required by FGN law or
+                                                        regulations because of the type of investments the
+                                                        project will support. Site specific ESMPs will be
+                                                        prepared, disclosed prior to construction and
+                                                        implemented. The ESMF includes basic mitigation
+                                                        measures for PCB contamination in case of PCB oil
+                                                        in transformers at any of the 11 substations where
+                                                        replacement is needed.
+Natural Habitats OP/BP 4.04              No             The project is not expected to impact natural
+                                                        habitats.
+Forests OP/BP 4.36                       No             The project is not expected to have impacts on
+                                                        forests.
+Pest Management OP 4.09                  No             This project will not finance the procurement and/or
+                                                        use of pesticides.
+Physical Cultural Resources OP/BP 4.11   No             The project is not expected to have an impact on
+                                                        physical cultural resources.
+Indigenous Peoples OP/BP 4.10            No             There are no Indigenous Peoples in the project area.
+Involuntary Resettlement OP/BP 4.12      Yes            The project will finance rehabilitation of existing
+                                                        substations and re-conducting of existing
+                                                        transmission lines. All activities are expected to be
+                                                        carried out within the areas of existing facilities and
+                                                        no land acquisition is envisaged. Resettlement will
+                                                        only be necessary where there are encroachers that
+                                                        need to be relocated from the transmission line
+                                                        corridor, in which case RAPs or abbreviated RAPs
+                                                        will be prepared. The number of affected persons is
+                                                        expected to be small; reconnaissance of two of the
+                                                        transmission lines revealed the presence of
+                                                        approximately 50 encroachers, mostly artisans,
+                                                        farmers, and traders. Any RAPs or ARAPs will
+                                                        have provisions to ensure equitable treatment of
+                                                        women and vulnerable groups.
+
+                                          Page 3 of 7
+    Safety of Dams OP/BP 4.37                      No              The implementation of the project will not entail
+                                                                   the construction of new dam neither will any of the
+                                                                   project activities rely on the performance of an
+                                                                   existing dam or a dam under construction (DUC).
+    Projects on International Waterways OP/BP No                   This project will not involve discharges to or
+    7.50                                                           extraction of water from any international
+                                                                   waterways or any tributary or other body of surface
+                                                                   or groundwater that is a component of any such
+                                                                   waterway.
+    Projects in Disputed Areas OP/BP 7.60          No              The project will not be located in disputed areas as
+                                                                   defined by OP/BP 7.60.
+.
+
+
+
+
+    II. Key Safeguard Policy Issues and Their Management
+    A. Summary of Key Safeguard Issues
+    1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe
+    any potential large scale, significant and/or irreversible impacts:
+    The proposed project is classified as Environmental Assessment Category B (partial assessment). Investments
+    consist of rehabilitation and upgrading works at existing TCN substations and transmission lines. The project
+    activities are not expected to require the acquisition of any land as there are sufficient spaces in the existing
+    substations to accommodate all construction activities. The re-conducting of the transmission lines will be
+    carried out within the transmission line corridor which is already owned by TCN. No large-scale, significant, or
+    irreversible adverse impacts are anticipated. The main environmental impacts off-site are construction traffic,
+    noise and dust; they are localized to the facilities and immediately adjacent communities and can readily be
+    avoided or mitigated through application of good practices and, where appropriate, preparation and
+    implementation of site-specific environmental and social management plans (ESMP). The main on-site concern
+    is workplace safety, which will also be addressed through health and safety measures to be included in the
+    ESMPs. Resettlement will only be necessary if there are encroachers that need to be relocated from the
+    transmission line corridor, in which case RAPs or abbreviated RAPs will be prepared.
+    2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the
+    project area:
+    Potential environmental and social impacts are not significant. No potential indirect and/or long term impacts
+    due to anticipated future activities in the project area are envisaged.
+    3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+    N/A
+    4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of
+    borrower capacity to plan and implement the measures described.
+    A framework approach is being applied in this project as the detailed scope of all project activities will not be
+    known at the time of appraisal. A preliminary list of 15 transmission line where re-conducting may be done and
+    approximately 48 existing sub-stations where the project may finance replacement of transformers (at up to 11
+    stations), addition of transformers and associated equipment has been identified. An international engineering
+    firm has been engaged to visit all substations, review the proposed options, confirm the technical viability of the
+    proposed schemes, and define the scope of work for the supply and installation contract to be procured through
+    the international competitive bidding process. Once the engineering consultant has completed its review, the
+    actual substations to be included in the project and the work to be performed at each will be known. Design
+    work will then be carried out to prepare detailed specifications of the required investments at each substation site
+
+
+                                                     Page 4 of 7
+   as well as at the transmission lines. Some substations and lines in the preliminary scope may be dropped and
+   others included during the detailed design phase. Furthermore, the scope may contract or expand (i.e. sub-
+   stations and lines in the preliminary list may be dropped or added) following successive rounds of procurement
+   if project costs are more or less than current cost estimates. An Environmental and Social Management
+   Framework (ESMF) and a Resettlement Policy Framework (RPF) have been prepared and disclosed. The ESMF
+   and RPF describe the procedures and processes that will be followed in preparing and disclosing site specific
+   safeguard instruments where required as soon as the exact locations and scope of sub-project activities are
+   known.
+
+   The Environmental, Resettlement and Social Unit (ERSU) of the PMU has provided effective oversight of
+   environmental and social management in the series of Bank-supported projects since NEDP. It now included a
+   full-time social safeguards specialist. PMU’s ERSU has supervised the work of consultants preparing safeguards
+   instruments and has also prepared a number of instruments in-house, including the ESMF and RPF for this
+   project. However, it has recently experienced difficulties in timely completion of ESMPs acceptable to the
+   Bank, and this together with lapses in coordination with PMU Procurement, have resulted in delays in
+   subproject implementation and loan disbursements in the Nigeria Electricity and Gas Improvement Project
+   (NEGIP). The project will demand a significant additional volume of work from the PMU’s ERSU, and its
+   capacity must be enhanced in order to ensure the preparation and implementation of high-quality ESMPs and
+   RAPs, efficiently and on time. PMU plans to engage an international consulting firm to provide advice and
+   support in safeguards, particularly the periodic audits of environmental compliance with ESMPs and national
+   law by project contractors, and mentoring and training for PMU’s ERSU.
+   5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on
+   safeguard policies, with an emphasis on potentially affected people.
+   During the preparation of this project including the preparation of the Environmental and Social Management
+   Framework (ESMF) and Resettlement Policy Framework (RPF), informed consultations were held with key
+   stakeholders. Some of the key stakeholders include: Nigeria Electricity Regulatory Commission (NERC),
+   Transmission Company of Nigeria (TCN), consumers of power/electricity, NGOs, and communities. The major
+   areas of concerns identified by the various stakeholders and how the project will address these concerns were
+   documented and taken into account in preparation of the ESMF and RPF. This informed consultation will be
+   continued during the implementation of the project. In addition, the project has a very robust Grievance Redress
+   Mechanism (GRM) for documenting and addressing concerns raised by citizens.
+   .
+
+
+
+
+B. Disclosure Requirements
+Environmental Assessment/Audit/Management Plan/Other
+Date of receipt by the Bank                                            07-Mar-2016
+Date of submission to InfoShop                                         29-Mar-2017
+For category A projects, date of distributing the Executive
+Summary of the EA to the Executive Directors
+"In country" Disclosure
+PHENVCTRY
+
+
+
+
+   Nigeria                                                                       29-Mar-2017
+   Comments: At the website of the Transmission Company of Nigeria.
+   Resettlement Action Plan/Framework/Policy Process
+   Date of receipt by the Bank                                      11-Mar-2017
+   Date of submission to InfoShop                                   29-Mar-2017
+   "In country" Disclosure
+PHRESCTRY
+
+
+
+
+   Nigeria                                                                   29-Mar-2017
+   Comments: At the website of the Transmission Company of Nigeria.
+
+
+                                                   Page 5 of 7
+ If the project triggers the Pest Management and/or Physical Cultural Resources policies, the respective
+issues are to be addressed and disclosed as part of the Environmental Assessment/Audit/or EMP.
+ If in-country disclosure of any of the above documents is not expected, please explain why::
+
+
+
+C. Compliance Monitoring Indicators at the Corporate Level
+PHCompliance
+
+
+
+
+ OP/BP/GP 4.01 - Environment Assessment
+ Does the project require a stand-alone EA (including EMP)       Yes [X]     No []       NA         []
+ report?
+ If yes, then did the Regional Environment Unit or Practice      Yes [X]     No []       NA         []
+ Manager (PM) review and approve the EA report?
+ Are the cost and the accountabilities for the EMP               Yes [X]     No []       NA         []
+ incorporated in the credit/loan?
+PHCompliance
+
+
+
+
+ OP/BP 4.12 - Involuntary Resettlement
+ Has a resettlement plan/abbreviated plan/policy                 Yes [X]     No []       NA         []
+ framework/process framework (as appropriate) been
+ prepared?
+ If yes, then did the Regional unit responsible for safeguards   Yes [X]     No []       NA         []
+ or Practice Manager review the plan?
+ Is physical displacement/relocation expected?                   Yes []      No []       TBD        [X]
+ Is economic displacement expected? (loss of assets or access    Yes []      No []       TBD        [X]
+ to assets that leads to loss of income sources or other means
+ of livelihoods)
+PHCompliance
+
+
+
+
+ The World Bank Policy on Disclosure of Information
+ Have relevant safeguard policies documents been sent to the     Yes [X]     No []       NA         []
+ World Bank's Infoshop?
+ Have relevant documents been disclosed in-country in a          Yes [X]     No []       NA         []
+ public place in a form and language that are understandable
+ and accessible to project-affected groups and local NGOs?
+PHCompliance
+
+
+
+
+ All Safeguard Policies
+ Have satisfactory calendar, budget and clear institutional      Yes [X]     No []       NA         []
+ responsibilities been prepared for the implementation of
+ measures related to safeguard policies?
+ Have costs related to safeguard policy measures been            Yes [X]     No []       NA         []
+ included in the project cost?
+ Does the Monitoring and Evaluation system of the project        Yes [X]     No []       NA         []
+ include the monitoring of safeguard impacts and measures
+ related to safeguard policies?
+ Have satisfactory implementation arrangements been agreed       Yes [X]     No []       NA         []
+ with the borrower and the same been adequately reflected in
+ the project legal documents?
+
+
+         III. Approval
+         Task Team Leader(s):         Name:Kyran O'Sullivan,Jianping Zhao
+         Approved By:
+         Safeguards Advisor:          Name: Maman-Sani Issa (SA)           Date: 30-Mar-2017
+         Practice Manager/Manager:    Name: Wendy E. Hughes (PMGR)         Date: 03-Apr-2017
+
+                                                Page 6 of 7
+Page 7 of 7
+

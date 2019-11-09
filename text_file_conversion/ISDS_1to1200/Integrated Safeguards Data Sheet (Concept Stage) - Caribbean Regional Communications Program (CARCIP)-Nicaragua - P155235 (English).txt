@@ -1,0 +1,290 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+CONCEPT STAGE
+Report No.: ISDSC14538
+Date ISDS Prepared/Updated: 29-Sep-2015
+Date ISDS Approved/Disclosed: 15-Oct-2015
+I. BASIC INFORMATION
+A. Basic Project Data
+Country:        Nicaragua                  Project ID:   P155235
+Project Name:   Caribbean Regional Communications Program (CARCIP)-Nicaragua (P155235)
+Task Team       Elena Gasol Ramos
+Leader(s):
+Estimated       05-Nov-2015                Estimated     02-Feb-2016
+Appraisal Date:                            Board Date:
+Managing Unit: GTIO9                       Lending       Investment Project Financing
+Instrument:
+Sector(s):      Information technology (70%), Telecommunications (30%)
+Theme(s):       Regional integration (50%), Technology diffusion (50%)
+Financing (In USD Million)
+Total Project Cost:      21.00            Total Bank Financing:   18.45
+Financing Gap:            0.00
+Financing Source                                              Amount
+BORROWER/RECIPIENT                                               2.55
+International Development Association (IDA)                     18.45
+Total                                                           21.00
+Environmental B - Partial Assessment
+Category:
+Is this a       No
+Repeater
+project?
+B. Project Objectives
+Increase access to regional broadband networks and advance the development of an IT and IT
+enabled services (IT-ITES) industry in Nicaragua and in the Caribbean Region.
+C. Project Description
+30.64. The design of the proposed Project directly applies lessons learned from the implementation
+of CARCIP Phase 1, as to the very limited availability of training institutions and high cost of
+specialized courses both domestically and within the region. difficulty of accessing certifications and
+
+
+﻿training courses in the region, and accessing those that are available at a reasonable price. CARCIP
+Nicaragua will therefore follow the model implemented under the Mexico IT Industry Development
+Project, which created the NGO Mexico FIRST for developing the IT-ITES skills and certification
+program. The project showed how creating an institution focused on internationally recognized
+O
+U       certification, mentoring and 'training the trainer' programs, to cater for the needs of the industry,
+facilitated the design of courses and skill development programs for niche specializations in areas
+relevant to the needs of key offshoring markets and local industry demand. MexicoFIRST
+successfully overcame the problems of high costs and access to specialized training by aggregating
+demand across the country in order to lower unit costs. CARCIP Nicaragua would do the same by
+creating a similar institution to aggregate demand regionally (Caribbean FIRST). A similar body will
+be created for CARCIP countries to benefit from this model. The second lesson learned in this
+project is that the operation needs to be led or at least needs to have a high participation of the main
+ICT industry stakeholders in the country.
+D. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+The connectivity infrastructure will be deployed in the Caribbean Coast of Nicaragua. There exist
+several areas within this Region that could be categorized as environmental sensitive areas. There
+also exists several indigenous communities in the Departments of the Caribbean Coast that could be
+affected by the deployment of infrastructure, and includes the following departments: RACCS
+(Region Autonoma de la Costa Caribe Sur), RACCN (Region Autonoma de la Costa Caribe Norte),
+the special area of the High Wangky in the department of Jinotega, and five municipalities of Rio
+San Juan.
+The project area is a vast territory with lack of roads, infrastructure and limited access to basic
+services (water, sewer, electricity, and telephone) and mainly collective transport. In many areas, the
+only available routes and have been used by communities for generations have been the rivers, as
+most of them sit on the banks of rivers or coastal areas.
+The project plans to deploy two different types of telecommunications infrastructure depending on
+the necessities of the areas. The deployment of infrastructure could have very specific impacts, which
+are expected to be low to moderate, on the environment, areas of natural reserves or forests, are, low
+to moderate intensity. The team is studying all the possible situations for mitigating the possible
+negative effects in these areas from the deployment of the infrastructure.
+Infrastructure 1. Tower: The towers include shelter telecommunications equipment and there exists
+two types, self-supported and braced. The team has estimated that for being able to cover the
+population estimated the operator should install 16 towers.
+Infrastructure 2. Deployment of Fiber Optic. There exists two methods for the deployment of the
+infrastructure, aerially through existing electric posts, using the existing power lines of the country
+wherever is possible; and through the deployment of underground cable. The team has estimated that
+a total length of 405 km of fiber optic would be needed for covering the communities expected in the
+project.
+The exact location of the works that are going to be done have not been determined due to the fact
+that the only requirement that will be specify in the bid documents is the communities that need to be
+covered and have service. The specific technology to be used and the location of the infrastructure
+will depend on the contractors choice
+
+
+﻿The construction of the planned infrastructure could involve sensitive or critical environmental areas
+(eg national parks, forests, wetlands, etc). The deployment of the infrastructure could also affect
+some properties of the soil (eg, crops) and private infrastructure (fences, houses, etc.). Environmental
+O
+)       measures to prevent, mitigate and / or compensate potential negative impacts should be included in
+the Environmental Management Plan (PMA) of each subproject, as well as measures to mitigate
+possible effects on resettlement should be included in the resettlement plan.
+The specific location of the subprojects has not been specified. Regarding this issue Environmental
+and Social Frameworks should be developed during the preparation stage of the project, according
+with the Bank's safeguards requirements.
+Measures to mitigate and / or compensate for negative impacts on the environment, housing,
+productive assets and economic activities must be included in the respective plans (ESMP and RAPs)
+once the specific subproject is specified by the contractors that deploys the infrastructure.
+Additionally, the subprojects should comply with the national and regional environmental and social
+regulation, and the Bank's safeguards policies.
+E. Borrowers Institutional Capacity for Safeguard Policies
+The borrower has previous experience with World Bank safeguards policies (Nicaragua Rural
+Telecom - P129264). After the Mid Term Review of the previous project the PCU implement some
+environmental and social management tools in order to comply with the Bank's safeguards policies.
+The PCU's Technical Safeguard Team (TST) will prepare the Environmental and Social
+Management Framework (ESMF), which will include the specific Frameworks in order to fulfill with
+the Bank's Safeguard Policies: Environmental Management Framework (EMF); Resettlement
+Management Framework (RMF); and Indigenous and Afro-descendent People Framework (IAPF),
+following the Bank's requirements for this type of projects although the exact location of the
+infrastructure is unknown at this stage, These Frameworks should be applied during the
+implementation of all the activities under CARCIP-Nicaragua project.
+The TST of the PCU will support the environmental and social management during the CARCIP
+implementation. This team includes 3 environmental specialists, and 2 social specialists. This
+mentioned team has already worked in the implementation of the previous project, Rural Telecom
+(PO89989) and has proven enough experience on Bank's safeguards policies and in the application of
+the national and regional environmental and social regulation and policies.
+As mentioned before, the ESMF, including the safeguards Frameworks, will be developed during the
+project preparation and will be approved and disclose by the Bank and TELCOR, in compliance of
+the Bank's information and disclosure policy.
+Finally, as mention in the project description, Component 5, the Project also include resources to
+strength the capacity building of the UCP-TELCOR safeguard team, in order to assure the proper
+environmental and social management during the project implementation.
+F. Environmental and Social Safeguards Specialists on the Team
+Marco Antonio Zambrano Chavez (GEN04)
+Ricardo Jose Castellon Zamora (GSU04)
+
+
+﻿II. SAFEGUARD POLICIES THAT MIGHT APPLY
+Safeguard Policies          Triggered? Explanation (Optional)
+ Environmental Assessment  Yes         This policy is triggered because the Project will
+Q       OP/BP 4.01                              finance (Component 1), works (fiber optic, and
+others) that potentially will affect the natural
+environment, especially sensitive areas in the
+Caribbean Coast of Nicaragua. These potential
+negative impacts are not significant and the
+mitigation measures are easy to know and to
+implement. In this regards the project will be
+classified as Category B according with the Policy.
+In order to comply with the Bank's safeguard policy,
+an Environmental and Social Management
+Framework (ESMF) will be develop by the
+environmental and social UCP-TELCOR team, in
+order to be applied during the project
+implementation. This instrument is based in the
+previous project experience in regards of the Bank's
+safeguards compliance.
+Natural Habitats OP/BP 4.04  Yes         This policy is triggered because the construction of
+fiber optic or transmission towers in the Caribbean
+Coast Region potentially will cross sensitive or
+critical areas (national parks, protected areas, and
+others) that could be affected.
+Forests OP/BP 4.36          No          This policy should not be triggered since the project
+activities are not expected to impact forested areas,
+forest dependent communities or involve changes in
+management of forests.
+Pest Management OP 4.09     No          This policy should not be triggered given that the
+project's activities don't include the use of pesticide.
+Physical Cultural Resources  Yes        The construction of fiber optic requires movement of
+OP/BP 4.11                              material during the construction. In this regard,
+potentially during the excavation the project will
+affect physical, cultural, and/or archeological sites.
+Consequently Safeguards Policy OP 4.11 is
+triggered. An Environmental and Social Management
+Framework (ESMF), will be drafted by the PCU with
+the safeguards specialists supervision to avoid,
+prevent or mitigate potentially adverse effects on
+physical cultural resources will be documented.
+The Nicaraguan Cultural Heritage protection is
+guaranteed at the legal level by Decree 1142 "Law
+on Protection of Cultural Heritage of the Nation,"
+which contains rules on conservation to
+paleontological, archaeological, historical and artistic
+
+
+﻿heritage nationally. The contractors must follow the
+procedures of the law and report findings to the
+Nicaraguan Institute of Culture.
+Indigenous Peoples OP/BP    Yes          Some indigenous groups (misquitos, mayagnas,
+4.10                                    others) live in the Caribbean Cost of Nicaragua, who
+will be beneficiaries of the Project. In this regard, the
+OP/BP 4.10 is trigger.
+The project is not directed exclusively to an
+indigenous target population, which has seen fit to
+strengthen the project design to the preparation of a
+Indigenous Peoples Planning Framework to ensure
+that all project activities are implemented in
+compliance with the principles and procedures set
+out in BP / OP 4.10; with a prior, free and informed
+consultation of culturally appropriate indigenous
+communities and to stay throughout project
+execution.
+The framework has defined the specific process for
+consultation and information with indigenous
+peoples and local and regional authorities as there
+could be throughout the project cycle from site
+selection, construction works and delivery mitigation
+of potential environmental effects or involuntary
+resettlement. The project will maintain an existing
+complaint system to accommodate problems caused
+by the works, with emphasis on vulnerable groups
+such as, youth, women, elderly people among others.
+The PCU within TELCOR has experience working
+with indigenous peoples and Afro-descendants in
+recent projects. The team has shown good ability to
+communicate with them and coordinate with their
+authorities. TELCOR has already made consultation
+sessions in the Regi6n Atuton6ma del Caribe Sur
+(RACCS) and in Regi6n Aut6noma del Caribe Norte
+(RACCN). No consultation will be done in Rio San
+Juan as there are no indigenous communities.
+The operators that will execute the works
+(installation of towers and laying of fiber optic
+networks), as well as other organizations including
+government agencies contractors will be informed
+about the requirement of the Law in these Regions
+regarding the use of indigenous lands among other
+issues.
+
+
+﻿In order to comply with this Bank's safeguard policy
+a Indigenous Peoples Planning Framework will be
+include in the ESMF, to be applied during the project
+implementation.
+Involuntary Resettlement OP/  Yes        The construction of Fiber Optic included in the
+BP 4.12                                  project, potentially will affect land, house, crops,
+others, during the project construction. In this regard,
+the OP/BP 4.12 is trigger.
+Among the potential adverse impacts arising from
+Component 1 are: Infrastructure Connectivity; by
+way of displacement, resettlement or involuntary
+deprivation of lands, which could result in the
+following: loss of housing, loss of assets or access to
+assets, loss of income sources or means of
+subsistence (croplands) whether the affected persons
+must move to another location or not, the effect on
+the social and economic conditions of affected
+households.
+In order to comply with this safeguard policy, the
+ESMF includes an Resettlement Policy Framework.
+Social units to be eligible to be considered affected
+and consequently to compensation, must give the test
+subjects:
+a) Earlier rights sufficiently demonstrate that the
+social unit has been affected in their rights of
+possession of the property, regardless of the type of
+tenure. Indigenous and Afro-descendent
+communities on the Atlantic coast, the Community
+authorities guarantee the right of ownership over the
+land.
+b) When you have accurate information proving that
+it is owned by the social unit affected.
+Safety of Dams OP/BP 4.37   No           This policy should not be triggered given that the
+project will not support the construction or
+rehabilitation of dams.
+Projects on International   No           This policy should not be triggered given that the
+Waterways OP/BP 7.50                     project will not affect international waterways as
+defined under the policy.
+The policy is not triggered because the project works
+to be built in the department of Rio San Juan (border
+with Costa Rica) will be located in the northern part
+of the river, in the territory of Nicaragua. Similarly,
+work on the special area of the High Wangki in
+Jinotega or on the banks of the Coco River (border
+with Honduras) will be built on the south side in
+territory of Nicaragua.
+
+
+﻿Projects in Disputed Areas OP/ No           This policy should not be triggered given that the
+BP 7.60                                     project will not affect disputed areas. The project
+works to be built in the department of Rio San Juan
+(border with Costa Rica) will be located in the
+northern part of the river, in the territory of
+Nicaragua. Similarly, work on the special area of the
+High Wangki in Jinotega or on the banks of the Coco
+River (border with Honduras) will be built on the
+south side in territory of Nicaragua.
+III. SAFEGUARD PREPARATION PLAN
+A. Tentative target date for preparing the PAD Stage ISDS: 28-Sep-2015
+B. Time frame for launching and completing the safeguard-related studies that may be needed.
+The specific studies and their timingi should be specified in the PAD-stage ISDS:
+Safeguard studies are currently underway.
+IV. APPROVALS
+Task Team Leader(s): Name: Elena Gasol Ramos
+Approved By:
+Safeguards Advisor:     Name: Francis V. Fragano (SA)                     Date: 30-Sep-2015
+Practice Manager/       Name: Boutheina Guermazi (PMGR)                   Date: 15-Oct-2015
+Manager:
+1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+form and language that are accessible to potentially affected persons.
+
+

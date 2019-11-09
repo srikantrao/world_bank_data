@@ -1,0 +1,458 @@
+                            Integrated Safeguards Data Sheet (Updated)
+
+                                                                                           Report No: AC2410
+Section I - Basic Information
+Date ISDS Prepared/Updated: 06/14/2006
+A. Basic Project Data (from PDS)
+I.A.1. Project Statistics
+Country: SOUTH AFRICA                                      Project ID: P080600
+Project: Durban Landfill Gas-to-Electricity Project        Task Team Leader: Arun P. Sanghvi
+Authorized to Appraise Date: August 16, 2004               IBRD Amount ($m):
+Bank Approval: June 11, 2004                               IDA Amount ($m):
+                                                           Global Supplemental Amount ($m):
+                                                           Prototype Carbon Fund ($m): 2.77
+Managing Unit: AFTEG                                       Sector: Renewable energy (85%); Solid waste
+Lending Instrument:                                        management (15%)
+Status: Lending                                            Theme: Climate change (P); Infrastructure services
+                                                           for private sector development (S)
+
+I.A.2. Project Objectives (From PDS):
+    The Prototype Carbon Fund (PCF), administered by the World Bank, supports projects that
+    generate greenhouse gas emission reductions while complying with the requirements of the
+    Clean Development Mechanism.
+
+    The development objective of the Durban Landfill Gas to Energy Project is to reduce
+    greenhouse gas emissions through the use of landfill gas to generate electricity from the La
+    Mercy and Mariannhill landfill sites located within the boundaries of the eThekwini
+    Municipality (South Africa). The Durban Solid Waste (DSW), the municipality-owned entity
+    responsible for management and operation of all landfills in the Durban metropolitan area, is
+    the developer of this project. The eThekwini Municipality, formerly known as Durban, is the
+    project sponsor.
+
+I.A.3. Project Description (From PDS):
+    The proposed project consists of an enhanced collection of landfill gas from the La Mercy
+    and Mariannhill landfill sites and the use of the recovered gas to generate electricity. The
+    produced electricity will be fed into the municipal grid and replace electricity that the
+    municipal electric company (Durban Metro Electricity) is currently buying from other
+    suppliers. This will include displacing coal-fired energy purchased from the national grid by
+    the Durban Metro Electricity. Power purchase discussions have been initiated between DSW
+    and Durban Metro Electricity with no technical hurdles identified. The project will result in
+    DSW installing 2 MW of combined generating capacity.
+
+    The power generation system for the two sites of the proposed project will include:
+    engine-driven generator set; control system; cooling system; fuel supply and gas filtration
+    system; generator set accessories; generator set housing; and system control and switch gear.
+    All electricity generation facilities will be installed within the boundaries of each of the landfill
+    site. The overall voltage supply will be 11kV to connect to the local grid via overhead
+    transmission lines or underground cables.
+
+                                                        2
+                                                                                                          ISDS
+
+
+
+
+     The Mariannhill landfill is an active landfill site where waste will be deposited until 2024. It
+     extends over 49 ha and receives 550 to 700 tonnes of municipal solid waste per day. To date,
+     the Mariannhill landfill has received approximately 850,000 tonnes of waste.
+
+     The La Mercy landfill is an old rehabilitated landfill site containing about 1 million tonnes of
+     solid waste. It was recently closed and is equipped with passive venting.
+
+     The proposed Durban Landfill Gas to Energy Project will contribute towards the city's
+     sustainable waste        management. With the envisaged contribution from the PCF, the project
+     will newly implement landfill gas recovery at La Mercy and substantially upgrade the
+     collection system at Mariannhill where 6 wells have been installed as a pilot activity. This will
+     allow for the maximum collection of generated methane that would not be affordable
+     otherwise. Thus the project will help lower greenhouse gas emissions by capturing the
+     methane emitted by decaying waste, and by substituting LFG for fossil fuels in generating
+     electricity. The generation capacities proposed to be installed at these sites are 1.5 MW and
+     0.5 MW at Mariannhill and La Mercy, respectively.
+
+I.A.4. Project Location: (Geographic location, information about the key environmental and social
+characteristics of the area and population likely to be affected, and proximity to any protected areas, or sites or
+critical natural habitats, or any other culturally or socially sensitive areas.)
+      Durban is located in the southeast region of South Africa on the coast of the Indian Ocean.
+
+     The landfill sites that constitute the project are both within the municipal boundaries of
+     Durban, today known as the eThekwini Municipality (located within the Province of
+     KwaZulu-Natal). The Durban metropolitan area is South Africa's second-largest industrial
+     hub and one of the country's fastest growing urban centres. It covers 1,366 km2 and has a
+     current population of about 2.3 million.
+
+     The La Mercy site is situated 35 km north of Durban. There are no communities living within
+     close proximity to the La Mercy landfill. However, there are communities living adjacent to
+     the Mariannhill landfill site, which is located about 20 km to the west of Durban Metro area.
+
+     A World Bank safeguards mission looked at the social dynamics surrounding the project in
+     detail and identified developing a good relationship between the community and DSW is a
+     key social issue that would need to be addressed and maintained. For example, a member of
+     the public submitted an appeal against the Records of Decision (RoDs) issued for the sites at
+     La Mercy and Mariannhill. One of the issues raised in the appeal relates to the design criteria
+     applied to the spark ignition engines to be adopted by the project and the specification of
+     actual exhaust emissions. The appeal demands the inclusion of dioxin and furans in analyzing
+     the project's atmospheric impacts. Although the appeal was rejected by the Provincial
+     Department of Agriculture and Environmental Affairs (DAEA) in early 2005 after a
+     five-month review period, existing conditions of project approval were amended on account
+     of the issues raised. Consequently, the Mariannhill and La Mercy landfill sites were granted
+     authorization to proceed but only as `pilot projects'.
+
+                                                   3
+                                                                                                 ISDS
+
+
+     Based on new information demonstrating that the La Mercy and Mariannhill landfills will not
+     result in substandard air quality, the `pilot project' restriction has recently been removed and
+     the original RoDs were amended in November 16, 2005. All these decisions were based on
+     the findings of the Air Quality Impact Assessment conducted by Enviros Consulting for the
+     proposed project, which concludes that "the predicted concentrations of the modeled
+     substances (e.g., dioxins and furans) for combustion releases (landfill gas engines and flares)
+     are within acceptable limits as defined by air quality standards proposed for use in Germany
+     (there is no South African standard) and the impact on ambient concentrations in the vicinity
+     is negligible. In the amended RoDs, it was noted that "the content of the new information
+     indicates that the air quality impacts associated with the landfill gas project will not only be
+     acceptable, but will apparently improve the ambient quality of the air."
+
+
+     The actual dioxin and furan emissions from flare and engine exhaust emissions will be
+     monitored using extractive sampling to sorbent tube separated by high resolution gas
+     chromatography (HRGC), and measured by high resolution mass spectrometry (HRMS).
+
+     The WHO and World Bank air quality guidelines, which are slightly more stringent than the
+     South African air quality standards and guidelines, were employed in the air quality study,
+     following a conservative approach.
+
+     The DAEA submitted the new information to the only appellant to the original RoDs for his
+     comment.
+
+The foregoing example illustrates the municipality's efforts to achieve improved relation with the
+community. The high-priority being given to public participation in the environmental assessment
+process will ensure that similar important concerns are identified clearly and addressed
+substantively. Such commitment should eventually lead to further improvement in relations.
+
+
+B. Check Environmental Classification: B (Partial Assessment)
+
+Comments: : In general, the potential adverse environmental impacts associated with the two project
+sites are minimal and site-specific in nature. None of them are expected to be irreversible and there
+are mitigation measures readily known and available to address them. On the basis of this analysis,
+the La Mercy and Mariannhill sites are categorized as a B project.
+
+
+     A World Bank safeguards team (which consisted of a senior environmental specialist, a
+     consultant social specialist and an anthropologist) examined documentation relating to the
+     management of the landfills and visited the landfill sites during September 2003. Based on the
+     information provided to the mission at that stage, and the landfill management practices they
+     observed, the mission found no reason to believe that the proposed project at the La Mercy
+     and Mariannhill landfill sites would present a significant or unmitigatable risk to the
+     environment and human health. The Environmental Scoping Reports undertaken for these
+     two sites had not identified any adverse impacts of project activities on landscape and
+     biodiversity, and concluded that sufficient information had been made available for the RoDs
+
+                                                        4
+                                                                                                       ISDS
+
+
+     to be rendered by DAEA.
+
+C. Safeguard Policies Triggered (from PDS)
+(click on   for a detailed desciption or click on the policy number for a brief description)
+                                     Policy                                           Triggered
+    Environmental Assessment (OP 4.01, BP 4.01, GP 4.01)                         Yes     No
+    Natural Habitats (OP 4.04, BP 4.04, GP 4.04)                                 Yes     No
+    Forestry (OP 4.36, GP 4.36)                                                  Yes     No
+    Pest Management (OP 4.09)                                                    Yes     No
+    Cultural Property (OPN 11.03)                                                Yes     No
+    Indigenous Peoples (OD 4.20)                                                 Yes     No
+    Involuntary Resettlement (OP/BP 4.12)                                        Yes     No
+    Safety of Dams (OP 4.37, BP 4.37)                                            Yes     No
+    Projects in International Waters (OP 7.50, BP 7.50, GP 7.50)                 Yes     No
+    Projects in Disputed Areas (OP 7.60, BP 7.60, GP 7.60)*                      Yes     No
+
+
+
+Section II - Key Safeguard Issues and Their Management
+D. Summary of Key Safeguard Issues. Please fill in all relevant questions. If information is not available,
+describe steps to be taken to obtain necessary data.
+
+II.D.1a. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe
+any potential large scale, significant and/or irreversible impacts.
+     The implementation of the project is expected to lead to a number of positive impacts in the
+     locality.
+
+     These include:
+
+·       Improved air quality by displacing grid-supplied electricity and thereby reducing emissions
+related to coal-fired power production;
+·       Improved protection of the area's groundwater resources as a result of all gas capturing
+systems being equipped for leachate removal;
+·       Reduced potential for methane migration and its associated impacts from the landfill site
+(e.g., through inclusion of a methane monitoring system as required in the RoDs); and,
+·       Reduced potential for odor related impacts due to the reduction in volume of landfill gas
+being vented passively.
+
+     In terms of negative environmental impacts, it is important to assess them based on the
+     construction, operational and decommissioning phases of the project.
+
+     The construction phase at the sites will involve the construction of wells and pipe work to
+     extract the gas, general landfill site maintenance, construction of minor new roads and
+     construction of the flare and engine compound. All these activities will occur within the
+     boundaries of the existing landfill sites. The impacts associated with the construction phase of
+     the project will therefore include minor increased traffic, some noise, dust and the increased
+     potential for health and safety incidents that may occur on site. All the construction activities
+
+                                               5
+                                                                                             ISDS
+
+
+and their likely environmental impacts will be managed as part of the Environmental
+Management Plans (EMPs) that have to be produced for each of the sites and through the
+implementation of eThekwini Municipality's "Standard Environmental Management Plan for
+Civil Engineering Construction Projects".
+
+During the operational phase of the project, potential impacts include increased noise and air
+emissions from the generators that will be installed on site. During the operational phase it is
+also expected that community concerns around management and closure of the sites are
+addressed adequately to avoid any conflict between the community and DSW. The
+municipality has given a clear indication that it will be addressing these issues; and also, they
+will be part of the Bank's ongoing environmental and social due-diligence process
+surrounding the project.
+
+Decommissioning of the plant and infrastructure associated with the landfill gas project will
+be part of the landfills' overall closure plan. The development and approval of such a plan is a
+South African regulatory requirement and would address issues such as leachate management
+and methane migration.
+
+Although the project is a Category B project, it has undertaken proper public consultation
+and disclosure. The South African EIA Regulations are recognized as reflecting international
+best practice in the area of environmental and social assessments. The regulatory authority for
+this project is KwaZulu-Natal Province's Department of Agriculture and Environmental
+Affairs (DAEA). DAEA has required the La Mercy and Mariannhill sites to undergo its own
+environmental and social assessment process. This involves the scoping of issues to be
+addressed in the environmental assessment process and the undertaking of more detailed
+specialists' reports for certain issues if required. The alternatives actively considered in the
+process include technology options, landfill gas use options and the "no-go" option. Public
+consultation is a key element of the environmental and social assessment process within
+South Africa and in this project includes informing potential stakeholders through direct
+contact and the media, focus group meetings with specific groups of stakeholders, and public
+meetings. Disclosure is also a continual part of the process: i.e. an initial background
+information document is produced and distributed to all interested and affected parties; the
+scoping and environmental assessment documents are also released for comment before being
+finalized. This process ensures that issues are comprehensively identified and formally
+addressed. The environmental scoping done for the La Mercy and Mariannhill landfill sites
+concluded that the proposed project would have an overall positive environmental impact and
+that all negative impacts identified could be adequately mitigated. On this basis, no detailed
+investigations would be required in a further EIA phase. Nonetheless, the development and
+approval of EMPs is a requirement of the DAEA for both sites.
+
+A Monitoring Committee for the Mariannhill landfill site was formed in 1996. The eThekwini
+Municipality and national legislation calls for the establishment and regular meeting of a
+monitoring committee, made up of interested parties. Law requires that the Monitoring
+Committee conducts 6 monthly audits and regular 3-monthly meetings with the community.
+Due to La Mercy's isolated location in an uninhabited area, no monitoring committee was
+
+                                                       6
+                                                                                                          ISDS
+
+
+     established for this site.
+
+II.D.1b. Describe any potential cumulative impacts due to application of more than one safeguard policy or
+due to multiple project component.
+     No potential impacts of this nature have been identified or are anticipated as part of this
+         project.
+
+II.D.1c Describe any potential long term impacts due to anticipated future activities in the project area.
+     None
+
+     There are sensitive receptors to noise pollution from the Mariannhill landfill site because of its
+     proximity to residential areas. Major contributors to the ambient noise levels are the plant
+     used in the transportation and compaction of refuse and the flaring of methane gas. The
+     project will be designed to comply with all pertinent regulations and codes of practice,
+     namely:
+·        South African Bureau of Standards (SABS) 0328-2001: "Methods for environmental
+noise impact assessments"
+·        SABS 0103-1994: "The measurement and rating of environmental noise with respect to
+annoyance and to speech communication"
+·        Environment Conservation Act, 1989 ­ Part VI (Section 25), and Noise Control
+Regulations
+
+
+II.D.2. In light of 1, describe the proposed treatment of alternatives (if required)
+     As detailed in II.D.1a above, alternatives are actively considered in the environmental and
+     social assessment process: i.e. technology alternatives, landfill gas use alternatives, and the
+     "no-go" option. The main alternative at this stage is to not implement the project due to
+     limited quantity of methane and the affordability of odor mitigation measures to be
+     implemented at the sites.
+
+II.D.3. Describe arrangement for the borrower to address safeguard issues
+     The La Mercy and Mariannhill sites are each subject to a separate Environmental Assessment
+     process as required by the DAEA to meet South Africa's environmental and social impact
+     assessment regulations. The Bank has also noted in a number of previous Bank supported
+     projects the high compatibility between Bank and South African EIA requirements. For each
+     site, an environmental scoping process is followed that identifies, characterizes and analyses
+     the impacts associated with the project. This results in a draft scoping report that details the
+     results of this process and analyses the potential impacts in terms of their extent, duration,
+     probability and significance (with and without mitigation). This report is sent out for
+     comment to all the interested and affected parties (I&APs) that have registered with the
+     project. Their comments are then used to finalize the report and to identify any further work
+     that may be required. The final scoping report is then submitted to the DAEA for their review
+     as well as to the public to meet Bank public disclosure requirements. Assessing the adequacy
+     of the public participation process is a key element of the review of the environmental and
+     social assessment performed by South African regulatory authorities before issuing a Record
+     of Decision (RoD).
+
+                                                      7
+                                                                                                       ISDS
+
+
+
+
+     As a process, this review may result in the issuing of a RoD for each of the environmental
+     assessments that will give DSW authority to implement the project at each of the sites,
+     provided that the conditions that it has stipulated in the RoDs are addressed. DAEA may also
+     issue a conditional RoD that will stipulate further work to be done for each site or it could
+     indicate that the project should proceed into an Environmental and Social Impact Assessment
+     (EIA) phase. This will require specialists' studies to be commissioned and further public
+     participation to be undertaken. In this latter case a draft EIA report would be issued that all
+     I&APs would be asked to provide their comments on. Prior to submission of the EIA to the
+     authorities, the revised report will be disclosed to the public to meet Bank public disclosure
+     requirements.
+
+     The DAEA's final environmental authorization to remove the `pilot project' restriction and
+     go ahead with the development of the La Mercy and Mariannhill LFG project rests on the
+     amendment of the RoDs, dated November 16, 2005. The condition of authorization in the
+     RoDs states that "During the first two years of operation the monitoring of engine emissions
+     must be undertaken monthly by an independent test laboratory, the appointment of which
+     must be approved by the Department (DAEA). The emission profile to be monitored must be
+     as recommended by Enviros Consulting and these reports must be submitted monthly to this
+     Department."
+
+     The project proponent and their consultants have been made aware of the World Bank
+     safeguards and the need to clearly discuss them in any environmental and social assessment
+     documentation produced. The World Bank is formally registered as an Interested and
+     Affected Party for the project and will receive all the environmental and social assessment
+     documentation produced for comment and input on public disclosure. This will enable
+     continual monitoring of the process to ensure safeguard issues are addressed.
+
+     In terms of timing, EMPs are developed only after each site has had a positive RoD given to
+     it by the DAEA. This will assist in ensuring that all mitigation measures identified are
+     implemented effectively.
+
+     The Mariannhill and La Mercy sites received positive RoDs from the DAEA on July 9, 2004.
+     However, as mentioned earlier, an appeal was issued by a member of the public on August 2,
+     2004 against the RoDs for the two sites, which had resulted in amending existing conditions
+     of approval for these sites. On November 16, 2005, the `pilot period' restriction on
+     Mariannhill and La Mercy landfills was removed following new information that
+     demonstrates that these sites will result in acceptable air quality. (As required by the South
+     African law, the project's EMPs will be completed in the coming months. Completion of the
+     EMPs will be a `condition of effectiveness' for the signing of the ERPA.)
+
+II.D.4. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard
+policies, with an emphasis on potentially affected people.
+     The public participation process for the project is comprehensive and has the following key
+     elements:
+
+                                                  8
+                                                                                                ISDS
+
+
+
+
+·       Identification of I&APs ­ this is an ongoing process throughout the environmental and
+social assessment process. An initial I&AP list was set up using information from the municipality
+and consultations with key stakeholder groups. This was supported by placing advertisements in
+national, regional and local newspapers (requesting I&APs to register their interest in
+participating in the environmental and social assessment process) and holding a media conference.
+An electronic database of all I&APs is maintained and continually updated.
+
+·       Issuing of a Background Information Document (BID) ­ a BID was compiled and
+distributed to all I&APs. This document described the key aspects of the proposed project,
+provided information on the environmental and social assessment process to be followed, and
+provided the contact details of the consultants involved. The BID also contained a registration
+sheet to allow for further I&AP registration. The document was also translated into Zulu to assist
+residents in the area to access information. The BID was mailed to all registered I&APs and was
+also made available at focus group meetings and public meetings. In addition, the BID was
+delivered to residents in a zone of 200m from the boundaries of the Mariannhill landfill. This was
+not done for La Mercy, as there are no residents within 200m of the site.
+
+·       Focus Group Meetings ­ Formal meetings were conducted with specific groups of key
+stakeholders, which were grouped according to formal associations or their specific interests in
+the project. These meetings allowed stakeholders to raise specific issues and concerns and to
+obtain more information regarding the project and the process. Focus group meetings have been
+held with groups representing the communities surrounding the landfill sites.
+
+·       Public Meetings ­ public meetings have also been held to provide feedback to the public
+on the results of the scoping study and to present the draft scoping report.
+
+
+     For all key reports produced during the process (for example, the scoping report) a draft
+     report is made available to all I&APs. The reports are finalized showing how comments
+     received have been addressed. The issuing of reports is combined with public meetings and
+     contact with key I&APs to ensure potential concerns are raised. The public review period for
+     such reports is 30 days.
+
+     For any RoDs issued in South Africa a 30-day appeal period is required. The project
+     proponent is also required by the regulatory authorities to inform all I&APs of the issuance of
+     a RoD.
+
+     Key stakeholders being consulted as part of this project include communities neighboring the
+     landfill sites (represented by both individuals and community-based organizations such as
+     ratepayers associations), NGOs, business organizations, regulatory authorities and local
+     government political representatives for the areas adjacent to the sites (ward councilors).
+
+     The environmental and social assessment process in South Africa is designed to manage
+     conflicts through ensuring that I&APs have the opportunity to raise issues, which are
+
+                                                      9
+                                                                                                    ISDS
+
+
+     formally recorded and addressed in a transparent public participation process. In addition, the
+     World Bank safeguards team emphasizes the importance of ensuring that environmental and
+     social assessment process involves expert personnel to play a strong role in dealing with
+     public consultation and conflict case mediation.
+
+F. Disclosure Requirements
+
+Environmental Assessment/Analysis/Management Plan:                        Expected         Actual
+Date of receipt by the Bank                                              10/18/2004      11/16/2005
+Date of "in-country" disclosure                                          10/18/2004      11/16/2005
+Date of submission to InfoShop
+Date of distributing the Exec. Summary of the EA to the Executive
+Directors (For category A projects)
+
+Resettlement Action Plan/Framework:                                       Expected         Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+
+Indigenous Peoples Development Plan/Framework:                            Expected         Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+
+Pest Management Plan:                                                     Expected         Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+
+Dam Safety Management Plan:                                               Expected         Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+If in-country disclosure of any of the above documents is not expected, please explain why.
+
+
+
+
+Signed and submitted by               Name                                               Date
+Task Team Leader:                     Arun P. Sanghvi                                    6/7/2006
+Project Safeguards Specialists 1:     Roxanne Hakim/Person/World Bank                    6/7/2006
+Project Safeguards Specialists 2:     Isabelle Paris/HQ/IFC                              6/7/2006
+Project Safeguards Specialists 3:
+
+Approved by:                         Name                                                Date
+Regional Safeguards Coordinator: Warren Waters                                           6/7/2006
+Sector Manager                        Subramaniam V. Iyer                                6/7/2006
+

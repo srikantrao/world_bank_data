@@ -1,0 +1,303 @@
+                                            INTEGRATED SAFEGUARDS DATA SHEET
+                                                     CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                              Report No.: ISDSC5892
+
+                         Date ISDS Prepared/Updated: 24-Dec-2013
+                         Date ISDS Approved/Disclosed: 24-Dec-2013
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:           Lesotho                         Project ID:      P143197
+                            Project Name:      LS-PFM Reform Support Project (P143197)
+                            Task Team          Gert Johannes Alwyn Van D
+                            Leader:
+                            Estimated          03-Dec-2013                     Estimated        06-Feb-2014
+                            Appraisal Date:                                    Board Date:
+                            Managing Unit:     AFTME                           Lending          Investment Project Financing
+                                                                               Instrument:
+                            Sector(s):        Central government administration (100%)
+                            Theme(s):         Public expenditure, financial management and procurement (100%)
+                            Financing (In USD Million)
+                            Total Project Cost:          6.09                Total Bank Financing:       5.50
+                            Financing Gap:               0.00
+Public Disclosure Copy
+
+
+
+
+                              Financing Source                                                           Amount
+                              BORROWER/RECIPIENT                                                           0.59
+                              International Development Association (IDA)                                  5.50
+                              Total                                                                        6.09
+                            Environmental C - Not Required
+                            Category:
+                            Is this a          No
+                            Repeater
+                            project?
+
+                           B. Project Objectives
+                           35.     The project development objective is to improve the quality and timeliness of public
+                           financial management information, to support better budget execution and financial accountability.
+                           C. Project Description
+                           Concept
+
+                           A. Description
+                         1. The Government of Lesotho (GoL) introduced IFMIS during 2009 at the level of Central
+                         Government to improve the efficiency and effectiveness of financial management, control,
+Public Disclosure Copy
+
+
+
+
+                         accounting and reporting. It provides, despite implementation and operational constraints, the
+                         framework within which most of the public financial management functions are exercised, or
+                         supposed to be exercised. The full benefits from the system have however not been realized as all the
+                         functionalities of the current IFMIS (based on Epicor version 7.3.5) are not fully operational, or
+                         utilized. As a result the GoL has not been able to produce annual financial statements in the time
+                         frames prescribed by the regulatory framework – the annual financial statements for FY2010 have
+                         only been finalized in March 2013 and FY2011 and FY2012 are currently in process. A lack of
+                         verified and accepted opening balances in the IMFIS as at 2009 also affect the reliability of the
+                         IFMIS data.
+
+                         2. An evaluation of the IFMIS finalized by Pohl Consulting & Associates in May 2013 (funded by
+                         the European Union) confirms that several problems with the configuration and operation of the
+                         IFMIS need to be addressed. These include:
+
+                         •        The IFMIS has been configured with separate databases for each Ministry. Transactions
+                         created and authorized by the Maseru-based Ministries are however processed through the four main
+                         Treasury bank accounts at the Central Bank, which are connected to the Consolidated Fund database
+                         – this creates a need for “inter-departmental” reconciliation of the separate databases. Reconciliation
+                         of the four main Treasury bank accounts is the responsibility of the Office of the Accountant-general.
+                         The present implementation does not yet cater for a seamless consolidation with automated inter-
+                         departmental transaction clearance and reconciliation of all these databases. Furthermore the
+                         accounting discipline and skills to handle all the reconciliation requirements have not yet been
+                         established.
+                         •        For service units of Ministries outside of Maseru, commercial bank accounts have been
+                         opened - transactions on these accounts are manually initiated and authorized by the decentralized
+                         service units of Ministries, but recorded on the IFMIS by Sub-Accountancies belonging to the Office
+Public Disclosure Copy
+
+
+
+
+                         of the Accountant-general. This requires budget, warrant and cash transfer processing by the HQ
+                         Ministries to support transacting on these commercial bank accounts, and subsequent reconciliation
+                         by them. However, reconciliation of revenue and expenditure bank accounts has also not been
+                         completed in nearly all sites - in some sites no reconciliation has been conducted since April 2009.
+                         The payment process is further complicated in that no electronic funds transfers are currently
+                         possible.
+                         •        There is lack of consistency of figures in some reports - there are cases where the same
+                         report for the same period using the same parameters provides different results. This may also be as a
+                         result of no month-end procedures being applied, and the ongoing process of recording transactions
+                         actually created outside of the IFMIS and traced through the bank reconciliation process.
+                         •        Commitment controls in the IFMIS are not fully utilized, and also results in payment
+                         processing being extremely cumbersome and slow (in some instances it takes up to six months to
+                         process supplier payments).
+                         •        Maintenance of the supplier database is not centralized.
+                         •        Budget department is not using the Active Planner for the budget preparation process.
+                         Budgets submitted to Cabinet are prepared outside of the IFMIS on excel worksheets, which requires
+                         additional work and controls to ensure reliable transfer to and maintenance in the IMFIS.
+                         •        The operations at the ministries and sub-accountancies are often disrupted by the network
+                         instability.
+                         •        The IFMIS has become in essence just an (unreliable) accounting data repository and is not
+                         effectively supporting public financial management.
+
+                         3. The root causes for the unsuccessful implementation and operation of the IFMIS are mainly to be
+Public Disclosure Copy
+
+
+
+
+                         found i n:
+
+                         •        Business process and IFMIS configuration issues
+                           - No consolidated database operating against the bank account configuration of the GoL
+                           - No rigorous month & year-end accounting procedures, including bank and inter-departmental
+                         reconciliations required in the current configuration
+                           - Receipting – Lesotho Revenue Authority interface not yet fully implemented; line ministry
+                         receipting notyet fully on-line; data continue to be created outside of the system; lack of regular bank
+                         reconciliations to assure completeness and accuracy of data
+                           - Payments – cumbersome payment processes and data capture; no electronic fund transfer system
+                         in place; payments created outside of the system; lack of regular bank reconciliations to assure
+                         completeness and accuracy of data.
+                           - Lack of electronic bank statement files to facilitate automated bank reconciliation
+                           - Non-compliance to transaction processing, control & approval procedures – e.g. commitments
+                         created outside of the IFMIS
+                         •        Inadequate involvement from the GoL Treasury in the initial design, configuration and
+                         implementation phases, and inadequate skills transfer to the core IFMIS team
+                         •        Management in the Office of Accountant-general is not yet relying routinely on the IFMIS to
+                         support their core functions, and unclear IFMIS roles & responsibilities exist
+                         •        A lack of adequate user training
+                         •        No effective help desk function in operation
+                         •        Inadequate change management
+                         •        Inadequate network and server capacity and no service level agreement with the Ministry of
+                         Communication, Science and Technology (MCST) to support effective IFMIS network operations
+
+                         4. The Epicor software itself is sound and relevant to the perceived needs of Lesotho. However, an
+Public Disclosure Copy
+
+
+
+
+                         upgrade to version 9 is required as the previous version is no longer to be maintained, which in itself
+                         will assist to resolve some of the configuration problems related to the separate databases. However,
+                         an upgrade alone will not be sufficient to address all of the problems. It will be equally important to
+                         address the overly complex architecture and process designs, coupled with a lack of capacity in the
+                         management of the Treasury function, control weaknesses and a general lack of capacity in the way
+                         in which financial management is actually carried out within GoL. The essence of the Bank’s
+                         discussions thus far with Government and the software supplier (Soft-Tech) is therefore a proposal
+                         that any further development of IFMIS should be carried out within the context of a major overhaul
+                         of the whole financial management system (not just those aspects of it which are computerized). This
+                         will require a complete business process re-engineering (BPR) of the way financial control and
+                         reporting are carried out, coupled with the requisite capacity building to also address behavioral and
+                         cultural issues in addition to the more mechanistic matters. Such an approach will have to cover not
+                         just the operations of IFMIS itself, but the entire basis of compliance with the rules and regulations,
+                         and the comprehensiveness, transparency, and timeliness of data collection and fiscal reporting.
+
+                         5. The components of the planned assistance therefore are:
+
+                         •       Component 1: Reconfiguration and upgrading of the Epicor system in order to establish one
+                         integrated general ledger system for the GoL, operated against a Treasury Single Account.
+                         •       Component 2: Correction of data problems in the current IFMIS system and transfer of
+                         opening balances to Epicor 9.
+                         •       Component 3: Focused change management activities and skills development of key IFMIS
+                         champions in the MoF and line ministries to operate, maintain and oversee the IFMIS on a
+Public Disclosure Copy
+
+
+
+
+                         sustainable basis.
+
+
+                         6. The provisional cost estimates of the components are reflected as follows:
+
+                         (a) Component 1: Reconfiguration and upgrading of the Epicor system - US$ 3,551,265
+                            (i) Technical assistance with re-engineering and aligning financial management processes and
+                         controls to the IFMIS software - US$750,000
+                            (ii) Additional application software - US$ 243,096
+                            (iii) Technical assistance with IFMIS reconfiguration - US$429,683
+                            (iv) WAN upgrade TBA
+                            (v) Primary & Backup Data Centers (server upgrades) - US$548,278
+                           (vi) Upgrading of generators at Primary & Backup Data Centers - US$60,000
+                           (vii) Improvement of cooling system at Primary & Backup Data Centers - US$50,000
+                           (viii) Ministry LAN's - Switches - US$70,208
+                            (ix) End-user equipment and peripherals - US$1,400,000
+
+                         (b) Component 2: Correction of data problems - US$501,625
+                            (i) Technical assistance - US$501,625
+
+                         (c) Component 3: Focused change management activities and skills development of key IFMIS
+                         champions - US$500,000
+                             (i) Provision for change management activities - US$200,000
+                             (ii) Provision for skills development and training - US$300,000
+
+                         Project management - US$447,110
+Public Disclosure Copy
+
+
+
+
+                         (i) Contribution to cost of the PFM Reform Coordination Unit       - US$447,110
+
+                         TOTAL - US$5, 000,000
+
+
+                         7.       The GoL intends to request retroactive finance amounting to $978,582 to initiate activities
+                         related to the following components –
+
+                         (a) Component 1: Reconfiguration and upgrading of the Epicor system
+                              (i) Technical assistance with re-engineering and aligning financial management processes and
+                         controls to the IFMIS software - US$250,000
+                              (ii) Additional application software - US$243,096
+                          (iii) Primary & Backup Data Centers – IFMS Server Hardware - US$308,278
+                              (iv) Upgrading of generators at Primary & Backup Data Centers - US$60,000
+                              (v) Improvement of cooling system at Primary & Backup Data Centers - US$50,000
+                             (vi) Ministry LAN's – Switches - US$70,208
+
+                         8.      It will be important for GoL to ensure that there are sufficient, adequately trained and
+                         qualified staff (not just provided with ad hoc IFMIS training) in the key posts in Treasury and
+                         MDAs. The Bank will therefore be encouraging Government to push forward with their programs for
+                               the professionalization of public financial management and management development for senior staff
+                               within Treasury and other PFM functions through support to the Lesotho Institute of Accountants,
+                               the Centre for Accounting Studies and other institutions involved in raising professional and
+Public Disclosure Copy
+
+
+
+
+                               managerial standards in accountancy, audit, procurement and public financial management generally.
+                               This challenge will be even greater in the context of districts. GoL policy is to devolve more
+                               responsibility for service delivery to this level but most districts are weak, under-capacitated and
+                               disorganized, in many cases are in remote rural locations and have no history of taking responsibility
+                               for the large-scale service delivery, or financial accountability.
+
+                               9. The project activities do not have any impacts that require the preparation of safeguards
+                               instruments. Therefore, this is a Category C project.
+                               D. Project location and salient physical characteristics relevant to the safeguard
+                               analysis (if known)
+
+
+                               E. Borrowers Institutional Capacity for Safeguard Policies
+
+
+                               F. Environmental and Social Safeguards Specialists on the Team
+                               Melissa C. Landesz (AFTSG)
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+                                 Safeguard Policies                                                Triggered?                    Explanation (Optional)
+                                 Environmental Assessment OP/                                      No
+                                 BP 4.01
+                                 Natural Habitats OP/BP 4.04                                       No
+Public Disclosure Copy
+
+
+
+
+                                 Forests OP/BP 4.36                                                No
+
+                                 Pest Management OP 4.09                                           No
+
+                                 Physical Cultural Resources OP/                                   No
+                                 BP 4.11
+                                 Indigenous Peoples OP/BP 4.10                                     No
+
+                                 Involuntary Resettlement OP/BP                                    No
+                                 4.12
+                                 Safety of Dams OP/BP 4.37                                         No
+
+                                 Projects on International        No
+                                 Waterways OP/BP 7.50
+                                 Projects in Disputed Areas OP/BP No
+                                 7.60
+
+                         III. SAFEGUARD PREPARATION PLAN
+                               A. Tentative target date for preparing the PAD Stage ISDS: 14-Oct-2013
+
+
+
+
+                         1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+                          form and language that are accessible to potentially affected persons.
+                           B. Time frame for launching and completing the safeguard-related studies that may be needed.
+                              The specific studies and their timing1 should be specified in the PAD-stage ISDS:
+                             Not required.
+Public Disclosure Copy
+
+
+
+
+                         IV. APPROVALS
+                           Task Team Leader:     Name: Gert Johannes Alwyn Van D
+
+                           Approved By:
+                           Regional Safeguards Name: Alexandra C. Bezeredi (RSA)                  Date: 24-Dec-2013
+                           Coordinator:
+                           Sector Manager:     Name: Patricia Mc Kenzie (SM)                      Date: 24-Dec-2013
+Public Disclosure Copy
+

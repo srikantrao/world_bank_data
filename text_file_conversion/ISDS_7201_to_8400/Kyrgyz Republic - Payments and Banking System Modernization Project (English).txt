@@ -1,0 +1,247 @@
+                             Integrated Safeguards Data Sheet (Updated)
+
+                                                                                                Report No: AC199
+Section I - Basic Information
+Date ISDS Prepared/Updated: 01/16/2004
+A. Basic Project Data (from PDS)
+I.A.1. Project Statistics
+Country: KYRGYZ REPUBLIC                                      Project ID: P074881
+Project: Payments and Banking System Modernization            Task Team Leader: Rochelle Hilton
+Authorized to Appraise Date: October 23, 2003                 IBRD Amount ($m):
+Bank Approval: March 16, 2004                                 IDA Amount ($m): 9.00
+Managing Unit: ECSPF                                          Sector: Payment systems, securities clearance and
+Lending Instrument: Technical Assistance Loan (TAL)           settlement (80%); Banking (10%); General finance
+Status: Lending                                               sector (10%)
+                                                              Theme: Infrastructure services for private sector
+                                                              development (P); State enterprise/bank restructuring
+                                                              and privatization (S)
+
+I.A.2. Project Objectives (From PDS):
+The main objective of the proposed project is to develop a modern integrated national payments system that
+is accepted and used by the commercial banks and their clients. This would provide basic infrastructure
+that is essential for the development of a modern banking system that will increase the efficiency of
+payment services and facilitate the growth of financial intermediation. The new payments system
+infrastructure will enable commercial banks to process a larger volume of transactions in a more reliable,
+secure and affordable manner.
+
+I.A.3. Project Description (From PDS):
+The proposed project would include capacity building programs for the NBKR to the implement the
+country's national payments infrastructure modernization program, a complicated and costly endeavor for
+the country, in line with the priority objection of improving the efficiency of payment services passing
+through the banking system and serving the whole population. The proposed project would finance the
+investment costs, mostly software and hardware and project support, incurred by the NBKR for
+establishing the above-mentioned infrastructure, as well as technical advisory services, such as for the
+development of technical specifications and bidding documents, evaluation of bids, management of the
+contract execution of the components making up the payments system, monitoring and evaluation and the
+associated studies needed for the implementation of the systems.
+
+Support for the preparatory work has been provided by the IMF and the Bank, as well as from resources
+from the PHRD Grant for this project. The framework for the program has been designed taking into
+account similar reforms in other countries (especially Azerbaijan), as well as best international practices.
+The project would also support the institutional and operational strengthening of the Savings and
+Settlement Corporation (SSC) and for privatizing Kairat bank. The project comprises the following
+components:
+
+A.       An integrated payments infrastructure that meets the payments and settlement system standards
+recommended by the BIS, and includes the following sub-components:
+
+a)       Bulk-clearing system (BCS): technical assistance for advisory services and establishment of a
+modern, fully automated bulk-clearing system. This will enable commercial banks to process all types
+
+                                                        2
+                                                                                                            ISDS
+
+
+(credit and debit orders) of high volume/low-value transactions, including utility payments, salaries,
+pensions and other fiscal and quasi-fiscal payments in a more secure, reliable and fast manner. This will,
+in turn, enable banks to attract more clients and possibly increase their deposit base. The project would
+also include advisory services to ensure that the necessary arrangements (legal, management and other) are
+in place to enable the BCS to operate effectively and securely;
+
+b)       Inter-bank card system, supported by a Card Processing Center ( CPC): technical assistance for
+advisory services and establishment of a national card inter-bank agreement supported by a shared
+processing center. This would coordinate and strengthen Kyrgyz commercial banks' initiatives in card
+activities, thus enabling bank customers to use any card accepted in the scheme in any Automated Teller
+Machine (ATM) or merchant's equipment (Points of Sale - POS). All banks participating the system will
+share the operational and investment costs and the management of associated risks. A nationally operating
+scheme will reduce the need for cash payments, and will provide access to basic banking services (cash
+withdrawal, payment and short term advances) to a large share of the population;
+
+c)       Real-time gross settlement system (RTGS): technical assistance for advisory services and
+establishment of a RTGS to provide timely settlement of large-value or urgent inter-bank transactions. The
+RTGS will enable banks to settle their large-value transactions in a more secure and timely fashion
+eliminating paper based-recording, meanwhile providing the NBKR with an accurate risk management tool
+to better monitor intra-day liquidity positions and exceptionally overnight collateralized credit. It will speed
+up transactions and reduce their costs and establish a safe and reliable system that is essential for business
+activity. Furthermore it will enable bank management to manage and optimize their liquidity positions on a
+real-time basis; and
+
+d)       Project management support services: including baseline surveys, studies and the establishment of
+a monitoring and evaluation system, so that these activities can be carried out using a professional project
+management approach. This assistance, which would include local and international experts, would be
+provided to NBKR's Payments Systems Department. It would be closely coordinated with the work of the
+Project Implementation Unit (PIU) and would support NBKR's efforts to complete a complex payments
+system within a tight timeframe.
+
+B.       General ledger of the NBKR: feasibility study, as well as advisory services and investment costs
+to enhance and strengthen NBKR's General Ledger (GL) so that it is fully compatible and consistent with
+the requirements of the improved payments system. The full automation and real-time interfacing between
+all components of the payments systems and the NBKR will enable the NBKR to better automate, integrate
+and adapt its accounting, treasury and financial information systems to accommodate the increased flows
+and volumes.
+
+C.       Banking sector reform: to help implement other areas of the Government's banking sector reform
+program, through the following subcomponents:
+
+a)       Strengthening of SSC: the proposed project would help strengthen SSC and improve its financial
+services delivery functions and thus better fulfill the banking needs of its customers. To this end, the
+project would support long term advisory services (management contract) as well as specialized assistance
+to complete an IT needs assessment and to implement the greed recommendations, with a view to lowering
+SSC's operating and transactions costs and improving its outreach to the rural population. Project support
+is expected to include software and hardware for improving the banks information systems. Assistance
+could also include advisory services for the development and implementation of a long-term strategy for
+divestiture through privatization, merger or other feasible alternatives. In addition, to help improve SSC's
+
+                                                        3
+                                                                                                          ISDS
+
+
+outreach and the access of rural populations to banking services, the proposed project will explore the
+possibility for SSC to enter into a partnership agreement with the Kyrgyz Postal System (Kyrgyz
+Potchstasy) to use selected post office windows for the delivery of its payments services. This may be
+carried out on a pilot basis; and
+
+(b)      Kairat Bank privatization: the proposed project would provide down-stream support for the
+privatization of Kairat Bank, helping to ensure that best international practices are applied. In particular,
+the proposed project will provide funding for advisory services for contract negotiations. In addition, it will
+include a provision for the development and implementation of a contingency plan in the event that a
+fit-and-proper strategic investor is not identified.
+
+D.       Project management and administration: this component would include support f the
+implementation and administration of the overall project through the provision of long- and short-term
+advisory services, training and equipment for project implementation. In addition, a provision would be
+included to cover operating costs incurred by the PIU and to cover the costs of the project audit. The PIU
+for the proposed project will be in the Directorate on Investments and Technical Assistance Coordination
+(DITAC) of the NBKR.
+
+I.A.4. Project Location: (Geographic location, information about the key environmental and social
+characteristics of the area and population likely to be affected, and proximity to any protected areas, or sites or
+critical natural habitats, or any other culturally or socially sensitive areas.)
+The project is not regionally specific.
+
+
+B. Check Environmental Classification: C (Not Required)
+
+Comments: There are no civil works and no reconstruction associated with the project.
+
+
+C. Safeguard Policies Triggered (from PDS)
+(click on   for a detailed desciption or click on the policy number for a brief description)
+                                     Policy                                           Triggered
+    Environmental Assessment (OP 4.01, BP 4.01, GP 4.01)                         Yes     No
+    Natural Habitats (OP 4.04, BP 4.04, GP 4.04)                                 Yes     No
+    Forestry (OP 4.36, GP 4.36)                                                  Yes     No
+    Pest Management (OP 4.09)                                                    Yes     No
+    Cultural Property (OPN 11.03)                                                Yes     No
+    Indigenous Peoples (OD 4.20)                                                 Yes     No
+    Involuntary Resettlement (OP/BP 4.12)                                        Yes     No
+    Safety of Dams (OP 4.37, BP 4.37)                                            Yes     No
+    Projects in International Waters (OP 7.50, BP 7.50, GP 7.50)                 Yes     No
+    Projects in Disputed Areas (OP 7.60, BP 7.60, GP 7.60)*                      Yes     No
+
+
+
+Section II - Key Safeguard Issues and Their Management
+D. Summary of Key Safeguard Issues. Please fill in all relevant questions. If information is not available,
+describe steps to be taken to obtain necessary data.
+
+II.D.1a. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe
+
+                                                        4
+                                                                                                           ISDS
+
+
+any potential large scale, significant and/or irreversible impacts.
+not applicable
+
+II.D.1b. Describe any potential cumulative impacts due to application of more than one safeguard policy or
+due to multiple project component.
+not applicable
+
+II.D.1c Describe any potential long term impacts due to anticipated future activities in the project area.
+not applicable
+
+II.D.2. In light of 1, describe the proposed treatment of alternatives (if required)
+not applicable
+
+II.D.3. Describe arrangement for the borrower to address safeguard issues
+not applicable
+
+II.D.4. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard
+policies, with an emphasis on potentially affected people.
+There are no safeguard issues under the project. The NBKR would lead the payments system reform; the
+MoF and State Property Commission would play a key role in bank privatization and restructuring.
+
+E. Safeguards Classification (select in SAP). Category is determined by the highest impact in any policy. Or
+on basis of cumulative impacts from multiple safeguards. Whenever an individual safeguard policy is
+triggered the provisions of that policy apply.
+
+[ ] S1. ­ Significant, cumulative and/or irreversible impacts; or significant technical and institutional risks in
+          management of one or more safeguard areas
+[ ] S2. ­ One or more safeguard policies are triggered, but effects are limited in their impact and are
+          technically and institutionally manageable
+[X] S3. ­ No safeguard issues
+[ ] SF. ­ Financial intermediary projects, social development funds, community driven development or similar
+          projects which require a safeguard framework or programmatic approach to address safeguard
+          issues.
+
+F. Disclosure Requirements
+
+Environmental Assessment/Analysis/Management Plan:                           Expected        Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+Date of distributing the Exec. Summary of the EA to the Executive
+Directors (For category A projects)
+
+Resettlement Action Plan/Framework:                                          Expected        Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+
+Indigenous Peoples Development Plan/Framework:                               Expected        Actual
+Date of receipt by the Bank
+
+                                                     5
+                                                                                                    ISDS
+
+
+Date of "in-country" disclosure
+Date of submission to InfoShop
+
+Pest Management Plan:                                                     Expected         Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+
+Dam Safety Management Plan:                                               Expected         Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+If in-country disclosure of any of the above documents is not expected, please explain why.
+
+Signed and submitted by               Name                                               Date
+Task Team Leader:                     Rochelle Hilton                                    12/15/2003
+Project Safeguards Specialists 1:
+Project Safeguards Specialists 2:
+Project Safeguards Specialists 3:
+
+Approved by:                         Name                                                Date
+Regional Safeguards Coordinator: Gottfried Ablasser                                      7/1/2003
+Comments
+The ISDS is approved.
+
+Sector Manager                        Tunc Tahsin Uyanik                                 01/16/2004
+Comments
+The ISDS is approved
+

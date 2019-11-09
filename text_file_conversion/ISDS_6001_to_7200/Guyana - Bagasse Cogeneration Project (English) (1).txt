@@ -1,0 +1,447 @@
+Page  1
+INTEGRATED SAFEGUARDS DATA SHEET 
+CONCEPT STAGE 
+Report No.: 41463  
+ 
+Date ISDS Prepared/Updated: May 31, 2007 
+ 
+I.  BASIC INFORMATION 
+ 
+A.  Basic Project Data 
+ 
+Country: Guyana 
+Project ID: P090044 
+Project Name: Guyana Bagasse 
+Cogeneration 
+Task Team Leader: Noreen Beg 
+Estimated Appraisal Date: June 2006 
+Estimated Board Date: n/a 
+Managing Unit: LCSFE 
+Lending Instrument: n/a 
+Sector: Renewable Energy/Power 
+Theme: Climate Change, Infrastructure  
+Safeguard Policies Specialists in the task team: George Ledec 
+Loan/Credit amount ($m.): n/a 
+Environmental Category : A 
+Other financing amounts by source: (est) ERPA  
+$3.224 million 
+Simplified Processing                        Simple [ ]                         Repeater [ ]  
+ 
+Is this a transferred project                 Yes []                              No [ X] 
+B.  Project Objectives 
+(from CFD) 
+ 
+The Guyana Bagasse Cogeneration Project (which is expected to receive financial payments to 
+be made under the Clean Development Mechanism of the Kyoto Protocol, and therefore is 
+hereafter referred to as the CDM Project) consists of the addition of a more efficient co-
+generation plant to the ongoing Skeldon Sugar Modernization Project (SSMP) -- a modern sugar 
+factory that will manufacture Very High Pol (VHP) raw sugar.   The CDM Project will generate 
+bagasse-based electricity for internal use as well as for sale to the national electric utility, 
+displacing the use of light fuel oil and heavy fuel oil in diesel engine-driven generators operated 
+by the Guyana Power and Light Company (GPL). As the utility currently has insufficient 
+capacity, there is extensive use of self-generation by industry and households. The project will 
+also displace a significant amount of this unregulated and inefficient self-generation as 
+confidence in reliable supply is progressively built. 
+ 
+C.  Project Description 
+(from CFD) 
+ 
+Under the ongoing SSMP project, a modern high efficiency sugar factory will be constructed for 
+the production of VHP raw sugar. The existing sugar cane area will be expanded.  The cane 
+supply will come from the Skeldon Estate (expanded from 4,800 to 9,500 ha) and from holdings 
+of private farmers (expanded from 300 to 4,165 ha) who will cultivate cane exclusively for sale 
+Page  2
+to Guyana Sugar Corporation (Guysuco).  A Combined Heat and Power (CHP) cycle plant will 
+be added on to the factory design to allow the simultaneous production of electrical power for 
+internal needs and for sale to the national electric utility.  This plant (the CDM Project) will use 
+bagasse from the sugar factory to generate an average of 10 MW of electricity delivering 
+approximately 77 GWh per year, to start. This power delivery can potentially increase as cane 
+and bagasse availability is confirmed and electricity demand increases. The CDM Project will 
+generate Greenhouse Gas Emission Reductions resulting from a displacement of fossil fuel use.   
+ 
+D.  Project location 
+(if known) 
+ 
+[Guideline:  If the location is not yet identified, please indicate if there are alternative locations 
+under consideration or how the location is to be determined during project preparation] 
+ 
+The SSMP project and the CDM Project are located in the Berbice County, at the eastern coastal 
+extremity of Guyana, on the Corentyne River, bordering on Suriname in South America. The 
+Berbice region currently has 5,000 to 10,000 people without access to electricity. In addition to 
+providing access for these consumers, the local commercial and industrial sectors will benefit 
+from the more reliable power supply. 
+ 
+Guysuco will construct a new sugar factory and expand its cultivation at Skeldon Estate. Water 
+for the irrigation of the new cultivated areas to be undertaken by Guysuco will be obtained by 
+both recycling of water from the cultivated areas and by withdrawals from fresh water sources. 
+The SSMP project will include the construction of the Guysuco Conservancy (a shallow 
+reservoir), with a total surface area of approximately 1,520 ha for management of fresh water 
+supply for use by the expanded operation. Water has historically been obtained from the area that 
+encompasses the Guysuco Conservancy.  
+ 
+The private cane farms are located primarily in the Crabwood Creek/Moleson Creek area. Water 
+for irrigation of these farms will be obtained from the existing Halcrow Conservancy (a shallow 
+reservoir of about 6,000 ha). The capacity of the Halcrow Conservancy to provide adequate 
+supplies of water for agricultural purposes was documented in a study undertaken in the 1980s. 
+The Halcrow Conservancy will also form part of the Guysuco water management plan for the 
+expanded operation. 
+ 
+E.  Borrower’s Institutional Capacity for Safeguard Policies 
+(from CFD) 
+ 
+[Guideline: Based on past experience and other available information]
+ 
+The SSMP and CDM Project Sponsor (Guysuco) and Project Owner (Government of Guyana) 
+have formally approved both projects. Guysuco has prepared a detailed Environmental 
+Management Plan for the Skeldon sugar factory and associated cane field expansion, including 
+effective wildlife conservation at the Halcrow and Guysuco conservancies
+1
+.
+Guysuco has legal 
+1
+While the Environmental Management Plan was commissioned for the SSMP, it also covers the CHP plant 
+and as such, is detailed here. 
+Page  3
+responsibility for the management of both the Halcrow and Guysuco conservancies. These two 
+conservancies comprise about 7,520 ha of state-owned land under Guysuco management; in the 
+case of the Halcrow Conservancy, Guysuco
+’s, management responsibilities are outlined in a 
+long-term Agreement (signed March 2004) between Guysuco and the National Drainage and 
+Irrigation Board. 
+ 
+The Poverty Reduction and Public Management Grant (PRPMG) for Guyana from the World 
+Bank (via its affiliate, the International Development Association) includes as a required policy 
+action that the Government of Guyana (through Guysuco) 
+"adopt and begin implementation of 
+an acceptable Environmental Management Plan for the Skeldon sugar factory and 
+associated cane field expansion, including effective wildlife conservation at the Halcrow 
+and Guysuco Conservancies."
+ 
+Guysuco has submitted its Environmental Management Plan 
+(EMP), based on extensive input from the Bank’s environmental specialists. The EMP is 
+presently being reviewed within the Bank. 
+George, this must be completed by now?   
+ 
+II. SAFEGUARD POLICIES THAT MIGHT APPLY 
+ 
+Safeguard Policies Triggered 
+(please explain why)
+ 
+Yes No TBD 
+Environmental Assessment (OP/BP 4.01)
+ 
+X
+The Environmental Impact Assessment for the SSMP Project (
+Final Environmental Impact Assessment Report:  
+Proposed Expansion to Skeldon Estate
+,
+Ground Structures Engineering Consultants, March 2003), commissioned by 
+Guysuco, has been completed. The Guyana Environmental Protection Agency (EPA) has issued a permit allowing 
+Guysuco to proceed with both the SSMP and CDM projects. In compliance with this permit, Guysuco will establish 
+a
+sanitary landfill for wastes generated by construction and operation of the Skeldon facilities. As a first step, 
+Guysuco has recently completed a separate landfill site selection study, which has been reviewed and found 
+acceptable by World Bank environmental specialists. 
+ 
+The EIA report includes a socioeconomic baseline analysis, baseline coastal zone conditions, an assessment of the 
+environmental consequences of air emissions generated by land clearing and open burning of vegetation, and an 
+assessment of water quality in the mini-conservancy to support aquatic life. Cultural and archaeological resources 
+will not be affected by the project. The conversion of existing, non-critical natural habitats for expanded cane 
+cultivation will be significant, but adequately mitigated (see below). In addition, land clearing will be done by block 
+to facilitate the exit of wild animals towards the remaining areas of natural habitat. Temporary log bridges will also 
+be placed across canals to facilitate the exit of terrestrial wildlife. Air emissions can arise from the application of 
+pesticides. The EIA report indicates that concentrations of these emissions resulting from project activities are likely 
+to be minute and will have no impacts on air quality. The EIA also summarizes the stakeholder consultations that 
+have been carried out on the SSMP project. 
+ 
+The bagasse co-generation plant will lead to reduced particulate and NO
+x
+emissions due to more efficient firing of 
+bagasse. Emission concentrations from bagasse firing were estimated at 47.8 mg/m
+3
+for
+ particulates and 40 mg/m
+3
+for 
+No
+x
+and fall within acceptable World Bank standards (150 mg/m
+3
+for
+ particulates and 70 mg/m
+3
+for No
+x
+). 
+ 
+Guysuco
+’s Environmental Management Plan (presently being reviewed within the World Bank) for the SSMP 
+(including the CDM) was prepared with input from Bank environmental specialists. It is expected to address all of 
+Guysuco’s environmental management responsibilities, including those related to natural habitat and wildlife 
+conservation, water quality, waste management, and agricultural pest management. After this document is reviewed 
+and found acceptable to the Bank, it will be disclosed publicly (along with the EIA report) at the InfoShop and made 
+available by Guysuco to interested Guyanese citizens.  
+George, was this completed? 
+ 
+Page  4
+Safeguard Policies Triggered 
+(please explain why)
+ 
+Yes No TBD 
+Natural Habitats (OP/BP 4.04) 
+X 
+ 
+ 
+The most significant adverse environmental impact of the SSMP is the conversion of some 8,365 ha of land to sugar 
+cane cultivation. In terms of existing vegetative cover, at least 3,000 ha of the Guysuco-held land is generally intact 
+freshwater swamp and natural forest; the 880 ha comprising Block 1 have recently been entirely cleared and planted 
+to cane; and the remaining Guysuco and small farmer/cooperative land is semi-natural savanna which has been 
+drained in the past but is now covered with natural vegetation at different stages of succession. As demonstrated by 
+Guysuco’s maps of available lands for expanding sugar cane cultivation, alternative sites of lower environmental 
+sensitivity are not available within an economic transport distance of the Skeldon factory. As noted in the EIA 
+report, the freshwater swamp, forest, and savanna lands are rich in biodiversity, although they do not qualify as 
+Critical Natural Habitats (as per the Natural Habitats OP 4.04) or Critical Forests (as per the Forests OP 4.36), 
+especially since ecologically similar lands are still widespread on the coastal plain of Guyana. Although the lands to 
+be converted harbor species of conservation interest such as Jaguars 
+(Panthera onca)
+,
+they are not considered to be 
+critical for the global (or national) survival of any species. 
+ 
+As ecological compensation for the loss of natural habitats through expanded cane cultivation, Guysuco has agreed 
+to the long-term conservation of 7,520 ha, contained within the Halcrow (6,000 ha) and Guysuco (1,520 ha) 
+conservancies. These two conservancies comprise state-owned land under Guysuco management; in the case of the 
+Halcrow Conservancy, Guysuco’s management responsibilities are outlined in a long-term agreement (signed March 
+2004) between Guysuco and the National Drainage and Irrigation Board. Both conservancies serve primarily as 
+water storage areas for nearby sugar cane and other irrigated cultivation, and both comprise relatively natural 
+ecosystems with a mosaic of open water, marsh, freshwater swamp, upland reef forest, and related wetland habitats. 
+When adjusted for natural habitat quality, the 7, 520 ha within the two conservancies are of greater biodiversity 
+conservation value overall than the (largely drained) lands to be cleared for expanded cane cultivation. Under 
+Guysuco’s management, the fundamentally natural character of these areas will remain, although there might be 
+some change in the proportions of each habitat type due to (relatively slight) water level changes. To help ensure 
+effective wildlife conservation at both conservancies, Guysuco will prohibit all hunting and wildlife capture, and 
+will restrict fishing to traditional, small-scale activities. Guysuco will enforce these restrictions through (i) 
+placement of signs in strategic locations at the conservancy edges; (ii) control of vehicle and pedestrian traffic along 
+the limited access roads that pass through Guysuco-managed lands; and (iii) the on-the-ground presence of at least 8 
+conservancy rangers. 
+ 
+With PHRD funding, Guysuco is carrying out a Rapid Biological Assessment (RBA) to obtain baseline data on the 
+animal and plant life of the two conservancies, which will be useful for future monitoring and management 
+activities. The RBA will also serve to increase awareness, within Guyana and internationally, of the biodiversity 
+significance of these two conservancies.  George, was this completed? 
+ 
+The EMP is expected to indicate the explicit environmental rules that have been incorporated within the 
+“Specifications of the Bid Documents for Bush Clearing” of the remaining blocks of natural vegetation to be cleared 
+for cane cultivation.  These rules are expected to require (i) proceeding in a direction (which would vary by block) 
+that would facilitate the exit of wild animals towards the remaining areas of natural habitat; (ii) placing temporary 
+log bridges across canals to facilitate the exit of terrestrial wildlife; (iii) no hunting, wildlife capture, nor fishing by 
+contractors and their employees; (iv) no contamination of the canals by solid or liquid wastes; (v) no washing of 
+machinery in canals; etc. 
+ 
+The expansion of the sugar mill operations has necessitated the relocation of cattle belonging to the Cattle Farmers’ 
+Association for Villages 67-74 (who previously had access to Block 2 of the Skeldon Sugar Estate to graze their 
+cattle). They are being relocated to the adjacent 18,600 acre Manarabisi pasture, currently being utilized by the cattle 
+farmers of Villages 52 – 66, who have agreed in principle to share this land. (Unlike Villages 67-74, Villages 52 – 
+66 do have formal title to their grazing lands).  The reason for their willingness to share is that they have been 
+guaranteed continued use of the drained portions of the pasture (which comprises the 7600 acre Sookram’s pasture 
+and the 11000 acre Whittaker pasture).   
+ 
+As a large part of the w
+estern pasture is unsuitable for cattle (approximately 
+7
+000 heads of cattle will be relocated to 
+Page  5
+Safeguard Policies Triggered 
+(please explain why)
+ 
+Yes No TBD 
+Manarabisi) Guysuco and the Ministry of Agriculture will pay for the land clearing necessary, while the farmers will 
+contribute to construction of fencing and local bridges. The area of the western portion of the pasture is 3 094 ha, 
+with 85% of that constituting secondary forest and 15% comprising savannah/swamp 15%.  Of the 85% forest, 75% 
+i
+s
+to be cleared and 25% to remain as shade area for cattle.  A total of 1,972 ha will therefore be cleared in addition 
+to 62 ha along boundaries/drain lines.  All of the cleared land will be used by the displaced cattle farmers of Villages 
+67-74. 
+ 
+The land immediately to the east and west of the proposed area is savannah, already cleared for cattle pasture.  The 
+land to the east will remain with the No. 52-66 Association.  The land to the west will remain with other co-
+operatives. [Map provided to the bank separately].  The land to the south is in Block 4 of the Guysuco mill 
+expansion area. The forest is fairly isolated with some access to other forest areas to the north. As far as Guysuco is 
+aware there is no protected status for adjacent blocks and there has been no mention of this in the EIA or the Rapid 
+Biodiversity Assessment. 
+ 
+Guysuco does not envisage the process to entail 
+‘mass deforestation' in a short period with a large amount of 
+equipment.  It will be a slow process, moving from south to north and as such would accommodate wildlife escape. 
+ 
+There are presently no plans for ploughing and re-seeding either Whittaker or Sookram's Pasture.  As such all 
+species would be native.  At present little or no pasture burning is practiced.  In the wet seasons it is impossible and 
+in the dry seasons extremely unfeasible.  In the dry seasons the best grass is grazed down leaving nut-grass etc. 
+in the wet spots    
+Forests (OP/BP 4.36) 
+X 
+ 
+ 
+The wetland habitats within the protected Halcrow and Guysuco conservancies, as well as the area to be cleared 
+for expanded cane cultivation, include natural forests (both in the swamps and the upland reef forest stands). Thus, 
+all of the above comments on compliance with the Natural Habitats OP/BP 4.04 apply as well to the Forests OP/BP 
+4.36. It should also be noted that there is presently no logging or other wood extraction from the Halcrow and 
+Guysuco conservancies, nor will Guysuco allow any to take place under the SSMP.  
+ 
+The portion of  Manarabisi pasture, where the cattle will be resettled, (see above) is covered with 85% forest, of 
+which 75% is to be cleared with 25% to remain as shade area for cattle.  The forest compares directly with Block 4 
+as it is mainly a continuation of the "reef" passing through Block 10, 3, and 4.  The Guyana Forestry Commission 
+recently surveyed this area and concluded the number of trees of commercial value as negligible.   
+ 
+While detailed planning of the bush clearing programme has not yet been fully discussed with the farmers it is  
+likely that the remaining trees will be 'islands' on the basis that to minimise cost, the trees not felled would be the 
+largest ones and these would be scattered.  The 'islands' remaining around the large trees would probably be small. 
+The forest covers nearly all the Sookram's Pasture and a little of Whittaker Pasture (map attached).  The 'islands' 
+would be distributed throughout the present forest area.  The requirement for shade would be the first priority but if 
+there is 'best practice' on the environmental aspect of the remaining tree stand Guysuco has indicated willingness to 
+include it.  The map shows that the 15% swamp/savannah area is mainly in the north of Sookram's Pasture.  One 
+idea under discussion is to access this area with a traverse through the forest from the Manarabisi Canal so that cattle 
+could move to the open ground quickly. 
+ 
+Pest Management (OP 4.09) 
+X 
+ 
+ 
+Guysuco’s current pest management practices are broadly consistent with the World Bank’s Pest Management 
+Policy. The project’s Environmental Management Plan includes a Pest Management Plan that emphasizes integrated 
+pest management, careful selection of compounds, and safe pesticide use and storage. This is important on account 
+of possible impacts of pesticide application on workers’ safety as well as potential effects of agrochemical run-off 
+on plants and animals. In addition to following the PMP in its own cane cultivation, Guysuco provides free technical 
+assistance in pest management to the adjacent small farmers who are, or will be, producing cane for the new Skeldon 
+factory. 
+ 
+Physical Cultural Resources (OP/BP 4.11) 
+ 
+X 
+ 
+Page  6
+Safeguard Policies Triggered 
+(please explain why)
+ 
+Yes No TBD 
+Indigenous Peoples (OP/BP 4.10) 
+ 
+X 
+ 
+Involuntary Resettlement (OP/BP 4.12) 
+X 
+ 
+ 
+While there is no involuntary resettlement of people in this project, as part of the SSMP expansion, the Cattle 
+Farmers’ Association for Villages 67-74 who previously had access to Block 2 of the Skeldon Sugar Estate to graze 
+their cattle had to be relocated as Block 2 is an integral area for cane field expansion and contiguous to other areas 
+of increased cultivation.  Block 2 has now been cleared for sugar cultivation which means the Cattle Farmers’ 
+Association is no  
+ 
+In September 2006, a Select Committee was established to examine the issue of the relocation of the cattle farmers 
+from Villages 67 - 74.  The issue is now approaching resolution as an alternate grazing location has been identified 
+that has been deemed satisfactory to the majority of the Cattle Farmers Association. This area is the 18,600 acre  
+Manarabisi pasture, currently being utilized by the cattle farmers of Villages 52 – 66, who have agreed in principle 
+to share this land. (Villages 52 – 66 do have formal title to their grazing lands).  The reason for their willingness to 
+share is that they have been guaranteed continued use of the drained portions of the pasture (which comprises the 
+7600 acre Sookram’s pasture and the 11000 acre Whittaker pasture).  The additional rehabilitation work planned for 
+the pasture will only increase the safety and welfare of their cattle, and once drained, the land is sufficient for all. 
+ 
+The Government and Guysuco have agreed in principle to share the cost of undertaking infrastructure work at 
+Manarabisi pasture, to allow all 80 -100 farmers from Villages 67-74 ( with approximately 7000 heads of cattle) to 
+move there in phases from 2008 - 2009.  These works include: 
+ 
+·
+Clearing the approximately 2000 ha currently under bush cover (logging of these secondary growth forests 
+to be undertaken with the supervision of the Forestry Commission) 
+·
+The construction of drainage and navigation canals and empoldering (Primary drainage will be 
+rehabilitated/upgraded) to adequately deal with additional cleared acreage; and secondary drainage  -- 
+internal canals and drains – will be installed to facilitate drainage during the rainy season and to hold 
+drinking water for cattle during the dry season) 
+·
+Construction of access roads to the land 
+·
+Fencing of the perimeter ( currently about 30% is fenced), and  
+·
+Division of lands between the two Associations (currently under negotiation as the NDDP feels it may be 
+better not to formally sub-divide the land,). 
+ 
+The total cost of the above works has been estimated at G$ 268.6 million/ US$1.41 million and will be shared 
+between the Government and Guysuco. Some bush clearance, excavation of drains, and fence erection has already 
+been completed.  
+ 
+An agreement will be negotiated with the Water Users Association with regard to the use of access dams and 
+waterways used by both rice and cattle farmers in the area.   
+ 
+While this clearance will have some effect on natural habitats and forestry, these effects will be mitigated and 
+described above, and the Bank will request that updates be provided on this process.   
+ 
+The RAP is provided separately, and the Bank as part of project supervision , will conduct a survey to determine that 
+farmers’ livelihoods have not been adversely affected by the relocation of cattle.  
+ 
+Safety of Dams (OP/BP 4.37) 
+ 
+X 
+ 
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X  
+Page  7
+Safeguard Policies Triggered 
+(please explain why)
+ 
+Yes No TBD 
+Projects in Disputed Areas (OP/BP 7.60) 
+ 
+X 
+ 
+III. SAFEGUARD PREPARATION PLAN 
+ 
+The Skeldon project’s Environmental Impact Assessment has been completed and the Guyana 
+Environmental Protection Agency (EPA) has issued a permit (
+Permit No. 19990204-GSEPO 
+dated 15 July 2003
+)
+allowing GuySuCo to proceed with the SSMP. The EIA took into 
+consideration a cogeneration facility to be integrated with the SSMP. 
+ 
+Environmental Assessment Category:
+ 
+[X] A   [] B   [ ] C   [ ] FI   [ ] TBD (to be determined) 
+ 
+The CDM project will not have significant adverse environmental or social impacts. All potential 
+impacts should be manageable through proper project design and implementation. However, the 
+SSMP, to which this project is indirectly affiliated, and the resultant clearance of Manarabisi 
+pasture involves significant conversion of forests and other natural habitats (for which a 
+Category A classification is required.  
+ 
+The CDM project is a separate project which takes advantage of the new sugar factory to co-
+generate electric power. The CDM project  does 
+not
+ (i) increase (by even one hectare) the area of 
+cane that will be cultivated for the sugar factory; (ii) materially affect the sugar factory’s 
+profitability; nor (iii) change the likelihood of the new Skeldon sugar factory being built in the 
+first place.  
+ 
+IV. APPROVALS 
+ 
+Signed and submitted by: 
+ 
+Task Team Leader: 
+ Noreen Beg 
+06/04/07 
+Approved by: 
+ 
+Regional Safeguards 
+Coordinator: 
+Reidar  Kvam 
+06/ /07 
+Comments:   
+Sector Manager: 
+Susan Goldmark 
+06/   /07 
+Comments:   
+Page  8

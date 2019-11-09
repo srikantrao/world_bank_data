@@ -1,0 +1,716 @@
+﻿The World Bank                                                                             RESTRUCTURING ISDS
+Electric Power Project (P143988)
+
+
+
+
+                        Integrated Safeguards Data Sheet
+                                    Restructuring Stage
+
+
+             Restructuring Stage | Date ISDS Updated: 07-Dec-2017| Report No: ISDSR22910
+
+
+
+
+                        Regional Vice President:      Victoria Kwakwa
+                               Country Director:      Ellen A. Goldstein
+                 Senior Global Practice Director:     Riccardo Puliti
+                    Practice Manager/Manager:         Julia M. Fraser
+                             Task Team Leader:        Sunil Kumar Khosla
+
+
+
+
+                                                    -1-
+           The World Bank                                                                            RESTRUCTURING ISDS
+           Electric Power Project (P143988)
+
+
+
+.
+
+I. BASIC INFORMATION
+
+1. BASIC PROJECT DATA
+
+Project ID                                                      Project Name
+P143988                                                         Electric Power Project
+Task Team Leader(s)                                             Country
+Sunil Kumar Khosla                                              Myanmar
+Approval Date                                                   Environmental Category
+24-Sep-2013                                                     Partial Assessment (B)
+Managing Unit                                                   Is this a Repeater project?
+GEE02
+
+PROJECT FINANCING DATA (IN USD MILLION)
+
+Total Project Cost                                              Total Financing
+140,000,000.00                                                  140,000,000.00
+Financing Gap
+0.00
+OLD_FIN_DTL
+Financing Source                                                                                           Amount
+International Development Association (IDA)                                                         140,000,000.00
+Total                                                                                               140,000,000.00
+
+
+
+2. PROJECT INFORMATION
+
+    Current Project Development Objective
+    Increase the capacity and efficiency of gas-fired power generation in Myanmar and strengthen the institutional capacity
+    of relevant agencies.
+
+
+
+.
+
+
+
+
+                                                            -2-
+        The World Bank                                                                               RESTRUCTURING ISDS
+        Electric Power Project (P143988)
+
+
+
+3. PROJECT DESCRIPTION
+
+The Project comprises financing for (a) construction of a combined-cycle gas-fired power plant (CCGT) at Thaton, Mon
+State; and (b) technical assistance and capacity building activities to support construction of the plant and broader
+energy sector analysis and planning. Power plant construction activities are described further in Section II.A.1.
+
+The project is being restructured due to the need to trigger OP 4.12, which was not triggered at the time of appraisal. At
+appraisal, it was assessed that all investments and other project interventions would occur at the existing site within its
+perimeter, with no associated investments such as transmission and distribution network, water supply, or road works.
+However, during finalization of the contract in 2015, it became apparent that the new plant would require construction
+of a pipeline of about five kilometers in length to supply water from Donthami river to the plant. The need for this water
+supply results from the winning bidder’s design, which requires more water than would otherwise be available at the
+site. As such, the need for this pipeline was not foreseen in the ESIA/ESMP prepared for the project in 2013. Additional
+facilities associated with the pipeline include a new floating water pump in the river, a new pump house next to the
+river, and new aboveground electricity distribution lines to follow the route of the pipe from the pump house to the
+plant.
+
+4. PROJECT COMPONENTS
+
+Component 1: CCGT Power Plant (US$ 130 million).
+The main component of the proposed project is the design, supply and installation of a combined the Thaton gas turbine
+(GT) station capacity into a new CCGT power plant. The selection of the plant is based on two main considerations: (a)
+the severely constrained availability of gas supply allocation in the domestic gas market; and (b) the age and condition of
+existing GT stations. The existing Thaton GT station is located near the country’s main gas-pipeline, which runs through
+the Mon State, and the reliability record of gas supply in Thaton is significantly better than in other GT stations
+considered as alternative project locations. Also, the existing GTs in Thaton are among the oldest in the country,
+experiencing increased number of forced outages and very low thermal efficiency (on average below 20 percent).
+Furthermore, the Thaton station has a relatively strong connection to the 230 kV power transmission network and it
+provides electricity to both the national grid and local communities in Mon State.
+
+Component 2: Technical Assistance and Advisory Services (US$10 million). This component will provide technical
+assistance (TA) and advisory services in two main areas. The first area of support is related to the capacity building for
+policy making and regulation in the power sector including, but not limited to: (a) development of National
+Electrification Program; (b) financial analysis and forecasting for power enterprises; and (c) economic valuation of
+natural gas in the domestic market. The second area of support is related to the capacity building for project
+implementation including: (a) owners engineer for the implementation of CCGT plant; (b) strengthening of procurement
+capacity and training on international procurement practices; and (c) improvement of financial management (FM)
+capacity and training in international FM standards and procedures; (d) environmental and social safeguards; and (e)
+implementation of the Environmental and Social Management Plan (ESMP) at the project site.
+.
+
+5. PROJECT LOCATION AND SALIENT PHYSICAL CHARACTERISTICS RELEVANT TO THE SAFEGUARD ANALYSIS (IF
+   KNOWN)
+The Thaton power plant site is located in a rural area approximately 5 km northeast of Thaton town, Thaton
+District, Mon State. The land is a relatively flat coastal plain. Flooding of the site is not reported; open drains
+
+                                                           -3-
+        The World Bank                                                                           RESTRUCTURING ISDS
+        Electric Power Project (P143988)
+
+
+
+carry away excess water to the surrounding terrain with a seasonal water creek in the rainy season. The site
+water discharges (run-off water as well as domestic wastewater and water used for site cleaning) should not
+be a significant source of pollution, potential contamination should be prevented through the
+implementation of the Environmental and Social Management Plan (ESMP) in place. Land use surrounding
+the power station is primarily rubber tree plantations, with the exception of a tire factory adjacent to the
+east side of the site. A national road runs along the Project site at a short distance (some 1,500m) and is an
+important contributor to local noise levels. The current plant does not use water for cooling purposes,
+however the new plant requires external water supply provided through a new pipeline from the Donthami
+river, some 5 km from the plant. There are no perennial streams or rivers running through the site or close to
+it. Apart from the water supply pipeline and associated infrastructure (power supply line, pump house,
+floating pumps) all activities related to modernization and expansion are taking place within the existing
+power station compound (‘brownfield development’) which is situated on government land used for power
+generation since 1975 when the first two gas turbines were commissioned.
+
+
+
+6. ENVIRONMENTAL AND SOCIAL SAFEGUARDS SPECIALISTS ON THE TEAM
+
+
+Martin Fodor, Environmental Safeguards Specialist
+Zeynep Durnev Darendeliler, Social Safeguards Specialist
+SAFEGUARD_TABLE
+7. SAFEGUARD POLICIES TRIGGERED
+ Safeguard Policies                         Triggered            Explanation
+                                                                 The proposed project has been classified as
+                                                                 category ‘B’ because the impacts that may occur
+                                                                 during construction or operation of the project
+                                                                 investment are limited, site-specific and mitigation
+                                                                 measures can be readily designed. Most physical
+                                                                 work is taking place within the existing brownfield
+                                                                 location. During implementation the need was
+                                                                 identified for two water supply pipelines (for
+                                                                 cooling water and for worker housing water
+                                                                 supply, 4.3 km and one 1.6 km respectively)
+                                                                 drawing water from the Donthami river),
+ Environmental Assessment (OP) (BP 4.01) Yes
+                                                                 associated electricity distribution line, pumphouse
+                                                                 and floating pumps.
+
+                                                                 The project will increase existing power
+                                                                 generation capacity, and will have positive impacts
+                                                                 by substantially increasing generation efficiency
+                                                                 and by substantially reducing emissions and noise
+                                                                 levels, while improving reliability and quality of
+                                                                 electricity supply in Thaton. The project will have
+                                                                 limited negative impacts on the environment.
+                                                                 Many of the impacts are related to operation of
+                                                           -4-
+       The World Bank                                                                 RESTRUCTURING ISDS
+       Electric Power Project (P143988)
+
+
+
+                                                     the existing facilities which will reduce after
+                                                     commissioning of the new facilities. An
+                                                     Environment and Social Assessment (ESA) has
+                                                     been prepared including an Environment and
+                                                     Social Management Plan (ESMP) to mitigate any
+                                                     potential impacts during construction and
+                                                     operation. Lack of institutional capacity for
+                                                     environmental and social protection is being
+                                                     addressed through the technical assistance (TA)
+                                                     component under the project. This TA includes
+                                                     support to develop and implement an
+                                                     Environment, Health & Safety Management
+                                                     System under the Project for the existing and new
+                                                     facilities of the power station, to address
+                                                     environment, health and safety considerations of
+                                                     future operations.
+
+                                                     The task team conducted a labor influx risk review
+                                                     (April 2017). An estimated 144 Chinese and 20-70
+                                                     Myanmar nationals would be working on the plant
+                                                     refurbishment for approximately 12 months. All
+                                                     laborers are registered with names and passports
+                                                     verified by government oversight, 8-9 local
+                                                     community security guards have been assigned for
+                                                     the workers camp, and camp management
+                                                     protocol for HSE and security exist with a 9pm
+                                                     curfew in place. The Grievance Redress
+                                                     Mechanism provides means for the community to
+                                                     raise and escalate concerns through alternative
+                                                     means, and for their monitoring and reporting by
+                                                     the Government.
+
+                                                     Project does not affect natural habitats. Works are
+                                                     concentrated at an industrial (brownfield) power
+                                                     plant site with that land use for at least the last 30
+Natural Habitats (OP) (BP 4.04)           No
+                                                     years. New water supply infrastructure follows
+                                                     existing linear infrastructure corridors and does
+                                                     not have appreciable impacts on natural habitats.
+                                                     Project does not affect natural forests. Works are
+                                                     concentrated at an industrial (brownfield) power
+                                                     plant site with that land use for at least the last 30
+Forests (OP) (BP 4.36)                    No
+                                                     years. New water supply infrastructure follows
+                                                     existing linear infrastructure corridors and does
+                                                     not have appreciable impacts on forests.
+                                                     There will be no procurement of pesticides or
+Pest Management (OP 4.09)                 No         fertilizers, or any works within the project which
+                                                     would lead to the use or the increased use of
+                                               -5-
+       The World Bank                                                                    RESTRUCTURING ISDS
+       Electric Power Project (P143988)
+
+
+
+                                                        pesticides.
+
+                                                        The project does not involving significant
+                                                        excavations, demolition, movement of earth,
+                                                        flooding, or other environmental changes; and is
+                                                        not located in, nor in the vicinity of, a physical
+Physical Cultural Resources (OP) (BP 4.11) No
+                                                        cultural resources site recognized by the
+                                                        borrower; the cooling water pipeline is within the
+                                                        previously excavated corridor of another (tire
+                                                        factory) pipeline.
+                                                        The policy is triggered because of the presence of
+                                                        IPs within the project’s area of influence. Since IPs
+                                                        represent the overwhelming majority of the
+                                                        potential beneficiaries and affected population in
+Indigenous Peoples (OP) (BP 4.10)           Yes         the Project influence area, no separate Indigenous
+                                                        People Plan was prepared. The relevant elements
+                                                        of the policy have been directly integrated into
+                                                        project design. See the Summary of Key
+                                                        Safeguards Issues for further information.
+                                                        At appraisal, it was considered that there would
+                                                        be no physical resettlement, land acquisition or
+                                                        loss of income associated with the project, and all
+                                                        construction-related activities would take place
+                                                        within the existing site. However, this policy is
+Involuntary Resettlement (OP) (BP 4.12)     Yes         triggered given that the plant design agreed in
+                                                        2015 requires external water supply with
+                                                        construction of a pipeline and associated facilities
+                                                        outside the boundary of the plant site. See the
+                                                        Summary of Key Safeguards Issues for further
+                                                        information.
+                                                        The Project will not finance construction or
+                                                        rehabilitation of any dams, nor will it rely on the
+Safety of Dams (OP) (BP 4.37)               No
+                                                        performance of an existing dam or a dam under
+                                                        construction, as defined in this Policy.
+                                                        The Project site does not involve the use of or
+Projects on International Waterways (OP)                potential impact on any international waterway;
+                                            No
+(BP 7.50)                                               Donthami river providing cooling water is not an
+                                                        international waterway.
+Projects in Disputed Areas (OP) (BP 7.60)   No          The project is not in a disputed area.
+KEY_POLICY_TABLE
+II. KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT
+
+ A. SUMMARY OF KEY SAFEGUARD ISSUES
+
+
+
+
+                                                  -6-
+     The World Bank                                                                             RESTRUCTURING ISDS
+     Electric Power Project (P143988)
+
+
+
+1. Describe any safeguard issues and impacts associated with the Restructured project. Identify and describe any
+ potential large scale, significant and/or irreversible impacts.
+ Environment: In accordance with the requirement of a Category B project, an Environmental and Social Assessment
+ (ESA) was carried out for the proposed project components at appraisal. An environmental and social management
+ plan (ESMP) was prepared to determine mitigation measures, monitoring program and necessary institutional
+ arrangements as well as capacity development.
+
+ The Project invests in construction of a new combined-cycle gas-fired power plant adjacent to an existing, old,
+ simple-cycle gas-fired power plant dating from 1975, at a site in Thaton township, Mon State. The old plant's main
+ facilities will not be dismantled under the Project. The old plant will be used up until operation of the new plant,
+ and thereafter only in emergency situations or during periods of maintenance of the new plant. Typically, downtime
+ of the new turbines for maintenance or disruptions, and hence the possibility that the old turbines will be used, is
+ around two weeks per year. With the substantially higher efficiency and environmental performance standards of
+ the new equipment (lower emissions to air, less waste consumption, much lower noise generation levels) and the
+ introduction of an Environmental Health and Safety Management System, the investment will reduce
+ environmental impacts and benefit the surrounding environment and local population. Natural gas fired power
+ plants have low emissions of particulate matter and hydrocarbons, and sulfur dioxide (with the natural gas sulfur
+ contents at 0.002%). The main air pollutant from natural gas is nitrous oxide (NOx), emission of which are expected
+ to be around 70% less in the new than the old plant. Carbon dioxide (CO2) emissions per unit of electricity produced
+ will be substantially reduced, although total CO2 emissions will remain roughly at existing levels as the plant will
+ continue to use the same amount of natural gas. Noise levels at the fence surrounding the site currently reach levels
+ of 60-70 dB(A) and at places (main entrance) levels up to 80 dB(A). The noise levels from the new plant, in
+ compliance with international standards, are expected to be reduced to between 50 (nighttime) and 55 dB(A)
+ (daytime) at the fence of the site.
+
+ The World Bank Group Environmental Health and Safety General Guidelines (WBG EHS Guidelines) and World Bank
+ Group Guidelines for Thermal Power Generation will apply to the project, and, where applicable, other international
+ good standards such as relevant EU Directives, or US-EPA standards. Since appraisal, Myanmar has adopted national
+ environmental safeguards requirements that also apply to the project.
+
+ Construction activities with the installation of the CCGT units cause emissions from construction equipment,
+ airborne dust and noise, as well as small amounts of wastewater (washing water) and solid waste (inert
+ construction waste). During the operational phase air emissions and noise levels will be determined by the
+ specifications of the installed equipment, in compliance with WBG EHS Guidelines and international standards,
+ which represent a substantial improvement in comparison to the current situation. Wastewater and waste
+ generation are limited and largely unrelated to the core power generation process (cleaning and runoff water,
+ wastewater, etc). Mitigation measures are included in the ESMP.
+
+ The ESMP complies with applicable Bank Safeguard Policies requirements’ and applicable environmental, health,
+ safety, and social standards. The ESMP includes mitigation measures, monitoring plans, institutional arrangements,
+ capacity building and estimated costs for the mitigation measures and monitoring programs for both the
+ construction and operation phases. The ESMP also specifies an Environment Health and Safety Management System
+ to be developed during Project implementation.
+
+ The due diligence review undertaken as part of the ESA showed a lack of safeguards and operation procedures for
+ workers’ health and safety and environmental good practices. The Environment Health and Safety Management
+ System will include health and safety measures that will substantially improve standards and practices to deal with
+
+                                                       -7-
+   The World Bank                                                                              RESTRUCTURING ISDS
+   Electric Power Project (P143988)
+
+
+
+these issues for both the new and existing facilities in an adequate manner.
+
+The ESMP implementation is progressing satisfactory, with moderate shortcomings regarding site organization
+related to work site congestion due to large deliveries of materials and large equipment pending installation, site
+hygiene maintenance, and worker safety practices. ESMP implementation is supervised regularly by the Client’s
+international E&S consultancy as well as the Bank; in addition, Client’s Owner Engineer is providing in-depth
+supervision and capacity building on workers’ occupational health and safety during construction as well as design
+review from operational safety perspective, including Hazard and Operability Assessment (HAZOP). The capacity
+building element of ESMP is likewise delivered as planned, although the effectiveness is somewhat affected by
+limitations on number and qualifications of Client staff. The establishment of EHS-MS for Thaton plant is
+commencing following the agreed work plan of the international E&S consultant, and will be informed by the
+outputs of the in-depth safety work undertaken by Owner’s Engineer.
+
+The Safeguard Policy on Pest Management (OP/BP 4.09) has not been triggered because there wil be no
+procurement of pesticides or fertilizers, or any works within the Project which would lead to the use or increased
+use of pesticides. The power generation facilities will use air cooling, therefore there are no discharges of cooling
+water (and therefore no possibility of cooling water discharge containing pesticides).
+
+The Safeguard Policy on Safety of Dams (OP/BP 4.37) has not been triggered because the project will not finance
+the construction or rehabilitation of any dam, nor will it rely on the performance of an existing dam or a dam under
+construction, as defined in this Policy. The project site and its functional linkages (connection to the power grid,
+water supply) as well as the investments under the Project do not include any dams or impoundments.
+
+Social: Indigenous Peoples (OP 4.10). A Social Assessment (SA) was carried out as part of the ESA process in 2013.
+The closest habitation some 500 m from the site perimeter fence. Villages surrounding the proposed project site
+include two located about 1.5 km from the project site: Than Ban, with 150 households (400 persons);and Kyar Pan
+with 330 households (1,500 persons). A third village, Nyaun Wyne, is located 2 km from the project site, with 252
+households. In addition 120 staff households are located next to the plant. The majority of the inhabitants in the
+three villages are ethnic minorities. In Than Ban, the Keren represent 90% of the population, while there is almost
+an even distribution among Keren (45%) and Pao (40%) in Kyar Pan. In Nyaun Wyne 80% belong to the Keren group.
+
+The Indigenous Peoples policy is triggered because of the presence of Indigenous Peoples within the project’s area
+of influence. The overwhelming majority (over 90 percent) of people in the Project's influence area are Indigenous
+Peoples and, therefore, a separate Indigenous Peoples Plan (IPP) has not been prepared, but relevant elements of
+the policy have been integrated into project design and summarized in the PAD. In line with OP 4.10 requirements,
+this includes continued consultation to be carried out during the project implementation.
+
+Broad community support (BCS) based on a process of free, prior and informed consultation has been documented
+in the 2013 Environment and Social Assessment (ESA) during project preparation and public consultations. The
+affected communities will benefit from significantly reduced noise and pollution in the project area. Also, communal
+facilities, such as schools and hospitals which are connected to the grid, will be provided with more reliable power
+supply. The improved power supply in the region should have indirect benefits including increased economic
+activities and job creation. Access to electricity has been a key concern of households without a grid connection in
+villages nearby the Thaton plant. Following the 2013 ESA, the Bank has provided technical assistance and support to
+the government to prepare sustainable technical options and to determine the cost and implementation
+arrangements, to prepare and accelerate rural electrification down to the village level, across the entire country,
+including Thaton. As part of the ongoing project, the Government developed and adopted a National Electrification
+
+                                                      -8-
+    The World Bank                                                                               RESTRUCTURING ISDS
+    Electric Power Project (P143988)
+
+
+
+Plan with an aim to provide electricity access to all by 2030. IDA funding (CR.57270) of $400 million was provided,
+under the National Electrification Project (NEP), to support the goal of universal access. The national electrification
+work is being implemented by the Government using several funding resources and different agencies. These come
+from Union and Regional Governments' budgets and in some case other funding partners. The project is under
+implementation and helping the Government's efforts to increase access through grid extension, off-grid solar
+home systems and development of mini-grids. As of November 2017, over 147,000 solar home and public systems,
+and eight solar mini-grids serving about 1,500 households, have been installed in States and Regions across
+Myanmar.
+
+Grid extension work will begin in early 2018, with recent finalization of major equipment contracts. The current
+phase of NEP grid extension is financing medium voltage networks and transformers to villages that are close to the
+existing grid. Low voltage connections are then achieved through pooling of resources by village electrification
+organizations. The villages surrounding the Thaton power station have already received grid power. A
+comprehensive social assessment report and stakeholder consultation in the four communities adjacent to the
+Thaton plant, undertaken in September 2016, establishes current levels of electrification (a significant but uneven
+increase from 15 percent at Project appraisal to approximately 60 percent of households as of the survey period).
+As part of NEP’s multi-year, phased roll out, the Bank is also working with the Government on options to support
+vulnerable households most at risk of being left out of the connection process. A Poverty and Social Impact
+Assessment (PSIA) undertaken in 2015 by the Bank explored barriers to household electrification in Myanmar,
+explained the current approach to village supported electrification, and identified those likely to be more vulnerable
+to exclusion from the benefits. NEP followed this up with extensive fieldwork, two extensive consultant guidance
+notes and a workshop in 2016 on inclusive electrification including recommendations for a ‘power to the poor’ style
+support for targeted subsidies or financing for vulnerable households. These proposals are under discussion with
+the Borrower. In this context, the communities near the Thaton plant will receive the same project benefits as all
+others under the NEP grid roll out, and the Bank will encourage the Government to prioritize such support to these
+communities.
+
+OP 4.12 for Involuntary Resettlement, which was not triggered at appraisal, has been triggered by the need to
+acquire land for additional works related to the power plant, which became apparent during project
+implementation. At appraisal, it was assessed that all investments and other project interventions would occur at
+the existing site within its perimeter, with no associated investments such as transmission and distribution network,
+water supply, or road works. No other entity except the existing power plant is currently using the plant site land.
+The existing plant has been in operation since 1975. The due diligence review during Project preparation did not
+identify any legacy issues related to prior land use, and no issues were raised during the consultations. During
+finalization of the contract in 2015, it became apparent that the new plant would require construction of a pipeline
+of about five kilometers in length to supply water from Donthami river to the plant. The need for this water supply
+results from the winning bidder’s design, which requires more water than would otherwise be available at the site.
+As such, the need for this pipeline was not foreseen in the ESIA/ESMP prepared for the project in 2013. Additional
+facilities associated with the pipeline include a new floating water pump in the river, a new pumphouse next to the
+river, and new aboveground electricity distribution lines to follow the route of the pipe from the pumphouse to the
+plant. While the pipeline route uses an existing transmission line right-of-way, it require use of land and remove of
+or damage to farm trees. These activities are now covered by an abbreviated resettlement action plan (ARAP) and
+supplemental environmental management plan (EMP), in accordance with World Bank Operational Policies 4.01
+(Environmental Assessment) and 4.12 (Involuntary Resettlement). The ARAP and EMP have been published by the
+client in country, and by the Bank.
+
+In total, 5 households (comprising 23 people), and 1 military establishment, are affected by the right of way for the
+
+                                                       -9-
+      The World Bank                                                                                RESTRUCTURING ISDS
+      Electric Power Project (P143988)
+
+
+
+  water pipeline, with no structures affected and no physical displacement taking place. In total 70 betel leaf and
+  rubber trees were affected. These have been compensated at replacement value as of March 2017 with a total
+  value of 7,485,000 Myanmar Kyats (MMK) (equivalent to around $5,500 as of 2017).
+
+  The affected households belong to the Keren and Bamar ethnicities. They were consulted individually and
+  collectively during the preparation of the ARAP in a manner that satisfies OP 4.10's free, prior and informed
+  consultation and this has been documented as part of the ARAP. The affected households have provided their
+  support and ascent for the construction of the pipeline and the consultation and compensation processes. The EMP
+  implementation is considered completed as there are no outstanding mitigation measures stemming from the
+  pipeline works. Post construction monitoring, however, is expected to continue until commissioning.
+
+  A culturally appropriate grievance redress mechanism (GRM) has been established in consultation with potentially
+  affected persons to address grievances by the affected communities and to ensure that any project related
+  complaints are promptly addressed, and which includes alternative means to escalate concerns that cannot be
+  addressed at the primary, local level. Information about the GRM has been published by the client in country, and
+  by the Bank.
+
+
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area.
+  No irreversible and long term adverse indirect impacts are anticipated from the project activities. Control measures
+  developed and implemented under the proposed Environmental, Health and Safety Management System will
+  support proper management of waste and wastewater, as well as workers health and safety (including the
+  introduction and routine application of safety working procedures; inspection; training; emergency plan; and
+  personal protection equipment to prevent injuries, hearing damage, etc.).
+
+
+3. Describe any potential alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+  Different power plant sites were considered and reviewed during appraisal, and the Thaton site was chosen based
+  on minimizing environmental and social impacts.
+
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower
+  capacity to plan and implement the measures described.
+  Environmental and social safeguards capacities and regulations in Myanmar are yet to meet international good
+  practice. This applies to screening and reviewing of economic activities and new investments for potential
+  environmental and social adverse impacts as well as regulating, monitoring and enforcing compliance to adequate
+  standards. Technical assistance related to the capacity building for project implementation includes environmental
+  and social safeguards and the implementation of the ESMP at the project site.
+
+  International reputable consultants have supported the client with the preparation of the ESA and ESMP. The ESMP
+  includes environmental monitoring programs for both construction and operation phases.
+
+  Implementation of mitigation measures, including environmental, health and safety obligations during construction,
+  are monitored in accordance with the ESMP. Control and mitigating measures and monitoring tasks of the ESMP
+  related to the new investments during construction are the responsibility of the contractor as part of the Design-
+  Supply-Installation (DSI) contract for these services.
+
+                                                         - 10 -
+        The World Bank                                                                               RESTRUCTURING ISDS
+        Electric Power Project (P143988)
+
+
+
+    A substantial part of the operational measures in the ESMP is being incorporated into the Environmental, Health
+    and Safety Management System and will be the responsibility of the plant management on commissioning of the
+    new facilities. The DSI contractor and safeguards consulting firm will support the development of the
+    Environmental, Health and Safety Management System, which is to be at international certification standard and
+    cover both existing and new facilities. The Project TA Component will also support the development of
+    environment, health and safety system at the site and at the implementing agency to build relevant capacities and
+    support monitoring of ESMP implementation, including beyond project closing, as well as the development and
+    functioning of the Environmental, Health and Safety Management System. Project progress reports furnished by the
+    implementing agency and contractors cover ESMP implementation and related environmental monitoring reports.
+
+
+   5. Identify the key stakeholders and describe the mechanism for consultation and disclosure on safeguard policies,
+    with an emphasis on potentially affected people.
+    The key Project beneficiaries and potentially affected peoples include: the villages in the project influence area; and
+    users of grid electricity as beneficiaries in Mon State and at the national level.
+
+    Project preparation included public consultations, as detailed in the ESA (which includes the SA) along with
+    concerns expressed by the affected people, and how they were taken into account during the project preparation.
+    Following completion of the social assessment, about 50 representatives from government, civil society and local
+    stakeholders participated in a stakeholder workshop in Thaton. For national stakeholders, an NGO meeting took
+    place in Yangon in May 2013. Several government entities were also consulted throughout the project preparation.
+    During the public hearing in Thaton and the NGO meeting in Yangon in May 2013 the Project interventions and the
+    results of the impact analysis of the ESA were presented and discussed. The Executive Summary of the ESA was
+    disclosed in local language to the NGOs and the local stakeholders including the local communities in the Project
+    area in July 2013 and published on the client's website on July 9, 2013. The integrated ESA report was published by
+    the Bank on July 10, 2013.
+
+    During project implementation, public consultations were held in four communities in the vicinity of the power
+    plant (Public Consultation Report May 2017) to raise awareness of the Project works, seek feedback on concerns,
+    and disseminate a community grievance redress mechanism. The consultations identified concerns about potential
+    health and environmental impacts, made recommendations for regular monitoring of relevant indicators, and for
+    the maintenance of multiple communication channels with concerned stakeholders. The Public Consultation Report
+    (along with documentation for the Grievance Redress Mechanism, Abbreviated Resettlement Action Plan and
+    supplement Environmental Management Plan) have been published by the client in country, and by the Bank.
+
+ DISCLOSURE_TABLE
+ B. DISCLOSURE REQUIREMENTS
+ENV_TABLE
+ Environmental Assessment/Audit/Management Plan/Other
+
+Date of receipt by the Bank                                  Date of submission for disclosure
+13-Jun-2013                                                  10-Jul-2013
+For Category ‘A’ projects, date of distributing the Executive Summary of the EA to the Executive Directors
+
+
+
+                                                          - 11 -
+                      The World Bank                                                                              RESTRUCTURING ISDS
+                      Electric Power Project (P143988)
+
+
+
+         “In country�? Disclosure
+
+            Country                                                           Date of Disclosure
+            Myanmar                                                           09-Jul-2013
+            Comments
+
+
+
+
+RESETTLE_TA BLE
+
+
+
+
+Resettlement Action Plan/Framework Policy Process
+
+Date of receipt by the Bank                                              Date of submission for disclosure
+11-Oct-2017                                                               24-Oct-2017
+“In country�? Disclosure
+
+          Country                                                             Date of Disclosure
+          Myanmar                                                             17-Oct-2017
+           Comments
+           http://www.moep.gov.mm/sites/default/files/ARAP%20and%20EMP%20%2811.10.2017%29.pdf
+INDIG ENOUS_TA BLE
+
+
+
+
+Indigenous Peoples Development Plan/Framework
+
+Date of receipt by the Bank                                                   Date of submission for disclosure
+10-Jul-2013                                                                   10-Jul-2013
+“In country�? Disclosure
+
+            Country                                                           Date of Disclosure
+            Myanmar                                                           09-Jul-2013
+            Comments
+            The overwhelming majority (over 90 percent) of people in the Project's influence area are Indigenous Peoples and,
+            therefore, a separate Indigenous Peoples Plan (IPP) has not been prepared, but relevant elements of the policy have
+            been integrated into project design and summarized in the PAD. In line with OP 4.10 requirements, this includes
+            continued consultation to be carried out during the project implementation.
+
+
+        COMPLIANCE_TABLE
+
+                                                                     - 12 -
+         The World Bank                                                           RESTRUCTURING ISDS
+         Electric Power Project (P143988)
+
+
+
+  C.   COMPLIANCE MONITORING INDICATORS AT THE CORPORATE LEVEL
+
+EA_TABLE
+ OP/BP/GP 4.01 - Environment Assessment
+ Does the project require a stand-alone EA (including EMP) report?                Yes
+
+ If yes, then did the Regional Environment Unit or Practice Manager (PM) review
+                                                                                  Yes
+ and approve the EA report?
+
+ Are the cost and the accountabilities for the EMP incorporated in the
+                                                                                  Yes
+ credit/loan?
+
+
+
+ IP_TABLE
+ OP/BP 4.10 - Indigenous Peoples
+ Has a separate Indigenous Peoples Plan/Planning Framework (as appropriate)
+                                                                                  No
+ been prepared in consultation with affected Indigenous Peoples?
+
+
+
+ IR_TABLE
+ OP/BP 4.12 - Involuntary Resettlement
+ Has a resettlement plan/abbreviated plan/policy            framework/process
+                                                                                  Yes
+ framework (as appropriate) been prepared?
+
+ If yes, then did the Regional unit responsible for safeguards or Practice
+                                                                                  Yes
+ Manager review the plan?
+
+ Is physical displacement/relocation expected?                                    No
+
+ Is economic displacement expected? (loss of assets or access to assets that
+                                                                                  Yes
+ leads to loss of income sources or other means of livelihoods)
+
+ Provide estimated number of people to be affected.                               23
+
+
+
+ PDI_TABLE
+ The World Bank Policy on Disclosure of Information
+ Have relevant safeguard policies documents been sent to the World Bank for
+                                                                                  Yes
+ disclosure?
+
+ Have relevant documents been disclosed in-country in a public place in a form
+ and language that are understandable and accessible to project-affected groups   Yes
+ and local NGOs?
+
+
+
+ ALL_TABLE
+ All Safeguard Policies
+
+                                                         - 13 -
+          The World Bank                                                           RESTRUCTURING ISDS
+          Electric Power Project (P143988)
+
+
+
+Have satisfactory calendar, budget and clear institutional responsibilities been
+                                                                                   Yes
+prepared for the implementation of measures related to safeguard policies?
+
+Have costs related to safeguard policy measures been included in the project
+                                                                                   Yes
+cost?
+
+Does the Monitoring and Evaluation system of the project include the
+                                                                                   Yes
+monitoring of safeguard impacts and measures related to safeguard policies?
+
+Have satisfactory implementation arrangements been agreed with the
+borrower and the same been adequately reflected in the project legal               Yes
+documents?
+
+
+
+
+III. APPROVALS
+
+
+    Task Team Leader(s)                      Sunil Kumar Khosla
+
+
+    Approved By
+
+    Safeguards Advisor
+
+    Practice Manager/Manager
+
+.
+
+
+
+
+                                                           - 14 -
+

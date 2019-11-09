@@ -1,0 +1,271 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+CONCEPT STAGE
+Report No.: ISDSC14154
+Date ISDS Prepared/Updated: 23-Jun-2015
+Date ISDS Approved/Disclosed: 29-Jun-2015
+I. BASIC INFORMATION
+A. Basic Project Data
+Country:         Pacific Islands            Project ID:   P152653
+Project Name:    Sustainable Energy Industry Development (P 152653)
+Task Team        Roberto Gabriel Aiello
+Leader(s):
+Estimated                                   Estimated     21-Aug-2015
+Appraisal Date:                             Board Date:
+Managing Unit: GEEDR                        Lending       Investment Project Financing
+Instrument:
+Sector(s):       Other Renewable Energy (75%), General energy sector (25%)
+Theme(s):        Other environment and natural resources management (100%)
+Financing (In USD Million)
+Total Project Cost:       5.87             Total Bank Financing:     0.00
+Financing Gap:            0.00
+Financing Source                                               Amount
+Borrower                                                          0.00
+Strategic Climate Fund Grant                                      1.92
+Energy Sector Management Assistance Program                       3.70
+Global Facility for Disaster Reduction and Recovery               0.25
+Total                                                             5.87
+Environmental B - Partial Assessment
+Category:
+Is this a        No
+Repeater
+project?
+B. Project Objectives
+The project development objective (PDO) is to increase the data availability and capacity in Pacific
+Island power utilities to enhance their ability to incorporate and manage renewable energy
+technologies and long-term disaster risk planning.
+C. Project Description
+
+
+﻿The growth of sustainable energy technologies in the Pacific region has accelerated the need to fill
+gaps in the establishment and adoption of training standards, installation and design guidelines for
+renewable energy systems and the powers for the industry to provide self-regulation during this
+period of rapid growth.
+Successful quality driven and sustainable industries require a skilled workforce and appropriate
+guidelines and standards that the industry applies. Together the Pacific Power Association (PPA) and
+the Sustainable Energy Industry Association of the Pacific Islands (SEIAPI) have identified a suite of
+activities to be implemented over the coming four years to support the creation of an enabling
+environment for renewable energy investments in the Pacific Island Countries (PICs). The proposed
+projects will increase the understanding and willingness of the PICs' utilities to accept renewable
+energy systems through a greater understanding of the expected impacts on grid stability, load
+forecasting as well as to facilitate better knowledge and data sharing. In addition, the project will also
+lead to consistent competencies amongst practitioners in the field through development of standards
+and the creation of certification pathways for practitioners to receive formal recognition of their
+technical training.
+This project has three components:
+*      Component 1: Renewable Energy Resource Mapping Phase 1-3: This component will
+conduct a resource mapping assessment of solar and/or wind capacity across 10 PICs. The objective
+of this component is to enhance awareness and knowledge among governments, utilities and the
+private sector about the resource potential for renewable technologies (solar and/or wind), and
+provide the governments with a spatial planning framework to guide investment in the renewable
+energy sector. These resource maps will (a) provide a detailed assessment for solar and potentially
+also wind and other renewable energy resources in the islands, (b) increase the awareness and
+knowledge of the governments and other energy-sector players on renewable energy potential, (c)
+provide baseline information for potential new public and private sector investments projects and (d)
+serve as input for grid integration studies.
+The abovementioned Phase 1-3 of the resource mapping will be undertaken with support from the
+Energy Sector Management Assistance Program (ESMAP):
+O
+o      Phase 1 - Project inception, preliminary modeling and implementation planning: Project
+inception and stakeholder engagement; preparation of an initial resource estimate at the country level
+based on a mesoscale model using satellite and reanalysis data; preliminary validation using existing
+ground-based data; preparations for the implementation of Phase 2;
+o      Phase 2 - Ground-based data collection: Implementation of a ground-based measurement
+campaign using high quality measurement devices, with real-time data transmission and reporting,
+for the purpose of validating and improving the mesoscale model and generating reliable
+benchmarking data;
+o      Phase 3 - Production of validated wind resource atlas: Prepare validated resource maps and
+Atlas reports that describes the final outputs, methodology and process, and includes provision of the
+final geographic information system (GIS) data.
+The activity will ensure the sharing of knowledge about the current existing information and will
+avoid duplication of data collection. Use of the ESMAP approach will make it possible to continue
+with the next phases (phases 4 and 5) under a different project if additional funds become available
+or if the funds allocated to phases 1-3 allow to cover additional scope in some islands.
+*      Component 2: Technical Assistance: This component will conduct a program of activities
+designed to increase capacity within the utilities in 10 PICs 1 and PNG on planning for and
+management of the integration of variable RE in their systems, data collection and management and
+
+
+﻿knowledge-sharing across jurisdictions. This program of activities is to include:
+*      A grid stability modelling sub-component including: (a) purchase of modelling software and
+tools to support utilities with network expansion planning, variable renewable interconnection studies
+and grid stability and protection coordination studies (building on the work started by IRENA in
+O
+2013/14); and (b) training of PPA staff in the use of the software in order to support utilities through
+the conduction of independent grid stability studies.
+A power benchmarking sub-component including: (a) development of an online Power
+Benchmarking data submission tool to support PPA's coordination of the annual Power
+Benchmarking Report with input from member utilities; and (b) training of PPA staff in the use of
+the tool in order to support utilities with their independent data collection/entry using the tool
+*      An industry guidelines and competency standards sub-component including: (a) Hiring of a
+consultant to develop solar and wind grid codes in order to establish the minimum interconnection
+standards for renewable energy systems, and (b) development of industry guidelines (design,
+installation, operations and maintenance) and competency standards to support certified technical
+training in RE technologies.
+*      A training/ workshop sub-component for PPA members including: (a) support for training
+courses in a range of demand-driven RE technologies, industry guidelines, standards and other
+relevant industry issues in each PIC (thus reducing the cost of bringing people from multiple PICs to
+a single location and reaching more staff within utilities, system planning (including energy
+efficiency considerations) and demand-side management; (b) support for the PPA to undertake an
+online training needs assessment among its members to identify training and skills-enhancement
+needs at the individual utility level to then draw common issues/themes for multi-utility staff training
+sessions; and (c) support for the PPA's management of workshops focused on developing utilities'
+understanding of frameworks for private sector involvement in the energy sector (links with IFC's
+P600131 Pacific RE Gen focused on developing business models for private sector engagement in
+the energy sector).
+*      A career development sub-component for the PPA to hire a consultant who would assist with
+the development of career development initiatives aimed at attracting and retaining talented staff
+within utilities (e.g., staff development and training, performance incentives etc.). The PPA will also
+join PIC university career fairs to encourage both female and male high school students to study
+engineering and other energy-related majors at universities and will provide internship opportunities
+for them.
+ *    A disaster-recovery and risk-reduction subcomponent that supports PIC power utilities'
+o       efforts to improve their preparedness for responding to natural hazards/climate shocks and to reduce
+economic losses when disasters occur. This component will include the provision of advisory
+services to the utilities on the planning and prioritization of investments in resilience in the power
+sector, as well as an emergency response window to assist utilities with post-disaster needs
+assessment reports. Risk-reduction/adaptation measures will include engineering (e.g., designing
+more robust design specifications; relocating or retrofitting extremely vulnerable existing
+infrastructure; designing new systems better able to capture the energy of increased wind speeds,
+flood protection, underground distribution for protection against wind, high temperatures, corrosion,
+and flooding), and non-engineering options (more robust operational and maintenance procedures,
+improved and better-coordinated land-use planning; for example, rezoning land use so that future
+power infrastructure is located in less vulnerable areas).
+This component will complement Component 1 by providing training and workshops to power sector
+utility staff on technical skills related to renewable energy integration so that they can better use the
+information that is obtained through the resource mapping component.
+
+
+﻿*      Component 3: Project Implementation Support. This component will conduct a program of
+activities designed to enhance the PPA's capacity for overall project coordination, management and
+monitoring. These activities include coordination, administration, technical operation, procurement,
+financial management, environmental and social management, monitoring, evaluation and reporting.
+O
+U       The project's incremental operating costs will also be financed through this component. This
+program of activities will include:
+A project management support sub-component including: (a) hiring of a full-time project
+implementation support officer to support the PPA throughout project implementation; (b) hiring of a
+part-time procurement support officer to assist with procurement processes throughout project
+implementation; (c) provision of technical assistance to support mainstreaming of safeguards and
+gender dimensions in the Project; (d) purchase of video conferencing equipment to support enhanced
+interaction and training support between the PPA and utilities; (e) support for the PPA to organize
+training courses and workshops on RE technologies and key issues facing utilities; and (f) support for
+PPA to update its website to facilitate links to the resource mapping online tool, online grid stability
+software, online benchmarking tool and other resources generated throughout project
+implementation.
+*      An incremental operating costs sub-component.
+D. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+Component 1 (Phases 2of the ESMAP process) comprises the temporary installation of wind
+monitoring masts and solar monitoring equipment, but the proposed locations will not be known until
+the desk-based research under Phase 1 has been completed. They may be located in 10 of the 11
+countries. The installation of ground based measurement equipment under Phase 2 of the project is
+expected to be on Government land but this may not always be the case (for example wind
+monitoring will depend on the location of the wind resource). Custom or community land may be
+required temporarily. The Environmental and Social Management Framework (ESMF) will be used
+to inform site selection and the mitigation measures required at each site. Sensitive sites, such as
+physical cultural resources, nests or productive gardens, can be avoided through the use of the ESMF
+o       in the site selection process.
+The ESMF will also include methods to identify and minimize impacts during installation, use and
+decommissioning, and will include voluntary land donation protocols and consultation methods.
+Potential impacts to be managed are: 1) minimizing vegetation clearance for mast installation and
+associated track clearances; 2) ensuring land access is secured (as discussed in Section E above); 3)
+avoiding nests, gardens, houses, sites of significance to local people and other physical cultural
+resources etc.; and 4) ensuring affected parties are consulted and are fully informed of the activity.
+Technical Assistance activities under Components 1 and 2 will produce outputs, such as resource
+maps and training materials, that will influence infrastructure planning and decision making in these
+countries in future (not funded by this project). Technical Assistance will be guided by ToRs
+approved by the Bank which will ensure safeguard issues are adequate addressed in activities.
+E. Borrowers Institutional Capacity for Safeguard Policies
+The PPA will be responsible for the implementation of the ESMF, preparing TOR's for consultants
+that include safeguards clauses, and reviewing the consultants' outputs in relation to the TORs and
+the ESMF. PPA has five staff, none of whom have safeguards experience or skills in environmental
+or social impact assessment. Therefore, one of the consultants selected to support PPA under
+Component 3 will require experience in donor safeguards to undertake this role.
+
+
+﻿The ESMAP consultants engaged under Component 1 will be required to develop the ground
+monitoring program in accordance with the ESMF, and will be required to use the site selection
+checklists and the guidelines in the ESMF for installing, maintaining and removing the equipment.
+O
+U       The task team safeguards specialists will provide further training and support to PPA during
+implementation.
+The World Bank task team will conduct training and awareness on safeguards relevant to the project
+and the proposed instruments, and supervise the site screening processes.
+F. Environmental and Social Safeguards Specialists on the Team
+Penelope Ruth Ferguson (GENDR)
+Ross James Butler (GSURR)
+II. SAFEGUARD POLICIES THAT MIGHT APPLY
+Safeguard Policies          Triggered? Explanation (Optional)
+Environmental Assessment    Yes         Screening has identified low risk of environmental
+OP/BP 4.01                              and social impact, from the installation of wind
+monitoring masts and solar monitoring equipment
+and the indirect implementation of recommendations
+from Component 1 desk-based research. An ESMF
+will be prepared that will include guidelines and a
+screening checklist to avoid or manage impacts from
+the siting of the equipment. PPA will ensure that all
+terms of reference for technical assistance and
+studies carried out under the Project are consistent
+with the WB's environmental and social safeguards
+policies and requirements.
+Natural Habitats OP/BP 4.04  No         The footprint of the infrastructure is very small and
+through the desk top study any natural habitats can
+be avoided in Component 1.
+Forests OP/BP 4.36         No           The footprint of the equipment required in
+a                                               Component 1 is very small and will not adversely
+affect forested areas or the use of forests.
+Pest Management OP 4.09    No           There is no pest management under this project.
+Physical Cultural Resources  Yes        The footprint of the equipment required for
+OP/BP 4.11                              Component 1 is very small and physical cultural
+resources can be avoided. Physical cultural resources
+will be screened as part of site selection, hence the
+policy is triggered.
+Indigenous Peoples OP/BP    Yes         Because the project will apply to a number of
+4.10                                    Countries where Indigenous Peoples reside and have
+strong relationships with land, OP/BP 4.10 is
+proposed to be triggered. For the Component 1 land
+requirements, it is expected that Government land
+
+
+﻿will generally be available, and use of this land will
+be prioritized, but this may not always be possible.
+Land acquisition will not be required, but there will
+be some temporary use of land and this will require
+either voluntary land donation or temporary land
+lease or similar arrangement; some of this land may
+be in areas used/inhabited/owned by indigenous
+communities.
+Involuntary Resettlement OP/  Yes         Under Component 1 there will be temporary use of
+BP 4.12                                   land for wind monitoring masts and solar monitoring
+equipment. Government land will be prioritized, but
+if community or custom land is required, a process
+for consultation and access agreements is required
+and this will form part of the safeguards
+documentation as described under 4.01.
+PPA will ensure that all terms of reference for any
+technical assistance or studies carried out under the
+Project are consistent with the requirements of this
+policy.
+Safety of Dams OP/BP 4.37    No           This project does not involve the construction of
+dams or rely on the performance of an existing dam
+or a dam under construction.
+Projects on International    No           No studies or activities are proposed international
+Waterways OP/BP 7.50                      waters.
+Projects in Disputed Areas OP/ No         No studies or activities are proposed in disputed
+BP 7.60                                   areas.
+III. SAFEGUARD PREPARATION PLAN
+A. Tentative target date for preparing the PAD Stage ISDS: 01-Jul-2015
+B. Time frame for launching and completing the safeguard-related studies that may be needed.
+The specific studies and their timingi should be specified in the PAD-stage ISDS:
+The ESMF will be drafted by the end of June 2015, and key stakeholders will be consulted, prior
+to appraisal.
+IV. APPROVALS
+Task Team Leader(s): Name: Roberto Gabriel Aiello
+Approved By:
+Safeguards Advisor:    Name: Peter Leonard (SA)                        Date: 26-Jun-2015
+Practice Manager/      Name: Julia M. Fraser (PMGR)                    Date: 29-Jun-2015
+Manager:
+1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+form and language that are accessible to potentially affected persons.
+
+

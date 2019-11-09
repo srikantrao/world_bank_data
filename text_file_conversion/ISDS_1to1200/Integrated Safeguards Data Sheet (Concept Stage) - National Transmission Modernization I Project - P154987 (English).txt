@@ -1,0 +1,359 @@
+                                           INTEGRATED SAFEGUARDS DATA SHEET
+                                                    CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                            Report No.: ISDSC16748
+
+                         Date ISDS Prepared/Updated: 22-Mar-2016
+                         Date ISDS Approved/Disclosed: 31-Mar-2016
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:           Pakistan                         Project ID:      P154987
+                            Project Name:      National Transmission Modernization I Project (P154987)
+                            Task Team          Anh Nguyet Pham,Anjum Ahmad
+                            Leader(s):
+                            Estimated          10-Oct-2016                      Estimated        15-Mar-2017
+                            Appraisal Date:                                     Board Date:
+                            Managing Unit:     GEE06                            Lending          Investment Project Financing
+                                                                                Instrument:
+                            Sector(s):         Transmission and Distribution of Electricity (100%)
+                            Theme(s):          Infrastructure services for private sector development (90%), Other public sector
+                                               governance (10%)
+                            Financing (In USD Million)
+                            Total Project Cost:    493.00                     Total Bank Financing:        425.00
+Public Disclosure Copy
+
+
+
+
+                            Financing Gap:           0.00
+                              Financing Source                                                            Amount
+                              Borrower                                                                      68.00
+                              International Bank for Reconstruction and Development                        425.00
+                              Total                                                                        493.00
+                            Environmental B - Partial Assessment
+                            Category:
+                            Is this a          No
+                            Repeater
+                            project?
+
+                           B. Project Objectives
+                           The proposed Project Development Objective (PDO) is to increase the availability, reliability and
+                           efficiency of selected segments of the national transmission system in Pakistan.
+                           C. Project Description
+                           1. The proposed project would invest in high-priority transmission infrastructure, information
+                           communication technology (ICT) and technical assistance (TA). Infrastructure investments would be
+                         either transmission lines, transmission substations or a combination of the two. The project will
+                         create new assets or rehabilitate existing parts of the system. The subprojects would be selected
+                         based on system planning conducted by NTDC that identifies the highest priority improvements. The
+Public Disclosure Copy
+
+
+
+
+                         ICT investment would support better corporate and operations management, while the TA would
+                         enable NTDC to implement the project. The project is envisaged to consist of three components as
+                         described below.
+
+                         -        Component A: Upgrading and Expanding of the Transmission Network (estimated cost $448
+                         million, of which $380 million IBRD loan and $68 million NTDC counterpart funds). The
+                         component would include (a) upgrading, expanding and rehabilitating of selected existing 500 and
+                         220 kV power substations and associated lines; and (b) constructing of new 500 and 220 kV
+                         substations and transmission lines. If NTDC decides to start operating at 765kV, currently under
+                         consideration, subprojects at that voltage will also be eligible.
+                         -        Component B: Deployment of Enterprise Resource Planning (ERP) for NTDC (estimated
+                         cost $25 million, all IBRD loan). The component includes implementation of the information and
+                         communication (ICT) infrastructure modernization phase for NTDC, followed by development and
+                         deployment of an ERP system aimed at strengthening the company’s management capabilities
+                         through the use of an integrated ICT system to facilitate its financial, human resources management,
+                         inventory and asset management, and metering data management. The component includes the
+                         procurement of software licenses, hardware and consulting services for implementation support,
+                         change management and ICT capacity building and strategic sourcing to ensure the sustainability of
+                         the ERP system.
+                         -        Component C: Project Management, Technical Assistance, and Capacity Building (estimated
+                         cost $20 million, all IBRD loan). The component includes (a) a project implementation support
+                         consultant; and (b) capacity building program for NTDC to plan, invest and operate the upgraded
+                         national transmission grid.
+
+                         2. Detailed cost estimates for each component and financing arrangement will be finalized during
+                         project preparation.
+Public Disclosure Copy
+
+
+
+
+                         3. Component A is based on a framework approach to allow flexibility. The proposed subprojects
+                         will be prepared and implemented in two groups. Group I includes all the subprojects that are given
+                         highest priority, have completed feasibility studies and required safeguards documentation.
+                         Subprojects in Group I will be appraised during preparation and the bidding documents for goods
+                         and works will be ready by the time of negotiations. Group II consists of the remaining potential
+                         subprojects the need of which are identified in the NTDC Least Cost Development Plan (LCDP) but
+                         not the exact locations and details. Each proposal for a subproject brought forward for financing
+                         includes the feasibility study, economic analysis, safeguards plans, prepared in accordance with the
+                         Project’s safeguards frameworks. Financing for each subproject will be made available when the
+                         proposal complies with the eligibility criteria, on first come first approved basis until all funds
+                         allocated to the component has been committed. This will ensure flexibility, allowing the use of cost
+                         savings or shifting of funds between subprojects and creating incentive for timely implementation.
+
+                         4. Subprojects under Group II are preliminarily identified with NTDC but subject to change and
+                         require more precise identification and definition. Changing priorities mean that some subprojects
+                         may be dropped and others substituted. Precise siting or alignments are not likely to be finalized
+                         during preparation. Subprojects in Group II would be selected based on key parameters or eligibility
+                         criteria. A resettlement policy framework (RPF), and an environment and social management
+                         framework (ESMF) providing guidance for preparation of safeguards plans for subprojects in Group
+                         II will be prepared satisfactory to the Bank, consulted upon with interested stakeholders and
+                         disclosed before appraisal. A sample of Eligibility Criteria for subprojects is provided below; this
+                         would be discussed and finalized during preparation:
+Public Disclosure Copy
+
+
+
+
+                         -        Sub-project is consistent with the LCDP;
+                         -        Sub-project will contribute to the PDO;
+                         -        Technical design of the sub-projects meet Pakistan Technical Standards and feasibility
+                         requirements;
+                         -        Subproject has at least EIRR of 12%, calculated using a methodology acceptable to the
+                         Bank;
+                         -        Subproject safeguard instruments (such as environmental and social impact assessment
+                         (ESIA) and resettlement action plan (RAP)) prepared in accordance with ESMF and RPF satisfactory
+                         to the Bank, consulted upon with stakeholders and disclosed;
+                         -        All necessary clearances/approvals for implementing the sub-project, including
+                         environmental licenses have been given by the relevant Pakistani authorities;
+                         -        Procurement and implementation plans, satisfactory to the Bank have been prepared and
+                         approved.
+
+                         5. Component B will also be sequenced. The first phase will establish a robust ICT infrastructure
+                         across NTDC and a pilot implementation of the ERP system. This will include implementing a robust
+                         corporate data center, a disaster recovery center, Wide Area Network (WAN) and Local Area
+                         Networks (LAN) linking all NTDC corporate facilities and staff nationwide. Phase I will be
+                         appraised by the Bank and has the bidding documents for goods and works ready by the time of
+                         negotiations. The second phase, which focuses on the expansion and rollout of the ERP nationwide
+                         in NTDC, will be prepared during implementation and approved for financing on the basis of
+                         eligibility criteria to be discussed and finalized during the project preparation.
+                         D. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+                         6. The provisional list of subprojects under Component A suggests that subprojects are scattered in
+Public Disclosure Copy
+
+
+
+
+                         various urban, peri- urban and rural areas in Pakistan. Most of subprojects are located in Punjab
+                         Province, while a few subprojects are located in the provinces ofSindh, Khyber Pakhtunkhwa (KP),
+                         Balochistan and in the Islamabad Capital Territory. The majority of the sub stations will be located
+                         near the load centers, which are urban and peri- urban areas. Component B and C are technical
+                         assistance activities which will be carried out within the existing premises of NTDC and can be
+                         considered to have no safeguards impacts.
+
+                         7. In capacity upgrading (augmentation) of existing substations, the key activity is to install
+                         additional new 500/220kV or 220/132 kV power transformers, reactors and associated equipment. In
+                         rehabilitation of existing substations, existing 500 kV or 220 kV transformers and associated
+                         equipment will be replaced with new ones of higher capacity. Rehabilitation also includes conversion
+                         of existing substations with open air insulated switchyard (AIS) to more compact and indoor gas
+                         insulated substations (GIS). This activity does not require land acquisition and will be implemented
+                         within the premises of these substations. Some substations commissioned before 1970s, may contain
+                         polychlorinated biphenyls (PCBs). Safe disposal of replaced equipment will require adequate
+                         mitigation measures to ensure environmental protection and avoiding contamination of natural
+                         resources like water and air. Health, safety and construction related environmental impacts need to be
+                         identified in the EMP and adequately implemented. While most of upgrading subprojects do not
+                         require land acquisition, some subprojects in Group II may require limited additional pieces of land,
+                         which is normally adjacent to the existing substations.
+                         8. New 500 kV and 220 kV substations typically have two to four power transformers and associated
+                         equipment at 500, 220 and 130 kV, a control room and ancillary equipment.
+Public Disclosure Copy
+
+
+
+
+                         The key components in 500 and 220 kV power substation are; (i) switchyard bay, (ii) control
+                         building, (iii) residential houses for staff with water supply and sanitation facilities (iv) fencing and
+                         landscaping, and (v) short access road. Typically a new substation requires short transmission lines
+                         connecting it to the existing transmission network. A new substation requires an enclosed, leveled
+                         site free of any vegetation or human habitation (except for substation operators), typically 50-60
+                         acres for a 500 kV substation and 30-40 acres for a 220 kV substation. 750/500/220 kV Islamabad
+                         West Substation requires about 150 acres. New substations may also require additional permanent
+                         and temporary land acquisition for 500 or 220 kV transmission connections or upgrading or new
+                         existing access roads. New subproject sites can be, and normally are, selected flexibly within a
+                         certain area to minimize the scale of such structures and impacts on environment or land acquisition.
+                         ESIA for each subproject will ensure that adequate environmental management programs are
+                         developed and implemented.
+
+                         9. Site visits and screening undertaken by the task team for Group I subprojects has determined that
+                         no natural, or critical habitats, including forests, will be impacted. However, as NTDC can update,
+                         replace or propose new subprojects in the second group, these subprojects may be located in areas
+                         that have impacts on natural habitats or forest. During preparation, these potentials will be identified
+                         and sufficient mitigation measures will be included in the ESMF. Most project activities will take
+                         place at the existing sites of the substations or in the vicinity of the existing substations. There is
+                         flexibility in the location of new substations and lines. Therefore, impacts on Cultural Resources can
+                         be avoided or minimized in design. The ESMF will provide a process for screening out projects with
+                         significant impacts, or incorporating a PCR management plan into the EMP or ESIA for minor
+                         impacts. All EMPs will contain a chance find procedure.
+
+                         10. No ne of potential subprojects of Group I are located in areas where indigenous communities
+                         live. However, new subprojects in the second group may pass through or be located in the areas
+Public Disclosure Copy
+
+
+
+
+                         home to indigenous people (IP). The preparation will clarify potential impacts on IP and an
+                         Indigenous Policy Framework will be prepared if the policy is triggered.
+
+                         10. Each subproject in Group II will be evaluated against the project safeguard checklist in the
+                         ESMF. No subproject will be approved for funding, if any of the following could occur:
+                         •       significant degradation or conversion of natural habitats and/or forests in protected areas,
+                         proposed protected areas or areas that are considered of special ecological significance.
+                         •       temporary or permanent relocation or any other type of impact on physical cultural resources
+                         known to be of local, regional or national significance based on national or Provincial lists, proposed
+                         national or Provincial lists and/or identified during public consultation with local affected groups.
+                         •       any physical cultural resources considered especially important or sensitive particularly to
+                         local groups (e.g. gravesites) are located on the site.
+                         •       temporary or permanent reduction or degradation to the ecosystem function of, or resources
+                         within, a production, conservation or multiple use forest.
+                         E. Borrowers Institutional Capacity for Safeguard Policies
+                         11. NTDC will be the implementing agency for the Project. Currently, NTDC is working with the
+                         Bank under the on-going CASA-1000 project and the transmission line to evacuate Dasu HPP, for
+                         which a project management unit (PMU) was established and is functioning with support of
+                         international consultants. Experience of NTDC investment projects with ADB and JICA in recent
+                           years shows evidences of weak institutional capacity, procurement and financial management
+                           challenges and delay in project completion.
+Public Disclosure Copy
+
+
+
+
+                           12. A dedicated PMU headed by a Project Director will be established. It will be responsible for
+                           project preparation and implementation. The PMU would be built on the existing PMU for the
+                           transmission connection for Dasu HPP as a single PMU for all WB loans to NTDC. It would be
+                           provided with adequate technical, procurement, financial management, environmental and social
+                           staff. The PMU would coordinate with various departments of NTDC but would work independently
+                           in design and implementation of the project.
+
+                           13, NTDC has a designated Environment and Social Impact Cell (E&SIC) which is responsible for
+                           environmental and social assessment and monitoring on behalf of the organization. The E&SIC
+                           oversees preparation of environmental assessments, land acquisition plans, liaises with the relevant
+                           EPA’s and manages NTDC’s E&S legal compliance.
+
+                           14. Project Implementation Support consultant with adequate experience in environment and social
+                           safeguards is being recruited to support NTDC during construction and to prepare subprojects for
+                           Group II.
+                           F. Environmental and Social Safeguards Specialists on the Team
+                           Javaid Afzal (GENDR)
+                           Salma Omar (GSU06)
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+                           Safeguard Policies               Triggered? Explanation (Optional)
+                           Environmental Assessment         Yes            The proposed project will help in augmenting/
+                           OP/BP 4.01                                      rehabilitating select transmission lines throughout the
+                                                                           country and upgrade/construct new substations
+Public Disclosure Copy
+
+
+
+
+                                                                           through NTDC’s prioritized investments. These
+                                                                           activities may have temporary, reversible and short
+                                                                           to medium term environmental impacts and can be
+                                                                           adequately mitigated through a well-planned
+                                                                           environmental management and mitigation plans.
+                                                                           Based on the proposed activities and likely
+                                                                           environmental impacts, which are generally
+                                                                           construction related, the project has been rated as
+                                                                           category B.
+                                                                           For appraisal, ESIA and EMP will be prepared for
+                                                                           known sites and an ESMF will be prepared to guide
+                                                                           Group II subprojects during project implementation.
+                           Natural Habitats OP/BP 4.04      TBD            No subproject under Group I impacts or passes
+                                                                           through any natural or critical habitat. Some of the
+                                                                           new transmission lines in Group II may pass through
+                                                                           natural or critical habitat. This will be screened
+                                                                           during preparation and if there is a potential for
+                                                                           natural habitats to be affected, then the policy will be
+                                                                           triggered and the ESMF will include screening
+                                                                                                                        checklists and suitable mitigation methods. Projects
+                                                                                                                        with significant potential impacts can be screened
+                                                                                                                        out.
+Public Disclosure Copy
+
+
+
+
+                                 Forests OP/BP 4.36                                          TBD                        No subproject under Group I impacts or passes
+                                                                                                                        through forests. Some of the new transmission lines
+                                                                                                                        in Group II may pass through forests. This will be
+                                                                                                                        screened during preparation and if there is a potential
+                                                                                                                        that forests will be adversely impacted, then the
+                                                                                                                        policy will be triggered and the ESMF will include
+                                                                                                                        screening checklists and suitable mitigation methods.
+                                                                                                                        Projects with significant potential impacts can be
+                                                                                                                        screened out.
+                                 Pest Management OP 4.09                                     No                         NNTDC does not use chemicals or pesticides for
+                                                                                                                        vegetation removal or land clearing under the
+                                                                                                                        transmission lines.
+                                 Physical Cultural Resources                                 Yes                        Because project activities will take place at the
+                                 OP/BP 4.11                                                                             existing sites of the substations, there will be no
+                                                                                                                        impacts on Physical Cultural Resources from Group
+                                                                                                                        I subprojects. There is flexibility in the location of
+                                                                                                                        new substations and lines. Therefore, impacts on
+                                                                                                                        Cultural Resources can be avoided or minimised in
+                                                                                                                        design for new subprojects under Group II. The
+                                                                                                                        ESMF will provide a process for screening out
+                                                                                                                        projects with significant impacts, or incorporating a
+                                                                                                                        PCR management plan into the EMP or ESIA for
+                                                                                                                        minor impacts. All EMP will contain a chance find
+                                                                                                                        procedure.
+Public Disclosure Copy
+
+
+
+
+                                 Indigenous Peoples OP/BP                                    TBD                        No subprojects in Group I are located in areas where
+                                 4.10                                                                                   IP live. Screening of subprojects of Group II will
+                                                                                                                        confirm the likely impacts on IP. If there is the
+                                                                                                                        potential that IP could be adversely affected the
+                                                                                                                        policy will be triggered and an Indigenous People’s
+                                                                                                                        Framework will be prepared for appraisal.
+                                 Involuntary Resettlement OP/                                Yes                        Subprojects involving new substations will have low-
+                                 BP 4.12                                                                                intensity impacts involving some temporary or
+                                                                                                                        permanent loss of land to substations, transmission
+                                                                                                                        tower foundations, and line stringing.
+                                 Safety of Dams OP/BP 4.37                                   No                         The project does not involve any works in, on, or
+                                                                                                                        around any dam so this policy is not triggered.
+                                 Projects on International                                   No                         The project does not involve any works on any of the
+                                 Waterways OP/BP 7.50                                                                   river/international waterways as defined in the Bank
+                                                                                                                        policy.
+                                 Projects in Disputed Areas OP/ No                                                      The project is not located in disputed areas as
+                                 BP 7.60                                                                                defined in the Bank’s policy.
+
+                         III. SAFEGUARD PREPARATION PLAN
+
+
+
+                         1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+                          form and language that are accessible to potentially affected persons.
+                           A. Tentative target date for preparing the PAD Stage ISDS: 17-Jun-2016
+                           B. Time frame for launching and completing the safeguard-related studies that may be needed.
+                              The specific studies and their timing1 should be specified in the PAD-stage ISDS:
+Public Disclosure Copy
+
+
+
+
+                             Environmental and Social Impact Assessment and Environment Management Plans for Group I
+                             subprojects: March --April 2016
+                             Environment and Social Management Framework: March-April 2016
+                             Resettlement Planning Framework: March-April 2016
+                             Indigenous People’s Framework (if required): March-April 2016
+                         IV. APPROVALS
+                           Task Team Leader(s): Name: Anh Nguyet Pham,Anjum Ahmad
+                           Approved By:
+                           Safeguards Advisor: Name: Maged Mahmoud Hamed (SA)                      Date: 23-Mar-2016
+                           Practice Manager/    Name: Julia Bucknall (PMGR)                        Date: 31-Mar-2016
+                           Manager:
+Public Disclosure Copy
+

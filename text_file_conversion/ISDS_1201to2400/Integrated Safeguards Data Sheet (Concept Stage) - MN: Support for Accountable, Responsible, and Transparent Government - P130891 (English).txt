@@ -1,0 +1,231 @@
+                                           INTEGRATED SAFEGUARDS DATA SHEET
+                                                    CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                             Report No.: ISDSC1610
+
+                         Date ISDS Prepared/Updated: 01-Oct-2013
+                         Date ISDS Approved/Disclosed: 27-Dec-2013
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:           Mongolia                        Project ID:      P130891
+                            Project Name:      MN: Support for Accountable, Responsible, and Transparent Government
+                                               (P130891)
+                            Task Team          Tenzin Dolma Norbhu
+                            Leader:
+                            Estimated       03-Oct-2013                        Estimated        20-Mar-2014
+                            Appraisal Date:                                    Board Date:
+                            Managing Unit: TWICT                               Lending          Investment Project Financing
+                                                                               Instrument:
+                            Sector(s):         Public administration- Information and communications (70%), General
+                                               information and communications sector (30%)
+                            Theme(s):          e-Government (80%), Other accountability/anti-corruption (10%), Regulation
+                                               and competition policy (10%)
+                            Financing (In USD Million)
+Public Disclosure Copy
+
+
+
+
+                            Total Project Cost:     20.00                    Total Bank Financing:         19.40
+                            Financing Gap:           0.00
+                              Financing Source                                                           Amount
+                              BORROWER/RECIPIENT                                                           0.60
+                              International Development Association (IDA)                                 19.40
+                              Total                                                                       20.00
+                            Environmental C - Not Required
+                            Category:
+                            Is this a          No
+                            Repeater
+                            project?
+
+                           B. Project Objectives
+                           19.     The development objective of the project is to support Mongolia to improve accountability,
+                           responsiveness, and transparency of public service delivery by engaging citizens and businesses
+                           through participatory channels, including open data and ICT.
+                           C. Project Description
+                         Component 1: Enhance civic engagement and citizen feedback mechanisms (US$4.4 million) will
+                         provide investment support for the expansion and improvement of the Government’s citizen call
+                         centers. This will enable citizens to collaborate with government in policy and service design and
+Public Disclosure Copy
+
+
+
+
+                         will make public sector data available to the wider public. It will also enable government to get
+                         citizen’s views on their satisfaction with government programs, services and regulation to inform
+                         government on improving service delivery. Specifically, the component will consist of:
+
+                         (a) Investment and technical assistance support to improve, expand and scale up the Government’s
+                         “11-11” center, and Ulaanbaatar City’s 1200, 1234 and smart city initiatives. IT infrastructure and
+                         services, including computing hardware and packaged software and content will be procured (US
+                         $2.4 million).
+
+                         (b) Capacity building and technical assistance support to government to use business analytics on
+                         information from the call centers to help government gain a deeper performance insight and ensure
+                         that services meet citizen needs, to ensure effective use and management of government resources.
+                         This component will also support the development of an institutional mechanism so that one
+                         organization can service both Ulaanbaatar City and the Federal Government with the business
+                         analytics function in a sustainable way. Capacity building will include training workshops, learning
+                         events and master classes, conference participation and study tours (US$2.0 million).
+
+                         Component 2: Enabling Foundations for SMART Government (US$8 million) will provide
+                         investment and technical assistance to the Government to establish shared infrastructure and services
+                         that can be used by all government agencies to improve service delivery. Specifically, the
+                         component will consist of:
+
+                         (a)      Investment and technical assistance to design, develop, deploy and use national enterprise
+                         architecture (NEA) and interoperability (e-GIF) for better strategies, processes, plans, structures,
+                         technologies and systems across the government. At present, NEA and e-GIF do not exist. The
+Public Disclosure Copy
+
+
+
+
+                         NEA and interoperability framework will be used to better tailor information systems for government
+                         agencies to achieve key Government objectives and outcomes and achieve increased data sharing,
+                         better asset management, reduced risk and lower costs of IT procurement. This will consist of the
+                         procurement of limited IT equipment and a single consulting contract (US$1.0 million).
+
+                         (b)      Investment support to upgrade the National Data Center and transition it into a national data
+                         exchange and cloud computing infrastructure for the Government. This infrastructure will be used to
+                         establish it as a shared service delivery platform to facilitate the rapid deployment of government
+                         applications that can be delivered on the mobile platform, at a low cost for use by various ministries,
+                         agencies, and programs. The service delivery platform will support the delivery of voice and data
+                         services and content to the largest number of potential users across Mongolia. This will involve the
+                         procurement of IT infrastructure (systems and services) (US$3.5 million).
+
+                         (c)      Investment support to establish an Innovation Support Fund. The fund will finance an
+                         innovation grants program as a mechanism to quickly identify, test, and deploy simple mobile
+                         applications and open data applications in support of specific government objectives in priority
+                         sectors. The program will take the form of a grants competition that will fund the most innovative
+                         tools that address specific development ‘innovation challenges’ in priority areas identified by various
+                         ministries and agencies of the Government. In doing so, this program will both help mainstream
+                         applications across the Government while also creating opportunities to involve private sector firms
+                         in the development and provision of applications. The applications will be developed to respond to
+                         demand from citizen demands that are captured by the citizen engagement platforms. This
+                         subcomponent will be managed by the existing office of the Director General for Innovations in the
+Public Disclosure Copy
+
+
+
+
+                         Information Technology, Post and Telecommunications Authority (ITPTA). An operations manual
+                         for the Innovation Support Program will be drafted during project preparation and will guide the
+                         implementation of the subcomponent. In order to ensure that the program is well designed, an initial
+                         pilot will be conducted focusing on one specific area where critical mass for open data and mobile
+                         applications exist. This will enable the ITPTA to assess the validity of the program, prior to full scale
+                         up (US$2.5 million).
+
+                         (d) Capacity development support to the ITPTA to strengthen its ability to support various
+                         government agencies on ICT initiatives. This includes building capacity through workshops and
+                         training events, so that the ITPTA and its aligned agency, the National IT Park can better function as
+                         an eGovernment resource center to support other line agencies on the design and development of
+                         specifications for systems and solutions, contract management, quality assurance and testing among
+                         others (US$1.0 million)
+
+                         Component 3: Component 3: Enabling Open Data (US$6 million) will provide investment and
+                         technical assistance support to the Government of Mongolia (Office of the Cabinet Secretary,
+                         National Statistics Office, and other line agencies) to improve the quality and increase the quantity of
+                         data released as open data. Specifically, support will be provided for:
+
+                         (a)      Developing capacity to: (i) prioritize datasets that need to be opened, through a multi-
+                         stakeholder public consultation, and demand assessment process and to provide better data that
+                         matches citizens’ interests on a sustainable basis, (ii)identify the legal, institutional and technical
+                         constraints to open data initiatives at the national, sub national and sector levels. This will include
+                         training, workshops, conferences, peering arrangements with other open data offices and study visits
+                         over a five-year period. This component will also provide technical assistance to the Office of the
+                         Cabinet Secretariat to implement a national open data initiative, to the UB municipal government in
+Public Disclosure Copy
+
+
+
+
+                         particular, and to government agencies in general, to enable them to open their data. (US$1.0 million)
+
+                         (b)       Investment support to implement the statistics production system at the NSO. The NSO,
+                         through the Mongolia Statistics Support project has developed a detailed IT plan for NSO. The
+                         project will support the implementation of this right-sized, rationalized IT plan, focusing on ensuring
+                         that it enables NSO to produce quality data. Specifically, IT hardware systems and services will be
+                         procured as a single package (US$5.0 million).
+
+                         Project Implementation Support (US$1.0 million) will establish the Project Implementation Unit.
+                         Project funds will be used to hire the Project Director, a Financial Management Specialist,
+                         Procurement Specialist, and other required support staff including translators, communications
+                         specialists, M&E officer. Funds will also be used to procure required infrastructure and services to
+                         support the functioning of the PIU as needed, including office equipment. Operational costs of the
+                         project will also be met from this allocation. The Government’s in-kind contribution to the project
+                         will include office space and the cost of key technical officers at the Cabinet Secretariat office. The
+                         PIU will be dissolved six months after project closing, with the technical skills for long-term
+                         sustainability of operations developed and residing at the line agencies.
+                         D. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+                               The project will be located in Ulaanbaatar, Mongolia's capital city. The project will support capacity
+                               building; technical assistance; an innovation fund; investment support in IT systems and statistics
+                               production system. The project will not finance any physical interventions: neither civil works nor
+Public Disclosure Copy
+
+
+
+
+                               resettlement.
+                               E. Borrowers Institutional Capacity for Safeguard Policies
+                               The Office of the Cabinet Secretariat's with support from the Project Implementation Unit, has
+                               satisfactory capacity to monitor the compliance of safeguard policies for this project, given that it is
+                               located in the capital city, and that the project will not finance physical interventions.
+                               F. Environmental and Social Safeguards Specialists on the Team
+                               Chongwu Sun (EASCS)
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+                                 Safeguard Policies                                                Triggered?                    Explanation (Optional)
+                                 Environmental Assessment OP/                                      No
+                                 BP 4.01
+                                 Natural Habitats OP/BP 4.04                                       No
+
+                                 Forests OP/BP 4.36                                                No
+
+                                 Pest Management OP 4.09                                           No
+
+                                 Physical Cultural Resources OP/                                   No
+                                 BP 4.11
+                                 Indigenous Peoples OP/BP 4.10                                     No
+
+                                 Involuntary Resettlement OP/BP                                    No
+                                 4.12
+Public Disclosure Copy
+
+
+
+
+                                 Safety of Dams OP/BP 4.37                                         No
+
+                                 Projects on International        No
+                                 Waterways OP/BP 7.50
+                                 Projects in Disputed Areas OP/BP No
+                                 7.60
+
+                         III. SAFEGUARD PREPARATION PLAN
+                               A. Tentative target date for preparing the PAD Stage ISDS: 15-Oct-2013
+                               B. Time frame for launching and completing the safeguard-related studies that may be needed.
+                                  The specific studies and their timing1 should be specified in the PAD-stage ISDS:
+                                      To be determined.
+                         IV. APPROVALS
+                                 Task Team Leader:                            Name: Tenzin Dolma Norbhu
+
+                                 Approved By:
+
+
+
+
+                         1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+                          form and language that are accessible to potentially affected persons.
+                         Regional Safeguards Name: Peter Leonard (RSA)            Date: 08-Oct-2013
+                         Coordinator:
+                         Sector Manager:     Name: Ramesh Sivapathasundram (SM)   Date: 27-Dec-2013
+Public Disclosure Copy
+Public Disclosure Copy
+

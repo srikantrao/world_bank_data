@@ -1,0 +1,300 @@
+ISDS
+THE WORLD BANK GROUP                                                AWorld Froc of Povorty
+l InfoShop
+'Mc Wodd 8cink
+Report No: AC49
+Integrated Safeguards Data Sheet (Updated)
+Date ISDS Prepared/Updated: 04/30/2003
+Section I - Basic Information
+A. Basic Project Data
+Country: PHILIPP1NES                             Project ID: P066397
+Global Supplemental ID: P072096
+Project: Rural Power Project                     Task Team Leader: Selina Wai Sheung Shum
+Authorized to Appraise Date: January 30, 2003    IBRD Amount ($m): 10.00
+Bank Approval: June 3, 2003                     IDA Amount ($m):
+Global Supplemental Amount ($m): 9.00
+Managing Unit: EASEG                             Sector: Power (50%); Renewable energy (50%)
+Lending Instrument: Adaptable Program Loan (APL)  Theme: Infrastructure services for private sector
+Status: Lending                                 development (P); Rural services and infrastructure
+(P); Environmental policies and institutions (P)
+I.A.2. Project Objectives:
+The objective of the proposed APL is to assist the country in making available affordable and reliable
+electricity services to meet the needs of rural communities in a sustainable manner. However,
+electrification must be viewed as an important component-but by no means the only one-of overall
+rural development efforts. With financing from the Bank and other donors, the government is presently
+carrying out projects to provide other infrastructure (notably roads and water supply), social facilities and
+other rural development support. The APL for the rural power project would complement a range of
+these ongoing and planned efforts for rural development in the country.
+I.A.3. Project Description:
+The project components, which would be demand-driven, would include the following: (a) rural
+electrification subprojects; (b) partial credit guarantee fund; and (c) capacity building.
+I. Rural Electrification Subprojects
+(a) Decentralized Electrification: This will include small scale energy generation and distribution of
+basic electricity services to households, public centers (e.g. schools, health clinics) and productive
+applications. For purposes of testing different business models, these customers would be classified into
+two broad categories: concentrated and dispersed. The least-cost electrification solution for the
+concentrated users is normally a minigrid (or microgrid depending on the number of connections)
+powered by a centralized generation system, usually diesel, hydro and/or biomass power. For the
+dispersed users who are remote from the grid, the least-cost solution is normally individual photovoltaic
+(PV) systems, notably solar home systems (SHS). The first phase APL is intended to support systematic
+
+
+
+2
+ISDS
+piloting of market-based electrification services at a sufficient scale and visibility, and generate needed
+interest and support by the private sector and municipalities.
+Small scale energy generation and minigrids
+The strategy for this subcomponent is to group the target barangays into "market packages" of sufficient
+critical mass for business operations. Depending on the characteristics of each package, one or more
+minigrids may be installed. For example, several barangays could be linked into one minigrid powered by
+a single hydro resource or the barangays could each have their own microgrids powered by small diesels.
+In any case, the business model is for a single entity to be contracted to provide long-term services to all
+customers in the entire package. Consistent with the provisions of the EPIRA, qualified third parties
+would be allowed to provide energy services in the unserved franchise areas of the incumbent ECs. These
+parties could be private rural energy service companies (RESCO), qualified NGOs or local cooperatives
+organized for this specific purpose. An important objective of APLI is to pilot these various types of
+service mechanisms and adopt the most successful ones for the subsequent phases. To the extent
+possible, the priority packages for project support are those that are commercially viable in themselves
+and require only non-financial incentives. It is recognized, however, that many of the offgrid
+communities have very low-income consumers, and that some form of "smart" subsidies may need to be
+provided by the government to enable the subprojects to be implemented. The preinvestment studies for
+two of the market packages have recently been completed. A transaction task force will be established at
+DOE and, with the assistance of transaction advisors, prepare bidding documents and model contract,
+along with marketing activities, including consultations with potential investors, investment
+promotion/road shows.
+Stand-alone Renewable Energy Systems
+For dispersed users that are not feasible to connect to the grids, this subcomponent will make available
+funds for direct purchase various capacities of PV systems through private vendors and NGOs. The solar
+PV subcomponents would include individual solar home systems, community or commercial sector
+applications including battery charging stations, schools, health clinics and other social institutions,
+community water supply, offices, shops, restaurants and other commercial facilities. Recognizing the
+generally low incomes of dispersed users and the still high capital costs of PV systems, the project will
+provide, through GEF and government funds, subsidies to lower the cost to consumers, and financing to
+spread out the payments. The suppliers would offer small PV system options (e.g. 20-60 Wp) sufficient
+to provide basic services to households. Competing vendors would be enticed to do business through
+incentives that include assistance in market development and capacity building, product promotions and
+other risk-reducing activities funded by the GEF grants. These grants would be supplemented with
+government subsidies to bring PV system prices close to the willingness-to-pay levels of consumers.
+Further, to remove the barrier of credit access, this subcomponent would provide a line of credits to
+financial intermediaries (such as rural banks and micro-finance institutions) to enable them to provide
+consumer loans for the PV systems and financing of incremental working for dealers. In addition, as
+elaborated below, GEF funding would support the provision of training in PV financing operations and
+partial credit risk guarantees for the suppliers and users of PV systems.
+(b) EC Grid Subcomponents: This subcomponent of the project will include support for the
+transformation of participating ECs through financially viable investments and other measures aimed at:
+(i) improving power supply system safety, reliability, efficiency and power quality for existing
+customers, through rehabilitation and capacity upgrades of the existing supply system and, in
+pursuance of EPIRA, acquisilion of existing subtransmission assets from the National Transmission
+Corporation (Transco);
+
+
+
+3
+ISDS
+(ii) removing supply system constraints and thus allowing additional customers to be supplied within
+financially viable grid service areas;
+(iii) encouraging institutional development of ECs, through implementation and adoption of efficient
+and effective staff organization structures, adoption of progressive, objective and transparent
+policies for staff hiring and promotions, performance based compensation packages to improve
+productivity and accountability of staff and management; and
+(iv) providing the necessary hardwvare, software, motor vehicles, tools and equipment to improve
+employee productivity, safety and efficiency of customer service provision.
+II. Partial Credit Guarantee Funid
+One of the key barriers for renewable energy development is the lack of medium and longer term
+commercial debt financing, which is in turn attributable to the stringent collateral requirements of the
+commercial banks. This has already been recognized in the UNDP-GEF project for Capacity Building to
+Remove Barriers to Renewable Energy Development (CBRED) in the Philippines, which includes a Loan
+Guarantee Fund, but does not cover solar PV. Under this project, a GEF-financed partial credit risk
+guarantee fund would be established to provide grant funds to financiers of renewable energy technology
+(RET), notably solar PV, to partially cover loan losses incurred in the provision of loans to RET
+purchasers and suppliers. As it is more efficient and effective for the two funds to be consolidated under
+one execution agency and one Project Management Office (PMO) at DOE, UNDP would be the
+implementation agency for the GEF trust fund for this component.
+III. Capacity Building
+(a) Reduction of market barriers to the commercialization of renewable energy technologies
+This component would mainly be financed by GEF to cover the reduction of market barriers to the
+commercialization of RETs suitable for offgrid electrification through a comprehensive range of
+activities to build capacity on RET matters in the various energy agencies (DOE, SPUG, NEA, ERC), the
+financial intermediaries (DBP and other commercial banks, rural banks, microfinance institutions, etc)
+and private participants (solar PV companies, ECs, NGOs, etc); reduce investment risks by more detailed
+characterization of market packages; and develop and operationalize policies on subsidies, tariffs,
+regulation and integration of RETs into the missionary electrification program. Taking into account the
+lessons learned from similar projects in other countries, the technical assistance component to reduce
+market barriers to the commercialization of RETs would be front-loaded during the first phase of APL.
+(b) Non-renewable energy subproject appraisal/supervision
+This component would be financed under the Bank loan to strengthen the capacity of DBP to appraise
+and supervise non-renewable energy subprojects, notably those for EC transformation.
+I.A.4. Project Location: (Geographic location, information about the key environmental and social
+characteristics of the area and population likely to be affected, and proximity to any protected areas, or sites
+or critical natural habitats, or any other culturally or socially sensitive areas.)
+tbd
+B. Clheck Environmental Classification: F (Financial Intermediary Assessment)
+Comments:
+C. Safeguard Policies Triggered
+Policy                                Applicability
+Environmental Assessment (OP/BP/GP 4.01)                   * Yes 0 No
+
+
+
+4
+ISDS
+Natural Habitats (OP/BP/GP 4.04)                         0 Yes * No
+Forestry (OP/GP 4.36)                                    0 Yes * No
+Pest Management (OP 4.09)                                0 Yes * No
+Cultural Property (OPN 11.03)                            0 Yes * No
+Indigenous Peoples (OD 4.20)                             * Yes 0 No
+Involuntary Resettlement (OP/BP 4.12)                    * Yes 0 No
+Safety of Dams (OP/BP 4.37)                              0 Yes * No
+Projects in International Waterways (OP/BP/GP 7.50)      0 Yes * No
+Projects in Disputed Areas (OP/BP/GP 7.60)*              0 Yes 0 No
+*By supporting the proposed project, the Bank does not intend to prejudice the final determination of the parties' claims
+on the disputed areas
+Section II - Key Safeguard Issues and Their Management
+D. Summary of Key Safeguard Issues. Please fill in all relevant questions. If information is not available,
+describe steps to be taken to obtain necessary data
+Il.D.Ia. Describe any safeguard issues and impacts associated with the proposed project. Identify and
+describe any potential large scale, significant and/or irreversible impacts.
+The project will be providing electricity services to rural communities, including using clean,
+renewable energy technologies. The project is compliant with the Bank's safeguard policies and
+the following is a summary of its compliance to each of the policies:
+OP 4.01 -- Environmental Assessment
+An Environmental Assessment is necessary to ensure that the preparation and operation of the
+centralized or individual power generation, transmission and distribution systems will not cause
+any harm, damage or nuisance to any of the end users or the environment.
+The Project's Operational Manual contains a screening procedure for the site selection and
+environmental issues of each component of the pre-grid (freestanding photovoltaic systems) and
+mini-grid (power generation, transmission and distribution facilities) electricity services to
+determine the level and scope of the environmental assessment and management of impacts that
+needs to be accomplished per project.
+The OM provides for procedural and substantive guidelines for the preparation of an Initial
+Environmental Examination (IEE) or a full scale Environmental Impact Statement (EIS) and its
+attendant Environmental Management Plan (EMP). Especially during the construction and
+operation of the facilities, the OM emphasizes the implementation of an Environmental
+Management Plan that would address environmental concerns identified in the environmental
+assessment such as safety and design standards, air pollution control, noise and dust control, and
+protection of the renewable energy sources to be harnessed such the water body which feeds the
+hydropower, and the organic source for the biomass. The OM also prescribes that projects will
+follow local environmental regulations, building codes, land use and zoning plans, and solid
+waste management standards as well as public consultation and the disclosure process.
+
+
+
+5
+ISDS
+OP 4.04 -- Natural Habitats
+The proposed sub-project screening process will be used to ensure that impacts on natural
+habitats are identified and mitigated. Sub-projects which impact critical natural habitats will not
+be eligible for project financing; therefore, no additional action is required at this time.
+OPN 11.03 (being converted to OP 4.11) -- Cultural Property
+It is not anticipated that the sub-projects will adversely affect sites having archeological,
+paleontological, historical, religious, or unique natural values as defined under the OPN. A
+screening mechanism incorporated into the EA will ensure that impacts on such sites are
+identified and mitigated; therefore, no further action is required at this time.
+OD 4.20 (being converted to OP 4.10) -- Indigenous Peoples
+The project is planned to be implemented through a financial intermediary, who would select and
+finance investment proposals on a demand-driven approach. It can only be determerned during
+project implementation the whether the project would affect any indigenous peoples. Therefore a
+programmatic approach has been adopted in line with World Bank policy in this regard. The
+Borrower has developed a "Policy Framework And Procedural Guidelines: Social Safeguard
+Policies" in line with local laws, decrees and World Bank policies on involuntary resettlement
+and indigenous people. This policy framework includes a "Project Policy Framework on
+Indigenous Peoples". This policy framework has been discussed and disseminated within the
+government.
+OP 4.12 -- Involuntary Resettlement
+Similarly, a two-step approach is being followed in compliance with OP 4.12. The Borrower has
+developed a "Policy Framework And Procedural Guidelines: Social Safeguard Policies" in line
+with local laws, decrees and World Bank policy. This policy framework includes a "Policy
+Framework for Land Acquisition, Resettlement and Rehabilitation of Project-Affected Persons".
+This policy framework has been discussed and disseminated within the government.
+BP 17.50 -- Public Disclosure
+The social policy frameworks and environmental guidelines have been posted on the DOE, NEA
+and DBP bulletin boards and distributed to local governments for further disclosure.
+Il.D. I b. Describe any potential cumulative impacts due to application of more than one safeguard policy or
+due to multiple project component.
+see above
+II.D. I c Describe any potential long term impacts due to anticipated future activities in the project area.
+see above
+II.D.2. In light of 1, describe the proposed treatment of alternatives (if required)
+see above
+Il.D.3. Describe arrangement for the borrower to address safeguard issues
+Presinvestment studies will address any actions needed to ensure compliance with the relevant safeguard
+
+
+
+6
+ISDS
+policies
+IL.D.4. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on
+safeguard policies, with an emphasis on potentially affected people.
+The policy note was discussed with the government in October 1999. Since then, written comments have
+been received from the DOE and NEDA which indicated their general agreement with the thrust of the
+recommendations, while cautioning that it may take some time to effectively achieve a paradigm shift
+towards maximization of private sector participation. Separately, supported by the World Bank pilot
+fund to promote participatory activities in the Philippines, a series of broad-based consultations with key
+stakeholders (NGOs/civil society, government and related agencies, key donors) took place in January
+2000. The design and implementation of the proposed project will continue to take into account the
+comments by stakeholders. To facilitate efficiency and effectiveness in project preparation, a
+multi-agency Project Preparation Team (PPT) has been established under the leadership of DOE, and
+comprise the relevant government agencies (e.g. NEA) and proposed borrower of the Bank loan,DBP.
+This has proved to be a good practice in the case of such Bank-financed projects as the LGU Water
+Project.
+Consistent with the Bank's rural electrification policy, it is important to make sure that the targeted
+beneficiaries participate in the project design and are offered choices in the different levels of services
+that are commensurate with their ability to pay. The choices they make must also be based on full and
+accurate information. This would require consumer education. For purposes of identifying self-selected
+barangays for APL support, close consultations with the LGUs and local communities are an integral part
+of the ongoing preinvestment consultancy study.
+E. Safeguards Classification. Category is determined by the highest impact in any policy. Or on basis of
+cumulative impacts from multiple safeguards. Whenever an individual safeguard policy is triggered the
+provisions of that policy apply.
+SI. - Significant, cumulative and/or irreversible impacts; or significant technical and institutional risks
+in management of one or more safeguard areas
+[X] S2. - One or more safeguard policies are triggered, but effects are limited in their impact and are
+technically and institutionally manageable
+[ ] S3. -No safeguard issues
+SF. - Financial intermediary projects, social development funds, community driven development or
+similar projects which require a safeguard framework or programmatic approach to address
+safeguard issues.
+F. Disclosure Requirements
+Environmental Assessment/Analysis/Management Plan:          Expected      Actual
+Date of receipt by the Bank                                6/14/2002      11/16/2002
+Date of "in-country" disclosure                            11/15/2002     1/13/2003
+Date of submission to InfoShop                             12/16/2002     1/13/2003
+Date of distributing the Exec. Summary of the EA to the ED
+(For category A projects)
+Resettlement Action Plan/Framework:                         Expected      Actual
+Date of receipt by the Bank                                6/14/2002      11/16/2002
+Date of "in-country" disclosure                            11/15/2002     1/13/2003
+Date of submission to InfoShop                             12/16/2002     1/13/2003
+
+
+
+7
+ISDS
+Indigenous Peoples Development Plan/Framework               Expected       Actual
+Date of receipt by the Bank                                 6/14/2002     11/16/2002
+Date of "in-country" disclosure                             11/16/2002    1/13/2003
+Date of submission to InfoShop                              12/16/2002    1/13/2003
+Pest Management Plan.                                       Expected       Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+Dam Safety Management Plan:                                 Expected       Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+If in-country disclosure of any of the above documents is not expected, please explain why.
+Signed and submitted by       Name                                        Date
+Task Team Leader:             Selina Wai Sheung Shum                      1/20/03
+Project Safeguards Specialists 1:  Maya Gabriela Q. Villaluz/Person/World Bank  1/20/03
+Project Safeguards Specialists 2:  Chaohua Zhang/Person/World Bank        1/17/03
+Project Safeguards Specialists 3:  Jitendra J. Shah/Person/World Bank     1/17/03
+Approved by:                  Name                                        Date
+Regional Safeguards Coordinator: Glenn S. Morgan                          2/20/03
+Sector Manager/Director:      Mohammad Farhandi                           2/20/03
+For a list of World Bank news releases on projects and reports, click here
+| 5EARCHiTTJ ::|FEEDHACK     sTrrE MAP       SHOWCASE
+
+
+

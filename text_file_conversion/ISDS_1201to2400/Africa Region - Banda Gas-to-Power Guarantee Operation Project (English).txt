@@ -1,0 +1,481 @@
+﻿                   INTEGRATED SAFEGUARDS DATASHEET
+                           APPRAISAL STAGE
+
+I. Basic Information
+Date prepared/updated: 04/22/2014                                    Report No.: 87764
+1. Basic Project Data
+Country: Mauritania, Senegal, Mali            Project ID: P107940
+                                              Additional Project ID (if any): P145657
+                                              and P145664
+Project Name: Banda Gas-to-Power Project
+Task Team Leader: Moez Cherif
+Estimated Appraisal Date:                      Estimated Board Date: May 22, 2014
+Managing Unit: AFTG2                           Lending Instrument: Partial Risk
+                                               Guarantee
+Sector: General energy sector (60%); Oil and gas (40%)
+Theme: Infrastructure services for private sector development (100%)
+IBRD Amount (US$m.):             0
+IDA Amount (US$m.):              0
+GEF Amount (US$m.):              0
+PCF Amount (US$m.):              0
+Other financing amounts by source:
+         Borrower                                                        0.00
+         IBRD Guarantee                                                  0.00
+         IDA Guarantee                                                261.00
+                                                                      261.00
+Environmental Category: A - Full Assessment
+Simplified Processing                         Simple []          Repeater []
+Is this project processed under OP 8.50 (Emergency Recovery)
+                                                                   Yes [ ]      No [X]
+or OP 8.00 (Rapid Response to Crises and Emergencies)
+
+2. Project Objectives
+
+The Project’s Development Objective (PDO) is to enable production of natural gas for
+generation of electricity to reduce the cost and increase the supply for Mauritanian
+households and industry, and enable regional integration through exports of electric
+power from Mauritania to Senegal and Mali.
+
+3. Project Description
+
+The World Bank Group’s proposed intervention in support of the 300 MW Banda Gas-to-
+Power Project includes support from both IDA and MIGA through:
+
+(i) Three IDA credit enhancement partial risk guarantees (PRGs) backstopping:
+        a) the creditworthiness of SPEG (of Mauritania) for the payment of gas under the
+        Gas Sales Agreement (GSA), and
+       b) the credit worthiness of two public utilities, SENELEC (of Senegal), and EDM
+       (of Mali), for the payment of electricity exports received under their respective
+       Power Purchase Agreements (PPAs); and
+
+(ii) MIGA guarantees covering:
+       a) termination payment under Breach of Contract (BoC) of the GSA backstopped
+       by GoMR;
+       b) BoC coverage of the Production Sharing Agreement and
+       c) equity investment of some of the JV partners against the risks of Transfer
+       Restriction, Expropriation and War and Civil Disturbance.
+
+The Banda Gas-to-Power Project consists of the following components: (a) the upstream
+Banda offshore gas field production, transmission and processing infrastructure (the
+Banda Gas Project); (b) power generation from Banda gas in Mauritania (the SPEG
+Power Project) and (c) existing and new power transmission lines to evacuate power from
+the Project.
+
+4. Project Location and salient physical characteristics relevant to the safeguard
+analysis
+
+The Banda gas field is located approximately 55 km offshore of Nouakchott. The Banda
+Gas Project consists of two subsea wells tied back to an onshore gas processing plant via
+a subsea production manifold and a 10-inch sub-sea pipeline. The gas processing plant
+will be located 14 km north of Nouakchott and 6 km inland, close to the newly
+constructed SPEG power plant.
+
+The SPEG Power Project is designed to be implemented in two phases to match the
+evolution of electricity demand in Mauritania (and the region) and optimize capital
+allocation. The proposed WBG intervention is focused on the first phase of SPEG Power
+Project, which consists of construction of a 300 MW power plant located in the north of
+Nouakchott that will operate using Banda gas. The SPEG plant includes 180 MW dual
+fuel engines (HFO, natural gas) to be commissioned by March 2015, and 120 MW
+combined cycle gas turbines (CCGT) to be commissioned by mid-2016. The 300MW
+SPEG plant will sell all its generation to SOMELEC, who will, in turn, (a) sell power to
+Kinross, SNIM and its regular customers in Mauritania, and (b) export power to Senegal
+(SENELEC) and Mali (EDM).
+
+Since the Banda gas field development is a private sector project, jointly supported by
+IDA and MIGA, the proposed operation will follow the World Bank Performance
+Standards applicable to private sector projects (OP 4.03). In June 2012 the Board
+approved the adoption of the IFC Performance Standards as the World Bank Performance
+Standards for private sector projects supported by IBRD/IDA. The project has been
+classified as a Category A project in accordance with the World Bank Performance
+Standards.
+
+Power generated by SPEG to SOMELEC will be evacuated through several routes: (i) a
+greenfield high voltage transmission line to Nouadhibou with a spur to Tasiast, site of
+Kinross gold mine (the North HV line) owned and operated by SOMELEC and financed
+by the Saudi Fund, (ii) the existing OMVS high voltage transmission line that will be
+connected to the power plant through a short extension (the OMVS HV line and the
+OMVS HV extension), funded by SOMELEC and (iii) a new high voltage transmission
+line between Mauritania and Senegal, to be financed by AFD and IsDB, with a wheeling
+capacity of 250 MW (the South HV line).
+
+The Banda Gas Project ESIA (upstream component of this operation), which has already
+been disclosed in August 30, 2013, has been prepared by Tullow Petroleum and has
+identified all significant environmental and social impacts as well as the impacts on
+terrestrial biodiversity. Both impacts on the marine as well as the terrestrial biodiversity
+have been evaluated as minimal. The social impacts are very limited. A joint MIGA and
+IDA Environmental and Social Review Summary for the upstream component were
+disclosed on March 12 2014 and can be found on www.miga.org.
+
+The ESIA for the SPEG facilities (including the North HV line) was disclosed on
+December 2, 2013. SPEG has developed a full ESIA and a Resettlement Policy
+Framework (RPF) for the SPEG project, including the North HV line and the OMVS HV
+line extension. The full ESIA is based on a preliminary ESIA completed in 2012. The
+ESIA has been approved by the Bank and disclosed in country and through the Bank’s
+Infoshop on December 2, 2013. The SPEG RPF has been approved and disclosed on
+March 19, 2014.
+
+An ESIA for the South HV line has been submitted by the project sponsor on February
+19, 2014 to the Bank for review. This ESIA was prepared by Tractebel, the same
+consulting firm that also undertook the feasibility and engineering study for this
+infrastructure. Management has reviewed the ESIA and found that the environmental and
+social risks of this transmission line are manageable. The ESIA meets the criteria of
+Performance Standard 1 of O.P. 4.03 in that the process of identifying risks and impacts
+has consisted of an adequate, accurate, and objective evaluation and presentation,
+prepared by competent professionals. The French Development Agency (AFD), who will
+be co-financing the South HV infrastructure with IsDB, has similar safeguards policies to
+those of the Bank. In conclusion the Bank has reviewed the South HV Line ESIA, in its
+two components (Mauritania and Senegal), and has found it satisfactory. The ESIA for
+the South HV line for the Mauritania portion of the line was disclosed in the Infoshop on
+March 3, 2014 (The SPEG RPF that was disclosed on March 19, 2014 also covers the
+Mauritania portion of the South HV line). The ESIA and the Resettlement Policy
+Framework (RPF) for the South HV line for the Senegal portion of the line have been
+disclosed in country and at the Bank Infoshop on April 17, 2014.
+
+The portion of the South HV Line located in Senegal will be owned and operated by
+SENELEC. It is within the Project's area of influence while recognizing that it is not
+under the direct control of any of the beneficiaries of the IDA Guarantees. As such, the
+assessment and mitigation of risks for this section takes into account the level of control
+and influence the Guarantee beneficiaries can exercise vis-à-vis SENELEC. In this case,
+the ESIA for this section has in fact been shared with the Bank and has been reviewed to
+assess the risks related to this linked infrastructure. Moreover, the fact that his
+transmission line will be co-financed by the French Development Agency (AFD) has
+been taken into account. AFD is applying environmental and social safeguards policies
+similar to that of the World Bank Performance Standards and the ESIA for this
+infrastructure explicitly refers to the World Bank Performance Standards. IDA has
+worked in close coordination with AFD during the review of the ESIA (for both the
+Mauritania and Senegal segments).
+
+An IDA Environmental and Social Review Summary relative to the downstream
+component, composed of the SPEG power plants, the North HV Line and the South HV
+Line until the border with Senegal, was disclosed on March 21, 2014.
+The Table below provides further details on what Performance Standards apply to the
+project and how the clients have addressed these Performance Standards.
+
+5. Environmental and Social Safeguards Specialists
+Hocine Chalal (AFTN1), Amadou Konare (Consultant), Salamata Bal (AFTCS)
+
+World Bank Performance Standards triggered                                   Yes      No      TBD
+PS 1: Assessment and Management of Environmental and                         X
+Social Risks and Impacts
+The Environmental and Social Impact Assessment (ESIA) for the proposed project (upstream
+component) was disclosed in the Infoshop on August 30, 2013. For the downstream component:
+(i) the ESIA for the SPEG power plants and the North HV line was reviewed and disclosed in the
+Infoshop on December 2, 2013; (ii) the ESIA for the South HV line for the Mauritania portion of
+the line was reviewed and disclosed in the Infoshop on March 3, 2014; and (iii) the ESIA for the
+South HV line for the Senegal portion of the line were disclosed in the Infoshop on April 17,
+2014.
+The joint MIGA/IDA Environmental and Social Review Summary (ESRS) for the upstream
+component was reviewed and disclosed on MIGA website on March 12, 2014 and the ESRS for
+the downstream component was reviewed and disclosed in the Infoshop on March 21, 2014.
+The Banda gas field is located approximately 55 km offshore of Nouakchott. It is owned by a
+consortium of investors, with Tullow Oil Plc (Tullow) as the majority shareholder and operator in
+the Joint Venture (JV). Tullow has prepared a field development plan (subsequently approved by
+the Government of Mauritania in January 2013) which provides for production of up to 65
+million standard cubic feet per day of gas over 20 years. It consists of the drilling and installation
+of two subsea wells tied back to an onshore gas processing plant via a subsea production manifold
+and a 10-inch pipelines. Key risks include: vessel collision risk, economic displacement through
+loss of access to fishing grounds (in the unlikely event of a spill), water and sediment
+contamination, discharges of commissioning fluids, noise, habitat loss and impacts to marine and
+coastal habitats and species, well blowout and pipeline rupture, soil erosion, hazardous materials
+and waste generation and air emissions (including CO2). Based on current information, the
+upstream portion of the project has not identified impacts that could not be avoided or reduced to
+acceptable levels through the application of the proposed mitigation measures, as described in the
+Environmental Management Plan (EMP).
+
+The 180 MW dual fuel power plant currently being built and that will be operated for a period of
+five years by the company Wartsila has not been assessed specifically in this SPEG ESIA, but
+both the analysis of cumulative impacts and the hazards assessment have taken into consideration
+the impacts of its operation. SPEG is a new entity set-up by its shareholders (SOMELEC, Kinross
+and SNIM) for being the entity responsible for the new infrastructures covered by the
+downstream ESRS with the notable mention that after their construction the North HV and South
+HV transmission lines will be transferred respectively to SOMELEC and to OMVS. The due
+diligence carried out by the IDA team has confirmed that SPEG has very little capacity
+particularly for overseeing the implementation of the environmental and social management plans
+and the resettlement plans and will have to consequently sub-contract these missions to external
+specialized firm or other capable government agencies. The two instruments above specify
+clearly the areas of influence and the monitoring objectives to be achieved and constitute and
+environmental management system that will ensure the environmental and social integrity of the
+project.
+The SPEG ESIA includes a hazards assessment that covers the main risks of accident that could
+affect the power plant. It also includes an analysis of the four following alternatives: (i) “no
+project�? option; (ii) choice of fuel and supplies; (iii) choice of power plant location and; (iv)
+route selection for the transmission line.
+The South HV line project has been segmented in three parts for the purpose of the assessment:
+        -   193km Segment 1: 225 kV line from the new power plant in Nouakchott to the Beni
+            Nadji substation (Mauritania).
+        -   76km Segment 2: 225kV line from Beni Nadji (Mauritania) to Saint Louis substation
+            (Senegal). For this segment three variants have been studied from a technical and
+            environmental point of view as this segment of the line crosses the Senegal River.
+        -   144km Segment: from Saint Louis (Senegal) to Tobène (Senegal)
+
+The inter-connection will necessitate the construction of a sub-station in Saint-Louis as well as an
+extension of the existing substations of Beni Nadji (Mauritania) and Tobène (Senegal).
+
+The ESIA assessed several possible corridors and on the Mauritania side concluded that the best
+compromise between economic, social and environmental imperatives would to recommend a
+corridor that would avoid passing through the Diawling National Park, an important migratory
+bird nesting place that made the park a recognized Ramsar site in 1994. However on the Senegal
+side it would be very difficult to avoid the Senegal River delta and avoid passing near sensitive
+ecological areas such as the Djoudj national Park. An alternative route is proposed in the ESIA in
+order to minimize the impact, particularly on birds, on the sensitive ecological zones mentioned
+as the line crosses the Senegal River. The extra length of line would be 11km. It is not expected
+that specific permits will have to be obtained as the lines (North HV and well as South HV) will
+not go through protected areas.
+The E & S management Plan and Monitoring Plan are exhaustive and cover the pre-construction
+phase, the construction phase and the post-construction phase and also cover the issue of bird
+collisions with the line. However, the capacity of SPEG, SOMELEC and SENELEC (SENELEC
+will have to implement the ESMP for the segment of the line on the Senegalese territory in
+compliance with the Senegalese environmental regulations and also on the basis of the World
+Bank Performance Standards) to implement the management plans contained in the above ESIAs
+is limited and would have to be enhanced through sub-contracting their implementation to a
+specialized entity or another competent governmental agency. IDA will ensure that environmental
+and social requirements will be passed on to the builder and operator of the SPEG power Plant.
+
+PS 2: Labor and Working Conditions                             X
+The clients will establish safe and healthy working conditions for their employees, promote fair
+treatment, non-discrimination and equal opportunity, promote compliance with national
+employment and labor laws, protect workers, especially vulnerable groups, will not employ
+children and avoid the use of forced labor. Adequate Environmental, Health and Safety Plans will
+be prepared and implemented by Tullow, SPEG and their contractors and sub-contractors, as well
+as SOMELEC, for the Mauritania segment of the South HV Line.
+
+PS 3: Resource Efficiency and Pollution Prevention           X
+The clients will avoid or minimize impacts on human health and the environment by reducing
+pollution from project activities (waste management plans will be prepared as part of the EMPs in
+the case of the upstream component). The clients will promote more sustainable use of natural
+resources, such as water and energy, and reduce project-related greenhouse gas (GHG) emissions.
+
+PS 4: Community Health, Safety, and Security                 X
+The clients will anticipate and avoid impacts on human health and safety of nearby communities,
+personnel and property. Workers will be housed in Nouakchott, so that no separate worker camps
+will be needed. Tullow, SPEG and their contractors and sub-contractors will carry out HIV/AIDS
+prevention activities. The ESIAs/RPFs prepared for the three components have consulted upon
+with institutional stakeholders as well as with the potentially affected population.
+
+PS 5: Land Acquisition and Involuntary                       X
+Resettlement
+A Resettlement Policy Framework (RPF) for the SPEG Power Project has been prepared and
+extended to cover the land acquisition necessary for the construction and operation of the gas
+pipeline from its point of landing to the gas processing and power plant site and disclosed in
+country and in the Bank’s Infoshop at least 60 days before Board. An RPF has been prepared
+because final sitings and alignments are yet to be determined for the onshore civil works in
+Mauritania (gas processing and power plant sites, transmission lines); resettlement impacts are
+expected to be moderate. In Mauritania, Tullow and the Government of Mauritania are
+negotiating which of them will pay the compensation; both sides have agreed that such
+compensation will be undertaken in accordance with PS 5. For the downstream portion, SPEG
+will handle any compensation related to the power plants and SOMELEC will handle any
+compensation related to the transmission lines. An RPF for the South HV Line has been prepared
+to cover both the Mauritania and Senegal segments and has been disclosed. When the final
+corridor for the transmission lines (both for the North and South HV Lines) have been selected
+and it has been identified that people will be affected, RAPs will be prepared, consulted upon,
+and disclosed in country and in the Bank’s Infoshop before any construction activity starts.
+PS 6: Biodiversity Conservation and Sustainable                  X
+Management of Living Natural Resources
+The Banda Gas-to-Power upstream and downstream project components may encounter sensitive
+marine and terrestrial ecosystems, including natural habitats. These potential impacts have been
+identified by the three ESIAs. Adequate safeguard management plans have been developed as
+part of the EIAs. This World Bank Performance Standard has been triggered even though the
+impacts on marine and terrestrial biodiversity have been evaluated as manageable.
+For the South HV line ESIA, the corridor recommended following the ESIA process will
+minimize impacts as it avoids the Park of Diawling on the Mauritanian side of the Senegal river
+and the Park of Djoudj on the Senegalese side, both being very rich biodiversity areas.
+PS 7: Indigenous Peoples                                                      X
+There are no Indigenous Peoples in the project area.
+PS 8: Cultural Heritage                                            X
+The Tullow EIA has identified 13 cultural heritage Late Stone Age sites on the project footprint
+of the gas treatment plant. An adequate cultural heritage management plan has been developed as
+part of the Tullow EMP. The SPEG ESIA did not identify any cultural heritage sites in the
+project area. The South HV line ESIA has not reported significant potential cultural heritage sites
+in relation to that infrastructure.
+
+
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project.
+Identify and describe any potential large scale, significant and/or irreversible impacts:
+
+This project has been classified as a Category A project under the World Bank
+Performance Standards applicable to private sector projects and the applicable World
+Bank Group Environmental, Health and Safety Guidelines of April 2007.
+
+The project will install upstream infrastructures consisting of two offshore gas wells at
+around 230 meter depth, a gathering platform, a 10-inch gas pipeline of 57 km offshore
+and 5.6 km onshore, and a gas-processing plant. The key environmental and social issues
+for this part of the project include: potential impacts during construction and operation on
+sensitive marine species, marine ecosystems and marine protected areas, including whale
+species, various turtle species and their nesting sites, fish species and fisheries, migratory
+birds and potential impacts on the Banc d’Arguin National Park. The EIA prepared by
+Tullow clearly demonstrates that the risks of these potential impacts to occur are minimal
+and manageable. Also the potential risk for minor oil and diesel spills is minimal and will
+be managed through the implementation of an Oil Spill Contingency Plan prepared and
+disclosed before the start of operations. The EIA demonstrated that the potential impacts
+on Important Bird Areas, migratory birds and fisheries resources are minimal and
+manageable. A specific analysis was carried out for the risks for navigation and the risks
+of collisions with other vessels and the extent of noise disturbance of the gas-processing
+facility to nearby communities 5 km away, both of which are manageable. The Tullow
+EIA developed adequate mitigation measures for all significant potential environmental
+and social impacts and risks identified.
+
+The project will also include the SPEG 300 MW power plant comprised of 180 MW dual
+fuel engines (HFO, natural gas), and 120 MW combined cycle gas turbines (CCGT)
+located near Nouakchott, as well as a new high voltage transmission line from
+Nouakchott to Nouadhibou with a spur to Tasiast (site of the Kinross gold mine). The
+ESIA for this part of the project has identified a potential issue with air quality when the
+dual power plant will be using heavy fuel in the interim period before the gas is made
+available and in case of shut-down of the future gas pipeline or gas plant. The main
+mitigating measures will be to minimize the interim period without availability of gas and
+minimize during operation the causes of gas shut-off.
+Finally the project will also use a downstream infrastructure consisting of the southbound
+transmission line to export power to Senegal. The main impacts identified are related to
+the choice of the most appropriate corridor The ESIA has thus recommended a slightly
+more expensive route that would avoid the impacts on an ecologically sensitive area.
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future
+activities in the project area:
+
+There has been no significant indirect, long term, irreversible or cumulative impacts
+identified in relation to any of the infrastructures mentioned above.
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize
+adverse impacts.
+
+The land-fall for the gas pipeline has been chosen north of Nouakchott in order to avoid
+potential land acquisition problems linked to the former land fall-chosen south of
+Nouakchott. The onshore gas pipeline is expected to cross land designated for a
+proposed multi-use real estate project. This issue has yet to be resolved and Tullow will
+continue discussions with the Government of Mauritania to agree which party will be
+responsible for compensation. Any resolution of this matter will be undertaken in
+compliance with Performance Standard 5.The southbound and northbound assessments
+for the respective transmission lines have included an analysis of alternative corridors in
+order to avoid areas of sensitive ecological interest.
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide
+an assessment of borrower capacity to plan and implement the measures described.
+
+The main guarantee beneficiary for the upstream component, Tullow, has prepared a
+good ESIA and EMP and has adequate environmental and social management capacity. It
+has been assessed that Tullow has the capacity to manage and supervise the
+environmental and social mitigating and monitoring measures prescribed by the upstream
+ESIA.
+
+SPEG and SOMELEC do not have the capacity to manage the environmental and social
+aspects of the project (downstream in Mauritania). In order to mitigate this lack of
+capacity SPEG and SOMELEC will have to contract a specialized entity to carry out this
+task on their behalf.
+
+5. Identify the key stakeholders and describe the mechanisms for consultation and
+disclosure on safeguard policies, with an emphasis on potentially affected people.
+
+The above mentioned three ESIAs carried out Public Consultation activities during the
+screening and scoping phases in order to take community and stakeholder concerns into
+account. Public Consultations were carried out and have been evaluated as adequate. The
+ESIAs include a Chapter on Public Consultation with annexes that include summaries of
+meetings.
+B. Disclosure Requirements Date
+Environmental and Social Review Summary:
+ Dates of "in-country" disclosure
+                                                             Tullow ESIA: August 30, 2013;
+                                                             SPEG (Power Plant and North T-Line):
+                                                             December 2, 2013;
+                                                             SPEG RPF: March 19, 2014;
+                                                             SOMELEC (South T-Line): March 4, 2014
+  Date of submission to InfoShop                             for ESIA and March 19, 2014 for RPF;
+                                                             SENELEC (South T-line) ESIA and RPF on
+                                                             April 17, 2014;
+                                                             ESRS for upstream on March 12 2014 on
+                                                             MIGA Website (http://www.miga.org/); and
+                                                             ESRS for downstream on March 21 2014.
+   For Category A projects, date of distributing the
+   Executive Summaries of the client’s ESIA to the April 22, 2014
+   Executive Directors
+If in-country disclosure of any of the above documents is not expected, please explain why: N/A
+
+
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the
+ISDS is finalized by the project decision meeting)
+Client’s Environment and Social Assessment
+Does the project require a stand-alone Environmental and Social      Yes [X]    No [ ]     N/A [ ]
+Assessment (including EMP) report?
+If yes, then did the Regional Environment Unit or Sector             Yes [X]    No [ ]     N/A [ ]
+Manager (SM) review and approve the EA report?
+Client’s Environmental and Social Management System
+Has the client developed an appropriately detailed ESMS, and         Yes [X]      No [ ] N/A [ ]
+does the client have the technical and organizational capacity to    Tullow: yes
+implement it?                                                        SPEG and SOMELEC: to            be
+                                                                     strengthened
+Labor and Working Conditions
+Does the client have a written human resources policy available      Yes [X]     No [ ]   N/A [ ]
+to all employees that describes labor and working conditions?        Tullow: yes
+                                                                     SPEG and SOMELEC: to be prepared
+Biodiversity and Natural Resource Management
+If PS 6 is applicable, would the project result in any significant   Yes [ ]    No [X]     N/A [ ]
+conversion or degradation of critical natural habitats?
+If the project would result in significant conversion or             Yes [X]    No [ ]     N/A [ ]
+degradation of other (non-critical) natural habitats, does the
+project include mitigation measures acceptable to the Bank?
+If the project entails use of living natural resources, has          Yes [ ]    No [ ]     N/A [X]
+certification been obtained or a time-bound plan established to
+obtain certification?
+Physical Cultural Resources
+If PS 8 is applicable, does the project design include adequate      Yes [X]    No [ ]     N/A [ ]
+measures related to physical cultural resources?
+Indigenous Peoples
+If PS 7 applicable, and have Indigenous Peoples communities          Yes [ ]    No [ ]     N/A [X]
+been consulted in accordance with requirements of PS 7?
+Have the requirements for Free Prior Informed Consent been            Yes [ ]      No [ ]    N/A [X]
+met, and is there reasonable evidence of broad community
+support by the affected Indigenous Peoples communities?
+Involuntary Resettlement
+If PS 5 is applicable, have the requirements been complied with       Yes [X]      No [ ]    N/A [ ]
+by the client?
+Pollution Prevention and Efficient Use of Resources
+Does the project comply with good international industry              Yes [X]      No [ ]    N/A [ ]
+practice as presented in the WBG EHSGs or a similar
+internationally recognized benchmark?
+Is the project designed for energy efficiency and waste               Yes [X]      No [ ]    N/A [ ]
+minimization?
+Community Health and Safety
+Has the assessment determined that local communities could            Yes [X]      No [ ]    N/A [ ]
+face significant adverse impacts in event of an accident or
+emergency situation associated with the project?
+If so, has an Emergency Preparedness Plan (EPP) been prepared         Yes [X]      No [ ]    N/A [ ]
+and arrangements been made for public awareness and training?
+Projects on International Waterways
+Have the other riparians been notified by the Bank of the             Yes [ ]      No [ ]    N/A [X]
+project?
+Projects in Disputed Areas
+Has the memo conveying all pertinent information on the               Yes [ ]      No [ ]    N/A [X]
+international aspects of the project, including the procedures to
+be followed, and the recommendations for dealing with the
+issue, been prepared by the Bank?
+Disclosure
+If Category A or B, has the ESRS been sent to the World Bank's        Yes [X]      No [ ]    N/A [ ]
+Infoshop?
+Have relevant assessment documents prepared by the client been        Yes [X]      No [ ]    N/A [ ]
+disclosed in-country in a public place in a form and language
+that are understandable and accessible to project-affected groups
+and local NGOs?
+Monitoring and Reporting
+Has the client agreed to submit an Annual Monitoring Report to        Yes [X]       No [ ]   N/A [ ]
+the Bank to report on the management of environmental and             will be included
+social risks and impacts, and does the Legal Agreement contain
+this provision?
+Has the client agreed to report at least annually to local affected   Yes [X]      No [ ]    N/A [ ]
+communities on how the project is performing with respect to
+environmental and social risks and impacts of concern to those
+communities?
+D. Approvals
+
+Signed and submitted by:            Name                 Date
+Task Team Leader:                   Moez Cherif          04/22/2014
+Environmental Specialist:           Hocine Chalal
+Social Development Specialist       Salamata Bal
+Additional Environmental and/or
+Social Development Specialist(s):
+
+Approved by:
+Regional Safeguards Coordinator:    Alexandra Bezeredi   04/23/2014
+  Comments:
+Sector Manager:                     Meike van Ginneken
+  Comments:
+

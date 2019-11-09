@@ -1,0 +1,335 @@
+﻿                                           INTEGRATED SAFEGUARDS DATA SHEET
+                                                    CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                               Report No.: ISDSC2953
+
+                         Date ISDS Prepared/Updated: 27-Mar-2013
+                         Date ISDS Approved/Disclosed: 28-Mar-2013
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:            Ghana                            Project ID:      P144140
+                            Project Name:       GH eTransform Ghana (P144140)
+                            Task Team           Mavis A. Ampah
+                            Leader:
+                            Estimated           28-May-2013                      Estimated        30-Jul-2013
+                            Appraisal Date:                                      Board Date:
+                            Managing Unit:      TWICT                            Lending          Specific Investment Loan
+                                                                                 Instrument:
+                            Sector(s):          General information and communications sector (100%)
+                            Theme(s):           e-Government (50%), e-Services (25%), Managing for development results
+                                                (25%)
+                            Financing (In USD Million)
+                            Total Project Cost:     78.00                      Total Bank Financing:         78.00
+Public Disclosure Copy
+
+
+
+
+                            Total Cofinancing:                                 Financing Gap:                   0.00
+                              Financing Source                                                             Amount
+                              BORROWER/RECIPIENT                                                             0.00
+                              International Development Association (IDA)                                   78.00
+
+                              Total                                                                          78.00
+                            Environmental C - Not Required
+                            Category:
+                            Is this a     No
+                            Repeater
+                            project?
+
+                           B. Project Objectives
+                           11.    The Project Development objective of eTransform Ghana is to improve efficiency and
+                           coverage of government services through ICT, and enhance ICT-enabled entrepreneurship.
+
+                           12.     The interventions are expected to lead to more efficient and transparent targeting and use of
+                           limited public resources. They would improve the delivery of public and private sector services,
+                         especially in rural and underserved areas. They would promote trust in payment systems, and
+                         enhance confidence in electronic commerce and financial transactions. They would also lead to
+                         diversified employment opportunities, and a more integrated and coordinated public sector that is
+Public Disclosure Copy
+
+
+
+
+                         able to make better policies and do more to respond to citizens’ needs using trusted and open data.
+                         C. Project Description
+                         The proposed project is expected to be structured along four major components to reflect (a)
+                         government’s efforts to develop more coherent and robust foundation for e-government (b) scaled
+                         use of ICT to transform priority areas of development; (c) enabling environment conducive to e-
+                         government applications; and (d) Project management support. Details on components are given
+                         below:
+
+                         Component 1 – Common services and Infrastructure for Electronic Government (US$64.5 million) -
+                         This component will develop shared systems, processes and information for use across government,
+                         and facilitate a trusted exchange for government-to-citizen (G2C) services and business-to-citizen
+                         (B2C) services. Specific activities will include:
+
+                         i)      Electronic Repository of Citizen Identity and Passport Information (e-ID and ePassport, US
+                         $50 million) – The component will support the development of a consolidated system for national
+                         electronic identity (e-ID) and an electronic registry for passport information (e-Passport).
+
+                         National e-ID systems help establish the identity of citizens and offer a more secure, robust
+                         mechanism for government and businesses to engage with citizens. With e-ID, government can target
+                         beneficiaries and more efficiently offer services to citizens using electronic delivery channels.
+                         Businesses can authenticate customer identity, and develop and offer new products and services
+                         through internet or mobile phones. Citizens can gain access to a larger universe of online applications
+                         and services that can be used more securely in a variety of industries and public services. e-ID can
+                         have potential linkages with downstream applications to support a host of public and private services,
+                         including travel documents (such as passports), driver’s license, taxation, voter registration, financial
+Public Disclosure Copy
+
+
+
+
+                         accounts, health records, immunization records, etc.
+
+                         The National Identification Authority (NIA) of Ghana is responsible for developing and managing a
+                         comprehensive National ID system and issuing cards to Ghanaian citizens. To date, they have had
+                         some minimal success, resulting in the proliferation of different ID systems under multiple
+                         institutional structures. The multiplicity of ID systems is making it challenging for government
+                         agencies, businesses and financial institutions to properly authenticate citizens and their personnel
+                         data. This, in turn is contributing to the limited and high cost of doing electronic business in Ghana.
+                         The inefficient ID system is also challenging the Government’s ability to offer targeted services and
+                         generate revenue. The Government is requesting support from the World Bank to develop a more
+                         robust electronic identification system which would serve as the primary form of identity for all
+                         Ghanaians. The e-ID system would host linkages with and be interoperable with the disparate ID
+                         systems that currently exist in Ghana. The development of the e-ID system would entail an upgrade
+                         of the operational procedures used in identification, both within NIA and in downstream agencies
+                         looking to authenticate citizens for the delivery of public or private services. Project funds will
+                         support institutional strengthening and capacity building for developing, operating and maintaining a
+                         state-of-the-art e-ID system. Project funds will also support an identity management system with
+                         public key infrastructure (such as biometrics for authenticating citizens at e-ID service centers) to
+                         enable authentication of online or mobile users.
+                         To link e-ID with the issuance of passports, the Government is also requesting support for a new
+                         ePassport system to improve the efficiency and security of people traffic at the country’s borders.
+                         The current system for passport continues to be analogue, and lacks the requisite digital and security
+Public Disclosure Copy
+
+
+
+
+                         features to support globally interoperable applications. The system does not conform to the standards
+                         of International Civil Aviation Organization (ICAO). The project will therefore support the use of
+                         advanced passports such as a chip-embedded passport system which can facilitate biometric
+                         comparison at domestic and international borders and improve security and trust of Ghanaian
+                         identification systems. The ICAO requires all countries to have such biometric features by 2015.
+
+                         ii)     Digitized Government Data (US$10m) – Digitizing data is often a first step to making
+                         information-based services online, and, where applicable, to launch open data. Automated processes
+                         and information systems may be incomplete when vast archives continue to be left in paper form,
+                         and the citizen is unable to access data is electronically at their convenience. Government has
+                         requested the support of World Bank to digitize information from selected government agencies such
+                         as Births and Deaths registry, Registrar General’s Department (RGD), and Ghana Revenue
+                         Authority. Digitized information can go a long way to improve interoperability across government
+                         agencies (such as between Births and Deaths registry and e-ID system in order to verify the identity
+                         of Ghanaians), upgrade workflow, and achieve business continuity in government agencies by
+                         securely retaining important electronic records. Project funds will support scanning, indexing and
+                         management of paper records into searchable and re-usable electronic databases. The digitization
+                         program is expected to be extended to medical and educational records based on need. The work will
+                         build on earlier support from the Rockefeller Foundation which trained and employed disadvantaged
+                         youth to digitize the first batch of RGD records through an Impact Sourcing Program. Ten regional
+                         innovation centers, built under eGhana project, may serve as possible venues for carrying out or
+                         administering the digitization work. Partnerships with business process outsourcing centers may be
+                         explored to provide additional business opportunities for small and medium IT companies. There is
+                         also opportunity to use this process to create opportunities for a large number of Ghanaian youth to
+                         get connected to platforms like Samasource, oDesk, CloudFactory etc. which might provide them
+                         with enduring opportunities for income and skills development through Microwork.
+Public Disclosure Copy
+
+
+
+
+                         iii)     Electronic Service Delivery Platform for Mobile, Online and Payment Applications (US
+                         $3m): The project will support the development of online and mobile applications at scale for
+                         selected government services so that citizens nationwide can apply for services online or via mobile
+                         phones, check status of their accounts or applications, and pay for services electronically. Project will
+                         build on pilot e-service applications conducted under current eGhana project. Pilot e-services have
+                         included: (a) content management application for hosted services on online portals; (b) payment
+                         gateway to enable electronic payments for online services; (c) electronic form application to collect
+                         citizen information electronically; and (d) application to electronically manage documents. Several
+                         government agencies including the following have shown an interest to deliver electronic services:
+                         Ministry of Food and Agriculture, Ministry of Employment and Labor Relations, Ministry of Water
+                         Resources, Works and Housing, Ministry of Local Government and Rural Development, Ministry of
+                         Tourism, Ghana News Agency, Ghana Investment Promotion Center, SSNIT, National Health
+                         Authority and Public Service Commission.
+
+                         Component 2 – Transformational Applications (US$25 million) – This component will be aimed at
+                         transforming the efficie ncy and outreach of service delivery in selected government agencies and
+                         sectors. State of the art technology relevant to Ghana will be used to simplify administrative and
+                         business processes within and between agencies. The component will focus on improving the
+                         outcomes of the priority sectors of Health and Education, but will also allocate funds to complete e-
+                         government applications for 3 agencies and departments for which have the procurement packages
+                         have been completed under the eGhana Project. Details of this component are as follows:
+Public Disclosure Copy
+
+
+
+
+                         iv)     Improvements in Health and Education service delivery using ICT (US$10 million) –
+                         Government considers investments in and impact of these two sectors so closely intertwined as
+                         drivers of poverty alleviation and critical to achieving the Millennium Development Goals that they
+                         must be considered together.
+
+                         In the area of health, the project will focus on: i) improvi ng management and tracking of health
+                         information at major hospitals, polyclinics and health service providers in Ghana using management
+                         information systems, mobile-based feedback channels and mobile health applications; ii) extending
+                         outreach of medical services to rural and peri-urban areas using low-cost technologies, mobile-based
+                         remote tracking and improved training of healthcare professionals; iii) improving communications
+                         between rural and urban healthcare professionals, and collaboration between Ghana’s Medical
+                         Professionals and counterparts abroad; and iv) providing basic information on health information in
+                         local languages to citizens via the web/mobile etc. in order to help improve basic health, hygiene,
+                         reproductive health etc. in cooperation with local NGOs already working on mHealth and neo-natal
+                         services. ICT can help address challenges in the health sector including in the following ways: (a)
+                         health information systems and electronic health records; (b) disease and emergency tracking; (c)
+                         efficient supply of pharmaceutical and critical life-saving drugs; (d) point of care diagnostics and
+                         remote patient monitoring; (e) remote data collection and surveillance; (f) public health awareness
+                         and education using mobile or email broadcast; (g) health behavior change using ICT-enabled public
+                         education campaign; (h) nutrition management using online and mobile applications; (i) emergency
+                         medical services with national calling number for medical emergencies and ambulance dispatch; and
+                         (j) telemedicine and ICT-equipped community workers (US$5million)
+
+                         Under education, the objective is to upgrade the quality of teachers and improve educational content
+                         for students and teachers. The project will therefore: i) leverage the Tertiary Institutions
+Public Disclosure Copy
+
+
+
+
+                         Connectivity Program currently being developed under eGhana to create a National Research and
+                         Education Network (NREN) to provide collaborative learning opportunities (with national and
+                         international players), develop possible educational content, and improve educational, technical and
+                         medical research; ii) use low-cost and climate-friendly technologies to improve teacher training and
+                         student learning; and iii) increase access to distance education opportunities and open education
+                         resources. (US$5million)
+
+                         v)      Improvements in National Procurement, Parliamentary and Judicial Processes using ICT (US
+                         $15 million)
+
+                         Under the eGhana Project, extensive preparatory work has been completed for the launch of selected
+                         e-government applications to improve National Procurement, Parliamentary and Judicial processes.
+                         The e-Procurement, e-Parliament and e-justice Projects are respectively focusing at increasing
+                         transparency, coordination and competition in the public procurement process; improving the
+                         transparency, accessibility, accountability, and effectiveness in the Parliamentary processes; and
+                         improving the efficiency of the country’s legal system. Under the eTransform project, support will be
+                         given to develop electronic applications for improving related operating processes; increase the
+                         transparency and reliability of government activities; and ensure citizen participation in the go
+                         vernance processes.
+                         Component 3 Enabling Environment for Digital Ghana US$7m – policies and regulations to promote
+                         electronic delivery of services using shared platforms, transformational applications, and a
+                         transparent, secure and open environment. These include:
+Public Disclosure Copy
+
+
+
+
+                         i)       policies and regulations for electronic commerce and electronically managing citizen data for
+                         identification, passports, health, education, immunization and related applications;
+                         ii)      policies and activities for fostering entrepreneurship development in key technology areas e.
+                         g. climate change, smart cities, and mobile services. Opportunity to collaborate with private sector on
+                         an IdeaFAB that could be located in the Kofi Annan Center of Excellence, GIMPA, or the Kwame
+                         Nkrumah University of Science and Technology or some similar institution for identifying future
+                         opportunities in emerging technologies and innovation and leveraging digital platforms.
+                          iii)    policies and regulations for cybersecurity and privacy of data, transactions, signatures
+                         contracts and related provisions for electronic applications and services, This sub-component could
+                         include a detailed study on safeguarding digital infrastructures forGhana which could lead to
+                         recommendations on policies, laws, regulations, institutions, partnerships and investments that would
+                         be needed for ensuring a safe cyber security environment in Ghana. This would have important
+                         implications for future investment flo ws into the country.
+                         iv)      provide capacity building support for innovation hubs, including iHubs and Living Labs, in
+                         collaboration with infoDev, to promote ICT-enabled entrepreneurship and innovation in Ghana;
+                         v)       provide institutional strengthening and capacity building support for government agencies
+                         involved in the ICT applications under eTransform project; and
+                         vi)      support policies and regulations for open data and innovative analytics methods (such as big
+                         data analytics) to gather government data, make information public, promote engagements with the
+                         private sector, civil society and academia; and develop government capacity to gain insights and
+                         intelligence from public data. Government of Ghana, through NITA, has initiated a portal with some
+                         100 datasets and an open data application. More public datasets are expected with the proliferation of
+                         new e-government applications and electronic service delivery. NITA expects to establish a central
+                         platform for open data. Project resources will support initiatives including (a) availability of
+                         additional datasets for open data ; (b) upgrade of any shared facilities such as portal and related
+Public Disclosure Copy
+
+
+
+
+                         applications; and (c) institutional capacity building.
+
+                         Component 4 – Project Management Support – US$5.0million
+
+                         The MoC will serve as the Project executing agency and will have overall responsibility for the
+                         management of the project. The MoC has had extensive experience in implementing the eGhana
+                         through a dedicated Project Implementation Unit, complemented by core group of consultants from
+                         the National IT Agency (NITA) and the ITeS Secretariat who have managed the day-to-day
+                         implementation and supervision of the e-Government and ITES components as well the financial
+                         management, procurement, disbursement, monitoring and evaluation, progress reporting and
+                         communication functions. It is expected that the new project will leverage the expertise of some of
+                         these experts. The World Bank will work with the Ministry to assess the requisite expertise for the
+                         eTransform project
+                         D. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+                         Ghana
+
+                         E. Borrowers Institutional Capacity for Safeguard Policies
+                               Ministry of Communications has received assistance from external consultants on safeguard issues.
+
+                               F. Environmental and Social Safeguards Specialists on the Team
+Public Disclosure Copy
+
+
+
+
+                               Moses Yao Duphey (AFTN3)
+                               Beatrix Allah-Mensah (AFTCS)
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+                                 Safeguard Policies                                                Triggered?                    Explanation (Optional)
+                                 Environmental Assessment OP/                                      No
+                                 BP 4.01
+                                 Natural Habitats OP/BP 4.04                                       No
+
+                                 Forests OP/BP 4.36                                                No
+
+                                 Pest Management OP 4.09                                           No
+
+                                 Physical Cultural Resources OP/                                   No
+                                 BP 4.11
+                                 Indigenous Peoples OP/BP 4.10                                     No
+
+                                 Involuntary Resettlement OP/BP                                    No
+                                 4.12
+                                 Safety of Dams OP/BP 4.37                                         No
+
+                                 Projects on International        No
+                                 Waterways OP/BP 7.50
+                                 Projects in Disputed Areas OP/BP No
+                                 7.60
+Public Disclosure Copy
+
+
+
+
+                         III. SAFEGUARD PREPARATION PLAN
+                               A. Tentative target date for preparing the PAD Stage ISDS: 10-May-2013
+                               B. Time frame for launching and completing the safeguard-related studies that may be needed.
+                                  The specific studies and their timing1 should be specified in the PAD-stage ISDS:
+                                      Launch April 5, 2013
+                                      Complete Draft May 10, 2013
+                         IV. APPROVALS
+                                 Task Team Leader:                            Name: Mavis A. Ampah
+
+                                 Approved By:
+                                 Regional Safeguards Name: Cary Anne Cadman (RSA)                                                                                               Date: 27-Mar-2013
+                                 Coordinator:
+                                 Sector Manager:     Name: Randeep Sudan (SM)                                                                                                   Date: 28-Mar-2013
+
+
+
+
+                         1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+                          form and language that are accessible to potentially affected persons.
+

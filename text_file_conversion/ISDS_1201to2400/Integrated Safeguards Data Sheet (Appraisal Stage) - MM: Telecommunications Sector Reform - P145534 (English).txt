@@ -1,0 +1,755 @@
+                                               INTEGRATED SAFEGUARDS DATA SHEET
+                                                       APPRAISAL STAGE
+                                                                                               Report No.: ISDSA6211
+Public Disclosure Copy
+
+
+
+
+                         Date ISDS Prepared/Updated: 05-Dec-2013
+                         Date ISDS Approved/Disclosed: 05-Dec-2013
+                         I. BASIC INFORMATION
+                            1. Basic Project Data
+
+                            Country:          Myanmar                            Project ID:    P145534
+                            Project Name:     MM: Telecommunications Sector Reform (P145534)
+                            Task Team         Tenzin Dolma Norbhu
+                            Leader:
+                            Estimated         02-Dec-2013                        Estimated   06-Feb-2014
+                            Appraisal Date:                                      Board Date:
+                            Managing Unit:    TWICT                              Lending     Investment Project Financing
+                                                                                 Instrument:
+                            Sector(s):        Telecommunications (70%), Public administration- Information and
+                                              communications (20%), General information and communications sector (10%)
+                            Theme(s):         Regulation and competition policy (70%), e-Government (20%), Infrastructure
+                                              services for private sector development (10%)
+                            Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+                            8.00 (Rapid Response to Crises and Emergencies)?
+Public Disclosure Copy
+
+
+
+
+                            Financing (In USD Million)
+                            Total Project Cost:      31.50           Total Bank Financing:                31.50
+                            Financing Gap:            0.00
+                              Financing Source                                                                       Amount
+                              BORROWER/RECIPIENT                                                                        0.00
+                              International Development Association (IDA)                                              31.50
+                              Total                                                                                    31.50
+                            Environmental B - Partial Assessment
+                            Category:
+                            Is this a         No
+                            Repeater
+                            project?
+
+                            2. Project Development Objective(s)
+                           The development objectives of the project are to: (a) improve the enabling environment for the
+                           telecommunications sector and extend coverage in selected remote pilot locations; and (b) establish
+                           priority eGovernment technological foundations and institutional capacity for Government to embark
+                           on its public sector reform program.
+
+                                                                      Page 1 of 13
+                         3. Project Description
+                         Project Components
+Public Disclosure Copy
+
+
+
+
+                         The Project takes an integrated approach to the development of the ICT sector in Myanmar. It has
+                         three substantive and interrelated components. Creating the enabling policy, regulatory and legal
+                         environment will facilitate the establishment of a competitive telecommunications market and
+                         expansion of good quality and affordable communications in Myanmar while institutional reform of
+                         the government owned incumbent, Myanmar Post and Telecommunications (MPT) will enable
+                         separation of the policy and operational functions of Government in the sector, facilitating the
+                         establishment of a level playing field in the sector. The development of a universal service strategy
+                         and implementation of pilots will ensure the expansion of services to extremely remote communities.
+                         Finally, the establishment of key priority eGovernment foundations will allow for common technical
+                         horizontals/shared services that government agencies will have access to in order to facilitate the use
+                         of ICT for governance reforms and public sector modernization.
+
+                         Component 1: Creating an enabling environment for connectivity ($ 14.0 million) The Project will
+                         finance technical assistance and investments to support MCIT and PTD in designing and
+                         implementing a policy and regulatory environment that establishes a pro-competitive sector. This
+                         component will focus on:
+
+                         (a)      Technical assistance for addressing policy and regulatory bottlenecks to maximize the
+                         benefits of the sector reform agenda (US$ 2.00 million). Technical assistance will be provided to
+                         MCIT on policy matters and to the regulator on various regulatory matters.
+                         (b) Institutional capacity strengthening for the Ministry and the regulator (US$ 1.5 million).
+                         Significant institutional strengthening support is needed to ensure that Myanmar can successfully
+                         transition from a monopoly to a competitive market structure and establish a credible policy and
+                         legal environment. Capacity development support for MCIT and PTD staff will be provided through
+                         workshops and training events, and study visits. Limited capacity development for key ICT sector
+Public Disclosure Copy
+
+
+
+
+                         related Parliamentary Standing Committee related officials will also be provided. The support will
+                         focus, among others, on issues such technology trends and policy implications, competition, open
+                         access and price regulation, licensing, spectrum management and monitoring, quality of service
+                         monitoring and technical regulations.
+                         (c) Spectrum management and monitoring system ($8.3 million). The regulator will be responsible
+                         for spectrum management and monitoring. Given that most new network deployments will rely on
+                         wireless technology, there is a need to support the strengthening of the regulator’s spectrum
+                         management function. The PTD will be provided investment support to procure and implement a
+                         spectrum management and monitoring system so that it has the tools to effectively manage the radio
+                         spectrum. Spectrum management will include the following tasks: Planning, Allocation,
+                         Assignment and Monitoring. As part of the Spectrum Planning process, PTD and its successor MTC
+                         will prepare and periodically update the Myanmar National Frequency Allocation Plan (NFAP)
+                         taking into account the ITU Region 2 plan and national allocation requirements. As part of the
+                         spectrum monitoring process, PTD and its successor MTC have to ensure that all wireless operators
+                         and users operate their equipment in compliance with spectrum allocations, within permitted power
+                         limits and specified international standards. To ensure this compliance, a Spectrum Management
+                         Control Center will be set up in Yangon; and will be connected with Fixed Monitoring Stations
+                         (FMS) located at Yangon, Mandalay and another location as assessed through a study. Mobile
+                         monitoring stations will be located in key cities to facilitate the spectrum monitoring function across
+                         the country. The PTD’s spectrum database will be fully updated. Consultants will assist the regulator
+
+
+                                                                      Page 2 of 13
+                         in the development of technical specifications for the SMMS, preparation of bidding documents, bid
+                         evaluation, supervision of installation and commissioning and contract administration of the system.
+                         The consultant will also provide handholding support to PTD on various spectrum issues.
+Public Disclosure Copy
+
+
+
+
+                         (d) Restructuring of Myanmar Post and Telecommunications ($2.2 million). The main objective of
+                         this component is to separate the policy and operational functions of the Government and will entail
+                         the technical assistance with the corporatization of MPT. Technical assistance will be provided to
+                         implement MPT restructuring and convert it from the present Government agency into a limited
+                         liability company, registered under the Company's Act.
+
+                         No civil works are envisaged under Component 1.
+
+                         Component 2: Extending connectivity to rural areas ($10.65 million): This component will support
+                         the development of the Government’s universal access strategy in order to accelerate the provision of
+                         telecommunications and internet services in remote areas of Myanmar. The support for this
+                         component will have two important impacts: (a) establish and institute a competitive and transparent
+                         process to involve the private sector in providing infrastructure access and services in rural and
+                         economically unviable areas of Myanmar; and (b) redefine public sector role from that of financing
+                         information and communications infrastructure development to one of facilitating private service
+                         provision of services. This component will be implemented over two phases.
+                         (a)      In the first phase, technical assistance will be provided to conduct a detailed scoping of the
+                         universal access program, a Universal Service Strategy (USS) will be designed, Universal Service
+                         Fund (USF) manual and USF implementation procedures will be developed, and pilots (both supply
+                         and demand side) will be identified and designed pilots for implementation.
+                         (b)      In the second phase, the pilot program will be implemented. This pilot program will be
+                         functionally independent of the investment programs that are being made by the newly licensed and
+                         existing operators. Supply-side interventions will be primarily be achieved through a competitive
+                         award of capital subsidies through an output-based aid, reverse tender process (with the subsidy
+                         being awarded to the lowest bidder) to licensed operators that would be responsible to provide
+                         telecommunication and internet services to rural areas of Myanmar that are commercially non-viable
+Public Disclosure Copy
+
+
+
+
+                         for operators to service without a one-time subsidy and limited demand side interventions to provide
+                         content and application services for rural communities.
+                         The sites for these pilots will only be identified during implementation once the USS is prepared.
+                         The pilots will entail the extension of mobile network coverage to rural areas and will include the
+                         setting up of telecommunication towers/masts and relevant base stations. This will entail small-scale
+                         civil works for the establishment of communication towers foundations and affiliated facilities
+                         (access platform, pre-fabricated shelter, equipment, etc.) in line with technical requirements and
+                         design conditions for siting such communication infrastructure as well as in compliance with relevant
+                         regulations (e.g., radio frequency admissible levels).
+
+                         Component 3: Enabling eGovernment Foundations ($4.79M). This component aims to support the
+                         Government’s charter in governance reforms by improving transparency and accountability. It will
+                         also place a stronger emphasis on the provision of Government information and services for its
+                         constituents as committed by the President to its people.
+                         (a)      A mobile friendly Myanmar National Portal will be financed to provide citizens, businesses,
+                         and visitors (comprising of foreign workers, investors and tourists) with a single window into the
+                         information and services offered by the Government. Over time the National Portal will allow its
+                         users to find relevant information, provide suggestions and feedback, and transact services in a safe
+                         and convenient electronic environment. The National Portal subcomponent would comprise of: (i)
+                         technical assistance to develop the Myanmar National Portal strategy to chart the portal development
+
+                                                                      Page 3 of 13
+                         for the next five years, understand citizen’s needs for online information and services, conduct
+                         workshops on global cases studies on national portals, and identify appropriate software and
+                         hardware technologies to springboard Myanmar’s socioeconomic agenda, and developing the
+Public Disclosure Copy
+
+
+
+
+                         bidding document for the calling of an open tender to solicit the portal implementation services; and
+                         (ii) implementation of Myanmar National Portal through an international competitive bidding
+                         process. The National Portal would enable ministries, departments, and agencies to consolidate
+                         information and services to provide what the users with essential information and services. The
+                         National Portal would also serve as a primary engagement channel for the citizens and businesses to
+                         provide feedback on issues with poor public services and/or raise concerns on corrupted practices.
+                         As such, the National Portal will become the essential platform for citizens and businesses in dealing
+                         with all Government related matters in Myanmar. The ability for the portal to operate across the
+                         Internet and Mobile, and in both Myanmar and English languages would mean the portal will
+                         become a strategic tool for the various groups of users, regardless of language barriers, and physical
+                         location.
+                          (b)     eLeadership Capacity Building (US$ 0.09 million). The main objective of this
+                         subcomponent is to carry out the changes in processes needed to transform the way Government
+                         delivers its services to citizens and businesses. As civil servants in ministries and agencies are in
+                         charge of these processes, a series of visioning and capacity building programs are recommended to
+                         drive mind-set changes in the ministries involved in delivering the services electronically. This will
+                         include: (a) a series of high-level eGovernment visioning exercises to expose politicians and senior
+                         civil servants to the value of eGovernment and how it supports the nation’s charter for accountability,
+                         transparency and progress; and (b) eGovernment capacity building for approximately 150
+                         government employees. The government employees will be trained in conceptualizing, planning,
+                         managing and monitoring e-Government services. The eGovernment capacity building program
+                         would be designed for public officers who are involved in the provision of services in each Ministry.
+                         (c) eGovernment Delivery Unit (US$ 1.08 million): The project will also initially finance operations
+                         costs of an eGovernment delivery unit, which should comprise of staff with project management,
+                         change management and technical skill sets to coordinate different aspects of implementing the
+                         eGovernment program.
+Public Disclosure Copy
+
+
+
+
+                         These component activities do not envisage any civil works or development of technical studies that
+                         will trigger civil works in the future.
+
+
+                         Project Implementation Support ($2.06 million). Project funds will be used to support the MCIT/
+                         PTD with project implementation support. A full-time Project Director will be appointed from the
+                         MCIT Government staff to implement the project effectively and efficiently. The project director
+                         will be a Government appointed staff. The project director will report to the Deputy Minister, MCIT
+                         and support MCIT to conduct implementation activities - including project management, co-
+                         ordination, procurement, financial management, monitoring and evaluation, and social impact
+                         assessments. Funds will also be used to procure required infrastructure and services to support the
+                         Project Director’s office as needed, including office equipment and vehicles. Operational costs of
+                         the project will also be met from this allocation. The Government’s in-kind contribution to the
+                         project will include office space and the salary of the Project Director.
+                          4. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+                         Components 1, 2 and 3 of the project will be implemented in Nay Pyi Taw and Yangon, whereas
+                         second phase of Component 2 will be implemented in remote, rural inhabited locations in Myanmar.
+                         The exact locations and details of Component 2 will be identified and confirmed during project
+
+
+                                                                      Page 4 of 13
+                         implementation when the Universal Service Strategy is developed and pilots designed in line with
+                         this Strategy recommendation and demand. Potential site specific and small-scale impacts are
+                         associated with the installation of the towers/masts and base stations for mobile services in rural
+Public Disclosure Copy
+
+
+
+
+                         areas. Screening procedures are set up in the Environmental and Social Management Framework
+                         developed for the project. All Project sites where telecommunication masts and towers will be
+                         installed will be selected in such a manner that they do not adversely affect natural habitats, forests,
+                         and physical cultural resources. The Project will not finance construction or rehabilitation of any type
+                         of dams and will not depend on operation of existing reservoirs or dams. The project will not impact
+                         International waterways and will not alter their water quality or quantity.
+                         5. Environmental and Social Safeguards Specialists
+                         Andrea Fitri Woodhouse (EASTS)
+                         Ruxandra Maria Floroiu (EASER)
+                         Satoshi Ishihara (EASTS)
+
+                         6. Safeguard Policies                Triggered? Explanation (Optional)
+                         Environmental Assessment OP/         Yes               The project is proposed as category “B” as the
+                         BP 4.01                                              Extending Rural Connectivity component of the
+                                                                              project will include limited small scale civil
+                                                                              works related to the construction of
+                                                                              telecommunications masts and towers. Potential
+                                                                              but temporary negative impacts on local
+                                                                              environment and communities (such as noise and
+                                                                              air emissions, temporary access detours,
+                                                                              temporary disturbance to vegetation, etc) will
+                                                                              mainly occur during the construction phases of
+                                                                              this Project. The nature of the proposed
+                                                                              construction works although at different sites (not
+Public Disclosure Copy
+
+
+
+
+                                                                              identified yet) will include similar activities (e.g.,
+                                                                              installation of antenna supporting small
+                                                                              structures, their foundations of reinforced
+                                                                              concrete, and appurtenances in line with technical
+                                                                              standards, installation of towers equipped with
+                                                                              specific accessories, safety devices, lights,
+                                                                              ladders, etc) with an extent of impacts during
+                                                                              construction that can be readily screened,
+                                                                              assessed and mitigated. The selection of sites will
+                                                                              be screened for environment and social impacts
+                                                                              using an Environmental and Social Management
+                                                                              Framework (ESMF) before decision on the actual
+                                                                              location is made and commencement of works.
+                                                                              To mitigate the potential negative impacts during
+                                                                              construction and maintenance, Environmental
+                                                                              Codes of Practices (ECOPs) have been prepared
+                                                                              as part of the ESMF to outline requirements for
+                                                                              mitigation measures and monitoring aspects to be
+                                                                              carried out during construction and as well as
+
+
+
+                                                                      Page 5 of 13
+                                                                         maintenance. This ESMF is in line with the WB
+                                                                         safeguard policies and will be incorporated in the
+                                                                         bidding documents of the contractors/selected
+Public Disclosure Copy
+
+
+
+
+                                                                         operators particularly the site specific ECOP/
+                                                                         EMP part of the ESMF. The ESMF be disclosed
+                                                                         in the Bank’s Infoshop on December 2, 2013. It
+                                                                         was disclosed in the country on the MCIT
+                                                                         website in English on November 22, 2013 and in
+                                                                         the local Myanmar language on November
+                                                                         25,2013. The draft has been also discussed with
+                                                                         civil society organizations during two public
+                                                                         consultation sessions held on November 28 in
+                                                                         Yangon before project appraisal.
+                         Natural Habitats OP/BP 4.04       Yes            Policy is triggered as a precautionary approach
+                                                                         since specific locations of project sites have not
+                                                                         been yet identified and related civil works might
+                                                                         have potential to impact existing natural habitats.
+                                                                         The ESMF includes screening procedure to (i)
+                                                                         determine whetherthe proposed site for towers
+                                                                         installation is in a critical or non-critical natural
+                                                                         habitat and (ii) avoid any significant conversion
+                                                                         or degradation of any critical natural habitat. Sites
+                                                                         with critical natural habitats that could be
+                                                                         adversely affected by the installation of masts and
+                                                                         towers will be avoided, whereas installation of
+                                                                         masts and towers maybe allowed in natural
+                                                                         habitats provided that the benefits outweigh the
+                                                                         negative impacts of the installations and that
+Public Disclosure Copy
+
+
+
+
+                                                                         mitigating measures developed and implemented
+                                                                         to address the impacts.
+                         Forests OP/BP 4.36                No             Given the scale of mast and tower installations,
+                                                                         the project is not expected to affect forests, forest
+                                                                         health and forest-dependent communities.
+                                                                         Nevertheless, the ESMF includes provisions for
+                                                                         screening environment and social impacts of mast
+                                                                         and tower installationsand measures in case the
+                                                                         installations will have impacts on forests.
+                         Pest Management OP 4.09           No             Not relevant
+
+                         Physical Cultural Resources OP/   Yes            It is unlikely that the masts and towers will be
+                         BP 4.11                                         located in areas with and/or will negatively affect
+                                                                         PCR. Nevertheless, the ESMF includes
+                                                                         provisions for screening of PCRs during site
+                                                                         selection and installation of masts and towers.
+                                                                         This will include an investigation and inventory
+                                                                         of cultural resources likely to be affected,
+                                                                         documentation of the characteristics and
+
+
+                                                                 Page 6 of 13
+                                                                        significance of such resources, and brief
+                                                                        assessment of the nature and extent of the impact.
+                                                                        In addition, the ESMF also includes provisions
+Public Disclosure Copy
+
+
+
+
+                                                                        for Chance Find during installation of masts and
+                                                                        towers
+                         Indigenous Peoples OP/BP 4.10    Yes             Since a large part of population in remote areas
+                                                                        where Extending connectivity to rural areas pilot
+                                                                        would be implemented under Component 2 are
+                                                                        ethnic minorities, the policy is triggered. The
+                                                                        Ethnic Minorities Planning Framework (EMPF,
+                                                                        equivalent of IPPF) has been developed and
+                                                                        attached to the Environmental and Social
+                                                                        Management Framework. EMPF was disclosed
+                                                                        locally and at Infoshop as a stand-alone
+                                                                        document. Ethnic screening will be conducted per
+                                                                        EMPF during implementation and, where ethnic
+                                                                        minorities are found to be present, free, prior and
+                                                                        informed consultations will be carried out leading
+                                                                        to broad community support to the pilot activities.
+                                                                        A Social Assessment will also be carried out and
+                                                                        a simple Ethnic Minority Plan will be developed
+                                                                        per EMPF which will provide measures to
+                                                                        mitigate negative project impacts, if any and
+                                                                        enhance benefits if appropriate. Consultation
+                                                                        meetings were conducted with organizations
+                                                                        representing ethnic minorities during preparation
+                                                                        which confirmed their broad support to the
+                                                                        project.
+Public Disclosure Copy
+
+
+
+
+                         Involuntary Resettlement OP/BP   Yes             It is not anticipated that involuntary land
+                         4.12                                           acquisition will occur under the project since
+                                                                        operators under Component 2 will make long
+                                                                        term lease contracts with interested land owners
+                                                                        on commercial and willing buyer-willing seller
+                                                                        terms. However, the policy is triggered, given the
+                                                                        complex and uncertain land tenure situation in
+                                                                        parts of rural Myanmar and the limited
+                                                                        knowledge of many rural people of land
+                                                                        ownership or land use entitlements that may make
+                                                                        them vulnerable when entering into commercial
+                                                                        long term lease contracts. Land Lease Guidelines
+                                                                        were developed in line with OP 4.12, and are part
+                                                                        of the ESMF. It was also disclosed as a stand-
+                                                                        alone document locally and at Infoshop.
+
+                                                                        It is expected that the project will support 4
+                                                                        pilots. The operators will seek land owners who
+                                                                        are willing to lease their land on a commercial
+
+
+                                                                Page 7 of 13
+                                                                                basis. Government entities will not provide any
+                                                                                support to the operators in securing lease
+                                                                                contracts, but provide guidance to land owners to
+Public Disclosure Copy
+
+
+
+
+                                                                                ensure they can negotiate lease contracts with the
+                                                                                operators with a full knowledge of their
+                                                                                entitlements under the project, without coercion
+                                                                                or under duress. The Land Lease Guidelines also
+                                                                                provide steps to verify that there is no legacy
+                                                                                issue in any land transactions under the project,
+                                                                                and that no pilot would be supported that requires
+                                                                                an extension of the existing core ICT network to
+                                                                                which the pilot ICT sub-schemes are functionally
+                                                                                related.
+                            Safety of Dams OP/BP 4.37           No                The Project will not involve in construction or
+                                                                                rehabilitation of any dams. None of the project
+                                                                                activity is dependent of any existing dam or dam
+                                                                                under construction.
+                            Projects on International           No                There are no known investments involving
+                            Waterways OP/BP 7.50                                International Waterways as defined under this
+                                                                                Policy of the World Bank
+                            Projects in Disputed Areas OP/BP No                   The project is not located in any known disputed
+                            7.60                                                areas as defined under this WB Policy. All
+                                                                                activities will be confined to Myanmar Political
+                                                                                boundary.
+
+                         II. Key Safeguard Policy Issues and Their Management
+                             A. Summary of Key Safeguard Issues
+Public Disclosure Copy
+
+
+
+
+                            1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+                              and describe any potential large scale, significant and/or irreversible impacts:
+                              Component 2 of Project would support extending connectivity to rural areas on a pilot basis.
+
+                             OP 4.01 on Environmental Assessment is triggered since Component 2 will entail limited small
+                             scale civil works related to the construction of telecommunication towers. The general known and
+                             predictable impacts envisaged during construction stage include primarily dust, noise, construction
+                             waste effects and temporary disruption of access roads. Provisions for possible impacts and
+                             relevant mitigation measures anticipated during project sites screening for environmental and
+                             social criteria are listed in ECOPs and included in the ESMF. The height of some radio
+                             transmission towers can pose potentially fatal risk to birds, mainly through collisions. The visual
+                             impacts of tower and antennae equipment may depend on the perception of the local community as
+                             well as the aesthetic value assigned to the scenery Operations and maintenance activities of towers
+                             may result in the generation of electronic wastes such as nickel cadmium batteries and printed
+                             circuit boards from computer and other electronic equipment as well as backup power batteries.
+                             This e-waste will be temporarily stored properly (avoiding direct contact with soil, water, people)
+                             and discarded as hazardous waste in special designated landfills. Finally, communities may be
+                             exposed to structural safety risks in the event of structural failure of masts or towers, especially in
+                             vulnerable areas such as those prone to earthquakes, flooding, or landslides.
+
+
+                                                                        Page 8 of 13
+                          To address such potential impacts the project will carefully integrate environmental provisions in
+                          its design and the choice of site location of towers as well as provide mitigation measures to avoid
+Public Disclosure Copy
+
+
+
+
+                          or manage negative impacts and bring positive environmental conservation benefits such as proper
+                          recycling of waste materials, promotion of sustainable investments in new technology that do not
+                          contain hazardous materials, and environmental awareness and public consultation regarding the
+                          use of local material supply and management in a sustainable manner.
+
+                          OP4.11 on Physical Cultural Resources is triggered given the unknown location of the pilot areas.
+                          However, it is unlikely that the masts /towers will be located in areas with and/or will negatively
+                          affect Physical Cultural Resources (PCRs). Chance find provisions are presented in the ESMF and
+                          inserted in contractors contracts.
+
+                          OP 4.04 on Natural Habitats is triggered as a precautionary approach at this project stage since
+                          specific locations of project sites have not been yet identified and related civil works might have
+                          potential to impact existing natural habitats.
+
+                          The potential application of the last two safeguard policies will be screened during project
+                          implementation, prior to rolling-out of the pilots, at each proposed site where towers/masts will be
+                          installed and if likely to be triggered appropriate mitigation measures and monitoring of their
+                          implementation will be carried out in line with provisions defined in this Environment and Social
+                          Management Framework (ESMF).
+
+                          OP4.10 is triggered because the pilot may be implemented in areas where ethnic minorities are
+                          present, since the pilot will be implemented in commercially unviable rural areas. Overall impacts
+                          are expected to be positive, since the pilot will allow cheap and easier access to ICT services for
+                          ethnic minorities if they are present in pilot areas. The improved connectivity to ICT services may
+                          disturb culture and value systems of ethnic minorities, at least temporarily.
+Public Disclosure Copy
+
+
+
+
+                          Also, the installation of towers, masts and sub-stations that is required under Component 2 will
+                          require a limited scale of land which the operators will secure based on a long-term lease
+                          contracts. The government entities are not allowed to support the operators in securing the land,
+                          and the operators should make a lease contract with land owners/ occupants on a voluntary and
+                          commercial basis. The fluid tenure situations in rural Myanmar and lack of knowledge among
+                          rural people of land ownership or land use entitlements make them potentially vulnerable when
+                          entering into lease contracts. OP 4.12 is thus triggered to set out processes and procedures so all
+                          landtransactions under the project will be conducted on a voluntary and commercial basis, with
+                          adequate information and without coercion or under duress.
+
+                           In order to ensure that free, prior and informed consultations are conducted with ethnic minorities
+                           in pilot areas leading to their broad community support, that negative impacts that may occur to
+                           local people including but not limited to ethnic minorities will be fully mitigated, and that land
+                           owners/ users negotiate and enter into commercial land lease contracts with the operators with
+                           adequate information on and without coercion or under duress, Land Lease Guidelines and an
+                           Ethnic Minority Planning Framework are developed and attached to the Environmental and Social
+                           Management Framework.
+                         2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+                           in the project area:
+
+
+                                                                     Page 9 of 13
+                           None anticipated.
+                         3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+                           impacts.
+Public Disclosure Copy
+
+
+
+
+                           Alternative pilot sites have to be identified namely if (i) impacts are significant and/or risks levels
+                           are rated high, (ii) the functional independence of the pilot is not confirmed based on site
+                           inspections, and/ or (iii) ethnic minorities in pilot areas do not provide broad community support
+                           to pilot activities. Also, if the site inspection and screening find that local people have to
+                           physically relocate to build infrastructure, alternative sites should be identified where no physical
+                           relocation is required.
+                         4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+                           assessment of borrower capacity to plan and implement the measures described.
+                           The ESMF has been developed by Ministry of Communications and Information Technology
+                           (MCIT) to comprise the following key steps: (1) safeguard screening and impacts assessment
+                           through site surveys of project areas, including taking in consideration extensive consultation
+                           sessions with stakeholders and residents in each pilot project areas; (2) preparation of mitigation
+                           measures and documentation (ECOPs; Land Lease Guidelines; Ethnic Minority Planning
+                           Framework); and (3) implementation, monitoring, and reporting.
+
+                           The environmental and social safeguard screening, impact assessment, and preparation of site
+                           specific ECOPs or EMPs under Component 2 will be carried out during Project implementation
+                           and will be submitted for WB clearance before their approval and implementation. An Ethnic
+                           Minority Plan should be reviewed and cleared by the WB before the pilot for which the EM Plan
+                           is developed is approved for implementation, and the first 10 land lease contracts should also be
+                           reviewed and cleared by the WB before the civil works which requires the land lease are allowed
+                           to start. It should be noted that all chosen investments would have to meet the selection criteria as
+                           specified in this ESMF in order for the ESMF and ECOPs to apply. If any pilots selected for
+                           investment do not meet the selection criteria, additional safeguard documents such as
+Public Disclosure Copy
+
+
+
+
+                           Environmental Management Plan (EMP) may be required. World Bank team shall be consulted
+                           where necessary timely before approval of sites. The assessment and verification of land leasing,
+                           and free, prior and informed consultation with ethnic minorities will also be carried out as part of
+                           the ESMF process.
+
+                           The Borrower has limited institutional capacity for safeguard policies. At the national level there
+                           is limited legal requirements and limited institutional capacity for ensuring effective safeguard
+                           preparation and implementation in infrastructure projects in Myanmar. The MCIT is in the
+                           process of issuing licenses to two new operators/service providers (from Norway and Qatar) who
+                           were selected through an international competitive process. There will be four licensed
+                           telecommunications operators in total in Myanmar over the next few years - the two new foreign
+                           operators mentioned earlier and two Myanmar companies, including Myanmar Post and
+                           Telecommunications. These service providers will be required to adhere to the license terms and
+                           conditions for purpose of each pilot site, and to meet particular technical construction guidelines as
+                           well as the social and environmental requirements as listed in ECoPs/site-specific EMPs (and
+                           detailed in the ESMF).
+
+                           The MCIT will hire a Safeguards Specialist to support the function for the project. MCIT staff will
+                           also receive training and guidance from World Bank safeguard specialists during project
+                           implementation. Also, the Service Provider will appoint an Environmental and Social Focal Point,
+
+
+                                                                      Page 10 of 13
+                           who will assume the primary responsibility for the overall planning and implementation of
+                           environmental and social issues under the project (e.g., s/he will visit pilot sites regularly,
+                           especially for the first six months of pilot implementation when s/he should visit pilot sites on a
+Public Disclosure Copy
+
+
+
+
+                           monthly basis, monitor compliance of all pilots with ESMF, receive grievances local people and
+                           seek to resolve them in partnership with the MCIT Safeguard Specialist). Estimated budget has
+                           been included in the project funds to provide specific capacity building and training on applicable
+                           safeguards policies
+                           to the Safeguards Specialists in MCIT as well as to the Service Provider Environmental and Social
+                           Focal Point.
+
+                           For the Project, activities to build safeguard capacity building at MCIT will be designed.
+
+                           The ECOP will be included in procurement and contract documents and all costs for the
+                           implementation of mitigation measures will be part of the contract cost.
+                         5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+                           on safeguard policies, with an emphasis on potentially affected people.
+                           Key stakeholders are the MCIT, the operators and communities who will receive services. ESMF
+                           was disclosed at MCIT’s website, and consultation meetings were conducted with interested
+                           stakeholders – one with international NGOs and another with national stakeholders including
+                           national NGOs. When pilot sites under Component 2 are determined, copies of ESMF will be
+                           made available in local language in pilot areas. Free, prior and informed consultations will be
+                           carried out in pilot areas, without regard to the ethnicity of pilot areas, as part of the community
+                           outreach to be carried out by the operator to ensure local people are aware of both the upcoming
+                           ICT services that will be made available to them, and potential impacts, mitigation measures and
+                           grievance mechanisms that will be made available to them under the project.
+                         B. Disclosure Requirements
+                         Environmental Assessment/Audit/Management Plan/Other
+Public Disclosure Copy
+
+
+
+
+                           Date of receipt by the Bank                                       22-Nov-2013
+                           Date of submission to InfoShop                                    04-Dec-2013
+                           For category A projects, date of distributing the Executive
+                           Summary of the EA to the Executive Directors
+                         "In country" Disclosure
+                           Myanmar                                                           22-Nov-2013
+                           Comments: Disclosure of the ESMF took place online in both English (on November 22, 2013)
+                                         and the Myanmar language (on November 25, 2013). Public consultations were held
+                                         in Yangon on November 28, 2013 with local stakeholders, including NGOs.
+                                         Consultations also took place on the same day with donors and international NGOs.
+                                         During project implementation, (design of pilots under Component 2 stage), the
+                                         ESMF and site specific EMPs will be disclosed to communities in the selected pilot
+                                         areas.
+                          Resettlement Action Plan/Framework/Policy Process
+                           Date of receipt by the Bank                                       22-Nov-2013
+                           Date of submission to InfoShop                                    04-Dec-2013
+
+
+
+
+                                                                     Page 11 of 13
+                         "In country" Disclosure
+                           Myanmar                                                           25-Nov-2013
+                           Comments: Land Lease Guidelines were developed in line with OP 4.12, and attached to the
+Public Disclosure Copy
+
+
+
+
+                                         ESMF.
+                          Indigenous Peoples Development Plan/Framework
+                           Date of receipt by the Bank                                       22-Nov-2013
+                           Date of submission to InfoShop                                    04-Dec-2013
+                         "In country" Disclosure
+                           Myanmar                                                           25-Nov-2013
+                           Comments: The Ethnic Minorities Planning Framework (EMPF, equivalent of IPPF) has been
+                                         developed and attached to the Environmental and Social Management Framework.
+                                         EMPF was disclosed locally and at Infoshop as a stand-alone document.
+                         If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+                         respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+                         Audit/or EMP.
+                         If in-country disclosure of any of the above documents is not expected, please explain why:
+
+
+                         C. Compliance Monitoring Indicators at the Corporate Level
+                         OP/BP/GP 4.01 - Environment Assessment
+                          Does the project require a stand-alone EA (including EMP)          Yes [   ]   No [   ]   NA [   ]
+                          report?
+                          If yes, then did the Regional Environment Unit or Sector           Yes [   ]   No [   ]   NA [   ]
+                          Manager (SM) review and approve the EA report?
+                          Are the cost and the accountabilities for the EMP incorporated     Yes [   ]   No [   ]   NA [   ]
+Public Disclosure Copy
+
+
+
+
+                          in the credit/loan?
+                         OP/BP 4.04 - Natural Habitats
+                          Would the project result in any significant conversion or          Yes [   ]   No [   ]   NA [   ]
+                          degradation of critical natural habitats?
+                          If the project would result in significant conversion or           Yes [   ]   No [   ]   NA [   ]
+                          degradation of other (non-critical) natural habitats, does the
+                          project include mitigation measures acceptable to the Bank?
+                         OP/BP 4.11 - Physical Cultural Resources
+                          Does the EA include adequate measures related to cultural          Yes [   ]   No [   ]   NA [   ]
+                          property?
+                          Does the credit/loan incorporate mechanisms to mitigate the        Yes [   ]   No [   ]   NA [   ]
+                          potential adverse impacts on cultural property?
+                         OP/BP 4.10 - Indigenous Peoples
+                          Has a separate Indigenous Peoples Plan/Planning Framework          Yes [   ]   No [   ]   NA [   ]
+                          (as appropriate) been prepared in consultation with affected
+                          Indigenous Peoples?
+                          If yes, then did the Regional unit responsible for safeguards or   Yes [   ]   No [   ]   NA [   ]
+                          Sector Manager review the plan?
+
+
+                                                                     Page 12 of 13
+                             If the whole project is designed to benefit IP, has the design     Yes [    ]   No [   ]   NA [   ]
+                             been reviewed and approved by the Regional Social
+Public Disclosure Copy
+
+
+
+
+                             Development Unit or Sector Manager?
+                            OP/BP 4.12 - Involuntary Resettlement
+                             Has a resettlement plan/abbreviated plan/policy framework/         Yes [    ]   No [   ]   NA [   ]
+                             process framework (as appropriate) been prepared?
+                             If yes, then did the Regional unit responsible for safeguards or   Yes [    ]   No [   ]   NA [   ]
+                             Sector Manager review the plan?
+                            The World Bank Policy on Disclosure of Information
+                             Have relevant safeguard policies documents been sent to the        Yes [    ]   No [   ]   NA [   ]
+                             World Bank's Infoshop?
+                             Have relevant documents been disclosed in-country in a public      Yes [    ]   No [   ]   NA [   ]
+                             place in a form and language that are understandable and
+                             accessible to project-affected groups and local NGOs?
+                            All Safeguard Policies
+                             Have satisfactory calendar, budget and clear institutional         Yes [    ]   No [   ]   NA [   ]
+                             responsibilities been prepared for the implementation of
+                             measures related to safeguard policies?
+                             Have costs related to safeguard policy measures been included      Yes [    ]   No [   ]   NA [   ]
+                             in the project cost?
+                             Does the Monitoring and Evaluation system of the project           Yes [    ]   No [   ]   NA [   ]
+                             include the monitoring of safeguard impacts and measures
+                             related to safeguard policies?
+                             Have satisfactory implementation arrangements been agreed          Yes [    ]   No [   ]   NA [   ]
+                             with the borrower and the same been adequately reflected in
+Public Disclosure Copy
+
+
+
+
+                             the project legal documents?
+
+                         III. APPROVALS
+                            Task Team Leader: Name: Tenzin Dolma Norbhu
+                            Approved By
+                            Regional Safeguards Name: Peter Leonard (RSA)                               Date: 05-Dec-2013
+                            Advisor:
+                            Sector Manager:     Name: Alan G. Carroll (SM)                              Date: 05-Dec-2013
+
+
+
+
+                                                                       Page 13 of 13
+

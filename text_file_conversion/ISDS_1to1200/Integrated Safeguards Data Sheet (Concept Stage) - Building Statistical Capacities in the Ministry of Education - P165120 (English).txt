@@ -1,0 +1,292 @@
+                                  The World Bank
+                                  Building Statistical Capacities in the Ministry of Education
+
+
+
+
+                                                      Integrated Safeguards Data Sheet
+                                                    Identification / Concept Stage (ISDS)
+Public Disclosure Copy
+
+
+
+
+                                                 Concept Stage | Date ISDS Prepared/Updated: 29-Nov-2017 | Report No: ISDSC23046
+
+
+
+
+                         Nov 30, 2017                                                                                              Page 1 of 6
+                                  The World Bank
+                                  Building Statistical Capacities in the Ministry of Education
+
+
+
+                          BASIC INFORMATION
+
+                           A. Basic Project Data
+
+                           Project ID                       Project Name                    Environmental Category   Country
+                                                            Building Statistical
+                           P165120                          Capacities in the Ministry      C - Not Required         Guatemala
+                                                            of Education
+                           Team Leader(s)                   Estimated Date of Approval      Managing Unit            Financing Instrument
+                                                                                                                     Investment Project
+                           Enrique O. Alasino Massetti                                      GED04
+                                                                                                                     Financing
+Public Disclosure Copy
+
+
+
+
+                          Financing (in USD Million)
+
+                           SUMMARY             -NewFin1
+
+
+
+
+                           Total Project Cost                                                                                                    0.35
+                           Total Financing                                                                                                       0.35
+                           Financing Gap                                                                                                         0.00
+
+
+                           DETAILS  -NewFin2
+
+
+
+
+                           B. Project Development Objective(s)
+                           The development objective of this Project is to strengthen the capacity of MINEDUC to collect, manage, analyze and
+                           use high-quality statistical information to design, implement and evaluate evidence-based interventions to address key
+                           sector challenges.
+
+                           C. Project Description
+                                 1. Description
+
+                           The proposed Project will be financed through a Recipient Executed Grant from the Trust Fund for
+                           Statistical Capacity Building (TFSCB) over a period of eighteen months. The total Project amount is
+                           US$450,000.
+
+                           The Project will be divided in three components:
+
+                                 1. Enhancing SIRE;
+                                 2. Boosting SIRE to predict students at risk of dropping out;
+
+                         Nov 30, 2017                                                                                                       Page 2 of 6
+                                  The World Bank
+                                  Building Statistical Capacities in the Ministry of Education
+
+
+
+
+                                 3. Providing support for Project management.
+
+                           Component 1. Enhancing SIRE – Requested amount: US$291,000.
+
+                           The objective of this component is to strengthen SIRE, which is led by MINEDUC’s Planning Directorate
+                           (Dirección de Planificación Educativa, DIPLAN). To this end, under this Component the Project will support:
+
+                           Subcomponent 1.1. Detailed diagnosis of current data management and utilization practices, including a
+                           benchmarking analysis with comparable countries. In particular, this component will finance the
+                           implementation of the SABER conceptual background and operational tools to assess the Education
+                           Management and Information System (henceforth, SABER- EMIS tool);
+
+                           Subcomponent 1.2. Training MINEDUC technical staff on methods for processing and analyzing statistical
+                           data included in SIRE. This subcomponent will finance training on processing and analyzing school- and
+Public Disclosure Copy
+
+
+
+
+                           student-level data (including learning assessment results). The training program will be comprised of
+                           theoretical and practical modules, including: i) the use of BusinessObjects software, ii) statistical software
+                           (e.g., SPSS, Stata, Big Data tools, etc.), and iii) econometric methods. The program will also include training
+                           on sub-group analysis of particular interest to MINEDUC, including gender, ethnic group, and area of
+                           residence. Training will be open to staff within the Directorate of Evaluation and Educational Research
+                           (Dirección General de Evaluación e Investigación Educativa, DIGEDUCA) and DIPLAN, among others. This
+                           subcomponent will also finance technical assistance to DIPLAN on the use of statistical information for
+                           strategic planning, budgeting and quality assurance.
+
+                           Subcomponent 1.3. Updating MINEDUC’s data analysis and management tools. In particular, this
+                           subcomponent will finance: i) desktop computers, laptops and/or tablets for technical staff in charge of data
+                           analysis to manage and deliver the information faster and better; and ii) acquiring licenses for statistical data
+                           processing software (i.e., Stata). The acquisition of and installing the BusinessObjects software updates will
+                           be financed by MINEDUC (US$100,000).
+
+                           Subcomponent 1.4. Developing a “Good Practices in Statistical Information Management Manual” that
+                           includes policies, strategies and mechanisms for managing, processing, analyzing and using statistical data,
+                           following the Recommendation of the Organization for Economic Cooperation and Development
+                           (OECD) Council on Good Statistical Practice (OECD 2015) and the Code of Good Practices in Statistics for Latin
+                           America and the Caribbean (Economic Commission for Latin America and the Caribbean 2011).
+
+                           Component 2. Boosting SIRE to predict students at risk of dropping out – Requested amount: US$98,000.
+
+                           This Component will finance activities related to strengthening and enrichening SIRE to increase its
+                           usefulness for informing evidence-based decision-making. In particular, related activities include: (i)
+                           designing new questionnaires; (ii) programming new data entry mechanisms; (iii) expanding, disaggregating
+                           and fine-tuning information fields; (iv) integrating the system with other systems (within MINEDUC or other
+                           sectors); (v) implementing data quality assurance strategies, among others. Ethnic disaggregated data and
+                           socio-cultural pertinent questionnaires will be integral parts of these activities to reflect Indigenous Peoples’
+
+                         Nov 30, 2017                                                                                                Page 3 of 6
+                                  The World Bank
+                                  Building Statistical Capacities in the Ministry of Education
+
+
+
+
+                           situation and inform education public policies. This subcomponent will also finance technical assistance for
+                           designing a strategic plan for cost-effective information-based interventions aimed at reducing school
+                           dropout based on international experience. Activities under this component will build on the results of the
+                           pilot of the Early Warning System.
+
+                           Component 3. Providing support for Project management – Requested amount: US$61,000.
+
+                           This Component will finance Project management costs, such as hiring support staff (procurement and
+                           financial management), a national consultant to provide technical assistance for overall project
+                           management, operating costs such as equipment and office supplies, and will finance the required audit of
+                           Grant implementation activities.
+Public Disclosure Copy
+
+
+
+
+                           SAFEGUARDS
+
+
+                          D. Project location and salient physical characteristics relevant to the safeguard
+                          analysis (if known)
+                          The project will be implemented nationwide, providing an opportunity to benefit Indigenous Peoples with
+                          more targeted educational public policies, addressing the root causes of high drop-out rates amongst this
+                          population. Indigenous Peoples in Guatemala are more likely to have fewer years of schooling than non-
+                          indigenous population. Unfortunately, lack of disaggregated data in education may turn their situation
+                          invisible and may hinder the implementation of much needed public policies. Guatemala has an impressive
+                          cultural, ethnic and linguistic diversity. There are 122 municipalities with more than 80% of the population
+                          identifying itself as indigenous. The departments with the highest rate of indigenous populations are located
+                          to the West of the country: Totonicapán, Sololá, Quetzaltenango, Quiché, Huehuetenango, Alta Verapaz y
+                          Chimaltenango.
+
+
+
+                          E. Borrower’s Institutional Capacity for Safeguard Policies
+                          Despite limitations on the collection and use of disaggregated data to feed into the policy-making process,
+                          MINEDUC has satisfactory track record of working with the World Bank in education.
+
+
+
+                          F. Environmental and Social Safeguards Specialists on the Team
+                          Gunars H. Platais, Environmental Safeguards Specialist
+                          Erika Piber, Social Safeguards Specialist
+                          Dianna M. Pizarro, Social Safeguards Specialist
+
+
+
+                         Nov 30, 2017                                                                                             Page 4 of 6
+                                  The World Bank
+                                  Building Statistical Capacities in the Ministry of Education
+
+
+
+
+                          G. Policies that might apply
+                          Safeguard Policies Triggered by the Project                 Triggered?             Explanation (Optional)
+                                                                                                   This policy is not triggered given that none
+                                                                                                   of the proposed activities will have a
+                          Environmental Assessment OP/BP 4.01                   No
+                                                                                                   physical footprint with adverse
+                                                                                                   environmental impacts.
+                                                                                                   This policy is not triggered given that none
+                                                                                                   of the proposed activities will have a
+                          Natural Habitats OP/BP 4.04                           No
+                                                                                                   physical footprint with adverse
+                                                                                                   environmental impacts on natural habitats.
+                                                                                                   This policy is not triggered given that none
+                                                                                                   of the proposed activities will have a
+                          Forests OP/BP 4.36                                    No
+                                                                                                   physical footprint and will not involve
+Public Disclosure Copy
+
+
+
+
+                                                                                                   forests.
+                                                                                                   This policy is not triggered given that
+                          Pest Management OP 4.09                               No                 project activities will not involve the
+                                                                                                   purchase or use of pesticides.
+                                                                                                   This policy is not triggered given that none
+                                                                                                   of the proposed activities include a physical
+                          Physical Cultural Resources OP/BP 4.11                No
+                                                                                                   footprint or soil removal that may affect
+                                                                                                   physical cultural resources.
+                                                                                                   As required for Bank TA, this grant will
+                                                                                                   ensure the effective inclusion of Indigenous
+                                                                                                   people's concerns and aspirations and
+                                                                                                   processes outlined in OP/BP 4.10 within the
+                                                                                                   ToRs for the support provided (i.e., profiles,
+                                                                                                   activities and products to guide information
+                                                                                                   collection and analysis).
+
+                          Indigenous Peoples OP/BP 4.10                         Yes                The team will include a specialist in
+                                                                                                   statistics with knowledge and experience in
+                                                                                                   Indigenous Peoples’ statistics to ensure
+                                                                                                   educational data disaggregation based on
+                                                                                                   ethnicity and socio-cultural pertinence of
+                                                                                                   new questionnaires. Within Component 1,
+                                                                                                   the specialist will also support the
+                                                                                                   development of training on sub-group
+                                                                                                   analysis focused on Indigenous Peoples.
+                                                                                                   This policy is not triggered given that
+                                                                                                   project activities will not involve the
+                          Involuntary Resettlement OP/BP 4.12                   No                 involuntary taking of land or the
+                                                                                                   involuntary restriction of access to legally
+                                                                                                   designated parks and protected areas.
+                          Safety of Dams OP/BP 4.37                             No                 This policy is not triggered given that the
+
+
+                         Nov 30, 2017                                                                                                     Page 5 of 6
+                                   The World Bank
+                                   Building Statistical Capacities in the Ministry of Education
+
+
+
+                                                                                                                      project will not support the construction or
+                                                                                                                      rehabilitation of dams nor will support
+                                                                                                                      other investments which rely on the
+                                                                                                                      services of existing dams.
+                                                                                                                      This policy is not triggered as project
+                          Projects on International Waterways OP/BP 7.50                No                            activities will not be implemented in any
+                                                                                                                      international waterways.
+                                                                                                                      This policy is not triggered because the
+                          Projects in Disputed Areas OP/BP 7.60                         No                            proposed project will not affect disputed
+                                                                                                                      areas as defined under the policy.
+
+
+                          H. Safeguard Preparation Plan
+Public Disclosure Copy
+
+
+
+
+                          Appraisal stage ISDS required? No
+
+
+                              APPROVALS
+
+                              Team Leader(s):                                  Enrique O. Alasino Massetti
+
+                              Approved By
+
+                              Safeguards Advisor:                             Noreen Beg                                        18-Oct-2017
+
+                              Practice Manager/Manager:                       Yves Jantzem                                      18-Oct-2017
+
+
+                          1Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) by the Bank and (ii) in country
+                          by the Borrower/Recipient, at publicly accessible locations and in a form and language that are accessible to potentially affected persons.
+
+
+
+
+                         Nov 30, 2017                                                                                                                              Page 6 of 6
+

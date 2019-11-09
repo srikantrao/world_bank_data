@@ -1,0 +1,332 @@
+﻿73019
+INTEGRATED SAFEGUARDS DATASHEET
+APPRAISAL STAGE
+Date prepared/updated: 10/09/12
+I. Basic Information
+1. Basic Project Data
+Country: Kiribati Project ID: Pl21878
+IAdditional Project ID (if any):
+Project Name: Grid Connected Solar PV Central Station Project
+Task Team Leader: Kamlesh Khelawan
+Estimated Appraisal Date: 15 September 2012         CDApoal Date: 30 November 2012
+Managing Unit: EAP                                          Instrument: Grant
+Sector: SDN
+Theme: Climate Change
+IBRD Amount (US$m.): NIL
+IDA Amount (US$m.): NIL
+GEF Amount (US$m.): 1.00
+PCF Amount (US$m.):
+Other financing amounts by source: PRIF $2.92m
+Environmental Category: C
+Is this a transferred project                       Yes [X]                   No []
+Simplified Processing                               Simple [X}                Repeater [r]
+Is this project processed under OP 8.00 (Rapid Response to Crises and         Yes           No[X]
+Emergencies)
+2. Project Objectives:
+This ISDS is for the Kiribati Grid Connected Solar PV Central Station Project. The project goal is to
+contribute to reduce Kiribati's dependence on imported petroleum for power generation in order to improve
+energy security and to reduce the GHG emissions from diesel fuel use for grid electricity supply in Kiribati.
+The specific objective of the proposed MSP is to serve as a catalyst for the substitution of the diesel based
+electricity generation for the South Tarawa grid by grid-connected solar PV supply of electricity.
+3. Project Description:
+Project Components:
+Investment Component
+About 500 kWp (kilowatt peak capacity) of grid solar PV without storage to kick-start a staged
+implementation strategy for grid connected solar PV over the medium-term. The solar PV arrays will be
+installed and managed at four technically suitable locations, with associated inverters to enable grid in-feed
+at each location. The feasibility study undertaken in 2012 has taken into account engineering, economic
+and market conditions and has determined the sizing and key specifications of the power stations, taking
+into account load shape characteristics and operational and system reliability considerations that may arise
+from injecting the power into the S. Tarawa grid system. Design considerations take into account the
+maritime environment within which the equipment must function reliably.
+The project investments will be built, owned and operated by Tarawa Public Utilities Board (PUB). For
+procurement purposes, the project will be implemented largely on a "design, supply and install" contract
+for the solar PV installation, and include a 3 -year operations and maintenance (O&M) and capacity
+building program to cover the entire project duration, while PUB gains experience in O&M and builds its
+capacity to initiate and manage future investments. The Consultants will also prepare technical bid
+documents for the design, supply and install contract and for ongoing capacity building and maintenance
+programs.
+
+
+﻿The solar PV installations will be on government facilities on sites that are owned or leased by the
+government under long term lease arrangements. The project assets can be relocated without substantive
+risk to project outcomes in the unlikely event that any access issues arise on expiry of government land
+leases.
+Technical assistance
+The technical assistance component of the project includes the following:
+1. Implementation Consultant (Employer's Engineer) to assist PUB, including: supporting
+preparation and technical evaluation of contractor bids received for construction of solar power
+stations, supervision of contractor through commissioning and plant's operational integration
+including monitoring systems and safeguards supervision.
+2. Preparation of a short to medium term development and implementation plan for PUB grid system
+based on least cost options for additional grid connected solar PV (central and distributed) to meet
+demand and reduce dependence on diesel for power generation and safety considerations. [This
+has been completed as part of the feasibility study undertaken during the project preparation].
+3. Recommendations for improving the financial viability of PUB and the sector.
+4. Technical assistance, including training for PUB staff for the solar power station operations and
+maintenance, capacity building and appropriate support to ensure compliance with Bank
+safeguards applicable to the project, as well as financial management.
+4. Project Location and salient physical characteristics relevant to the safeguard analysis:
+The project's physical investments will be located at four sites in South Tarawa, Kiribati. These four sites
+have been chosen based on the fact that they minimize any environment and social impacts, are on sites and
+based on their suitability to produce solar power, and are located on facilities owned and operated by the
+government; on land owned or leased by the government.
+The sites are: (1) Tungaru Central Hospital in Nawerewere (roof-top installations on 9 buildings); (2)
+Kiribati Institute of Technology (KIT) in Betio (one existing roof-top installation, two installations on new
+buildings to be constructed; (3) Betio Sports Complex in Betio (one roof-top installation); and (4) King
+George V Secondary School in Bikenibeu (five roof-top installations). All installations are to be on
+existing roofs except at KIT, with some roofing to be replaced where the roofs show signs of rust.
+Borrower's Institutional Capacity for Safeguard Policies
+The PUB has not worked with the World Bank before on any investment projects and therefore has no
+experience with World Bank Safeguards Policies. However, the safeguards-related risks of this project are
+very low and any required capacity building needs necessary for the PUB to successfully manage the
+safeguards aspects will be done through the TA component of the project.
+In addition, the project will provide funding for an Employer's Engineer and a local support officer to assist
+PUB with the day to day supervision of the implementation of the Environmental Management Plan. It is
+worth mentioning that there is already existing capacity in some ministries in Kiribati in dealing with
+World Bank Safeguards - in particular the Project Management Units (PMU) set up for the Kiribati
+Adaptation Project III (KAP III) and the Kiribati Road Rehabilitation Project. If necessary PUB can work
+together with these PMUs in order to increase their capacity to manage any safeguard concerns.
+5. Environmental and Social Safeguards Specialists on the Team:
+Ms. Pene Ferguson (Consultant)
+Mrs. Ann McLean (Consultant)
+
+
+﻿6. Safeguard Policies Triggered (please explain why)             Yes           No       OP/BP 4.00
+Environmental Assessment (OP/BP 4.01)                             X
+Potential adverse environmental impacts are only anticipated to be
+present during the construction/installation of the solar power
+generation systems on the building roofs. However, such impacts
+are expected to be minor and site-specific. They can be easily
+avoided or effectively managed through the use of readily available,
+simple and cost effective mitigation measures, Therefore, in
+compliance with OP4,01, the team has assigned an EA Category of
+"C" to the project.
+The PUB has prepared an Environmental Management Plan (EMP)
+as part of an environmental assessment, The EMP will be included
+in the civil works contract for use during construction. The provisos
+of the EMP during construction will be binding upon the civil
+works contractor.
+Natural Habitats (OP/BP 4.04)                                                  X
+The policy is not triggered because the project will not cause
+adverse impacts on any natural habitats at any time during
+construction or operation of the system. No land outside of the
+boundaries of the existing properties is required for the solar power
+generation systems to be installed. No off-site impacts from
+obtaining materials (e.g., reef aggregates) for leveling or other
+construction purpose are expected either.
+Forests (OP/BP 4.36)                                                            X
+The policy is not triggered because the project does not involve any
+activities that would affect the health/quality of forests, or the
+rights/welfare of people who depend on forests for livelihoods, or
+the management/protection/utilization of natural forests or
+plantations.
+Pest Management (OP 4,09)                                                      X
+The policy is not triggered because no use or procurement of
+pesticides is needed.
+Physical Cultural Resources (OP/BP 4.11)                                        X
+No Physical Cultural Resources (PCR) are present at the potential
+sites where solar power systems are to be installed.
+Indigenous Peoples (OP/BP 4.10)                                                 X
+Kiribati is a homogenous society - 99 percent of the population
+consists of I-Kiribati indigenous people and the remainder of recent
+migrants such as Tuvaluans and Europeans, The 1-Kiribati are not
+marginalized or vulnerable and enjoy full legal status. They are
+organized along family and kin lines and speak one language, I-
+Kiribati, English is also considered a local language, particularly in
+government. The communities living around the currently identified
+project area are likely to host people who have an ancestral
+attachment to the land (original landowners) however, these
+communities will not have a separate language, separate
+institutions, nor will they self-identify as indigenous peoples.
+Therefore the Indigenous Peoples policy is not triggered by this
+project,
+Involuntary Resettlement (OP/BP 4.12)                                          X
+All selected locations are on Government owned or leased land,
+Therefore, no conflicts with landowners due to modified or
+additional land use are expected. Land acquisition will not be
+needed for the project.
+
+
+﻿Safety of Dams (OP/BP 4.37)                                                      X
+Projects on International Waterways (OP/BP 7.50)                                 X          N/AT
+Projects in Disputed Areas (OP/BP 7,60)                                          X            N/A
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe
+any potential large scale, significant and/or irreversible impacts:
+The project if successfully implemented, operated and maintained will have significant environment
+benefits mainly derived from the switch of power generation fiom a fossil fuel (diesel) source to a
+renewable source (solar energy).
+There is no decommissioning of diesel generators, and no use of batteries as part of this project.
+Potential adverse environmental impacts are only anticipated to be present during the
+construction/installation of the solar power generation systems on the building roofs. However, such
+impacts are expected to be minor and site-specific, They can be easily avoided or effectively managed
+through the use of readily available, simple and cost effective mitigation measures,
+Furthermore, to ensure the construction-related environmental and social impacts are effectively managed,
+the PUB has prepared an Environmental Management Plan (EMP) as part of an environmental assessment,
+The EMP will be included in the civil works contract for use during construction and will be binding upon
+the Contractor.  It contains tangible mitigation measures, institutional responsibilities for their
+implementation and monitoring, during both construction and operation of the system, and budget
+estimation to ensure adequate funding is available to implement the EMP. It also includes management
+measures for ensuring safety at these sites during the physical works, especially at hospitals and schools. A
+grievance mechanism is included. As required in the EMP, the implementing agency will also assign a
+dedicated officer to address any public concerns or complaints during construction, The costs in the EMP
+will be included in the overall cost of the project. The EMP has been cleared and publicly disclosed, both
+locally in Tarawa and at the Info shop,
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project
+area:
+No adverse impacts expected. There will be positive benefits from the substitution of diesel electricity
+generation.
+1 OP/BP 7.50 and OP/BP 7.60 are not eligible for piloting under OP 4.00
+
+
+﻿3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts:
+The project involves installation of grid connected renewable energy (solar panels) on sites owned and
+operated by the Republic of Kiribati on land that is under long term lease arrangements. All sites are
+located on buildings to minimize the land required for energy generation. The alternative (free standing
+solar arrays) would take up valuable land that could not then be used for other purposes.
+4. For those safeguards to be addressed through OP/BP 4.00, characterize in general terms the extent to
+which borrower systems are equivalent to the Objectives and Operational Principles of OP 4.00, Table Al.
+For those safeguards to be addressed through conventional OP/BPs, identify the reason for the decision to
+not apply OP 4.00 (e.g. absence of equivalence and/or acceptability report).
+OP4.00 is not applicable.
+5. Describe measures taken by the borrower to address safeguard policy issues to identify any significant
+gap-filling measures necessary to fulfill the conditions for application of OP 4.00. Provide an assessment
+qof borrower capacity to plan and implement the measures described:
+OP4.00 is not applicable.
+6. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard
+policies, including the Safeguard Diagnostic Review (SDR) with an emphasis on potentially affected
+people:
+As OP 4.00 is not applicable, SDR is not required.
+B. Disclosure Requirements Date
+Public Information Bulletin and Environmental Management Plan:
+Dates of "in-country" consultation and disclosure                               6 July 2012
+Date of submission to InfoShop                                                 04 July 2012
+For category A projects, date of distributing the PID to the Executive Directors  Category C project.
+If in-country disclosure of any of the above documents is not expected, please explain why:
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is finalized
+by the project decision meeting)
+OP/BP/4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) report?  Yes [X]  No []  N/A []
+The borrower engaged TTA (environmental
+consultants) to complete an EA and EMP.
+Under the safeguards policy, the project
+required as a minimum an Environmental
+Code of Practice to cover construction-
+related activities.
+If yes, then did the Regional Environment Unit or Sector Manager  Yes
+(SM) review and approve the EA report?
+Are the cost and the accountabilities for the EMP incorporated in the  Yes
+credit/loan?
+OP/BP 4.00 - Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in
+Bank-Supported Projects
+Did the Quality Assurance and Compliance Unit (QACU) and the Yes [ ] No [] N/A [X ]
+ESSD and International Law Practice Group (LEGEN) review and
+approve the Safeguard Diagnostic Review report?
+
+
+﻿OP/BP 4.04 - Natural Habitats
+Would the project result in any significant conversion or degradation  Yes [ ]  No [X ]  N/A
+of critical natural habitats?
+If the project would result in significant conversion or degradation of
+other (non-critical) natural habitats, does the project include
+mitigation measures acceptable to the Bank?
+OP 4.09 - Pest Management
+Does the EA adequately address the pest management issues?    Yes [ ]     No [ ]      N/A [X]
+Is a separate PMP required?                                   Yes[]       No[ ]       N/A [X]
+If yes, has the PMP been reviewed and approved by a safeguards
+specialist or Sector Manager? Are PMP requirements included in
+project design? If yes, does the project team include a Pest
+Management Specialist?
+OP/BP 4.11 - Physical Cultural Resources
+Does the EA include adequate measures related to physical cultural  Yes [ ]  No [ ]   N/A [X]
+resources?
+Does the credit/loan incorporate mechanisms to mitigate the
+potential adverse impacts on physical cultural resources?
+OP/BP 4.10 - Indigenous Peoples
+Has a separate Indigenous Peoples Plan/Planning Framework (as  Yes [ ]    No []       N/A [X]
+appropriate) been prepared in consultation with affected Indigenous
+Peoples?
+If yes, then did the Regional unit responsible for safeguards or
+Sector Manager review the plan?
+If the whole project is designed to benefit IP, has the design been
+reviewed and approved by the Regional Social Development Unit?
+OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy framework/process  Yes [ ]  No [ ]    N/A [X]
+framework (as appropriate) been prepared?
+If yes, then did the Regional unit responsible for safeguards or
+Sector Manager review and approve the plan/policy
+framework/process framework?
+OP/BP 4.36 - Forests
+Has the sector-wide analysis of policy and institutional issues and  Yes [ ]  No [ ]  N/A [X ]
+constraints been carried out?
+Does the project design include satisfactory measures to overcome
+these constraints?
+Does the project finance commercial harvesting, and if so, does it
+include provisions for certification system?
+OP/BP 4.37 - Safety of Dams
+Have dam safety plans been prepared?                          Yes [ ]     No[        N/A   X
+Have the TORs as well as composition for the independent Panel of
+Experts (POE) been reviewed and approved by the Bank?
+Has an Emergency Preparedness Plan (EPP) been prepared and
+arrangements been made for public awareness and training?
+OP 7.50 - Projects on International Waterways
+Have the other riparians been notified of the project?        Yes [ ]     No [ ]      N/A [X]
+If the project falls under one of the exceptions to the notification
+requirement, has this been cleared with the Legal Department, and
+the memo to the RVP prepared and sent?
+What are the reasons for the exception? Please explain:
+Has the RVP approved such an exception?
+
+
+﻿OP 7.60 - Projects in Disputed Areas
+Has the memo conveying all pertinent information on the       Yes []      No []       N/A [X]
+international aspects of the project, including the procedures to be
+followed, and the recommendations for dealing with the issue, been
+prepared
+Does the PAD/MOP include the standard disclaimer referred to in
+the OP?
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the World  Yes [X]  No [ ]     N/A []
+Bank's Infoshop?
+Have relevant documents been disclosed in-country in a public place  Yes
+in a form and language that are understandable and accessible to
+project-affected groups and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional    Yes [X]      No [ ]     N/A [
+responsibilities been prepared for the implementation of measures
+related to safeguard policies?
+Have costs related to safeguard policy measures been included in the  Yes. The project provides for an owner's
+project cost?                                                  engineer, who will also oversee the
+implementation of/compliance with the
+EMP;
+The project budget provides for a local PST
+support officer who will assist with the day-
+to -day issues in relation to the EMP;
+The environmental and social contacts have
+been identified within the Ministry of Public
+Works and Utilities (government in kind);
+and
+The Ministry of Environment, Lands and
+Agricultural Development will oversee
+compliance with local legislation
+(government in kind).
+Does the Monitoring and Evaluation system of the project include  Yes
+the monitoring of safeguard impacts and measures related to
+safeguard policies?
+Have satisfactory implementation arrangements been agreed with the  Yes as per clause 2.03(b) of both the GEF
+borrower and the same been adequately reflected in the project legal  and PRIF General Agreement documents.
+documents?
+
+
+﻿D. Approvals
+Signed and submitted by:                             Name                               Date
+Task Team Leader;                 Kamlesh Kh                                        30 August 2012
+Environmental Specialist:         Pene Ferguson                                    10 September 2012
+Social Development Specialist:    Ann McLean                                       7 September 2012
+Approved by:
+Sector Manager                       H
+Comments:
+
+

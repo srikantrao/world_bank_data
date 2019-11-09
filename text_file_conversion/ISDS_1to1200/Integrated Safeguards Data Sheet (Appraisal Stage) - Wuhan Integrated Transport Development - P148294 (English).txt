@@ -1,0 +1,457 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+APPRAISAL STAGE
+Report No.: ISDSA12380
+0
+Date ISDS Prepared/Updated: 24-Jul-2015
+o
+Date ISDS Approved/Disclosed: 28-Jul-2015
+I. BASIC INFORMATION
+1. Basic Project Data
+Country:        China                      Project ID:  P148294
+Project Name: Wuhan Integrated Transport Development (P148294)
+Task Team       Arturo Ardila Gomez
+Leader(s):
+Estimated       03-Aug-2015                Estimated    24-Nov-2015
+Appraisal Date:                            Board Date:
+Managing Unit: GT102                       Lending      Investment Project Financing
+Instrument:
+Sector(s):      Urban Transport (90%), Public administration- Transportation (10%)
+Theme(s):       City-wide Infrastructure and Service Delivery (90%), Municipal governance and
+institution building (10%)
+Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+8.00 (Rapid Response to Crises and Emergencies)?
+Financing (In USD Million)
+Total Project Cost:    244.66             Total Bank Financing:  120.00
+Financing Gap:            0.00
+Financing Source                                                        Amount
+Borrower                                                                  124.66
+International Bank for Reconstruction and Development                     120.00
+Total                                                                     244.66
+Environmental B - Partial Assessment
+Category:
+Is this a       No
+Repeater
+project?
+2. Project Development Objective(s)
+The PDO is to improve transport services and management in Wuhan and Anlu Cities.
+3. Project Description
+The project is designed to strengthen integrated urban transport solutions in Wuhan and Anlu, with
+the aim of delivering more efficient and safer services while enhancing a sustainable approach for the
+Page 1 of 10
+
+
+﻿development of the WMR as a whole. In Wuhan, the project comprises a comprehensive ICT
+platform to improve the planning, operation and management of the city's transport system.
+Integration is addressed at a strategic level to strengthen the foundations for efficient and seamless
+trips. In Anlu, the focus is more local and built around the development of integrated public transport
+corridors, integrated public transport and NMT networks, road safety measures, and road
+infrastructure improvements supporting the refunctioning of key roads (i.e., changing the cross-
+section of the road[s] in question through civil works, traffic signals and traffic facilities [signs, lines
+and barriers] to make them safer and more appropriate for their urban context). The WMR's
+integrated development is enhanced by the improvement of railway and bus stations that connect
+Anlu with Wuhan, and the development of analytical tools to better understand and predict travel
+patterns between the two cities.
+Component 1. Integrated Corridor and Road Safety Improvements in Anlu:
+1.     Road network refunctioning through the carrying out of improvements to selected road
+infrastructure and construction of new road sections.
+2.     Carrying out improvements to non-motorized transport facilities, including junction
+channelization, pedestrian facilities, signs, markings and barriers, on selected existing roads in
+Anlu's downtown area.
+3.     Implementation of traffic management and road safety measures including, inter alia, the
+procurement and implementation of systems and related equipment such as a traffic command center,
+a traffic-signal control system, traffic enforcement cameras and radars, bus-lane enforcement
+mechanisms, construction of a road safety center and implementation of road user education
+measures.
+Component 2. Public Transport Improvements in Anlu:
+1.     Construction of six public transport interchanges, including: (a) three bus transfer stations;
+(b) one bus terminal; and (c) two bus transfer and road passenger transport centers.
+2.     Procurement of clean-energy buses.
+3.     Establishment of an intelligent public transport system including, inter alia, a public transport
+control center, onboard bus information systems, bus dispatching systems, telecommunications, and
+a smart card system.
+Component 3. Intelligent Transport System for Wuhan:
+1.             Setting up of a transport information center and associated facilities, including a data backup
+center and a public display platform.
+2.     Establishment of four system application platforms, namely, basic research, decision support,
+industry service and public service platforms.
+3.     Carrying out of demonstration subprojects designed to provide information to the public and
+facilitate user queries, and also enable monitoring and evaluation, including inter alia: (a) expressway
+traffic management demonstration; (b) public transport information demonstration; (c) parking
+management; and (d) comprehensive smart transport community demonstration.
+Component 4. Technical Assistance for Anlu and Wuhan:
+1.     Anlu. Provision of: (a) technical assistance support and training activities, including the
+carrying out of Project related studies in areas concerning urban transport strategy and planning, road
+safety, parking, and NMT; and (b) Project implementation support, carrying out of monitoring and
+evaluation activities, as well as Project management-related training, capacity building, and study
+tours.
+2.     Wuhan. Provision of: (a) technical assistance support and training activities, including the
+Page 2 of 10
+
+
+﻿carrying out of Project related studies in areas concerning transportation-related big data analytics
+and applications, data standard and data sharing; (b) support for knowledge-sharing activities among
+the ITS regional community, including local governments, transport service providers, and the
+telecommunications, ICT and transport industries; (c) development of a draft road safety plan for
+O
+U         Wuhan Municipality; and (d) Project management-related training, capacity building, and study
+tours.
+O
+4. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+The project activities are located in the cities of Wuhan and Anhu. The component in Wuhan focuses
+on technical assistance activities only (intelligent transport system) without physical civil works. The
+component in Anlu city includes renovation and widening of existing urban streets, renovation and
+construction of 6 bus terminals, as well as improvement of non-motor vehicle transport facilities.
+Wuhan is the capital city of Hubei Province in the middle of China. Wuhan and a number
+surrounding cities are classified as Wuhan City Circle, and assigned as a pilot area for resource
+saving and environmental-friendly society construction the State Council. Anlu is a sub-city level
+town under the Xiaogan City in the northeast of Wuhan. The urban core area of Anlu is 18.98km2,
+with a population of 172,200. Public infrastructures are mostly in the old urban core area, while
+population is mostly in the east of the core area. The road network in the core area cannot meet the
+public demand, and the public transport infrastructure is inadequate.
+All the physical activities of Anlu component are either within the urban built-up area or the rural
+farmland area of the urban fringe which is dominated by human activities. The roads constructions
+are rehabilitation and upgrading of existing roads. The location of the bus terminals are all farmland.
+There is no sensitive ecological environment site (e.g. natural habitat, protected area, parks etc.).
+5. Environmental and Social Safeguards Specialists
+Peishen Wang (GENO2)
+Zhefu Liu (GSURR)
+6. Safeguard Policies   Triggered? Explanation (Optional)
+Environmental           Yes          The physical activities in Anlu component include
+Assessment OP/BP 4.01                renovation, widening and rehabilitation of urban streets
+and bus terminals which will have social disturbance and
+environmental impacts during construction stage,
+including disposal of spoil, nuisance of dust, noise,
+wastewater, waste generated from demolished buildings
+and disturbance to local communities etc. The potential
+adverse impacts during operation stage will include road
+safety, air quality, noise impacts from the upgraded roads
+and waste management from bus terminals. As the project
+construction activity is basically small-scale renovation
+and rehabilitation works, the potential environmental and
+social impacts are small-scale, site-specific and well
+known for such kinds of urban infrastructure projects, and
+can be readily avoided, minimized and mitigated with
+known mitigation measures and good construction
+Page 3 of 10
+
+
+﻿management practice. Therefore, the project is classified
+as Category B project as per OP4.01.
+Natural Habitats OP/BP  No           Based on the environmental assessment, the project is
+4.04                                 located in the urban and sub-urban areas which have been
+heavily influenced by human activities. The project
+activities will not affect any protected reserves, natural
+habitats, or established or proposed critical natural
+habitats. Therefore, this policy is not triggered.
+Forests OP/BP 4.36      No           Given the urban and peri-urban context, there is no forest
+within the area of influence of the project. Therefore, this
+policy is not triggered.
+Pest Management OP 4.09 No           The project will not include procurement of pesticides or
+pesticide application equipment, nor lead to substantially
+increased pesticide use and subsequent increase in health
+and environmental risk, or could maintain or expand
+present pest management practices that are unsustainable.
+Therefore, this policy is not triggered.
+Physical Cultural       Yes          Two rural family graves are to be relocated for road
+Resources OP/BP 4.11                 construction which is addressed through RAP. Chance-
+find procedures are incorporated in the EMP.
+Indigenous Peoples OP/  No           The project comprises of two project components, one in
+BP 4.10                              Wuhan and another in Anlu city. In Wuhan, the project
+comprises a comprehensive ICT platform to improve the
+planning, operation, management of the city's transport
+system and make it more reliable, convenient, safe and
+accessible. No land acquisition and resettlement
+relocations would be anticipated. In Anlu, the land
+acquisition and resettlement relocations will be incurred.
+The project will affect ten villages/community by land
+acquisition and housing demolition only in Anlu city. The
+task team conducted the screening in those affected
+villages/community and concluded that no minority
+communities which are considered as Indigenous Peoples
+according to OP4. 10 are inside or near these villages.
+Hence, OP 4.10 was not triggered.
+Involuntary Resettlement Yes         The project consists of two components, one is in Wuhan
+OP/BP 4.12                           city, the capital city of Hubei Province and Anlu city, the
+third grade of city in Hubei Province. In Wuhan, there are
+no land acquisition and resettlement relocations to be
+anticipated. In Anlu, the land acquisition and resettlement
+relocations will be incurred. The Bank Involuntary
+Resettlement Policy OP 4.12 will apply to this project. A
+resettlement action plan was prepared to address the
+resettlement issues in Anlu city, and a resettlement policy
+framework was prepared for unanticipated land
+acquisition and resettlement relocations for activities
+Page 4 of 10
+
+
+﻿which details were not be available prior to project
+appraisal in Wuhan and Anlu city.
+The proposed urban transport infrastructure project in
+Anlu city will affect 2 villages and one urban community,
+required 12.24 hectares (ha) of land, including 10.24 ha of
+collective land and 2 ha of state-owned land. Housing
+demolition will encompass 17,877 square meters (m2),
+including 5,229 m2 of private housing and 12,648 m2 of
+shops. Housing demolition will affect 44 families (181
+people) and 13 shops.
+A resettlement action plan (RAP) and resettlement policy
+framework was required and submitted to the Bank for
+review before Appraisal.
+A due-diligence review to a linked extension of Biyun
+Road was conducted. This extension of Biyun Road is
+about 700 meters in length, funded by local budget, and
+identified as linked road to Biyun Road to be supported
+by the project for road surface rehabilitation. The due
+diligence review concluded that the resettlement activities
+linked to this project were fulfilled in accordance with
+Chinese land law, Hubei provincial administrative land
+management regulations, and local regulations.
+Safety of Dams OP/BP    No          The project will not finance construction or rehabilitation
+4.37                                of any dams as defined under this policy. This polices is
+not triggered.
+Projects on International  No       The project is not on international waterways.
+Waterways OP/BP 7.50
+Projects in Disputed    No          The project is not in disputed areas.
+Areas OP/BP 7.60
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+and describe any potential large scale, significant and/or irreversible impacts:
+Environmental Safeguards
+Since the Wuhan component only focuses on technical assistance activities (intelligent transport
+system), the environmental safeguards issues are mainly related to the Anlu component of the
+project. The Anlu component includes renovation and upgrading of 5 urban streets, renovation and
+construction of 6 bus terminals, as well as improvement of non-motor vehicle transport facilities in
+a number of existing urban streets. These physical activities will have potential social disturbance
+and environmental impacts during the construction stage, including nuisance of dust and noise,
+transportation large quality of material, disposal of excessive spoil waste and solid waste
+Page 5 of 10
+
+
+﻿generated from demolished buildings, wastewater management, traffic disturbance and public
+safety concerns, disturbance to daily life of the nearby communities/businesses etc. There will also
+be potential adverse impacts during operation stage, which mainly include road safety, air quality,
+noise impacts from the upgraded roads and waste management from bus terminals. The project is
+O
+classified as Category B project as per OP4.01
+Based on the environmental assessment, there is no sensitive ecological environment site (e.g.
+natural habitat, protected area, parks etc.). There are two rural family graves to be relocated for
+road construction. The main sensitive environmental protection receptors are the residential
+communities, hospitals, schools and kindergartens along the project streets and bus terminals. The
+main environmental impacts of the project are mostly those impacts related to construction stage.
+Although the impact of each individual project is site-specific, the aggregated impacts of a number
+of roads within the same timeline tend to be large in scale, and require proper management and
+adequate mitigation measures. However, these impacts during construction stage is of temporary
+in nature which will disappear upon completion of the project, and they are well known for such
+kinds of urban infrastructure construction projects and can be readily avoided, minimized and
+mitigated with good construction management practice. Two rural family graves to be relocated
+are addressed through RAP. Therefore, with adequate development and proper implementation of
+the Environmental Management Plan (EMP), the potential environmental and social impacts can
+be adequately mitigated to the acceptable level.
+Social Safeguards
+Since collective land and private structures will be required by the project, Bank Involuntary
+Resettlement Policy OP 4.12 is triggered. During the project preparation, the resettlement negative
+impacts were analyzed by the institutes in charge of feasibility study and the RAP preparation to
+optimize the project design. The project designs were refined to minimize the negative impacts to
+land acquisition and to avoid housing demolition. As the result, there are only 44 households with
+181 populations to be relocated. The proposed urban transport infrastructure project in Anlu city
+will affect 2 villages and one urban community, required 12.24 hectares (ha) of land, including
+10.24 ha of collective land and 2 ha of state-owned land. Housing demolition will encompass
+17,877 square meters (m2), including 5,229 m2 of private housing and 12, 648 m2 of shops.
+The RAP prepared by the project entity provides detail regarding resettlement policy principles
+and regulations to be followed, compensation rates and budget, mitigation measures to restore
+incomes where necessary and institutional and monitoring arrangements. The RAP and RPF was
+disclosed at municipal web site by February 15 and 16, 2015.
+A resettlement office under Anlu PMO will be set up to supervise the resettlement implementation
+and the branches of the resettlement offices in the district will implement the RAP. The Anlu land
+and resources bureaus will be responsible for the land acquisition approval.
+A due diligence review to a linked extension of Biyun Road was conducted. This extension of
+Biyun Road is about 700 meters in length, funded by Anlu municipal budget in Year 2012. The
+Biyun Road will be supported by the Bank for road surface rehabilitation. This extension was
+identified as linked road section. The due diligence evaluation of those government-funded
+resettlement and land acquisition activities were deemed to be acceptable and in line with Bank
+guidelines and procedures. The due diligence review confirmed that these activities were carried
+out in accordance with Chinese land law, Hubei provincial land administrative management
+Page 6 of 10
+
+
+﻿regulation and local regulation.
+As part of due diligence work a socio-economic impact survey was carried out, which concluded
+that there are no minority communities in the affected villages of the project area to be presented.
+O
+Q           This finding is also confirmed in conclusions of the RAP. Therefore, the Bank Policy on
+Indigenous Peoples OP/BP 4.10 was not triggered.
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+in the project area:
+There will be further urbanization development in the project area according to the city's master
+plan.
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+impacts.
+As the most of the roads and terminals are existing roads and terminals, the location and alignment
+of roads and terminals are predefined by the master plan of the city, therefore, the project does not
+include alternative alignments or locations for the roads and terminals.
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+assessment of borrower capacity to plan and implement the measures described.
+Environmental Safeguards
+To address the environmental safeguards issues, an EIA, a stand-alone EMP and an EA Executive
+Summary have been prepared for the project. The EIA thoroughly addresses the potential adverse
+environmental and social impacts, based on which a stand-alone EMP was developed to identify
+environmental management setup, mitigation measures, monitoring and reporting and budget
+estimate. The preparation of EA documents followed the relevant national laws/regulations and
+guidelines, as well as Bank's safeguards policies and EHS General Guidelines. The EMP specifies
+the institutional arrangement of environmental management and supervision, mitigation measures,
+capacity training plan, monitoring plan, and budget estimates of EMP implementation. It also
+includes a generic Environmental Code Of Practices (ECOPs) for contractors for inclusion in the
+bidding documents and contracts.
+The environmental concerns of the project are mainly related to construction activities, including
+nuisance of construction noise and dust, traffic disturbance due to large quantity of material
+transportation, safety of pedestrian, waste management, business disturbance etc. These impacts
+are of temporary feature and can be readily mitigated with sound planning and construction
+management. The key mitigation measures during construction stage include:
+-      Social disturbance: proper planning of road traffic diversion; coordination with police
+department, and prior notice through public media; proper relocation of public utility facilities
+without interrupting usual life of local community; arrangement of temporary access with
+adequate safety measures (temporary bridge, protection net, night light etc.) for local residents,
+business, schools etc.; bulletin board information disclosure.
+-      Noise: use of low noise equipment and proper maintenance; installation of temporary
+noise reduction facility if necessary; night-time construction will be restricted, and prior public
+notice as well as EPB approval are required for activities that need continuous construction over
+nighttime.
+-      Dust: Installation of fences around construction areas; frequent water spraying on
+construction site and access road to suppress dust; covering of trucks transporting bulk materials
+Page 7 of 10
+
+
+﻿and timely site clean up after construction; proper maintenance of construction machines and
+vehicles; etc.
+-      Waste management: careful balance of excavation and backfilling and fully reuse of spoil
+material; proper disposal of spoil waste following the city's regulations; proper treatment of
+O
+wastewater and sewage before discharge into municipal sewage network; timely collection of
+garbage and disposal through municipal collection/disposal system, etc.
+Ecological environment: Minimization of area of disturbance and damage of green space;
+relocation of trees; new plantation of trees and green space to off-set the green space loss; timely
+removal of spoil material to minimize soil erosion; proper disposal of spoil material according to
+city's regulations etc.
+EMP implementation will be managed by Anlu PMO which will assign dedicated staff responsible
+for overall management and liaison in terms of EMP implementation. The project owner, Anlu
+Construction Investment and Development Company will be directly responsible for the
+implementation of EMP. An environmental management unit will be established with dedicated
+environmental staff. The EMP mitigation measures will be incorporated into bidding documents
+and thus the contracts, and implemented by the contractors. The contractors and supervision
+engineers will be required to assign qualified environmental staff to their team to ensure effective
+implementation of the EMP.
+Social Safeguards
+The PMO contracted an experienced institute to guide the social safeguards documentation. The
+relevant agencies to engage into the project implementation participated into the project
+preparation. During the project preparation, the social safeguards consulting institute worked with
+the design institute in charge of project feasibility study on the selections of the project locations.
+The analytical works were undertaken and the project negative impacts were minimized, and the
+mitigation measures were developed according to the Bank requirement. Public consultations were
+undertaken by the consulting institute and the project entities in the engaged district to address the
+importance of the safeguards policy. The project preparation was a well-done process to
+disseminate the Bank requirement on social safeguards and combined the people concerns into the
+RAP and also important process to provide on-job training courses to each engaged levels of the
+agencies in the district and as well as village level.
+An experienced monitoring institute, independent from the PMO and the project agencies, will be
+contracted to monitoring the resettlement activities and the monitoring report will be reviewed by
+the Bank twice a year as requested.
+Safeguards training and guidance are provided for the PMOs during the project preparation stage,
+and the Bank will closely supervise the project safeguards performance during implementation
+stage.
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+on safeguard policies, with an emphasis on potentially affected people.
+The project will provide significant benefits to the people who are living in the project areas and
+the adjacent areas as local public strongly requested through people's meetings and media. The
+project stakeholders are the local communities and the people in the engaged districts. The
+affected people considered the project will give them opportunities to have better living
+environment and develop their businesses.
+Page 8 of 10
+
+
+﻿During the project preparation process and the stages of the project design, public consultations
+were conducted among project-affected public in the project area following to both national
+environmental and social policies as well as World Bank policies (OP4.01 and OP4.12). The main
+O
+public concerns (e.g. land acquisition/resettlement compensation, noise, dust etc.) have been
+incorporated in the project design and RAP and EMP mitigation measures. Public consultation
+will be continuous by the resettlement offices in the district and also the independent monitoring
+agency, and the project information were disseminated to the displaced families for refining the
+project design, and the locations of the project.
+The EIA/EMP have been locally disclosed in the website of Anlu municipal website on March 19,
+2015, and disclosed in InfoShop on April 15, 2015. The RAP has been locally disclosed at Anlu
+municipal website by February 15, 2015 and Bank Infoshop by March 3, 2015.
+B. Disclosure Requirements
+Environmental Assessment/Audit/Management Plan/Other
+Date of receipt by the Bank                              03-Apr-2015
+Date of submission to InfoShop                           15-Apr-2015
+For category A projects, date of distributing the Executive  ///
+Summary of the EA to the Executive Directors
+"In country" Disclosure
+China                                                    19-Mar-2015
+Comments:
+Resettlement Action Plan/Framework/Policy Process
+Date of receipt by the Bank                              02-Mar-2015
+Date of submission to InfoShop                           03-Mar-2015
+"In country" Disclosure
+O
+China                                                    15-Feb-2015
+Comments: http://www.anlu.gov.cn/alweb/government-getMessageFormzwgk.whbs?
+messageld=W14B8C6EFFF21A33FEEA507B
+Anlu RAP disclosure at website by Feb. 15, 2015
+http://www.whcjwzb.com/gsgg/201502/t20150216_59361.htm
+Wuhan RPF disclosure at website by Feb.16, 2015
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please explain why:
+C. Compliance Monitoring Indicators at the Corporate Level
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP)  Yes[X] No[   ]   NA [   ]
+report?
+If yes, then did the Regional Environment Unit or Practice Yes [ X] No [ ] NA [ ]
+Manager (PM) review and approve the EA report?
+Page 9 of 10
+
+
+﻿Are the cost and the accountabilities for the EMP incorporated  Yes [ X ] No[  ]  NA[  ]
+in the credit/loan?
+OP/BP 4.11 - Physical Cultural Resources
+Does the EA include adequate measures related to cultural  Yes[X]  No[       NA
+property?
+Does the credit/loan incorporate mechanisms to mitigate the  Yes[X]  No[     NA
+potential adverse impacts on cultural property?
+OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy framework/ Yes [ X] No [ ] NA [ ]
+process framework (as appropriate) been prepared?
+If yes, then did the Regional unit responsible for safeguards or Yes [ X] No [  ]  NA [  ]
+Practice Manager review the plan?
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the  Yes [X] No [  ]  NA [  ]
+World Bank's Infoshop?
+Have relevant documents been disclosed in-country in a public Yes [ X] No [ ] NA [ ]
+place in a form and language that are understandable and
+accessible to project-affected groups and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional  Yes [ X] No [  ]  NA [  ]
+responsibilities been prepared for the implementation of
+measures related to safeguard policies?
+Have costs related to safeguard policy measures been included  Yes [X] No [  ]  NA [  ]
+in the project cost?
+Does the Monitoring and Evaluation system of the project  Yes[X]   No[    ]  NA [   ]
+include the monitoring of safeguard impacts and measures
+related to safeguard policies?
+O
+Have satisfactory implementation arrangements been agreed  Yes[X]  No[       NA
+with the borrower and the same been adequately reflected in
+the project legal documents?
+III. APPROVALS
+Task Team Leader(s): Name: Arturo Ardila Gomez
+Approved By
+Safeguards Advisor:    Name: Svend Jensby (SA)                    Date: 27-Jul-2015
+Practice Manager/      Name: Michel Kerf (PMGR)                   Date: 28-Jul-2015
+Manager:
+Page 10 of 10
+
+

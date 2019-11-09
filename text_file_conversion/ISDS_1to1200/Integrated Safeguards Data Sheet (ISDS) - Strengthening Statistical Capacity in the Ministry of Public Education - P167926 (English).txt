@@ -1,0 +1,384 @@
+                                  The World Bank
+                                  Strengthening Statistical Capacity in the Ministry of Public Education
+
+
+
+
+                                                      Integrated Safeguards Data Sheet
+                                                    Identification / Concept Stage (ISDS)
+Public Disclosure Copy
+
+
+
+
+                                                 Concept Stage | Date ISDS Prepared/Updated: 26-Sep-2018 | Report No: ISDSC25025
+
+
+
+
+                         Sep 26, 2018                                                                                              Page 1 of 8
+                                  The World Bank
+                                  Strengthening Statistical Capacity in the Ministry of Public Education
+
+
+
+                          BASIC INFORMATION
+
+                           A. Basic Project Data
+
+                           Project ID                        Project Name                  Environmental Category      Country
+                                                             Strengthening Statistical
+                                                                                           B - Partial Assessment
+                                                             Capacity in the Ministry of                               Costa Rica
+                                                                                           (B)
+                                                             Public Education
+                           Team Leader(s)                    Estimated Date of Approval    Managing Unit               Financing Instrument
+                           Melissa Ann Adelman,                                                                        Investment Project
+                                                                                           GED04
+                           Enrique O. Alasino Massetti                                                                 Financing
+Public Disclosure Copy
+
+
+
+
+                          PROJECT FINANCING DATA (US$, Millions)
+
+                           SUMMARY                -NewFin1
+
+
+
+
+                           Total Project Cost                                                                                                      0.25
+                           Total Financing                                                                                                         0.25
+                           Financing Gap                                                                                                           0.00
+
+                           DETAILS  -NewFinEnh1
+
+
+
+
+                           Non-World Bank Group Financing
+                              Trust Funds                                                                                                         0.25
+                                 Trust Fund for Statistical Capacity Building                                                                     0.25
+
+
+                           B. Project Development Objective(s)
+                           The development objective of this Project is to strengthen the capacity of MEP (i) to collect and manage high-quality,
+                           student-level education data, (ii) to produce reliable information on key sector challenges using the data, and (iii) to
+                           design and carry out analysis of the data to inform the design of programs and policies.
+
+                           C. Project Description
+                           The proposed Project will be financed through a Recipient Executed Grant from the Trust Fund for Statistical
+                           Capacity Building (TFSCB) over a period of 18 months. The TFSCB grant will leverage (i) $428,000 in financing
+                           from the EU for database development as well as technical assistance to enable the World Bank to provide
+                           support on data analysis and planning evidence-based interventions, and to provide supervision of Project
+                           activities, and (ii) an investment of approximately $1.07M from the Government. The proposed Project
+                           amount financed by the TFSCB grant is US$250,000.
+
+
+
+                         Sep 26, 2018                                                                                                         Page 2 of 8
+                                  The World Bank
+                                  Strengthening Statistical Capacity in the Ministry of Public Education
+
+
+
+
+                           The Project will be divided into three components:
+
+                                 1. Strengthening the education management information system through the design and construction
+                                    of a student-level records module for MEP’s EMIS system Plataforma Ministerial
+                                 2. Strengthening MEP capacity to analyze data for planning and decision-making
+                                 3. Provision of support to MEP for the implementation and supervision of Project activities, including
+                                    the financing of audits
+
+                           Component 1: Strengthening the education management information system through the design,
+                           development, and implementation of a student-level records module. Amount requested: $158,500.
+
+                           Subcomponent 1.1: Design and development of the student-level records module, and international
+                           experience sharing. Under this subcomponent, MEP will finance the design and development of the student-
+Public Disclosure Copy
+
+
+
+
+                           level records module, based on existing database platforms within MEP. The output of this subcomponent
+                           will be a data platform that is based on student-level records generated and primarily populated at the
+                           school level that are automatically linked to additional databases within MEP (specifically, the database of
+                           scholarships and grants (FONABE), the database of school feeding recipients, and the database of transport
+                           subsidy beneficiaries) by each student’s unique national identification number (cédula). The subcomponent
+                           will also be used to ensure the technical and practical interconnections between MEP’s data and the key
+                           national registry system (SINIRUBE) through workshops with all key technical staff across the government
+                           agencies involved.
+
+                           TFSCB funds will finance a conference and experience sharing activities (videoconferences, study visits,
+                           technical assistance) to facilitate south-south knowledge exchange between Ministries of Education across
+                           the world that have recent, relevant experiences strengthening their EMIS for greater use in informing
+                           planning and policymaking. Estimated cost: $44,000.
+
+                           Subcomponent 1.2: Strengthening MEP capacity for sustainable implementation of the student-level records
+                           module at the core of the Plataforma Ministerial. This subcomponent will finance the development of
+                           protocols for data inputting, data verification, and database management, delivery of on-the-job technical
+                           support and training based on the protocols, and purchase of backup servers for MEP to ensure the
+                           sustainable implementation of the student-level records module. Specifically, public school directors and
+                           local MEP officials will be trained on how to input and verify data. MEP staff in the Department of
+                           Information Systems within the Directorate of Management Information Systems will be trained to manage
+                           the module, including quality control, updating, and expanding the database as additional needs are
+                           identified. Estimated cost: $114,500.
+
+                           Component 2: Strengthening MEP capacity to analyze data for planning and decision-making. Amount
+                           requested: $76,500.
+
+                           This component will finance the development and delivery of a training program to key staff, as well as the
+                           purchase of software licenses, to enable MEP staff in the Department of Statistical Analysis within the
+                           Directorate of Planning to analyze data from the student-level records of the Plataforma Ministerial. The
+
+                         Sep 26, 2018                                                                                             Page 3 of 8
+                                  The World Bank
+                                  Strengthening Statistical Capacity in the Ministry of Public Education
+
+
+
+
+                           training program will be comprised of theoretical and practical modules on processing and analyzing data,
+                           including effective use of statistical software. The training program will include specific topics of particular
+                           policy interest to MEP, including how to assess the coverage, targeting, and potential impacts of current
+                           social programs, and how to carry out sub-group analysis (for questions regarding gender, ethnic, and
+                           regional disparities). Software licenses to be purchased could include SPSS, Stata, and/or Big Data tools.
+
+                           This component will strongly complement the planned World Bank technical assistance financed by the EU to
+                           design an Early Warning System (EWS) to reduce secondary school dropout. Specifically, the technical
+                           assistance will provide (i) technical support to MEP in the design of predictive analysis on school dropout
+                           using student-level data, and (ii) the design of a plan for cost-effective, information-based interventions
+                           aimed at reducing school dropout based on international experience. Such analysis, when based on detailed,
+                           student-level data, can accurately predict who is most likely to drop out - information which can be used to
+                           intervene early and with more accuracy (both of which improve efficiency).
+Public Disclosure Copy
+
+
+
+
+                           Component 3: Provision of support to MEP for the implementation and supervision of Project activities,
+                           including the financing of audits. Amount requested: $15,000.
+
+                           This component will finance the required audit of grant implementation activities.
+
+
+
+
+                           SAFEGUARDS
+
+
+                          D. Project location and salient physical characteristics relevant to the safeguard
+                          analysis (if known)
+                          Given the grant’s national scope, this grant is highly relevant to help improve data reliability and visibility of
+                          education gaps of indigenous peoples and afro populations. Subject to additional funding the activities might
+                          also consider the analysis of other vulnerable sub-groups such as students with disabilities.
+
+
+
+                          E. Borrower’s Institutional Capacity for Safeguard Policies
+                          This is a Statistical Capacity Building project implemented by MEP. The activities to be funded by the project
+                          are limited to technical assistance, capacity building, data production, and dissemination. It will not fund any
+                          civil works that could have environmental impacts or lead to involuntary resettlement.
+
+
+
+                          F. Environmental and Social Safeguards Specialists on the Team
+                          Gunars H. Platais, Environmental Safeguards Specialist
+                          Maria Elena Garcia Mora, Social Safeguards Specialist
+
+
+                         Sep 26, 2018                                                                                                 Page 4 of 8
+                                  The World Bank
+                                  Strengthening Statistical Capacity in the Ministry of Public Education
+
+
+
+
+                          G. Policies that might apply
+                          Safeguard Policies Triggered by the Project                Triggered?                       Explanation (Optional)
+                                                                                                           This policy is not triggered as the proposed
+                                                                                                           project activities do not involve physical
+                          Environmental Assessment OP/BP 4.01                  No                          interventions with foreseeable impacts on
+                                                                                                           the environment or natural, physical or
+                                                                                                           cultural resources.
+                                                                                                           This policy is not triggered as project
+                          Natural Habitats OP/BP 4.04                          No
+                                                                                                           activities will not affect natural habitats
+                                                                                                           This policy is not triggered as no forests will
+                          Forests OP/BP 4.36                                   No
+                                                                                                           be affected by project activities.
+Public Disclosure Copy
+
+
+
+
+                                                                                                           This policy is not triggered given that the
+                          Pest Management OP 4.09                              No                          project activities will not involve the
+                                                                                                           purchase or use of pesticides.
+                                                                                                           This policy is not triggered as no impacts to
+                          Physical Cultural Resources OP/BP 4.11               No
+                                                                                                           physical cultural resources are expected.
+                          Indigenous Peoples OP/BP 4.10                        Yes                         Whereas the indigenous population makes
+                                                                                                           up a relatively small percentage of the
+                                                                                                           overall population in Costa Rica (2.4%), in
+                                                                                                           line with the objectives of the project of
+                                                                                                           producing reliable information on key
+                                                                                                           sector challenges and carrying out analysis
+                                                                                                           to inform the design of programs and
+                                                                                                           policies, the Indigenous Peoples Policy (OP
+                                                                                                           4.10) is triggered.
+
+                                                                                                           The Project provides a unique opportunity
+                                                                                                           to provide further information and visibility
+                                                                                                           to existing gaps in education outcomes.
+                                                                                                           Education attainment of rural indigenous
+                                                                                                           peoples in Costa Rica reaches only 29.6%
+                                                                                                           (2000). The attainment of IPs in secondary
+                                                                                                           level (17.6% in urban areas vs. 2.7% in rural
+                                                                                                           areas) and tertiary level (5.6% in urban
+                                                                                                           areas vs. 0.5% in rural areas) is even lower,
+                                                                                                           highlighting the importance of improving
+                                                                                                           disaggregated data collection and analysis.
+                                                                                                           This grant also provides an opportunity to
+                                                                                                           build upon existing initiatives to strengthen
+                                                                                                           education outcomes of Indigenous Peoples
+                                                                                                           and Afro-Costa Ricans such as the Costa
+                                                                                                           Rica Higher Education (P123146).
+
+
+                         Sep 26, 2018                                                                                                              Page 5 of 8
+                                  The World Bank
+                                  Strengthening Statistical Capacity in the Ministry of Public Education
+
+
+
+                                                                                                           The grant will finance the design and
+                                                                                                           construction of a student-level database to
+                                                                                                           strengthen education management
+                                                                                                           information system and capacity-building in
+                                                                                                           the use of data for planning and decision-
+                                                                                                           making in the education sector. The
+                                                                                                           diagnostic of current practices at MEP for
+                                                                                                           student and school-level data collection will
+                                                                                                           assess how do these practices incorporate
+                                                                                                           the ethnic variable to assess gaps in
+                                                                                                           education outcomes between indigenous
+                                                                                                           peoples and afro-descendants and the
+                                                                                                           remainder of the population. The design
+                                                                                                           and development of Student-Level Records
+Public Disclosure Copy
+
+
+
+
+                                                                                                           Module of the Ministerial Platform will take
+                                                                                                           into consideration best practices in
+                                                                                                           disaggregated data collection to include
+                                                                                                           sub-group analysis to incorporate
+                                                                                                           indigenous and Afro-descendant students,
+                                                                                                           and possibly other vulnerable population
+                                                                                                           such as students with disabilities. The
+                                                                                                           diagnostic of current practices at MEP for
+                                                                                                           student and school-level data collection will
+                                                                                                           assess cultural pertinence of the
+                                                                                                           methodology and implementation of data
+                                                                                                           collection practices.
+
+                                                                                                           Under Component 2, the training program
+                                                                                                           will include specific topics of policy interest
+                                                                                                           including how to carry out sub-group
+                                                                                                           analysis to assess gender, ethnic and
+                                                                                                           regional disparities. This will be linked to
+                                                                                                           the work on Early Warning System to help
+                                                                                                           assess whether ethnicity and indigeneity
+                                                                                                           are predictive variables for early dropouts
+                                                                                                           in secondary school.
+
+                                                                                                           The policy will be applied through a TA
+                                                                                                           approach. The principles and objectives of
+                                                                                                           an Indigenous Peoples Plan will be
+                                                                                                           integrated into the TA outputs in the form
+                                                                                                           of specific analysis and recommendations
+                                                                                                           to promote access and inclusion of IPs. The
+                                                                                                           Development Plan for the Student-Level
+                                                                                                           Records Module of the Ministerial Platform
+
+
+                         Sep 26, 2018                                                                                                              Page 6 of 8
+                                     The World Bank
+                                     Strengthening Statistical Capacity in the Ministry of Public Education
+
+
+
+                                                                                                                         will include the requirements for
+                                                                                                                         disaggregated data collection to
+                                                                                                                         incorporate the ethnic variable and related
+                                                                                                                         analysis and a draft plan will be disclosed
+                                                                                                                         prior to appraisal. National level indigenous
+                                                                                                                         and afro-descendant organizations will be
+                                                                                                                         consulted during implementation of the TF
+                                                                                                                         as part of the preparation of said Plan.
+                                                                                                                         Additionally, the Operations Manual and
+                                                                                                                         other consultant TORs will integrate the
+                                                                                                                         above-mentioned approach to ensure that
+                                                                                                                         training and other activities related with
+                                                                                                                         the TA are in line with the principles and
+                                                                                                                         objectives of the policy.
+Public Disclosure Copy
+
+
+
+
+                                                                                                                         The policy is not triggered given that no
+                                                                                                                         involuntary taking of land and no
+                          Involuntary Resettlement OP/BP 4.12                              No
+                                                                                                                         restrictions of access to protected areas are
+                                                                                                                         expected under this project.
+                                                                                                                         The policy is not triggered given that the
+                                                                                                                         project will not support the construction
+                          Safety of Dams OP/BP 4.37                                        No                            and rehabilitation of dams nor will support
+                                                                                                                         other investments which rely on the
+                                                                                                                         services of existing dams.
+                                                                                                                         The policy is not triggered as the project
+                          Projects on International Waterways OP/BP 7.50                   No
+                                                                                                                         will not affect international waterways.
+                                                                                                                         The policy is not triggered as the proposed
+                          Projects in Disputed Areas OP/BP 7.60                            No
+                                                                                                                         project will not affect disputed areas.
+
+
+                          H. Safeguard Preparation Plan
+
+                          Appraisal stage ISDS required? No
+
+
+                              APPROVALS
+
+                              Team Leader(s):                                     Melissa Ann Adelman
+
+                              Approved By
+
+                              Safeguards Advisor:                                Noreen Beg                                        17-Sep-2018
+
+                              Practice Manager/Manager:                          Rita Almeida                                      19-Sep-2018
+
+
+                          1   Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) by the Bank and (ii) in country
+
+
+                         Sep 26, 2018                                                                                                                                 Page 7 of 8
+                                  The World Bank
+                                  Strengthening Statistical Capacity in the Ministry of Public Education
+
+
+
+                          by the Borrower/Recipient, at publicly accessible locations and in a form and language that are accessible to potentially affected persons.
+Public Disclosure Copy
+
+
+
+
+                         Sep 26, 2018                                                                                                                                   Page 8 of 8
+

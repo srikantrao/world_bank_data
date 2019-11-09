@@ -1,0 +1,386 @@
+                                                                                           41054
+
+
+                     INTEGRATED SAFEGUARDSDATASHEET
+                                   APPRAISAL STAGE
+
+ I. Basic Information
+ Date preparedfupdated: 09/14/2007                                             Report No.
+
+ 1. Basic Project Data
+ Country: China                               ( Project ID: PI04601
+ Project Name: Meishan CokeDry QuenchingProject
+ Task Team Leader: Hiroshi Ono
+ Estimated Amraisal Date: 0813112007           IEstimated Board Date:NA
+ Managing unit: EASRE                          ILending Instrument: Carbon Finance
+ Sector: Iron and steel industry
+ Theme: Climate Change
+ IBRD ~tnount(USS~>:              0.00
+ IDA Amount (US$m.):              0.00
+  GEF Amount (US$m.):             0.00
+ PCF Amount (US$m.):              9.9
+  Other financingamounts by source:
+          BORROWER/RECIPIENT
+
+I Environmental   Cateeorv: B Partial Assessment
+                              -
+  SimplifiedProcessing                          Simple [I          Repeater [I
+ Is this project processed under OP 8.50 (EmergencyRecovery)        Yes [ ]      No [XI
+
+  2. Project Objectives
+
+  The development objective of the project is to reduce C02 emissions by displacing
+  electricity consumption at a large iron and steel company (Meishan) compared with the
+ baseline scenario - CWQ and purchase of coal-fired electricity from the grid - by
+  installing energy recovery facilities with the leverage of a Carbon Finance transaction.
+  This Carbon Finance project will contribute to enhancing sustainable development
+  opportunitiesby mitigating global climate change and promoting the expanded use of an
+  energy efficiency technology that also reduces local air pollution associated with the
+  current CWQ operation.
+
+  The primary project performance indicator will be the annual amount of CERs delivered,
+ which will be calculated from the net annual amount of electricity supplied by making
+ use of recovered heat from the CDQ units that will replace the use of electricityfrom the
+  commercial grid.
+
+3. Project Description
+
+This Carbon Finance project consists of two distinct project components:
+
+    a) Component A: the Phase I and I1 construction and operation of CDQ units and
+        subsequent electricitygenerationthat will result in CERs; and
+
+    b) Component B: a Carbon Finance transaction that will facilitate the purchase of
+        the CERs.
+
+ComponentA
+
+CDQ Technology
+
+The CERs will be achieved through recovery of the waste heat of hot coke from coke
+ovens by introducing advanced CDQ technology replacing the existing CWQ process.
+The hot coke produced from a coke oven has high energypotential. In the CWQ process,
+hot coke is quenched by applying water and as a result, heat is lost to the atmosphere and
+significant dust and other pollutants are generated. In the CDQ process, cold nitrogen gas
+is used as a heat exchange medium to cool down hot coke. The heated nitrogen gas
+produces steam in a waste heat boiler for electricity generation. The nitrogen gas, cooled
+down after the heat exchange,is re-used for coolinghot coke in a circular process.
+
+
+Project Description
+
+This Carbon Finance project will address both Phase I and Phase I1construction of CDQ
+units and their associated facilities and equipment that will result in CERs. The main
+components of one CDQ unit include a CDQ chamber, dust collection system, waste heat
+recovery boiler, and steam turbine generator. Both new CDQ units and the back-up
+CWQ unit have a quenching capacityof 140tons per hour.
+
+Phase I. The installation of the first CDQ unit in Phase I is associated with the
+replacement of two of the three existing coke ovens and the associated CWQ unit which
+are outdated and do not meet recommended Chinese sector cleaner production criteria.
+The first CDQ unit and its back-up CWQ are expected to become operational when the
+first two new coke ovens in the Overall Improvement Plan begin production in March
+2008.' A 20 MW steam turbine generator will generate 126.48GWh of electricity
+annually and the generated electricity will displace electricity supplied through the grid
+that is produced from coal fired power plants that release large amounts of GHGs, thus
+resulting in the project's CERs.
+
+Phase 11. After the Phase I CDQ unit is operational, Meishan plans to construct a second
+CDQ unit as part of a planned expansion of production capacityby 2010. Theproduction
+capacity and technical specifications for the CDQ unit in Phase I1are identical to those in
+
+
+1One CDQ unit requires approximately600hours (25 days) of maintenance per year. When a CDQ unit is
+off-linethe CWQ unit will be used. This has been taken into consideration when estimatingpotential
+CERs. Additionally,the probability of both CDQ units being off-line at the same time is deemed highly
+unlikely and thereforethe project designrecommended constructionof only one CWQ unit.
+
+Phase I. Once the Phase I1CDQ unit comes on-line, its associated 20 MW steam turbine
+generator will be capable of generating an additional 126.48 GWh of electricityannually
+and double the total amount to 237.68 GWh. The CWQ constructed during Phase I will
+also be used a back-up for the Phase I1CDQ unit. The remaining original coke oven and
+its CWQ unit will be decommissionedby the time Phase I1becomes operational.
+
+
+ComponentB
+
+The World Bank-managed Spanish Carbon Fund (SCF) will finance the purchase of
+emission reduction credits resulting from the electricity supply derived from the project
+to the commercial electricity grid. The expected total CERs produced from this project
+are estimated to be 1.87million tons of COzequivalent (tCOze)over ten years (February
+2008  - January 2018). The purchase will be a performance-based contract under which
+payments are triggered by successful verification of the reduction of GHG emissions by
+an accredited DOE under the rules of the Kyoto Protocol. The quantity of CERs to be
+contracted, the length of time over which the purchase will be made, and the price paid
+will be agreed during ERPA negotiations.
+
+4. Project Location and SalientPhysical Characteristics Relevant to the Safeguard
+Analysis
+
+The project site is located to the southwest of Nanjing City in China's Jiangsu Province.
+The area is planned as an industrial zone, but there are six communities around the
+Meishan plant, which form a "corporate town."          The total population of town is
+approximately 30,000. More than 95 percent of the families are employed by the
+company. The project site is adjacent to and outside of the existing plant boundary. The
+existing coke ovens and CWQ units will be demolished, and the new coke ovens and
+CDQ units will be installed at this new site. The effluent from Meishan7swastewater
+treatment plant is discharged into the Yangtze River, 2 krn away from the company.
+
+5. Environmentaland Social SafeguardsSpecialists
+   Mr PheishenWang (EASRE)
+   Mr Jun Zeng (EASSO)
+
+6. SafeguardPolicies Triggered                               Yes        No
+EnvironmentalAssessment (OP/BP4.01)                          X
+Natural Habitats (OPBP 4.04)                                            X
+Forests (OPIBP 4.36)                                                    X
+Pest Management(OP 4.09)                                                X
+Physical CulturalResources (OP/BP 4.11)                                 X
+Indigenous Peoples (OP/BP4.10)                                          X
+InvoluntaryResettlement (OP/BP 4.12)                         X
+Safety of Dams (OP/BP4.37)                                              X
+Projects on InternationalWaterways (OP/BP 7.50)                         X
+Projects in Disputed Areas (OPBP 7.60)                                  X
+
+11. Key Safeguard Policy Issues and Their Management
+
+A. Summary of Key Safeguard Issues
+
+1.Describe any safeguardissues and impacts associated with the proposed project.
+Identify and describe any potential large scale, significant and/or irreversibleimpacts:
+
+The installation of the CDQ units is part of the Overall Improvement Plan and will result
+in significantbenefits for energyrecovery and emission reductions of GHGs and minimal
+negative environmentalimpacts. Therefore, this Carbon Financeproject is categorized as
+Category B. The project boundary for safeguards compliance is limited to the CDQ
+related facilities, including: (i) CDQ chamber; (ii) dust collection system; (iii) waste heat
+recovery boiler; (iv) steam turbine generator; (v) all equipment that supports the CDQ
+technology (e.g., fans, pumps, ducts, pipes); (vi) all equipment whose performance is
+affected by the characteristics of coke processed in the CDQ units (e.g., coke conveyors
+and coke screens); and (vii) all equipment/systems necessary to compensate the low
+availabilityof the CDQ units (e.g., backup CWQ unit).
+
+The main pollution sources of CDQ includewaste gas from: (i) top of CDQ chamber; (ii)
+blow-off outlet of the circulation fan; (iii) coke discharge point; (iv) coke transfer station;
+and (v) coke screens. The main pollutant related to these processes is dust only. The
+waste gases will be collected with a sucking system and treated through a bag filter, and
+then discharged into the air. The dust collected from the bag filter will be reused in coal
+preparationprocesses. There is no waste water from the CDQ unit. At the back-up CWQ
+unit, water spraying and baffle stack will be used to treat top gas, while other waste gases
+will be treated by a bag filter. The water will be reused in the quenchingprocess, and the
+solid waste will be reused for coal preparation. The land to be acquired for the project is
+farmland, therefore, no site contaminationby hazardousmaterials is envisaged.
+
+This Carbon Finance project triggers OP 4.12 because of the expected land acquisition
+and involuntary resettlement for Phase 11. The impacts of involuntary resettlement
+include permanent land acquisition, residential house demolition, enterprise and shop
+demolition, and infrastructure and ground attachment removal. It is estimated that the
+project will result in the permanent land acquisitionof 180.5mu and the demolition of 27
+residential houses with an area of 3935.25 m2; six enterprises with an area of 6890 m2
+and six shops with an area of 185 m2. The total number of project-affected persons is
+331. No temporary land use will occur for this project.
+
+The Phase I of the project completed its land acquisitionof 515.75 mu before the Bank's
+involvement in the project.
+
+2. Describe any potential indirect and/or long term impacts due to anticipated hture
+activitiesin the project area:
+
+The motivation for the Overall Improvement Plan is to upgrade the production processes
+of Meishan to be in compliance with the national cleaner production requirements,
+improve environmental performance, promote energy efficiency, and improve product
+quality.
+
+The EIA report for the Overall Improvement Plan concluded that upon completion of the
+Overall Improvement Plan, pollution discharges from Meishan will be substantially
+reduced by 43 percent for dust, 7 percent for SOz,83percent for COD, and 98 percent for
+suspended solid. As the biggest pollution load contributor in the project area (accounting
+for 87 percent of air pollution and 89 percent for water pollution), implementation of the
+Overall Improvement Plan will result in significant local environmental quality
+improvements.
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize
+adverse impacts.
+
+There are two feasible technical options for the coke quenching process; i.e. CWQ and
+CDQ. The options andjustifications for adoption or rejection are summarizedbelow.
+
+CWQ Option. The company could continue to use water to cool hot coke and purchase
+electricity from the grid. This is the most financially attractive, stable, and popular
+option applied in the Chinese iron and steel sector. A recent study indicates that the
+capacity of coke ovens equipped with CDQ units would only account for 13 percent of
+the total coke oven capacity in China by the end of 2008. Therefore, CWQ technology
+will continue to be dominant in the Chinese iron and steel sector for the near future.
+Although air pollutants potentially generated by the CWQ process could be largely
+prevented by employing extensive emission prevention measures, the waste heat would
+be lost and there would be no reduction of GHG emissions and therefore no potential for
+Carbon Finance revenues.
+
+CDQ Option. The CDQ technology is categorized as a Level 1 Cleaner Production
+Technology under the State Government Recommendations issued in July 2006. CDQ
+has several advantages including energy savings, reductions of GHG emissions, and the
+improvement of coke quality. However, the total investment for a CDQ unit including a
+back-up CWQ unit (RMB 255 million) is approximately 25 times more expensive than
+construction of a CWQ unit alone (RMB 10 million).                Furthermore, the annual
+operational and maintenance costs for a CDQ unit including a back-up CWQ unit are
+estimated to be approximately RMB 41 million while the same costs for a CWQ unit
+alone are only RMB 0.3 million. As a result of such higher costs, the feasibility study
+indicates that the IRR for this option without carbon revenue is below the recommended
+industrial benchmark of 13 percent. In addition, there are considerable technical risks
+and no compulsoryrequirements to install CDQ or replace CWQ with CDQ.
+
+Meishan has selected the CDQ option due to its strong commitment to being a leader in
+environmental protection and the incentive of revenue generated from the sale of CERs.
+The feasibility study indicated that with carbon revenue the IRR would be improved to
+13.4 percent which is above the recommended benchmark. This option offers the best
+opportunity for achieving project development objectives and enhancing sustainable
+development benefits for large scale steelproduction.
+
+4. Describemeasures taken by the borrower to address safeguard policy issues. Provide
+an assessment of borrower capacity to plan and implementthe measures described.
+
+A comprehensiveEIA has been prepared for the Phase I Coke Oven Project, in which the
+Phase I CDQ unit is covered. This EIA was approved by the Jiangsu Provincial
+Environmental Protection Bureau (EPB) in November 2005. The EIA for Phase I1
+coveringPhase I1CDQ unit was approved by SEPAin November 2005. These two EIAs
+are found them in line with the nationalregulationsand acceptable to the World Bank.
+
+A separate Environmental Management Plan (EMP) has been developed solely for this
+Carbon Finance project, which specifies environmental management practices for
+Meishan with specific description of CDQ-related departmentlstaff responsibilities, staff
+training plan, mitigation measures, environmental monitoring plan, and reporting
+mechanism. The EMP will be attached to the ERPA and its implementation will be
+monitored by the World Bank.
+
+Though Meishan has not worked previously with the World Bank, it has strong capacity
+in terms of the implementation of environmental measures and compliancewith national
+and local environmental regulations. Meishan has been accredited for IS014001 and
+Occupation Health and SafetyManagement System (OHSAS) 18001.
+
+Although not included in the project boundary, the overall environmental performance of
+Meishan was reviewed by the task team and an independent consultant for due diligence.
+The results verified that Meishan has established a good environmental management
+system and practice accredited with IS014000 and OHSAS18000. According to a result
+of compliance monitoring by Nanjing EPB, there were no cases of serious violation of
+national and local environmentalregulations over the last three years although occasional
+excesses in wastewater and air emission discharges have been experienced at internal
+measurements. It is also noted that the company is making continuous efforts to be an
+environmentally and socially friendly enterprise.        Therefore, there will be low
+reputationalrisk for the World Bank's involvement in this CarbonFinance project.
+
+Meishan and Yuhua District Land Bureau have jointly prepared a Resettlement Action
+Plan (RAP) for Phase 11,which will be attached to the ERPA and its implementation will
+be monitored. Because the Nanjing's income restoration arrangements (i.e. Social Basic
+Livelihood Security Scheme) does not fully secure the opportunity of project affected
+persons (PAPs) to explore their own choice, PAPs will be allowed in this project to
+choose voluntarilywhether they enroll in the SocialBasic Livelihood Security Scheme or
+not. In addition, Meishan will submit an updated resettlement implementation plan
+satisfactoryto the World Bank prior to the commencement of Phase I1land acquisition.
+
+The Meishan Resettlement Office has been established for the implementation of the
+RAP, together with the Yuhua District Land Bureau. An independent monitor will be
+selected for the assessment of resettlement implementation and livelihood restoration.
+The Office has sound experience in domestic land acquisition and house demolition
+practices and familiar with local land laws and regulations, however, the Office does not
+
+have prior experience in the implementation of World Bank projects.             Therefore,
+extensive training program has been designed and on-going to enhance capacity of the
+Office to implementthe RAP in compliancewith the safeguardspolicies.
+
+The land acquisition of 515.75 mu for Phase I was completed before the World Bank's
+involvement in the project. A Post-Evaluation of Resettlement (PER) was conducted to
+review retroactively compliance with Chinese laws and regulations and assess the
+impacts on the livelihoods of the affected households. The PER concluded that the
+resettlement practices were in line with the Chinese laws and regulations and the
+livelihoods of affected households have been improved.            No resettlement-related
+reputational risks have been identified.
+
+5. Identify the key stakeholders and describethe mechanisms for consultationand
+disclosure on safeguardpolicies, with an emphasison potentially affectedpeople.
+
+Public consultation was carried out for both EIAs through public meetings followed by
+questionnaire survey. Five hundred four project-affected people were consulted. The
+main concerns of the public are the enforcement of emission control during operation,
+noiseldust issues during construction and resettlement issues, which Meishan addressed
+in the project design and operation.
+
+Key stakeholders in terms of involuntaryresettlement include the local communitieswho
+live or work in and around the construction site of the project. Public consultation during
+the preparation of this project was carried out using a questionnaire survey, expert
+consultation, workshops and public hearings. With respect to the preparation of the RAP,
+project-affected persons and organizations have been informed about the project and its
+impact through meetings during the preparation of the RAP.                Comments and
+recommendations received from these meeting have been incorporated as appropriate in
+the RAP.      Public participation will continue during RAP implementation. Project
+information will be provided to the affected persons through newspapers, bulletins and
+posters. The RAP will be summarized into a resettlement information booklet and
+distributed to affectedhouseholds.
+
+
+B. Disclosure Requirements Date
+
+EnvironmentalAssessmentlAudit/ManagementPlanlother:
+  Date of receipt by the Bank                                     03/22/2007
+                                                                 03/06/2007for Phase I
+  Date of "in-country"disclosure
+                                                                 07/03/2007for Phase I1
+  Date of submissionto Infoshop                                   0811512007
+  For categoryA projects, date of distributingthe Executive
+                                                                     NA
+  Summaryof the EA to the ExecutiveDirectors
+ResettlementAction PlanIFrameworWPolicyProcess:
+  Date of receipt by the Bank                                     0713112007
+  Date of "in-country"disclosure                                  0811512007
+  Date of submissionto Infoshop                                   0811512007
+
+* If the project triggers the Pest ManagementandlorPhysical CulturalResources,
+the respective issues are to be addressed and disclosed as part of the Environmental
+AssessmentIAuditlor EMP.
+If in-country disclosure of any of the above documents is not expected,please
+explain why:
+
+
+
+
+C. ComplianceMonitoring Indicators at the CorporateLevel (to befilled in when the
+ISDS isJirzalizedby theproject decision meeting)
+
+OPIBPIGP 4.01 Environment Assessment
+                  -
+Does the project require a stand-aloneEA (includingEMP) report?             Yes
+If yes, then did the Regional Environment Unit or SectorManager (SM)        Yes
+review and approve the EA report?
+Are the cost and the accountabilitiesfor the EMP incorporatedin the         Yes
+creditlloan?
+OPIBP4.12 Involuntary Resettlement
+             -
+Has a resettlementplanlabbreviatedplanlpolicy fiamework/process             Yes
+framework (as appropriate)been prepared?
+If yes, then did the Regional unit responsible for safeguardsor Sector      Yes
+Manager review the plan?
+The World Bank Policy on Disclosure of Information
+Have relevant safeguardpolicies documents been sent to the World Bank's     Yes
+Infoshop?
+Have relevant documentsbeen disclosed in-country in a publicplace in a      Yes
+form and languagethat are understandableand accessibleto project-affected
+groups and localNGOs?
+All Safeguard Policies
+Have satisfactorycalendar,budget and clear institutionalresponsibilities    Yes
+been prepared for the implementationof measuresrelated to safeguard
+policies?
+Have costs related to safeguardpolicy measuresbeen included in the project  Yes
+cost?
+Does the Monitoring and Evaluationsystem of the project includethe          Yes
+monitoringof safeguardimpacts and measuresrelated to safeguard policies?
+Have satisfactoryimplementationarrangementsbeen agreed with the             Yes
+borrower and the samebeen adequatelyreflected in the project legal
+documents?
+
+D. Approvals
+
+
+                             Mr Hiroshi Ono
+  onmental Specialist:
+   1 Development Specialist
+
+

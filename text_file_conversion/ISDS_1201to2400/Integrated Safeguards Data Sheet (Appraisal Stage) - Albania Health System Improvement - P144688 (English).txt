@@ -1,0 +1,429 @@
+                                 INTEGRATED SAFEGUARDS DATA SHEET
+                                         APPRAISAL STAGE
+                                                                              Report No.: ISDSA1001
+
+    t   Date ISDS Prepared/Updated: 21-Nov-2014
+        Date ISDS Approved/Disclosed: 08-Dec-20 14
+
+        I. BASIC INFORMATION
+           1. Basic Project Data
+
+           Country:          Albania                            Project ID:    P144688
+           Project Name:     Albania Health System Improvement (P144688)
+           Task Team         Lorena Kostallari
+           Leader:
+           Estimated       14-Nov-2014                          Estimated   27-Feb-2015
+           Appraisal Date:                                      Board Date:
+           Managing Unit: GHNDR                                 Lending        Investment Project Financing
+                                                                Instrument:
+           Sector(s):        Health (100%)
+           Theme(s):         Health system performance (100%)
+           Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+           8.00 (Rapid Response to Crises and Emergencies)?
+           Financing (In USD Million)
+           Total Project Cost:         40.00                  Total Bank Financing:       40.00
+           Financing Gap:                0.00
+              Financing Source                                                                       Amount
+C
+              Borrower                                                                                  0.00
+              International Bank for Reconstruction and Development                                    40.00
+              Total                                                                                    40.00
+           Environmental B - Partial Assessment
+           Category:
+           Is this a         No
+           Repeater
+           project?
+
+           2. Project Development Objective(s)
+          The proposed PDO is to contribute to improving the efficiency of care in selected hospitals in
+          Albania, improving the management of information in the health system, and increasing financial
+          access to health services.
+           3. Project Description
+          Component 1: Improving Hospital Services (US$17.9 million equivalent)
+
+                                                     Page 1 of 9
+    21.      This component aims to improve efficiency and quality of hospital services delivery in
+    Albania. The component will finance technical assistance, training, study tours, civil works, goods
+    and equipment to support the design and implementation of a sustainable hospital network with the
+O
+    appropriate infrastructure and human capital to deliver needs-based hospital services, and to
+    strengthen autonomy and accountability for hospitals and managers. Implementation will build on
+    the results and concepts developed under the previous Bank-supported project (HSMP).
+
+    Sub-component 1.1: Strengthening the Albanian Network of Hospital Services (US$3.8 million)
+
+    22.      This sub-component will address inefficiencies in hospital services, including management
+    weaknesses and overuse of services at tertiary level; underutilization of district and regional
+    hospitals; poor coordination of care across outpatient and inpatient services; as well as the need for
+    access to functioning outpatient services. It will also address the efficiency and quality of hospital
+    services under the current system, including the lack of a functioning referral system (which
+    encourages patients to generally bypass lower-level providers and to seek care directly in the
+    specialized public facilities) and poor patient management in hospital facilities. It will strengthen
+    outpatient services, and improve needs-based planning of hospital infrastructure and human
+    resources. Finally it will establish results-based management systems for essential hospital services,
+    patient management, clinical services, outcomes, and accountability.
+
+    23.      The sub-component will finance technical assistance, capacity building and equipment for
+    the following sets of activities: (a) updating the existing Hospital Master Plan; (b) piloting
+    implementation of the revised Master Plan in at least three pilot regions (including the transformation
+    of district hospitals into primary care/diagnostic facilities), (c) assessment and improvement of the
+    current management of the QSUT, (d) elaboration of an appropriate legal and regulatory framework
+    for hospital services, to provide increased autonomy and accountability; (e) training and capacity
+    building for hospital management teams, MoH, HIF, and other supervising agencies on service
+    planning, resource allocation, performance management, and implementation monitoring and
+    contracting, (f) development of benchmarks and indicators for profiling comparative hospital
+    performance (MIS/quality monitoring system), establishing baseline data and systems for
+    monitoring, (g) updating, implementing, and monitoring of clinical guidelines, clinical pathways, and
+    standards for referrals from primary to outpatient secondary services to inpatient and tertiary
+    services, and (h) piloting social patient-based accountability mechanisms to enhance patient feedback
+    and reduce informal payments - such as: establishment of hot lines and cell-phone based feedback
+    mechanisms, study on informal payment, publishing ranking of hospitals based on performance, etc.
+
+    Sub-component 1.2: Improving hospital infrastructure and the management of medical equipment
+    (US$14.1 million)
+
+    24.      This sub-component will finance the physical rehabilitation and upgrading of hospital
+    infrastructure and medical equipment, based on the updated Hospital Master Plan. The Plan does not
+    currently envisage closing any facilities (or adding new ones), but most likely hospital beds would be
+    reduced or reallocated in accordance with service requirements, and appropriate mechanisms
+    established to reallocate staff. There will be upgrading of infrastructure and equipment in three
+    regions, based on a strategic plan prepared by the hospital management and regional authorities, and
+    aligned with the overall Hospital Master Plan. The Pediatric hospital in Tirana (within the QSUT)
+    will also be upgraded. This will be implemented in conjunction with management and payment
+    reforms to improve efficiency. Moreover, based on the priorities identified in the updated Hospital
+
+
+                                                  Page 2 of 9
+Master Plan and hospital strategic plans, this sub-component may also finance medical equipment for
+other regional hospitals to ensure that their activities can be performed in a satisfactory manner.
+
+25.      This sub-component will also finance a number of activities related to management of the
+medical equipment. These include: (i) the development of a medical equipment maintenance
+strategy; and (ii) the establishment of a National Center with the mandate to manage all medical
+equipment in the public sector in Albania. Considering the specific situation and the limited budget,
+the adoption of a mixed model is envisaged as the most cost-effective approach to the maintenance
+problem. According to this model, the first-level maintenance would be performed by in-house
+technicians, while for medium and high complexity maintenance the MoH would contract a global
+service provider (GSP). The government has committed to financing implementation of the medical
+equipment maintenance strategy through the national budget. Funding under this sub-component will
+include technical assistance, training, and physical assets.
+
+Component 2: Expanding the Health Management Information System (US$16.8 million
+equivalent)
+
+26.      A number of complementary and interrelated subcomponents will move HMIS forward on a
+number of critical fronts. The component addresses the need for improved provider-based systems,
+focusing on the country's regional hospital sector which significantly impacts the orchestration of
+services across the spectrum of care. It places emphasis on strengthening referrals to/from both the
+primary care and tertiary care levels (QSUT). It also addresses the need to provide the hospitals with
+a means of adopting the new provider payment methods, which are being organized under
+Component 3.1. In addition, it addresses the need for improved automation in the country's health
+insurance payer, the HIF, where an improved health insurance information system will be placed.
+Finally, it provides the foundational activities to support these developments, and an institutional
+home to support and sustain them in the long run.
+
+Sub-component 2.1: HMIS/eHealth Foundational Activities and Establishing the National Health
+Information Center (NHIC) (US$3.10 million)
+
+27.      HMIS systems are increasingly interdependent and interoperable. Thus it is important to
+stress overall coordination in the design and implementation of these systems, as well as to create, at
+a technical level, the means for these "new generation" systems to "talk to one another" through
+internet technologies. To accomplish this goal of closer integration of systems, this sub-component
+includes the following sets of activities:
+
+         Creating the Master Plan for HMIS/eHealth activities (2015-2019) and the first version of
+the Albania Health Data Dictionary (HDD) and Health Data Model (HDM). The sub-component
+will finance technical assistance for supporting the MoH in developing the HMIS Master Plan. The
+Master Plan will provide the overall framework to develop, improve coordination between
+development partners, and provide the "big picture" view of where the country plans to focus its
+investments. It will also support the creation of the first HDD and HDM in the country, through
+financing technical assistance and training for the MoH staff.
+
+         Creating the first version of the Essential Registries for Albania's HMIS. The sub-
+component will finance technical assistance to support the MoH in establishing the essential
+registries, which are a set of important documents, shared between different applications. The
+registries will include health facilities, health workers and biomedical equipment and the interrelation
+
+
+                                              Page 3 of 9
+    between them.
+
+    The NHIC is the focal point for eHealth/HMIS activities in Albania - enhancing sustainability of the
+o
+    initiatives and providing modem user support tools.
+
+
+    *       This sub-component will also finance capacity building, goods and IT equipment to support:
+    (a) expanding, updating and enforcing the Health Data Dictionary (HDD) and the Health Data
+    Model, (b) consolidating the current small data centers (including those for MoH, the HIF, and the
+    IPH), into one Health Data Center, (c) creating a Training Center with a capacity of 50 persons, with
+    appropriate equipment to support in-person training, synchronous online training as well as the
+    creation of materials for asynchronous training, (d) providing user support and systems maintenance
+    by establishing a Help Desk within the NHIC, and (e) supporting Biomedical Engineering and
+    Maintenance.
+
+
+    Sub-component 2.2: Implementing Regional Hospital Information Systems (US11.5 million)
+
+    28.      This sub-component will finance capacity building and goods, training and IT equipment, to
+    support the establishment of a modem Hospital Information System in selected regional hospitals
+    (RHIS). While the country begins the process of rationalizing and repurposing its hospitals, it is the
+    right moment to also install modem hospital information systems in selected hospitals. The Project
+    will support at least seven of Albania's thirteen regional hospitals to introduce automated systems,
+    This will include the following steps: (a) "management" functions first, including Admissions
+    Discharges and Transfers (ADT), outpatient registration, bed management, medical records locator
+    and an interface with HIF for claims/encounters reporting; (b) clinical functions, including clinical
+    laboratory order and resulting functions, radiology order and resulting functions, and pharmacy
+    prescribing functions; and (c) the creation of a clinical summary for each patient, focusing
+    particularly on tracking targeted chronic disease(s). This will later lead to the establishment of a true
+    electronic medical record (beyond the scope of the project). The electronic medical record would be
+    established with collaboration from and coordination with the Austrian Cooperation support, which
+    focuses on creating a National Electronic Health Record (NEHR).
+
+    29.       The NHIS interfaces will be particularly important and prominent. This includes the various
+    interfaces from the NHIS to the HIIS at HIF, the referral link to/from Primary Care, the referral link
+    to tertiary care. Such linkages are important for promoting better continuity-of-care. Particular
+    importance will be given to creating the mechanism to monitor "inappropriate" admissions and
+    referrals.
+
+
+    Sub-component 2.3 Implementing a new Health Insurance Information System (HIIS) for the Health
+    Insurance Fund (HIF) (US$2.2 million)
+
+    30.      This sub-component will finance IT systems and capacity building for HIF staff, ensuring
+    that HIF is prepared to deal with aspects of financial management, as well as to automate the health
+    insurance claim processing based on the chosen Provider Payment methods. Moreover, a new
+    protection system featuring fraud and abuse detection will need to be introduced, as the HIF oversees
+    ever larger segments of the healthcare delivery system in the country.
+
+
+
+                                                  Page 4 of 9
+Component 3: Improving Health Financing System (US$3.8 million equivalent)
+
+31.     This component will address improvement of allocative efficiency and will support the shift
+towards output-based and performance-based financing for hospitals and primary care services. It
+will enable the expansion of health insurance coverage particularly for the poor, and the pooling of
+health care resources. It will improve the policies of pharmaceuticals, which in turn will reduce high
+out-of-pocket expenditures on drugs and improve quality and efficiency.
+
+Sub-component 3.1: Payment Reform (US$2.3 million)
+
+32.     The sub-component will finance technical assistance, capacity building, and workshops, to
+support the reform of the payment system in primary and hospital care.
+
+33.      Payment Reform in primary health care. The Project will support the HIF to move towards
+risk-adjusted primary care capitation payments (from the existing historic budgets with caps), in
+which "money follows the patient" and incentives are strengthened to provide key services,
+particularly for the poor; improve service qua lity; and reduce unnecessary referrals. The total
+amount of funds allocated to any single primary care provider or facility will be based on the average
+per capita amount (or base rate) and number of enrolees, adjusted for risk profile and performance
+indicators. The Project will support monitoring and evaluation of payment reforms, and further
+strengthen the "pay-for-performance" approach introduced under the previous project, including
+priority services such as the control of hypertension, diabetes, cervical cancer, etc. Swiss
+Development Cooperation will finance complementary support to improve the quality of primary
+care.
+
+34.     Payment Reform for hospital-delivered health care. The Project will fund the development
+and introduction of global budgets and a case-based payment system for hospitals, including
+incentives to improve quality of care. To do this, the early years of the Project will follow a phased
+approach, including support for information infrastructure, diagnostic and procedure coding systems;
+hospital costing and cost accounting systems; the introduction of global hospital budgets;
+development and testing of the software grouper, followed by piloting and phased implementation of
+budgets based on diagnosis-related groups (DRGs). Italian Cooperation will provide complementary
+support on hospital payment reforms.
+
+Sub-component 3.2: Support to the Health Insurance Fund (HIF) for strategic purchasing, improved
+coverage and pharmaceutical reform (US$1.5 million)
+
+35.      The sub-component will finance technical assistance, training and workshops to support
+organizational development of the HIF. This will enable it to be a more strategic purchaser of
+services over the next few years, and to assess costs and options to expand insurance coverage. The
+Project will support: (a) capacity development in the areas of management, organization, financial
+and risk management, information technology, provider payment systems, and quality assurance; (b)
+technical assistance to develop expenditure and revenue model projections under various scenarios
+relating to expanding insurance coverage to the informal sector, and options for shifting to tax-based
+financing. Support for HMIS under Sub-component 2.4 will complement the activities of this
+component. This will include equipment, training and technical support to allow the HIF to mature
+into a strategic purchaser.
+
+36.     In addition, the sub-component will finance technical assistance, training and workshops, to
+
+
+                                             Page 5 of 9
+    support the Government in designing and piloting innovative pharmaceutical policies. This will
+    include the following main activities: (a) revising the existing drug list based on clinical and cost-
+    effectiveness criteria, and strengthening capacity and transparency in decision making around
+    reimbursement of new drugs. This will include training on processing drug applications and capacity
+O
+    building in reviewing Health Technology Assessments; (b) further reducing prices for multi-source
+    drugs through strengthening reference pricing, competition, and revised margins to retailers and
+    wholesalers to encourage dispensing of lower cost drugs. There will also be an initiative to reduce
+    costs of patented original drugs through innovative financing mechanisms such as Risk Sharing
+    agreements; (c) improve generic promotion strategic plan, and enhanced monitoring of prescription
+    and dispensing practices; and (d) improving treatment compliance and reducing OOP expenditure
+    through revision of copayments, and targeted reductions or waiving of copayments for low-cost
+    drugs essential for the management of chronic diseases.
+
+    Component 4: Monitoring, Evaluation and Project Management (US$1.5 million equivalent)
+
+    37.     This component will support routine Project management, including fiduciary tasks,
+    Monitoring and Evaluation (M&E), and audits of Project financial statements. It will finance Project
+    operating costs including translation, interpretation, equipment, supervision costs (transportation and
+    per diem), staffing costs of the Project Coordination Unit (PCU), M&E, studies and surveys, and
+    incremental costs for the PCU in the Ministry of Health. Monitoring the implementation of the
+    reforms, including potential unintended consequences, will be supported under this component.
+    Study tours are possible to countries where similar reforms are at an advanced stage of
+    implementation and where significant results have been achieved.
+     4. Project location and salient physical characteristics relevant to the safeguard
+    analysis (if known)
+    The Project will deal with the overall health sector in Albania, and as such will be conducted
+    throughout the country. The upgrade/small-scale reconstruction works will be focused on a tertiary
+    hospital in Tirana, the capital (either the Pediatric hospital and the Oncology hospital) and minor
+    infrastructure works/upgrades in the regional hospitals to be selected during project implementation.
+     5. Environmental and Social Safeguards Specialists
+O
+    Bekim Imeri (GSURR)
+    Esma Kreso (GENDR)
+
+     6. Safeguard Policies               Triggered? Explanation (Optional)
+     Environmental Assessment OP/        Yes             The small-scale reconstruction works envisaged
+     BP 4.01                                             under the upgrades within Component 1 of the
+                                                         project may lead to negative environmental
+                                                         impacts such as generation of construction waste,
+                                                         noise and dust, that will be mitigated through the
+                                                         use of Checklist Environmental Management
+                                                         Plans for Small Scale Construction. These forms
+                                                         will be prepared prior to Project Appraisal, and
+                                                         will be part of the documentation for the works
+                                                         contracts.
+     Natural Habitats OP/BP 4.04         No
+
+
+
+
+                                                 Page 6 of 9
+   Forests OP/BP 4.36                 No
+
+   Pest Management OP 4.09            No
+
+   Physical Cultural Resources OP/    No
+   BP 4.11
+   Indigenous Peoples OP/BP 4.10      No
+
+   Involuntary Resettlement OP/BP     No               The Operational Policy for Involuntary
+   4.12                                                Resettlement is not triggered with the project
+                                                       because the Project will finance works to
+                                                       rehabilitate current operating hospital. No new
+                                                       construction is planned and thus there will be no
+                                                       impacts such as displacement or land acquisition.
+   Safety of Dams OP/BP 4.37          No
+
+   Projects on International          No
+   Waterways OP/BP 7.50
+   Projects in Disputed Areas OP/BP No
+   7.60
+
+II. Key Safeguard Policy Issues and Their Management
+  A. Summary of Key Safeguard Issues
+   1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+     and describe any potential large scale, significant and/or irreversible impacts:
+    The upgrading works envisaged under this project on one of the hospitals in Tirana (the Pediatric
+    or Oncology) and the regional hospitals will be carried out within the existing structures and are
+    aimed at improving health care services. The scope of the activities will not go beyond the existing
+    footprint, and will most likely include impacts such as noise and dust generation, management of
+    construction waste and site safety, as well as disruptions to the work schedule of the hospitals. All
+    of these impacts can be readily mitigated through sound environmental construction practices, as
+    outlined in the Small Scale Rehabilitation Works Checklist EMP that has been prepared for each
+    of the project sites.
+   2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+     in the project area:
+    No long term impacts are anticipated.
+   3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+     impacts.
+    No alternatives have been considered.
+   4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+     assessment of borrower capacity to plan and implement the measures described.
+    The PIU within the Ministry of Health has prepared the Checklist EMP for the two sites. The
+    Checklist EMP will be included in the works and supervision contracts, while the PIU staff (most
+    likely the M&E) will conduct supervision of EMP compliance together with the World Bank team.
+
+
+                                               Page 7 of 9
+      Due to the small scale of impacts and associated due diligence, there will be no need for staffing of
+      the PIU with an environmental expert. Any additional requirements will be carried out by
+       consultant hire, if necessary.
+    5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+       on safeguard policies, with an emphasis on potentially affected people.
+      The key stakeholders include other hospitals and wards within the Tirana University Hospital
+       Center "Mother Theresa" where the two hospitals are located. The Checklist EMPs was disclosed
+       in a public place within the Hospital Center and on the website of the Client/Hospital with a
+       feedback mechanism established for any questions or comments. The Checklist EMP will be re-
+       disclosed in a public place within the Hospital Center once works start. All works will be carried
+       out at intervals and schedules that have been agreed with the other stakeholders within the Center
+      to minimize disruption to regular work. The disclosure and consultations of the public in the
+      regional hospitals will be done in a similar approach.
+    B. Disclosure Requirements
+    Environmental Assessment/Audit/Management Plan/Other
+      Date of receipt by the Bank                                         11-Jul-2014
+      Date of submission to InfoShop                                      11-Jul-2014
+      For category A projects, date of distributing the Executive
+      Summary of the EA to the Executive Directors
+    "In country" Disclosure
+      Albania                                                             14-Jul-2014
+     Comments:
+    If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+    respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+    Audit/or EMP.
+    If in-country disclosure of any of the above documents is not expected, please explain why:
+o
+
+
+
+    C, Compliance Monitoring Indicators at the Corporate Level
+    OP/BP/GP 4.01 - Environment Assessment
+     Does the project require a stand-alone EA (including EMP)         Yes [ X]     No [    ]   NA [    ]
+     report?
+     If yes, then did the Regional Environment Unit or Practice        Yes [ X]     No [    ]   NA [    ]
+     Manager (PM) review and approve the EA report?
+     Are the cost and the accountabilities for the EMP incorporated    Yes [ X]     No [    ]   NA [    ]
+     in the credit/loan?
+    The World Bank Policy on Disclosure of Information
+     Have relevant safeguard policies documents been sent to the       Yes [ X]     No [    ]   NA [    ]
+     World Bank's Infoshop?
+     Have relevant documents been disclosed in-country in a public Yes [ X]         No [    ]   NA [    ]
+     place in a form and language that are understandable and
+     accessible to project-affected groups and local NGOs?
+    All Safeguard Policies
+
+
+
+                                                 Page 8 of 9
+        Have satisfactory calendar, budget and clear institutional      Yes[X]   No[       NA
+        responsibilities been prepared for the implementation of
+        measures related to safeguard policies?
+        Have costs related to safeguard policy measures been included   Yes[X]   No[       NA
+        in the project cost?
+        Does the Monitoring and Evaluation system of the project        Yes[X]   No[       NA
+        include the monitoring of safeguard impacts and measures
+        related to safeguard policies?
+        Have satisfactory implementation arrangements been agreed       Yes[X]   No[       NA
+        with the borrower and the same been adequately reflected in
+        the project legal documents?
+
+    III. APPROVALS
+       Task Team Leader:       Name: Lorena Kostallari
+       Approved By
+       Practice Manager/       Name: Johanne Angers (PMGR)                   Date: 08-Dec-2014
+       Manager:
+
+
+
+
+o
+
+
+
+
+                                                   Page 9 of 9
+

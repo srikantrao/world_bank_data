@@ -1,0 +1,231 @@
+﻿                       INTEGRATED SAFEGUARDS DATA SHEET
+                                CONCEPT STAGE
+                                                                            Report No.: AC6423
+
+
+Date ISDS Prepared/Updated: 08/08/2012
+
+I. BASIC INFORMATION
+
+A. Basic Project Data
+
+Country: Vietnam                              Project ID: P125996
+Project Name: Distribution Efficiency Project
+Task Team Leader: Hung Tien Van
+Estimated Appraisal Date: June 5, 2012        Estimated Board Date: September 13, 2012
+Managing Unit: EASVS                          Lending Instrument: Specific Investment
+                                              Loan
+Sector: Transmission and Distribution of Electricity (100%)
+Theme: Rural services and infrastructure (100%)
+IBRD Amount (US$m.):         400
+IDA Amount (US$m.):            48.9
+GEF Amount (US$m.):             0
+PCF Amount (US$m.):             0
+Other financing amounts by source:
+        BORROWER/RECIPIENT                                           313.50
+        AUSTRALIA: Australian Agency for International Development 7.60
+        Clean Technology Fund                                          30.00
+                                                                     351.10
+
+
+B. Project Objectives [from section 2 of PCN]
+The project development objective is to improve the efficiency of Vietnam’s Power Corporations
+(PC) in delivering power distribution and retail supply services, through supply and demand side
+interventions. As part of this efficiency objective, the project will also support enhancements in
+the regulatory framework.
+
+C. Project Description [from section 3 of PCN]
+The proposed project will comprise the following three components:
+
+  Component 1: System Expansion and Reinforcement. This component will cover construction
+and reinforcement of 110 kV, medium voltage (MV) and LV networks, including distribution
+lines and substations. The investments under this component will help the PCs to efficiently meet
+load growth, address load supply constraints due to distribution system congestion, reduce
+losses, and improve reliability and quality of power supply.
+ Component 2: Introduction of Smart Grid Technologies in Distribution. This component will
+introduce smart grid technologies for the automation of distribution network operations and
+advanced metering systems (AMS) at key substations and electricity consumers in PCs. The
+adoption of these smart grid technologies will contribute to improving the PCs’ operating
+efficiency and optimizing the configuration of the distribution network to reduce overloads;
+increasing the accuracy of billing, avoiding loss of revenue; allowing timely detection and repair
+of failures in equipment; enabling the load profiling of electricity consumers’ to improve load
+forecasting and optimize generation dispatch as well for demand side response programs and
+efficient tariffs setting. These, in turn, can lead to the reduction of the investment required for
+distribution infrastructure, decrease in operating costs, improve reliability and quality of
+distribution services, and avoidance of GHG emissions associated with thermal power
+generation. CTF co-financing is proposed for this component.
+
+  Component 3: Technical Assistance and Capacity Building. This component will include
+technical assistance and capacity building for the five PCs. Additionally, a grant for technical
+assistance to MoIT is proposed to develop and implement new and enhanced regulations for
+promoting efficient use of electricity, and monitoring and communication frameworks.
+
+ The preliminary estimated total cost of the project is US$ 330 million, out of which US$ 300
+million is expected to be financed from IBRD and US$ 30 million by CTF. The TA support to
+MoIT is proposed as a grant, and there are on-going discussions with AusAid on possible
+contribution.
+
+D. Project location (if known)
+The project areas will be defined during the preparation but would be scattered all over 44
+provinces of the country.
+
+E. Borrower’s Institutional Capacity for Safeguard Policies [from PCN]
+Power Corporations, namely Northern Power Corporation (NPC), Central Power Corporation
+(CPC), Southern Power Corporation (SPC), Ho Chi Minh City Power Corporation (HCMPC)
+and Hanoi Power Corporation (HNPC), will implement the project thorough their Project
+Management Units (PMUs). The PMUs will be responsible for the daily activities related to the
+project’s compliance with environmental and social safeguards policies. The overall
+responsibility for project monitoring and implementation of safeguard frameworks and
+guidelines will remain with PCs.
+
+ With the exception of HNPC, all PCs PMUs have implemented a number of IDA credits since
+1995. Each of these projects has involved broadly similar safeguards issues and remedies and the
+PMUs are experienced with World Bank requirements regarding the preparation of EIA/EMPs,
+RPs, EMDPs and the use of frameworks to guide their preparation.
+ On the other hand, Hanoi PC does not have experience with Bank-financed projects. However,
+the PC does have extensive experiences with projects funded by other international donors,
+including the Asian Development Bank (ADB). To improve their capacity with regard to
+compliance with World Bank safeguard policies, during project preparation and implementation
+additional training will be provided to Hanoi PC staff on this subject, to make sure that adequate
+capacity is available.
+ MoIT, as an implementing agency will be responsible for the implementation of Component 3
+Technical Assistance and Capacity Building, along with the PCs. This component only entails
+studies, enhancement of regulations and capacity building activities, and therefore safeguards is
+not an issue.
+
+F. Environmental and Social Safeguards Specialists
+   Ms Ly Thi Dieu Vu (EASVS)
+   Mr Van Trung Nguyen (EASVS)
+   Mr Son Van Nguyen (EASVS)
+   Mr Nghi Quy Nguyen (EASVS)
+
+II. SAFEGUARD POLICIES THAT MIGHT APPLY
+Safeguard Policies Triggered                                         Yes          No        TBD
+Environmental Assessment (OP/BP 4.01)                                 X
+    Based on the experiences of the other similar projects and the list of the proposed subprojects
+furnished to the Bank by PCs, the impacts are likely to be site-specific, not sensitive or
+irreversible, and in every case, mitigation measures can be designed to reduce the negative
+impacts. It is proposed therefore that the project be classified as Category B.
+
+      Expected impacts include (i) tree cutting associated with construction of substations and
+distribution lines; (ii) increased levels of dust, noise, and other emissions from excavation
+activities, land clearing activities, material stockpiles, heavy equipment, and truck traffic; (iii)
+construction site waste generation; (iv) rural traffic disturbance and road damage due to the
+transportation of building materials and equipment; (v) soil erosion, sediment, and landslide
+risks; (vi) unexploded ordnance risks; (vii) leakage or disposal of polychlorinated biphenyls
+(PCBs), sulfur hexafluoride (SF6), and fuels; (viii) health and safety issues for workers and
+community during both construction and operation phases.
+
+      As most of the impacts are anticipated to be minor and sub-project specific, scattered over
+most of Vietnam, it is not proposed to carry out a stand-alone environmental impact assessment.
+An Environmental Management Framework (EMF) providing guidance for individual
+subprojects will be prepared by EVN and submitted to the Bank for review and clearance prior to
+Appraisal. For those subprojects which are identified prior to appraisal, the appropriate
+subproject safeguard instruments will also be prepared in line with the EMF. The EMF will
+include the following: i) A description of the types and scale of subprojects and their ancillary
+aspects which need to be considered in individual safeguard instruments; ii) Legal frameworks;
+iii) Screening procedures; iv) Standard environmental specifications for contractors
+(environmental codes of practices [ECOPs] or their equivalent) to manage construction-related
+impacts in subprojects; v) Environmental assessment preparation and approval process including
+requirements for EMP preparation, specific guidance for PCB management, and specific
+guidance on unexploded ordnance; and vi) Budget, institutional arrangements for the review and
+approval of safeguard instruments for subprojects, as well as monitoring and reporting for the
+implementation of the EMF.
+
+     It is anticipated that about 30% of the first-year subprojects will be clearly defined and with
+Safeguard Policies Triggered                                     Yes         No         TBD
+safeguard instruments prepared by the project appraisal. Safeguard documents for the remaining
+70% of the subprojects will be prepared during project implementation in accordance with the
+guidelines provided in the EMF.
+
+     By Project appraisal stage, public consultation and disclosure of safeguard tools for
+subprojects identified for the first year of implementation will be completed.
+Natural Habitats (OP/BP 4.04)                                                      X
+    Given the type and small size of the activities and location of the different sub-projects, the
+project does not foresee the potential for any significant conversion or degradation of critical or
+other natural habitats. Each sub-project will be screened to ensure that the policy is not triggered.
+Forests (OP/BP 4.36)                                                               X
+    Given the type and small size of the activities and location of the different sub-projects
+would not have the potential of having impacts on the health and quality of forests or the rights
+and welfare of people and their level of dependence upon or inter-action with forest or bring
+about changes in the management, protection or utilization of natural forests or plantations.
+Pest Management (OP 4.09)                                                          X
+    The clearance of vegetation for the maintenance of right - of – way, as a good practice, is
+done manually. Wood power poles are no longer in use in Vietnam. Therefore, the project will
+not use herbicides or any other pesticides for right-of-way vegetation maintenance or chemical
+products for wood preservation for poles and associated wood construction materials.
+Physical Cultural Resources (OP/BP 4.11)                                           X
+    The project would not be located in, or in the vicinity of recognized physical cultural
+resources. In addition, given the type and small size of the activities and location of the different
+sub-projects, the project does not foresee having the potential to have any impacts on physical
+cultural resources. However, each sub-project will be screened to ensure that the policy is not
+triggered.
+Indigenous Peoples (OP/BP 4.10)                                       X
+    Since the project involves the preparation and implementation of multiple subprojects in a
+large geographical area, it is possible that ethnic minority households may be affected. For
+subprojects known by appraisal, where applicable, Ethnic Minority Development Plans (EMDPs)
+will be prepared. In addition, an Ethnic Minority Planning Framework (EMPF) will be
+developed to guide the preparation of EMDPs for subprojects defined during the implementation
+(the depth and scope will be commensurate with the potential impacts of the subprojects). EMPF
+and all EMDPs are subject to public consultation and must be disclosed per requirements of the
+World Bank's policy.
+Involuntary Resettlement (OP/BP 4.12)                                 X
+    Each of the subprojects would have low-intensity impacts involving some temporary or
+permanent loss of agricultural, orchard, garden or residential land to transmission tower
+foundations, substations and line stringing. Residential or other buildings may be affected but
+impacts on houses will be mostly partial and generally are not likely to require relocation of
+families outside their residential plots. ROWs will have limitations on land use to ensure safety.
+All Resettlement Action Plans (RAPs) or Abbreviated Resettlement Action Plans (ARAPs) for
+subprojects known by appraisal will be prepared. In addition, a Resettlement Policy Framework
+(RPF) will be developed to guide the preparation of RAPs/ARAPs of subproject defined during
+the implementation. The RPF and RAPs/ARAPs will include measures to address the direct
+Safeguard Policies Triggered                                          Yes         No         TBD
+economic and social impacts due to the involuntary taking of land as the result from the project
+physical interventions, as well as their ancillary aspects. Potential impacts from linked activities,
+if any, will be treated in compliance with OP 4.12. RPF and all resettlement plans are subject to
+public consultation and must be disclosed per requirements of the World Bank's policy.
+Safety of Dams (OP/BP 4.37)                                                       X
+    No dams will be constructed or involved in this project
+Projects on International Waterways (OP/BP 7.50)                                  X
+    This project is not located within international waterways
+Projects in Disputed Areas (OP/BP 7.60)                                           X
+    This project is not located in or near disputed areas
+
+
+Environmental Category: B - Partial Assessment
+
+III. SAFEGUARD PREPARATION PLAN
+
+A. Target date for the Quality Enhancement Review (QER), at which time the PAD-stage ISDS
+   would be prepared: 04/27/2012
+
+B. For projects that will not require a QER, the target date for preparing the PAD-stage ISDS:
+   04/27/2012
+
+C. Time frame for launching and completing the safeguard-related studies that may be needed.
+The specific studies and their timing1 should be specified in the PAD-stage ISDS.
+   The Resettlement Policy Framework, Ethnic Minority Planning Framework, and
+   Environment Management Framework are expected to be completed by May 2012.
+   Environmental Management Plans, Resettlement Action Plans and Ethinic Minority
+   Development Plans will be prepared prior to appraisal for those works to be implemented in
+   the first phase of project implementation. All others will be prepared during project
+   implementation in accordance with the Resettlement Policy Framework and Environmental
+   Management Framework.
+
+
+
+
+1   Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the
+InfoShop and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to potentially affected
+persons.
+IV. APPROVALS
+
+ Signed and submitted by:
+ Task Team Leader:                      Mr Hung Tien Van                                   12/28/2011
+ Approved by:
+ Regional Safeguards Coordinator:       Mr Panneer Selvam Lakshminarayanan                 08/08/2012
+   Comments: Approval request was received on August 7, 2012.
+ Sector Manager:                        Ms Jennifer J. Sara                                02/16/2012
+   Comments: I apologize for the delay in approving this ISDS. I understand that it has been reviewed
+   and cleared by our safeguard specialists
+

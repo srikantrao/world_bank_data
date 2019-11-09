@@ -1,0 +1,815 @@
+                                               INTEGRATED SAFEGUARDS DATA SHEET
+                                                       APPRAISAL STAGE
+                                                                                                 Report No.: ISDSA12159
+Public Disclosure Copy
+
+
+
+
+                         Date ISDS Prepared/Updated: 02-Mar-2015
+                         Date ISDS Approved/Disclosed: 02-Mar-2015
+                         I. BASIC INFORMATION
+                            1. Basic Project Data
+
+                            Country:          Ecuador                              Project ID:    P151439
+                            Project Name:     EC Guayaquil Wastewater Management Project (P151439)
+                            Task Team         Patricia Lopez Martinez
+                            Leader(s):
+                            Estimated         23-Feb-2015                          Estimated   22-Apr-2015
+                            Appraisal Date:                                        Board Date:
+                            Managing Unit:    GWADR                                Lending     Investment Project Financing
+                                                                                   Instrument:
+                            Sector(s):        Wastewater Treatment and Disposal (70%), Wastewater Collection and
+                                              Transportation (30%)
+                            Theme(s):         Pollution management and environmental health (50%), City-wide Infrastructure
+                                              and Service Delivery (50%)
+                            Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+                            8.00 (Rapid Response to Crises and Emergencies)?
+Public Disclosure Copy
+
+
+
+
+                            Financing (In USD Million)
+                            Total Project Cost:     247.82           Total Bank Financing:                  102.50
+                            Financing Gap:            0.00
+                              Financing Source                                                                       Amount
+                              Borrower                                                                                 42.82
+                              International Bank for Reconstruction and Development                                   102.50
+                              EC European Investment Bank                                                             102.50
+                              Total                                                                                   247.82
+                            Environmental A - Full Assessment
+                            Category:
+                            Is this a         No
+                            Repeater
+                            project?
+
+                            2. Project Development Objective(s)
+                           The Project Development Objective (PDO) is to increase access to improved sanitation services and
+                           to reduce wastewater pollution in selected areas of the City of Guayaquil.
+
+
+                                                                        Page 1 of 14
+                         3. Project Description
+                         The proposed Project will achieve the above-mentioned objectives through the implementation of
+                         four components. The pre-investment cost, including the preparation and development of feasibility
+Public Disclosure Copy
+
+
+
+
+                         studies, environmental impact assessment, and final designs, as well as acquisition of the land
+                         required for the construction of the new WWTP is being financed by the municipality of Guayaquil
+                         through EMAPAG EP for a total amount of US$6.5 million.
+
+                         Component 1: Installation of household connections (US$18 million, with US$2.8 million of IBRD
+                         loan financing). This component will finance the installation and rehabilitation of household
+                         connections in specific areas within the southern districts of the city of Guayaquil. These districts are
+                         equipped with a dense sewerage collection network which, although requiring rehabilitation of main
+                         collectors to reduce infiltration, reaches and could serve almost all inhabited areas. Nonetheless,
+                         despite a broad network coverage, just 82 percent of the households in the area are currently actually
+                         connected to the system. Most of the remaining 18 percent (around 30,000 families) are poor
+                         households located in Suburbio Oeste, Isla Trinitaria, Sector Guasmo and Casco Central sectors,
+                         which are riparian areas of the Estero Salado estuary, where household toilets discharge directly to
+                         the estuary or to reportedly poorly constructed and maintained pits or septic tanks, which contributes
+                         to the degradation of the Estero Salado. Although many houses have a sewer passing in front, these
+                         households have not been connected—despite a legal mandate to do so—mainly because of the cost
+                         of the connection fee. Other reasons are technical issues (toilets mostly located at the back of their
+                         houses or at a lower level than the condominial sewer branch) and lack of information about the
+                         households’ entitlement to enjoy a social tariff and/or about the benefits that getting connected would
+                         bring them in terms of improvement in living conditions.
+
+                         Component 2: Rehabilitation of sewerage network (US$37 million, 100 percent financed by IBRD).
+                         This component will finance the rehabilitation of the sewerage network (including sections of the
+                         primary, secondary and tertiary network) in La Chala basin (Suburbio Oeste area), which, as stated
+                         above, is riparian to the Estero Salado estuary. These main collectors in this area require urgent
+Public Disclosure Copy
+
+
+
+
+                         rehabilitation to reduce wastewater losses and enable their effective collection function. This
+                         component of the Project aims at reducing infiltrations into the south sewerage subsystem, thus
+                         contributing to reduction in contamination of the Estero Salado estuary from domestic wastewater. It
+                         is estimated that of the total volume of wastewater collected and pumped in the pumping station of
+                         La Chala, approximately 25 percent corresponds to ground water infiltration, which increases
+                         wastewater pumping and treatment costs. Also, some segments of the Suburbio Oeste sewer network
+                         that are meant to function as gravity mains get pressurized during periods of high tide, which again
+                         suggests a high infiltration rate.
+
+                         Component 3: Wastewater treatment and disposal facilities (US$161 million, with US$58.5 million
+                         of IBRD loan financing). This component will finance the construction of a new WWTP, called Las
+                         Esclusas WWTP, and associated pumping and transmission facilities to treat 100 percent of the
+                         wastewater collected in the southern districts of the city of Guayaquil within the design year of 2045.
+                         Wastewater generated in the south subsystem is currently collected in two sewer mains: (a) the
+                         Guasmo sewer main, which conducts an average flow in dry weather of 0.60 m3/s into the Guasmo
+                         H pumping station from where wastewater is pumped directly into the Guayas River through a 180 m
+                         long pipeline and an underwater outfall diffuser, and (b) the Parson’s Sur sewer main, which
+                         conducts 2.10 m3/s in dry weather into the La Pradera pretreatment station (equipped with a
+                         mechanized pretreatment, a disinfection system that is presently out of service and an underwater
+                         outfall diffuser). Therefore, wastewater is currently discharged into the Guayas River with very little
+
+
+                                                                       Page 2 of 14
+                         or no treatment, failing to comply with the contaminants concentration thresholds established in the
+                         National Norm on Environmental Quality and Effluent Discharges (NCADE in its Spanish acronym).
+Public Disclosure Copy
+
+
+
+
+                         Sludge-to-energy process. The primary sludge generated from the wastewater treatment process
+                         would be pressed, dewatered, and then stabilized through an anaerobic digestion process. Depending
+                         on working conditions and on actual contaminant concentrations of the raw wastewater, the treatment
+                         process may generate up to 94 tons of primary sludge. The WWTP feasibility study and design
+                         includes the construction of a cogeneration facility using the digester gas from the anaerobic
+                         digestion to produce electrical power (up to 1.3 MW) and heat. Electricity will be used to offset
+                         power demands within the treatment facility (the cogeneration represents around 20 percent of the
+                         energy consumption by the plant). This will reduce operating costs, which will reduce the pressure to
+                         increase tariffs. Specifications for a minimum amount of electricity generation are being included in
+                         the bidding documents for the WWTP. The process will require two co-generators in operation and a
+                         third one as standby.
+
+                         Disposal of bio-solids. The sludge management process described above may generate up to 80 tons
+                         per day of bio-solids that will be transported and disposed in the municipal landfill. The standard that
+                         has to be met for the sludge to be received at the landfill is a maximum humidity of 70 percent. The
+                         landfill is currently receiving and managing over 4,500 tons of bio-solids per day, so the volume
+                         arriving from the WWTP represents a minimal addition to the existing capacity. The municipal
+                         landfill has all the required environmental permits to receive this type of waste. The Municipality is
+                         issuing a certification with the commitment to receive the bio-solids from the Las Esclusas WWTP in
+                         the current landfill for at least the first 10 years of operation. A master plan study for the future
+                         management of bio-solids generated from Las Esclusas and other future WWTPs will be financed
+                         under Component 4. This study will also look at options for reuse of sludge th rough the production
+                         of compost (using secondary dewatering and structuring mix processes).
+
+                         Component 4: Project management and administration, including communication plan and
+                         management of social, environmental, and safety issues (US$5.4 million with US$4.2 million of
+Public Disclosure Copy
+
+
+
+
+                         IBRD loan financing). This component will finance activities associated with overall project
+                         management by EMAPAG EP, including Project-related audits, monitoring and evaluation,
+                         equipment and training to strengthen the implementing entity, as well as individual consultants. It
+                         will include support to EMAPAG EP related to the management of environmental and social issues
+                         and safeguards. Specifically, this component will fund: (a) a study to set up a system for the
+                         physiochemical, bacteriological, and limnologic monitoring of the Guayas River water quality; (b) a
+                         study to set up a system for the physic-chemical, bacteriological, and limnologic monitoring of the
+                         Estero Salado estuary water quality in relation with Project Components 1 and 2; (c) a master plan
+                         for the management and final disposal or reuse of the bio-solids which will be produced at the Las
+                         Esclusas WWTP and other planned WWTPs (Los Merinos, Asuncion City, and others); (d)
+                         communication campaigns and technical assistance for community development and training; (e) a
+                         Project impact evaluation (IE) assessment; and (f) an integrated urban water management study for
+                         the planning of development and infrastructure in a growing flood-prone area of the city of
+                         Guayaquil (Sistema Tres) which requires interventions in urban drainage and wastewater
+                         management.
+                          4. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+                         Project Component One will finance the installation and rehabilitation of household connections
+                         within the southern districts of the City of Guayaquil, including poor households located in Suburbio
+
+
+                                                                      Page 3 of 14
+                         Oeste, Trinitaria, Sector Guasmo and Casco Central neighborhoods. These are riparian districts of the
+                         Estero Salado estuary, where household toilets discharge directly to the estuary or to reportedly
+                         poorly constructed and maintained pits or septic tanks, which contributes to the degradation of the
+Public Disclosure Copy
+
+
+
+
+                         Estero Salado. Component Two will finance the rehabilitation of the sewerage network in La Chala
+                         basin within the Suburbio Oeste area, which as stated above, is riparian to the Salado estuary.
+                         Component Three involves the construction of a WWTP that will directly benefit the central and
+                         southern districts of Guayaquil, located within La Pradera and Guasmo wastewater sewer
+                         watersheds. The proposed Las Esclusas WWTP will be constructed on the southern shore of the
+                         Cobina estuary, in the proximity of its intersection with the Guayas River.
+
+                         The wastewater collection and transportation network of Guayaquil serves 1,705,000 people
+                         (representing around 80% of the population of the city) through a sewer network composed of 3,926
+                         km of sewer mains and 61 pump stations that drains into the Daule and Guayas Rivers. Rain waters
+                         are collected by a separate sewer system that drains into the Estero Salado. There is an existing
+                         WWTP (lagoon system) presently operating and serving the northern part of the city.
+
+                         The City of Guayaquil is surrounded by the Daule and Guayas Rivers on the East and by the Estero
+                         Salado Estuary on the West. The Guayas River and its tributaries form the largest watershed in South
+                         America draining into the Pacific Ocean, with an extension of 32,130 km2 partially covering eight
+                         provinces of the country. The Guayas River rises at the intersection of the Daule and the Babahoyo,
+                         located 5km north of the city, and has a flow that varies from 230 m3/s in the dry season (60 percent
+                         coming from Babahoyo) to 1500 m3/s during the rainy season (66 percent from Babahoyo). Due to
+                         its proximity to the ocean, at the vicinity of Guayaquil, the Guayas presents the characteristics of an
+                         estuary: its water is saline (with a salinity range of 5,000 -10,000 mg/l) and its actual flow,
+                         influenced by the tides ebb and flow patterns, varies from -15,000 to +15,000 m3/s during the cycle.
+                         The Guayas River is affected by several wastewater discharges and other pollution sources (e.g.,
+                         storm water runoff) upstream of the Project location with none or very limited treatment.
+                         5. Environmental and Social Safeguards Specialists
+Public Disclosure Copy
+
+
+
+
+                         Carlos Vargas Bejarano (GENDR)
+                         Martin Henry Lenihan (GSURR)
+                         Robert H. Montgomery (GENDR)
+
+                         6. Safeguard Policies       Triggered? Explanation (Optional)
+                         Environmental               Yes            The proposed Project has been classified as an
+                         Assessment OP/BP 4.01                      Environmental Category A due to the type and size of the
+                                                                    Project Component Three, the construction of a 3.6 m3/s
+                                                                    WWTP. The overall Project impact is expected to be
+                                                                    positive due to the improved effluent quality that will be
+                                                                    discharged into the Guayas River and the reduction of
+                                                                    untreated wastewater that is presently leaking from the
+                                                                    existing sewer system and affecting shallow ground and
+                                                                    surrounding surface water bodies, like the "Salado"
+                                                                    Estuary.
+
+                                                                    For Component Three (Las Esclusas WWTP and works),
+                                                                    an Environmental and Social Impact Assessment (ESIA)
+
+
+
+                                                                      Page 4 of 14
+                         has been developed by an international consulting firm
+                         (Hazen Sawyer) with the support of a local environmental
+                         consulting firm. The Terms of Reference for the ESIA
+Public Disclosure Copy
+
+
+
+
+                         were approved by the Ministry of Environment in
+                         Ecuador (MAE). The ESIA includes an assessment of
+                         impacts, including mathematical modeling of potential
+                         downstream impacts during plant operation, and an
+                         Environmental and Social Management Plan (ESMP).
+                         The WWTP will treat wastewater from the central and
+                         southern districts of Guayaquil located within the “La
+                         Pradera” and “Guasmo” wastewater sewer watersheds and
+                         will be constructed on the southern shore of the Cobina
+                         estuary, in the proximity of its intersection with the
+                         Guayas River.
+
+                         The Guayas River is one of the largest watersheds in
+                         South America draining into the Pacific Ocean, with an
+                         extension of 32,130 km2 partially covering eight
+                         provinces of the country. The Guayas River, is near the
+                         intersection of the Daule and the Babahoyo, located 5km
+                         north of the city, and has a flow that varies from 230 m3/s
+                         in the dry season to 1,500 m3/s during the rainy season.
+                         The river water is saline and its water quality is affected
+                         by several wastewater discharges and other pollution
+                         sources (e.g., storm water runoff) upstream of the Project
+                         location with none or very limited treatment.
+
+                         The WWTP is part of the Municipality of Guayaquil’s
+Public Disclosure Copy
+
+
+
+
+                         Municipal Plan for the Universalization of Wastewater
+                         Management Services. The Plan includes the expansion of
+                         the sewer network, installation of household connections,
+                         and the rehabilitation and construction of five wastewater
+                         treatment facilities –Las Esclusas, Los Merinos (existing
+                         lagoon system), Mucho Lote, Puerto Azul and Mi Lote- to
+                         treat all the wastewaters generated in the city. Project
+                         Component Three includes a WWTP (mechanized
+                         pretreatment, chemically enhanced primary treatment
+                         (CEPT), disinfection system, underwater outfall diffuser,
+                         hypochlorite production, sludge digester, diffuser outfall
+                         in Guyas River), adaptation of the Guasmo H pump
+                         station and the construction of a new pipeline to drive
+                         pumped water to the new WWTP, and decommissioning
+                         of La Pradera pre-treatment station and closing existing
+                         discharge and construction of a new pump station and
+                         pipeline to drive pumped water to the new Las Esclusas
+                         WWTP. The design will allow compliance with current
+                         environmental regulations in Ecuador. EMAPAG EP has
+
+
+
+                          Page 5 of 14
+                         planned for the future expansion of the WWTP to enable
+                         secondary treatment, if it was required by Ecuadorean
+                         environmental regulations in the future. Alternative
+Public Disclosure Copy
+
+
+
+
+                         analyses in terms of WWTP technological and design
+                         options and site locations were conducted as part of the
+                         regional water planning work (Water Supply and
+                         Sewerage Master Plan from 2004 and updated in 2011)
+                         and the WWTP feasibility study and design and also in
+                         the ESIA. The potential risk of flooding at the WWTP has
+                         been addressed in the project design. The main potential
+                         negative impacts include: (a) removal of topsoil and
+                         changes in terrain and topography; (b) contamination by
+                         solid or liquid wastes; (c) generation of dust, combustion
+                         gases, noise and vibrations; (d) odor generation; (e)
+                         inconveniences caused by urban and traffic congestion; (f)
+                         impact on shallow ground quality and groundwater level;
+                         (g) impacts on Guayas River water quality; (h) alteration
+                         of landscape; (i) worker health and safety; (j) disposal of
+                         sludge, and (k) expropriations of land for WWTP.
+                         Potential positive impacts identified include: (a) reduction
+                         of odors in La Pradera pump station due to its closure; (b)
+                         reduction/elimination of overflows of wastewater in the
+                         streets; (c) improvement in Guayas River water quality;
+                         and (d) local job creation. The ESMP includes the
+                         following ten programs (that include 36 environmental
+                         measures and 122 activities): Plan for Prevention and
+                         Mitigation of Impacts; Handling and Management Plan of
+                         Wastes; Monitoring and Measurement Plan; Plan for
+Public Disclosure Copy
+
+
+
+
+                         Restoration of Degraded Areas; Occupational Health and
+                         Security Plan; Community Relationship Plan; Training
+                         Plan; Contingency Plan; Abandonment Plan; and
+                         Environmental Monitoring Plan. Depending on actual
+                         operating conditions in the raw wastewater, the treatment
+                         and sludge management process may generate up to 80 to
+                         94 tons per day of bio-solids that would be disposed of in
+                         the municipal landfill. The primary sludge generated from
+                         the wastewater treatment process would be pressed,
+                         dewatered and stabilized before transportation and final
+                         disposal at the sanitary landfill. The municipal landfill has
+                         all the required environmental permits to receive this
+                         waste. The landfill has the capacity to receive municipal
+                         waste, including the expected volume of sludge during at
+                         least the first ten years of operation of the wastewater
+                         treatment facility, based on its current rate of exploitation.
+                         Plans for the future expansion or the construction of a
+                         new municipal sanitary landfill are under discussion
+                         between municipal and environmental authorities which
+
+
+
+                          Page 6 of 14
+                         will allow the continuation of the sludge disposal in this
+                         manner. A Master Plan study for the management of bio-
+                         solids generated from Las Esclusas and other future
+Public Disclosure Copy
+
+
+
+
+                         WWTPs will be financed under Component Four. This
+                         study will look at options for the reutilization of sludge
+                         through the production of compost (using secondary
+                         dewatering and structuring mix processes).
+
+                         The draft ESIA was disseminated and consulted locally in
+                         September and October 2014 and included a formal
+                         Public Audience, several permanent Public Information
+                         Centers, and informal informative meetings. Public
+                         consultations were coordinated and approved by an
+                         independent Facilitator appointed by the MAE. Main
+                         comments received focused on: (a) requests for proper
+                         maintenance of the sewerage collection and transportation
+                         systems to avoid blockages and overflows, (b) statements
+                         expressing acceptance and support for the Project, (c)
+                         concerns about proper odor control from the wastewater
+                         treatment plant, (d) concerns over ensuring timely
+                         completion of the works, and (e) concerns about
+                         inconveniences that could be caused by rupture of street
+                         pavement, amongst others. The draft ESIA was also
+                         reviewed by 3 independent experts. Comments were
+                         addressed in an updated final ESIA. The ESIA is pending
+                         approved by the MAE.
+
+                         For Components One and Two, an ESMP was developed
+Public Disclosure Copy
+
+
+
+
+                         for each component and includes an assessment of
+                         potential impacts and proposed mitigation and monitoring
+                         measures. Component One will finance the installation
+                         and rehabilitation of household connections in specific
+                         areas within the southern districts of the City of
+                         Guayaquil, where household toilets discharge directly into
+                         the estuary or to reportedly poorly constructed and
+                         maintained pits or septic tanks, which contributes to the
+                         degradation of the Estero Salado. The works involve
+                         establishing a connection from an existing sewer line in
+                         the street to a house and the potential environmental
+                         impacts are relatively minor. Component Two involves
+                         the rehabilitation of the sewerage network in La Chala
+                         basin within the “Suburbio Oeste” area and will improve
+                         sewer efficiency by reducing infiltrations and contribute
+                         to the reduction of the contamination of the Salado
+                         estuary from domestic wastewater. The works should
+                         have relatively minor to moderate potential negative
+                         environmental impacts during construction (e.g.,
+
+
+
+                          Page 7 of 14
+                                                        generation of noise and dust, minor traffic disruption,
+                                                        disposal of waste) and can be readily mitigated with
+                                                        standard measures established in the ESMP. Even less
+Public Disclosure Copy
+
+
+
+
+                                                        impacts are associated with works in Component One.
+                                                        The ESMPs include a chance find procedure applicable to
+                                                        natural habitat protection measures, as needed, given the
+                                                        proximity to the works and the Guayas River and the
+                                                        Salado Estuary. The draft ESMPs for Components One
+                                                        and Two were disclosed and consulted in January 2015,
+                                                        and revised ESMPs have been prepared by EMAPAG EP
+                                                        prior to Bank Appraisal and disclosed in country and in
+                                                        the Bank’s website. Compliance with the ESMP will be
+                                                        included as part of the construction contracts.
+
+                                                        The ESMPs for Components One and Two include a
+                                                        description of the Grievance Redress Mechanism (GRM)
+                                                        put in place by EMAPAG EP for the Project. The system
+                                                        includes three tiers for addressing and resolving grievance
+                                                        and complaints: 1) the contractor’s appointed focal points
+                                                        for redress solving (who will be present in the project
+                                                        intervention area); 2) EMAPG EP’s Directorate for Social
+                                                        Communication and Community Management; and 3)
+                                                        external mediation. A description of the GRM and contact
+                                                        details for addressing any queries before the contractor
+                                                        has started the works has been posted in EMAPAG EP
+                                                        website in the following link: http://www.emapag-ep.gob.
+                                                        ec/emapag/?page_id=731
+                         Natural Habitats OP/BP   Yes   No potential significant impacts on natural habitats were
+Public Disclosure Copy
+
+
+
+
+                         4.04                           identified for Components One, Two or Three; and while
+                                                        the project works should have a positive environmental
+                                                        impact on the Guayas River and the Salado Estuary, the
+                                                        Natural Habitats Policy (OP/BP 4.04) hasbeen triggered
+                                                        on a precautionary basis due to Components 1 and 2 and
+                                                        their proximity to the Salado Estuary. Applicable
+                                                        measures have been included in the ESMPs for each
+                                                        component as needed under OP/BP 4.01.
+                         Forests OP/BP 4.36       No    The Project works to be performed will be located in
+                                                        urbanized and/or in industrial areas. There are no forests
+                                                        or mangrove swamps located within or in the immediate
+                                                        proximity of the project intervention area. The project will
+                                                        not affect forests or forest dependent communities, nor
+                                                        will it involve changes in the management of forests.
+                         Pest Management OP 4.09 No     The Project does not involve the purchase or use of any
+                                                        significant quantities of pesticides.
+                         Physical Cultural        Yes   While no potential significant impacts on physical cultural
+                         Resources OP/BP 4.11           resources were identified for Components One, Two or
+
+
+
+                                                         Page 8 of 14
+                                                        Three, this is policy is triggered and an archeological
+                                                        monitoring program and chance find procedure are
+                                                        included in the ESMPs as a preventive measure.
+Public Disclosure Copy
+
+
+
+
+                         Indigenous Peoples OP/   No    There are no indigenous peoples present that meet the
+                         BP 4.10                        criteria defined by OP 4.10 in the Project area. According
+                                                        to the 2010 census, less than 1.4% of the population of
+                                                        Guayaquil identify themselves as indigenous. This
+                                                        population is not concentrated in the Project area, nor
+                                                        does it have a collective attachment to land in that area,
+                                                        which is used for modern urban residential or industrial
+                                                        purposes.
+                         Involuntary Resettlement Yes   The water treatment plant will be located on a site of
+                         OP/BP 4.12                     40.74 has, which has been the property of 6 different
+                                                        private owners. Expropriation has been ongoing since
+                                                        2011, with two property owners contesting the original
+                                                        valuations in court (two other cases went to court because
+                                                        the owners were not available due to liquidation or legal
+                                                        presence in another country). In one of the contested
+                                                        cases, the site hosts a radio antenna for a local radio
+                                                        station along with the house of an employee of that
+                                                        station. The value of the structure and need to resettle the
+                                                        occupant was not taken into account in the original
+                                                        assessment of the site, but were subsequently the subject
+                                                        of remedial measures agreed between the owner and the
+                                                        client, which is documented in the remedial RAP.
+                                                        Another site belongs to an aquaculture business, where
+                                                        the commercial value of the land was fully taken into
+                                                        account as part of the valuation. The remaining sites are
+Public Disclosure Copy
+
+
+
+
+                                                        unoccupied and have not been used for either economic or
+                                                        residential purposes. In the case of one of these vacant
+                                                        sites, the owners also contested the original municipal
+                                                        valuation, which was subsequently validated by an
+                                                        independent court appointed expert (the valuation is now
+                                                        being appealed by the owners, with a final court sentence
+                                                        expected in April 2015). Despite the court cases, judicial
+                                                        orders allow the client to occupy the sites as the owners
+                                                        only contested the price, rather than the declaration of
+                                                        public good. In the meantime, the funds to pay the owners
+                                                        have been transferred to the judges responsible for
+                                                        adjudicating the sentences.
+
+                                                        The client has prepared a Remedial Resettlement Action
+                                                        Plan explaining the extent to which the expropriation
+                                                        process conforms to the World Bank Policy on
+                                                        Involuntary Resettlement, and the additional measures
+                                                        required to address gaps identified. The RAP
+                                                        demonstrates how for the most part, the client offered
+
+
+                                                         Page 9 of 14
+                                                                       replacement cost as compensation for the land to be
+                                                                       acquired by using market comparators as a basis for
+                                                                       valuation. The only exception was the site of the radio
+Public Disclosure Copy
+
+
+
+
+                                                                       antenna which was the subject of remedial measures
+                                                                       documented in the RAP.
+
+                                                                       In the case of Component 2, no resettlement impacts are
+                                                                       anticipated as the works will be taking place in residential
+                                                                       neighborhoods with little or no encroachment on the
+                                                                       sidewalks, and using trenchless technology in order to
+                                                                       minimize impacts. In terms of associated facilities, the
+                                                                       landfill for the WWTP has sufficient capacity, and the
+                                                                       land necessary for the expansion is vacant land that was
+                                                                       expropriated by the municipality at full market value.
+                                                                       Aggregate material for construction will be sourced from
+                                                                       pre-identified private suppliers, and as such will not
+                                                                       require temporary land acquisition. The Remedial
+                                                                       Resettlement Action Plan has been reviewed and
+                                                                       approved by the Bank and publicly disclosed prior to
+                                                                       Appraisal. The remedial measures agreed as part of the
+                                                                       Remedial Resettlement Action Plan were consulted on
+                                                                       through a series of four meetings between EMAPAG and
+                                                                       the affected people (the owner and the resident). The
+                                                                       funds necessary for finalizing the pending expropriations
+                                                                       are held in trust by the Judge responsible for adjudicating
+                                                                       the individual cases and will be available to be paid to the
+                                                                       PAPs once these cases have been finalized.
+                            Safety of Dams OP/BP        No             The Project will neither support the construction or
+Public Disclosure Copy
+
+
+
+
+                            4.37                                       rehabilitation of dams nor will it support other
+                                                                       investments which rely on services of existing dams.
+                            Projects on International   No             The Project will not finance activities involving the use or
+                            Waterways OP/BP 7.50                       potential pollution of international waterways.
+                            Projects in Disputed        No             The Project will not finance activities in disputed areas as
+                            Areas OP/BP 7.60                           defined in the policy.
+
+                         II. Key Safeguard Policy Issues and Their Management
+                             A. Summary of Key Safeguard Issues
+                            1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+                              and describe any potential large scale, significant and/or irreversible impacts:
+                              The overall Project impact is expected to be positive due to the improved effluent quality that will
+                              be discharged into the Guayas River and the reduction of untreated wastewater that is presently
+                              leaking from the existing sewer system and affecting shallow ground and surrounding surface
+                              water bodies, like the "Salado" Estuary.
+
+                              There are no anticipated negative large scale, significant or irreversible environmental impacts
+                            2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+
+
+                                                                        Page 10 of 14
+                           in the project area:
+                           There are no anticipated negative indirect or long term environmental impacts.
+                         3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+Public Disclosure Copy
+
+
+
+
+                           impacts.
+                           The construction of the Las Esclusas WWTP is part of the Municipality of Guayaquil's Program
+                           for the Universalization of Sewerage and Wastewater Treatment Services in the Southern part of
+                           the City. The analysis of alternatives and selection of site locations for the treatment plant was
+                           conducted in 2004 as part of the Master Plan for Water Supply and Sewerage Services of
+                           Guayaquil, which was updated in 2011. The Master Plan considers the expansion of the sewer
+                           network and the installation of household connections to reach an effective access rate of close to
+                           100%; the rehabilitation of the oldest and most degraded segments of the existing networks to
+                           reduce infiltration; and the rehabilitation and construction of five wastewater treatment facilities,
+                           including Las Esclusas, to treat all the wastewater generated in the city.
+
+                           As part of the Feasibility Study for the Treatment of Wastewater in the City of Guayaquil which
+                           started in 2012, an analysis of alternative technologies was undertaken for the treatment of the
+                           wastewater flows collected in the four wastewater catchment basins that compose the main sewer
+                           system of the city: the Guasmo H, Las Praderas, Los Merinos and Progreso subsystems. The
+                           selection of the treatment technology to be employed in the different subsystems was undertaken
+                           using multi-criteria decision making methods. Each of the prescreened technologies was modelled
+                           and a simulation was run to evaluate its performance and undertake a pre-dimensioning of the
+                           different phases and elements of the treatment process using different criteria (including
+                           environmental). The CEPT option was retained since it allows to consistently meet the authorized
+                           regulatory limits set for the Total Suspended Solids (TSS), Biochemical Oxygen Demand (BOD)
+                           and all other pollutant concentrations, and eases the implementation of effective odor control.
+                         4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+                           assessment of borrower capacity to plan and implement the measures described.
+Public Disclosure Copy
+
+
+
+
+                           For Component Three (Las Esclusas WWTP and works), an Environmental and Social Impact
+                           Assessment (ESIA) has been developed by an international consulting firm with the support of a
+                           local environmental consulting firm. The ESIA includes an assessment of impacts, including
+                           mathematical modeling of potential downstream impacts during plant operation, and an
+                           Environmental Management Plan (ESMP). For Components One and Two, an ESMP was
+                           developed for each component and includes an assessment of potential impacts and proposed
+                           mitigation and monitoring measures. See OP/BP 4.01 for details.
+
+                           A Project Implementation Unit (PIU) established under EMAPAG's General Manager, will be
+                           responsible for day-to-day Project implementation, including environmental aspects. The PIU has
+                           been staffed with a dedicated qualified environmental safeguards specialist who will be
+                           responsible for the supervision of environmental safeguard requirements. Any additional
+                           environmental safeguards support required by the Project would be assessed during Project
+                           implementation.
+                           The operation and maintenance of the Project, once constructed, will be the responsibility of
+                           INTERAGUA, which is the private consortium to which EMAPAG EP has delegated the
+                           management of Guayaquil’s drinking water, wastewater and drainage systems. EMAPAG EP has
+                           experience managing environmental safeguards associated to multilateral financing institutions,
+                           particularly with Corporacion Andina de Fomento (CAF) and Inter-American Development Bank
+                           (IADB) loans. INTERAGUA has environmental staff, experience managing wastewater treatment
+
+
+                                                                     Page 11 of 14
+                           facilities and its management system is ISO 14001, ISO 18001 and ISO 9001 certified. Specific
+                           details on environmental and social safeguards responsibilities and supervision has been
+                           established in the Project’s Operational Manual.
+Public Disclosure Copy
+
+
+
+
+                           A Remedial Resettlement Action Plan (RAP) has been prepared for Component Three related to
+                           the WWTP site which has been the property of six different private owners. Expropriation has
+                           been ongoing since 2011.The main remedial measures necessary involved additional
+                           compensation to the owner of the site of a radio antenna, which was also host to a residential
+                           structure occupied by an employee of the owner. These compensations covered the cost of re-
+                           locating the antenna without the interruption of the signal, and the cost of replacing the residential
+                           structure of the employee. There was also an agreement that the employee would maintain
+                           employment with the owner. As a contingency, the client further outlined an agreement to monitor
+                           the situation of the employee, and to provide an alternative residence and employment should, for
+                           any reason, these not materialize following relocation. In addition to the RAP, the client completed
+                           a beneficiary assessment which served as the basis for the design of the Social Management
+                           Chapter of the Project Operational Manual.
+
+                           The implementation capacity of EMAPAG and the Municipality of Guayaquil, for the social
+                           management of this operation is considered high. EMAPAG has a dedicated and qualified social
+                           management team within the Directorate for Social Communication and Community Management
+                           (Dirección de Comunicación Social - Gestión Comunitaria) made up of a director, two analysts
+                           and three assistants. This Directorate will be responsible for social safeguards management and
+                           supervision and for the management of the Grievance Redress Mechanism for the Project, in close
+                           coordination with the PIU. This group of professionals has experience in successfully managing
+                           the roll out of communication campaigns and community consultation processes, facilitating
+                           conflict resolution and grievance redress, building the capacity of community based organizations,
+                           as well as the resettlement of households affected by the works of EMAPAG. In order to support
+                           the implementation of the social management of this project, it has been agreed that two additional
+                           social specialists will be recruited. In terms of land acquisition, the municipality of Guayaquil has
+Public Disclosure Copy
+
+
+
+
+                           decades of experience, having established a dedicated area within its legal department in 2002 to
+                           work alongside the Valuation and Cadaster Department. The majority of expropriation cases
+                           (80%) are settled through agreement with the owner, rather than recourse to the judicial system.
+                         5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+                           on safeguard policies, with an emphasis on potentially affected people.
+                           The draft ESIA was disseminated and consulted locally in September and October 2014 and
+                           included a formal Public Audience, several permanent Public Information Centers, and informal
+                           informative meetings. Public consultations were coordinated and approved by an independent
+                           Facilitator appointed by the MAE. The main comments received focused on: (a) requests for
+                           proper maintenance of the sewerage collection and transportation systems to avoid blockages and
+                           overflows, (b) statements expressing acceptance and support for the Project, (c) concerns about
+                           proper odor control from the wastewater treatment plant, (d) concerns over ensuring timely
+                           completion of the works, and (e) concerns about inconveniences that could be caused by rupture of
+                           street pavement amongst others. The draft ESIA was also reviewed by three independent experts.
+                           Comments were addressed in an updated final ESIA. The draft ESMPs for Components One and
+                           Two were disclosed and consulted in January 2015, and revised ESMPs have been prepared by
+                           EMAPAG EP prior to Bank appraisal. Compliance with the ESMPs will be included as part of the
+                           construction contracts.
+
+
+
+                                                                     Page 12 of 14
+                           The remedial measures agreed as part of the remedial resettlement action were consulted on
+                           through a series of four meetings between EMAPAG and the affected people (the owner and the
+                           resident). The other land acquisition cases involved a minimum of two meetings between the
+Public Disclosure Copy
+
+
+
+
+                           affected people and the municipality – one meeting to discuss their rights, followed by another to
+                           discuss the terms of expropriation.
+                         B. Disclosure Requirements
+                         Environmental Assessment/Audit/Management Plan/Other
+                           Date of receipt by the Bank                                      21-Nov-2014
+                           Date of submission to InfoShop                                   16-Dec-2014
+                           For category A projects, date of distributing the Executive      11-Mar-2015
+                           Summary of the EA to the Executive Directors
+                         "In country" Disclosure
+                           Ecuador                                                          16-Dec-2014
+                           Comments: http://www.emapag-ep.gob.ec/emapag/?page_id=731
+                          Resettlement Action Plan/Framework/Policy Process
+                           Date of receipt by the Bank                                      06-Feb-2015
+                           Date of submission to InfoShop                                   20-Feb-2015
+                         "In country" Disclosure
+                           Ecuador                                                          20-Feb-2015
+                           Comments: http://www.emapag-ep.gob.ec/emapag/?page_id=731
+                         If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+                         respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+                         Audit/or EMP.
+                         If in-country disclosure of any of the above documents is not expected, please explain why:
+Public Disclosure Copy
+
+
+
+
+                         C. Compliance Monitoring Indicators at the Corporate Level
+                         OP/BP/GP 4.01 - Environment Assessment
+                          Does the project require a stand-alone EA (including EMP)         Yes [   ]   No [   ]    NA [    ]
+                          report?
+                          If yes, then did the Regional Environment Unit or Practice        Yes [   ]   No [   ]    NA [    ]
+                          Manager (PM) review and approve the EA report?
+                          Are the cost and the accountabilities for the EMP incorporated    Yes [   ]   No [   ]    NA [    ]
+                          in the credit/loan?
+                         OP/BP 4.04 - Natural Habitats
+                          Would the project result in any significant conversion or         Yes [   ]   No [   ]    NA [    ]
+                          degradation of critical natural habitats?
+                          If the project would result in significant conversion or          Yes [   ]   No [   ]    NA [    ]
+                          degradation of other (non-critical) natural habitats, does the
+                          project include mitigation measures acceptable to the Bank?
+                         OP/BP 4.11 - Physical Cultural Resources
+                          Does the EA include adequate measures related to cultural         Yes [   ]   No [   ]    NA [    ]
+                          property?
+
+                                                                    Page 13 of 14
+                             Does the credit/loan incorporate mechanisms to mitigate the        Yes [   ]   No [   ]   NA [   ]
+                             potential adverse impacts on cultural property?
+Public Disclosure Copy
+
+
+
+
+                            OP/BP 4.12 - Involuntary Resettlement
+                             Has a resettlement plan/abbreviated plan/policy framework/         Yes [   ]   No [   ]   NA [   ]
+                             process framework (as appropriate) been prepared?
+                             If yes, then did the Regional unit responsible for safeguards or   Yes [   ]   No [   ]   NA [   ]
+                             Practice Manager review the plan?
+                            The World Bank Policy on Disclosure of Information
+                             Have relevant safeguard policies documents been sent to the        Yes [   ]   No [   ]   NA [   ]
+                             World Bank's Infoshop?
+                             Have relevant documents been disclosed in-country in a public      Yes [   ]   No [   ]   NA [   ]
+                             place in a form and language that are understandable and
+                             accessible to project-affected groups and local NGOs?
+                            All Safeguard Policies
+                             Have satisfactory calendar, budget and clear institutional         Yes [   ]   No [   ]   NA [   ]
+                             responsibilities been prepared for the implementation of
+                             measures related to safeguard policies?
+                             Have costs related to safeguard policy measures been included      Yes [   ]   No [   ]   NA [   ]
+                             in the project cost?
+                             Does the Monitoring and Evaluation system of the project           Yes [   ]   No [   ]   NA [   ]
+                             include the monitoring of safeguard impacts and measures
+                             related to safeguard policies?
+                             Have satisfactory implementation arrangements been agreed          Yes [   ]   No [   ]   NA [   ]
+                             with the borrower and the same been adequately reflected in
+                             the project legal documents?
+Public Disclosure Copy
+
+
+
+
+                         III. APPROVALS
+                            Task Team Leader(s): Name: Patricia Lopez Martinez
+                            Approved By
+                            Safeguards Advisor: Name: Glenn S. Morgan (SA)                              Date: 02-Mar-2015
+                            Practice Manager/    Name: Wambui G. Gichuri (PMGR)                         Date: 02-Mar-2015
+                            Manager:
+
+
+
+
+                                                                       Page 14 of 14
+The original had problem with text extraction. pdftotext Unable to extract text.

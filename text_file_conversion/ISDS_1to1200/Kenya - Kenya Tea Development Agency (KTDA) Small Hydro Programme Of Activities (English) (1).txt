@@ -1,0 +1,394 @@
+﻿                        INTEGRATED SAFEGUARDS DATA SHEET
+                                 CONCEPT STAGE
+
+Report No.: 120527
+
+Date ISDS Prepared/Updated: September 11, 2017
+
+I. BASIC INFORMATION
+
+A. Basic Project Data
+
+Country: Kenya                               Project ID: P160157
+                                             Additional Project ID (if any):
+Project Name: KTDA Small Hydro Programme Of Activities (P160157)
+Task Team Leader: Juha Seppala, Jose Andreu (co-TTL)
+Estimated Appraisal Date: Oct 27, 2017       Estimated Board Date: N/A
+Managing Unit: GCCFM                         Lending Instrument:IPF
+Sector: Hydropower (100%)
+Theme: Climate change (100%)
+IBRD Amount (US$m.):
+IDA Amount (US$m.):
+GEF Amount (US$m.):
+PCF Amount (US$m.):
+Other financing amounts by source: 8.0 million (carbon finance)
+Environmental Category: B – Partial Assessment
+Simplified Processing               Simple [ ]               Repeater [ ]
+Is this a transferred project       Yes [ ]                  No [ X]
+
+
+B. Project Objectives [from section 2 of PCN]:
+
+Achieve GHG reductions from renewable energy produced by small hydropower benefiting smallholder
+tea farmers in rural Kenya.
+
+C. Project Description [from section 3 of PCN]:
+
+The KTDA Small Hydro Programme of Activities (the “Project�?) developed by KTDA Power Company
+Limited (KTDA Power) aims to generate and sell Certified Emission Reductions (CERs) from 10 small
+scale run-of-river hydropower plants (“SHP�? or “Sub-Project�?) at various locations in Kenya. The Project
+is implemented under a Clean Development Mechanism (CDM) Program of Activities (PoA) titled
+“KTDA Small Hydro Programme of Activities�?, which was registered with the United Nations
+Framework Convention on Climate Change (UNFCCC) secretariat in September, 2012.
+
+The International Finance Corporation (IFC), in December 2015, considering carbon finance revenues,
+committed US$ 25 million in debt to KTDA Power to finance the total cost of US$85.6 million for the
+construction of seven of the 10 SHPs with total aggregate capacity of 16.2MW. First disbursement is
+expected shortly. IFC will thus be co-financing seven of the planned 10 SHPs, with other investors
+providing funding for the three other SHPs. These 10 SHPs build the foundation for the proposed carbon
+finance operation. The Bank will not invest in the SHPs themselves, but through an Emission Reductions
+Purchase Agreement (ERPA), provide results-based carbon finance to KTDA tied to CER deliveries after
+the SHPs become operational and start generating renewable electricity.
+
+The underlying project has two objectives. First, the underlying project aims to generate captive
+electricity to enhance access to reliable electricity much needed by Kenya Tea Development Agency
+Holdings (KTDA)’s tea factories supplied by Regional Power Companies (RPCs), which are owned by
+the small-scale tea farmers’ co-operatives. The underlying project will, ultimately increase the
+productivity, and hence, the bottom line of the smallholder tea businesses allowing these savings to be
+passed on to the tea farmers themselves. Second, surplus electricity will be sold to the state-owned utility
+company, Kenya Power and Lighting Company (KPLC) by supplying electricity to the national grid,
+which will contribute towards addressing electricity reliability issues in the country and responding to the
+efforts by the Ministry of Energy aiming to increase installed small hydro capacity. The underlying
+project will serve captive power to 39 tea factories, contributing to increase income for over 350,000
+small-holder tea farmers, and will contribute to an increased share of energy from small SHPs in the total
+energy mix of the grid, which currently represents under one percent.
+
+KTDA Power plans to develop a portfolio of SHPs with an aggregate generation capacity of 28.6
+megawatts (MW) across 10 sites in and around the Central Highlands. These 10 SHPs will consist of 7-10
+CDM Project Activities (CPAs) under the CDM-PoA framework. The main barrier for the
+expansion/replication of KTDA Power’s business model has been difficulty in obtaining external
+commercial debt financing. This is due to high project cost per MW derived from project site constraints
+and KTDA Power’s policy to ensure high quality of electro mechanical equipment. In order to overcome
+this challenge, KTDA Power first developed a pilot project consisting of three SHPs with total capacity of
+12.4MW, obtaining concessional financing from Agence Française de Développement (AFD). All the
+three SHPs of the pilot project started construction, of which two SHPs (Chania and Gura) have
+completed construction in August 2016 and October 2016. The third pilot, North Mathioya, is expected to
+become operational in September 2017.
+
+Once the pilot project has demonstrated a certain level of track record, KTDA Power has planned
+commercial expansion/replication via development of an additional 7 SHPs through partnership with IFC.
+KTDA Power aimed aims to obtain commercial debt financing for the expansion/replication of projects in
+order to demonstrate the commercial viability of its innovative business model. Of the seven SHPs to be
+financed by the IFC, five have started construction.
+
+However, revenue from electricity alone does not generate sufficient cash flow for the debt servicing.
+That is why carbon finance is being considered as results-based financing via the World Bank as trustee
+of Carbon Initiative for Development (Ci-Dev), which would make the underlying project viable. The
+carbon finance will not pay for the construction of the SHPs, but will be made available after the SHPs
+are commissioned and start generating renewable electricity to help KTDA Power with the loan payments
+to IFC.
+
+The underlying project would target a number of development challenges, including providing access to
+clean, renewable energy; providing climate change mitigation benefits and improving livelihoods for the
+tea growers. These are all supporting the World Bank Group’s twin goals of eradicating extreme poverty
+and boosting shared prosperity.
+D. Project location and salient physical characteristics relevant to the analysis of
+environmental and social risks and impacts (if known):
+
+The KTDA factories are distributed both throughout the East and West of the Great Rift Valley. The SHP
+locations are given in the table below (Projects 1-3-- externally financed, Projects 4-10 – IFC financed
+sites).
+
+Project         Capacity   River      County      Owner RPC    Financier   Construction   Land
+                (MW)                                                       completion     acquisition
+1. Gura           5.8      Gura       Nyeri       Gura RPC     External    Complete       Complete
+2. Chania         1.0      Chania     Kiambu      Mataara      External    Complete       Complete
+                                                  RPC
+3.North           5.6      N.         Muranga     Metumi       External    Jun 2017       In process
+Mathioya                   Mathioya               RPC
+4.Lower           1.8      Nyamindi   Kirinyaga   Kirinyaga    IFC         Jun 2017       In process
+Nyamindi                                          RPC
+5.      South     2.2      S. Mara    Tharaka     Greater      IFC         Jun 2017       In process
+Mara                                  Nithi       Menu RPC
+6. Iraru          1.5      Iraru      Meru        Greater      IFC         Jun 2017       In process
+                                                  Menu RPC
+7. Kipsonoi I     3.6      Kipsonoi   Bomet       Settet RPC   IFC         Jun 2019       Not yet due
+8.                2.0      Gucha      Kisii       Nyakuwana    IFC         Jun 2018       In process
+Nyambunde                                         RPC
+9. Kiringa        1.1      Kiringa    Kirinyaga   Kirinyaga    IFC         Jun 2020       Not yet due
+                                                  RPC
+10.               4.0      Gucha      Kisii       Nyakuwana    IFC         Jun 2021       Not yet due
+Nyamasege                                         RPC
+
+
+Each of the project sites (notwithstanding Nyamasege which is not expected to start construction for some
+years) has an Environmental and Social Impact Assessment prepared. The projects are run-of-river types
+and consist of an intake, headrace water channel, forebay, penstock and surface power house connected to
+the tea factory and the national grid. The length of the headrace channel varies, but can be up to several
+kilometers in length. The infrastructure is located in private lands, which have either been bought or
+leased (willing buyer – willing seller) from local farmers –mostly tea farmers, but in some cases coffee
+farmers (South Mara and Lower Nyamindi are in coffee growing regions).
+
+The environmental and social risks have been identified and will be proposed to be managed using Bank
+Performance Standards per OP/BP 4.03. This is made possible by the client being a private sector entity
+and facilitated by the fact that the IFC has already conducted their environmental and social due diligence
+as per IFC Performance Standards for the seven SHPs in their investment pipeline. As the proposed
+project for the Bank is actually 10 SHPs, the Bank and IFC will apply the same level of environmental
+and social due diligence to the three non-IFC financed SHPs. KTDA Power, having prepared an
+environmental and social management system acceptable to IFC, will roll out the same to the individual
+sites. The Bank Task Team will work together with IFC E&S specialists to ensure that project also meets
+Bank Performance Standards requirements, and document the working arrangements in a memorandum.
+A joint IFC-Bank mission focusing on environmental and social risks and mitigation measures took place
+in August-September 2016 and a follow-up mission occurred in April 2017. As per IFC requirements,
+KTDA has retained a monitoring consultant, which visits all sites under construction every 6 months. IFC
+has also hired an engineering company for construction monitoring every quarter. The Bank will rely on
+IFC’s monitoring of IFC-financed SHPs during implementation, but aim to join missions where feasible.
+The Bank will supervise the three non-IFC funded SHPs.
+
+The Performance Standards that have been triggered (the same as by the IFC) are PS1 (Assessment and
+Management of Environmental and Social Risks and Impacts); PS2 (Labor and Working Conditions);
+PS3 (Resource Efficiency and Pollution Prevention); PS4 (Community Health, Safety and Security); and
+PS6 (Biodiversity Conservation and the Management of Living Natural Resources). PS 5 has not been
+triggered, since the land acquisition (whether by easements or purchase) is conducted on a “willing buyer
+– willing seller�? model according to KTDA’s land acquisition policy, which is expected to conform to the
+PS5 and GN5. As per the Environmental and Social Review Summary (ESRS) and the related
+Environmental and Social Action Plan (ESAP), KTDA has designed and implemented an Environmental
+and Social Management System; developed TORs for future Environmental and Social Impact
+Assessments (ESIA); developed Environmental Health and Safety Standards, prepared a Land
+Acquisition and Resettlement Framework and developed TORs for an aquatic biodiversity baseline and
+monitoring programs at the sites. EIAs exist for all sites, except Nyamasege SHP, since it is not expected
+to start construction for a few years. A land acquisition and compensation report summarizing the details
+of the land parcels and compensation paid to all land owners for all project sites is required and is
+currently still a living document for those sites with construction ongoing. The final land reports will be
+expected to demonstrate that the willing-buyer-willing-seller model that has been applied to the project
+conforms with the Bank’s PS5 and GN5. A total of 38 hectares has been acquired for the first six sites for
+the intake, canal, penstock and powerhouse as well as for the transmission lines. The project footprint has
+been altered where possible to avoid acquisition and compensation paid to permanently affected land
+owners. Broad community support exists for the project, which is seen as beneficial in improving the
+incomes of local tea farmers (who, by being members of KTDA, also have a direct stake in the project).
+Stakeholder consultations have been carried out as part of the EIA process. According to the ESRS, the
+scenario for community engagement is unique as a significant majority of the affected community
+members are KTDA farmers. PS 7 on Indigenous Peoples and PS8 on Cultural Heritage were not
+triggered, as no IPs were identified in the project area (which are agricultural tea/coffee landscapes) and
+the project sites are situated in agricultural landscapes (mainly tea farmers, but coffee farmers also), thus
+cultural heritage sites are not anticipated to be encountered.
+
+In reviewing for possible cumulative impacts, it was noted that nine of the 10 SHPs in the KTDA hydro
+program do not have cumulative impact. They are on separate rivers, and there are no other SHPs from
+outside this proposed project on those rivers according to the World Small Hydropower Development
+Report of 2013 (UNIDO, ICSHP). Nyamasege SHP is the exception, since it is planned for the Gucha
+river on which Nyambunde SHP is also located. The environmental and social assessment has not been
+prepared for Nyamasege SHP; it will take into account possible cumulative impacts following IFC’s
+Good Practice Handbook on Cumulative Impact Assessment. IFC’s review of the ESIAs for the other
+sub-projects it is financing as reported in the ESRS has not identified any cumulative impacts, and the
+sample of completed ESIAs reviewed by the project team does not indicate any cumulative impacts
+either. An environmental and social audit will be carried out for all non-IFC funded SHPs, and its terms
+of reference will cover cumulative impacts as an additional protection.
+
+The proposed project’s overall risk rating is substantial and the project’s EA category is B. Vegetation
+clearing, modification of the natural flow of the rivers, and the presence of the weirs are identified as the
+main activities that could cause adverse environmental impacts, including impeding fish migration, soil
+erosion and air pollution from vegetation burning, changes in stream ecology, and impairment of
+downstream uses. Impacts on surface water quality, air quality, noise, and solid waste management will
+be local and of short duration, and the ESIAs for each subproject require adherence to good construction
+practices and include measures to minimize clearing and prompting re-vegetation of disturbed sites,
+equipment and materials storage areas and borrow pits, upon completion of activities. Downstream uses
+were taken into account and downstream users were consulted in preparation of the ESIAs. The aquatic
+biodiversity baseline studies and monitoring programs required in the ESAP will result in measures to
+better address the in-stream impacts, including improved calculation of environmental flows and the
+introduction of fish ladders where needed and not already part of sub-project design (Lower Mathioya for
+one already has a fish ladder). Cumulative impacts are only a potential issue on the Gucha River, where
+two SHPs will be located. In this regard the project is classified as Category B.
+
+KTDA with IFC support has engaged competent contractors, project engineers, and consultants with track
+record of impact management that can be evaluated from ongoing and nearly finished projects and has
+been satisfactory overall and KTDA has been enthusiastic and dedicated in its uptake of performance
+standards requirements. Also, KTDA Group is an existing IFC client and the IFC conducted Integrity
+Due Diligence on KTDA Group and KTDA Power and found no major issues. KTDA Power is led by an
+experienced management team and has hired appropriate in-house technical experts. It has been
+confirmed that there are no technical constraints in connecting SHPs to the grid. The Project has also
+obtained all the necessary regulatory approvals. However, it is noted that KTDA Power is a young
+company with less experience, which will be stretched out once all 10 SHPs will be constructed and
+operational. In addition, while all nine SHPs are not envisaged to have cumulative impacts, there is one
+SHP (Nyamasege) for which cumulative impacts might be an issue. This is reflected in the overall risk
+rating which is “substantial�?.
+
+
+E. Borrower’s Institutional Capacity for Effective SEMS:
+
+KTDA is a long-standing and strategic IFC Agribusiness client in Sub Saharan Africa, and KTDA is was
+the recipient of Financial Times/IFC’s Sustainable Finance Awards in 2013 as the best company in
+inclusive business. KTDA has been certified according to ISO 9001:2008 Quality Management System.
+
+The project will follow OP/BP 4.03 Performance Standards for Private Sector Activities to address the
+management of environmental and social risks, as the proposed project aims to support KTDA Power, a
+subsidiary of the Kenya Tea Development Agency Holdings, which was privatized in 2000 and ultimately
+owned by 560,000 tea farmers via 66 tea factories.
+
+Seven of the 10 small hydropower plants (SHPs) will receive loans from the IFC. The Bank will rely on
+IFC’s review and assessment of the compliance to the performance standards, for the seven IFC -funded
+SHPs. The review of the three non-IFC SHPs will be carried out in cooperation with IFC to ensure KTDA
+Power applies the same environmental and social management standards as with the seven funded by IFC.
+The Bank and IFC will be providing implementation support for the seven IFC-funded SHPs and in
+addition the Bank will be providing implementation support for the three SHPs not receiving IFC loans.
+
+KTDA Power has developed an Environmental and Social Management System, which is being rolled out
+for implementation at the various sites. KTDA Power has been in compliance with the Environmental and
+Social Action Plan (ESAP) requirements to date, and all required actions will need to be finalized,
+including complete land reports, biodiversity surveys and environmental and social audits for non-IFC
+funded SHPs, before individual SHPs can be included into the proposed Bank program. An Environment,
+Health and Safety (EHS) Manager has been recently appointed at KTDA Power to support the resident
+engineers at the sites responsible for the day-to-day environmental and social operations. However, as
+noted above, KTDA Power is a young company with less experience, which will be stretched out once all
+10 SHPs will be constructed and operational. At the request of the financiers KTDA has retained an
+independent environmental and social consultant to monitor environmental and social performance of the
+seven IFC/Proparco/FMO financed sites every 6 months.
+F. Environmental and Social Safeguards Specialists on the Team:
+
+Svetlana Khvostova (GEN01)
+Lilian Kahindo (GSU07)
+Thomas Walton (Environmental Consultant)
+Margaret Ombai (Social Safeguards Consultant)
+
+II. PERFORMANCE STANDARDS THAT MIGHT APPLY
+
+Performance Standards (please explain why)                            Yes          No        TBD
+PS 1: Assessment and Management of Environmental                       X
+and Social Risks and Impacts
+The Environmental and Social Impact Assessments (ESIAs) conducted for the IFC financed sites
+as well as externally financed sites identified potential direct and indirect environmental and
+social impacts from construction and operations of the subprojects as well as impacts of
+associated or ancillary facilities such as transmission lines and access roads. The ESIAs did not
+sufficiently address impacts related to PS6: impacts on aquatic ecology and determination of
+ecological flows. These ESIAs also did not cover IFC PSs, therefore the gaps were addressed in
+the project ESAP and will be fulfilled during implementation. The ESIA for Nyamasege (IFC
+financed) will be conducted in accordance with the Bank and IFC PSs and Kenyan EA
+regulations. All ESIAs have undergone public consultations during preparation.
+Most of the SHPs (with the exception of Nyamasege SHP planned for the Gucha river, where
+Nyambunde SHP is located) are all on separate rivers. Other SHPs in Kenya have been listed in
+the World Small Hydropower Development Report of 2013 (UNIDO, ICSHP) and none are on
+the same rivers as the proposed 10. Nyamasege SHP environmental and social assessment will
+take into account possible cumulative impacts.
+PS 2: Labor and Working Conditions                                     X
+IFC’s review considered KTDA Power’s operations with regards to fair, safe and healthy
+working conditions and is based on an assessment of the practices in place, and a review of the
+documents, and information made available during due diligence process. When fully
+operational, each SHP will employ approximately 10 staff. During construction, the number of
+employees is expected to peak at 300 for each project. It is expected that a substantial number of
+employees will be recruited from the local community for each project. No workers’
+accommodation is planned for the projects in construction phase. For future projects, where
+applicable, the EPC contractors for the other projects shall develop workers’ accommodation
+which meet internationally recognized standards such as those specified in the IFC/EBRD
+guidance document on workers’ accommodation.
+PS 3: Resource Efficiency and Pollution Prevention                     X
+This is a renewable energy project which is expected to have a net positive impact by replacing
+fossil fuel in power generation. These SHPs have been developed as part of KTDA’s strategy to
+move away from fossil fuel consumption and also reduce consumption of biomass for generating
+electricity at the tea factories, thereby reducing carbon emissions and reducing production costs.
+PS 4: Community Health, Safety, and Security                           X
+The projects sites are typically located within 100m of farm plots and/or households. The
+projects have been designed to meet recognized industry standards so as to minimize potential
+Performance Standards (please explain why)                           Yes           No           TBD
+impacts on the community. The socio-economic assessment for the projects revealed no
+significant trend in diseases and the projects are not expected to lead to an increase in any
+disease; influx of migrant workers will be limited as most of the employees are expected to be
+recruited from the local communities and foreign workers will be limited to a handful per site.
+Medical facilities will be available on each construction site and HIV/AIDS awareness
+campaigns will be included in the training sessions for all employees. Drowning risk posed by
+headrace canals was a concern raised by community members during ESIA consultations, and all
+canals will be fenced as a mitigation measure.
+PS 5: Land Acquisition and Involuntary Resettlement                                 X
+This PS does not apply due to land transactions being conducted following a “willing buyer-
+willing seller�? approach. The designs of the projects considered options to minimize the need for
+extensive land acquisition; where applicable, the project footprint has been altered to avoid land
+that was not available for acquisition, and, for the major part, resettlement agreements are based
+on easement with only limited purchase where this was necessary. Where applicable,
+compensation was paid to land owners that would be temporarily affected by the project. In
+addition, beyond the value of the land, compensation was also paid to permanently affected land
+owners for the crops on their plots of land. The land acquisition and compensation process
+involved extensive consultation with the land owners (mostly KTDA farmers), the local
+administrative authorities and requisite national agencies. Compensation and land rates have
+been agreed and paid for the parcels of land and crops, and resettlement agreements have been
+reached for the cases where cash payments were not appropriate and the parcel owners preferred
+land-for-land settlements instead. There are a few parcels of land which have not been acquired
+and are pending the resolution of land titles issues within the affected families. These include one
+parcel in Lower Nyamindi sub-project, 11 parcels in South Mara sub-project and one parcel in
+Iraru sub-project. As indicated in the ESAP for this project, KTDA Power shall provide a final
+land acquisition and compensation report summarizing the details of the land parcels and
+compensation paid to all land owners for all project sites. In addition, the final land report will
+demonstrate that the “willing-buyer-willing-seller principle has been adhered to as required by
+PS5 and GN5. This report is currently still a living document for those sites with construction
+ongoing in final draft stage. A total of 38 hectares has been acquired for the first six sites for the
+intake, canal, penstock and powerhouse as well as for the transmission lines. The project
+footprint has been altered where possible to avoid acquisition and compensation paid to
+permanently affected land owners.
+PS 6: Biodiversity Conservation and Sustainable                        X
+Management of Living Natural Resources
+Biodiversity issues relate to impacts of the SHPs on existing flora and fauna in the different
+locations. Hydropower projects can have significant impacts on the river flow, thereby leading to
+reduced biodiversity; hydro projects can also impact aquatic system connectivity and migration
+of species. The EIAs for the 9 projects considered the potential impacts on terrestrial flora and
+fauna; a diverse amount of plant and animal species were identified in the project areas with the
+dominant plant being tea as the projects are located in the tea-producing areas. In general, the
+project sites are considered modified habitats which have been modified through agricultural use
+and other human activities. There were no endangered terrestrial species identified during the
+EIA and no area was identified as a critical habitat.
+Performance Standards (please explain why)                           Yes          No         TBD
+The EIAs did not include biodiversity assessments for the rivers and ecological flow
+assessments. As indicated in the ESAP for this project, biodiversity monitoring will be required
+for the first six projects during the construction phase as well as during operations. The same
+requirements will be for the three non-IFC funded sites. For the Nyamasge project, the EIA shall
+include a detailed biodiversity assessment for the river as well as ecological flow assessment.
+The EIA shall also cover the potential cumulative impacts of the Nyabunde and Nyamasege
+SHPs on the River Gucha.
+
+An ecologist is being hired by KTDA to carry out a biodiversity baseline and monitoring plan.
+PS 7: Indigenous Peoples                                                          X
+The SHP sites are not known to be in sites with indigenous peoples. The sites are in agricultural
+tea/coffee growing areas.
+PS 8: Cultural Heritage                                                           X
+The project sites are situated in agricultural landscapes (mainly tea farmers, but coffee farmers
+also), thus cultural heritage sites are not anticipated to be encountered.
+
+
+
+
+III. SAFEGUARD PREPARATION PLAN
+
+A. Target date for the Quality Enhancement Review (QER), at which time the ESRS would be
+   disclosed and the PAD-stage ISDS would be prepared:
+
+       N/A
+
+B. For Category C or Category FI projects that do not require an ESRS, the target date for
+   preparing the PAD-stage ISDS:
+
+N/A
+
+
+C. Time frame for launching and completing the safeguard-related studies that may be needed.
+   The specific studies and their timing1 should be specified in the PAD-stage ISDS:
+
+May-December 2017. The Environmental and Social Action Plan has been disclosed via the
+IFC website (https://disclosures.ifc.org/#/projectDetail/ESRS/36402) and the ESIAs have also
+been disclosed for the IFC financed SHPs (Lower Nyamindi, South Mara, Iraru, Kipsonoi,
+Nyambunde and Kiringa). The ESIAs for the non-IFC funded SHPs have been prepared and will
+
+
+
+1   Reminder: The Bank's Access to Information Policy requires that safeguard-related documents be disclosed before appraisal (i)
+at the InfoShop and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to potentially
+affected persons.
+be disclosed via Infoshop before such a sub-project is included into the program. The ESIA for
+Nyamasege is not yet due and will be prepared closer to planned construction start date.
+
+IV. APPROVALS
+
+ Signed and submitted by:
+ Task Team Leader:                  Name: Juha Seppala                         October 7, 2017
+ Approved by:
+ Regional Safeguards Coordinator:   Name: Nathalie Munzberg                    October 10, 2017
+   Comments:
+ Practice Manager:                  Name: Marc Sadler                          October 16, 2017
+   Comments:
+
