@@ -1,0 +1,245 @@
+Page  1
+INTEGRATED SAFEGUARDS DATA SHEET 
+CONCEPT STAGE 
+Report No.:  AC1620 
+ 
+Date ISDS Prepared/Updated: 06/23/2005 
+ 
+I.  BASIC INFORMATION 
+ 
+A.  Basic Project Data 
+ 
+Country: Ghana 
+Project ID: P093610 
+Project Name: e-Ghana 
+Task Team Leader: Laurent Besancon 
+Estimated Appraisal Date: January 2, 2006 
+Estimated Board Date: July 19, 2006 
+Managing Unit: CITPO 
+Lending Instrument: Sector Investment and 
+Maintenance Loan 
+Sector: General information and communications sector (60%);General public 
+administration sector (20%);General industry and trade sector (20%) 
+Theme: Trade facilitation and market access (P);Other public sector governance 
+(P);Technology diffusion (P);State enterprise/bank restructuring and privatization (S) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+40.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER/RECIPIENT 
+0.00 
+ INTERNATIONAL 
+FINANCE 
+CORPORATION 
+0.00
+0.00 
+B.  Project Objectives [from section 2 of PCN] 
+The proposed project aims at generating increased employment in the Information Technology 
+(IT) Enabled Services (notably Business Processing Outsourcing or BPO) sector, enhancing 
+efficiency, transparency and accountability in selected government agencies and departments, 
+and improving access to information/transaction capabilities for citizens and businesses in 
+selected districts.   
+ 
+C.  Project Description [from section 3 of PCN] 
+A
+number of alternative approaches were considered for deciding on project components:  
+ 
+-
+A
+pure public sector approach to Information and Communication Technology (ICT) 
+interventions was considered and abandoned. This approach was the one favored initially by 
+GoG.  However, involving the private sector as a co-investor in projects would leverage the use 
+of GoG resources and enhance the prospects of success while providing valuable experience to 
+the private sector.  
+Page  2
+-
+Focusing primarily on internet-based only approaches to citizen service delivery was 
+considered.  However, given the high level of mobile penetration versus Internet penetration in 
+Ghana  for instance, it would be preferable to explore the possibility of delivering citizen 
+services through multi-channels, including mobile phones too.  
+ 
+-
+Limiting the interventions to a few large initiatives instead of spreading out to a number of 
+interventions was considered. However, it was felt necessary to capture various synergies as part 
+of the project so as to improve the prospects of success.  
+ 
+The proposed project has adopted six guiding principles that will be reflected in the design of 
+each component: (i) programmatic approach, (ii) results-based and Monitoring & Evaluation-
+conscious, (iii) Public Private Partnerships-oriented, (iv) multi-channel delivery of services, 
+including via mobile phones, (v) participatory development approach, and (vi) Development 
+Partners? (DP) harmonization.  
+ 
+In order to achieve the stated project development objective, the proposed project will focus 
+on (i) creating an overall enabling environment (Component 1), (ii) attracting IT/ITES 
+investment, notably Business Process Outsourcing (BPO), and promoting the development of 
+local ICT business i.e. ICT-led growth (Component 2 and 3), (iii) achieving greater efficiency, 
+transparency and accountability at selected Government Agencies and Departments (Component 
+3), (iv) increasing the reach of the network to improve access to information/transaction 
+capabilities for citizens and businesses (Components 4 and 5), and (v) supporting the adaptation 
+of skill sets to match new job opportunities (Component 6).  
+ 
+Based on the above considerations, the e-Ghana project will cover the following components:  
+ 
+1.
+Enabling Environment (US$ 6 million) by (i) finalizing or developing the relevant 
+policies, legislation, regulations and procedures (telecommunications/broadcasting/Postal/e-
+legislation) and developing guidelines for a common PPP framework across GoG (ii) technical 
+assistance, capacity building and supporting knowledge management system for (a) the 
+implementation agency/project management (the Ghana Information Communication and 
+Technology Directorate, GICTeD), (b) the Ministry of communications (MoC) coordination of 
+ICT-led GoG initiatives, and (c) coordination of DPs contributions so as to optimize DP support, 
+and (iii) developing and maintaining an M&E framework (also aimed at facilitating GoG?s 
+program management of the project, public information and World Bank supervision efforts);  
+ 
+2.
+Business Process Outsourcing and Local ICT businesses (US$ 3 million) to (i) position 
+Ghana as a prime destination for Business Process Outsourcing in the region (strengthening ICT 
+promotion and removing investment barriers) and (ii) encourage the development of local ICT 
+businesses (quality certification/ accreditation under the GoG inter-operability Framework ; 
+software-testing tools and facilities in public universities ? to be used by local companies and 
+faculty/students); this component also builds on the MSME project which supports the 
+establishment of an ICT Park;  
+ 
+3.
+E-Government (US$12.5 million) to (i) allow interoperability between GoG applications 
+under a common IT architecture and implement a service provider accreditation mechanism, (ii) 
+roll-out key e-government applications with the involvement of the private sector (80% to 90% 
+of the investment) for service provision, (iii) provide for replication of these PPP arrangement 
+with GO4IT [Government Outsourcing for IT] Pool Fund (opened to other DPs), (iv) develop a 
+Page  3
+gateway for public and private sector multi-channel delivery of services (including on mobile 
+phones);  
+ 
+4.
+Digital Inclusion (US$ 3 million) to enable the rural communities to improve their 
+livelihood and quality of life through increased access to information/transaction capabilities at 
+the district level by (i) delivering ICT awareness-building channeled through local governments, 
+(ii) establishing Community Information Centers (CICs) leveraging on private sector 
+participation to ensure sustainability and knowledge transfer, (iii) building capacity within 
+communities to enable effective utilization of ICTs including broadcasting.  Donor co-financing 
+arrangements will be sought for establishing CICs and potentially establishing a fund to promote 
+innovative use of ICTs by the communities;  
+ 
+5.
+Infrastructure (US$10 million) to facilitate the implementation of a national broadband 
+network in collaboration with the private sector and in liaison with GoG efforts relating to 
+Voltacom / SAT3 access / international market segment competition and assistance to re-
+privatization of Ghana Telecom.  This is aimed at (i) bringing down the cost of bandwidth to a 
+level which makes Ghana competitive with other Business Process Outsourcing destinations and 
+(ii) extending the reach of the network infrastructure;  
+ 
+6.
+Human Resource Development (US$ 4 million) to adapt skills by (i) setting up 5 IT 
+Enabled Services (ITES) training centers in collaboration with private sector, and promoting 
+linkages between teachers/students and IT/ITES businesses (iii) a two-tiered support to training 
+programs for civil servants (computer training for technical staff of GoG and Chief Information 
+Officers (CIOs) executive immersion course).  Synergies are being sought with the tertiary 
+institutions subcomponent of the on-going Education Project.  
+ 
+The project will be a Specific Investment Loan combined with an IDA Guarantee (for the 
+privatization of Ghana Telecom). Implementation agency will be GICTeD.  Preliminary 
+discussions indicate the project is not likely to run into any significant safeguards problems.   
+ 
+D.  Project location (if known) 
+The project will be targeting a number of districts in Ghana. Districts have not yet been 
+identified at this time; updated information will be provided at pre-appraisal stage.   
+ 
+E.  B
+orrower’s Institutional Capacity for Safeguard Policies [from PCN] 
+The Ministry of Communications (MoC) is preparing itself to handle safeguard policies. An 
+assessment will determine the level of training needed to ensure proper safeguard oversight 
+within the MoC. The MoC will include safeguards accordingly in the TORs of the planned 
+capacity-building support under the Gateway and Micro, Small and Medium Enterprise (MSME) 
+projects .   
+ 
+II.  SAFEGUARD POLICIES THAT MIGHT APPLY 
+Safeguard Policies Triggered
+ 
+Yes No TBD 
+Environmental Assessment (OP/BP 4.01) 
+X
+An Environmental and Social Management Framework will be produced because of potential 
+construction of buildings/infrastructure as part of the project. The impact is however expected to 
+be minimal.   
+Page  4
+Safeguard Policies Triggered
+ 
+Yes No TBD 
+Natural Habitats (OP/BP 4.04) 
+ X  
+Forests (OP/BP 4.36) 
+ X  
+Pest Management (OP 4.09) 
+ X  
+Cultural Property (OPN 11.03) 
+ X  
+Indigenous Peoples (OD 4.20) 
+ X  
+Involuntary Resettlement (OP/BP 4.12) 
+X
+A
+Resettlement Policy Framework will be conducted because of potential land acquisition as 
+part of the project. The impact is however expected to be minimal.   
+Safety of Dams (OP/BP 4.37) 
+ X  
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X  
+Projects in Disputed Areas (OP/BP 7.60) 
+ X  
+Environmental Category:
+ 
+B
+-
+Partial Assessment 
+ 
+III.  SAFEGUARD PREPARATION PLAN 
+ 
+A.  Target date for the Quality Enhancement Review (QER), at which time the PAD-stage ISDS 
+would be prepared:  10/19/2005 
+ 
+B.  For simple projects that will not require a QER, the target date for preparing the PAD-stage 
+ISDS:  N/A 
+ 
+C.  Time frame for launching and completing the safeguard-related studies that may be needed.  
+The specific studies and their timing
+1
+should be specified in the PAD-stage ISDS. 
+The specific studies and their timing  should be specified in the PAD-stage ISDS. 
+ 
+An Environmental and Social Management Framework and a Resettlement Policy 
+Framework will be completed and disclosed prior to appraisal by November 2005. 
+ 
+The Safeguards Review and Clearance was transferred to the Sector Manager of the Global 
+Information and Communications Department (GICT) at the Project Concept Note Review 
+Meeting.  Kristine Schwebach remains in the project Team and acts as the ASPEN liaison.   
+ 
+1
+Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the 
+InfoShop and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to potentially affected 
+persons.
+ 
+Page  5
+IV.  APPROVALS 
+ 
+Signed and submitted by: 
+ 
+Task Team Leader: 
+Mr Laurent Besancon 
+ 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Thomas E. Walton 
+ 
+Comments:   
+Sector Manager: 
+Mr Pierre A. Guislain 
+ 
+Comments:   

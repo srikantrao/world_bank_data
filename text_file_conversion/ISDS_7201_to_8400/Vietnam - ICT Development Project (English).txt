@@ -1,0 +1,264 @@
+Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+I.  Basic Information
+ 
+Date prepared/updated:  05/10/2005 
+Report No.:  AC1469
+1. Basic Project Data  
+ 
+Country:  Vietnam 
+Project ID:  P079344 
+Project Name:  Vietnam - ICT Development 
+Task Team Leader:  Christine Zhen-Wei Qiang 
+Estimated Appraisal Date: May 23, 2005 
+Estimated Board Date: September 15, 2005 
+Managing Unit:  CITPO 
+Lending Instrument:  Specific Investment 
+Loan 
+Sector:  Central government administration (43%);Sub-national government 
+administration (35%);General industry and trade sector (22%) 
+Theme:  Infrastructure services for private sector development (P);Administrative and 
+civil service reform (P);Small and medium enterprise support (P);Regulation and 
+competition policy (S);Other accountability/anti-corruption (S) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+93.72 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER/RECIPIENT 
+13.25
+13.25 
+Environmental Category: C - Not Required 
+Simplified Processing 
+Simple [] 
+Repeater [] 
+Is this project processed under OP 8.50 (Emergency Recovery) 
+Yes [ ] 
+No [X] 
+2. Project Objectives 
+The objective of the proposed project is to accelerate the use of Information and 
+Communication Technologies (ICT) in Vietnam in order to: foster private sector 
+development, improve the competitiveness of small-medium enterprises, improve the 
+transparency and efficiency of public administration, and to increase accessibility to 
+information by government, private sector and broader society.    
+ 
+The proposed project will address the following sector-specific issues:  
+ 
+(a) Government leadership of ICT development:  Technical assistance will focus on 
+developing the institutional?including technical and regulatory capacity of the Ministry of 
+Posts and Telematics (MPT) as it seeks to lead the effort of ICT diffusion in society and 
+government.  Specific elements of assistance include developing and executing a training 
+plan for ministry and departmental (ICT) staff, developing a chief information officer 
+(CIO) position and function in the ministry, creating a center for training CIOs in other 
+ministries, departments and state-owned enterprises, and developing a detailed 
+implementation strategy for ICT diffusion in government and society.  
+ 
+Page  2
+(b) Access to information infrastructure: to be addressed indirectly through support for 
+telecommunications regulatory reform that seeks to encourage a more competitive market 
+environment and private sector participation.  Telecommunications reform and pricing, 
+interconnection policy, tariff re-balancing and frequency management:  studies funded by 
+other donors have reviewed these issues. The project will provide technical assistance to 
+improve the regulatory environment and associated training for regulatory staff.  
+ 
+(c) ICT usage in government:  Government online presence and content will be 
+substantially increased at the national and municipal level, through interactive and 
+dynamic portals at the MPT, and the People?s Committees of Hanoi, Danang, and 
+HCMC.  The MPT and the previously mentioned municipal administrations will roll out 
+e-government services to businesses in areas such as e-procurement and business/land 
+registration.  The GSO will upgrade, streamline, and computerize its collection of 
+economic statistics used in government decision-making.  It will create and install a Web 
+site with extensive statistical information readily available to the public and regularly 
+updated.  
+ 
+(d) ICT industry and ICT-enabled business.  The project will support extensive training 
+and awareness-raising efforts in three major cities to encourage the diffusion of ICTs.  In 
+addition, MPT will administer an innovation fund to encourage domestic organizations, 
+including businesses and academic entities to develop new ideas and concepts in e-
+business and ICT sector development.   
+ 
+3. Project Description 
+The project comprises five subprojects in three areas:  (a) leadership in ICT and 
+modernization of the Ministry of Post and Telematics (MPT); (b) modernization of the 
+General Statistical Office (GSO), (c) and E-applications/e-government, for the 
+municipalities of Hanoi, Danang and Ho Chi Minh City.  
+ 
+Subproject 1: ICT Leadership and MPT Modernization ($21 million) will support 
+national strategy development in the ICT arena, address telecommunications policy 
+issues, and computerize and streamline the national ICT oversight and development 
+functions of the MPT.  This subproject aims primarily to strengthen MPT?s institutional 
+capacity.  Specific components will include the following: (1) Development of E-
+Government in MPT; (2) Portal creation; (3) CIO Training; (4) ICT Policy and 
+Regulation Training; (5) ICT and telecoms regulation; (6) and ICT budget for innovation 
+initiatives.  
+ 
+Subproject 2: GSO Modernization ($13.7 million) will support the implementation of 
+the strategic plan for modernization of GSO, in particularly, improve the quality, 
+transparency and timeliness of the social-economic and poverty related data and 
+information to fully meet the demands of government agencies, research institutions, and 
+other data users as the basis for policy planning and decision making; to modernize the 
+system to reach an advanced level in the region; and to improve data flow, statistical 
+analysis and dissemination of useful data and information.  The components to be 
+undertaken under this subproject to contribute to these objectives include: (1) ICT 
+Page  3
+Infrastructure Upgrade at GSO; (1) Data Flow and Statistical Analysis Enhancement 
+through ICT; and (3) GSO Portal and Intranet Creation.  
+ 
+Subprojects 3, 4 and 5, E-Applications in Hanoi ($31.3 million), Danang ($17.3 
+million), and HCMC ($10.6 million)  are broadly similar in scope, however, each project 
+reflects the particular needs of the respective city, in terms of infrastructure, human 
+resources development, administrative reform and private sector development.  These 
+activities are designed to enhance the ICT environment in these cities, provide the basic 
+foundation for deployment of e-government in the cities? district offices and 
+departments; and development of various types of e-government services; promote e-
+applications for businesses and develop ICT skills.  These activities are expected to have 
+a
+positive impact on government accountability, effectiveness, transparency, citizen and 
+business access to information, citizen and business interaction, and public administration 
+reform efforts.  E-procurement pilots will create a ?demand-pull? for SMEs to establish 
+an online presence with the incentive of being able to supply goods and services to the 
+municipal governments.  As a whole, the subproject will also improve the 
+competitiveness of SMEs and have the positive spill-over effect of increasing their trade 
+opportunities, creating employment and increasing income. The components to be 
+undertaken under this subproject to contribute to these objectives include: (1) 
+development of a strategy, roadmap and conceptual IT Architecture for the city?s e-
+government development, (2) Local e-government enablement, including data center and 
+ICT transaction center, (3) e-applications and e-commerce, and (4) ICT human resource 
+development and awareness raising.  
+ 
+Hanoi e-applications will include e-procurement, land registration and a population 
+management system. Danang e-applications will include e-procurement, e-business and 
+e-licensing applications. HCMC e-application will include e-procurement, vehicle 
+registration and drivers license applications  
+ 
+Project implementation support has been included in each subproject for all project 
+implementing units and the project coordination unit which will be housed within MPT.  
+This is to ensure that adequate technical support is available to the implementing 
+agencies throughout the project implementation phase.   
+ 
+4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis 
+Project location will include local government vicinities in Danang city, Hanoi city and 
+Ho Chi Minh City.  
+ 
+This is a policy-related project and, as such, the project has no issues related to 
+resettlement or displacement of communities and indigenous people.   
+ 
+5. Environmental and Social Safeguards Specialists 
+Mr Glenn S. Morgan (EASES) 
+ 
+Page  4
+6. Safeguard Policies Triggered
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+ X 
+Natural Habitats (OP/BP 4.04) 
+ X 
+Forests (OP/BP 4.36) 
+ X 
+Pest Management (OP 4.09) 
+ X 
+Physical Cultural Resources (OP/BP 4.11) 
+ X 
+Indigenous Peoples (OP/BP 4.10) 
+ X 
+Involuntary Resettlement (OP/BP 4.12) 
+ X 
+Safety of Dams (OP/BP 4.37) 
+ X 
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X 
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts: 
+Not applicable to this proposed project.   
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+Not applicable to this proposed project.   
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts. 
+Not applicable to this proposed project.   
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide 
+an assessment of borrower capacity to plan and implement the measures described. 
+Not applicable to this proposed project.   
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+Not applicable to this proposed project.   
+ 
+B. Disclosure Requirements Date
+ 
+*
+If the project triggers the Pest Management and/or Physical Cultural Resources, 
+the respective issues are to be addressed and disclosed as part of the Environmental 
+Assessment/Audit/or EMP. 
+If in-country disclosure of any of the above documents is not expected, please 
+explain why: 
+Not applicable to this proposed project.   
+Page  5
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the 
+ISDS is finalized by the project decision meeting) 
+ 
+The World Bank Policy on Disclosure of Information 
+ 
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+ 
+Have relevant documents been disclosed in-country in a public place in a 
+form and language that are understandable and accessible to project-affected 
+groups and local NGOs? 
+ 
+All Safeguard Policies 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities 
+been prepared for the implementation of measures related to safeguard 
+policies? 
+ 
+Have costs related to safeguard policy measures been included in the project 
+cost? 
+ 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures related to safeguard policies? 
+ 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+ 
+D. Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Ms Christine Zhen-Wei Qiang 
+05/05/2005 
+Environmental Specialist: 
+Ms Christine Zhen-Wei Qiang 
+05/05/2005 
+Social Development Specialist 
+Ms Christine Zhen-Wei Qiang 
+05/05/2005 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+ 
+Approved by: 
+ 
+Sector Manager: 
+Mr Pierre A. Guislain 
+05/05/2005 
+Comments:   

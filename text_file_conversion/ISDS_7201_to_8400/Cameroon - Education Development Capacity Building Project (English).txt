@@ -1,260 +1,581 @@
 Page  1
+Integrated Safeguards Data Sheet (ISDS) 
+–
+Appraisal Stage 
+Section I – Basic Information 
+Date ISDS Prepared/Updated: December 6, 2004 
+Report No.:AC653
+A. Basic Project Data 
  
- 
-INTEGRATED SAFEGUARDS DATA SHEET 
-CONCEPT STAGE 
-Report No.:  AC437 
- 
- 
-Date ISDS Prepared/Updated: December 17, 2003 
- 
-I.  BASIC INFORMATION 
- 
-A.  Basic Project Data 
- 
+A.1. Project Statistics 
 Country: Cameroon 
 Project ID: P075964 
-Project Name: Education Development Capacity 
+Project: Education Development Capacity 
 Building 
-Task Team Leader: Mourad Ezzine 
-Estimated Appraisal Date: May, 2004 
-Estimated Board Date: August, 2004 
+TTL: Mourad Ezzine 
+Total project cost (by component): 
+Appraisal Date: November 30, 2004 
+Loan/Credit amount($m):  
+IDA: 15 
+Board Date: February 24, 2005 
+  
+Other financing amounts by source: 
+ 
+($m.) 
 Managing Unit: AFTH3 
-Lending Instrument: Specific Investment Loan 
 Sector: General education sector (100%) 
-Theme: Education for all (P); Other human 
-development (S) 
-Safeguard Policies Specialists in the task team : Edeltraut Gilgan-Hunt 
-Loan/Credit amount ($m.):  
-IDA: $15 m 
-Other financing amounts by source: TBD 
-($m) 
+Lending Instruments: Specific Investment Loan 
  
+Is this project processed under OP 8.50 (Emergency 
+recovery? 
+Yes?
+[
+]
+No?
+[X ] 
+Environmental Category:  B 
+Safeguard Classification:  S2 
+A.2. Project Objectives 
  
-B.  Project Objectives [from section 3 of PCN] 
+The objective of the proposed project is to:  (i) increase the efficiency and equity of 
+primary and secondary education, with a focus on the disadvantaged areas (ZEP); and to (ii) 
+improve the relevance of secondary and higher education to the needs of th
+e
+economy.  
+Simulation models show that the main outcome of the Project will be an increase in the primary 
+completion rate from 63% to 80% by project end, which would be a significant step towards 
+achieving the MDGs.  However, as year-to year changes in completion rates are not a reliable 
+indicator of efficiency gain, the following indicators have been chosen for their greater accuracy 
+and specificity:  by the end of the Project, in 2009, the following results will be achieved:  (i) a 
+lower degree of randomness
  
-The objective of the proposed project is to assist the Government in dealing with the immediate challenges 
-arising from the MDG and in improving the relevance of the secondary and higher education systems.  By the end of 
-the project, in 2007, the following results will be achieved: 100% access rate reached and maintained in primary 
-education, 75% primary education completion rate in 2008, significant reduction in the gender and regional 
-disparities, more relevant secondary education curricula and more diversified technology courses in higher 
-education technical training.  Moreover, critically for both IDA and the Government, the operation will be designed 
-to enhance the overall sector governance and ensure that the public resources needed to sustain universal primary 
-education are available and are used more efficiently. 
+in the allocation of teachers, from 45% to 25%; (ii) primary 
+repetition rates reduced from 25% to 15%; and (iii) female to male primary enrollment ratio in the 
+targeted areas increased from 0.58 to 0.90.   
  
-C.  Project Description [from section 4 of PCN] 
+A.3. Project Description 
  
-The project will be managed by the MINEDUC, for its basic and secondary education components, and by 
-the Ministry of Higher education, MINESUP, for its higher education component.  The proposed lending instrument 
-is a SIL, which will focus on a few objectives and themes of the Cameroon long-term program, which is detailed 
-and discussed in the PRSP.  This program is designed around 4 main themes, which focus on access to education, 
-quality of teaching and learning, management and partnership, and institutional capacity and governance, as well as 
-17 sub-programs, each of them focusing on one key aspect of the sector, such as human resources management, 
-curricula development and girls’ education.  Some of these subprograms are well defined and their cost has been 
-estimated, but other are still not fully operational.   
+Component 1 -- Reinforcing administrative management
+.
+The objective of this component is 
+to improve the administrative management of the education system through improvements in 
+monitoring and evaluation, administrative and personnel management, and planning functions
+.
+These planned improvements are founded on the provisions for decentralization introduced in the 
+new organizational Decree of the MINEDUC.  It comprises the following subcomponents: 
  
-The proposed lending instrument is a SIL.   
- 
-There will be no construction under this project. 
- 
-The following project components are being considered: 
- 
-Component 1
- : This component aims at reinforcing the administrative capacity and improving the governance of the 
-education system.  This will be achieved through support to the decentralization of human resources management, 
+(i) 
+Subcomponent 1.1 aims to reinforce the administration and management of the system 
+and reinforce the capacity of the internal auditing division (
+Inspection Générale des 
+Services –  IGP) 
+and the 
+Observatoire de la Governance, 
+with a special emphasis on 
+curbing corrupt practices. By 2008 the newly developed manuals and guides will be at 
+the disposal of all key MINEDUC officials at the central, provincial, and departmental 
+levels, and that those officials working within each of these will have been trained to 
+utilize and apply the manuals and guides. 
 Page  2
+(ii) 
+Subcomponent 1.2 aims to (i) reduce the randomness in the allocation of teachers from 
+currently 45% to 25% by Project end and (ii) reinforce the responsibilities related to 
+teacher management of the decentralized structures of the MINEDUC.  
+(iii) 
+Subcomponent 1.3 aims to improve upon the performance of the planning system, both 
+at the national and provincial level.  The outcome will be the timely publishing of annual 
+statistics reports and more accurate planning at the provincial level. 
+(iv) 
+Subcomponent 1.4 aims to reinforce private education by developing a more transparent 
+and efficient allocation of public subsidies, with the aim of promoting the quality of 
+private education. 
  
+Component 2 --  Reinforcing pedagogic management.  The objective of this component is 
+to improve pedagogic management in order to make the teaching and learning process 
+more efficient.  The key outcome will be to reduce repetition from 25% to less that 15% 
+and to improve the relevance of secondary education.  It has the following 
+subcomponents: 
  
-the improvement of the performance of the auditing department (
-Inspection Générale des Services
-) and the 
-modernization of the planning and information management function of the Ministry of Education (MINEDUC).   
+(i) 
+Subcomponent 2.1 aims to reduce repetition rates through (a) building national 
+consensus on the elimination of repetition of SIL/Class One, CE1/Class Two and 
+CM1/Class Five and reducing them between sub-cycles I, II and III, (b) 
+developing new assessment and exam procedures. 
+(ii) 
+Subcomponent 2.2 aims to implement new structures and streams for secondary 
+education.  The outcome will be that all schools, both Anglophone and 
+Francophone,
  
-Component 2
-.  This component aims at reinforcing the pedagogic functions of the MINEDUC through (i) the 
-provision of seminars and teacher training programs, emphasizing the teachers capacity to use standardized testing 
-and examination instruments, (ii) the improvement of the frequency and efficiency of the pedagogic supervision 
-(
-inspection pédagogique
-) (iii) restructuring the cycles, modernizing the curricula and the examination system in 
-secondary education and (iv) adopting and implementing school health policies in primary and secondary education, 
-which aim at improving the teachers and students AIDS awareness and at encouraging behavioral changes vis-à-vis 
-the pandemic.   
+will have implemented the new structures and introduced the new 
+curricula.  
+(iii) 
+Subcomponent 2.3 aims to improve the health status of school children by 
+developing curricula material on health and life skills, with a special focus in 
+secondary education on improving the teachers’ and students’ awareness of the 
+HIV/AIDS pandemic and the behavioral changes it requires.    
  
-Component 3
-.  This component targets the ZEP and aims at boosting the demand for primary education and 
-promoting gender equity.  It will support the community-based multifaceted approach to early childhood 
-development and primary education which had been piloted in the Northern regions with the help of UNICEF, with 
-a view to extending this approach to all the ZEP.  This components relies on NGOs for the provision of training and 
-awareness seminars to parents and community leaders, allocation of funds for maintenance of facilities and 
-distribution of textbooks and adequate materials to school.     
+Component 3 
+–
+Supporting enrollment and reducing the gender inequity in the 
+ZEP
+.
+This component aims at increasing the demand for primary education and promoting 
+gender equity in the Adamaoua, Far-North, and North provinces.  The main outcome of this 
+component is to increase Gross Enrolment Rate (GER) from 84.4% to 100% and the Gender 
+Parity Index from 0.58 to 0.90 in the target areas.    Activities will include:  (a) advocacy and 
+mobilization campaigns targeting parents and communities at large; (b) the funding of micro-
+projects that help communities build latrines and wells and provide learning materials including 
+textbooks, teachers guides, desks and benches, and blackboards to the schools they oversee; (c) 
+training to reinforce the planning and managerial capacities of key school council members; (d) 
+studies to assess the determinants of the demand for education in those areas and improve the 
+system’s ability to deal with them.
  
 Component 4
-.  This component supports selected technological higher education institutes.  It follows up on the 
-recently closed and IDA-supported LIL, which established and tested a new model of autonomous institution, IUT-
-Douala.  Following the satisfactory conclusion of this LIL the Government developed draft laws and regulations 
-which aim at granting a broad scientific and managerial autonomy to all the technology institutes, and to encourage 
-their leadership to promote changes similar to those made by IUT-Douala.  This component will provide inputs 
-necessary for such a change to take place, including training for managers and teachers, establishment of adequate 
-procedures and management tools, twinning arrangements with more advanced institutions, and technical assistance 
-for the development of new courses and degrees.  
+ –  
+Building the Capacity of the higher education institutions 
+The objective of 
+this component is to raise the overall quality and relevance of teaching and research by improving 
+the system’s ability to internally generate a critical mass of high quality academics, researchers 
+and professionals, particularly in disciplines critical to the country’s development.   This will be 
+achieved by:  
  
- 
-D.  Project location (if known) 
- 
-The project will be implemented throughout the country, with emphasis on the North, Extreme North and Adamaoua 
-regions. 
- 
-E.  Borrower’s Institutional Capacity for Safeguard Policies [from PCN] 
- 
-While Cameroon has environmental regulations, the country's institutional capacity for safeguard 
-policies is very limited. 
- 
-II.  SAFEGUARD POLICIES THAT MIGHT APPLY 
- 
-Applicable?
- 
-Safeguard Policy 
-If Applicable, How Might It Apply? 
-[ ] 
-Environmental Assessment
- (
-OP
-/
-BP
- 4.01) 
- 
- 
-[ ] 
-Natural Habitats (
-OP
-/
-BP
- 4.04) 
- 
- 
-[ ] 
-Pest Management (
-OP 4.09
-) 
- 
- 
-[ ] 
-Involuntary Resettlement (
-OP
-/
-BP
- 4.12) 
- 
- 
-[ ] 
-Indigenous Peoples (
-OD 4.20
-) 
- 
- 
-[ ] 
-Forests (
-OP
-/
-BP
- 4.36) 
- 
- 
-[ ] 
-Safety of Dams (
-OP
-/
-BP
- 4.37) 
+(i) 
+Subcomponent 4.1 : establishing a special fund to support increased academic 
+research and professional development;   
 Page  3
+(ii) 
+Subcomponent 4.2 : building and developing an inter-university information and 
+telecommunications center (
+Centre Inter-Universitaire des Technologies de 
+l’Information, CITI
+)
+to enable improved access to information and global knowledge 
+resources and development of capacity for ICT-enhanced distance education;  
+(iii) 
+Subcomponent 4.1 : strengthening a fledgling research and documentation center, 
+(Centre Inter-Universitaire de Recherche et de Documentation, CIRD), and 
+(iv) 
+Subcomponent 4.4 : establishing a Global Development Learning Network Center 
+(GDLN
+). 
  
+A.4. Project Location and salient physical characteristics relevant to the safeguard analysis: 
  
+The project will include (i) the construction of the 
+Centre inter-universitaire de Technologie et 
+d'Information 
+(CITI) as part of the university of Yaoundé to house the Global Development 
+Learning Network (GDLN) which will be established under the project; and (ii) the construction 
+of water points and latrines in the Priority Education Zones (ZEP), Adamaona, Far North, and 
+North Provinces. 
  
+B. Check Environmental Category 
+A
+[
+], B [X ], C [], FI [ ] 
  
+Comments: 
+The project has been categorized as a B due to the potential environmental and social 
+impacts related to the construction of the CITI and the provision of water supply and sanitation.
+ 
+C. Safeguard Policies Triggered 
+ 
+Yes No 
+ 
+Environmental Assessment
+(
+OP
+/
+BP
+/
+GP
+4.01) [X 
+] 
+[ 
+] 
+ 
+Natural Habitats
+(
+OP
+/
+BP
+4.04) [ 
+] 
+[X 
+] 
+ 
+Pest Management
+(OP 4.09) 
 [ ] 
-Cultural Property (draft OP 4.11 - 
+[X ] 
+ 
+Cultural Property
+(draft OP 4.11 - 
 OPN 11.03
-) 
+-) [ 
+] 
+[X 
+] 
  
+Involuntary Resettlement
+(
+OP
+/
+BP
+4.12) [ 
+] 
+[X 
+] 
  
-[ ] 
-Projects in Disputed Areas (
+Indigenous Peoples
+(
+OD 4.20
+)
+[
+]
+[X ] 
+ 
+Forests
+(
+OP
+/
+BP
+4.36) [ 
+] 
+[X 
+] 
+ 
+Safety of Dams
+(
+OP
+/
+BP
+4.37) [ 
+] 
+[X 
+] 
+ 
+Projects in Disputed Areas
+(
 OP
 /
 BP
 /
 GP
- 7.60)
+7.60)
 *
+[
+]
+[X ] 
  
- 
- 
-[ ] 
-Projects on International Waterways (
+Projects on International Waterways
+(
 OP
 /
 BP
-/
-GP
- 
+/GP 
 7.50) 
+[
+]
+[X ] 
  
+*
+By supporting the proposed project, the Bank does not intend to prejudice the final determination of the parties' 
+claims on the disputed areas
  
+Page  4
+Section II 
+–
+Key Safeguard Issues and Their Management  
+D. Summary of Key Safeguard Issues
+.
+D.1. Describe any safeguard issues and impacts associated with the proposed project. Identify and 
+describe any potential large scale, significant and/or irreversible impacts. 
  
+Due to construction activities under project component 3 (water wells and latrines) and 
+component 4 (
+Centre Inter universitaire de Technologie et d'Information
+ (CITI), environmental 
+and social impacts  are likely to include the loss of vegetation, soil erosion, water and soil 
+pollution, air pollution, noise, and some crop losses, as well as potentially negative impacts on the 
+public's health as a result of improper operation and maintenance of water wells and latrines. The 
+project has prepared an Environmental Mitigation Plan (EMP) which will assist project 
+implementers in addressing these potential impacts. 
  
-Environmental Assessment Category:
-    
-[ ] A   [ ] B   [X] C   [ ] FI   [ ] TBD (to be determined) 
+D.2 Describe any potential indirect and/or long term impacts due to anticipated future activities in 
+the project area. 
  
-If TBD, explain determinants of classification and give steps that will be taken to determine that EA category 
-(mandatory): 
+Potential indirect and/or long-term impacts due to project activities are not anticipated. 
  
-III.  SAFEGUARD PREPARATION PLAN 
+D.3. Describe the treatment of alternatives (if relevant) 
  
-A. 
-Target date for the Quality Enhancement Review (QER) meeting, at which time the PAD-stage ISDS would be 
-prepared: February, 2004 
+The discussion of alternatives was not deemed relevant in light of the project’s development 
+objectives. 
  
-B. 
-For simple projects that will not require a QER meeting, the target date for preparing the PAD-stage ISDS. 
+D.4. Describe measures taken by the borrower to address safeguard issues. Provide an assessment 
+of borrower capacity to plan and implement the measures described. 
  
-C. 
-Time frame for launching and completing the safeguard-related studies that may be needed.  The specific 
-studies and their timing
-1
- should be specified in the PAD-stage ISDS. 
+As mentioned above, the Borrower has prepared an EMP.  For component 3, the EMP provides 
+(i) environmental guidelines for contractors to be included in bidding documents (Annex 2); and 
+(ii) environmental guidelines for qualified members of the school councils (Annex 3) to ensure 
+that the water wells and latrines are operated and managed in an environmentally and socially 
+sustainable manner. Since  these activities will take place within the compounds of existing, 
+active schools, there will be no social impacts due to land acquisition. The EMP also includes 
+provisions for environmental training and monitoring indicators to ensure effective environmental 
+management of these investments. 
  
-IV.  APPROVALS 
+As regards component 4, the EMP draws on information and recommendations provided in the 
+environmental and social assessment report prepared by the Borrower in January 2004 (Annex 5). 
+This report discusses the potential environmental and social impacts due to the construction of the 
+Centre inter-universitaire de Technologie et d'Information
+ (CITI). It recommends, among other 
+things, that individuals who had been using the land for vegetable production be compensated for 
+crop losses. This has been done, and on June 10, 2004, the Ministry of Justice confirmed that the 
+compensation process had been completed to the satisfaction of the affected individuals, and the 
+relevant documentation has been provided to the Bank. 
  
-Signed and submitted by: 
+Page  5
+D.5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure 
+on safeguard policies, with an emphasis on potentially affected people. 
+ 
+Key stakeholders include university students, faculty members, the Ministry of Education, the 
+population living in the vicinity of the university and persons affected by the construction of the 
+CITI.  These affected persons have been consulted and informed about the purpose and 
+construction of the CITI and steps have been taken to compensate them for crop losses.  This 
+process was completed on June 10, 2004, as confirmed by the Ministry of Justice.  The EMP has 
+been disclosed in-
+country on November 19, 2004 and in the Bank’s Infoshop prior on November 
+22, 2004.  
+ 
+F. Disclosure Requirements 
+Date
+ 
+Environmental Assessment/Audit/Management Plan/Other:  
+Date of receipt by the Bank 
+ 11/22/2004 
+Date of “in-country” disclosure 
+ 11/19/2004 
+Date of submission to InfoShop 
+ 11/22/2004 
+For category A projects, date of distributing the Executive Summary of the EA to the Executive 
+Directors 
+ 
+Not Applicable 
+Resettlement Action Plan/Framework/Policy Process: 
+Date of receipt by the Bank 
+ Not Applicable 
+Date of “in-country” disclosure 
+ Not Applicable 
+Date of submission to InfoShop 
+ Not Applicable 
+Indigenous Peoples Development Plan/Framework:  
+Date of receipt by the Bank 
+ Not Applicable 
+Date of “in-country” disclosure 
+ Not Applicable 
+Date of submission to InfoShop 
+ Not Applicable 
+Pest Management Plan:  
+ 
+Date of receipt by the Bank 
+ Not Applicable 
+Date of “in-country” disclosure 
+ Not Applicable 
+Date of submission to InfoShop 
+ Not Applicable 
+Dam Safety Management Plan:  
   
+Date of receipt by the Bank 
+ Not Applicable 
+Date of “in-country” disclosure 
+ Not Applicable 
+Date of submission to InfoShop 
+ Not Applicable 
+If in-country disclosure of any of the above documents is not expected, please explain why. 
+ 
+Section III 
+–
+Compliance Monitoring Indicators at the Corporate Level 
+(To be filled in when the ISDS is finalized by the project decision meeting) 
+OP/BP 4.01 - Environment Assessment:
+ 
+Yes
+No
+Does the project require a stand-alone EA (including EMP) report? 
+X 
+ 
+If yes, then did the Regional Environment Unit review and approve the EA 
+report? 
+X
+Are the cost and the accountabilities for the EMP incorporated in the 
+credit/loan? 
+X
+OP/BP 4.04 - Natural Habitats: 
+Yes
+No
+Would the project result in any significant conversion  or degradation of 
+ 
+N/A 
+Page  6
+critical natural habitats? 
+If the project would result in significant conversion or degradation of other 
+(non-critical) natural habitats, does the project include mitigation measures 
+acceptable to the Bank? 
+ 
+OP 4.09 - Pest Management: 
+Yes
+No
+Does the EA adequately address the pest management issues? 
+ 
+N/A 
+Is a separate PMP required? 
+ 
+ 
+If yes,  are PMP requirements included in project design? 
+ 
+ 
+Draft OP 4.11 (OPN 11.03) - Cultural Property: 
+Yes
+No
+Does the EA include adequate measures? 
+ 
+N/A 
+Does the credit/loan incorporate mechanisms to mitigate the potential adverse 
+impacts on physical cultural resources? 
+ 
+OD 4.20 - Indigenous Peoples: 
+Yes
+No
+Has a separate indigenous people development plan been prepared in 
+consultation with the Indigenous People? 
+ N/A 
+If yes, then did the Regional Social Development Unit review and approve the 
+plan? 
+ 
+If the whole project is designed to benefit IP, has the design been reviewed 
+and approved by the Regional Social Development Unit? 
+ 
+OP/BP 4.12 - Involuntary Resettlement: 
+Yes
+No
+Has a resettlement action plan, policy framework or policy process been 
+prepared? 
+ N/A 
+If yes, then did the Regional Social Development Unit review and approve the 
+plan / policy framework / policy process? 
+ 
+OP/BP 4.36 
+–
+Forests: 
+Yes
+No
+Has the sector-wide analysis of policy and institutional issues and constraints 
+been carried out? 
+ N/A 
+Does the project design include satisfactory measures to overcome these 
+constraints? 
+ 
+Does the project finance commercial harvesting, and if so, does it include 
+provisions for certification system? 
+ 
+OP/BP 4.37 - Safety of Dams: 
+Yes
+No
+Have dam safety plans been prepared? 
+ 
+N/A 
+Have the TORs as well as composition for the independent Panel of Experts 
+(POE) been reviewed and approved by the Bank? 
+ 
+Has an Emergency Preparedness Plan (EPP) been prepared and arrangements 
+been made for public awareness and training? 
+ 
+OP 7.50 - Projects on International Waterways: 
+Yes
+No
+Have the other riparians been notified of the project? 
+ 
+N/A 
+If the project falls under one of the exceptions to the notification requirement, 
+then has this been cleared with the Legal Department, and the memo to the 
+RVP prepared and sent? 
+ 
+What are the reasons for the exception? 
+ 
+ 
+Please explain: 
+ 
+ 
+Has the RVP approved such an exception? 
+ 
+ 
+Page  7
+OP 7.60 - Projects in Disputed Areas
+:
+Yes
+No
+Has the memo conveying all pertinent information on the international aspects 
+of the project, including the procedures to be followed, and the 
+recommendations for dealing with the issue, been prepared, cleared with the 
+Legal Department and sent to the RVP? 
+ N/A 
+Does the PAD/MOP include the standard disclaimer referred to in the OP? 
+ 
+ 
+BP 17.50 - Public Disclosure: 
+Yes
+No
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+X
+Have relevant documents been disclosed in-country in a public place in a form 
+and language that are understandable and accessible to project-affected groups 
+and local NGOs? 
+X
+All Safeguard Policies: 
+Yes
+No
+Have satisfactory calendar, budget and clear institutional responsibilities been 
+prepared for the implementation of the safeguard measures? 
+X
+Have safeguard measures costs been included in project cost? 
+X 
+ 
+Will the safeguard measures costs be funded as part of project implementation? 
+X 
+ 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures? 
+X
+Have satisfactory implementation arrangements been agreed with the borrower 
+and the same been adequately reflected in the project legal documents? 
+ 
+Signed and submitted by:
+ Name
+Date
 Task Team Leader: 
 Mourad Ezzine 
-Date 
-Approved by: 
-  
-Regional Safeguards Coordinator: 
+12/06/04 
+Project Safeguards Specialist 
+1: 
+Edeltraut Gilgan-Hunt 
+12/06/04 
+Project Safeguards Specialist 
+2: 
+Mohamed Arbi Ben-Achour 
+12/06/04 
+Project Safeguards Specialist 
+3: 
+ 
+Approved by:
+ Name
+Date
+Regional Safeguards 
+Coordinator: 
 Thomas E. Walton 
-Date 
-Comments 
+12/06/04 
+Comments: 
 Sector Manager: 
-Jacob Bregman, Acting  
-Date 
-Comments 
-                                                          
- 
-*
- 
-By supporting the proposed project, the Bank does not intend to prejudice the final determination of the parties' claims on the
- 
-disputed areas
- 
-1
- 
-Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the 
-InfoShop and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to potentially af
-fected 
-persons.
- 
- 
+Laura Frigenti 
+12/06/04 
+Comments: 

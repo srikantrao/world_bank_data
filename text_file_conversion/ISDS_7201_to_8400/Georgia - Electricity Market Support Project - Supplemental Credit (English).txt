@@ -1,0 +1,486 @@
+Page  1
+Integrated Safeguards Data Sheet (ISDS) 
+Section I 
+–
+Basic Information 
+Date ISDS Prepared/Updated: May 23, 2004 
+Report No.:AC873
+A. Basic Project Data 
+ 
+A.1. Project Statistics 
+Country: Georgia 
+Project ID: P088911 (supplement); 
+P054886 (parent project) 
+Project: Supplemental Credit to Electricity 
+Market Support Project 
+TTL: Bjorn Hamso 
+Total project cost (by component): Management Services:  SDR 900,000, Wholesale 
+power meters and power substation equipment: SDR1,600,000 
+Appraisal Date: May 25, 2004 
+Loan/Credit amount($m):  
+IDA: 3.6 
+Board Date: June 24, 2004 
+  
+Other financing amounts by source: 
+5.5($m.) Government of Georgia 
+Managing Unit: ECSIE 
+Sector: Power (100%) 
+Lending Instruments: Specific Investment 
+Loan 
+ 
+Is this project processed under OP 8.50 (Emergency 
+recovery? 
+Yes?
+[
+]
+No?
+[X] 
+Environmental Category: B 
+Safeguard Classification: S2 
+A.2. Project Objectives 
+The objective of seeking supplemental IDA funding to the EMSP project is to achieve, in 
+combination with other efforts, improvements to financial and corporate management in 
+the power transmission company GSE to such an extent that the company becomes a 
+financially viable entity.  The purpose of this Supplemental Credit is, therefore, to 
+provide additional support to the project, beyond the original plan, in order to help the 
+Government to sustain improved management efforts (through financing for a longer 
+time the management contractor, thus at a greater cost to IDA than originally planned) 
+and sustain the momentum of investments related to improved financial management.   
+A.3. Project Description 
+The existing EMSP project mainly finances a SCADA system (with energy management 
+system, metering, and telecommunication) for the Georgian State Electrosystem (GSE), 
+the Georgian power transmission company.  It also co-finances a management contract 
+with an international contractor for GSE. Other components, mainly financed by KfW, 
+finance system rehabilitation.  The Supplemental Credit has two components: 
+ 
+1. Rehabilitation of Transmission System 
+Under this component (including some funds from the original EMSP project), GSE will 
+purchase nearly 1,100 wholesale meters to be installed in the system in substations of 110 
+kV down to 6kV/10kV feeders.  This metering will allow better control of the low 
+voltage part of the transmission system, and will enable the transmission company and 
+the distribution company to significantly reduce commercial losses.  In the same region 
+where the meters will be installed, GSE will also invest in new, modernized switchgear, 
+auxiliary batteries and chargers, replacing equipment that often is more than 35 years old.  
+Page  2
+The new equipment will allow GSE to better control the load (additional cost savings), 
+protect expensive equipment from damage, and also provide end users with more 
+predictable power supply.  Most of the investments will take place in the region of 
+Imereti, where the potential for improvements is the largest. 
+ 
+2. Management Contract for the Transmission Company 
+This component will finance the management contract for GSE (held by the Irish firm 
+ESBI) by an extra 6 months until end May 2005.  Other financing sources for this 
+contract are KfW and GSE’s own cash flow.  The additional funding is necessary during 
+a
+period where many operations are underway to help remedy the financial crisis in the 
+power sector, including the Government’s plan to finance redundancy packages and 
+salary arrears for 1500 employees in GSE, and USAID’s plans to extend a management 
+contract and provide other funding for UDC, a large distribution company and GSE’s 
+largest debtor.  ESBI’s management contract for GSE has a five-year duration to 
+December 2007. 
+ 
+A.4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis: 
+The equipment will be installed inside existing power system substations, thus no land 
+acquisition will be required.  Most equipment will be located in the Imereti region of 
+Georgia. 
+ 
+B. Check Environmental Category 
+A
+[
+], B [X], C [ ], FI [ ] 
+ 
+Comments:  
+C. Safeguard Policies Triggered 
+ 
+Yes No 
+ 
+Environmental Assessment
+(
+OP
+/
+BP
+/
+GP
+4.01) [x] 
+[ 
+]  
+Natural Habitats
+(
+OP
+/
+BP
+4.04) [ 
+] 
+[x] 
+ 
+Pest Management
+(OP 4.09) 
+[ ] 
+[x] 
+ 
+Cultural Property
+(draft OP 4.11 - 
+OPN 
+11.03
+-) 
+[
+]
+[x]  
+Involuntary Resettlement
+(
+OP
+/
+BP
+4.12) [ 
+]  [x] 
+ 
+Indigenous Peoples
+(
+OD 4.20
+)
+[
+]
+[x]  
+Forests
+(
+OP
+/
+BP
+4.36) [ 
+] 
+[x] 
+ 
+Safety of Dams
+(
+OP
+/
+BP
+4.37) [ 
+] 
+[x] 
+ 
+Projects in Disputed Areas
+(
+OP
+/
+BP
+/
+GP
+7.60)
+*
+[
+]
+[x]  
+*
+By supporting the proposed project, the Bank does not intend to prejudice the final determination of the parties' 
+claims on the disputed areas
+ 
+Page  3
+Projects on International Waterways
+(
+OP
+/
+BP
+/GP 7.50) 
+[
+]
+[x]  
+Section II 
+–
+Key Safeguard Issues and Their Management  
+D. Summary of Key Safeguard Issues
+.
+D.1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts. 
+In accordance with OP/BP/GP 4.01, the EMSP project has been rated Environmental 
+Category B.  The reason for this rating was the inclusion of transmission network 
+components and associated potential environmental issues.  The new system 
+rehabilitation component in the Supplemental Credit is considered environmentally 
+similar to existing components under the EMSP project, and thus does not change the 
+environmental category.  The scope of the component is limited, and no potentially large 
+scale, significant and/or irreversible negative impacts are identified.  The work involves 
+replacement of existing equipment, and there will be no expansions of the substations or 
+construction of new facilities.  An environmental analysis and management plan 
+(including mitigating measures) was carried out as part of the technical feasibility study 
+for the EMSP project (Fichtner: Environmental Analysis and Management Plan for the 
+500 kV substation Sestafoni, Georgia, December 2000).  The analysis revealed, among 
+other, extensive oil leakages to the ground (not including PCB), a problem that is typical 
+for many of the substations in Georgia, and thus a likely occurrence at some of the 
+substations in which meters, batteries and switchgear will be installed under the 
+Supplemental Credit.  The switchgear to be procured under the Supplemental Credit will 
+be environmentally benign vacuum circuit breakers, replacing old, oil-filled, leaky 
+breakers.  The old breakers will be removed and discarded in accordance with 
+environmentally appropriate methods and applicable legislation. The analysis found that 
+the EMSP project will have no appreciable adverse environmental impacts, and will have 
+environmental benefits associated with better performance of the new equipment. This 
+conclusion is considered applicable also for the new components financed by the 
+Supplemental Credit. Financed under the EMSP project, GSE will develop a transmission 
+system environmental action plan, i.e. a plan that stretches beyond the specific 
+investment components under the project. 
+ 
+D.2 Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area. 
+It is not expected that there will be any negative long-term impacts due to project 
+activities in the project area.  To the contrary, the new investments will have a positive 
+impact in the project area, as described under D.1.  In a wider context, the supplemental 
+investment components will cause reduced power consumption, and thus reduced 
+emissions from thermal power plants. 
+ 
+D.3. Describe the treatment of alternatives (if relevant) 
+Not applicable. 
+ 
+Page  4
+D.4. Describe measures taken by the borrower to address safeguard issues. Provide an 
+assessment of borrower capacity to plan and implement the measures described. 
+An Environmental Management Plan (EMP) has been developed for the investment 
+components (switchgear, batteries, chargers) under this Supplemental Credit to the EMSP 
+project. The sub-borrower GSE is managed by Irish firm ESBI, which has considerable 
+environmental experience from its operation of the Irish transmission grid and activities 
+in other countries.  The EMSP project has a competent PIU that is expected to perform 
+satisfactorily together with the sub-borrower also in the environmental area. 
+ 
+D.5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+The project components are similar to project components under the parent project 
+EMSP, which had consultative and disclosure measures undertaken during project 
+preparation.  In addition, the existence of and availability of an EMP has been announced 
+in local language in the “Republic of Georgia” newspaper (the Government’s medium for 
+announcements) on May 21, 2004.  As detailed knowledge of specific locations are 
+known, consultations will be held locally.  The effect on the population is considered 
+modest and of short duration due to the limited nature of the civil work and the fact that 
+the work is done inside power substations, often at a distance from population centers. 
+ 
+F. Disclosure Requirements  Date
+ 
+Environmental Assessment/Audit/Management Plan/Other:  
+Date of receipt by the Bank 
+05/20/04      
+Date of “in-country” disclosure 
+05/21/04      
+Date of submission to InfoShop 
+05/24/04      
+For category A projects, date of distributing the Executive Summary of the EA to the 
+Executive Directors 
+Not Applicable 
+Resettlement Action Plan/Framework/Policy Process: 
+Date of receipt by the Bank 
+Not Applicable 
+Date of “in-country” disclosure 
+Not Applicable 
+Date of submission to InfoShop 
+Not Applicable 
+Indigenous Peoples Development Plan/Framework:  
+Date of receipt by the Bank 
+Not Applicable 
+Date of “in-country” disclosure 
+Not Applicable 
+Date of submission to InfoShop 
+Not Applicable 
+Pest Management Plan:  
+ 
+Date of receipt by the Bank 
+Not Applicable 
+Date of “in-country” disclosure 
+Not Applicable 
+Date of submission to InfoShop 
+Not Applicable 
+Dam Safety Management Plan:  
+  
+Date of receipt by the Bank 
+Not Applicable 
+Date of “in-country” disclosure 
+Not Applicable 
+Date of submission to InfoShop 
+Not Applicable 
+Page  5
+If in-country disclosure of any of the above documents is not expected, please explain 
+why. 
+ 
+Section III 
+–
+Compliance Monitoring Indicators at the Corporate Level 
+(To be filled in when the ISDS is finalized by the project decision meeting) 
+OP/BP 4.01 - Environment Assessment:
+ 
+Yes
+Does the project require a stand-alone EA (including EMP) 
+report? 
+ 
+If yes, then did the Regional Environment Unit review and 
+approve the EA report? 
+ 
+Are the cost and the accountabilities for the EMP 
+incorporated in the credit/loan? 
+ 
+OP/BP 4.04 - Natural Habitats: 
+ No
+Would the project result in any significant conversion  or 
+degradation of critical natural habitats? 
+ 
+If the project would result in significant conversion or 
+degradation of other (non-critical) natural habitats, does the 
+project include mitigation measures acceptable to the Bank?
+OP 4.09 - Pest Management: 
+ No
+Does the EA adequately address the pest management 
+issues? 
+ (Not 
+applicable) 
+Is a separate PMP required? 
+ 
+ 
+If yes,  are PMP requirements included in project design? 
+ 
+ 
+Draft OP 4.11 (OPN 11.03) - Cultural Property: 
+ No
+Does the EA include adequate measures? 
+ 
+(Not applicable) 
+Does the credit/loan incorporate mechanisms to mitigate the 
+potential adverse impacts on physical cultural resources? 
+ 
+OD 4.20 - Indigenous Peoples: 
+ No
+Has a separate indigenous people development plan been 
+prepared in consultation with the Indigenous People? 
+ (Not 
+applicable) 
+If yes, then did the Regional Social Development Unit 
+review and approve the plan? 
+ 
+If the whole project is designed to benefit IP, has the design 
+been reviewed and approved by the Regional Social 
+Development Unit? 
+ 
+OP/BP 4.12 - Involuntary Resettlement: 
+ No
+Has a resettlement action plan, policy framework or policy 
+process been prepared? 
+ (Not 
+applicable) 
+If yes, then did the Regional Social Development Unit 
+review and approve the plan / policy framework / policy 
+process? 
+ 
+OP/BP 4.36 
+–
+Forests: 
+ No
+Has the sector-wide analysis of policy and institutional 
+issues and constraints been carried out? 
+ (Not 
+applicable) 
+Does the project design include satisfactory measures to 
+ 
+ 
+Page  6
+overcome these constraints? 
+Does the project finance commercial harvesting, and if so, 
+does it include provisions for certification system? 
+ 
+OP/BP 4.37 - Safety of Dams: 
+ No
+Have dam safety plans been prepared? 
+ 
+(Not applicable) 
+Have the TORs as well as composition for the independent 
+Panel of Experts (POE) been reviewed and approved by the 
+Bank? 
+ 
+Has an Emergency Preparedness Plan (EPP) been prepared 
+and arrangements been made for public awareness and 
+training? 
+ 
+OP 7.50 - Projects on International Waterways: 
+ No
+Have the other riparians been notified of the project? 
+ 
+(Not applicable) 
+If the project falls under one of the exceptions to the 
+notification requirement, then has this been cleared with the 
+Legal Department, and the memo to the RVP prepared and 
+sent? 
+ 
+What are the reasons for the exception? 
+ 
+ 
+Please explain: 
+ 
+ 
+Has the RVP approved such an exception? 
+ 
+ 
+OP 7.60 - Projects in Disputed Areas
+:
+No
+(Not applicable)
+Has the memo conveying all pertinent information on the 
+international aspects of the project, including the 
+procedures to be followed, and the recommendations for 
+dealing with the issue, been prepared, cleared with the 
+Legal Department and sent to the RVP? 
+ 
+Does the PAD/MOP include the standard disclaimer 
+referred to in the OP? 
+ 
+BP 17.50 - Public Disclosure: 
+Yes
+Have relevant safeguard policies documents been sent to 
+the World Bank's Infoshop? 
+ 
+Have relevant documents been disclosed in-country in a 
+public place in a form and language that are understandable 
+and accessible to project-affected groups and local NGOs? 
+Yes
+All Safeguard Policies: 
+Yes
+Have satisfactory calendar, budget and clear institutional 
+responsibilities been prepared for the implementation of the 
+safeguard measures? 
+ 
+Have safeguard measures costs been included in project 
+cost? 
+Yes
+Will the safeguard measures costs be funded as part of 
+project implementation? 
+Yes
+Does the Monitoring and Evaluation system of the project 
+include the monitoring of safeguard impacts and measures? 
+Yes
+Have satisfactory implementation arrangements been 
+Yes
+Page  7
+agreed with the borrower and the same been adequately 
+reflected in the project legal documents? 
+Signed and submitted by:
+ Name
+Date
+Task Team Leader: 
+                         Bjorn Hamso 
+05/24/04 
+Project Safeguards 
+Specialist 1: 
+ 
+Project Safeguards 
+Specialist 2: 
+ 
+Project Safeguards 
+Specialist 3: 
+ 
+Approved by:
+ Name
+Date
+Regional Safeguards 
+Coordinator: 
+ 
+Ronald N. 
+Hoffer 
+05/24/04 
+Comments: 
+Sector Manager: 
+                     Peter D. 
+Thomson 
+05/24/04 
+Comments: 

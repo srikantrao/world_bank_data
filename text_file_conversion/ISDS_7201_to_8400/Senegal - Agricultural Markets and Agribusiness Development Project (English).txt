@@ -1,348 +1,595 @@
 Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
  
+I.  Basic Information
  
-INTEGRATED SAFEGUARDS DATA SHEET 
-CONCEPT STAGE 
-Report No.:  AC557 
+Date prepared/updated:  06/24/2005 
+Report No.:  AC1449
+1. Project Statistics  
  
- 
-Date ISDS Prepared/Updated: January 12, 2004 
- 
-I.  BASIC INFORMATION 
- 
-A.  Basic Project Data 
- 
-Country: Senegal 
-Project ID: P083609 
-Project Name: Agricultural Markets and Agribusiness 
-De 
-Task Team Leader: El Hadj Adama Toure 
-Estimated Appraisal Date: October 20, 2004 
-Estimated Board Date: March 24, 2005 
-Managing Unit: AFTS4 
-Lending Instrument: Adaptable Program Loan 
-Sector: Agricultural marketing and trade 
-(50%);Irrigation and drainage (35%);Agro-industry 
-(15%) 
-Theme: Rural markets (P);Rural services and 
-infrastructure (S);Rural non-farm income generation 
-(S);Trade facilitation and market access (S) 
-Safeguard Policies Specialists in the task team: Serigne Omar Fye (Safaguards); Demba Balde (Social 
-Development) 
-Loan/Credit amount ($m.):  
-IDA: 25 
+Country:  Senegal 
+Project ID:  P083609 
+Project Name:  Agricultural Markets and Agribusiness Development Project 
+Task Team Leader:  El Hadj Adama Toure 
+Estimated Appraisal Date: June 25, 2005 
+Estimated Board Date: November 17, 2005 
+Managing Unit:  AFTS4 
+Lending Instrument:  Adaptable Program 
+Loan 
+Sector:  Agricultural marketing and trade (50%);Irrigation and drainage (35%);Agro-
+industry (15%) 
+Theme:  Rural markets (P);Rural services and infrastructure (S);Rural non-farm income 
+generation (S);Trade facilitation and market access (S) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+35.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
 Other financing amounts by source:  
-($m) 
-Government of Senegal 
-5 
-EC: EUROPEAN DEVELOPMENT FUND (EDF) 
-15 
+ BORROWER/RECIPIENT 
+6.15 
+ 
 FRANCE: FRENCH AGENCY FOR DEVELOPMENT 
-8 
- 
- 
-B.  Project Objectives [from section 3 of PCN] 
-The program aims at creating the conditions for rapid agricultural growth, driven by greater 
-competitiveness in domestic and export markets. Achievement of the above objective would be reflected 
-in: (a) an increase in the volume and value of agricultural exports; (b) higher market shares in domestic 
-markets for agricultural products; ; and (c) greater product  diversification and higher producer incomes in 
-the project areas.   
-The above objectives would be achieved through the following three set of activities : (i) the promotion of 
-highest value added crops in The Niayes area around the Dakar markets where the costs of land, labour 
-and water are increasing rapidly; (ii) the development of private irrigation to support the extension of 
-commercial agriculture in the SRV area; (iii) the revitalization of the groundnut sector and the 
-modernization/diversification of production in the broader GNB. 
- 
-C.  Project Description [from section 4 of PCN] 
-With the exception of the Agricultural  exports promotion project (PPEA), The two main Bank operations 
-currently supporting the rural sector in Senegal use the CDD approach. These are the Ag. Services Project 
-(PSAOP) which focuses on improving the capacities of producer organizations and their access to key 
-agricultural services; and the National Rural Infrastructure Program (PNIR) which aims at improving the 
-access of rural populations to basic services.  
-The proposed project would represent a natural complement to the above capacity building and 
-institutional reform efforts. Its emphasis would be primarily on agribusiness development and the scaling 
-up of the successfully tested agricultural export promotion strategies through PPEA. It would target 
-upstream production conditions, in particular quality aspects, and downstream market opportunities for 
-major commercial crops. It would focus its interventions on key bottlenecks along the production and 
-marketing chains of the selected agricultural products. 
+10.20 
+ LOCAL 
+FARMER 
+ORGANIZATIONS 
+6.00
+22.35 
+Environmental Category: B - Partial Assessment 
+Simplified Processing 
+Simple [] 
+Repeater [] 
+Is this project processed under OP 8.50 (Emergency Recovery) 
+Yes [ ] 
+No [ ] 
+2. Project Objectives 
+Program long term patterns. The long-term objectives of the overall Agribusiness and 
+Agricultural Markets Development (AgMARKETS) Program are to  increase non-
+traditional agricultural exports from the current level of 13,000 tons to 50,000 tons, and 
+double participant producer revenues by the end of the program in 2015.  Specifically, the 
+program would: (i) rationalize and improve domestic markets of crops and animal 
+products; (ii) promote and expand exports of higher value-added, non-traditional 
+agricultural exports (i.e., horticultural products, essential oils, spices, and processed 
+foods) in the Niayes areas where the costs of land, labor and water are increasing rapidly; 
+(iii) develop private irrigation to support the expansion of commercial agriculture in the 
+Senegal River Valley; (iv) revitalize the confectionery groundnut sector and support 
+activity modernization in the broader Groundnut Basin, and (v) improve the collection 
+and commercialization of fruits and cashew nuts in the Casamance region. The Program 
+will rely on beneficiary participation and buy-in to design, implement, and monitor its 
+activities through a supply chain approach. The program cost is estimated $150.0 million 
+over the ten years.  
 Page  2
+AgMARKETS Program Phasing  
  
+The first five-year phase of the program aims to increase agricultural exports from 
+13,000 tons to 30,000 tons, with a 60 percent increase in producer revenues by the end of 
+the first phase in 2010. It will deal with major constraints that hinder sectoral 
+development in the shorter term and initiate building blocks for longer term development 
+prospects. The first phase of the program would: (a) build on achievements of the pilot 
+operation and emphasize institutional capacity building; (b) develop human resources for 
+quality management, (c) establish public-private partnership institutions for effective 
+management of the sector, and (d) define and test infrastructure and business models for 
+sustainable competitiveness both in the domestic markets and for export. The primary 
+intervention areas would be in the traditional export region of the Niayes, the promising 
+Senegal River Delta and part of the Groundnut Basin.  In addition, some pilot activities 
+would be carried out in other regions, in particular in Casamance, the eastern regions and 
+the Senegal River Valley. The first phase cost is estimated at US$57.3 million for which 
+the Government is requesting $35.0 million from IDA.  
  
+The second five-year phase of the program would expand on the results achieved in the 
+first phase, and consolidate the institutional framework activities for agricultural export 
+promotion (Fondation Origine S?n?gal in particular).  Building on the successes of the 
+first phase, the second phase would expand the approach to other supply chains and to 
+other regions of the country.  Emphasis would be put on: (i) restructuring the irrigation 
+system in the Niayes areas with water supply and management system independent from 
+the potable water distribution system, (ii) expansion of successful small scale irrigation 
+models notably in the broader Groundnut Basin, (iii) development of public infrastructure 
+in support of private investment in the Senegal River Valley, and (iv) support to market 
+facilities development in the Casamance.  The cost of the second phase is estimated at 
+US$92.7 million.  
  
-A
-. Component 1:  Enhanced agricultural Exports promotion (US$ 15 millions).
+The triggers from moving from the first to the second phase are as follows:  
  
-this 
-component would help Senegal realize a significant share of its potential for agricultural exports. For the 
-fruit and vegetable alone, this potential is estimated at 50,000MT annually compared to 10,000MT 
-currently. This objective would be achieved through the following activities: (i) provision of institutional 
-support to private sector operators through the 
-‘Fondation Origine Sénégal’
- ; (ii) facilitation of product 
-diversification,  access to new technologies, and the opening of new markets through the provision of 
-matching grant funds; (iii) implementation of a national Quality Management and Certification System 
-for export products; (iv) promotion of private investment in agricultural export; and (v) development of 
-collective infrastructure and provision of support services  to promote post-harvest and export activities. 
+.
+The Fondation Origine Senegal- Fruits & Legumes has been created and endowed with 
+the horticultural export-related soft and physical assets developed under the  pilot project 
+(PPEA);  
  
-B. Component 2:  Development of distribution networks and support to agribusiness SMEs 
-(US$ 15 millions
-).  
-Under this component, the project would seek to modernize the distribution systems 
-for commercial crops and livestock products,  and significantly improve food safety standards in domestic 
-markets.  The activities would include: (i) preparation and implementation of a national master plan for 
-the development of rural and urban distribution systems (ii) the upgrading and expansion of agriculture 
-marketing facilities and services and feeder roads in major rural towns; (iii) the promotion of the use of 
-new communication technologies for market information and transactions; (iv) the assistance to 
-agribusiness trade associations (Interprofessions) involved in the marketing and export of agricultural 
-products; and (v) support to small and medium agro-industries in the areas of R&D and processing 
-technologies, active market assessment and penetration, quality management, packaging, and business 
-development. 
+.
+Infrastructures and facilities created or upgraded with project support are under private 
+management;  
  
-C. Component 3:  Promotion of private irrigation and agricultural diversification (US$ 20 
-millions).
+.
+O&M costs for irrigation infrastructures are recovered by at least 90%.   
  
+3. Project Description 
+The components of the project are as follows:  
  
-This component seeks to strengthen and broaden the supply base for agriculture products. For 
-that purpose it would develop  an effective incentive and support framework to encourage investment in 
-irrigation infrastructure by small farmers and agribusiness enterprises. The following set of activities 
-would be carried out: (i) evaluation of the potential for small scale irrigation in the targeted areas; (ii) 
-support public and collective investment in basic irrigation infrastructure in order to motivate private 
-sector investment in irrigated agriculture; (iii) assistance for introduction and adoption of new irrigation 
-technologies; (iv) provide technical support services to rise the efficiency of production and encourage 
-diversification in the project areas.
+Component A: Improving domestic marketing conditions (US$10.8M) would support 
+the modernization of the distribution channels of crop and livestock products, and 
+improve food safety in local markets. The target beneficiaries are producers and producer 
+associations, trade associations, local authorities, agro-industries and small and medium 
+sized enterprises (SME) engaged in crop and livestock agribusiness. This component 
+comprises three sub-components:  
  
- 
-D. Component 4:  Project Coordination and M&E (US$ 3 millions).
- 
-The implementation of 
-project activities would be contracted out to  appropriate public or private entities, whenever possible.  
-However, a small central coordination unit (PCU), with two regional operational offices in the Groundnut 
-Basin and Senegal River Valley, would be in charge of coordinating project implementation.   More 
-specifically, the unit would coordinate and consolidate the annual work plans and budgets and oversee the 
-financial management, procurement, as well as monitoring and evaluation activities of all the executing 
-agencies. The unit would be assisted by an international firm in the distribution and export of agricultural 
-products, whose experts would work under the supervision of the coordinator of the unit.  The final 
-institutional arrangements would be finalized by the appraisal phase. 
- 
-D.  Project location (if known) 
- 
-Project will be implemented throughout Senegal
-. 
- 
-E.  Borrower’s Institutional Capacity for Safeguard Policies [from PCN] 
- 
+Subcomponent A1 - Domestic supply chains consolidation would focus on assessing 
+market demand (due diligence review) of selected supply chains (onion, banana, meats 
+and poultry, oil nuts, processed foods including high quality rice); assisting enterprises to 
 Page  3
+design well-defined Business Development Projects (sub-projects) that link producers 
+through contract farming to market operators in agro-processing and domestic 
+distribution channels; and assisting eligible enterprises to implement their sub-projects--
+through a matching grant that emphasizes technical assistance and support to strengthen 
+capacity of outgrowers and their organizations.  
  
+Subcomponent A2 - Rural market infrastructure would upgrade infrastructure of key 
+mid-level rural consolidation markets (including Dahra and Diaobe); develop 
+concepts/blue prints and innovative management systems for collective facilities for 
+handling commercial crops and livestock products; and promote better quality of services 
+in such facilities. For demonstration purposes, the project would build a limited number 
+of such facilities.  
  
-The Government of Senegal is familiar with the Banks Safeguard Policies, based on experience with other 
-bank funded projects, in which the Government successfully met the requirements of these policies. 
-Examples of recent projects in different sectors are; The Agricultural Services and Producer 
-Organizations Project, The National Rural Infrastructure Project, The Energy Sector Investment Project 
-and the Agricultural Export Promotion Project,  to list a few. 
+Subcomponent A3 - Knowledge management would develop and implement a 
+marketing and communication strategy to generate and disseminate domestic market 
+knowledge and information; support training of actors to improve agribusiness practices 
+in domestic markets; and help establish improved quality management, grading and 
+certification tools in domestic markets.  
  
-Specifically, with regards this project, the Government is negotiating a grant from Canadian CIDA and a 
-PPF with the Bank, to ensure timely preparation of all safeguard instruments. The Government therefore, 
-intends to apply part of these funds towards eligible payments to meet the cost of preparing the 
-Environmental and Social Management Framework (ESMF), the Resettlement Policy Framework (RPF) 
-and the Dam Safety Measures Report required of it, by the triggered policies. ( see later sections below). 
+Component B: Development of Agricultural Exports (US$17.6M) would expand non-
+traditional agricultural exports (i.e., horticultural products, confectionary nuts, essential 
+oils and spices, and processed foodstuffs) with an emphasis on beneficiaries? 
+participation.  The beneficiaries are producers, exporters, their associations and the to be 
+created Fondation Origine Senegal (FOS). This component comprises three sub-
+components.  
  
-Furthermore, the Ministry of Environment, will in line with its mandate, review and clear all safeguard 
-documents for the Government and will be play a monitoring role during project implementation. 
+Subcomponent B1 -  Innovation and quality management will cover the following 
+activities (i) disseminate mechanisms developed under PPEA to consolidate produce and 
+market diversification and promote investment through technological, financial, and 
+commercial partnership with special focus on small exporter/family farmers engaged in 
+contract farming ; (ii) create innovation centers in key locations by upgrading existing 
+agricultural services centers; (iii) establish a national management and quality 
+certification system (to enhance the traceability of export products and compliance with 
+international norms, such as EurepGAP); and (iv) promote quality norms adapted to 
+small out-growers? circumstances (referentiel paysan Senegal or SeneGAP) to allow 
+them to profitably participate in global supply chains.  
  
-II.  SAFEGUARD POLICIES THAT MIGHT APPLY 
+Subcomponent B2 - Agricultural export infrastructure would develop: (i) collective 
+post-harvest infrastructure and services (e.g., simplified warehousing/packaging/cold 
+storage facilities at farmegate level) in key locations, (ii) a dry port and a management 
+system for the Saint-Louis Agropole (a multipurpose storage, refrigeration, and 
+processing facility in Pal, outside Saint-Louis), and (iii) rehabilitate a container 
+handling/freight facility area at the port of Dakar on about 10,000 sq m.  
  
-Applicable?
+Subcomponent B2  - Building agricultural export institutions would consist of  support 
+to capacity building activities for producers/exporters? associations and assistance for 
+establishing the Foundation Origine Senegal; monitoring and evaluation, and knowledge 
+dissemination (through market intelligence and an integrated and dynamic database); and 
+agricultural export benchmarking of practices and costs in key supply chains.  
  
-Safeguard Policy 
-If Applicable, How Might It Apply? 
-[x] 
-Environmental Assessment
- (
-OP
-/
-BP
- 4.01) 
- 
-The project will finance the construction of agricultural related infrastructure, in 
-pursuance of its project development objectives. These facilities are likely to be post 
-harvest warehouses/storage, feeder roads, rural markets and small scale irrigation. To 
-successful identify and manage potential adverse impacts on the environment from project 
-funded activities such as these, the Government will prepare an ESMF, for disclosure in 
-Senegal and will submit it to the Bank for disclosure at the Infoshop, prior to Bank 
-appraisal of this project.
- 
-[ ] 
-Natural Habitats
- (
-OP
-/
-BP
- 4.04) 
- 
-To be determined.
- 
-[x] 
-Pest Management
- (
-OP 4.09
-) 
- 
-The project will not finance directly or otherwise, the purchase of fertilizers or other 
-inputs .But the development of intensive agriculture through the project activities may 
-lead to an increase on use of such inputs. Senegal has set up a national strategy on pest 
-management and is currently implementing a countrywide IPM program with the 
-assistance of FAO. Furthermore, it was demonstrated that the Bank-supported  Ag. Export 
-promotion Project contributed substantially to increasing Good agricultural practices 
-(BPA) amongst export crop growers. The new project will hand over and broaden the 
-Quality management activities  initiated through PPEA.
- 
-[x] 
-Involuntary Resettlement
- (
-OP
-/
-BP
- 4.12) 
- 
-Project beneficiaries will avoid where possible adverse impacts on people, land and other 
-economic resources and on livelihoods. In situations where this cannot be avoided, the 
-Government will prepare a Resettlement Policy Framework (RPF), to address the needs of 
-people who will be affected by loss of economic activities, land acquisition and/or 
-relocation. The RPF will be disclosed in Senegal, and submitted to the Bank for disclosure 
-at the Infoshop, prior to Bank appraisal of this project.
- 
-[ ] 
-Indigenous Peoples
- (
-OD 4.20
-) 
- 
-This policy does not apply.
- 
-[ ] 
-Forests
- (
-OP
-/
-BP
- 4.36) 
- 
-This policy does not apply.
- 
-[x] 
-Safety of Dams
- (
-OP
-/
-BP
- 4.37) 
- 
-As the project will finance small scale irrigation infrastructure such as small/micro dams 
+Component C: Development of Private Irrigation (US$17.8M) would promote demand-
+driven, pro-poor, investments in irrigation to support the expansion of agribusiness.  It 
+would include three subcomponents.  
 Page  4
+Subcomponent C1  - Support to diversification and private irrigation  in the Senegal 
+River Delta would build critical public infrastructures needed to support the development 
+of innovative irrigation schemes for crop diversification by private small farm-families 
+and large entrepreneurs, thus providing incentives for private investment and support to 
+family sized irrigation models. The project will also support local governments in 
+administration and land management to secure better private investment. This would be 
+provided through donor funding from France.  
  
+Subcomponent C2 -Promoting small-scale irrigation in the Groundnut Basin. This 
+activity would promote the use of excess water from existing village boreholes and small 
+water-catchments dams (basins de retention) for small farm-families to diversify 
+production away from traditional groundnut production. Test on adaptable technologies 
+will be carried out in the first two years of the project before expanding the most 
+successful models.  
  
-and other water retaining infrastructure, the Government will prepare a Dam Safety 
-Measures report, to ensure that such facilities are designed,  built/rehabilitated, operated 
-and maintained safely and to ensure that a suitable emergency/disaster response regime 
-that secures life and property, is in place. The Dam Safety Measures report, will also be 
-disclosed in Senegal, and sent to the Bank for disclosure at the Infoshop, prior to Bank 
-appraisal of this project.
+Subcomponent C3 - Strategic Studies and knowledge management. The project will 
+assist the country in assessing potential opportunities and constraints and define a 
+strategy for rapid irrigation development as part of the preparation of the second phase of 
+the project. Strategic and implementation studies will be carried out for Niayes areas and 
+a
+master plan will be elaborated for the Lac de Guiers area, and other regions (Senegal 
+upper-middle valley and Casamance).  The project will introduce new irrigation 
+technologies and production models (including tree crop-based models) which will be 
+closely monitored and evaluated prior to scaling up in the second phase. These regional 
+strategic studies for irrigation development will also include strategic environmental 
+assessment.  
  
-[ ] 
-Cultural Property
- (draft OP 4.11 - 
-OPN 11.03
-) 
+Activities under Components A and B would be funded through matching grants.  The 
+implementation manual of the pilot Agricultural Export Promotion Project will be 
+updated accordingly to reflect the new design.  Under Component C an incentive fund 
+(aide imitative) for small farmers would be made available. The Project would also 
+collaborate with IFC and local banks to facilitate access to capital for foreign investors 
+and local producer associations as well as small and medium agribusinesses.  
  
-This policy does not apply.
+Component D: Project Coordination and M&E (US$4.05M) would be contracted out, 
+whenever possible, to appropriate public or private entities to implement project 
+activities. However, a small central Project Coordination Unit (PCU), with two regional 
+offices in the Groundnut Basin and Senegal River Valley, would be responsible for 
+overall project coordination and implementation. More specifically, the PCU would 
+coordinate and consolidate the annual work plans and budgets and oversee the financial 
+management, procurement, as well as monitor and evaluate activities of all the other 
+implementing agencies. An international firm (Market Integrator) experienced in the 
+distribution and export of agricultural products would assist the unit, under the 
+supervision of the unites coordinator.  
  
-[ ] 
-Projects in Disputed Areas
- (
-OP
-/
-BP
-/
-GP
- 7.60)
-*
+Under this component, the project would finance:  (i) staff and operating costs of the 
+PCU and supplemental costs incurred due to project activities carried out by the regional 
+executing agencies; (ii) technical assistance provided by the Market Integrator Firm, and 
+local consultants on specific issues (technical, legal etc), and audits; and (iii) equipment, 
+software and consultant services, cost of M&E including the information and 
+communication systems, monitoring safeguards and social impacts, and the mapping of 
+outgrowers and service providers in the project areas.   
+Page  5
+4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis 
+AgMARKETS Program will be implemented throughout Senegal, with a focus on the 
+Niayes areas, Senegal river Delta and the Groundnut Basin in the project phase.  
  
+The Groundnut Basin (GB) . The GB covers 64.093 km2 which coincide barely with 
+administrative region of Thies, Diourbel, Fatick, Kaolack and the south-eastern part of 
+Louga region. It is characterized by a Sahelian-type climate with rainfall varying from 
+200 mm to 900 mm, and proceeding into 3 to 4 months even 5 months in south-eastern 
+zone. Surface water resources are limited both in volume and quality. But the GB shelters 
+two important groundwater reserves: the Eocene-Paleocene intermediate aquifer and the 
+deep Maestrichtien with roofs at 80 and 350 m depth respectively.  There are many 
+potential sites for small catchments (basin de retention) which present real potentialities 
+for development of irrigation. Extensive groundnut cropping and herding, combined with 
+chronic rainfall deficit accelerated wind erosion which resulted in environmental 
+degradation (soil, flora, fauna etc). Development of pastoral boreholes over the last two 
+decades contributed to worsen the situation.  A strategic environmental assessment 
+including a groundwater monitoring program will be done by the end of the program first 
+phase  and before scaling up promising irrigation/farm models in the second phase.  
  
-This policy does not apply.
+Niayes. It corresponds to a band of coastal land band from Dakar through the south of 
+the Senegal River Delta. It lengthens on more than 180 km on a 10-30 km depth, across 
+the regions of Dakar, Thies, Louga and Saint-Louis. Its Canarian-type  climate, the 
+availability of an leveling aquifer, access to various services with the proximity of Dakar, 
+make the Niayes the  most important horticultural and production and exporting area of 
+the country. However, pressure on water resource from agricultural and activities and 
+industries, and for potable water, land scarcity resulting from a fast urbanization threatens 
+the future of horticultural production in the Niayes, and this its particular wetland 
+ecosystem. Niayes are currently characterized by: imbalance between water usage and 
+low capacities of renewal of the water table; the deterioration of the quality of water 
+because of salinization and nitratation , the pollution induced by the excessive use of 
+manure and pesticides, and contamination by the domestic effluents. Technical solutions 
+are under investigation with support of the Long Term Water Supply Project which is 
+projecting the disconnection of the irrigation supply system from drinking water network 
+which would be fed from the Lac de Guiers once ongoing works will be completed.  
  
-[x] 
-Projects on International Waterways
- (
-OP
-/
-BP
-/
-GP
+The Delta of the Senegal River (SRV). It constitutes one wide strip from 10 to 25 km 
+along the river Senegal from Saint-Louis to Bakel. It cut across the administrative regions 
+of  of Saint-Louis, Matam and Tambacounda. The hydrographic network is consisted of 
+the Senegal river itself, and its various branches. The Delta system is composed of the 
+Lac de  Guiers, Djeuss, Gorom and Lampsar. With the construction of Diama (Senegal) 
+and of Manantali (Mali), the surface water potential is important in SRV. This water is 
+however threatened by pollution and the harmful effects of industrial wastes. Major 
+development constraints in this area are: salinization that limits  utilization of the table 
+water, with low depth and which tends to go up quickly under the effect of the irrigation; 
+erosive effects of the winds which involve a important soil degradation; poor access to 
+capital for farmers to invest in systems and mining methods which preserves natural 
+resources; the presence of many users, inducing a strong competition on water resource; 
+Page  6
+the presence of many spontaneous irritants for rice cropping, without connection to the 
+drainage networks which cause important water discharges on water table.   
+ 
+5. Environmental and Social Specialists on the Team 
+Ms Yvette Laure Djachechi (AFTS3) 
+Mr Robert A. Robelus (AFTS1) 
+ 
+6. Safeguard Policies Triggered
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+X
+Natural Habitats (OP/BP 4.04) 
+X
+Forests (OP/BP 4.36) 
+ X 
+Pest Management (OP 4.09) 
+X
+Cultural Property (OPN 11.03) 
+X
+Indigenous Peoples (OD 4.20) 
+ X 
+Involuntary Resettlement (OP/BP 4.12) 
+X
+Safety of Dams (OP/BP 4.37) 
+X
+Projects on International Waterways (OP/BP
  
 7.50) 
+X
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts: 
+Irrigation Infrastructures. The direct impacts associated with irrigation canals would be 
+waterborne diseases (bilharzia, malaria) and infestation with aquatic weeds (Salvinia, 
+Typha, Eichhornia). Infestation by Typha creates habitat for grain-eating birds (Quelea 
+quelea) that could devastate rice production. Irrigated agriculture could also lead to soil 
+salinization and water pollution by fertilizers and pesticides. Poor water quality has been 
+blamed for cattle deaths. Current water management in natural depressions (cuvettes) is 
+less than optimal for recession agriculture, for irrigating pastures and for inundating fish 
+reproduction zones. Associated to this, excess water that has been diverted away from the 
+cuvettes causes flooding risk in irrigation fields, villages and towns. The recent breach of 
+the Langue de Barbarie has negative effects on agricultural production in the Delta and 
+the Lac de Guiers.  
  
-The Government will notify its fellow Riparian in compliance with its membership 
-responsibilities of River Basin Commissions/Authorities and consistent with this policy, 
-prior to Bank appraisal of this project.
+Safety of Dams. The project will not finance any new or rehabilitate dams. However 
+irrigated areas in the Senegal river delta will use water provided from the Manantali and 
+the Diama dams. The AgMARKETS project will collaborate with the Senegal River 
+Basin Multipurpose Water Development Project to ensure that appropriate dam safety 
+measures are being applied by the OMVS (Organisation pour la Mise en Valeur du fleuve 
+Senegal). (Safety of Dams (OP/BP 4.37).  
  
+Other infrastructures that the project would develop include post harvest 
+warehouses/storage, rural markets facilities, slaughter-houses. It is likely that 
+environmental impact of the project would be limited given that:  (i) the targeted areas in 
+the first phase are limited  to the Niayes region, the upland lower Delta, and and part of 
+the Groundnut Basin, and (ii) technologies that will be used for irrigation and markets 
+Page  7
+facilities are environmentally friendly.  However, as these infrastructures are defined, the 
+Government will address potential impacts following the Environmental and Social 
+Management Framework (ESMF, that has been prepared by the government for 
+disclosure in Senegal and will submit it to the Bank for disclosure prior to Bank appraisal 
+of this project. Specific EA will be done for each infrastructure investment once known.  
  
+Pest Management and pesticides. The project will not finance directly or otherwise, the 
+purchase of limited quantity of fertilizers, pesticides or other inputs for demonstration 
+activities. But the development of intensive agriculture through the project activities may 
+lead to an increase on use of such inputs. A PMP is required for disclosure along the 
+ESMF.  
  
-Environmental Assessment Category:
-    
-[X ] A   [ ] B   [ ] C   [ ] FI   [ ] TBD (to be determined) 
+Social inclusion: development of agribusiness in Senegal with increasing foreign direct 
+investments may lead to a concentration within the sector to the expenses of 
+smallholders. In addition, although agribusiness- notably horticultural export? has 
+demonstrated net positive effects on women, their working condition in exporting farms 
+and packing houses are far from the business international standards.  
  
-If TBD, explain determinants of classification and give steps that will be taken to determine that EA category 
-(mandatory): 
+Involuntary resettlement: Project will avoid, when possible, adverse impacts on people, 
+land and other economic resources and on livelihoods. It is not known whether people 
+will be affected or not. The Government is preparing a Resettlement Policy Framework 
+(RPF), and if needed, a resettlement action plan will be elaborated during project 
+implementation.   
  
-III.  SAFEGUARD PREPARATION PLAN 
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+The key issues raised by the project are the potential impacts in the Senegal River Delta 
+of project-supported infrastructure on waterways, floodplains and wetlands With 
+development of irrigation infrastructure in the Senegal River Delta, the cultivated areas 
+could also expand beyong the project scope and encroach on protected areas (e.g. 
+Reserve Speciale de Faune du Ndiael and Reserve Sylvo-Pastorale du Ferlo) and breach 
+local laws and international agreements, e.g., the Ramsar Convention. The project should 
+comply with relevant safeguards policies and specific environmental assessment done for 
+each infrastructure once known.   
  
-A. 
-Target date for the Quality Enhancement Review (QER), at which time the PAD-stage ISDS would be prepared. 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts. 
+N/A   
  
-The PCN QER is scheduled for mid-June2004.  
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide 
+an assessment of borrower capacity to plan and implement the measures described. 
+The Government of Senegal is familiar with the Bank Safeguard Policies, based on 
+experience with other bank funded projects, in which the Government successfully met 
+the requirements of these policies. Examples of recent projects in different sectors are; 
+The Agricultural Services and Producer Organizations Project, The National Rural 
+Infrastructure Project, The Energy Sector Investment Project and the Agricultural Export 
+Promotion Project,  to list a few.  
  
-B. 
-For simple projects that will not require a QER, the target date for preparing the PAD-stage ISDS 
+Page  8
+Specifically, with regards this project, the Government has prepared a Environmental 
+and Social Management Framework (ESMF) including an Environmental and Social 
+Management Plan (ESMP), a Pest and Pesticides Management Plan (PMP), a 
+Resettlement Policy Framework (RPF) and a Guideline for Environmental norms to be 
+consider for irrigation infrastructures. In addition, the Referentiel Quality prepared under 
+the pilot Ag. Export Promotion project provides a comprehensive approach for dealing 
+with international standards such as EurepGAP for horticultural exports.  
  
-C. 
-Time frame for launching and completing the safeguard-related studies that may be needed.  The specific 
-studies and their timing
-1
- should be specified in the PAD-stage ISDS. 
+Furthermore, the National Environment Commission under the Ministry of 
+Environment, in line with its mandate has cleared all safeguards document on June 17, 
+2005, and documents have been largely disclosed within country and sent to Infoshop for 
+disclosure on June 22, 2005.  
  
-The ESMF, RPF and Dam Safety measures report will be prepared, approved and disclosed in Senegal by 
-the Government and sent to the Bank for disclosure at the info shop by end September 2004. 
+The ESMF made recommendations on institutional arrangements and additional 
+resources needed for monitoring and implementing safeguards. An Environmental and 
+Social Evaluation Specialist will be recruited as a core staff of the Project Coordination 
+Unit, and safeguards focal points will be designated in each implementing agency.   
  
-IV.  APPROVALS 
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+The key stakeholders are the direct beneficiaries (producers and exporters and their 
+associations), the "Communautes Rurales" (rural communes) in project areas, 
+agribusiness enterprises and service providers, NGO and the project implementing 
+agencies (SAED, ANCAR) and technical partners, (Ministry  of Livestock, Ministry of 
+Commerce, Direction du Genie Rural, APIX), and NGOs. The ESMF, the RPF, and Pest 
+Management Plan have been sent to the project partner-institutions and stakeholders, 
+strategic information center including universities, NGO confederation (CONGAD). 
+They also have been disclosed in daily news and the project website www. 
+iflexsenegal.org, and sent to InfoShop for disclosure.   
+ 
+B. Disclosure Requirements Date
+ 
+Environmental Assessment/Audit/Management Plan/Other: 
+Date of receipt by the Bank 
+06/06/2005 
+ 
+Date of "in-country" disclosure 
+06/22/2005 
+ 
+Date of submission to InfoShop 
+06/22/2005 
+ 
+For category A projects, date of distributing the Executive 
+Summary of the EA to the Executive Directors 
+ 
+Resettlement Action Plan/Framework/Policy Process: 
+Date of receipt by the Bank 
+06/07/2005 
+ 
+Date of "in-country" disclosure 
+06/22/2005 
+ 
+Date of submission to InfoShop 
+06/22/2005 
+ 
+Pest Management Process: 
+Date of receipt by the Bank 
+06/06/2005 
+ 
+Date of "in-country" disclosure 
+06/22/2005 
+ 
+Page  9
+Date of submission to InfoShop 
+06/22/2005 
+ 
+Safety of Dams: 
+Date of receipt by the Bank 
+ 
+N/A 
+Date of "in-country" disclosure 
+ 
+N/A 
+Date of submission to InfoShop 
+ 
+N/A 
+*
+If the project triggers the Pest Management, Cultural Property and/or the Safety 
+of Dams policies, the respective issues are to be addressed and disclosed as part of 
+the Environmental Assessment/Audit/or EMP. 
+If in-country disclosure of any of the above documents is not expected, please 
+explain why: 
+Safety of Dams: The issue will be taken up by OMVS with the Senegal River Basin 
+Multipurpose Water Development Project under preparation with the Bank support.   
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the 
+ISDS is finalized by the project decision meeting) 
+ 
+OP/BP/GP 4.01 - Environment Assessment 
+ 
+Does the project require a stand-alone EA (including EMP) report? 
+Yes 
+If yes, then did the Regional Environment Unit review and approve the EA 
+report? 
+Yes 
+Are the cost and the accountabilities for the EMP incorporated in the 
+credit/loan? 
+Yes 
+OP/BP 4.04 - Natural Habitats 
+ 
+Would the project result in any significant conversion or degradation of 
+critical natural habitats? 
+Yes 
+If the project would result in significant conversion or degradation of other 
+(non-critical) natural habitats, does the project include mitigation measures 
+acceptable to the Bank? 
+Yes 
+OP 4.09 - Pest Management 
+ 
+Does the EA adequately address the pest management issues? 
+Yes 
+Is a separate PMP required? 
+Yes 
+If yes, has the PMP been reviewed and approved by the regional safeguards 
+team?  Are PMP requirements included in project design?If yes, does the 
+project team include a Pest Management Specialist? 
+Yes 
+OPN 11.03 - Cultural Property 
+ 
+Does the EA include adequate measures related to cultural property? 
+Yes 
+Does the credit/loan incorporate mechanisms to mitigate the potential 
+adverse impacts on cultural property? 
+Yes 
+OP/BP 4.12 - Involuntary Resettlement 
+ 
+Has a resettlement plan, abbreviated plan, or process framework (as 
+appropriate) been prepared? 
+Yes 
+If yes, then did the Regional Social Development Unit review and approve 
+the plan / policy framework / policy process? 
+Yes 
+OP/BP 4.37 - Safety of Dams 
+ 
+Have dam safety plans been prepared? 
+Yes 
+Page  10
+Have the TORs as well as composition for the independent Panel of Experts 
+(POE) been reviewed and approved by the Bank? 
+Yes 
+Has an Emergency Preparedness Plan (EPP) been prepared and arrangements 
+been made for public awareness and training? 
+Yes 
+OP 7.50 - Projects on International Waterways 
+ 
+Have the other riparians been notified of the project? 
+Yes 
+If the project falls under one of the exceptions to the notification 
+requirement, has this been cleared with the Legal Department, and the memo 
+to the RVP prepared and sent? 
+No 
+What are the reasons for the exception?  Please explain: 
+No 
+Has the RVP approved such an exception? 
+No 
+BP 17.50 - Public Disclosure 
+ 
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+Yes 
+Have relevant documents been disclosed in-country in a public place in a 
+form and language that are understandable and accessible to project-affected 
+groups and local NGOs? 
+Yes 
+All Safeguard Policies 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities 
+been prepared for the implementation of measures related to safeguard 
+policies? 
+Yes 
+Have costs related to safeguard policy measures been included in the project 
+cost? 
+Yes 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures related to safeguard policies? 
+Yes 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+Yes 
+D. Approvals 
  
 Signed and submitted by: 
-  
+Name 
+Date 
 Task Team Leader: 
-El Hadj Adama Toure 
-March 11, 2004 
+Mr El Hadj Adama Toure 
+06/24/2005 
+Environmental Specialist: 
+Mr Robert A. Robelus 
+06/24/2005 
+Social Development Specialist 
+Ms Yvette Laure Djachechi 
+06/24/2005 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+ 
 Approved by: 
-  
+ 
 Regional Safeguards Coordinator: 
-Thomas Walton 
-Date 
-Comments 
+Mr Thomas E. Walton 
+06/24/2005 
+Comments:   
 Sector Manager: 
-Mary Barton-Dock 
-Date 
-Comments 
-                                                          
- 
-*
- 
-By supporting the proposed project, the Bank does not intend to prejudice the final determination of the parties' claims on the
- 
-disputed areas
- 
-1
- 
-Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the 
-InfoShop and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to potentially af
-fected 
-persons.
- 
- 
+Ms Mary A. Barton-Dock 
+06/24/2005 
+Comments:   

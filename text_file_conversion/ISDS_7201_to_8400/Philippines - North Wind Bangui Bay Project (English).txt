@@ -1,0 +1,738 @@
+Page  1
+Integrated Safeguards Data Sheet (ISDS) 
+Section I 
+–
+Basic Information                                                       report no. 31489 
+Date ISDS Prepared/Updated
+:
+January 10, 2005
+ 
+A. Basic Project Data  
+A.1. Project Statistics 
+Country:
+ 
+Philippines 
+Project ID:
+ P087464 
+Project:
+ NorthWind Bangui Bay Project  
+TTL:
+ Selina Shum 
+Total project cost (by component):
+ US$ 35 million 
+Appraisal Date: ../../.. 
+IBRD Amount ($m): 
+Board Date: ../../.. 
+IDA Amount ($m): 
+GEF Amount ($m): 
+PCF Amount ($m): 
+Miscellaneous Funds (specify….) ($m)
+:
+Managing Unit:
+ 
+EASEG 
+Sector:
+ Energy 
+Lending Instruments
+:
+PCF  
+Is this project processed under OP 8.50 (Emergency recovery)?
+ 
+[
+]Yes    [
+9
+]
+No 
+Environmental Category
+:
+B
+Safeguard Classification: 
+S2. 
+–
+One or 
+more safeguard policies are triggered, but 
+effects are limited in their impact and are 
+technically and institutionally manageable. 
+A.2. Project Objectives  
+ 
+Project Objectives 
+This Project will enhance both the quantity and reliability of power supply of the region 
+in an environmentally responsible manner.
+ 
+Developmental Objectives 
+As the first wind farm project in the Philippines, the Project will have a significant 
+demonstration effect in accelerating the commercialization of wind power, thereby 
+contributing to GOP’s goal for reducing the country’s dependence on imported energy 
+and broadening its resource base with an indigenous, inexhaustible and environmentally 
+desirable option. The Project will also contribute towards the global environment 
+objective of reducing greenhouse gas (GHG) emissions through the avoidance of diesel 
+power generation.  
+ 
+Page  2
+A.3. Project Description  
+The project is a 24.75 MW wind turbine power plant to be located in Bangui Bay, 
+Philippines, which is expected to produce 74.48 GWh of electricity annually. The project 
+is sponsored by NorthWind Power Development Corporation (NWPDC), a private 
+corporation incorporated in the Philippines. The electricity produced by the project will 
+be transmitted through a 50-km, 69kV overhead transmission line to a substation in 
+Laoag City. 
+ 
+The wind turbines are pitch regulated variable speed type or active stall turbines arranged 
+in a single row stretching 4 to 5 km along the shoreline. The turbines will have each 
+690/13.8kV step-up transformer and shall be grouped into three. The power from each 
+group will then be combined into one 13.8kV/69kV step-up transformer. The design calls 
+for asynchronous generators, utilizing microprocessor-based integrated electric 
+controllers. Power will be generated at 690V, 60 Hz and the turbines will be 
+synchronized to the national grid’s frequency. Revenue meters will be located at the 
+project’s outgoing circuits. 
+ 
+The overhead transmission line will be concrete, pole type with height ranging from 18 to 
+25 meters. The line will be installed over the existing 13.5 kV TL of Ilocos Norte Electric 
+Cooperative (INEC) and will comply with local and international standards.  
+ 
+The proponent has already signed an Electricity Sales Agreement with the local electric 
+utility, INEC. 
+ 
+A.4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis: 
+The wind farm (turbines and control facilities) will be located on a stretch of 9 km long, 
+100 m wide foreshore area which run east-west on Bangui Bay, Bangui, Ilocos Norte, on 
+the Northern tip of the island of Luzon. The foreshore area is an undeveloped, 
+uninhabited sandy beach area, devoid of any man-made improvements or structures. The 
+local residents used the area for occasional pebbles/gravel gathering and fishing. The 
+wind tower will be erected within the inter-tidal zone of the beach, occupying a 4-5 km 
+portion of the 9 km stretch foreshore area. 
+ 
+The 50 km 69kV overhead transmission as proposed will utilize the existing right-of-way 
+of the service line of INEC along the Bangui-Laoag City stretch of the national highway. 
+ 
+B. Check Environmental Category 
+A
+[
+], B [
+9
+], C [ ], FI [ ] 
+Page  3
+Comments
+:
+The environmental and social impacts of the project is expected to be benign, short term 
+or limited only during the construction period. The impacts will mostly be due to civil 
+works activities during construction.  
+ 
+Hence there will be very minimal impacts anticipated on residents and their livelihood. 
+There are no permanent human structures in the beach area. The nearest residential house 
+is about 200 m from the site. There is also no evidence of any thriving recreational 
+activity. Disruptions of the economic/livelihood activities including fishing, 
+pebbles/gravel gathering and grazing but these are expected to be minimal and temporary 
+as residents will continue to have access to the foreshore area during after construction 
+ 
+There may be short-term disturbance in the inter-tidal ecosystem, the immediate marine 
+environment, workers and nearby communities during the construction period.  Also, the 
+marine assessment conducted by the proponent reported the sighting of a juvenile green 
+sea turtle (
+Chelonia mydas
+), an endangered species, in the waters fronting one of the 
+villages hosting the project. Further study needs to be conducted to ascertain the presence 
+or absence of nesting sites within the wind farm area and, if present, determine their 
+population status so that proper protection and conservation measures can be 
+implemented by the proponent.
+ 
+C. Safeguard Policies Triggered 
+ 
+Yes         No       
+TBD 
+Environmental Assessment
+(OP/BP 4.01) 
+[ 
+9
+]
+[
+]
+[
+]
+Natural Habitats (OP/BP 4.04) 
+[
+9
+]
+[]  
+[
+]
+Pest Management (OP 4.09) 
+[ ] 
+[
+9
+]
+[
+]
+Cultural Property (draft OP 4.11 - OPN 11.03 -) 
+[ ] 
+[
+9
+]
+[
+]
+Involuntary Resettlement (OP/BP 4.12) 
+[ ] 
+[
+9
+]
+[
+]
+Indigenous Peoples (OD 4.20) 
+[ ] 
+[
+9
+]
+[
+]
+Forests (OP/BP 4.36) 
+[ ] 
+[
+9
+]
+[
+]
+Safety of Dams (OP/BP 4.37) 
+[ ] 
+[
+9
+]
+[
+]
+Projects in Disputed Areas (OP/BP 7.60)
+*
+[
+]
+[
+9
+]
+[
+]
+Projects on International Waterways (OP/BP 7.50)  
+[ ] 
+[ 
+9
+]
+[
+]
+*
+By supporting the proposed project, the Bank does not intend to prejudice the final determination of the parties' 
+claims on the disputed areas
+ 
+Page  4
+Section II 
+–
+Key Safeguard Issues and Their Management  
+D. Summary of Key Safeguard Issues. 
+ 
+D.1. (a) Describe any safeguard issues and impacts associated with the proposed 
+project. Identify and describe any potential large scale, significant and/or irreversible 
+impacts. 
+ 
+These are two environmental issues related to the project, both of which are considered 
+not significant if addressed properly. These include: (1) the short-term impacts of civil 
+works activities to  workers, nearby communities and the marine ecosystem during the 
+project construction; and (2) the potential negative effects of wind farm operation on 
+green sea turtle (
+Chelonia mydas
+)
+nesting, an endangered species, if confirmed to be 
+present in one of the host villages.  
+ 
+The only social concerns noted so far revolve around improving employment 
+opportunities for residents from host sitios/barangays during construction and operation 
+of the project, and  preparation/implementation of a concrete social development support 
+for the residents of the host barangays/sitios where the turbines are situated.  The 
+proponent has committed to develop a transparent and objective local hiring policy that 
+would favor residents of the host communities and prepare/implement a social 
+development program using a portion of the credits they would derive from the carbon 
+facility. 
+D.1 (b). Describe any potential cumulative impacts due to application of more than one 
+safeguard policy or due to multiple project component 
+No cumulative impact is anticipated.  
+ 
+D.1c. Describe any potential long term impacts due to anticipated future activities in 
+the project area. 
+After construction of wind farm and transmission line there will be only occasional 
+maintenance activity in the project area. Increased tourism activity due to the novelty of 
+wind farm in the area is being anticipated by the local government but the impact of this 
+activity at the project site will be minimal and can be easily managed. 
+ 
+D.2. Describe the treatment of alternatives (if relevant)
+ 
+Without the project an equivalent power generating capacity would have to be built 
+which is most probably coal- or diesel-fired. Compared to fossil-fuel fired plants, wind 
+power plants will provide substantial benefits to the Philippine economy in terms of 
+foreign exchange savings, insulation from unpredictability of world fuel prices and 
+carbon emission credits.  
+ 
+Page  5
+D.3. Describe measures taken by the borrower to address safeguard issues. Provide an 
+assessment of borrower capacity to plan and implement the measures described. 
+ 
+a) Re. Environmental Assessment (OP/BP/GP 4.01) 
+The Proponent has conducted separate environmental assessment (EA) studies for the 
+wind farm and the transmission line. The EA reports in the form of Initial Environmental 
+Examination (IEE) Checklists were submitted to the Bank and to the Philippine 
+Department of Environment and Natural Resources (DENR). Separate Environmental 
+Compliance Certificates (ECCs) were also issued by DENR based on the EAs submitted. 
+Upon request of the Bank, a special assessment on the marine ecosystem was conducted 
+in April 2004. The report of the special assessment indicated the potential presence of 
+green sea turtles in one of the villages hosting the wind turbines and the presence of coral 
+communities not very far from the project site. The EA reports provide adequate 
+environmental mitigating measures to address civil works impacts, such as requiring 
+contractors to observe good housekeeping practices, proper construction site 
+management, proper collection and disposal of solid wastes, installation of sanitary 
+facilities for workers and strict adherence to appropriate standards on noise, water 
+quality, dust, occupational health and safety. In addition, the proponent will be required 
+to properly managed excavated materials and install relevant silt protection measures to 
+ensure protection of the marine ecosystem. The proponent will also be required to 
+conduct, in coordination with DENR, a detailed assessment on green sea turtle to: (1) 
+confirm the presence or absence of the said species in the project site; (2) where present, 
+assess the population status; and (3) formulate protection, mitigation and conservation 
+measures.  
+ 
+b) Re. Natural Habitats (OP/BP/GP 4.04) 
+The bird migration study conducted by PNOC-Energy Development Corporation for their 
+proposed wind power project in the same area as the proposed project concluded that  
+Northern Luzon is not part of the major flyway of migratory birds. The same study 
+concluded that wind turbines do not pose risk or hazard to both migratory and local bird 
+species. On the other hand, the marine assessment study conducted by the proponent 
+revealed the potential of some coral reefs, about 1 km away from the project site, to be 
+affected by the project, if earth materials are not properly managed during construction. 
+The same study identified mitigating measures to ensure protection of coral reefs during 
+project construction.
+ 
+c) Re. Involuntary Resettlement (OP/BP 4.12) 
+No land acquisition and resettlement is anticipated since the land where the turbines shall 
+be installed is a foreshore area covered by a foreshore lease agreement between the 
+proponent and  the Philippine Government. The area is also free from improvements or 
+private structures. Access of fishermen to the shore during construction and operations 
+will not be impeded due to adequate spacing and the limited area to be occupied by the 
+wind turbines. Furthermore, no settlement, structure or livelihood is anticipated to be 
+affected by the transmission line, as it will be installed over the existing alignment (right-
+of-way) of the service/distribution line of INEC.  
+ 
+d) Re. Indigenous Peoples (OD 4.20) 
+The site of the wind turbines and the alignment of the transmission line is outside any 
+known IP communities/domains situated in the Province of Ilocos Norte. This is 
+confirmed by the a field based investigation of the Philippine National Commission on 
+Indigenous Peoples (NCIP). Likewise, no known areas of significant cultural/historical 
+significance are expected to be affected by the construction works and operation of the 
+Page  6
+D.4. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+The key stakeholders include: the project debt financier, Danish International 
+Development Agency (DANIDA), the local residents of four host barangays, the local 
+governments and the Ilocos Norte Electric Cooperative (INEC). The residents and 
+property owners along the transmission along the proposed transmission line route may 
+also have legitimate concerns on the project. 
+ 
+The proponent conducted consultations/discussions among local residents and the host 
+local governments including the four Barangays, the Municipal Council of Bangui and 
+the Provincial Council of Ilocos Norte. The consultations/discussions were conducted in 
+compliance with the requirements of the Philippine EIS system and the foreshore lease 
+application. The proponent has also secured endorsements from all host local 
+governments and government agencies, including the Department of Tourism.
+ 
+E. Disclosure Requirements                                        Date
+ 
+Environmental Assessment/Audit/Management Plan/Other:  
+Date of receipt by the Bank 
+…/05/2004/…     or Not Applicable 
+Date of “in-country” disclosure 
+…/11/2000/…      or Not Applicable 
+Date of submission to InfoShop 
+…/05/2004/…      or Not Applicable 
+For category A projects, date of distributing the Executive Summary of the EA to the 
+Executive Directors 
+…/…/…      or Not Applicable 
+Resettlement Action Plan/Framework/Policy Process: 
+Date of receipt by the Bank 
+…/…/…      or Not Applicable 
+Date of “in-country” disclosure 
+…/…/…      or Not Applicable 
+Date of submission to InfoShop 
+…/…/…      or Not Applicable 
+Indigenous Peoples Development Plan/Framework:  
+Date of receipt by the Bank 
+…/…/…      or Not Applicable 
+Date of “in-country” disclosure 
+…/…/…      or Not Applicable 
+Date of submission to InfoShop 
+…/…/…      or Not Applicable 
+Pest Management Plan:  
+ 
+Date of receipt by the Bank 
+…/…/…      or Not Applicable 
+Date of “in-country” disclosure 
+…/…/…      or Not Applicable 
+Date of submission to InfoShop 
+…/…/…      or Not Applicable 
+Dam Safety Management Plan:  
+  
+Date of receipt by the Bank 
+…/…/…      or Not Applicable 
+Date of “in-country” disclosure 
+…/…/…      or Not Applicable 
+Date of submission to InfoShop 
+…/…/…      or Not Applicable
+ 
+If in-country disclosure of any of the above documents is not expected, please explain 
+why. 
+ 
+Section III 
+–
+Compliance Monitoring Indicators at the Corporate Level 
+Yes No  N/A 
+OP/BP 4.01 - Environment Assessment:
+ Triggered
+ 
+Does the project require a stand-alone EA (including EMP) report?
+ 
+[
+9
+]
+[
+]
+[
+]
+Page  7
+If yes, then did the Regional Environment Unit review and 
+approve the EA report?
+ 
+[
+]
+[
+]
+[
+]
+Are the cost and the accountabilities for the EMP incorporated in 
+the credit/loan?
+ 
+[
+9
+]
+[
+]
+[
+]
+OP/BP 4.04 - Natural Habitats: 
+Triggered
+ 
+Would the project result in any significant conversion  or 
+degradation of critical natural habitats? 
+[
+]
+[
+9
+]
+[
+]
+If the project would result in significant conversion or degradation 
+of other (non-critical) natural habitats, does the project include 
+mitigation measures acceptable to the Bank? 
+[
+]
+[
+9
+]
+[
+]
+OP 4.09 - Pest Management:  
+Not Applicable
+Does the EA adequately address the pest management issues?
+ 
+[
+]
+[
+]
+[
+9
+]
+Is a separate PMP required? 
+[   ] 
+[   ] 
+[
+9
+]
+If yes,  are PMP requirements included in project design? 
+[   ] 
+[   ] 
+[
+9
+]
+Draft OP 4.11 (OPN 11.03) - Cultural Property: 
+Not Applicable
+Does the EA include adequate measures?
+ 
+[
+]
+[
+]
+[
+9
+]
+Does the credit/loan incorporate mechanisms to mitigate the 
+potential adverse impacts on physical cultural resources? 
+[
+]
+[
+]
+[
+9
+]
+OD 4.20 - Indigenous Peoples: 
+Not Applicable
+Has a separate indigenous people development plan been prepared 
+in consultation with the Indigenous People?
+ 
+[
+]
+[
+]
+[
+9
+]
+If yes, then did the Regional Social Development Unit review and 
+approve the plan? 
+[
+]
+[
+]
+[
+9
+]
+If the whole project is designed to benefit IP, has the design been 
+reviewed and approved by the Regional Social Development Unit? 
+[
+]
+[
+]
+[
+9
+]
+OP/BP 4.12 - Involuntary Resettlement: 
+Not Applicable
+Has a resettlement action plan, policy framework or policy process 
+been prepared?
+ 
+[
+]
+[
+]
+[
+9
+]
+If yes, then did the Regional Social Development Unit review and 
+approve the plan / policy framework / policy process? 
+[
+]
+[
+]
+[
+9
+]
+OP/BP 4.36 - Forests:  
+Not Applicable
+Has the sector-wide analysis of policy and institutional issues and 
+constraints been carried out?
+ 
+[
+]
+[
+]
+[
+9
+]
+Does the project design include satisfactory measures to overcome 
+these constraints? 
+[
+]
+[
+]
+[
+9
+]
+Does the project finance commercial harvesting, and if so, does it 
+include provisions for certification system? 
+[
+]
+[
+]
+[
+9
+]
+OP/BP 4.37 - Safety of Dams: 
+Not Applicable
+Have dam safety plans been prepared?
+ 
+[
+]
+[
+]
+[
+9
+]
+Have the TORs as well as composition for the independent Panel 
+of Experts (POE) been reviewed and approved by the Bank? 
+[
+]
+[
+]
+[
+9
+]
+Has an Emergency Preparedness Plan (EPP) been prepared and 
+arrangements been made for public awareness and training? 
+[
+]
+[
+]
+[
+9
+]
+OP 7.50 - Projects on International Waterways: 
+Not Applicable
+Have the other riparians been notified of the project?
+ 
+Page  8
+If the project falls under one of the exceptions to the notification 
+requirement, then has this been cleared with the Legal Department, 
+and the memo to the RVP prepared and sent? 
+[
+]
+[
+]
+[
+9
+]
+What are the reasons for the exception?      Please 
+explain:………………………… 
+[
+]
+[
+]
+[
+9
+]
+Has the RVP approved such an exception? 
+[   ] 
+[   ] 
+[
+9
+]
+OP 7.60 - Projects in Disputed Areas
+:
+Not Applicable
+Has the memo conveying all pertinent information on the 
+international aspects of the project, including the procedures to be 
+followed, and the recommendations for dealing with the issue, 
+been prepared, cleared with the Legal Department and sent to the 
+RVP?
+ 
+[
+]
+[
+]
+[
+9
+]
+Does the PAD/MOP include the standard disclaimer referred to in 
+the OP? 
+[
+]
+[
+]
+[
+9
+]
+BP 17.50 - Public Disclosure:
+ 
+Have relevant safeguard policies documents been sent to the 
+World Bank's Infoshop?
+ 
+[
+9
+]
+[
+]
+[
+]
+Have relevant documents been disclosed in-country in a public 
+place in a form and language that are understandable and 
+accessible to project-affected groups and local NGOs? 
+[
+9
+]
+[
+]
+[
+]
+All Safeguard Policies:
+ 
+Have satisfactory calendar, budget and clear institutional 
+responsibilities been prepared for the implementation of the 
+safeguard measures?
+ 
+[
+9
+]
+[
+]
+[
+]
+Have safeguard measures costs been included in project cost? 
+[   ] 
+[   ] 
+[   ] 
+Will the safeguard measures costs be funded as part of project 
+implementation? 
+[
+]
+[
+]
+[
+]
+Does the Monitoring and Evaluation system of the project include 
+the monitoring of safeguard impacts and measures? 
+[
+9
+]
+[
+]
+[
+]
+Have satisfactory implementation arrangements been agreed with 
+the borrower and the same been adequately reflected in the project 
+legal documents? 
+[
+9
+]
+[
+]
+[
+]
+Signed and submitted by:  
+Task Team Leader: 
+Name: Selina Shum 
+Date: 
+Project Safeguards Specialist 1: 
+Name: Josefo Tuyor 
+Date: 
+Project Safeguards Specialist 2: 
+Name: Jose Tiburcio Nicolas Date: 
+Project Safeguards Specialist 3: 
+Name  
+Date: 
+Approved by: 
+Regional Safeguards Coordinator 
+Name: Glenn Morgan 
+Date:  
+Comments 
+ 
+Sector Manager 
+Name: Junhui Wu 
+Date:  
+Comments 
+Page  9

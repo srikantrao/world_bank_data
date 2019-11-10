@@ -1,0 +1,598 @@
+Page  1
+Integrated Safeguards Data Sheet (ISDS) 
+Section I 
+–
+Basic Information 
+Date ISDS Prepared/Updated: June 7, 2004 
+Report No.:AC892
+A. Basic Project Data 
+ 
+A.1. Project Statistics 
+Country: Russian Federation 
+Project ID: P082239 
+Project: HYDROMET 
+MODERNIZATION PROJECT 
+TTL: Vladimir Tsirkunov 
+Total project cost (by component): 
+Appraisal Date: October 11, 2004 
+Loan/Credit amount($m):  
+IBRD: 80 
+Board Date: December 16, 2004 
+  
+Other financing amounts by source: 
+ 
+($m.) 
+Managing Unit: ECSSD 
+Sector: General water, sanitation and flood 
+protection sector (60%);Irrigation and 
+drainage (30%);Information technology 
+(10%) 
+Lending Instruments: Specific Investment 
+Loan 
+ 
+Is this project processed under OP 8.50 (Emergency 
+recovery 
+Yes?
+[
+]
+No?
+[
+]
+Environmental Category:  
+Safeguard Classification:  
+A.2. Project Objectives 
+ 
+The main development objective of the project is to improve RosHydromet’s capacity to 
+provide weather and hydrological services and assure their effective and timely delivery 
+to the Government and the public, by modernizing key elements of the technical base and 
+strengthening RosHydromet’s institutional arrangements. All Russian citizens would then 
+receive weather forecasts of higher quality.  This would enable enterprise and household 
+adjustments to protect lives and support economic growth. 
+ 
+The success of the proposed project would be measured in terms of improvements in the 
+accuracy and precision of forecasting: more-timely emergency alerts to mitigate weather 
+damage, improved seasonal forecasts accompanied by probabilistic information for 
+decision support, renewal of RosHydromet's capacity to fulfill its role in worldwide 
+meteorology as specified in international agreements, and development of a modernized 
+concept of operations.  The latter should comprise compliance with national mandates 
+and global treaties, growth in technical capacity, progress toward financial sustainability 
+(including infrastructure maintenance and ongoing re-investment) and a sustainable 
+approach to human resources issues.   
+ 
+The project supports the higher-level objective of reducing the risk to life and the 
+economy from unfavorable weather conditions.
+ 
+The total annual direct losses in Russia 
+associated with dangerous weather and hydrological events is estimated to be USD 1-2 
+Page  2
+billion
+.
+Recent massive economic losses and human casualties resulting from floods, 
+avalanches and torrential storms in the North Caucasus, Siberia and the Far East have 
+showed how vulnerable the Russian Federation is today with respect to weather hazards. 
+The project also is intended to diminish damage to the economy that arises not only from 
+avoidable weather damage but also from the high degree of uncertainty about weather 
+risk that adds to the cost of doing business, limiting the competitiveness of Russian 
+agriculture and other enterprises. The proposed project would build RosHydromet's 
+capacity, strengthen it as an institution, and in this way strengthen the ability of the public 
+sector to meet public needs. 
+ 
+The proposed project supports t
+wo strategic pillars of Russia’s 2002 CAS.  (i) It will 
+strengthen public sector management
+ by improving the efficiency and quality of public 
+service delivery critical for improving the investment climate and supporting long-term 
+growth. Improved efficiency and quality in weather forecasting will reduce risks to the 
+economy and support investment, mitigating the risks of natural disaster that currently 
+affect important infrastructure, agricultural and industrial areas. (ii) It will 
+mitigate 
+environmental risks
+ by addressing environmental hazards and improving environmental 
+management. A stronger hydrometeorological agency will mitigate the risks of floods, 
+drought and fire, winds and extreme weather events and will support emergency 
+preparedness associated with the potential damage resulting from industrial and other 
+accidents. As well, the project will reduce social risk, by improving  security through 
+measures to improve emergency warnings to the population. 
+ 
+A.3. Project Description 
+ 
+The investments RosHydromet has proposed address priority needs that are indicated 
+under all reasonable strategies for the agency's future development. Investments have 
+been selected according to several  principles: (1) RosHydromet's core functions should 
+not be compromised; (2) RosHydromet's capacity to forecast hazardous weather events in 
+a
+timely manner should be restored and improved; (3) RosHydromet's institutional and 
+economic viability should be strengthened; (4) RosHydromet should ensure that Russia is 
+able to comply with its national obligations to WMO. 
+ 
+Component A. Modernization of 
+Modernization of Computing, Archiving and 
+Telecommunications 
+ Facilities (US45.7 million baseline excluding contingencies and 
+taxes, US$ 62.7 million estimated project costs)
+ aims to upgrade computing capacity 
+and capacity for transmission, archiving and retrieval of data through three 
+subcomponents. The first subcomponent will support RosHydromet’s Moscow 
+headquarters through the procurement of a supercomputer, and the archiving facilities at 
+Obninsk through the modernization and upgrading of existing archiving facilities, with 
+support for data rescue of data currently stored on about 50,000 magnetic tapes and other 
+media.  In the second subcomponent, computing facilities will be upgraded at the two 
+principal regional WMO centers, those at Novosibirsk and Khabarovsk, with the 
+Page  3
+procurement of two smaller supercomputers.  The third subcomponent will address 
+RosHydromet’s communications system as a whole.  This will include the modernization 
+of communications among RosHydromet’s principal facilities and also communications 
+with selected high-priority measurement stations.  Communications and infrastructure 
+required to support the modernized computer centers will be financed, including 
+equipment to assure continuous power supply, investments in local and wide area 
+networks and the supply of required peripheral equipment. Taken together, investments 
+under this component are expected to significantly improve the timeliness and 
+effectiveness of weather forecasts and to support data availability and sharing both within 
+Russia and globally.  
+ 
+Component B. Upgrading of the Observational Networks (US$42.0 million baseline 
+excluding contingencies and taxes, US$58.9 million estimated project costs) 
+is 
+intended to modernize key components of RosHydromet’s meteorological and 
+hydrological observational networks. There are five sub-components. 
+ Upgrading of the 
+surface network of meteorological stations
+ will provide equipment for up to 900-1000 
+surface meteorological stations which are important for regional and local forecasts. 
+Upgrading of the aerological network 
+will re-equip selected upper-air sounding stations. 
+While the aerological network is important locally and regionally, it is the most important 
+network investment in support of global forecasting:  these stations collect the three-
+dimensional datasets of key meteorological variables that constitute the principal input to 
+global weather models. 
+Upgrading of weather radars
+ will improve storm warning to the 
+most important urban areas and to vulnerable coastal zones. 
+Upgrading of selected 
+regional hydrometeorological centers
+ in the country will equip regional centers  with 
+hardware and software to improve weather and flood forecasts.  It will provide equipment 
+for visualization of data, for downloading of satellite data and improvement of 
+communications capacity. These upgrades will improve prediction at every level, and 
+will also support forest fire identification and environmental monitoring. 
+Upgrading of 
+selected parts of the hydrological network
+ will upgrade about 300 priority hydrological 
+posts nationally, and will upgrade the entire hydrological network in three high priority 
+river basins with automatic and semi-automatic stations. Hydrological data complements 
+meteorological forecasts to enable flood warnings and water resources management. 
+ 
+Component C. Institutional Strengthening, Improvement in Information 
+Dissemination and Emergency Preparedness (US$5.0 million baseline excluding 
+contingencies and taxes, US$7.2 million estimated project costs) 
+is intended to 
+formulate, develop and test new operational principles drawn from worldwide 
+experience, improve emergency warnings and improve provision of information to the 
+clients. The work will be undertaken under three subcomponents: 
+Institutional 
+Strengthening 
+would support development and testing of new principles and approaches 
+aimed at institutional strengthening to make RosHydromet a viable, modern and client-
+oriented agency. This subcomponent will formulate new requirements for the modernized 
+RosHydromet system, undertake detailed design and test it in selected regional 
+RosHydromet branches. This would help to modify the agency’s current planning and 
+budgeting techniques, and operational and maintenance procedures.  It would help define 
+proper configuration of the main elements of the system; including, for example, 
+Page  4
+automated monitoring, new forecast techniques, and modernization of management. The 
+Client Service System
+ will include design of a system (databases, networks and software) 
+that will improve data availability, presentation and dissemination to ensure that 
+information is supplied in useful formats to RosHydromet’s clients. Finally, 
+Emergency 
+Preparedness/Response
+,
+will undertake development of improved emergency warning 
+procedures. This subcomponent would examine how information from RosHydromet is 
+used for emergency preparedness, aiming to improve cooperation with local and regional 
+authorities, the Ministry of Emergency and other concerned agencies during emergencies 
+and for emergency preparedness planning. Principal investments would include technical 
+assistance to define gaps in the system, procurement of equipment for emergency 
+preparedness and resources for pilot testing in a few areas.  
+ 
+Component D. Project Management, Monitoring and Evaluation (US$2.5 million 
+baseline excluding contingencies and taxes, US$3.6 million estimated project costs)
+ 
+will finance project management, supervision, and monitoring and evaluation of project 
+impact. Progress monitoring will include periodic surveys tracking achievement of 
+project development objectives and identifying improvements or actions necessary for the 
+project’s success. Implementation arrangements for the project have been discussed with 
+RosHydromet and the Ministry of Finance, and it was agreed that RosHydromet staff will 
+be responsible for overall and technical project implementation issues. A small PIU will 
+provide assistance to RosHydromet in such areas as procurement, financial management 
+and disbursement. A key Consultant, the Design Integrator would assist RosHydromet 
+during detailed project preparation and then later during implementation to ensure that a 
+fully integrated national weather service is maintained. 
+ 
+A.4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis: 
+Main project activities will be concentrated within the Roshydromet premises located in 
+Moscow, Obninsk, Novosibirsk, and Khabarovsk. These activities will be primarily 
+refurbishment of those sections in the buildings where new equipment will be placed. No 
+land acquisition is expected. Renovation will be conducted within the existing 
+Roshydromet buildings.    
+ 
+Additional minor activities dealing primarily with the replacement of 
+hydrometeorological instrumentation will be undertaken in many dozens sites elsewhere 
+on the territory of Russia. Seven or eight weather radars located in various regions will be 
+installed on the existing buildings which are used now for the similar purposes. 
+ 
+B. Check Environmental Category 
+A
+[
+], B [ ], C [X], FI [ ] 
+ 
+Comments:  
+C. Safeguard Policies Triggered 
+ 
+Page  5
+Yes No 
+ 
+Environmental Assessment
+(
+OP
+/
+BP
+/
+GP
+4.01) [X] 
+[]   
+Natural Habitats
+(
+OP
+/
+BP
+4.04) [ 
+] 
+[X] 
+ 
+Pest Management
+(OP 4.09) 
+[ ] 
+[X] 
+ 
+Cultural Property
+(draft OP 4.11 - 
+OPN 
+11.03
+-) 
+[
+]
+[X]  
+Involuntary Resettlement
+(
+OP
+/
+BP
+4.12) [ 
+]  [X] 
+ 
+Indigenous Peoples
+(
+OD 4.20
+)
+[
+]
+[X]  
+Forests
+(
+OP
+/
+BP
+4.36) [ 
+] 
+[X] 
+ 
+Safety of Dams
+(
+OP
+/
+BP
+4.37) [ 
+] 
+[X] 
+ 
+Projects in Disputed Areas
+(
+OP
+/
+BP
+/
+GP
+7.60)
+*
+[
+]
+[X]  
+Projects on International Waterways
+(
+OP
+/
+BP
+/GP 7.50) 
+[
+]
+[X]  
+*
+By supporting the proposed project, the Bank does not intend to prejudice the final determination of the parties' 
+claims on the disputed areas
+ 
+Page  6
+Section II 
+–
+Key Safeguard Issues and Their Management  
+D. Summary of Key Safeguard Issues
+.
+D.1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts. 
+ 
+No large scale issues are expected. 
+D.2 Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area. 
+ 
+The project will provide great environmental benefits, since it will support in mitigating 
+natural hazard risks and in improving environmental management. A comprehensive 
+hydrometeorological system coupled with a strong agency responsible for its operation 
+and maintenance will lay a foundation for reducing the risks associated with floods, 
+drought and fire, winds, extreme weather events and even industrial accidents. It is 
+expected  that the project will have a significant effect on enhancing the livelihoods 
+particularly of the poor fractions of population by reducing vulnerability to 
+environmental change, flooding and also routine weather contingencies that can affect 
+marginal livelihoods such as small enterprises and farms.   
+ 
+D.3. Describe the treatment of alternatives (if relevant) 
+ 
+Not relevant 
+D.4. Describe measures taken by the borrower to address safeguard issues. Provide an 
+assessment of borrower capacity to plan and implement the measures described. 
+ 
+Attention will be given to include relevant standard environmental guidelines in bidding  
+of new equipment. Another reference will be made to ensure safe handling and disposal 
+of construction solid waste, debris and dysfunctional IT equipment. The standard 
+environmental guidelines dictated by the Russian EA procedures are incorporated in the 
+BEA (PIU) Operational Manual. A full understanding with RosHydromet officials and 
+BEA is reached on the importance to deal with environmental issues and the need for 
+their mitigation should they be identified in the course of project implementation 
+packages for civil works associated with the refurbishing of existing buildings as well as 
+for the installation. 
+ 
+D.5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+ 
+Page  7
+F. Disclosure Requirements  Date
+ 
+Environmental Assessment/Audit/Management Plan/Other:  
+Date of receipt by the Bank 
+…/…/…     or Not Applicable 
+Date of “in-country” disclosure 
+…/…/…      or Not Applicable 
+Date of submission to InfoShop 
+…/…/…      or Not Applicable 
+For category A projects, date of distributing the Executive Summary of the EA to the 
+Executive Directors 
+…/…/…      or Not Applicable 
+Resettlement Action Plan/Framework/Policy Process: 
+Date of receipt by the Bank 
+…/…/…      or Not Applicable 
+Date of “in-country” disclosure 
+…/…/…      or Not Applicable 
+Date of submission to InfoShop 
+…/…/…      or Not Applicable 
+Indigenous Peoples Development Plan/Framework:  
+Date of receipt by the Bank 
+…/…/…      or Not Applicable 
+Date of “in-country” disclosure 
+…/…/…      or Not Applicable 
+Date of submission to InfoShop 
+…/…/…      or Not Applicable 
+Pest Management Plan:  
+ 
+Date of receipt by the Bank 
+…/…/…      or Not Applicable 
+Date of “in-country” disclosure 
+…/…/…      or Not Applicable 
+Date of submission to InfoShop 
+…/…/…      or Not Applicable 
+Dam Safety Management Plan:  
+  
+Date of receipt by the Bank 
+…/…/…      or Not Applicable 
+Date of “in-country” disclosure 
+…/…/…      or Not Applicable 
+Date of submission to InfoShop 
+…/…/…      or Not Applicable 
+If in-country disclosure of any of the above documents is not expected, please explain 
+why. 
+ 
+Section III 
+–
+Compliance Monitoring Indicators at the Corporate Level 
+(To be filled in when the ISDS is finalized by the project decision meeting) 
+OP/BP 4.01 - Environment Assessment:
+ 
+Yes
+No
+Does the project require a stand-alone EA (including EMP) report? 
+ 
+ 
+If yes, then did the Regional Environment Unit review and approve the 
+EA report? 
+ 
+Are the cost and the accountabilities for the EMP incorporated in the 
+credit/loan? 
+ 
+OP/BP 4.04 - Natural Habitats: 
+Yes
+No
+Would the project result in any significant conversion  or degradation 
+of critical natural habitats? 
+ 
+If the project would result in significant conversion or degradation of 
+other (non-critical) natural habitats, does the project include mitigation 
+measures acceptable to the Bank? 
+ 
+OP 4.09 - Pest Management: 
+Yes
+No
+Does the EA adequately address the pest management issues? 
+ 
+ 
+Is a separate PMP required? 
+ 
+ 
+If yes,  are PMP requirements included in project design? 
+ 
+ 
+Page  8
+Draft OP 4.11 (OPN 11.03) - Cultural Property: 
+Yes
+No
+Does the EA include adequate measures? 
+ 
+ 
+Does the credit/loan incorporate mechanisms to mitigate the potential 
+adverse impacts on physical cultural resources? 
+ 
+OD 4.20 - Indigenous Peoples: 
+Yes
+No
+Has a separate indigenous people development plan been prepared in 
+consultation with the Indigenous People? 
+ 
+If yes, then did the Regional Social Development Unit review and 
+approve the plan? 
+ 
+If the whole project is designed to benefit IP, has the design been 
+reviewed and approved by the Regional Social Development Unit? 
+ 
+OP/BP 4.12 - Involuntary Resettlement: 
+Yes
+No
+Has a resettlement action plan, policy framework or policy process 
+been prepared? 
+ 
+If yes, then did the Regional Social Development Unit review and 
+approve the plan / policy framework / policy process? 
+ 
+OP/BP 4.36 
+–
+Forests: 
+Yes
+No
+Has the sector-wide analysis of policy and institutional issues and 
+constraints been carried out? 
+ 
+Does the project design include satisfactory measures to overcome 
+these constraints? 
+ 
+Does the project finance commercial harvesting, and if so, does it 
+include provisions for certification system? 
+ 
+OP/BP 4.37 - Safety of Dams: 
+Yes
+No
+Have dam safety plans been prepared? 
+ 
+ 
+Have the TORs as well as composition for the independent Panel of 
+Experts (POE) been reviewed and approved by the Bank? 
+ 
+Has an Emergency Preparedness Plan (EPP) been prepared and 
+arrangements been made for public awareness and training? 
+ 
+OP 7.50 - Projects on International Waterways: 
+Yes
+No
+Have the other riparians been notified of the project? 
+ 
+ 
+If the project falls under one of the exceptions to the notification 
+requirement, then has this been cleared with the Legal Department, and 
+the memo to the RVP prepared and sent? 
+ 
+What are the reasons for the exception? 
+ 
+ 
+Please explain: 
+ 
+ 
+Has the RVP approved such an exception? 
+ 
+ 
+OP 7.60 - Projects in Disputed Areas
+:
+Yes
+No
+Has the memo conveying all pertinent information on the international 
+aspects of the project, including the procedures to be followed, and the 
+recommendations for dealing with the issue, been prepared, cleared 
+with the Legal Department and sent to the RVP? 
+ 
+Does the PAD/MOP include the standard disclaimer referred to in the 
+OP? 
+ 
+BP 17.50 - Public Disclosure: 
+Yes
+No
+Have relevant safeguard policies documents been sent to the World 
+ 
+ 
+Page  9
+Bank's Infoshop? 
+Have relevant documents been disclosed in-country in a public place in 
+a
+form and language that are understandable and accessible to project-
+affected groups and local NGOs? 
+ 
+All Safeguard Policies: 
+Yes
+No
+Have satisfactory calendar, budget and clear institutional 
+responsibilities been prepared for the implementation of the safeguard 
+measures? 
+ 
+Have safeguard measures costs been included in project cost? 
+ 
+ 
+Will the safeguard measures costs be funded as part of project 
+implementation? 
+ 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures? 
+ 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+ 
+Signed and submitted by:
+ Name
+Date
+Task Team Leader: 
+Vladimir Tsirkunov 
+ 
+Project Safeguards Specialist 
+1: 
+ 
+Project Safeguards Specialist 
+2: 
+ 
+Project Safeguards Specialist 
+3: 
+ 
+Approved by:
+ Name
+Date
+Regional Safeguards 
+Coordinator: 
+ 
+Comments: 
+Sector Manager: 
+ 
+ 
+Comments: 

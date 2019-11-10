@@ -1,140 +1,204 @@
-                              Integrated Safeguards Data Sheet (Initial)
+                             Integrated Safeguards Data Sheet (Updated)
 
-                                                                                                  Report No: AC508
+                                                                                                   Report No: AC508
 Section I - Basic Information
-Date ISDS Prepared/Updated: 12/17/2003
+Date ISDS Prepared/Updated: 11/17/2004
 A. Basic Project Data (from PDS)
 I.A.1. Project Statistics
-Country: AFRICA                                               Project ID: P082502
-Project: [3W] West African Gas Pipeline                       Task Team Leader: Michel E. Layec
-Authorized to Appraise Date: January 31, 2004                 IBRD Amount ($m):
-Bank Approval: July 1, 2004                                   IDA Amount ($m): 60.00
-                                                                    IDA GUARANTEE: 50
-Managing Unit: AFTEG                                          Sector: Power (80%); Oil and gas (20%)
-Guarantee: [ ] Partial Credit [X] Partial Risk                Theme: Regional integration (P)
+Country: AFRICA                                                Project ID: P082502
+Project: 3A-West African Gas Pipeline (IDA S/UP)               Task Team Leader: Michel E. Layec
+Authorized to Appraise Date: September 16, 2004                IBRD Amount ($m):
+Bank Approval: November 30, 2004                               IDA Amount ($m):
+                                                                     IDA GUARANTEE: 50
+Managing Unit: AFTEG                                           Sector: Power (80%); Oil and gas (20%)
+Guarantee: [ ] Partial Credit [X] Partial Risk                 Theme: Regional integration (P)
 Status: Lending
 
 I.A.2. Project Objectives (From PDS):
+The proposed West African Gas Pipeline (WAGP or the Project) will contribute to:
 
-(a)      to improve the competitiveness of the energy sectors in Ghana, Benin, and Togo by promoting: (i)
-the use of cheaper and environmentally cleaner gas from Nigeria in lieu of solid and liquid fuels for power
-generation and other industrial, commercial, and domestic uses; and (ii) reforms including a modern,
-institutional legal and regulatory framework that facilitates private sector participation in the energy sector;
-and
+(a)      improving the competitiveness of the energy sectors in Ghana, Benin, and Togo by promoting the
+use of cheaper and environmentally cleaner gas from Nigeria in lieu of solid and liquid fuels for power
+generation and other industrial, commercial uses, and diversifying energy supply sources; and
 
-(b)      to foster regional economic and political integration that would support economic growth, and in
+(b)      fostering regional economic and political integration that would support economic growth, and in
 particular the development of the West Africa electricity market.
 
 
 I.A.3. Project Description (From PDS):
 
-The West African Gas Pipeline (WAGP or the Project) is a regional energy infrastructure project for
-West Africa.
+Overview of the Pipeline System
 
-The Project includes construction of a new high pressure natural gas pipeline, which will supply natural
-gas from Nigeria, to markets in Benin, Ghana, and Togo, by a newly created entity called West African
-Gas Pipeline Company Limited (WAPCo), a Bermuda corporation.
-
-                                                        2
-                                                                                                           ISDS
+The West African Gas Pipeline is a regional energy infrastructure project for West Africa.
 
+The Project aims to construct a new high-pressure natural gas pipeline, which will supply natural gas from
+Nigeria to markets in Benin, Ghana, and Togo.
 
+The gas to be transported in the new pipeline will be produced and processed in the western part of the
+Niger Delta in Nigeria. From there, it will be transported via an existing high-pressure gas pipeline, the
+Escravos-Lagos Pipeline System (ELPS), to the existing terminus of that system near Lagos, Nigeria,
+where the new pipeline will commence.
 
-
-The gas to be transported in the new WAPCo pipeline will be produced and processed in the Niger Delta
-area in south eastern Nigeria; the gas will be primarily associated gas from oil production that previously
-would have been flared or vented to the atmosphere. From there, it will be transported via an existing high
-pressure gas pipeline, the Escravos-Lagos Pipeline System (ELPS), to the existing terminus of that system
-at Alagbado near Lagos, Nigeria, where the new WAPCo pipeline will commence. The new WAPCo
-pipeline thus begins physically at the Alagbado T-junction in Ota Division of Ogun State near Lagos. The
-Project is one of many customers of the Niger Delta producers, receiving the gas it transports from the
-ELPS system.
-
-From that point, the new WAPCo pipeline will run about 56 kilometres onshore, to the Nigerian coast, and
-from there straight out to sea. From there it will run in a westerly direction roughly parallel to the coast,
-between about 15 and 20 kilometres offshore, in water depths between 26 and 70 metres. The initial
-construction of the new WAPCo pipeline will terminate at Aboadze in western Ghana, the site of the
-Takoradi Power Station. The total length of the new pipeline will be approximately 690 km, 620 kms of
-which is being built offshore.
+From that point, the new pipeline will run about 56 km onshore, to the Nigerian coast, and from there
+straight out to sea. From there it will run in a westerly direction roughly parallel to the coast, generally
+about 15 to 20 km offshore, in water depths ranging from about 15 to 70 meters. The initial construction
+of the WAGP will terminate at Aboadze in western Ghana, the site of the Takoradi Thermal Power
+Stations.
 
 Lateral pipelines will be laid, to permit natural gas to be delivered along the way, at regulation and
 metering stations to be situated at landing points at Cotonou in Benin, Lomé in Togo, and Tema (near
-Accra) in Ghana. Once they make landfall, these lateral lines traverse approximately 4 km in Cotonou
-(with another 9.5 km of low pressure "link line" downstream of the regulating and metering station), 1 km
-in Lomé (with another 0.5 km of low pressure "link line" downstream of the regulating and metering
-station), 1 km at Tema, and about 300 meters at the Takoradi Power Station.
-
-The estimated initial construction cost of the new WAPCo pipeline is about US$ 450 million, and prior to
-commencing construction the sponsors of the Project will have spent about $70 million, for a total of about
-US$520 million. The final cost will be determined via a competitive bidding process. The cost of the
-several stages of expansion to achieve maximum capacity will be approximately US$150 million. An
+Accra) in Ghana.
 
-                                                        3
-                                                                                                          ISDS
+                                                                           2
+                                                                                                         ISDS
 
 
-investment decision to construct the new WAPCo pipeline is expected in 2004. This would lead to pipeline
-start-up in mid 2005.
 
-The new WAPCo pipeline is expected to be a 20-inch lined pipeline (this will depend on final costings to be
-derived from a competitive bidding process, presently underway). The initial installed throughput capacity
-of the pipeline is expected to be about 150 MMScf/day. In addition, the pipeline will be sized to cater for
-expansion to meet anticipated future growth in demand, up to a maximum capacity of approximately 450
-MMScf/day. The pipeline size will be confirmed following the completion of the competitive bidding
-process on the basis of overall minimum transportation cost (using the concept of the weighted average
-tariff detailed in the International Project Agreement) and other aspects including operational
-considerations.
+
+                                     WEST AFRICAN GAS
+                                     PIPELINE PROJECT
+
+
+                                                                              Niger
+                       Mali
+
+
+                             Burkina Faso
+
+
+                                                     B
+                                              T      E
+                                             O       N        NIGERIA
+                                             G        I
+                               GHANA         O       N
+
+
+                                                           Lagos
+                                              Lomé Cotonou
+                                        Tema
+
+                             Takoradi                            Escravos
+
+
+
+
+The total length of the new pipeline will be approximately 678 km, including the length of lateral pipelines.
+
+The estimated initial construction cost of the WAGP is US$ 520 million, and prior to commencing
+construction the Sponsors (see below) of the Project will have spent about US$70 million. This
+construction cost estimate has been determined via a competitive bidding process.
+
+The initial installed capacity will be about 200 MMscf/day. In addition, the pipeline will be sized to cater
+for expansion to meet anticipated future growth in demand, up to a maximum capacity expected to be
+about 470 MMscf/day. The cost of the several stages of expansion to achieve maximum capacity will be
+approximately US$ 115 million. An investment decision to construct the new pipeline is expected in
+late-2004. This would lead to pipeline startup in late-2006.
+
+From time to time, Nigerian Gas Company (NGC) is expected to incur some expenditure in upgrading
+ELPS for the additional WAGP volumes of gas and interconnections for inputs and output, as well as some
+additional operation and maintenance expenses associated with the additional volumes. NGC will recover
+its investments and additional costs through transportation charges under its Gas Transportation
+Agreements (GTAs) with N-Gas, the newly formed gas trading company for WAGP.
+
+After about five years, the Producers (see below) are also expected to incur some costs in upgrading and
+installing gas gathering systems and possibly gas treatment facilities upstream of ELPS, in the oil
+production areas of the Niger Delta and elsewhere. The Producers will recover their investments and other
+costs through gas sales under their contracts with N-Gas or any other entity that ships gas through WAGP.
+
+The Gas Producers
+
+The gas to be transported in WAGP will be gas produced from the western part of the Niger Delta in
+Nigeria. Two existing oil-producing joint ventures will be producing and processing the gas. One is a joint
+venture of Nigerian National Petroleum Corporation (60%) and Chevron Nigeria Limited (40%). The
+other is a joint venture involving NNPC (55%) and local affiliates of Shell (i.e., SPDC) (30%), TOTAL
+S.A. (i.e., Elf) (10%), and Eni S.p.A. (i.e., Agip) (5%).
+
+                                                       3
+                                                                                                           ISDS
+
+
+Under 20-year contracts, the two joint ventures will each supply 50% of the gas to be supplied for WAGP,
+up to 120 MMscf/day. Hence, the total proportions of gas supply are:
+
+                  NNPC:                                            57.50%
+                  CNL:                                             20.00%
+                  SPDC:                                            15.00%
+                  Elf:                                              5.00%
+                  Agip:                                             2.50%
+
+In addition, backup arrangements are to be implemented between the two joint ventures to provide
+additional security of supply.
+
+The contract price of gas commodity is US$ 0.50 per MMBtu, escalating with inflation and an oil index.
+
+Ownership of the Pipeline System
+
+To date, the Project has been sponsored and funded by a six-company consortium that in August 1999 was
+mandated by the Governments of Benin, Ghana, Nigeria, and Togo to develop the WAGP. Chevron
+Nigeria Limited, the Nigerian affiliate of ChevronTexaco Corporation, is the managing Sponsor. Those six
+companies or their affiliates are expected to own the Project company which in turn will own and operate
+the new pipeline.
+
+The pipeline will be owned and operated by a newly formed company, WAPCo, which is incorporated in
+Bermuda. A comprehensive shareholders agreement for WAPCo has been executed, under which each
+member of that six-company consortium has ownership entitlements in WAPCo. Final ownership of
+WAPCo will depend on the participants making the necessary capital contributions which are provided for
+in that agreement, but at this stage the following corporations or their respective affiliates (Sponsors) are
+expected to be the participants in WAPCo in the following percentages:
+
+                     ChevronTexaco Corporation:                                 36.7%
+                     Nigerian National Petroleum Corporation:                   25.0%
+                     Royal Dutch / Shell:                                       18.0%
+                     Government of Ghana:                                       16.3%
+                     Societé Beninoise de Gaz SA:                                 2.0%
+                     Societé Togolaise de Gaz SA:                                 2.0%
+
+The latter two companies are two small private companies based in Benin and Togo, respectively, that are
+expected to develop local distribution systems for gas transported in the WAGP.
+
+Technical Information
+
+The pipeline will be a 20-inch lined pipeline. Initial installed capacity will be about 200 MMscf/day, with
+incremental expansion of capacity planned, up to an expected ultimate design capacity of 470 MMscf/day.
+The pipeline size has been chosen on the basis of overall minimum transportation cost (using the concept of
+the weighted average tariff detailed in the IPA) and other aspects including operational considerations.
 
 The development plan envisages a compression station being constructed at Lagos Beach, the last point
 where the pipeline is onshore in Nigeria before heading offshore. This compression station will
 subsequently be expanded as the pipeline capacity is increased in future years to meet additional demand.
-The compression installed initially will be approximately 2 x 12,500 HP centrifugal units (one unit as
-100% standby). This capacity will be capable of being increased by adding 4 additional 12,500 HP units
-in future years to gain the ultimate capacity of about 450 MMScf/day.
 
-Ownership of the new Pipeline System
+The compression installed initially will be 2 x 12,500 horsepower centrifugal units (one unit as 100%
+standby). This will be capable of being increased by adding an additional four more 12,500 horsepower
+
+                                                         4
+                                                                                                            ISDS
 
-To date, WAPCo has been sponsored by a six-company consortium (the Sponsors) which in August 1999
-was mandated by the Governments of Benin, Ghana, Nigeria, and Togo to develop the new pipeline.
-Chevron Nigeria Limited, the Nigerian affiliate of ChevronTexaco Corporation, is the managing sponsor of
-the Project.
 
-A comprehensive shareholders agreement for WAPCo has been executed, under which each member has
-ownership entitlements in WAPCo. Final ownership of WAPCo will depend on the participants making the
-necessary capital contributions which are provided for in that agreement, but at this stage the following
-corporations (or their respective affiliates) are expected to be the participants in WAPCo in the following
-percentages:
-
-                            ChevronTexaco:                                            36.7%
-                            Nigerian National Petroleum Corporation:                  25.0%
-                            Shell Oil Company:                                        18.0%
-                            Volta River Authority:                                    16.3%
-                            Societe Beninoise de Gaz SA:                              2.0%
-                            Societe Togolaise de Gaz SA:                              2.0%
-
-The latter two companies are two small companies based respectively in Benin and Togo, which are
-expected to help develop local distribution systems for gas transported in the new WAPCo pipeline.
-
-Gas Markets
-
-The initial (foundation) market for gas transported by the new WAPCo pipeline is the existing
-crude-oil-fired Takoradi Power Station in Ghana, plus two small existing liquid fuel power stations in
-Cotonou and Lomé. Substantial growth in the market for gas is projected, with several additional new
-power generation projects proposed in Ghana, Togo, and Benin. There are also opportunities to develop
-new industries in the region that would use natural gas for heat, and for the conversion of existing plants
-which presently use other fuel sources.
+units in future years to gain the ultimate expected capacity of 470 MMscf/day.
 
 
 I.A.4. Project Location: (Geographic location, information about the key environmental and social
 characteristics of the area and population likely to be affected, and proximity to any protected areas, or sites or
-
-                                                        4
-                                                                                                          ISDS
-
-
 critical natural habitats, or any other culturally or socially sensitive areas.)
+The Project area, from Ghana east to Nigeria, lies along the Gulf of Guinea shelf. The continental shelf is
+narrow in the Project area, ranging from 10 km to 90 km in width. The shelf breaks into the slope at
+approximately the 100 m isobath. A reef of ancient, fossilized coral lines the seaward edge of the
+continental shelf throughout the Project area. The onshore part of the Project in Nigeria lies in the
+southwest part of the country. The geology of this area is mostly sedimentary, with five major geological
+formations in this area: recent alluvium; coastal plain sands; Ilaro Formation of sands, clays, and shales;
+Ewekoro Formation of shales and limestones; and the Abeokuta Formation of sandstones and clays. The
+coastal plain sand is mostly soft, poorly sorted, clayey sands; pebble sands; and sandy clay.
 
-See description above.
+No critical natural habitat, either terrestrial or marine, will be converted. There are no living coral reefs in
+the vicinity of the pipeline. There are known sea turtle nesting areas near pipeline beach crossings, and the
+Environmental Management Plans (EMPs) contain an elaborate sea turtle protection protocol.
+
+Important cultural resources exist in the vicinity of the Project, such as medicinal plants in Benin; the Gao
+Lagoon and nearby sacred grove and shrine near Tema in Ghana; a sanctuary, sacred trees, and a cemetery
+near Gbetsogbe in Togo; and, in Nigeria, churches, gravesites, praying grounds, shrines, and the homes and
+palaces of traditional rulers. In the planning of the pipeline right-of-way and related facilities, care was
+taken to avoid community and population centers. There are no significant archeological features along the
+right-of-way.
 
 
 
@@ -145,95 +209,210 @@ Comments:
 
 C. Safeguard Policies Triggered (from PDS)
 (click on   for a detailed desciption or click on the policy number for a brief description)
-                                     Policy                                           Triggered
-    Environmental Assessment (OP 4.01, BP 4.01, GP 4.01)                         Yes      No       TBD
-    Natural Habitats (OP 4.04, BP 4.04, GP 4.04)                                 Yes      No       TBD
-    Forestry (OP 4.36, GP 4.36)                                                  Yes      No       TBD
-    Pest Management (OP 4.09)                                                    Yes      No       TBD
-    Cultural Property (OPN 11.03)                                                Yes      No       TBD
-    Indigenous Peoples (OD 4.20)                                                 Yes      No       TBD
-    Involuntary Resettlement (OP/BP 4.12)                                        Yes      No       TBD
-    Safety of Dams (OP 4.37, BP 4.37)                                            Yes      No       TBD
-    Projects in International Waters (OP 7.50, BP 7.50, GP 7.50)                 Yes      No       TBD
-    Projects in Disputed Areas (OP 7.60, BP 7.60, GP 7.60)*                      Yes      No       TBD
+                                      Policy                                           Triggered
+    Environmental Assessment (OP 4.01, BP 4.01, GP 4.01)                          Yes    No
+    Natural Habitats (OP 4.04, BP 4.04, GP 4.04)                                  Yes    No
+    Forestry (OP 4.36, GP 4.36)                                                   Yes    No
+    Pest Management (OP 4.09)                                                     Yes    No
+    Cultural Property (OPN 11.03)                                                 Yes    No
+    Indigenous Peoples (OD 4.20)                                                  Yes    No
+    Involuntary Resettlement (OP/BP 4.12)                                         Yes    No
+    Safety of Dams (OP 4.37, BP 4.37)                                             Yes    No
+    Projects in International Waters (OP 7.50, BP 7.50, GP 7.50)                  Yes    No
+    Projects in Disputed Areas (OP 7.60, BP 7.60, GP 7.60)*                       Yes    No
 
 
 
 Section II - Key Safeguard Issues and Their Management
 D. Summary of Key Safeguard Issues. Please fill in all relevant questions. If information is not available,
 describe steps to be taken to obtain necessary data.
+
+                                                        5
+                                                                                                              ISDS
+
 
 II.D.1a. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe
 any potential large scale, significant and/or irreversible impacts.
+A methodical and rigorous impact assessment was conducted to establish severity levels of specific Project
+activities on each of the potentially affected environmental media and socioeconomic aspects. The impact
+assessment process took into account mitigation measures already incorporated in the Project design
+specifications. (A set of general mitigation principles were applied to address the linear nature of the
+design and construction of the onshore pipeline installation Examples include: avoiding sensitive receptors
+in site and route design, avoid vegetation losses and/or reinstate vegetation, minimize the footprint size in
+site and route design, conserve and reuse topsoil, and develop and maintain alignment sheets that reduce
+impacts by making all relevant operational control information available by operation and geographic
+location.) When potential impacts were initially judged to be high or moderate even with the planned
+mitigation measures, additional measures were recommended to reduce the anticipated impacts to lower
+levels. In assessing socioeconomic impacts, it was assumed that the Resettlement Action Plans (RAPs)
+would be properly implemented. The RAPs intend to mitigate displacement, disruption of current land use,
+and reduction in means of livelihood for people affected by the Project. The result of the assessment of
+WAGP was that no potentially high severity impacts (as defined by the methodology) would remain after
+the planned mitigation measures are applied in accordance with current commitments and plans. All of the
+residual impacts become either moderate or low severity.
 
-Impacts include a variety of potential impacts on the terrestrial and marine ecosystems traversed by the
-pipeline. Alternatives that have been studied include (a) onshore routing of the pipeline, (b) power
-generation in Nigeria with electric transmission to the other countries, and (c) continuation of oil-fired
-generation in Ghana, Togo, and Benin (no pipeline or enhanced electric transmission).
-
-To address the issues, environmental experts have been engaged to do a major set of studies including those
-for OP 4.01 and OP 4.12. The studies include:
-
-    l Environmental Impact Assessments
-    l Resettlement Action Plans
-
-Large scale, significant, and/or irreversible impacts will be determined by the experts.
 
 II.D.1b. Describe any potential cumulative impacts due to application of more than one safeguard policy or
 due to multiple project component.
+Environmental and socioeconomic secondary impacts could occur "upstream" or "downstream" of the
+Project. For the initial gas supply to WAGP, wells and infrastructure are already in place, so there will be
+no significant drilling or gathering system installation upstream, in the Niger Delta, for the first five to ten
+years of operation. To address potential impacts of future increases in gas production that may occur, a
+covenant in the Access Code will require any supplier shipping gas through WAGP to be in compliance
+with applicable national environmental regulations. Downstream of the Project, the most immediate
+sources of potential impacts are modification of the electric generating facilities of the Foundation
+Customers. Covenants in the legal documents condition delivery of gas by WAPCo to the Volta River
+Authority facilities in Ghana on certification that the necessary environmental audits and Environmental
+Assessments (EAs) have been completed and implemented. In Benin and Togo, Communauté Electrique du
+Bénin has delivered to the Bank a written commitment to prepare and implement EAs, RAPs, and
+environmental audits satisfactory to the Bank for facilities in Cotonou, Maria Gleta, and Lomé.
 
-TBD
+Beyond the issues of upstream and downstream development, few indirect or secondary impacts were found
+to be significant, either in the country EAs or the regional EA, the latter having been designed to examine
+impacts from a broader perspective. The regional EA did not reveal any significant cumulative impacts ­
+that is, impacts of WAGP construction or operation in conjunction with other planned infrastructure
+projects or development activities. Adverse impacts can of course result from development that may be
+induced by the increased supply of electricity and gas if it is not planned and managed in accordance with
+national environmental regulations.
 
 
 II.D.1c Describe any potential long term impacts due to anticipated future activities in the project area.
+WAGP will provide a number of important benefits at the local and national level for the people of Benin,
+Ghana, Nigeria, and Togo. WAGP provides a clean, reliable energy source for expanding power
+generation in Benin, Ghana, and Togo and thus reduces the energy supply gaps in these countries.
+Monetary benefits to the countries are also realized through taxes paid by WAPCo. The Producers will
+realize additional revenue from the sale of gas transported by WAGP. Local economies will benefit from
 
-                                                       5
+                                                        6
                                                                                                            ISDS
 
 
+WAPCo's commitment to hiring employees and contractors from surrounding communities.
 
-The Project is expected to generate significant long-term positive impacts on air quality as a result of
-reductions in gas flaring and venting in Nigeria and from fuel switching from Bonny light crude and jet fuel
-to natural gas in Ghana, Togo, and Benin. No long-term adverse impacts are expected, but the EA will
-include examination of possible long-term impacts caused by or associated with the pipeline.
+The Sponsors have prepared a regional EA and individual country EAs and EMPs for Benin, Ghana,
+Nigeria, and Togo. The conclusion of the assessments was that no potentially high severity impacts would
+remain after the planned mitigation measures in the EMPs are applied in accordance with current
+commitments and plans. All of the residual impacts become either moderate or low severity.
 
 
 II.D.2. In light of 1, describe the proposed treatment of alternatives (if required)
+         The Project alternatives considered in the EA reflect the business capabilities and objectives of
+WAPCo and a limited number of competing power options and/or alternative energy resources. Besides the
+No-Project and Proposed Project Alternatives, the EA evaluated a select number of alternate scenarios.
+Two alternatives considered ­ developing gas-fueled power generation and export stations in Nigeria, and
+exporting natural gas as LNG ­ meet some of the energy supply objectives but do not provide comparable
+benefits. These alternatives either would produce more substantial environmental and socioeconomic
+impacts than WAGP, would not provide as timely a solution, and/or would incur higher costs for the same
+benefits as WAGP. A renewable fuels alternative would not contribute to flare reduction in Nigeria and
+presents challenges in terms of reliability, security, and feasibility for Benin, Ghana, and Togo. In
+addition, it is doubtful that the renewable fuels alternative could provide sufficient power for industrial
+uses.
 
-See II.D.1a above for alternatives study.
+         Alternatives for the pipeline routing were considered: combined onshore/offshore, onshore only,
+and offshore only. The selected option, a combination of onshore and offshore routes, provides the greatest
+benefits at the lowest level of environmental and socioeconomic impacts and least cost.
+
+         The EA considered design alternatives for nearly every aspect of the Project. Selection of preferred
+alternatives when devising, considering, and choosing between design options were based on a number of
+factors including: overall safety of the public and workers; environmental impact; potential impacts to
+communities; acceptance by stakeholders; best available practicable technologies; feasibility of
+construction, operation, and maintenance; and cost of construction, operation, and maintenance. Final
+design of the pipeline route was given considerable attention due to the linear nature of the Project and the
+extensive overall length. Within the preferred Onshore/Offshore Option, more specific routing options
+were considered and chosen in order to minimize environmental and socioeconomic impacts. Alternate
+construction techniques for installing the pipeline across the shorelines were also considered. In Nigeria,
+horizontal directional drilling (HDD) was selected as it created the least disturbance in the Badagry
+wetland-lagoon-barrier island crossing from the Lagos Beach Compressor Station. In Ghana, blasting and
+trenching across the rocky seafloor was selected over HDD (which was not feasible) and a rock saw (which
+created spoils management problems).
 
 
 II.D.3. Describe arrangement for the borrower to address safeguard issues
+Management of environmental and social impacts will be by means of an EMP included in the EA for each
+country but published as a free-standing document as well. The regional EA contains a consolidated EMP.
+The EMPs include monitoring to check whether the WAPCo operational controls and mitigation measures
+conform to planned arrangements, including regulatory requirements, whether they are being properly
+implemented, and whether they are effective. Third party monitors from within the Sponsors' organizations
+will assist in oversight of EMP implementation, and WAPCo will contract with environmental firms to
+conduct independent audits at intervals. WAPCo will develop final arrangements for monitoring and
+auditing in consultation with the Bank and national regulatory agencies. The audit reports will be made
+available to regulatory agencies and the Bank, MIGA, and Zurich/OPIC. Virtually all elements of the
+EMPs will be implemented by WAPCo, which is committed to provide the essential personnel and
+
+                                                       7
+                                                                                                          ISDS
 
-A Category A Environmental Assessment to Bank standards under OP 4.01 is being undertaken by ICF
-Consulting Group, Inc, under contract with WAPCo. The Bank's safeguards specialists have been fully
-engaged in the process and have provided detailed guidance and comments to the consultants and sponsors.
-In addition, Nexant Limited, under a contract with USAID, is assisting the four States in ensuring
-environmental compliance.
 
-A portion of the new pipeline in Nigeria, from the interface near Lagos to the ocean, will require some
-resettlement in the right-of-way although physical relocation of affected pople is expected to be low. When
-the final route is determined, a Resettlement Action Plan (RAP) done to Bank standards under OP 4.12 will
-be submitted to and agreed by the Bank, and will be agreed with the Government of Nigeria. RAPs will
-also be written for Benin, Togo, and Ghana (Tema only) corridors.
-
-As the new pipeline will cross international waterways, OP 7.50 is triggered. It has been determined that
-formal notification is not necessary because all four riparian states are party to the Treaty implementing
-WAGP. Environmental aspects of the marine pipeline will be fully covered in the EA.
-
-The EA will ascertain whether policy on Natural Habitats (OP 4.04) is applicable. Under the policy on
-Cultural Properties (OPN 11.03), a survey is being carried out in Nigeria to determine whether there are
-significant cultural property issues along the pipeline corridor. A report of findings will be part of the EA.
+specialized skills. Budgets have been calculated for EMP implementation during construction and
+operation. Government agencies will be welcome to participate in various monitoring and auditing
+processes.
 
 
 II.D.4. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard
 policies, with an emphasis on potentially affected people.
+The extensive stakeholder consultations were conducted by WAPCo during preparation of the EAs and
+RAPs. The first consultations actually preceded EA preparation, having begun at the conceptual stage of
+front end engineering design as early as 2000. Consultations on the EAs were initiated by WAPCo in
+September 2002 and have continued up to the public hearings held by the environmental agencies of Benin,
+Ghana, Nigeria and Togo in March and April 2004 as part of the national review and clearance procedures.
+Drafts of the EAs were publicly disclosed at a total of 41 locations across the four countries prior to the
+hearings.
 
-A consultation process has been agreed with the Sponsors that involves on-site meetings in each country
-with affected parties from the government partners to the village and town families who may be affected.
-The final draft Regional EA and each respective country-specific EA and RAP will be placed in public
-locations in the four countries (TBD), as well as the Bank's InfoShop, in compliance with the Bank's policy
-on disclosure.
+The country EAs and RAPs and the Regional EA were subsequently reviewed by the World Bank, revised
+by WAPCo's consultants, and cleared in final draft form for disclosure in accordance with Bank policies.
+The documents were posted on the WAGP website and re-disclosed at the same 41 locations, plus the
+Public Information Centers in the Bank's country offices and the InfoShop in Washington. Disclosure was
+completed on July 7, 2004.
+
+Final versions of the EAs incorporating changes requested by the national governments and additional
+changes requested by the Bank were prepared and delivered to the Bank during October 2004, along with
+free-standing EMPs. They will replace the previously-disclosed versions at the same locations. No
+additional work was required on the RAPs, hence re-disclosure is not necessary.
+
+The Bank undertook missions in the four countries to independently appraise and validate the consultation
+process conducted by WAPCo. The results of those missions are unambiguous and can be summarized as
+follows. In 15 meetings ­ five with national NGOs and national chapters of international NGOs ­ and 10
+with chiefs, village notables, and citizens of communities along the pipeline right-of-way (ROW) ­ Bank
+staff confirmed that there is broad general support for the Project. Not one of the 952 individuals and 11
+NGO representatives that attended spoke in opposition to it, and many expressed impatience with the length
+of time being taken to get the Project started.
+
+There was consensus among the communities that they had received enough information about the Project
+during the consultations. Community members were generally satisfied with the outcomes of the
+consultations; they had received acceptable responses to most of their questions and concerns, and, in at
+least three key locations, their advice to WAPCo had directly resulted in design changes. The views of
+NGOs were more varied, but the majority expressed favorable opinions of the consultations. One NGO in
+Ghana felt that the consultation process emphasized Project benefits and downplayed potential negative
+aspects, one in Nigeria criticized the process as not being truly consultative (a point of view that was not
+confirmed by the rest of the discussion with this and two other Nigerian NGOs, considering that fact that
+they had not read any of the Project documents), whereas three NGOs in Togo were pleased to have been
+actively involved in EA preparation and to have seen all of their recommendations incorporated in the final
+draft EA. Emphasis during Project preparation, in the minds of both NGOs and communities, must be on
+fulfilling the commitments set out in RAPs and EMPs and expressed by WAPCo in public meetings.
+
+Disclosure of EAs and RAPs conformed to Bank and national requirements, but the information at local
+government centers was not as easily accessible to individuals in the communities as it should have been
+because of sheer volume, complexity, location, language, and, in some cases, bureaucracy. NGOs were
+more readily able to obtain the documents, although not all had done so. WAPCo has agreed with the
+appraisal recommendations that short, local-language summaries explaining the obligations of the
+
+                                                        8
+                                                                                                           ISDS
+
+
+respective parties under RAPs and EMPs should be prepared and distributed in the affected communities.
+A useful addition would be an information workshop in each group of communities to provide pertinent,
+practical information on topics such as risks and emergency response. However, this should not be done
+before the Final Investment Decision date; to provide additional information before the communities can see
+that the Project has begun will only intensify frustration and bad feeling among people that feel adequately
+supplied (overloaded in some cases) with information and impatient with inaction. In the longer term, the
+Bank needs to consider ways to improve the efficacy of disclosure for affected communities.
+
+MIGA has also carried out its review of the Project in collaboration with Bank environmental and social
+specialists assigned to work on the WAGP Project. Site visits by MIGA environmental and social
+specialists were carried out as part of MIGA's environmental and social due diligence during Project
+underwriting to verify that the Project will comply with MIGA's Safeguard Policies and environmental
+guidelines. The WAGP Project is in conformity with MIGA Safeguard Policies and associated procedures
+for public involvement and disclosure.
 
 
 E. Safeguards Classification (select in SAP). Category is determined by the highest impact in any policy. Or
@@ -245,16 +424,11 @@ triggered the provisions of that policy apply.
 [ ] S2. ­ One or more safeguard policies are triggered, but effects are limited in their impact and are
           technically and institutionally manageable
 [ ] S3. ­ No safeguard issues
-
-                                                     6
-                                                                                                   ISDS
-
-
 [ ] SF. ­ Financial intermediary projects, social development funds, community driven development or similar
-        projects which require a safeguard framework or programmatic approach to address safeguard
-        issues.
+          projects which require a safeguard framework or programmatic approach to address safeguard
+          issues.
 
-                                                     7
+                                                     9
                                                                                                     ISDS
 
 
@@ -263,16 +437,16 @@ triggered the provisions of that policy apply.
 F. Disclosure Requirements
 
 Environmental Assessment/Analysis/Management Plan:                        Expected         Actual
-Date of receipt by the Bank                                              12/31/2003
-Date of "in-country" disclosure                                          1/30/2004
-Date of submission to InfoShop                                           1/30/2004
-Date of distributing the Exec. Summary of the EA to the Executive        1/30/2004
+Date of receipt by the Bank                                              12/31/2003      6/1/2004
+Date of "in-country" disclosure                                          1/30/2004       2/1/2004
+Date of submission to InfoShop                                           1/30/2004       7/7/2004
+Date of distributing the Exec. Summary of the EA to the Executive        1/30/2004       7/19/2004
 Directors (For category A projects)
 
 Resettlement Action Plan/Framework:                                       Expected         Actual
-Date of receipt by the Bank                                              1/15/2004
-Date of "in-country" disclosure                                          1/30/2004
-Date of submission to InfoShop                                           1/30/2004
+Date of receipt by the Bank                                              1/15/2004       6/1/2004
+Date of "in-country" disclosure                                          1/30/2004       2/1/2004
+Date of submission to InfoShop                                           1/30/2004       7/7/2004
 
 Indigenous Peoples Development Plan/Framework:                            Expected         Actual
 Date of receipt by the Bank                                              Not Applicable Not Applicable
@@ -291,12 +465,12 @@ Date of submission to InfoShop                                           Not App
 If in-country disclosure of any of the above documents is not expected, please explain why.
 
 Signed and submitted by               Name                                               Date
-Task Team Leader:                     Michel E. Layec                                    11/18/2003
-Project Safeguards Specialists 1:     Robert A. Robelus/Person/World Bank                11/25/2003
-Project Safeguards Specialists 2:     Dan R. Aronson/Person/World Bank                   11/25/2003
-Project Safeguards Specialists 3:     Marea Eleni Hatziolos/Person/World Bank            11/21/2003
+Task Team Leader:                     Michel E. Layec                                    11/16/2004
+Project Safeguards Specialists 1:     Robert A. Robelus/Person/World Bank                11/16/2004
+Project Safeguards Specialists 2:     Mohamed Arbi Ben-Achour/Person/World Bank          11/16/2004
+Project Safeguards Specialists 3:     Marea Eleni Hatziolos/Person/World Bank            11/16/2004
 
 Approved by:                         Name                                                Date
-Regional Safeguards Coordinator: Thomas E. Walton                                        12/3/2003
-Sector Manager                        Yusupha B. Crookes                                 12/2/2003
+Regional Safeguards Coordinator: Thomas E. Walton                                        11/17/2004
+Sector Manager                        Yusupha B. Crookes
 

@@ -1,0 +1,489 @@
+Page  1
+1 
+Report No.  AC715 
+Integrated Safeguards Data Sheet 
+Section I – Basic Information 
+Date ISDS Prepared/Updated: April 19, 2004 
+A. Basic Project Data 
+(from PDS) 
+I.A.1. Project Statistics 
+COUNTRY: India 
+PROJECT ID: P084632 
+PROJECT: Hydrology Project - Phase II 
+TTL: E. V. Jagannathan 
+APPRAISAL DATE: April 12, 2004 
+IBRD AMOUNT ($m): 105.51 
+(tentative) 
+BOARD DATE: June 24, 2004 
+IDA AMOUNT ($m): - 
+MANAGING UNIT: SASRD 
+SECTOR: Irrigation and Drainage 
+(100%) 
+Page  2
+2 
+LENDING INSTRUMENTS: Specific Investment 
+Loan 
+STATUS: Appraisal 
+Page  3
+3 
+I.A.2. Project Objectives (From PDS)  
+The Project Development Objective (PDO) will be to extend and promote the sustained and 
+effective use of the Hydrologic Information System (HIS) by all potential users concerned with 
+water resources planning and management, both public and private, thereby contributing to 
+improved productivity and cost-effectiveness of water-related investments in the 13 states and 
+eight Central agencies
+1
+. The coverage of existing states under the project is to help these 
+agencies from moving over from development of HIS -as in recently concluded Hydrology 
+Project (HP-I)- towards use of HIS in water resources planning and management. The PDO will 
+be achieved by: (a) strengthening the capacity of hydrology departments (surface and 
+groundwater) to develop and sustain the use of the HIS for hydrological designs and decision 
+tools thus creating enabling environment for improved integrated water resources planning and 
+management; (b) improving the capabilities of implementing agencies at state/central level in 
+using HIS for efficient water resource planning and management and reducing vulnerability to 
+floods and droughts and thereby meeting the country’s poverty reduction objectives; (c) 
+establishing and enhancing user-friendly, demand responsive and easily accessible HIS to 
+improve shared vision and transparency of HIS between all users; and (d) improving access to 
+the HIS by public agencies, civil society organizations and the private sector through awareness 
+building supporting outreach services. Greater use of an improved HIS is expected to have a 
+broad but definite impact on the planning and design of water resources schemes, from which 
+the rural and urban poor will have secure and sustainable access to water for multi-purpose 
+livelihood uses. 
+ 
+I.A.3. Project Description (From PDS)  
+ 
+The project would consist of three main components: (a) 
+Institutional strengthening
+, covering 
+all 13 states and eight central agencies; (b) 
+Vertical Extension
+, covering the nine existing states 
+and eight central agencies including the two new central agencies CPCB and BBMB; and (c) 
+Horizontal Expansion
+, covering the four new States. 
+ 
+Component I
+- 
+Institutional Strengthening
+ would comprise three sub-components, namely: (i) 
+consolidation of HP-I activities in the existing states; (ii) awareness raising, dissemination and 
+knowledge sharing; and (iii) implementation support. Under the consolidation of HP-I 
+activities, the project would support the existing  implementing agencies (IAs) with 
+continued/extended training in HIS data processing and associated software provided under HP-
+I, upgrading IT infrastructure and hydrometric equipments as well as training in the use of 
+specialized water quality (WQ) equipment. The project would also finance improved data 
+processing, spatial analysis and dissemination of standard and user-specified maps, together 
+with related capacity building. The awareness raising, dissemination and knowledge sharing 
+sub-component would provide for a management consultancy services to assist the HIS 
+Coordinating Secretariat (HISCS) – previously the Project Coordinating Secretariat (PCS) - 
+with the formulation of a strategy and detailed operational proposals for spreading awareness, 
+dissemination and knowledge sharing among IAs and HIS users, and to train IA in these areas. 
+Implementation support sub-component would include consultancies to assist the HISCS and 
+State-level IAs, and logistical support and incremental recurrent costs, including incremental 
+staff and operation and maintenance (O&M) costs. 
+                                                
+ 
+1
+ 
+These are (i) states included in HP-I: Andhra Pradesh, Gujarat, Maharashtra, Karnataka, Kerala, Madhya Pradesh, Chattisgarh, 
+Page  4
+4 
+Component II
+ - 
+Vertical extension
+: This component encompasses all those activities which would enhance the use 
+of HIS and demonstrate real hydrological data applications for future replication. Sub-components include: (i) the 
+development of hydrological design aids, (ii) the development of decision support systems; and (iii) implementation 
+of purpose-driven studies. All sub-components would be supported by upgrading in remote sensing and GIS 
+capacities and the provision of spatial data inputs and outputs and data visualization. The development of 
+hydrological design aids in Surface Water (SW), Groundwater (GW) and Water Quality (WQ) domains would use 
+HIS data for the creation/development of standardized hydrological design aids using well-established and 
+internationally-acceptable methodologies. These design aids would not only facilitate and expedite hydrologic 
+design but would also, for the first time, usher in a uniform approach to the hydrological assessment of both gauged 
+and un-gauged catchments. This sub-component would be implemented by Central Water Commission (CWC) and  
+Central Groundwater Board (CGWB), in conjunction with National Institute of Hydrology (NIH) and participating 
+IAs, supported by various consultancies. The development of decision support systems (DSS), consisting of 
+information systems linked to appropriate models, would also be supported to promote the use of the data generated 
+under HIS. Two types of DSS would be included: (i) water resources planning and basic operational DSS for 
+selected states and central agencies. Areas that would be covered could include surface water planning, groundwater 
+planning, reservoir operation, irrigation management, drought monitoring and analysis/management, water quality, 
+and conjunctive use of surface and ground water; and (ii) a real-time advanced operational DSS for the Bhakra-Beas 
+Management Board (BBMB) in the Sutlej and Beas upstream basins. All the relevant IAs in the other states would 
+be associated in the development and implementation of the real-time DSS. Lessons arising from these DSS would 
+be used by all states to undertake similar activities. 
+ 
+The state and central agencies have proposed a large number of purpose-driven studies. A process to review and 
+select these proposals in the project would consider the following three criteria: (i) the study should be related to an 
+identified issue in water management in the agency’s area of operation; (ii) it should be related to specific issues of 
+public concern in water management for which solutions are to be identified; and (iii) future replication of the 
+proposed study methodology is within the agency’s jurisdiction, is feasible and cost-effective.  The studies to be 
+supported by the project’s Studies Fund would follow screening, review and approval by the HIS Management 
+Group (Technical). This fund is of major importance, as purpose-driven studies will be the main activities directly 
+implemented by recently concluded Hydrology Project (HP I) agencies, other activities relying largely on external 
+consultancies. Implementation progress would be assessed during the first mid-term review ( MTR) in year 3, and 
+recommendations for further studies would be made on the basis of experience and achievements 
+ 
+Component III - Horizontal expansion
+: In the four new States, four sub-components would be financed: (i) 
+upgrading/establishment of data collection network; (ii) establishment of data processing and management systems; 
+(iii) purpose-driven studies; and (iv) training. Under the first subcomponent, existing SW, GW and WQ data 
+collection/monitoring networks and WQ laboratories would be upgraded/replaced. Under the second sub-
+component, data processing, management and communication systems would be established for processing and 
+storing of SW, GW, WQ and rainfall/climatic data. The project also plans to develop data banks in all participating 
+state agencies responsible for SW and GW hydrology, respectively. The data that is gathered by the states and 
+central agencies will be shared via NICNET/internet among the states and with the respective central agencies as per 
+the existing protocols developed under HP I, moving towards a vision of unrestricted transparent data exchange 
+using established HIS. All data centers would be equipped with computer hardware and software for data 
+processing/storage. The third sub-component, purpose-driven studies would be similar to those supported under the 
+vertical extension component, and the same procedure would be followed in their selection/implementation. The 
+project would also provide formal and on-the-job training using, largely, a training-of-trainers approach and the new 
+state staff. NIH, NWA, CWPRS, IMD and specialist consultants would provide appropriate training in line with the 
+scope, content and coverage of training courses provided during HP-I, and both professional and sub-professional 
+staff would also be given formal training in hydrology. 
+                                                                                                                               
+                             
+ 
+Orissa, and Tamil Nadu; and (ii) new states: Himachal Pradesh, Goa, Pondicherry and Punjab, and (iii) Central Agencies: 
+Ministry of Water Resources (MoWR); Central Water Commission (CWC), Central Groundwater Board (CGWB), National 
+Institute of Hydrology (NIH), Central Water and Power Research Station (CWPRS), India Meteorological Department (IMD), 
+Central Pollution Control Board (CPCB), and  Bakhra-Beas Management Board (BBMB).   
+Page  5
+5 
+I.A.4. Project Location: (Geographic location, information about the key environmental and social characteristics of 
+the area and population likely to be affected, and proximity to any protected areas, or sites or critical natural 
+habitats, or any other culturally or socially sensitive areas.) 
+ 
+The Project would cover (i) the nine on-going states of HP-I: Andhra Pradesh, Gujarat, 
+Maharashtra, Karnataka, Kerala, Madhya Pradesh, Chattisgarh, Orissa, and Tamil Nadu; (ii) four 
+new states: Himachal Pradesh, Goa, Pondicherry and Punjab, and (iii) eight Central Agencies: 
+Ministry of Water Resources (MoWR); Central Water Commission (CWC), Central 
+Groundwater Board (CGWB), National Institute of Hydrology (NIH), Central Water and Power 
+Research Station(CWPRS), India Meteorological Department (IMD), Central Pollution Control 
+Board (CPCB), and Bhakra-Beas Management Board (BBMB). The project covers the north-
+western and southern part of India. 
+ 
+The nature of the project is such that no adverse impacts are expected on any critical or sensitive areas. OP7.50 on 
+International Waterways is not triggered as HP-II is basically  a capacity building project to ensure that reliable data 
+and techniques are built into water resources project planning, design and operation. The project does not propose  
+to  finance preparation or detailed engineering design or of implementation of types of projects referred in para 2 of 
+the OP.
+ 
+B1. Check Environmental Classification 
+A [ ], B [ ], C [x], FI [ ], TBD [ ] 
+Comments: 
+There are not expected to be any significant negative environmental or social 
+consequences arising from the project and any construction/installation impacts are expected to 
+be very localized, temporary and insignificant.  In fact, the project interventions and outcomes 
+will contribute to better overall sustainable environmental management through generating: (i) a 
+reliable and accessible hydrological knowledge base of meteorology, surface and ground water 
+resources and water quality; (ii) promotion of use of hydrological models and analytical tools 
+such as decision support systems to mainstream environmental issues in water resources 
+planning and management; and (iii) promotion of special-purpose studies related to critical issues 
+on environmental concerns in the water sector such as the pollution of surface and groundwater 
+and resource conservation.  The databases and analytical tools developed by the project should 
+also help in the enhancement of dam safety in many basins.  The project would also help to 
+coordinate the work of various bodies (e.g. water and environmental agencies) through water 
+quality data generation, verification, management and use. In particular, the Central Pollution 
+Control Board will be strengthened by the creation of  a water quality data center and 
+development of appropriate analytical tools to use these data,  training and outreach, and the 
+harmonization of water quality measurement, analysis and reporting protocols. 
+C. Safeguard Policies Triggered 
+(from PDS) 
+Click on Policy name for brief summary of objectives, triggers and requirements 
+Click on Policy reference number for full policy
+ 
+I.C1. Table on applicability 
+Yes 
+No 
+TBD 
+Environmental Assessment (OP/BP/GP 4.01) 
+[x] 
+[ ] 
+[ ] 
+Forestry (OP/GP 4.36) 
+[ ] 
+[x] 
+[ ] 
+Natural Habitats (OP/BP 4.04) 
+[ ] 
+[x] 
+[ ] 
+Safety of Dams (OP/BP 4.37) 
+[ ] 
+[x] 
+[ ] 
+Pest Management (OP 4.09) 
+[ ] 
+[x] 
+[ ] 
+Involuntary Resettlement (OD 4.30) 
+[ ] 
+[x] 
+[ ] 
+Indigenous Peoples (OD 4.20) 
+[ ] 
+[x] 
+[ ] 
+Page  6
+6 
+Cultural Property (OPN 11.03) 
+[ ] 
+[x] 
+[ ] 
+Projects in Disputed Areas (OP/BP/GP 7.60)
+*
+ 
+[ ] 
+[x] 
+[ ] 
+Projects on International Waterways (OP/BP/GP 7.50)  
+[ ] 
+[x] 
+[ ] 
+ 
+ 
+Section II – Key Safeguard Issues and Their Management  
+II.D. Summary of Key Safeguard Issues
+. 
+Please fill in all relevant questions. If information 
+is not available, describe steps to be taken to obtain necessary data. 
+II.D.1a. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts. 
+ 
+There are no significant safeguard issues associated with the project.  The activities 
+supported by the project, which is primarily aimed at developing and using hydrologic 
+knowledge, are not expected to have any significant safeguard issues and adverse impacts.  
+The experience with similar activities during the first project has not indicated any 
+significant safeguard issue and the experience with this second phase should be similar. 
+ 
+II.D.1b. Describe any potential cumulative impacts due to application of more than one 
+safeguard policy or due to multiple project component.  
+ 
+The project components are expected to improve the estimation of cumulative impacts of 
+development in future projects. 
+ 
+II.D.1c Describe any potential long term impacts due to anticipated future activities in the 
+project area. 
+ 
+In the long term it is expected that the strengthening of hydrological network, knowledge 
+base, design aids and analytical tools facilitated by the project will contribute to better water 
+resource engineering designs and related technical and environmental assessments in the 
+project area. 
+ 
+II.D.2. In light of 1, describe the proposed treatment of alternatives (if required) 
+ 
+Key alternatives that have been looked at for the project are described in the PAD. 
+Area/state-level/water sector approach were considered but rejected because of the need for a 
+strategic, broad approach to the development of a comprehensive HIS data base, the need to 
+build firmer sectoral links between and among states and central governments, and to 
+increase broad levels of awareness and use of HIS among both concerned government 
+agencies and civil society. The inclusion of the Central Pollution Control Board was 
+considered and accepted to serve as a nodal agency for water quality aspects. The more 
+complex formal involvement of other agencies (e.g. State Pollution Control Boards) would 
+be considered at a later state in project implementation. 
+ 
+                                                
+ 
+*
+ 
+By supporting the proposed project, the Bank does not intend to prejudice the final determination of the parties' 
+claims on the disputed areas
+ 
+Page  7
+7 
+II.D.3. Describe arrangement for the borrower to address safeguard issues 
+ 
+The following table comments on arrangements for the requirements of each safeguard 
+policy. 
+WB Safeguard 
+Policy 
+Trigger
+ed 
+(Yes/No
+) 
+Comments 
+Environmental 
+Assessment (OP 
+4.01, BP 4.01, GP 
+4.01) 
+Yes 
+Triggered, but the project is not expected to have any 
+adverse environmental impacts.  The project seeks to 
+improve the environmental knowledge base, 
+environmental awareness, synergize data and analysis 
+on water quality, improve access to water related 
+information, develop analytical tools such as decision 
+support systems and design aids that, in addition to 
+the improved knowledge base and special-purpose 
+studies are expected to better inform environmental 
+activities and improve future environmental 
+assessments at least in the project areas. 
+Natural habitats 
+(OP 4.04, BP 4.04, 
+GP 4.04) 
+No  
+Forestry (OP 4.36, 
+GP 4.36) 
+No  
+Pest Management 
+(OP 4.09) 
+No  
+Cultural Property 
+(OPN 11.03) 
+No  
+Indigenous Peoples 
+(OD 4.20) 
+No  
+Involuntary 
+Resettlement (OD 
+4.30) 
+No 
+There is not expected to be any land acquisition or 
+involuntary resettlement under the project.  The civil 
+structures (water quality laboratories; data centers; 
+gauge sites, etc.) proposed in HP-II generally 
+consist of small buildings and will be constructed on 
+public land, as was the case in HP-I. Therefore, the 
+safeguard policy on involuntary resettlement is not 
+triggered. 
+Safety of Dams 
+(OP 4.37, BP 4.37) 
+No 
+The databases and analytical tools developed by the 
+project should help in the enhancement of dam 
+safety in many basins. 
+Projects in 
+International 
+Waters (OP 7.50, 
+BP 7.50, GP 7.50) 
+No 
+This was not triggered based on legal specialist 
+advice given the nature of the project 
+Projects in 
+Disputed Areas 
+(OP 7.60, BP 7.60, 
+GP 7.60) 
+No  
+ 
+  The project supports the acquisition and use of environmental data.  Technical assistance on 
+management/monitoring and technical issues is provided in this project.  Training of staff on 
+Page  8
+8 
+II.D.4. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard 
+policies, with an emphasis on potentially affected people. 
+ 
+The key stakeholders of this project are the project agencies (surface and groundwater 
+agencies at the state level for existing and new project states, participating central agencies), 
+other state and central agencies are associated with various aspects of hydrology (climate, 
+surface water, ground water and water quality) data generation, collation, analysis, storage, 
+dissemination and use as well as members of civil society who use hydrology data. The 
+Hydrologic Data User Groups (HDUG), websites, publications, consultations, workshops, 
+and awareness-building activities provide an opportunity for various stakeholders (including 
+government, NGOs, academia, private sector and the general public) to interact and make the 
+best use of the available knowledge base and analytical capacity.  The ultimate aim of the 
+project is to create an easily accessible, reliable and comprehensive hydro-meteorology 
+database that would help stakeholders make more informed decisions.   
+ 
+The improved knowledge base would be augmented by assistance on design aids and the 
+development of tools such as design aids, purpose-driven studies, and DSS for planning, 
+flood management and special-purposes that should assist the multiple stakeholders in 
+managing droughts, floods and other aspects of integrated water resources management. 
+Awareness activities are also proposed to increase stakeholder awareness of key water and 
+related environmental issues.  The project also includes provisions for training and 
+dissemination workshops and other consultation/dissemination activities at various levels. 
+ 
+E. Safeguards Classification
+ (select one).
+ Category is determined by the highest impact in 
+any policy. Or on basis of cumulative impacts from multiple safeguards. Whenever an 
+individual safeguard policy is triggered the provisions of that policy apply.
+ 
+[ ] S
+1
+. – Significant, cumulative and/or irreversible impacts; or significant technical and 
+institutional risks in management of one or more safeguard areas  
+[ ] S
+2
+. – One or more safeguard policies are triggered, but effects are limited in their impact 
+and are technically and institutionally manageable 
+[x] S
+3
+. – No safeguard issues 
+[ ] S
+F
+ – Financial intermediary projects, social development funds, community driven 
+development or similar projects which require a safeguard framework or programmatic 
+approach to address safeguard issues.  
+F. Disclosure Requirements                                        Expected Date Actual Date 
+Environmental Assessment/Analysis/Management Plan:  
+Date of receipt by the Bank 
+N/A 
+Date of “in-country” disclosure 
+N/A 
+Date of submission to InfoShop 
+N/A 
+For category A projects, date of distributing the Executive Summary of the EA to the Executive Directors
+ N/A 
+Resettlement Action Plan/Framework: 
+Date of receipt by the Bank 
+N/A 
+Date of “in-country” disclosure 
+N/A 
+Date of submission to InfoShop 
+N/A 
+Indigenous Peoples Development Plan/Framework:  
+Date of receipt by the Bank 
+N/A 
+Date of “in-country” disclosure 
+N/A 
+Date of submission to InfoShop 
+N/A 
+Page  9
+9 
+Pest Management Plan:  
+ 
+Date of receipt by the Bank 
+N/A 
+Date of “in-country” disclosure 
+N/A 
+Date of submission to InfoShop 
+N/A 
+Dam Safety Management Plan:  
+  
+Date of receipt by the Bank 
+N/A 
+Date of “in-country” disclosure 
+N/A 
+Date of submission to InfoShop 
+N/A 
+If in-country disclosure of any of the above documents is not expected, please explain why. 
+No EA or other safeguard documents to disclose given the nature of the project. 
+Signed and submitted by:  
+Task Team Leader: 
+E.V. Jagannathan  
+Date: April 21, 2004 
+Project Safeguards Specialist 1: 
+Nagaraja Rao Harshadeep   
+Date: April 19, 2004 
+Project Safeguards Specialist 2: 
+ 
+ 
+Date: 
+Project Safeguards Specialist 3: 
+ 
+ 
+Date: 
+Approved by: 
+Regional Safeguards Coordinator 
+Frederick Edmund  Brusberg  
+Date  
+Comments 
+Sector Manager 
+Gajanand Pathmanathan  
+ 
+Date: April 21, 2004 
+Comments 
+N/A Not Available 
+By supporting the proposed project, the Bank does not intend to prejudice the final determination of the parties' 
+claims on the disputed areas (this disclaimer appears only for projects triggering OP/BP 8.60)
+ 

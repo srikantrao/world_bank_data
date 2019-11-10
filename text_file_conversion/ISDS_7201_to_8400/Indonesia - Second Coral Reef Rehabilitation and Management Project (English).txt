@@ -2,12 +2,12 @@ Page  1
  
  
 Page  2
-Proposed ISDS PAD Format – Draft Pre-meeting with ISG - March 15, 2004 
+Proposed ISDS PAD Format – Draft Pre-meeting with ISG - March 2, 2004 
  
-Integrated Safeguards Data Sheet (ISDS)       AC545 
+Integrated Safeguards Data Sheet (ISDS) 
 Section I – Basic Information 
 Date ISDS Prepared/Updated: 
-December 3, 2003
+March 2, 2004
  
 A. Basic Project Data  
 A.1. Project Statistics 
@@ -58,7 +58,7 @@ of coral reefs and associated ecosystem resources, which will in turn, enhance t
 communities in Indonesia. 
  
 Page  3
-Proposed ISDS PAD Format – Draft Pre-meeting with ISG - March 15, 2004 
+Proposed ISDS PAD Format – Draft Pre-meeting with ISG - March 2, 2004 
  
 A.3. Project Description  
  
@@ -137,7 +137,7 @@ Cultural Property (draft OP 4.11 - OPN 11.03 -)
 [X] 
  
 Page  4
-Proposed ISDS PAD Format – Draft Pre-meeting with ISG - March 15, 2004 
+Proposed ISDS PAD Format – Draft Pre-meeting with ISG - March 2, 2004 
  
 Involuntary Resettlement (OP/BP 4.12) 
 [ ] 
@@ -174,7 +174,7 @@ By supporting the proposed project, the Bank does not intend to prejudice the fi
 claims on the disputed areas
  
 Page  5
-Proposed ISDS PAD Format – Draft Pre-meeting with ISG - March 15, 2004 
+Proposed ISDS PAD Format – Draft Pre-meeting with ISG - March 2, 2004 
  
  
 Section II – Key Safeguard Issues and Their Management  
@@ -224,7 +224,7 @@ will be assisted by international consultants and budget for technical assistanc
 order to ensure the capacity is present to review micro-projects and assist in their design, and in 
 the implementation of the Framework.  
 Page  6
-Proposed ISDS PAD Format – Draft Pre-meeting with ISG - March 15, 2004 
+Proposed ISDS PAD Format – Draft Pre-meeting with ISG - March 2, 2004 
  
 D.5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on 
 safeguard policies, with an emphasis on potentially affected people. 
@@ -276,7 +276,7 @@ F
 . – Financial intermediary projects 
  
 Page  7
-Proposed ISDS PAD Format – Draft Pre-meeting with ISG - March 15, 2004 
+Proposed ISDS PAD Format – Draft Pre-meeting with ISG - March 2, 2004 
  
  
 F. Disclosure Requirements                                        Date
@@ -291,7 +291,8 @@ Date of “in-country” disclosure
 10/06/2003
    or Not Applicable 
 Date of submission to InfoShop 
-…/…/…      or Not Applicable 
+12/10/2003
+   or Not Applicable 
 For category A projects, date of distributing the Executive Summary of the EA to the Executive Directors
  
 …/…/…      or Not Applicable 
@@ -360,8 +361,8 @@ Yes
                  
 Does the credit/loan incorporate mechanisms to mitigate the potential adverse impacts on physical cultural 
 resources?                                                                                                  
-Yes
-                  
+NO
+                
 OD 4.20 - Indigenous Peoples:  
 Has a separate indigenous people development plan been prepared in consultation with the Indigenous 
 People?                                                                                                       
@@ -381,7 +382,7 @@ Has the sector-wide analysis of policy and institutional issues and constraints 
 No
  
 Does the project design include satisfactory measures to overcome these constraints?                  
-Yes
+No
      
 Does the project finance commercial harvesting, and if so, does it include provisions for certification 
 system?                                                                                                                        
@@ -389,7 +390,7 @@ system?
 No
  
 Page  8
-Proposed ISDS PAD Format – Draft Pre-meeting with ISG - March 15, 2004 
+Proposed ISDS PAD Format – Draft Pre-meeting with ISG - March 2, 2004 
  
 OP/BP 4.37 - Safety of Dams:  
 Have dam safety plans been prepared?                                                                                           
@@ -407,22 +408,30 @@ awareness and training?
 No
  
 OP 7.50 - Projects on International Waterways:  
-Have the other riparians been notified of the project?                                                                        Y
-es     No 
+Have the other riparians been notified of the project?                                                                        
+No 
 If the project falls under one of the exceptions to the notification requirement, then has this been cleared 
-with the Legal Department, and the memo to the RVP prepared and sent?                                       Yes     No 
+with the Legal Department, and the memo to the RVP prepared and sent?                                       
+No
+ 
 What are the reasons for the exception?      Please explain:………………………… 
 Has the RVP approved such an exception?                                                                                        
-Yes     No 
+No
+ 
 OP 7.60 - Projects in Disputed Areas
 :  
 Has the memo conveying all pertinent information on the international aspects of the project, including the 
 procedures to be followed, and the recommendations for dealing with the issue, been prepared, cleared with 
-the Legal Department and sent to the RVP?                                                                                   Yes
-     No 
-Does the PAD/MOP include the standard disclaimer referred to in the OP?                                  Yes     No 
+the Legal Department and sent to the RVP?                                                                                      
+ 
+No 
+Does the PAD/MOP include the standard disclaimer referred to in the OP?                                     
+No
+ 
 BP 17.50 - Public Disclosure:  
-Have relevant safeguard policies documents been sent to the World Bank's Infoshop?                   Yes     No 
+Have relevant safeguard policies documents been sent to the World Bank's Infoshop?                   
+Yes
+      
 Have relevant documents been disclosed in-country in a public place in a form and language that are 
 understandable and accessible to project-affected groups and local NGOs?                                     
 Yes
@@ -430,16 +439,23 @@ Yes
 All Safeguard Policies
 : 
 Have satisfactory calendar, budget and clear institutional responsibilities been prepared for the 
-implementation of the safeguard measures?                                                                                    Ye
-s     No 
-Have safeguard measures costs been included in project cost?                                                       Yes     No 
-Will the safeguard measures costs be funded as part of project implementation?                           Yes     No 
+implementation of the safeguard measures?                                                                                    
+Yes
+      
+Have safeguard measures costs been included in project cost?                                                       
+Yes 
+     
+Will the safeguard measures costs be funded as part of project implementation?                           
+Yes  
+    
 Does the Monitoring and Evaluation system of the project include the monitoring of safeguard impacts and 
 measures?                                                                                                                      
-                    Yes     No 
+                    
+Yes 
+     
 Have satisfactory implementation arrangements been agreed with the borrower and the same been 
-adequately reflected in the project legal documents?                                                                        Yes
-     No
+adequately reflected in the project legal documents?                                                                        
+No
  
 Signed and submitted by:  
 Task Team Leader: 
@@ -448,13 +464,12 @@ Pawan G. Patil
 November 25, 2003 
 Approved by: 
 Regional Safeguards Coordinator 
-Name  
+Glenn Morgan 
  
-Date  
+Date February 25, 2004 
 Comments 
 Sector Manager 
-Name  
- 
-Date  
+Mark D. Wilson   
+Date  February 25, 2004 
 Comments 
  

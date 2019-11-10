@@ -1,0 +1,341 @@
+                            Integrated Safeguards Data Sheet (Updated)
+
+                                                                                               Report No: AC841
+Section I - Basic Information
+Date ISDS Prepared/Updated: 02/02/2005
+A. Basic Project Data (from PDS)
+I.A.1. Project Statistics
+Country: MEXICO                                             Project ID: P088546
+Project: Mexico: Waste Management and Carbon Offset         Task Team Leader: Walter Vergara
+Project
+Authorized to Appraise Date: January 6, 2005                IBRD Amount ($m):
+Bank Approval: March 31, 2005                               IDA Amount ($m):
+                                                            Global Supplemental Amount ($m):
+                                                            Prototype Carbon Fund ($m): 0.86
+Managing Unit: LCSFE                                        Sector: Renewable energy (70%); Solid waste
+Lending Instrument: Specific Investment Loan (SIL)          management (30%)
+Status: Lending                                             Theme: Climate change (P); Pollution management
+                                                            and environmental health (S)
+
+I.A.2. Project Objectives (From PDS):
+Project development objective is to reduce the greenhouse gas emissions caused by methane released
+during land-filling of solid waste in Mexico. The project will support the development of 3 landfill gas
+facilities (Guadalajara and Monterrey II, where the methane will be captured and used for power generation
+with a nominal capacity of 9 Megawatts (MW), and Leon where the methane will be flared). The project is
+expected to displace an estimated 2.2 million metric tons of carbon dioxide equivalent (mtCO2e) up to
+2012 and 3 millions tons up to 2015. The project will contribute to improve solid waste management
+practices through a remediation program to strengthen the integrity of closed landfills. The project will also
+support a "proof of concept", off-grid renewable energy supply, at a poor community in Nuevo Leon.
+
+I.A.3. Project Description (From PDS):
+
+  a) Landfill gas capture and use: The project will support the development of 3 landfill gas facilities,
+  two for the generation of electricity and one for gas flaring, with a combined rated total equivalent
+  capacity of about 10 MW. The 3 facilities are expected to be in operation by 2006. Support will be
+  provided through the purchase of greenhouse gas (GHG) emission credits up to 2012, with an option to
+  extend purchases up to 2015.
+
+  b) Remediation program to improve the integrity of closed landfills. The project will support the
+  implementation of specific actions to remediate closed landfills, with the objective of increasing its
+  integrity and reducing impacts on the surrounding environment after closure. The program will be
+  supported with 15% of the net revenues from the sale of GHG reductions from the Guadalajara and Leon
+  sites, where the remediation actions will take place.
+
+  c) Renewable energy supply at an Ejido in Nuevo Leon. In Monterrey, where there is no need for
+  remediation actions, the project will dedicate 15% of the carbon revenues to support a renewable energy
+  supply at a rural community in the Province of Nuevo Leon.
+
+                                                                2
+                                                                                                                    ISDS
+
+
+                                                           TIMETABLE
+
+                        Component                                                Calendar Year
+                                                             2005    2006  2007 2008 2009 2010 2011 2012 2013- 2019
+    Landfill Gas Leon
+    Capture and Monterrey II
+        Use      Guadalajara
+    Remediation program to improve the integrity of closed
+    landfills
+    Renewable energy supply at an Ejido in Nuevo Leon
+
+
+
+
+   Components:
+
+
+   Landfill gas capture and use
+   Remediation program to improve the integrity of closed landfills.*
+   Renewable energy supply at an Ejido in Nuevo Leon.*
+
+
+
+
+I.A.4. Project Location: (Geographic location, information about the key environmental and social
+characteristics of the area and population likely to be affected, and proximity to any protected areas, or sites or
+critical natural habitats, or any other culturally or socially sensitive areas.)
+  The project will support the development of three landfill gas facilities which are located in the
+  following municipalities in Mexico: Nuevo Leon (Monterrey II), Guanajuato (Leon), and Jalisco
+  (Guadalajara).
+
+
+B. Check Environmental Classification: B (Partial Assessment)
+
+Comments: : An environmental analysis framework has been developed and was applied to the proposed
+landfill plants. Environmental management plans were also developed. The framework was developed on the
+basis of the successful experience obtained at the Monterrey Plant (see Annex 11 in the PAD). A social impact
+assessment was carried out and identified social issues in Guadalajara which imply the preparation of a
+mitigation plan by the municipality. The elements of this plan have been agreed to. The Guadalajara project
+will only move forward once the mitigation plan has been officially issued by the municipality and approved
+by the Bank.
+
+
+C. Safeguard Policies Triggered (from PDS)
+(click on     for a detailed desciption or click on the policy number for a brief description)
+
+                                                        3
+                                                                                                        ISDS
+
+
+                                     Policy                                         Triggered
+    Environmental Assessment (OP 4.01, BP 4.01, GP 4.01)                       Yes     No
+    Natural Habitats (OP 4.04, BP 4.04, GP 4.04)                               Yes     No
+    Forestry (OP 4.36, GP 4.36)                                                Yes     No
+    Pest Management (OP 4.09)                                                  Yes     No
+    Cultural Property (OPN 11.03)                                              Yes     No
+    Indigenous Peoples (OD 4.20)                                               Yes     No
+    Involuntary Resettlement (OP/BP 4.12)                                      Yes     No
+    Safety of Dams (OP 4.37, BP 4.37)                                          Yes     No
+    Projects in International Waters (OP 7.50, BP 7.50, GP 7.50)               Yes     No
+    Projects in Disputed Areas (OP 7.60, BP 7.60, GP 7.60)*                    Yes     No
+
+
+
+Section II - Key Safeguard Issues and Their Management
+D. Summary of Key Safeguard Issues. Please fill in all relevant questions. If information is not available,
+describe steps to be taken to obtain necessary data.
+
+II.D.1a. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe
+any potential large scale, significant and/or irreversible impacts.
+Environmental assessment:
+All three of the proposed projects (Leon, Guadalajara, and Monterrey II) involve the collection and
+combustion of landfill gas (LFG). Leon will combust the collected LFG in a flare. The Guadalajara and
+Monterrey II projects will use the collected LFG to fuel engine generators to produce electricity.
+Overall, the installation and operation of a LFG collection and control system will significantly improve the
+environment. The primary environmental benefit is the collection and destruction of volatile organic
+compounds (VOCs) and methane. VOCs contribute to low level ozone formation (a precursor to smog)
+and methane is a potent greenhouse gas. The secondary emissions of nitrogen oxides (another smog
+forming compound) and carbon monoxide by the flare will be more than offset by the destruction of VOCs.
+In addition to emissions reductions, LFG collection will control and reduce odors and subsurface methane
+migration.
+This projects will consist of the installation of a comprehensive LFG collection and control system at the
+Landfills. No project facilities will be constructed off site and no rights of way or easement are required
+for these projects. The major components of the LFG collection and control system to be constructed at the
+Landfill are as follows:
+
+·       LFG extraction wells,
+·       LFG collection piping,
+·       A blower flare station (Leon)
+·       LFG ­fueled power plant (Guadalajara and Monterrey II).
+
+During the construction and installation of the projects, potential environmental impacts could arise.
+Examples of potential impacts include:
+
+·       Noise during construction,
+·       Emissions from construction vehicles and equipment,
+·       Spilled fuel, engine oil, and lubricant during re-fueling and maintenance activities to support
+        construction vehicles and equipment,
+·       Excavated MSW derived from drilling LFG extraction wells,
+
+                                                        4
+                                                                                                           ISDS
+
+
+·       Air emissions from LFG extraction well boreholes prior to the wells being completed, and
+·       Distressed vegetation is the vicinity of the LFG extraction wells.
+
+To minimize the environmental impacts from the above items the following will be performed:
+·       Good housekeeping measures will be followed during vehicle and equipment maintenance and
+        re-ueling activities. Spills or leaks of petroleum liquids will be quickly contained and cleaned.
+·       Excavated MSW derived from drilling LFG extraction wells will be relocated on the landfill and
+        covered with soil to minimize odors and control vectors.
+·       LFG extraction wells will not be left open (i.e., unfinished) overnight unless the borehole is covered
+        to protect air emissions.
+·       If significant disturbance of the landfill's vegetative cover occurs during construction, the disturbed
+        areas will be re-vegetated.
+Noise: As the proposed sites of the plants are not adjacent to neighbors, noise from the engines is expected
+to be only an occupational safety problem for the workers at the plant. To mitigate effects of noise on
+employees will be required to use proper ear protection and the engine house will be located away form
+neighbors and constructed to reduce noise outside the building.
+
+The environmental management plan will be in place prior to start up of the units. This plan will use the
+successful experience and lessons learned from the Monterrey Plant and will cover at least the following
+topics: Monitoring of emissions from power plant; disposal of engine waste oil, landfill gas condensate;
+monitoring of groundwater, disposal and recycling of spent engine coolant, methane migration,
+work-related occupational health and safety issues. In the framework of the environmental management
+plan the treatment of the wastewater at each site will be analyzed. An annual environmental summary will
+be available for each plant on the implementation of the plan. Corrective actions would be tracked on an
+annual basis.
+
+Key Remediation Measures were identified to be implemented at the Guadalajara site, to minimize
+environmental impacts from the landfill after closure. The remediation consists on a revamping of the
+current ponds for collection of leachate, to be replaced by a collection and recycling system. A conceptual
+design for these measures has been prepared and is part of the project. Construction will be parallel to the
+development of the landfill gas unit. A similar arrangement will take place at the Leon site. A conceptual
+design of the leachate collection system has also been prepared. The implementation of these measures will
+be funded with 15% of the revenues from the sales of GHG abatement at the site. Some negative impacts
+are expected during construction of the plants (access road construction, increased traffic, disposal of
+construction materials, noise, etc.), but these will be mitigated by good construction practices; these
+practices were already in place during the construction of the Monterrey Plant.
+
+
+
+Mitigation measures:
+Two of the landfills in the project, Monterrey and Leon, have been closed for several years; both are well
+guarded, secured facilities where there are no remaining or expected social impacts. In the case of
+Guadalajara, the landfill only closed on October 20th, 2004. Effective participation of Guadalajara in the
+project is linked to preparation of a plan to mitigate the impact on             850    registered scavengers
+(pepenadores) who continue to work at the site on a provisional agreement with the municipality, recycling
+materials such as glass, cans and cardboard; and on the around 123 persons, who live in poor conditions
+within the boundaries of the facility. Scavengers, integrated in a union, are well organized and have been
+negotiating with municipal authorities alternatives to keep their source of income and to protect the housing
+of the relocate families currently living at the site. The municipality of Guadalajara has expressed a general
+commitment to mitigate these impacts of closing the dumpsite. The following mitigation measures are being
+
+                                                       5
+                                                                                                          ISDS
+
+
+discussed:
+
+1. Transfer Station:
+
+The purpose of this mitigation measure is to continue to partially maintain the source of employment,
+benefiting 250 affected people. This work will be carried out in two stages: a) Construction of the platform
+and road access for a total of $28.4 million pesos, to be carried out from September to November 2004; b)
+Construction of the metallic structure totaling $10.7 million pesos, to be carried out from April to June
+2005.
+
+2. Repair of Sorting Belts
+
+This consists of carrying out greater maintenance of the sorting belts installed in the industrial section of
+the Los Laureles plant, totaling $14.5 million pesos to be carried out from February to March 2005. These
+facilities would provide employment to the scavengers displaced from the closed dump-site.
+
+3. Cooperative
+
+For the purpose of increasing the culture of formal employment, the Guadalajara City Council and the
+Concessionaire of the new dump-site are promoting the creation of a scavenger's cooperative that would
+promote the organized and trained participation of these workers. To this end, the Concessionaire may
+subcontract scavengers to develop their activities. The Receivership of the Municipality of Guadalajara
+will be obliged to supervise the legal process of this subcontracting as part of the contact with the
+concessionaire.
+
+4. Land purchase
+
+The purchase of 7.6 ha of land is being negotiated for 392 families. The scavengers' leaders have been
+conducting negotiations to obtain land for those are being carried out by the leader of those affected. They
+have requested the purchase of 7.6 ha of land, land is located near the Los Laureles Sanitary Landfill to
+accommodate 392 families; this alternative would provide a new site for housing close to the source of
+work. This plan has not been officially presented to the Guadalajara City Council. This measure comes in
+response to the public request of those affected, as a means of retaining their source of
+employment.Nevertheless, the Municipality has stated that there will not be involuntary resettlement and
+has granted permission to remain at the closed dumpsite to the persons currently living there.
+
+II.D.1b. Describe any potential cumulative impacts due to application of more than one safeguard policy or
+due to multiple project component.
+     None anticipated
+
+II.D.1c Describe any potential long term impacts due to anticipated future activities in the project area.
+No adverse impacts are expected as a direct consequence of the project. On the other hand, the project
+does support an social and environmental program benefiting the local communities and the global
+environment on a long term basis.
+
+II.D.2. In light of 1, describe the proposed treatment of alternatives (if required)
+The long term positive impact will be enhanced through the implementation of the renewable energy supply
+project and environmental programs.
+
+                                                        6
+                                                                                                           ISDS
+
+
+II.D.3. Describe arrangement for the borrower to address safeguard issues
+Environmental and social impact assessments were carried out for each site. The Borrower has agreed to
+   implement the identified measures.
+
+II.D.4. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard
+policies, with an emphasis on potentially affected people.
+The EMPs were discussed with the Municipalities and landfill operators.
+
+In Guadalajara, mMitigation plan alternatives have been discussed with the scavengers union for over a
+year. The new municipal authorities have continued negotiations along above-described lines and, as
+discussed during preparation, will continue with this participatory approach until an agreement,
+satisfactory to both parts, is reached. resettlement is satisfactorily completed.
+
+Remediation programs and the Mitigation Plan are being consulted with direct beneficiaries and will be
+open for public consultation once each project is approved and signed by the parties.
+
+In Guadalajara, an agency         specialized in social issues (the Technical Secretariat) will overlook
+preparation, execution and monitoring of the plan in coordination with Public Works and Services
+Secretariat, which is in directly managing locally the project.
+
+E. Safeguards Classification (select in SAP). Category is determined by the highest impact in any policy. Or
+on basis of cumulative impacts from multiple safeguards. Whenever an individual safeguard policy is
+triggered the provisions of that policy apply.
+
+[ ] S1. ­ Significant, cumulative and/or irreversible impacts; or significant technical and institutional risks in
+          management of one or more safeguard areas
+[X] S2. ­ One or more safeguard policies are triggered, but effects are limited in their impact and are
+          technically and institutionally manageable
+[ ] S3. ­ No safeguard issues
+[ ] SF. ­ Financial intermediary projects, social development funds, community driven development or similar
+          projects which require a safeguard framework or programmatic approach to address safeguard
+          issues.
+
+F. Disclosure Requirements
+
+Environmental Assessment/Analysis/Management Plan:                           Expected        Actual
+Date of receipt by the Bank                                                 8/15/2004
+Date of "in-country" disclosure
+Date of submission to InfoShop                                              9/13/2004
+Date of distributing the Exec. Summary of the EA to the Executive
+Directors (For category A projects)
+
+Resettlement Action Plan/Framework:                                          Expected        Actual
+Date of receipt by the Bank                                                 1/31/2005
+Date of "in-country" disclosure
+Date of submission to InfoShop
+
+Indigenous Peoples Development Plan/Framework:                               Expected        Actual
+Date of receipt by the Bank                                                 Not Applicable Not Applicable
+Date of "in-country" disclosure
+
+                                                     7
+                                                                                                    ISDS
+
+
+Date of submission to InfoShop
+
+Pest Management Plan:                                                     Expected         Actual
+Date of receipt by the Bank                                              Not Applicable Not Applicable
+Date of "in-country" disclosure
+Date of submission to InfoShop
+
+Dam Safety Management Plan:                                               Expected         Actual
+Date of receipt by the Bank                                              Not Applicable Not Applicable
+Date of "in-country" disclosure
+Date of submission to InfoShop
+If in-country disclosure of any of the above documents is not expected, please explain why.
+
+Signed and submitted by               Name                                               Date
+Task Team Leader:                     Walter Vergara                                     02/01/05
+Project Safeguards Specialists 1:     Walter Vergara                                     02/01/05
+Project Safeguards Specialists 2:     Maria E.Castro                                     02/01/05
+Project Safeguards Specialists 3:
+
+Approved by:                         Name                                                Date
+Regional Safeguards Coordinator: Juan Quintero                                           4/16/04
+Sector Manager/Director               John Henry Stein                                   02/01/05
+

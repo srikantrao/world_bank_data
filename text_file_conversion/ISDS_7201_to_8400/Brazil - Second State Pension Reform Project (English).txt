@@ -1,0 +1,301 @@
+Page  1
+INTEGRATED SAFEGUARDS DATA SHEET 
+CONCEPT STAGE 
+Report No.:  AC1616 
+ 
+Date ISDS Prepared/Updated: 10/06/2005 
+ 
+I.  BASIC INFORMATION 
+ 
+A.  Basic Project Data 
+ 
+Country: Brazil 
+Project ID: P089793 
+Project Name: State Pension Reform II TAL 
+Task Team Leader: Chris Parel 
+Estimated Appraisal Date: December 15, 
+2005 
+Estimated Board Date: February 16, 2006 
+Managing Unit: LCSPS 
+Lending Instrument: Technical Assistance 
+Loan 
+Sector: Non-compulsory pensions, insurance and contractual savings (100%) 
+Theme: Other public sector governance (P) 
+IBRD Amount (US$m.): 
+5.00 
+IDA Amount (US$m.): 
+0.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER 
+5.00
+5.00 
+B.  Project Objectives [from section 2 of PCN] 
+PARSEP II's development objective is to promote Brazilian states' fiscal stability and sustainable 
+economic growth.  This is to be done by addressing what is arguably the states' most pressing 
+macroeconomic issue pension reform. Stability and economic growth will be achieved by 
+generating revenues through better pension management, developing strategies for addressing 
+pensions' onerous costs, and building reform constituencies. PARSEP II targets are to reach at 
+least 20 of the participating 27 states in critical systems and organizational strengthening 
+activities.   
+ 
+C.  Project Description [from section 3 of PCN] 
+The loan has 6 components described below.  Note that each of these components figured in the 
+first PARSEP operation hence this operation will consolidate and advance those initiatives.  
+ 
+1. 
+Upgrade Cadastres and Information Technology ($4.8m).  The reformed legislative 
+framework that has emerged over the last seven years, including two Constitutional amendments 
+and a battery of new laws, subject the hitherto independent and autonomous state RPPS to 
+rigorous new controls.  Of especial importance is Law No. 18.887 approved in 2004 requiring 
+Page  2
+each sub-national government with a RPPS system to create a single unified administrative entity 
+(Gestor Unico) and develop an integrated pension data base for the hitherto autonomous agencies 
+that managed different parts of the states' RPPS.   This coupled with the fiscal benefits resulting 
+from cadastre upgrades and eliminating unwarranted payments have created a huge demand and 
+need for this sort of work. MPS believes that savings generated from this component will pay for 
+PARSEP II costs many times over.  
+ 
+-
+Complete the Executive branch cadastre upgrade (27/$1.8m).  This work was begun in 
+PARSEP and produced huge benefits for participating states.  The sub-component will extend 
+cadastre upgrade to the entire Executive branch complement of pensioners, inactive and current 
+employees and include states that did not participate in the first loan.  Follow-up will be done to 
+verify that benefits identified under PARSEP are being realized and savings from this work will 
+be systematically identified and reported.   
+ 
+-
+Create a functional state RPPS cadastre (27/$1.5m).  PARSEP targeted only pension 
+cadastres.  PARSEP II will upgrade and integrate the states' 'functional cadastres' which contain 
+employee career and profile related information.  This will support the general cleansing effort 
+underway for pension cadastres and permit effective cross-referencing of information.  
+ 
+-
+Upgrade the Legislative & Judicial branches and other cadastres (27/$1.5m).  PARSEP 
+was unable to introduce states' cadastre upgrade to the autonomous legislative and judicial 
+branches including Ministerio Publico, Tribunal de Contas, public enterprises, foundations and 
+various other state organs.  However, new legislations now requires merging of states' 
+independent audit agencies under a Unified Administration and the regularization of cadastres.  
+Hence, this component will extend cadastre upgrade to these state pensions.  
+ 
+2. 
+Upgrade/Implement the Integrated Pension Information System (SIPREV) ($1.1m).  The 
+SIPREV system was developed under PARSEP by the Ministry based in part upon the Bank's 
+PROST software.  It is considered 'best case' by Bank specialists.  Building upon Law No.  
+18.887 a subsequent decree detailed integrated data base requirements which conforms closely to 
+the SIPREV software being offered free of charge by the Ministry to all sub-national 
+governments.  SIPREV has been implemented in some states but there is considerably more 
+work to be done to make it universal and functional.  SIPREV also offers an actuarial module 
+that runs off the upgraded cadastres inputted into the system.  Additional modules including 
+benefits management and payroll are being developed and should be of particular interest to 
+smaller states and municipalities.  
+ 
+-
+Refine and implement SIPREV and Modules ($650,000).  This will complete 
+implementation of SIPREV in those States that request it and also develop and implement the 
+new modules over the course of the loan.  
+ 
+-
+Integrate SIPREV with other extant data bases ($330,000).  One of the huge benefits of 
+having SIPREV and cleansed cadastres is that they can now be cross-referenced with extant data 
+bases including nationwide systems that capture obits, benefits, contributions, and work 
+experience.  Crossing SIPREV and SISOBI (obits) potentially will results in tens of millions of 
+dollars of savings from elimination of unwarranted claims.  The general upgrading of pension 
+data base information will also be important for actuarial and financial diagnoses and the 
+development of solutions to address RPPS fiscal burdens.  
+ 
+-
+Transform SIPREV into a management tool ($160,000).  To date, SIPREV and its 
+modules have been developed as a technicians tool with relatively narrow specifications for 
+capturing and processing data.  The addition of software will transform the systems into much 
+Page  3
+more user-friendly pension management tools and enhance the attractiveness of the systems to 
+sub-national governments.  
+ 
+3. 
+Implement the Unified Administration Model ($840,000).  Law 18.887 effectively ended 
+the autonomy of legislative, judicial and related pension agencies and required that all RPPS 
+pension management be centralized under one state agency.  Previously, the executive branch 
+which implemented PARSEP had no right nor accessibility to other branches' RPPS data.  Huge 
+benefits are projected from cadastre cleansing and data base integration.  However, now that the 
+legislative requirement to merge systems exists, there is a need for technical assistance to 
+determine how this should be carried out.  
+ 
+-
+Prepare a Unified Administration Model ($210,000).  A normative model that can be 
+adapted by States must be developed within the legislative framework.  This sub-component will 
+pay for the requisite studies followed by publications and workshops to assist state efforts to 
+comply with the new law.  
+ 
+-
+Strengthen IT capacity (27/$630,000).  Following successful practice in PARSEP and 
+PREV-MUN, IT equipment packages will be defined for each state's new Unified Pension 
+Administrator unit comprising servers, computers, printers, scanners and software. Minimally, 
+sufficient capacity is required to input cadastre information and implement and use SIPREV and 
+its modules.  
+ 
+4. 
+Strengthen State Institutions Through Training and Dissemination ($600,000).  An 
+extensive program of workshops and training is required for states to comply with new legal and 
+technical requirements associated with pension administration merger under a Unified Pension 
+Administrator.  
+ 
+-
+Training states' pension managers and technical staff (27 states/$90,000).  A PARSEP II 
+launch is planned to acquaint state officials with (i) the legislative requirements for the Unified 
+Pension Administrator, cadastre and data base merger and upgrade, and (ii) how the MPS will 
+assist states, supported by the loan components:  SIPREV, cadastre cleansing, actuarial analysis, 
+training.  This sub-component is a 5 day workshop in Brasilia for states' pension officials at 
+which these matters will be addressed.  
+ 
+-
+Dissemination Work Shops (27/$360,000).  Following the PARSEP model, state 
+sponsored stakeholder workshops are planned to disseminate legislative requirements, the results 
+of cadastre work and institutional strengthening reforms to be implemented under PARSEP II.  
+ 
+-
+Training states' Legislative, Judicial and other branches (27/$150,000).  One of the 
+biggest changes in sub-national RPPS management has been the interjection of Federal laws and 
+regulations, and especially for the legislative, judicial and related branches which ran their own 
+pension systems and maintained autonomy from executive branches.  The imposition of a 
+Unified Pension Administrator under the executive branch requires a concerted dissemination 
+and preparation effort, especially in light of the power wielded by these branches.  This sub-
+component is a 5 day workshop for state officials.  
+ 
+5. 
+Strengthen the Ministry's Secretary of Social Protection -SPS ($2m).  SPS was created 
+and supported through PARSEP and the legislation that evolved consolidating the Federal 
+Government's increasing role in RPPS pension oversight was made possible as a result of these 
+innovations.  The structuring and strengthening of the Government's capacity, through SPS, to 
+Page  4
+monitor, evaluate and provide technical assistance through public and loan finance requires 
+continuing PARSEP's support for SPS.  
+ 
+-
+Study states' complementary pension management needs ($200,000).  The 
+complementary pension system and how it must be integrated into the Unified Pension 
+Administrator must be clarified.  This sub-component is for a consultant study to be followed by 
+dissemination of results and five workshops.  
+ 
+-
+Strengthening of the National Council of RPPS Directors--CONAPREV (27/$200,000).  
+Each of the major ministries convokes and support organizations of state and municipal officials 
+on a regular basis to disseminate and debate relevant sector issues.  Prior to PARSEP this did not 
+exist for pension officials, in part because the states' RPPS systems were completely autonomous 
+under the Constitution.  This was changed by Constitutional amendments and subsequent 
+legislation.  MPS then created CONAPREV, supported by PARSEP and it has assumed an 
+increasingly important role in pension matters including approval of PARSEP II's design.  This 
+funding is for bi-monthly workshops for a period of two years.  
+ 
+-
+Actuarial analyses of states' pension systems (16/$360,000).  Annual actuarial analyses 
+are now required under law.  Sub-national government compliance is posted on a website similar 
+to what is done for their legislative frameworks (CRP website' sponsored under PARSEP).  
+Actuarial analyses accompanied by the development of financial scenarios was undertaken under 
+PARSEP.  With new laws, SIPREV and the actuarial module plus cadastre improvements it is 
+necessary to finance one more audit to consolidate this legal requirement and set standards for 
+compliance.  
+ 
+-
+Preparation of states' health and security legislation linked to RPPS ($200,000).  
+Numerous sub-national governments commingled public servant pension and health issues prior 
+to reform legislation being passed.  As mentioned above, the MPS monitors and evaluates sub-
+national compliance with legislative framework standards and publishes the results on the CRP 
+website.  However, the issue of public servant health security continues.  This sub-component 
+will finance a study, dissemination, workshops, and the development of draft legislation.  
+ 
+-
+Project Implementation Unit ($1.2m).  The management of systems development, 
+monitoring and evaluation, and provision of technical assistance by SPS, a relatively new 
+organization with an expanding and increasingly demanding mandate, is a significant cost item.  
+The need to retain consultants required for short and medium term assignments and support 
+travel costs and related expenses associated with the SPS mandate was recognized in PARSEP 
+and will play a significant role in PARSEP II. This sub-component will finance these activities 
+over a four year period.  It will also fund a variety of MPS publications ($130,000).  At the time 
+PARSEP was launched there were almost no pension publications available regarding Federal 
+and state pension systems, legal compliance, best practice, or relevant experiences.  PARSEP 
+supported the development of such publications, including a series of soft back technical books 
+called Colecao Previdencia Social (Social Security Collection) that has come to play an 
+important role in disseminating pension information.   Support for publications will continue 
+under PARSEP II.   
+ 
+D.  Project location (if known) 
+Brazil, Brasilia   
+ 
+E.  Borrower’s Institutional Capacity for Safeguard Policies [from PCN] 
+N/A   
+Page  5
+F.  Environmental and Social Safeguards Specialists 
+ 
+II.  SAFEGUARD POLICIES THAT MIGHT APPLY 
+Safeguard Policies Triggered
+ 
+Yes No TBD 
+Environmental Assessment (OP/BP 4.01) 
+ X  
+Natural Habitats (OP/BP 4.04) 
+ X  
+Forests (OP/BP 4.36) 
+ X  
+Pest Management (OP 4.09) 
+ X  
+Cultural Property (OPN 11.03) 
+ X  
+Indigenous Peoples (OD 4.20) 
+ X  
+Involuntary Resettlement (OP/BP 4.12) 
+ X  
+Safety of Dams (OP/BP 4.37) 
+ X  
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X  
+Projects in Disputed Areas (OP/BP 7.60) 
+ X  
+Environmental Category:
+ 
+C
+-
+Not Required 
+ 
+III.  SAFEGUARD PREPARATION PLAN 
+ 
+A.  Target date for the Quality Enhancement Review (QER), at which time the PAD-stage ISDS 
+would be prepared:  10/15/2005 
+ 
+B.  For simple projects that will not require a QER, the target date for preparing the PAD-stage 
+ISDS:  10/15/2005 
+ 
+C.  Time frame for launching and completing the safeguard-related studies that may be needed.  
+The specific studies and their timing
+1
+should be specified in the PAD-stage ISDS. 
+n/a   
+ 
+IV.  APPROVALS 
+ 
+Signed and submitted by: 
+ 
+Task Team Leader: 
+Mr Chris Parel 
+09/29/2005 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Jean-Roger Mercier 
+09/29/2005 
+Comments:   
+Sector Manager: 
+Mr Ronald E. Myers 
+10/06/2005 
+Comments:   
+1
+Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the 
+InfoShop and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to potentially affected 
+persons.
+ 
+Page  6

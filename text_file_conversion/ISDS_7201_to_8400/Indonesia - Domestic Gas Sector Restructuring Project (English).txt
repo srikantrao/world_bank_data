@@ -1,0 +1,309 @@
+Integrated Safeguards Data Sheet (ISDS)                                    <    , i
+Section I - Basic Information
+Date ISDS Prepared/Updated: September 15, 2004                          Report No.:AC1022
+A. Basic Project Data
+A. 1. Project Statistics
+Country: Indonesia                             | Project ID: P077175
+Project: Domestic Gas Sector Restructuring      TTL: Noureddine Berrah
+Total project cost (by component):
+Appraisal Date: November 30, 2004               Loan/Credit amount ($m):
+IBRD: 80
+Board Date: February 2005
+Other financing amounts by source:                 ($m.)
+FOREIGN SOURCES (UNIDENTIFIED)
+Managing Unit: EASEG                            Sector: Oil and gas (100%)
+Lending Instruments: Specific Investment Loan
+Is this project processed under OP 8.50 (Emergency recovery?  Yes?  []          No?   [X]
+Environmental Category: A
+A.2. Project Objectives
+The proposed project aims at expanding the supply and utilization of natural gas, the cleanest fossil fuel, in
+Indonesia's domestic market to improve economic efficiency and reduce pollution resulting from the heavy
+reliance on fuel oil and diesel.
+A.3. Project Description
+The proposed project financed by the World Bank consists of: (i) a gas distribution component to expand gas
+utilization in Banten/West Java region, and (ii) a capacity building component to strengthen PGN's (the project
+owner) financial, planning, engineering and management capability. The project is linked to a Japan Bank for
+International Cooperation (JBIC) financed gas transmission project to bring gas from South Sumatra to
+Banten/West Java region.
+The distribution component comprises: (i) construction of class 300 steel pipelines of 4 to 16 inch diameter
+(about 235.2 km) along with control valves and corrosion control facilities; (ii) construction of class 150 pipelines
+of 4 to 16 inch diameter (about 71.4 km) along with control valves and corrosion control facilities; (iii)
+installation of five off-take and two pressure regulation stations; (iv) installation of around 210 customer metering
+and regulating stations; (v) installation of SCADA system; and (vi) provision of radio/telecommunication
+equipment, IT support and emergency response equipment.
+The Environmental Impact Assessment (EIA) Report and the Environmental Management Plan (EMP) for the
+distribution component, prepared in 1998, were updated and approved by the MOE in 2003. A written statement
+provided by PGN shows that land acquisition and relocation of people will not be required. Therefore, a full RAP
+is not required for the Bank financed project.
+For the JBIC-financed transmission project linked to the Bank financed distribution project, project preparation
+activities are well under way with construction planned to commence in January 2005. The EIA Report was
+prepared and approved by the Ministry of Environment (MOE) in 1999. It has been discussed and approved by
+JBIC, and disclosed to the public following The Government of Indonesia (GOI) and JBIC's disclosure
+procedure. The approval of MOE was re-confirmed in December 2003 and copies of EIA Report, EMP and the
+minutes of discussions between JBIC and PGN were provided to the Bank during preappraisal. A social
+assessment report and a resettlement action plan (RAP) were prepared in 1998 to comply with GOI and JBIC's
+requirements. The RAP was recently updated by PGN at JBIC's request. The implementation of the RAP is
+underway. A summary report on the history of the resettlement process, the consultation process and status of the
+implementation of RAP have been prepared by PGN and submitted to the World Bank.
+A 129 km section of the gas transmission pipeline between Bojonegara and Cimanggas, however, has not been
+
+
+
+included in the EIA of the transmission component. The World Bank requested and it has been agreed, that a full
+EIA will be carried out for this section. PGN has agreed with JBIC on the process and has scheduled to complete
+the complementary EIA Report and, if required, the RAP. The work on the EIA is progressing well and the EIA
+Report is expected to be submitted to the Bank prior to the proposed project appraisal.
+A.4. Project Location and salient physical characteristics relevant to the safeguard analysis:
+The distribution project would support construction of new pipelines and branch lines to extend PGN's gas
+distribution system in West Java (Provinces of West Java and Banten). PGN's existing distribution system in this
+region is readily divided into three Zones: 1- Jakarta, 2- Tangerang, and 3 - Karawang. The proposed project will
+be implemented in Zone 2 and Zone 3.
+In Zone 2, the new distribution pipelines will traverse industrial development corridors between West Jakarta and
+the Cilegon/Merak area, including Anyer, Serang, Cikande, Balaraja, Jatiuwung and Tangerang. In Zone 3
+expansion, the new distribution lines will service industrial development zones east of Jakarta including Bekasi,
+Karawang, Cikampek and Purwakarta.
+All of these areas are heavily urbanized or industrialized. There are no protected areas or critical natural habitat
+sites in the vicinity, and none of the lines are routed through culturally or socially sensitive areas. The proposed
+distribution pipelines will follow existing national, provincial and district roads.
+The gas transmission pipeline, linked to the Bank financed project, will bring gas from Parardewa in South
+Sumatra, precisely from the outlet of Pertamina's (the owner of gas field) Gas Treatment Center to Kabupaten
+Serang in West Java, through on-shore route to East Lampung (Labuhan Maringgai), then off-shore route (west
+part of the Java Sea) to Serang, West Java. A 129 km transmission pipeline will also be built between Bojonegara
+and Cimanggas.
+Most of the areas along the transmission pipeline routes are plantation fields, farm fields, fish farms, human
+settlements and industrial areas. There are no protected areas, or critical natural habitat sites in the vicinity, and
+none of the lines are routed through culturally or socially sensitive areas.
+B. Check Environmental Category A [X], B [],C [F], I[]
+Comments:
+The proposed project will pose no significant negative impacts. The Environmental Management Plans (EMP) for
+the project has been completed to accommodate any incremental environmental impacts.
+C. Safeguard Policies Triggered
+Yes                  No
+Environmental Assessment (_P/BP/GP 4.01)                  [X]                   [I]
+Natural Habitats (_P/BP 4.04)                              [ ]                  [X]
+Pest Management (OP 4.09)                                  [1                   [X]
+Cultural Property (draft OP 4.11 - OPN 11.03-)             []                   [X]
+Involuntarv Resettlement (OP/BP 4.12)                      []                   [X]
+Indigenous Peoples (OD 4.20)                               []                   [X]
+Forests (OP/BP 4.36)                                       []                   [X]
+Safety of Dams (OP/BP 4.37)                                []                   [XI
+Proiects in Disputed Areas (_P/BP/GP 7.60)                 [ ]                  [XI
+Projects on International Waterways (OP/BP/GP 7.50)       I[]                   [XI
+By supporting the proposed project, the Bank does not intend to prejudice the final determination of the parties'
+claims on the disputed areas
+
+
+
+Section II - Key Safeguard Issues and Their Management
+D. Summary of Key Safeguard Issues.
+D. 1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any
+potential large scale, significant and/or irreversible impacts.
+The distribution project is not expected to have any significant impact on natural habitats, forests or protected or
+sensitive areas, indigenous people, or cultural property. Furthermore, there will be no involuntary resettlement
+under the project. During the construction phase, the major negative environmental impacts will be temporary
+interference to the traffic in the project area and some temporary air, water pollution, as well as vegetation
+removals during the construction of the project. On the social side, some local businesses along the pipeline
+routes are likely to suffer temporarily due to physical obstruction caused by construction activities. But none of
+the impacts are major, sustained or irreversible. During the operation phase of the system, threats to the
+environment and safety of the population are negligible but could materialize during major accidents.
+The transmission project's (linked to the Bank financed project) major impacts include: (1) Pre-construction: a)
+the increase of pest population and floral disease on the pipeline route due to land property acquisition; b) the
+decrease of the communities income due to land acquisition; c) the increase of dust and noise levels, and
+disturbance to local communities and local traffic due to mobilization of equipment and materials. (2)
+Construction Phase: a) soil erosion rate increase; b) disturbances to wild animals and attacks by wild animals to
+project workers and communities; c) threat to the pipeline safety from potential land subsidence. (3) Operation
+Phase: a) illegal use of right-of-way (ROW); b) threat to the pipeline safety in fault areas.
+D.2 Describe any potential indirect and/or long term impacts due to anticipated future activities in the project
+area.
+There are no potential indirect and/or long term impacts in the project area. The substitution of natural gas for
+petroleum products in the region will reduce emissions and contribute to the improvement of the ambient air
+quality.
+D.3. Describe the treatment of alternatives : The following alternatives were sequentially considered during the
+project design and preparation:
+Without project alternative: Prior to engaging in this important investment program, PGN considered to continue
+a business as usual approach entailing a less aggressive strategy of conversion to gas of small industries and
+businesses and therefore a low growth of the Banten-West Java gas market. The "without project alternative" has
+been rejected for three reasons: (a) the expansion of the gas market was in line with the government energy
+strategy to develop the domestic gas market because of its economic and environmental advantages over oil
+products and coal; (b) a market scoping study showed a strong preference of small industries and businesses for
+gas; and (c) expansion of the gas market would strengthen the financial situation of the company.
+Choice of gas supply: Two alternatives were considered for gas supply: gas fields in South Sumatra or onshore
+and offshore small fields in West Java. An Asian Development Bank (ADB) study found that, delivering gas
+from the South Sumatra fields to the West Java market was preferable to relying on closer but limited and more
+costly to develop fields in West Java onshore and offshore. The gas reserves in South Sumatra fields have been
+formally certified by a reputable international company (D&M), which has issued certification indicating 3.85 tcf
+in the Proven and Risk Adjusted categories. This level of reserve could easily support up to 500 mmcfd of gas
+supply for the economic life of the proposed project (20 years). The option of transmitting gas from South
+Sumatra to West Java was selected.
+Expansion of the distribution system: PGN considered alternatives for the expansion of its distribution system
+taking into accounts: (a) the capability of the existing system; (b) the locations and demand of the potential
+consumers (demand nodes); (c) the quantities and input locations of gas supply to the system (supply nodes); and
+(d) severe constraints on the right of way in highly urbanized areas. The latter reduced the number of alternatives
+for expansion to two, mainly differentiated by the pipeline diameters along the same routes to satisfy a demand of
+500 mmcfd in the first case and a demand of 800 mmcfd in the second case.  The first option would have
+
+
+
+required further reinforcement of the system after 5-7 years to meet the full potential demand of 800 mmcfd by
+2016. It was rejected because it was less cost effective and would have entailed more temporary negative
+environmental and social impacts.
+D.4. Describe measures taken by the borrower to address safeguard issues. Provide an assessment of borrower
+capacity to plan and implement the measures described.
+For the distribution project, an EMP has been developed as part of the EIA. According to the EMP, all the
+negative impacts can be mitigated satisfactorily by applying PGN's established standard operating procedures for
+design and construction and specific guidance to PGN's contractors. These procedures include (a) no more than
+100 m section of trenching will be open at one time; (b) each section will be refilled within 24 hours, (c) all
+excavations will be restored to their original or better condition; (d) water used for hydrostatic testing must be
+clean water without any additive chemicals, etc. PGN has adequate safety and emergency procedures. These
+have been reviewed during preappraisal and found to be adequate but given the important expansion of the
+system, the project includes acquisition of SCADA equipment to improve monitoring and control of the system
+and enhancement of PGN's safety and integrity management system. In addition, PGN will establish a Project
+Implementation Unit (PIU) with overall responsibility for coordinating and managing the project, and an
+environmental coordinating office (ECO) to oversee and support the monitoring and mitigating activities. The
+ECO will serve as the core unit for environmental management and monitoring. Its capacity will be strengthened
+under the environmental management capacity building program proposed in the EMP. These arrangements are
+regarded as adequate.
+For the transmission project linked to the Bank financed project, an EMP was developed to identify the
+procedures and measures to be taken to mitigate the negative environmental and social impacts. These procedures
+and measures include: 1) pre-construction period: (a) utilizing the acquired lands as soon as possible; undertaking
+cleaning on the lands which have been covered by bushes and allowing the previous land owners to use the land
+until commencement of the land cleaning activities; (b) providing compensations to the inhabitants whose
+properties are affected as soon as possible and directly; (c) low speed driving of vehicles; using tarps or plastic
+cover of the vehicles; and transporting project equipment and materials during off-peak periods when passing
+through populated areas. 2) construction phase: (a) in the outer left and right sides of the ROW ditches for
+containing the erosion exiting from the ROW will be made; the ROW surface will be undertaken as soon as
+possible after the gas piping is installed/buried; and the inside of the ROW will be replanted with legume species;
+(b) installing signs for saving wild animals; conducting training for construction workers for not disturbing wild
+animals; (c) undertaking soil compaction for base along the pipeline or soil material change. 3) Operation phase:
+(a) installing signs restricting the illegal use of ROW; cooperating with local government and undertaking regular
+surveillance along the pipelines; (b) the piping installation at the locations of faults will employ the technology
+suitable for the volcanic and tectonic earthquake areas. The EMP will be implemented by PGN which has a solid
+record in building and operating transmission gas projects in an environmentally sound manner. During the pre-
+construction stage, the business development unit will be responsible for implementing the procedures of EMP.
+During the construction stage, quality assurance, quality control and environmental, health and safety managers
+under the project manager will be responsible for implementing the EMP and monitoring plans. During the
+project operation, the environment & community manager under the project coordinator will be in charge of
+environmental management.
+D.5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard
+policies, with an emphasis on potentially affected people.
+Major stakeholders of the project include national and local governments, local communities and businesses
+affected by the projects and related NGOs at both national and local levels. Public consultation and information
+disclosure will follow the Indonesia's AMDAL processes and meet the World Bank's requirements. Public
+hearings involving representatives of interested government agencies, the business community, and local NGOs
+have been held to review the EAs. No significant new issues have been raised during these consultations. PGN
+plans to conduct further hearings at the district and municipal level only after project approval and
+commencement. For all the subcomponents and activities likely to be conducted under the Project, public
+consultation will be carried out at local level in the kecematan (sub- districts) where the project activities will take
+place, as required by Indonesia's AMDAL process.
+
+
+
+F. Disclosure Requirements    Date
+Environmental Assessment/Audit/Management Plan/Other:
+Date of receipt by the Bank                  06/01/04  or Not Applicable
+Date of "in-country" disclosure              ...1...1...  or Not Applicable
+Date of submission to InfoShop               ...1.../...  or Not Applicable
+For category A projects, date of distributing the Executive Summary of the EA to the Executive Directors
+../... 1... or Not Applicable
+Resettlement Action Plan/Framework/Policy Process:
+Date of receipt by the Bank                  ... ...1  or Not Applicable
+Date of "in-country" disclosure              ... ...1 or Not Applicable
+Date of submission to InfoShop               . . ..    or Not Applicable
+Indigenous Peoples Development Plan/Framework:
+Date of receipt by the Bank                  .    ...  or Not Applicable
+Date of "in-country" disclosure              .. ./ ...  or Not Applicable
+Date of submission to InfoShop               .../ ...  or Not Applicable
+Pest Management Plan:
+Date of receipt by the Bank                  .../ ...  or Not Applicable
+Date of "in-country" disclosure              .../ ...  or Not Applicable
+Date of submission to InfoShop               .../ ...  or Not Applicable
+Dam Safety Management Plan:
+Date of receipt by the Bank                  ...   1   or Not Applicable
+Date of "in-country" disclosure              ... /. .  or Not Applicable
+Date of submission to InfoShop               ...  ...  or Not Applicable
+If in-country disclosure of any of the above documents is not expected, please explain why.
+Section III - Compliance Monitoring Indicators at the Corporate Level
+(To be filled in when the ISDS is finalized by the project decision meeting)
+OP/BP 4.01 - Environment Assessment:                                              Yes      No
+Does the project require a stand-alone EA (including EMP) report?                  X
+If yes, then did the Regional Environment Unit review and approve the EA report?   X
+Are the cost and the accountabilities for the EMP incorporated in the credit/loan?         X
+OPIBP 4.04 - Natural Habitats:                                                     Yes     No
+Would the project result in any significant conversion or degradation of critical natural
+habitats?
+If the project would result in significant conversion or degradation of other (non-critical)
+natural habitats, does the project include mitigation measures acceptable to the Bank?
+OP 4.09 - Pest Management:                                                         Yes     No
+Does the EA adequately address the pest management issues?
+Is a separate PMP required?
+If yes, are PMP requirements included in project design?
+Draft OP 4.11 (OPN 11.03) - Cultural Property:                                     Yes     No
+Does the EA include adequate measures?
+Does the credit/loan incorporate mechanisms to mitigate the potential adverse impacts on
+physical cultural resources?
+OD 4.20 - Indigenous Peoples:                                                      Yes     No
+Has a separate indigenous people development plan been prepared in consultation with the
+Indigenous People?
+If yes, then did the Regional Social Development Unit review and approve the plan?
+If the whole project is designed to benefit IP, has the design been reviewed and approved by
+the Regional Social Development Unit?
+
+
+
+OPIBP 4.12 - Involuntary Resettlement:                                              Yes     No
+Has a resettlement action plan, policy framework or policy process been prepared?
+If yes, then did the Regional Social Development Unit review and approve the plan / policy
+framework / policy process?
+OPIBP 4.36 - Forests:                                                               Yes     No
+Has the sector-wide analysis of policy and institutional issues and constraints been carried
+out?
+Does the project design include satisfactory measures to overcome these constraints?
+Does the project finance commercial harvesting, and if so, does it include provisions for
+certification system?
+OP/BP 4.37 - Safety of Dams:                                                        Yes     No
+Have dam safety plans been prepared?
+Have the TORs as well as composition for the independent Panel of Experts (POE) been
+reviewed and approved by the Bank?
+Has an Emergency Preparedness Plan (EPP) been prepared and arrangements been made for
+public awareness and training?
+OP 7.50 - Projects on International Waterways:                                      Yes     No
+Have the other riparians been notified of the project?
+If the project falls under one of the exceptions to the notification requirement, then has this
+been cleared with the Legal Department, and the memo to the RVP prepared and sent?
+What are the reasons for the exception?
+Please explain:
+Has the RVP approved such an exception?
+OP 7.60 - Projects in Disputed Areas:                                               Yes     No
+Has the memo conveying all pertinent information on the international aspects of the project,
+including the procedures to be followed, and the recommendations for dealing with the issue,
+been prepared, cleared with the Legal Department and sent to the RVP?
+Does the PAD/MOP include the standard disclaimer referred to in the OP?
+BP 17.50 - Public Disclosure:                                                       Yes     No
+Have relevant safeguard policies documents been sent to the World Bank's Infoshop?
+Have relevant documents been disclosed in-country in a public place in a form and language
+that are understandable and accessible to project-affected groups and local NGOs?
+All Safeguard Policies:                                                             Yes     No
+Have satisfactory calendar, budget and clear institutional responsibilities been prepared for the
+implementation of the safeguard measures?
+Have safeguard measures costs been included in project cost?
+Will the safeguard measures costs be funded as part of project implementation?
+Does the Monitoring and Evaluation system of the project include the monitoring of safeguard
+impacts and measures?
+Have satisfactory implementation arrangements been agreed with the borrower and the same
+been adequately reflected in the project legal documents?
+Signed and submitted by:                                Name                           Date
+Task Team Leader:                    Noureddine Ber4ihK                          0o/; L1 Z  St c
+Project Safeguards Specialist 1:     Bekir Onursal                                      A / cq
+Project Safeguards Specialist 2:     Bruce Harris'1/Z /2 .
+Project Safeguards Specialist 3:                          U                        I'2A/O'
+Approved by:                                       A    Nine                           Date
+Regional Safeguards Coordinator:     Glenn Morgan /4,,,iM ,  -
+Comments:                                                 /
+Sector Manager:                      Junhui Wu 
+Comments:                                       'OV *71C2c+1
+Leiping Wang
+N:\BERRAH\Indonesia\Domestic Gas Sector Restructuring\ISDS\ISDS - Appraisal Stage (REVISED) 09-10-04.doc
+September 11, 2004 12:08 PM
+
+
+

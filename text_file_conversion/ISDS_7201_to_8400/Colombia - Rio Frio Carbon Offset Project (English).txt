@@ -1,0 +1,217 @@
+                               Integrated Safeguards Data Sheet (Initial)
+
+                                                                                                Report No: AC1107
+Section I - Basic Information
+Date ISDS Prepared/Updated: 10/26/2004
+A. Basic Project Data (from PDS)
+I.A.1. Project Statistics
+Country: COLOMBIA                                               Project ID: P088752
+Project: Rio Frio Carbon Offset Project                         Task Team Leader: Walter Vergara
+Authorized to Appraise Date: November 9, 2004                   IBRD Amount ($m):
+Bank Approval: February 14, 2005                                IDA Amount ($m):
+                                                                Global Supplemental Amount ($m):
+                                                                Prototype Carbon Fund ($m):
+Managing Unit: LCSEN                                            Sector: General water, sanitation and flood protection
+Lending Instrument: Specific Investment Loan (SIL)              sector (100%)
+Status: Lending                                                 Theme: Climate change (P); Water resource
+                                                                management (S)
+
+I.A.2. Project Objectives (From PDS):
+The Project development objective is to contribute to reductions in greenhouse gas emissions from the
+wastewater treatment sector in Colombia through the modernization of the Rio Frio wastewater treatment
+plant (UASB; Up-flow Anaerobic Sludge Blanket), located in Giron (metropolitan area of Bucaramanga),
+Colombia, that will result in abatements of CO2, CH4 and N2O emissions of about 38.19 kton CO2
+eq/year and in an improved effluent quality from the plant. A share of the revenues from the emission
+reductions will be used to support a health program earmarked for vulnerable populations in the
+neighbouring Giron municipality.
+
+I.A.3. Project Description (From PDS):
+The project has two components:
+
+GHG abatement at the waste water treatment plant. The project will support improvements in the
+existing wastewater treatment plant that will result in elimination of CH4 emissions from the primary,
+secondary treatment units, and sludge drying beds and a substantial reduction of N20 emissions resulting
+from operational and design modifications to the existing facultative lagoons and improvements in the
+quality of the effluent. The use of methane for electricity generation will further displace CO2 from
+grid-connected power plants.
+
+Social program for the poorest youth in the Municipality of Giron. A social program will be supported
+with 15% of the net revenues from carbon emission reductions. The program will address overall health
+conditions (including STD and HIV/AIDS), and employment among the poorest youth. It will do so
+through an educational strategy (with community participation) on health and the environment, technical
+training and organization for micro enterprise management.
+
+I.A.4. Project Location: (Geographic location, information about the key environmental and social
+characteristics of the area and population likely to be affected, and proximity to any protected areas, or sites or
+critical natural habitats, or any other culturally or socially sensitive areas.)
+The Rio Frio wastewater treatment plant is located in the metropolitan area of Bucaramanga, which is the
+most important urban area of the north-east of the country (5.5 % of the GDP of the country).
+
+                                                        2
+                                                                                                       ISDS
+
+
+
+
+B. Check Environmental Classification: B (Partial Assessment)
+
+Comments:
+
+
+C. Safeguard Policies Triggered (from PDS)
+(click on   for a detailed desciption or click on the policy number for a brief description)
+                                     Policy                                           Triggered
+    Environmental Assessment (OP 4.01, BP 4.01, GP 4.01)                         Yes      No   TBD
+    Natural Habitats (OP 4.04, BP 4.04, GP 4.04)                                 Yes      No   TBD
+    Forestry (OP 4.36, GP 4.36)                                                  Yes      No   TBD
+    Pest Management (OP 4.09)                                                    Yes      No   TBD
+    Cultural Property (OPN 11.03)                                                Yes      No   TBD
+    Indigenous Peoples (OD 4.20)                                                 Yes      No   TBD
+    Involuntary Resettlement (OP/BP 4.12)                                        Yes      No   TBD
+    Safety of Dams (OP 4.37, BP 4.37)                                            Yes      No   TBD
+    Projects in International Waters (OP 7.50, BP 7.50, GP 7.50)                 Yes      No   TBD
+    Projects in Disputed Areas (OP 7.60, BP 7.60, GP 7.60)*                      Yes      No   TBD
+
+
+
+Section II - Key Safeguard Issues and Their Management
+D. Summary of Key Safeguard Issues. Please fill in all relevant questions. If information is not available,
+describe steps to be taken to obtain necessary data.
+
+II.D.1a. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe
+any potential large scale, significant and/or irreversible impacts.
+
+From the point of view of the quality of wastewater treatment, the Rio Frio plant meets the normative
+requirements established by Article 72 of the Law 1594 of 1984. This regulates the percentage of the
+removal of suspended organic and solid charge. With the CDM project the minimum required removal of
+organic charge will be widely surpassed and it will reduce the discharge of reactive forms of nitrogen
+(NH4+, N-Norg), which are not regulated on a national level and which can cause considerable impacts on
+receptive water bodies and the global balance of nitrogen. With the CDM project the discharge
+concentrations of those reactive forms of nitrogen, will be substantially reduced (65% removal against the
+baseline).
+
+
+l Reduction of local emissions (SO2 and VOCs) and offensive odors and corrosive environment.
+l Improvements in the effluent quality of the treatment plant. In particular, the effluent concentrations of
+    ammoniacal and organic nitrogen will be reduced and this will contribute to improvements in the
+    quality of the receiving waters (Rio Frio and Rio Oro Rivers) with positive impacts in the aquatic
+    biota.
+l Reductions in BOD and DSS as a result of more effective secondary treatment.
+l Improvements in the management of solid subproducts (sludges, solid waste) which will eventually
+    result in reduced operational costs and possibly in the recovery of materials.
+UASB treatment systems may gain in financial viability and acceptance as a technology of choice in
+secondary wastewater treatment
+
+Global environmental benefits:
+
+                                                        3
+                                                                                                          ISDS
+
+
+
+
+l Reduction of the emission of GHG (N2O and CH4) from wastewater operations.
+l Use of biogas from wastewater treatment and consequent displacement of fossil fuels.
+l The use of carbon finance in wastewater treatment, may contribute to the financial viability of
+    secondary wastewater treatment in developing countries and thus the project has a significant
+    replication potential. The project has likewise, the potential of reducing net treatment costs for
+    wastewater treatment.
+The monitoring of N20 reductions will be based on kinetic modelling and direct measurements and thus
+represent an innovative approach with significant potential for replication.
+
+Some negative impacts might occur during construction of the plant (access road construction, increased
+traffic, disposal of construction materials, noise, etc.), but these will be mitigated by good construction
+practices.
+
+An EIA has been commissioned and will be completed by October 2004. The review will be done by the
+MOE.
+
+The project includes a social component "An opportunity of improved quality of life for poor adolescents in
+the municipality Giron". The draft proposal has been reviewed and a final version is expected by end of
+May, 2004.
+
+II.D.1b. Describe any potential cumulative impacts due to application of more than one safeguard policy or
+due to multiple project component.
+None anticipated.
+
+II.D.1c Describe any potential long term impacts due to anticipated future activities in the project area.
+      No adverse impacts are expected as a direct consequence of the project. On the other hand, the project
+      will contribute in the long term to the ecological restoration of the Rio Frio, through sustained
+      reductions in the organic load from the treatment plant. This will allow natural processes to improve
+      river quality over time. In addition, the reduction in VOCs will improve air quality in the surrounding
+      area. The project also supports a social (health) program benefiting the local communities on a long
+      term basis and will result in the reduction of greenhouse gases.
+
+II.D.2. In light of 1, describe the proposed treatment of alternatives (if required)
+
+
+
+II.D.3. Describe arrangement for the borrower to address safeguard issues
+      Compliance with the provisions of the EIA and EMP will be reviewed as part of the monitoring and
+      validation protocol.
+      The project sponsor will manage directly the implementation of the health program.
+
+
+II.D.4. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard
+policies, with an emphasis on potentially affected people.
+      A public consultation has already been undertaken and will continue during project preparation.
+
+E. Safeguards Classification (select in SAP). Category is determined by the highest impact in any policy. Or
+on basis of cumulative impacts from multiple safeguards. Whenever an individual safeguard policy is
+triggered the provisions of that policy apply.
+
+                                                      4
+                                                                                                           ISDS
+
+
+
+
+[ ] S1. ­ Significant, cumulative and/or irreversible impacts; or significant technical and institutional risks in
+         management of one or more safeguard areas
+[X] S2. ­ One or more safeguard policies are triggered, but effects are limited in their impact and are
+         technically and institutionally manageable
+[ ] S3. ­ No safeguard issues
+[ ] SF. ­ Financial intermediary projects, social development funds, community driven development or similar
+         projects which require a safeguard framework or programmatic approach to address safeguard
+         issues.
+
+F. Disclosure Requirements
+
+Environmental Assessment/Analysis/Management Plan:                         Expected          Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+Date of distributing the Exec. Summary of the EA to the Executive
+Directors (For category A projects)
+
+Resettlement Action Plan/Framework:                                        Expected          Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+
+Indigenous Peoples Development Plan/Framework:                             Expected          Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+
+Pest Management Plan:                                                      Expected          Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+
+Dam Safety Management Plan:                                                Expected          Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+If in-country disclosure of any of the above documents is not expected, please explain why.
+
+Signed and submitted by               Name                                                  Date
+Task Team Leader:                     Walter Vergara                                        05/07/04
+Project Safeguards Specialists 1:     Alonso Zarzar                                         05/07/04
+Project Safeguards Specialists 2:
+Project Safeguards Specialists 3:
+
+Approved by:                         Name                                                   Date
+Regional Safeguards Coordinator: Maria Isabel Junqueira Braga                               05/18/04
+Sector Manager/Director               Abel Mejia                                            05/25/04
+
