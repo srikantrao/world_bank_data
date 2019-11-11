@@ -37,7 +37,7 @@ def  read_url(xlsx):
         print(f"Create a new directory at ./txt_files/{xls_path}")
 
     # Iterate over all the rows 
-    for row in range(13, ws.nrows):
+    for row in range(1, ws.nrows):
         # Find the url information stored in the last column of the excel sheet in this case.
         url_string = ws.cell(row, 6).value
         case_number = "Case_" + str(int(ws.cell(row, 0).value))
