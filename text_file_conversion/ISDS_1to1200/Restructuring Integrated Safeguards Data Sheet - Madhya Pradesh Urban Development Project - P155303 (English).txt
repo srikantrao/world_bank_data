@@ -1,0 +1,611 @@
+﻿The World Bank                                                                         RESTRUCTURING ISDS
+Madhya Pradesh Urban Development Project (P155303)
+
+
+
+
+                     Integrated Safeguards Data Sheet
+                                  Restructuring Stage
+
+
+      Restructuring Stage | Date ISDS Prepared/Updated: 22-May-2018| Report No: ISDSR24949
+
+
+
+
+                      Regional Vice President:    Ethel Sennhauser
+                             Country Director:    Junaid Kamal Ahmad
+               Senior Global Practice Director:   Ede Jorge Ijjasz-Vasquez
+                  Practice Manager/Manager:       Catalina Marulanda
+                           Task Team Leader:      Abhijit Sankar Ray
+            The World Bank                                                                           RESTRUCTURING ISDS
+            Madhya Pradesh Urban Development Project (P155303)
+
+
+
+
+    Note to Task Teams: The following sections are system generated and can only be edited online in the Portal.
+
+.
+
+    I. BASIC INFORMATION
+
+    1. BASIC PROJECT DATA
+
+    Project ID                                                  Project Name
+    P155303                                                     Madhya Pradesh Urban Development Project
+    Task Team Leader(s)                                         Country
+    Abhijit Sankar Ray                                          India
+    Approval Date                                               Environmental Category
+    12-Apr-2017                                                 Full Assessment (A)
+    Managing Unit                                               Is this a Repeater project?
+    GSU12
+
+    PROJECT FINANCING DATA (IN USD MILLION)
+
+    Total Project Cost                                          Total Financing
+    166,000,000.00                                              166,000,000.00
+    Financing Gap
+    0.00
+    OLD_FIN_DTL
+    Financing Source                                                                                        Amount
+    Counterpart Funding                                                                               49,800,000.00
+    International Bank for Reconstruction and Development (IBRD)                                     116,200,000.00
+    Total                                                                                            166,000,000.00
+    2. PROJECT INFORMATION
+
+    Current Project Development Objective
+    The project development objective (PDO) is to enhance the capacity of MPUDC to improve coverage of key urban services
+    and increase the revenue of participating urban local bodies.
+
+
+
+.
+           The World Bank                                                                                RESTRUCTURING ISDS
+           Madhya Pradesh Urban Development Project (P155303)
+
+
+
+
+    Note to Task Teams: End of system generated content, document is editable from here.
+
+
+    3. PROJECT DESCRIPTION
+
+    The Loan 8746-IN for Madhya Pradesh Urban Development Project (MPUDP), in the amount of US$166 million was
+    approved on April 12, 2017 and became effective on July 12, 2017. The original closing date of the Credit Agreement is
+    December 31, 2022.
+    The project development objective (PDO) is to enhance the capacity of the Madhya Pradesh Urban Development
+    Company (MPUDC) to improve coverage of key urban services and increase the revenue of participating urban local
+    bodies (ULBs).
+    The project has two components: (i) Component 1: Institutional Development (US$26.5 million; Bank loan US$18.6
+    million) will strengthen urban policy reforms linked to implementation and sustainability of municipal investments
+    being taken up through the Project, and undertake institutional strengthening of MPUDC as the nodal executing
+    agency set-up with the mandate of improving provision of municipal services in the state of Madhya Pradesh in
+    partnership and on behalf of ULBs; and (ii) Component 2: Urban Investments (US$139.2 million; Bank loan 97.4
+    million) will finance infrastructure sub-projects in participating ULBs to improve provision of a range of urban services,
+    including water supply, sewerage and septage management, drainage, and solid waste management.
+
+    Note to Task Teams: The following sections are system generated and can only be edited online in the Portal.
+
+.
+
+    4. PROJECT LOCATION AND SALIENT PHYSICAL CHARACTERISTICS RELEVANT TO THE SAFEGUARD ANALYSIS (IF
+       KNOWN)
+    Madhya Pradesh (MP) is the second largest, fifth populous, and eighth most urbanized state in India.
+    Although MP recorded a higher rate of urbanization compared to rural growth in the last decade, its
+    urbanization rate is still below the national average but it is projected to catch-up in the next 15 years. At
+    present, MP total urban population is of 20.1 million (28% of total population) concentrated in 476 urban
+    centers as follows: Of the 14 municipal corporations, four (Indore, Bhopal, Jabalpur, and Gwalior) are million-
+    plus cities. Access to water and sanitation is the biggest challenge for the urban population particularly the
+    poor. Slum population is about 6. 4 million as per Census of India 2011. While the institutional development
+    component (Component 1) of MPUDP supports ULBs across the state, the urban investment component
+    (Component 2) proposes to support development of water supply projects in 7 cities and sewerage
+    infrastructure in about 18 cities of the state. Three sub-projects in Khargaon, Burhanpur (water supply) and
+    Chhindwara (Sewerage) will be implemented in the first year and sub-projects in the remaining cities are
+    being developed for implementation in the subsequent years. Based on the environmental and social
+    assessments carried out for first three sub-projects and screening of remaining project cities indicate that the
+    water supply sub-projects involve sensitive water bodies such as River Tapti in Burhanpur, River Chambal in
+    Morena, River Narmada, etc. and construction of intake structure in Crocodile Sanctuary in River Chambal for
+    Morena water supply for project. Number of historic and religious structures are also located in many of the
+    cities, which requires careful planning and implementation of project activities. In addition, the proposed
+    project will also have positive environmental and social impacts owing to benefits such as improved water
+        The World Bank                                                                               RESTRUCTURING ISDS
+        Madhya Pradesh Urban Development Project (P155303)
+
+
+
+supply, sanitation, wastewater management, in the project cities. The benefits are likely to be, in the form of
+saving time for collection of water, improved health and personal hygiene and improved quality of life. On
+the other hand, the project may also have some adverse social impacts related to displacement of people,
+especially the non- title holders and also involve some private land for the proposed infrastructure
+improvement interventions. In Madhya Pradesh, the tribal population in urban areas is 14.5 percent(census
+2011) and scattered all over the State. Some of the project Towns fall in the Scheduled V areas. However, the
+tribal people in urban areas do not explicit typical characteristics such as living as a group; speak separate
+language from dominant population, having separate institutions in close attachment to the forest etc.
+
+
+
+5. ENVIRONMENTAL AND SOCIAL SAFEGUARDS SPECIALISTS ON THE TEAM
+
+
+Sangeeta Kumari, Social Safeguards Specialist
+Harinath Sesha Appalarajugari, Environmental Safeguards Specialist
+SAFEGUARD_TABLE
+6. SAFEGUARD POLICIES TRIGGERED
+ Safeguard Policies                         Triggered                Explanation
+                                                                     Projects such as water supply, sewerage, are likely
+                                                                     to have negative impacts on the project
+                                                                     communities, if not designed and implemented
+                                                                     with consideration to the nature and significance of
+                                                                     the environmental profile of the project area. The
+                                                                     environment impacts in MPUDP, are also likely to
+                                                                     be significant for water and wastewater treatment
+ Environmental Assessment (OP) (BP 4.01) Yes                         plants, as they may affect sensitive environmental
+                                                                     features such as Rivers, Crocodile Sanctuary in
+                                                                     Morena and cultural properties in some
+                                                                     participating ULBs. Impacts of urban infrastructure
+                                                                     projects are expected to be significant, during the
+                                                                     construction phase in the urban areas, The project
+                                                                     hence has been categorized as â€˜Category Aâ€™
+                                                                     and OP 4.01 has hence been triggered.
+ Performance Standards for Private Sector
+                                            No
+ Activities OP/BP 4.03
+                                                                     The intake structure proposed for the water supply
+                                                                     project in Morena city, is located in Crocodile
+                                                                     Sanctuary in Chambal River and would require
+                                                                     management measures to avoid impacts on
+ Natural Habitats (OP) (BP 4.04)            Yes                      crocodile habitat. The policy hence has been
+                                                                     triggered. The environmental and social
+                                                                     assessment to be carried out for the particular sub-
+                                                                     project, will analyze the alternatives to avoid
+                                                                     impacts on the sanctuary and will recommend an
+       The World Bank                                                                       RESTRUCTURING ISDS
+       Madhya Pradesh Urban Development Project (P155303)
+
+
+
+                                                            appropriate natural habitat management plan
+                                                            along with the EMP for the sub-project.
+                                                            Based on the current list of sub-projects, the
+                                                            project does not involve substantial conversion of
+Forests (OP) (BP 4.36)                    No
+                                                            forest areas and impacts on the forest resources.
+                                                            OP 4.36, hence has not been triggered.
+                                                            Project activities, are not expected to trigger the
+Pest Management (OP 4.09)                 No                requirements of OP 4.09. The policy hence has not
+                                                            been triggered.
+                                                            Based on the current information, the project
+                                                            activities are not expected to directly impact the
+                                                            cultural resources. However, some of the sub-
+                                                            projects are located in cities that have number of
+                                                            historic and cultural monuments. OP 4.11, hence
+                                                            has been triggered. Respective sub-project
+Physical Cultural Resources (OP) (BP 4.11) Yes
+                                                            environmental and social assessments will carry
+                                                            out an analysis impacts on these structure will
+                                                            include suitable cultural properties management
+                                                            plans including EMP for the sub-project. Safeguard
+                                                            documents and the sub-project bid documents will
+                                                            also include, â€˜Chance findâ€™ provisions.
+                                                            The scheduled Caste and Scheduled Tribes shall
+                                                            also be part of project beneficiary population.
+                                                            About all the potential sub projects are likely to
+                                                            have presence of scheduled tribes. The ESMF
+                                                            includes the Indigenous Peoples Management
+                                                            Framework. The IPMF provides the guidelines for
+                                                            identification of Indigenous People and preparation
+                                                            of Indigenous People Plan for the sub projects.
+
+                                                            The ESA for three sub projects carried out reveal
+Indigenous Peoples (OP) (BP 4.10)         Yes               that although STs are present in the respective
+                                                            towns the tribal people in urban areas do not
+                                                            exhibit typical characteristics such as living as a
+                                                            group; speak separate language from dominant
+                                                            population, having separate institutions in close
+                                                            attachment to the forest etc based on the
+                                                            identification process provided in the IPMF. Results
+                                                            of the identification process and Consultations
+                                                            have been provided in a separate chapter in the
+                                                            ESA. No separate IPP is prepared for the first three
+                                                            sub projects.
+                                                            The project is anticipated to have some adverse
+                                                            impacts related to displacement of people,
+Involuntary Resettlement (OP) (BP 4.12)   Yes               especially the non- title holders and also involve
+                                                            some private land acquisition for the proposed
+                                                            infrastructure improvement interventions. The
+       The World Bank                                                                          RESTRUCTURING ISDS
+       Madhya Pradesh Urban Development Project (P155303)
+
+
+
+                                                            Resettlement Policy framework in ESMF outlines
+                                                            the process of sub project screening, assessment of
+                                                            impacts, entitlement framework for management
+                                                            of R&R etc. The respective sub projects are
+                                                            required to prepare RAPs as applicable to manage
+                                                            resettlement and Rehabilitation owing to land take.
+                                                            However, as per the draft ESAs of first three
+                                                            subprojects the investments shall be carried out on
+                                                            available land and will not lead to any permanent
+                                                            displacement. The temporary disruption to income
+                                                            activities and any damage to roadside properties
+                                                            during excavation works for laying pipes shall be
+                                                            managed as per ESMP provided in the ESA report.
+                                                            Some of the water supply sub-projects, in Khargaon
+                                                            and Burhanpur involve construction of minor
+                                                            storage structures of about 4-6 m height on Rivers.
+                                                            As per OP4.37, these structures, can be categorized
+Safety of Dams (OP) (BP 4.37)              No               as new small dams below 15 m height. The DPRs
+                                                            and respective EMPs for this sub-projects shall
+                                                            incorporate generic dam safety measures as
+                                                            required by OP 4.37. Hence, the policy is not
+                                                            triggered.
+                                                            The initial list of 30% sub projects identified and
+                                                            posed by the Client at appraisal did not trigger
+                                                            OP7.50. At the time of appraisal, there was no
+                                                            indication to suggest that the international
+                                                            waterway policy would be triggered for the type of
+                                                            investments envisioned under the project in this
+                                                            land locked state. However, the government of
+                                                            Madhya Pradesh has recently proposed nine sub-
+                                                            projects (four water supply and five waste water
+                                                            sub-projects) that draw from and discharge into
+                                                            tributaries of the Ganga basin, respectively. Hence,
+                                                            OP 7.50 is being triggered. These sub-projects lead
+Projects on International Waterways (OP)
+                                           Yes              to an improvement in quality and access of water
+(BP 7.50)
+                                                            supply and/or sanitation systems in their respective
+                                                            urban centers. The four water supply sub-projects
+                                                            aim to augment existing water supply systems, and
+                                                            increase the reliability of safe water availability. The
+                                                            five sanitation sub-projects aim to increase
+                                                            coverage of sanitation access in the towns, and
+                                                            improving the quality of liquid waste discharge.
+                                                            Considering the above, these sub-projects qualify
+                                                            for exception to notification of riparian countries
+                                                            under OP 7.50 as they involve additions or
+                                                            alterations to existing/ongoing schemes that do not
+                                                            adversely change the quality or quantity of water
+           The World Bank                                                                               RESTRUCTURING ISDS
+           Madhya Pradesh Urban Development Project (P155303)
+
+
+
+                                                                       flows to the other riparian countries, and will not
+                                                                       be adversely affected by the other riparian
+                                                                       countries possible water use. In line with the
+                                                                       requirement of the policy, the Bank management
+                                                                       approved an exception from notifying riparian
+                                                                       countries on June 22, 2018.
+                                                                       Project activities are not located in disputed areas.
+ Projects in Disputed Areas (OP) (BP 7.60)       No
+                                                                       OP 7.60, hence has not been triggered.
+KEY_POLICY_TABLE
+II. KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT
+
+ A.     SUMMARY OF KEY SAFEGUARD ISSUES
+
+
+ 1. Describe any safeguard issues and impacts associated with the Restructured project. Identify and describe any
+      potential large scale, significant and/or irreversible impacts.
+      Environmental Safeguard Issues:
+      Some of the sub-projects activities, especially intake structures for water supply projects are located on
+      environmentally sensitive locations such as River Tapti in Burhanpur, River Chambal in Morena and River Kunda
+      (tributary of River Narmada) in Khargone, etc. These sub-projects are likely to cause significant water quality impacts
+      during construction and the River Ecology during operation phase. In addition, the intake structure for water supply
+      project in Morena city is likely to impact the Crocodile Sanctuary in River Chambal, both during construction and
+      operation phase. A number of religious and historic monuments are located in many of the 25 project cities identified
+      for potential sub-projects. Detailed design and implementation of the sub-projects in these cities would require
+      careful finalization of designs and execution during the construction phase of the respective sub-projects. Considering
+      the urban nature of the project cities, impacts such as construction site management, safety of neighboring
+      communities and construction workers, impacts on various utilities, temporary traffic diversions, temporary air and
+      noise impacts are also expected during construction phase of the sub-projects. The environmental and social
+      assessments carried out for the three first year sub-projects assesses the impacts in the respective sub-project and
+      includes specific EMP to address these impacts. In addition, the ESMF prepared for MPUDP provides for carrying out
+      environmental assessments to address all the environmental impacts of the sub-projects and development of specific
+      environmental management plans. All sub-project ESAs will be shared with the Bank for review and clearance.
+
+      Social Issues:
+      No large scale land acquisition or R&R is expected under the project so far. All the sub projects shall be subjected to
+      screening for impacts. All Sub projects RAPs and IPPs shall be shared with World Bank for necessary review and
+      clearance. The ESAs for the first three sub projects do not require any land acquisition or permanent displacement.
+      The temporary loss to income and any damage to roadside properties identified during excavation works and laying
+      of pipes shall be compensated/restored as per ESMP.
+
+
+
+ 2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area.
+      Environmental Impacts:
+      The indirect environmental impacts of MPUDP sub-projects could include increased generation of wastewater in cities
+      where water supply sub-projects are implemented. The other indirect impacts of the project, include discharge of
+      partially treated wastewater from the treatment plants and /or improper maintenance of wastewater infrastructure.
+       The World Bank                                                                                 RESTRUCTURING ISDS
+       Madhya Pradesh Urban Development Project (P155303)
+
+
+
+  Indirect impacts are also expected due to the inadequate operation and maintenance of water treatment plants,
+  pumping stations, booster stations and water/wastewater network In order to address these impacts, action plans
+  will be agreed with the respective project cities during the sub-project preparation, to ensure treatment and disposal
+  of increased wastewater generated in the project cities. Similarly, clear O&M plans and budgets will also be agreed
+  with the respective project cities during the preparation of wastewater sub-projects. These principles have been
+  incorporated in the ESMF for the MPUDP, to ensure the implementation by MPUDC.
+
+  Social Impacts:
+  Improved water supply and sanitation in the participating cities shall result in positive benefits in the long term.
+
+
+3. Describe any potential alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+  While the provision of urban infrastructure and improving service levels is the primary objective of MPUDP, the
+  principle of alternatives has been embedded in the ESMF developed for the project. Each sub-project during the
+  design phase will analyze alternatives for locating various facilities such as treatment plans, pumping stations for the
+  sub-projects and also in finalizing alignment of transmission lines and distribution networks. These have been
+  analyzed in the three sub-projects that have been appraised for the implementation in the first year of the project. In
+  case of Khargaon water supply project, based on the analysis of alternatives, the existing water treatment plant is
+  being refurbished, so that the capacity of new treatment plant is optimized. Similarly, in Chhindwara Sewerage sub-
+  project, centralized sewerage system for the main city and decentralized sewerage system peripheral areas is being
+  proposed. Similar approach will be followed for other sub-projects that will be developed in future.
+
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower
+  capacity to plan and implement the measures described.
+  MPUDP is likely to implement sub-projects, which could involve complex environmental issues such as avoiding
+  impacts on crocodile sanctuary, historic and religious structures and construction safety issues in densely populated
+  urban areas. The sub projects could also involve some land acquisition, damage to roadside structures and loss of
+  income. MPUDC with its Project Implementation Units (PIU) at various parts of the state, will be responsible for the
+  preparation of sub project specific safeguard management plans and its implementation. The Project Management
+  Unit (PMU) at MPUDC headquarters supported by a team of Project Management Consultants (PMC) will be
+  monitoring the implementation of sub-projects. All these agencies (PMU, PMC and PIU) will be staffed qualified
+  environmental engineers / specialists and social scientists/specialists to ensure implementation of safeguard
+  management plans. Their capacity will be strengthened with regular training and orientation programs during
+  implementation. While a dedicated environmental engineer and social specialists are already on board, the safeguard
+  specialists for the PMC and at the PIUs will be on board prior to negotiations for MPUDP.
+
+  In addition to the above institutional arrangements, the borrower has prepared an ESMF for the project and have
+  also prepared Environmental and Social Assessments (ESAs) for the three sub-projects (Burhanpur, Khargaon water
+  supply and Chhindwara sewerage), which have been reviewed and cleared by the Bank. These ESAS will be verified
+  based on the final design of the Design Review, Build and Operate (DRBO) Contractor and the respective ESMPs will
+  be updated to address the impacts due to the design changes (if any). In addition to addressing the issues that may
+  arise from various urban investment sub-projects, the ESMF will also be applicable for all the technical assistance
+  activities that will be undertaken through MPUDP.
+
+
+5. Identify the key stakeholders and describe the mechanism for consultation and disclosure on safeguard policies, with
+  an emphasis on potentially affected people.
+           The World Bank                                                                              RESTRUCTURING ISDS
+           Madhya Pradesh Urban Development Project (P155303)
+
+
+
+     The key stakeholders for the project include the people of participating cities, the respective urban local bodies, the
+     Department of Municipal Administration and Environment Department, MPUDC, state government agencies, other
+     local NGOs and people directly / indirectly affected by the sub-projects. Multi-stakeholder meetings for the three sub-
+     projects at the ULB level have been conducted on July 12, 2016, to share the draft ESMF and respective ESAs. A state-
+     level consultation of the revised ESMF was undertaken on September 07, 2016 in Bhopal. The minutes of these
+     consultations have been attached to the respective final reports. .
+
+     The draft ESMF and ESAs for the first year sub-projects have been disclosed locally by MPUDC at
+     http://www.mpudc.co.in/esmf.html on July 18 and July 19 respectively. These draft reports have also been disclosed
+     at the Bankâ€™s infoshop on July 19, 2016. These draft reports were finalized based on the inputs from stake holders
+     and the Bank. The final reports were re-disclosed locally by MPUDC, including the executive summary in local language
+     (Hindi), on October 19, 2016 at the following locations.
+     ESMF Volume-I : http://mpudc.co.in/files/MPUDP-ESMF-Volume-I_1f92423z.pdf
+     ESMF Volume-II : http://mpudc.co.in/files/MPUDP-ESMF-Volume-II_1f92423z.pdf
+     ESMF Summary: http://mpudc.co.in/files/MPUDP-ESMF-Executive-Summary-Hindi_1f92423z.pdf
+     ESA Burhanpur: http://mpudc.co.in/files/ESA-Burhanpur_1f92423z.pdf
+     ESA Chhindwara: http://mpudc.co.in/files/ESA-Chhindwara_1f92423zpdf
+     ESA Khargone: http://mpudc.co.in/files/ESA-Khargone_54079ye3.pdf>.
+
+     The final reports were re-disclosed at Bankâ€™s infoshop on October 21, 2016.
+
+     The ESMF was revised as part of the restructuring in June 2018 by triggering OP 7.50 – Projects on International
+     Waterways. The revised ESMF was disclosed locally by MPUDC on June 14, 2018 at the following location, and on the
+     World Bank's InfoShop on June 21, 2018.
+
+     ESMF Volume-1: http://mpudc.co.in/files/MPUDP_ESMF_Volume_I_updated.pdf
+
+DISCLOSURE_TABLE
+B.   DISCLOSURE REQUIREMENTS
+ENV_TABLE
+ Environmental Assessment/Audit/Management Plan/Other
+
+Date of receipt by the Bank                                    Date of submission for disclosure
+20-Oct-2016                                                    21-Oct-2016
+ For Category ‘A’ projects, date of distributing the Executive Summary of the EA to the Executive Directors
+ 20-Jul-2016
+ “In country�? Disclosure
+
+ Country                                                          Date of Disclosure
+ India                                                            19-Oct-2016
+ Comments
+                            The World Bank                                                                       RESTRUCTURING ISDS
+                            Madhya Pradesh Urban Development Project (P155303)
+
+
+
+            The ESMF was revised as part of the restructuring in June 2018 by triggering OP 7.50 – Projects on International
+            Waterways. The revised ESMF was disclosed locally by MPUDC on June 14, 2018.
+
+
+RESETTLE_TA BLE
+
+
+
+
+Resettlement Action Plan/Framework Policy Process
+
+Date of receipt by the Bank                                                 Date of submission for disclosure
+20-Oct-2016                                                                 21-Oct-2016
+“In country�? Disclosure
+
+          Country                                                            Date of Disclosure
+          India                                                              19-Oct-2016
+           Comments
+
+
+INDIG ENOUS_TA BLE
+
+
+
+
+Indigenous Peoples Development Plan/Framework
+
+Date of receipt by the Bank                                                  Date of submission for disclosure
+20-Oct-2016                                                                  21-Oct-2016
+“In country�? Disclosure
+
+            Country                                                          Date of Disclosure
+            India                                                            19-Oct-2016
+            Comments
+
+
+
+
+        COMPLIANCE_TABLE
+                     C.   COMPLIANCE MONITORING INDICATORS AT THE CORPORATE LEVEL
+
+EA_TABLE
+ OP/BP/GP 4.01 - Environment Assessment
+ Does the project require a stand-alone EA (including EMP) report?                                               Yes
+
+           If yes, then did the Regional Environment Unit or Practice Manager (PM) review
+                                                                                                                 Yes
+           and approve the EA report?
+
+           Are the cost and the accountabilities for the EMP incorporated in the credit/loan?                    Yes
+        The World Bank                                                                RESTRUCTURING ISDS
+        Madhya Pradesh Urban Development Project (P155303)
+
+
+
+
+NH_TABLE
+OP/BP 4.04 - Natural Habitats
+Would the project result in any significant conversion or degradation of critical
+                                                                                      No
+natural habitats?
+
+If the project would result in significant conversion or degradation of other (non-
+critical) natural habitats, does the project include mitigation measures              No
+acceptable to the Bank?
+
+
+
+PCR_TABLE
+OP/BP 4.11 - Physical Cultural Resources
+Does the EA include adequate measures related to cultural property?                   Yes
+
+Does the credit/loan incorporate mechanisms to mitigate the potential adverse
+                                                                                      Yes
+impacts on cultural property?
+
+
+
+IP_TABLE
+OP/BP 4.10 - Indigenous Peoples
+Has a separate Indigenous Peoples Plan/Planning Framework (as appropriate)
+                                                                                      Yes
+been prepared in consultation with affected Indigenous Peoples?
+
+If yes, then did the Regional unit responsible for safeguards or Practice Manager
+                                                                                      Yes
+review the plan?
+
+If the whole project is designed to benefit IP, has the design been reviewed and
+                                                                                      NA
+approved by the Regional Social Development Unit or Practice Manager?
+
+
+
+IR_TABLE
+OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy framework/process framework
+                                                                                      Yes
+(as appropriate) been prepared?
+
+If yes, then did the Regional unit responsible for safeguards or Practice Manager
+                                                                                      Yes
+review the plan?
+
+Is physical displacement/relocation expected?                                         No
+
+Is economic displacement expected? (loss of assets or access to assets that leads
+                                                                                      No
+to loss of income sources or other means of livelihoods)
+
+
+
+PIW_TABLE
+OP 7.50 - Projects on International Waterways
+            The World Bank                                                              RESTRUCTURING ISDS
+            Madhya Pradesh Urban Development Project (P155303)
+
+
+
+    Have the other riparians been notified of the project?                              No
+
+    If the project falls under one of the exceptions to the notification requirement,
+    has this been cleared with the Legal Department, and the memo to the RVP            Yes
+    prepared and sent?
+
+    Has the RVP approved such an exception?                                             Yes
+
+
+
+    PDI_TABLE
+    The World Bank Policy on Disclosure of Information
+    Have relevant safeguard policies documents been sent to the World Bank for
+                                                                                        Yes
+    disclosure?
+
+    Have relevant documents been disclosed in-country in a public place in a form
+    and language that are understandable and accessible to project-affected groups      Yes
+    and local NGOs?
+
+
+
+    ALL_TABLE
+    All Safeguard Policies
+    Have satisfactory calendar, budget and clear institutional responsibilities been
+                                                                                        Yes
+    prepared for the implementation of measures related to safeguard policies?
+
+    Have costs related to safeguard policy measures been included in the project
+                                                                                        Yes
+    cost?
+
+    Does the Monitoring and Evaluation system of the project include the monitoring
+                                                                                        Yes
+    of safeguard impacts and measures related to safeguard policies?
+
+    Have satisfactory implementation arrangements been agreed with the borrower
+                                                                                        Yes
+    and the same been adequately reflected in the project legal documents?
+
+
+
+
+III. APPROVALS
+
+
+    Task Team Leader(s)                      Abhijit Sankar Ray
+
+
+    Approved By
+
+    Safeguards Advisor
+
+    Practice Manager/Manager
+
+.
+       The World Bank                                       RESTRUCTURING ISDS
+       Madhya Pradesh Urban Development Project (P155303)
+
+
+
+
+Note to Task Teams: End of system generated content
+

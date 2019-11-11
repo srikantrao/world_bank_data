@@ -1,0 +1,197 @@
+Page  1
+INTEGRATED SAFEGUARDS DATA SHEET 
+CONCEPT STAGE 
+Report No.:  AC1908 
+ 
+Date ISDS Prepared/Updated: 12/20/2005 
+ 
+I.  BASIC INFORMATION 
+ 
+A.  Basic Project Data 
+ 
+Country: Bangladesh 
+Project ID: P095965 
+Project Name: Siddhirganj Peaking Power Project 
+Task Team Leader: Alan F. Townsend 
+Estimated Appraisal Date: April 10, 2006 
+Estimated Board Date: June 22, 2006 
+Managing Unit: SASEI 
+Lending Instrument: Specific Investment 
+Loan 
+Sector: Power (100%) 
+Theme: Other public sector governance (P);Infrastructure services for private sector 
+development (S) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+50.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER/RECIPIENT 
+5.00 
+ Financing 
+Gap 
+0.00
+5.00 
+B.  Project Objectives [from section 2 of PCN] 
+The primary development objective is to support investments in peaking power supply capability 
+in Bangladesh such that unmet demand for energy is reduced by 500-million kWh per year (375-
+m. units/yr from Siddhirganj power plant investment, and 125-m. units/yr from transmission 
+investments) [numbers cited here are conservative estimates subject to revision as technical work 
+is done over the course of preparation and appraisal].  When measured at the very conservative 
+value of current tariffs, which are below full cost recovery, this unmet demand has an economic 
+cost of at least $20-million per year.  
+ 
+A
+secondary development objective is to build capacity in Bangladesh to manage effectively 
+and efficiently complex power generation technology; this would be accomplished through 
+capacity building of EGCB and introduction of an O&M contractor.  The EGCB corporatization 
+model, complemented by an O&M contract, has the potential to be implemented across a range 
+of BPDB-owned power stations in Bangladesh, all of which are under-performing at this time.   
+ 
+C.  Project Description [from section 3 of PCN] 
+Page  2
+Siddhirganj, just outside the metro Dhaka area, is an existing power generation site in an 
+industrial area.  The power generation component of the project involves construction of a 120-
+megawatt, simple cycle, gas-fired turbine, complementing two other equivalently sized units on 
+the same site, which have been approved for funding by the ADB.  This plant is designed to run 
+at full capacity for about 9 hours of each day, covering the period of peak consumption from 
+about 2 pm until 11 pm.  
+ 
+The other component of the project seeks to address the shortage of reactive power in the 
+network at this time; shortage of reactive power is often a symptom of system stress, as when 
+capacity and energy are insufficient to meet load.  Reactive power deficits force the injection of 
+real power into a network to be reduced, so the system stays in balance perversely, in a system 
+short of energy already, a shortage of reactive power forces a reduction in generation.  One way 
+to remedy the reactive power deficit is through installation of capacitors at key network 
+substations this is known as shunt compensation, and it has the effect of allowing greater 
+dispatch of real power.  Since the reactive power problem intensifies at peak times, this 
+investment component is synergistic with the investment in generation, and is equivalent to a 
+significant, and much more expensive, addition of peak power capacity.   
+ 
+D.  Project location (if known) 
+The site for the power plant in located within a 88 acre property owned by the PDB. It is a 
+completely enclosed property which houses a power complex consisting of a) an old 50 MW 
+Steam Turbine (ST), b) a new 210 MW Steam Turbine (ST), c) two 132 KV Sub-stations, d) gas 
+reducing main station, e) residential complex for almost 3000 people, f) school, g) mosque, h) 
+hospital, i) shops, and most other common facilities that can be expected in a small township. 
+There are plans to add 2 x 210 MW STs next to the existing 210 MW ST. The  ADB funded 2 x 
+120 MW GTs are to come up in place of the old 50 MW ST near the river on the east side, which 
+will be dismantled. The WB funded 1 x 120 MW GT will come up in the area adjacent to the 
+main road on the west side. The distance between the ADB and WB funded sites is about 1 km.  
+ 
+The whole property is located in an industrial area. On the east side across the river and within 
+2-3 km radius, there are three more gas fired power plants (AES Haripur 360 MW, PDB 99 MW 
+GTs going up to 400 MW soon - financed by JBIC, and NEPC barge mounted 1 x 110 MW).  
+There is a wooden board making factory between AES Haripur and the PDB plant which is 
+known for its high emission of fine particles that clogged the air intake filters of the PDB plant in 
+the past. Immediately along the Siddhirganj property, on the south is a derelict jute mill (was the 
+World largest) that is being converted to a Special Economic Zone, and on the north is a steel re-
+rolling mill, and then a couple of brick kilns. There are numerous other industries abound in the 
+Siddhirganj area. To the immediate west, along the boundary of the property, is the Demra-
+Narainganj road constructed on the embankment of an irrigation canal. The whole Siddhirganj 
+area is quite densely populated like any other peri-urban area around Dhaka. The Sitalakha river 
+immediately to the east of the property is used as a major waterway. It is also the main source of 
+water for all the industrial activity in the Siddhirganj area, including the power plants.   
+ 
+E.  Borrower’s Institutional Capacity for Safeguard Policies [from PCN] 
+The EGCB is a newly created corporate entity that is still trying to establish itself. Hence it has 
+no capacity for managing safeguard issues. However, the PDB, which is the parent entity to 
+Page  3
+EGCB, has undertaken projects funded by external donors that require management of safeguard 
+issues. As a result the EGCB senior staff are aware of the requirements for managing safeguard 
+issues.   
+ 
+F.  Environmental and Social Safeguards Specialists 
+Mr Sameer Akbar (SASES) 
+ 
+II.  SAFEGUARD POLICIES THAT MIGHT APPLY 
+Safeguard Policies Triggered
+ 
+Yes No TBD 
+Environmental Assessment (OP/BP 4.01) 
+X
+This is a provisional categorization based on site visit by the Environmental Specialist. It will 
+be confirmed after scoping for the Environmental Assessment (EA) is completed. Initial 
+assessment suggests the airshed quality may be an issue which could affect design parameters of 
+the power plant and necessitate special measures to address this in the EMP.   
+Natural Habitats (OP/BP 4.04) 
+ X  
+Forests (OP/BP 4.36) 
+ X  
+Pest Management (OP 4.09) 
+ X  
+Cultural Property (OPN 11.03) 
+ X  
+Indigenous Peoples (OD 4.20) 
+ X  
+Involuntary Resettlement (OP/BP 4.12) 
+ X  
+Safety of Dams (OP/BP 4.37) 
+ X  
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X  
+Projects in Disputed Areas (OP/BP 7.60) 
+ X  
+Environmental Category:
+ 
+B
+-
+Partial Assessment 
+ 
+III.  SAFEGUARD PREPARATION PLAN 
+ 
+A.  Target date for the Quality Enhancement Review (QER), at which time the PAD-stage ISDS 
+would be prepared:  04/28/2006 
+ 
+B.  For simple projects that will not require a QER, the target date for preparing the PAD-stage 
+ISDS:  N/A 
+ 
+C.  Time frame for launching and completing the safeguard-related studies that may be needed.  
+The specific studies and their timing
+1
+should be specified in the PAD-stage ISDS. 
+The on-going PSDTA will fund the EGCB to undertake the collection and collation of 
+information /data from primary and secondary sources of key baseline environmental 
+parameters in and around the site. This baseline study will serve as the basis for preparation 
+of the ToR for the EA/EMP. 
+ 
+1
+Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the 
+InfoShop and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to potentially affected 
+persons.
+ 
+Page  4
+In keeping with the secondary objectives of the project, given that EGCB is a newly 
+constituted company which is likely to manage many more power plants in the future, this 
+project is a good opportunity to assist them with developing a framework for environment, 
+health, and safety management. The capacity building of EGCB could be done through TA 
+support. The TA could be delivered either through the O&M contractor (who is to be hired 
+for 6 years) or a separate consultant. The ToR for the O&M contractor to be developed by the 
+transaction consultant will need to include monitoring and supervision of environmental 
+parameters. There are a number of IPPs operating in the area. They may already be having an 
+environmental management / monitoring system in place. It would be good for the EGCB 
+and Siddhirganj staff to learn about what they are doing.   
+ 
+IV.  APPROVALS 
+ 
+Signed and submitted by: 
+ 
+Task Team Leader: 
+Mr Alan F. Townsend 
+11/01/2005 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Frederick Edmund Brusberg 
+12/07/2005 
+Comments:   
+Sector Manager: 
+Ms Penelope J. Brook 
+11/01/2005 
+Comments:   

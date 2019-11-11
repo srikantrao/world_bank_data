@@ -1,0 +1,228 @@
+                                           INTEGRATED SAFEGUARDS DATA SHEET
+                                              IDENTIFICATION / CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                              Report No.:
+
+                         Date ISDS Prepared/Updated: 05-Oct-2016
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:             Ethiopia                       Project ID:      P161769
+                            Project Name:        Ethiopia 2017 Population and Housing Census Support
+                            Team Leader(s):      Anne Margreth Bakilana
+                            Estimated Date
+                            of Approval:
+                            Managing Unit:       GHN07                          Lending          IPF
+                                                                                Instrument:
+                            Financing (in USD Million)
+                            Total Project Cost: 0.5                           Total Bank Financing: 0
+                            Financing Gap:      0
+                              Financing Source                                                                          Amount
+                              Trust Fund for Statistical Capacity Building                                                 0.5
+                            Environment         C - Not Required
+                            Category:
+Public Disclosure Copy
+
+
+
+
+                           B. Project Development Objective(s)
+                           The development objective of the requested Grant is to support Ethiopia in the successful
+                           implementation of the Population and Housing Census (PHC) planned for 2017. The Grant will
+                           support the Central Statistical Agency (CSA) and tUNFPA Population Fund (UNFPA) to implement
+                           a newly developed census enumeration methodology that will ensure complete and accurate
+                           enumeration of the entire population. The 2017 PHC will collect information on all persons present
+                           within the borders of Ethiopia on the census reference date. Unlike the previous census (es) the 2017
+                           PHC will be based on one reference date countrywide.
+                           C. Project Description
+                           The Grant would support key activities that must be implemented in preparation of the census. These
+                           will include improvements in technology for census cartography and Geography Information
+                           Systems (GIS) development which are an essential preparatory activity for the census exercise as the
+                           success of any census is critically dependent on the accuracy of the cartographic maps.
+                           Accompanying the mapping activities will be training of CSA and other staff in cartographic and
+                           GIS methodology.
+
+                           Data capture under the previous censuses had been done using paper based questionnaires. In
+                           planning ahead to the Ethiopia 2017 Census, a mix of technology has been put in place to assure
+                         quality and timely results. For the Ethiopia 2017 Census, hand-held devices will be used for data
+                         capture with at least 160,000 devices being required for enumeration alone. These devices will also
+                         be used in other downstream census activities, or in other large scale data generation activities at
+Public Disclosure Copy
+
+
+
+
+                         CSA ➢❨ and beyond ➢❨ upon completion of the census program. Furthermore, technologies will
+                         be introduced to support the elaborate process involved in delineating an estimated 150,000 to
+                         160,000 census enumeration areas (EAs) countrywide.
+
+                         The cartographic process will be modeled on the use of mobile GIS technology to ensure complete
+                         and accurate coverage of the vast frontiers (1.1m sq. km) and challenging topography of Ethiopia in
+                         time for the enumeration. ArcGIS for Windows Mobile software will be used in conjunction with
+                         GPS-enabled PDAs (Trimble Juno 3B) to gather GIS-based information for EA maps production. In
+                         addition, high resolution satellite imagery (SPOT - 1.5m/6m Pleiades for rural and 50cm for urban
+                         areas) will be used to enhance pace and quality of the EA maps production. The cartographic
+                         activities will also employ the use of additional Apps (Dashboard & work force manager) installed
+                         on the ArcGIS platform to promote effective deployment, task distribution and progress monitoring
+                         and reporting.
+
+                         The main components of the proposed Grant are below:
+
+                         1.       Technical assistance in cartographic and GIS Methodology development
+                         The Ethiopian government has adopted mobile GIS technology for the 2017 Census. However, CSA
+                         technical staff have little experience to implement the technology (none of the staff has been
+                         involved in the census hitherto). The only exposure they have so far came through study tours GIS
+                         staff made to Brazil and Cape Verde. The only formal training on use of PDAs to collect data (with a
+                         GIS component) was attended by a couple of CSA staff in South Africa for a week, supported by
+                         FAO. This is inadequate and, therefore, cannot support the skill-intensive activities that mobile GIS
+                         technology demands.
+
+                         Accordingly, this activity partly entails the recruitment of a cartographic/GIS specialist who will
+Public Disclosure Copy
+
+
+
+
+                         provide responsive and timely overall technical assistance and oversight on implementation of all
+                         census cartography/GIS related activities. The ArcGIS software suite already supplied and being
+                         used requires further re-engineering to be fully adapted to CSA➢❨ s needs. Thus, the technical
+                         assistance will allow for the support CSA staff needs to resolve outstanding technical challenges (e.g.
+                         software upgrade and customization, data synchronization and system automation), advise CSA on
+                         mapping methodology amendment and development, identify, draw up and lead implementation of
+                         additional capacity building needs, and establish pragmatic data quality assurance mechanisms and
+                         fields monitoring and reporting framework. The cartographic / GIS specialist will be recruited
+                         through competitive bidding in the global market place in accordance with UN procurement due
+                         process to assure quality technical assistance and value for money. The UN➢❨ s hiring procedures
+                         for long term consultants will guarantee successful recruitment of the right skills for the needs at
+                         hand.
+
+                         2.       Improved cartographic infrastructure
+                         The existing census mapping methodology will be amended to enhance quality and pace of map
+                         production. This will require, among other things, acquisition of additional Bluetooth and GPS
+                         enabled hand-held data loggers. At least 500 devices will be required to facilitate the operations of
+                         100 or so teams to be added (each team has one supervisor and six GIS assistants). Technical experts
+                         will be consulted on appropriate and cost-effective devices.
+                         3.       Technical capacity building of CSA staff
+                         Due to high turnover of staff at CSA, none of the current CSA staff managing the censuses processes
+Public Disclosure Copy
+
+
+
+
+                         has been involved in census implementation previously. Because census cartography and GIS
+                         development is an extremely high skill all CSA technical staff will require conceptual and hands-on
+                         training so as to leverage the optimal benefits of the use of new technology. In full particular, full
+                         capacity building in the following critical areas is inevitable:
+
+                         ➢❨¢ Geodatabase development and management
+                         ➢❨¢ EA maps production and concatenation
+                         ➢❨¢ Field-office work flow management
+                         ➢❨¢ Network security and administration
+                         ➢❨¢ Disaster preparedness
+                         ➢❨¢ Data documentation and archiving
+                         ➢❨¢ Spatial data analysis
+                         The capacity building programs will strengthen the skills of CSA staff to effectively implement all
+                         the phases of the census (pre-enumeration, enumeration and post-enumeration) activities, as well as
+                         support other national statistical system activities such as upcoming agricultural census and national
+                         surveys. Further, the skills can and will be shared with other countries needing similar support
+                         through the South-South cooperation initiatives, and of which CSA is already a big beneficiary
+                         (Ethiopia 2017 Census cartographic activities were kick-started through devices (GPS-enabled data
+                         loggers) and technical assistance provided by Namibia Statistics Agency through the South-South
+                         Cooperation arrangement). Quite a few NSOs have already expressed interest to visit CSA when
+                         they start preparing for their census to understudy Ethiopia➢❨ s census cartography and GIS
+                         methodology.
+
+                         4.       Geodatabase development and management and field supervision
+                         The CSA needs to collect and manage the GIS data through a data base system that will ensure
+Public Disclosure Copy
+
+
+
+
+                         operational efficiency in work flow management and quality and timely production of EA maps. To
+                         this end CSA requires to develop a geodatabase through which project downloads, uploads, editing/
+                         validation and compilation will be accomplished. The geodatabase will provide additional
+                         advantages to census operations through linkages with other GIS-platform applications to facilitate
+                         subsequent census processes/phases (e.g. data processing, analysis and dissemination).
+
+                         The development of the Geodatabase will require an external/international IT/data processing expert
+                         to work with the GIS Specialist and CSA GIS staff. Once developed the geodatabase will be
+                         implemented both at head office and branch offices across the country. Regular monitoring through
+                         scheduled field monitoring visits (FMVs) will be required for optimum and sustainable
+                         implementation and benefits thereof.
+
+                         5.      Training of additional cartography/GIS field personnel
+                         The additional 100 or so teams (or at least 700 field mapping personnel) recruited to enhance the
+                         pace of EAs production related activities must undergo comprehensive training and field practice (45
+                         days, or 6 weeks) to bring them up to the required skill levels before embarking on field mapping.
+                         Three international experts (Cartography, GIS & IT/data processing experts) will be hired for 3
+                         weeks to train selected CSA staff (TOT) who, in turn, will train the field mapping personnel.
+                           6.     UNFPA grant administration costs
+                           A standard fee of seven percent of the entire cost of every donor funded program will be levied by
+                           UNFPA head office to offset costs related to the program administration, including project review
+Public Disclosure Copy
+
+
+
+
+                           and audit.
+                           D. Project location and salient physical characteristics relevant to the safeguard
+                           analysis (if known)
+                           The 2017 Population and Housing Census will collect information on all persons present within the
+                           borders of Ethiopia on the census reference date.
+                           E. Borrower’s Institutional Capacity for Safeguard Policies
+                           The Borrower has the institutional capacity to address safeguards policies.
+
+                           F. Environmental and Social Safeguards Specialists on the Team
+                           Tamene Tiruneh Matebe (GSP01)
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+                           Safeguard Policies                  Triggered?       Explanation (Optional)
+                           Environmental Assessment OP/        No               No significant environmental or safeguard
+                           BP 4.01                                              issues are expected.
+                           Natural Habitats OP/BP 4.04         No               No significant environmental or safeguard
+                                                                                issues are expected.
+                           Forests OP/BP 4.36                  No               No significant environmental or safeguard
+                                                                                issues are expected.
+                           Pest Management OP 4.09             No               No significant environmental or safeguard
+                                                                                issues are expected.
+                           Physical Cultural Resources OP/     No               No significant environmental or safeguard
+Public Disclosure Copy
+
+
+
+
+                           BP 4.11                                              issues are expected.
+                           Indigenous Peoples OP/BP 4.10       No               No significant environmental or safeguard
+                                                                                issues are expected.
+                           Involuntary Resettlement OP/BP      No               No significant environmental or safeguard
+                           4.12                                                 issues are expected.
+                           Safety of Dams OP/BP 4.37           No               No significant environmental or safeguard
+                                                                                issues are expected.
+                           Projects on International        No                  No significant environmental or safeguard
+                           Waterways OP/BP 7.50                                 issues are expected.
+                           Projects in Disputed Areas OP/BP No                  No significant environmental or safeguard
+                           7.60                                                 issues are expected.
+
+                         III. SAFEGUARD PREPARATION PLAN
+                              Appraisal stage ISDS required?: No
+                         IV. APPROVALS
+                           Team Leader(s):            Name: Anne Margreth Bakilana
+                           Approved By:
+                         Safeguards Advisor:              Name: Nathalie S. Munzberg (SA)                                    Date: 18-Oct-2016
+                         Practice Manager/                Name: Sybille Crystal (PMGR)                                       Date: 18-Oct-2016
+                         Manager:
+Public Disclosure Copy
+
+
+
+
+                         1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the
+                         InfoShop and (ii) in country, at publicly accessible locations and in a form and language that are accessible to potentially
+                         affected persons.
+Public Disclosure Copy
+

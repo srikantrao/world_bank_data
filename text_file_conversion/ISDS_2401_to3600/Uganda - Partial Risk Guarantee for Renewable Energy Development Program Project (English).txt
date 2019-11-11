@@ -1,0 +1,215 @@
+﻿               RFG297HDRS INTEGRATED SAFEGUARDS DATA SHEET
+                              CONCEPT STAGE
+
+                                                                             Report No.:AC6919
+
+Date ISDS Prepared/Updated: June 5, 2013
+
+I. BASIC INFORMATION
+
+A. Basic Project Data
+
+Country: Uganda                              Project ID: P133318
+                                             Additional Project ID (if any):
+Project Name: Partial Risk Guarantee for Renewable Energy Development Program
+Task Team Leader: Raihan Elahi
+Estimated Appraisal Date: September 2,       Estimated Board Date: December 3, 2013
+2013
+Managing Unit: AFTG1                         Lending Instrument: PRG
+Sector: Hydropower (100%)
+Theme: Rural services and infrastructure (100%)
+IBRD Amount (US$m.):
+IDA Amount (US$m.):           40.00
+GEF Amount (US$m.):
+PCF Amount (US$m.):
+Other financing amounts by source:
+Environmental Category: B
+Simplified Processing               Simple [ ]               Repeater [ ]
+Is this a transferred project        Yes [ ]                 No [X]
+
+B. Project Objectives [from section 2 of PCN]:
+
+The Program Development Objective is to increase electricity generation by providing credit risk
+enhancement to renewable energy based small independent power producers.
+
+C. Project Description [from section 3 of PCN]:
+
+The proposed Partial Risk Guarantee for the Renewable Energy Development Program (PRG
+Program) will support private sector investors to develop renewable energy based power plants
+(herein after referred to as “subprojects�?) in Uganda under the approved Renewable Energy Feed
+in Tariff (REFiT) structure. The REFiT was revised in 2010 by enhancing the Feed in Tariff
+based on levelized cost of power of different renewable energy technologies; however it did not
+attract expected investment from the private sector. Preliminary assessment carried out by ERA
+suggests that current financial performance of the single buyer, the UETCL, does not provide the
+required level of comfort to the interested investors to commit their capital and raise commercial
+debt for subprojects where revenue will depend on UETCL’s ability to make regular payments
+for about 15 years. The proposed PRG Program will enhance the creditworthiness of UETCL by
+guaranteeing its obligation to the SIPPs under the PPA.
+
+To create an enabling environment for private sector investment in renewable energy, the GoU is
+working with IDA and other development partners to introduce three instruments to enhance the
+market. These are: (i) IDA PRG Program, (ii) GETFiT Premium Payment, and (iii) Private
+Renewable Energy Financing Facility. While these instruments will be offered independent of
+each other, and will be supported by different institutions, they will all work to enhance the
+renewable energy market development in Uganda.
+
+D. Project location and salient physical characteristics relevant to the analysis of
+environmental and social risks and impacts (if known):
+
+Project locations are at specific hydropower generation sites throughout Uganda as follows
+(subject to revisions during project preparation):
+
+Siti Small Hydropower Subproject (5 MW and 16.5 MW): The proposed Siti small
+hydropower development includes two subsequent weirs and power stations at the Kapchorwa
+District. Siti 1 Plant will have an installed capacity of 5 MW and an annual output of 25 GWh,
+while Siti 2 will have a capacity of 16.5 MW and an annual output of 70 GWh. The load factor
+for Siti 1 is 57% and the load factor for Siti 2 is 48%. Both power plants are run of the river
+design. The sponsor of this power plant, VS Hydro (Pvt.) Ltd. from Sri Lanka, carried out the
+feasibility study for this plant.
+
+Hydrology: The Siti river originates from Mount Elgon which the feasibility states receives the
+highest rainfall in Uganda. Hydrology has been studied using three different approaches. The
+most conservative of the three concludes that the stream dries out 10% of the time. Flow duration
+curves have been derived and a design flow of 2.6m3/s has been selected for Siti 1 and 4.2m3/s
+for Siti 2. The value of Siti 2 is on the high side and could likely be reduced by 10%.
+
+Subproject Cost Estimate: The sponsors have decided to rely on an EPC contract that will be
+handled by VS Hydro. The engineering and project management costs reflected in the feasibility
+study will have to be further reviewed. The subproject cost estimate excluded the cost of
+constructing transmission line and interconnection facilities. The length of transmission line and
+the cost needs to be properly assessed to complete the feasibility study.
+
+Kakaka Small Hydropower Subproject (5 MW): The proposed Kakaka small hydropower
+subproject is a run of river project with a 5 MW power station operating under a 195 m head
+with a 3.6m3/s flow. The annual output is 22.8 GWh. The load factor is 52%. The feasibility
+study was carried out by VS Hydro (pvt) Ltd. from Sri Lanka who is also proposing construction
+management and manufacturing of the turbines.
+
+Hydrology: Hydrology has been studied with two separate methods and they both concur on an
+average annual flow of 2.11 m3/s.
+
+Subproject Cost Estimate: The sponsors have decided to rely on an EPC contract that will be
+handled by VS Hydro and Greenewus Energy Africa Limited. The engineering and project
+management costs reflected in the feasibility study will have to be further reviewed. The sub-
+project cost estimate excluded the cost of transmission line and interconnection facilities. The
+length of Transmission line and the cost needs to be properly assessed to complete the feasibility
+study.
+
+Lubila Small Hydropower Subproject (4.5 MW): The proposed Lubilia small hydropower
+development includes a power station with an installed capacity of 4.5 MW and an annual output
+of 21.3 GWh. The load factor is 42%. The feasibility study has been conducted by AH
+Consulting, a Ugandan based regional consulting firm providing consulting services to the
+private sector, public sector, non-governmental organizations and development agencies.
+
+Hydrology: The Lubilia river originates in the high forests of the Rwenzori mountains. There are
+no data of historical flows on this river, but there is a good correlation with the neighboring
+Kanyampara River and a considerable database of stream flows exist for neighboring streams.
+The catchment area is reported to be 42.5 km2with an average annual flow of 1.44m3/s. Further
+assessment on a number of parameters including catchment yield needs to be carried out before
+finalizing the subproject design.
+
+Kikagati Small Hydropower Subproject (16 MW): The proposed Kikagati small hydropower
+subproject is a 16 MW power plant. It’s a trans-boundary project where the benefits will be
+shared between Uganda and Tanzania. The sponsors have advanced the project preparation by
+concluding the technical, financial and environmental assessments. The sponsor have identified
+the EPC contractor to construct the plant and at present are negotiating the EPC contract price.
+The sponsor of this power plant is Tronder Power Ltd. which owns other power plants in
+Uganda.
+
+Nyamwamba Small Hydropower Project (9.2 MW): The proposed Nyamwamba project is
+situated just outside the Rwenzori Mountains National Park in Kasese district. While the project
+is on the Nyamwamba River, it lacked hydrological information, and hence the feasibility of the
+hydropower project was carried out using hydrological information of two parallel rivers next to
+Nyamwamba. Based on this feasibility report, the sponsors applied for the hydropower
+generation permit from ERA for a 16 MW power plant. After receiving the permit, the sponsors
+installed metering gauges on the Nyamwamba River and as per the hydrological information
+obtained from these metering stations, they revised their feasibility report to a 9.2 MW capacity
+power plant. The sponsor’s application to revise its generation permit from 16 MW to 9.2 MW
+is still awaiting ERA’s approval.
+
+The sponsors for all the projects have outdated ESIAs and RAPs; they have been requested to
+update the environment and social documents as per the Performance Standards.
+
+E. Borrower’s Institutional Capacity for Effective ESMS:
+
+Beneficiaries of the proposed PRG will be private companies (with or without foreign
+involvement). These are likely to have varied capacity for effective implementation of
+environmental and social management system (ESMS). Their institutional capacity will be
+assessed as a part of IDA due diligence and summarized in the Environmental and Social Review
+Summary (ESRS).
+The beneficiary companies will operate under the established Ugandan institutional, legal and
+regulatory framework for environmental and social management. This framework is broadly
+considered to be consistent with generally accepted global practice, although some procedural
+aspects and application vary and are affected by limited institutional capacity and political
+commitment. However, the framework has been applied extensively for large and small
+hydropower development.
+
+F. Environmental and Social Safeguards Specialists on the Team:
+
+   Martin Fodor, AFTN3
+   Yasmine Tayyab, AFTCS
+
+II. PERFORMANCE STANDARDS THAT MIGHT APPLY
+
+Performance Standards (please explain why)                      Yes          No         TBD
+PS 1: Assessment and Management of Environmental                 X
+and Social Risks and Impacts
+
+PS 2: Labor and Working Conditions                               X
+
+PS 3: Resource Efficiency and Pollution Prevention               X
+
+PS 4: Community Health, Safety, and Security                     X
+
+PS 5: Land Acquisition and Involuntary Resettlement              X
+
+PS 6: Biodiversity Conservation and Sustainable                  X
+Management of Living Natural Resources
+
+PS 7: Indigenous Peoples                                                     X
+
+PS 8: Cultural Heritage                                          X
+
+
+III. SAFEGUARD PREPARATION PLAN
+
+A. Target date for the Quality Enhancement Review (QER), at which time the ESRS would be
+   disclosed and the PAD-stage ISDS would be prepared:
+
+   An ESRS would be prepared, covering each of the sites, for the Phase 1 sub-projects in
+   August 2013. Phase 1 sub-projects will be selected based on financial, technical,
+   environmental and social considerations after information on candidate sub-projects is
+   provided by the counterparts.
+B. For Category C or Category FI projects that do not require an ESRS, the target date for
+   preparing the PAD-stage ISDS:
+
+Not applicable as project is neither Category C nor FI, and does require ESRS.
+
+C. Timeframe for launching and completing the safeguard-related studies that may be needed.
+   The specific studies and their timing1 should be specified in the PAD-stage ISDS:
+
+       Preparation of safeguard related studies will be determined upon review of the existing
+       environmental and social due diligence work prepared for the sub-projects in the course of
+       preparing the ESRS.
+
+Riparian Notification per OP 7.50 – carried out by the Bank
+
+IV. APPROVALS
+
+Signed and submitted by:
+Task Team Leader:                               Raihan Elahi                                                 Date: 06/06/13
+
+Approved by:
+Regional Safeguards Coordinator:                Alexandra C. Bezeredi                                        Date: 06/07/13
+
+  Comments:
+Sector Manager:                                 Lucio Monari                                                 Date: 06/10/13
+  Comments:
+
+
+
+
+1   Reminder: The Bank's Access to Information Policy requires that safeguard-related documents be disclosed before appraisal (i)
+at the InfoShop and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to potentially
+affected persons.
+

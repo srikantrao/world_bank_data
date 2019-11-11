@@ -1,0 +1,462 @@
+﻿The World Bank                                                                              Appraisal ISDS
+Myanmar RBF Off-grid Solar (P166413)
+
+
+
+
+                      Integrated Safeguards Data Sheet
+                                      Appraisal Stage
+
+
+         Appraisal Stage | Date ISDS Prepared/Updated: 20-Jun-2018| Report No: ISDSA25093
+
+
+
+
+                       Regional Vice President:    Victoria Kwakwa
+                              Country Director:    Ellen A. Goldstein
+                Senior Global Practice Director:   Riccardo Puliti
+                   Practice Manager/Manager:       Julia M. Fraser
+                            Task Team Leader:      Sunil Kumar Khosla
+              The World Bank                                                                          Appraisal ISDS
+              Myanmar RBF Off-grid Solar (P166413)
+
+
+
+.
+
+    I. BASIC INFORMATION
+
+    1. BASIC PROJECT DATA
+
+    Project ID                                                    Project Name
+    P166413                                                       Myanmar RBF for Off-grid Solar
+    Task Team Leader(s)                                           Country
+    Sunil Kumar Khosla                                            Myanmar
+    Approval Date                                                 Environmental Category
+    10-Aug-2018                                                   B-Partial Assessment
+    Managing Unit                                                 Is this a Repeater project?
+    GEE02                                                         No
+
+
+    PROJECT FINANCING DATA (US$, Millions)
+
+    SUMMARY               -NewFin1
+
+
+
+
+    Total Project Cost                                                                                       3.45
+    Total Financing                                                                                          3.45
+    Financing Gap                                                                                            0.00
+
+
+    DETAILS -NewFinEnh1
+
+
+
+
+    Non-World Bank Group Financing
+
+      Trust Funds                                                                                            3.45
+         Energy Sector Management Assistance Program                                                         0.45
+         Global Partnership on Output-based Aid                                                              3.00
+
+
+    2. PROJECT DEVELOPMENT OBJECTIVE
+
+    Project Development Objective
+. The objective of the RBF for Off-grid Solar is to help increase access to electricity in Myanmar.
+           The World Bank                                                                                                          Appraisal ISDS
+           Myanmar RBF Off-grid Solar (P166413)
+
+
+
+
+ 3. PROJECT DESCRIPTION
+
+Component 1: Results-based subsidies to eligible companies/NGOs in order to support sales of solar products ranging
+from 1.5 watt peak (Wp) solar lamps up to 50 Wp SHS. There are about 150 Lighting Global certified products in this range.
+These products cater for basic needs such as lighting and phone charging (Sustainable Energy for All - SE4All Tier1 access1)
+up to the operation of direct current (DC) appliances such as televisions and fans (SE4All Tier 2 access). The activity will
+promote more sustainable, private sector driven off-grid solar market development. It will address high initial market
+development costs faced by the private sector in Myanmar, contributing to supply chain development and provision of
+quality sales and services. As RBF/output-based aid (OBA) solar energy programs have demonstrated, potential customers
+would benefit from increasing market competition, which is expected to result in a larger offer of quality products at
+competitive price.
+
+Product quality assurance: The RBF grant will promote Lighting Global certified products that are delivered with 1-3 year
+warranty requirements depending on the product and after sales service. The Lighting Global testing procedure for small
+solar systems up to 10 Wp has become an international standard IEC-TS 62257-9-5, while the testing procedure for SHS
+kits up to 350 Wp is planned to be formalized as IEC standard in 20182. Companies can either select one of currently
+certified products or submit their untested products for certification. IFC Lighting Myanmar supports local companies that
+seek Lighting Global certification for their products.
+
+RBF Subsidy payment. The RBF subsidy will be 100% reimbursed to solar companies/NGOs based on the verification of
+sales by an independent verification agent on a sample basis. The verification process will combine review of import
+documentation submitted by the supplier to DRD with calls and field visits of customers. In addition to the verification of
+sales, information on the beneficiary household (size, gender, ethnicity), consumer satisfaction (product and service
+received), after sales service (spare parts and warranty implementation), and use (appliances) will be collected. The
+information will inform the output monitoring as well as the annual review of the RBF incentive mechanism.
+
+Funding Structure and Subsidy Levels. Companies entering the rural solar market in Myanmar with quality products and
+services are facing the challenge of high market risks and market entry costs. Risks include uncertainty of market uptake
+caused by low household willingness to pay due to the competition of cheap low-quality products that have largely
+penetrated the market and expansion of various rural electrification programs. Market entry costs include marketing,
+employment and training of staff, rent for office and warehouse space, import and transport logistics, and facilitation of
+consumer financing and post-sale service. Company’s income consists of sales revenues which are usually low and difficult
+to predict in the pilot phase. High initial investment is required until increased sales eventually pay off. Depending on
+confidence in the market potential, equity investors will accept higher risks to quickly scale-up the market or require a
+slower approach, expecting first results before decisions on further market expansion are taken. The RBF incentive aims
+to accelerate market uptake by partially compensating companies for risk taking and high marginal retail costs incurred
+by entering new markets.
+
+Competition and economies of scale are expected to result in more affordable price for end users. Products that are
+eligible for RBF incentives cover a wide range of service and cost level. Larger systems (within the supported range under
+the RBF pilot) are offered with consumer financing - either in cooperation with MFIs or as a credit extended by solar
+companies themselves, as PAYG, making these systems and better service affordable to more customers. Lowest-income
+
+
+1 ESMAP Multi-tier Framework for Measuring Energy Access. https://www.esmap.org/node/55526
+2 Product testing can be conducted in one of the six registered laboratories in US, China, India, Hong Kong, Kenya, and Germany and requires about
+3-5 month time at cost of USD 5,000 to 7,000.
+         The World Bank                                                                                         Appraisal ISDS
+         Myanmar RBF Off-grid Solar (P166413)
+
+
+
+households will have the choice of entry level quality solar products starting at US$25 up to larger systems paid on monthly
+rates of US$3 to US$13.33 over one to two years.
+
+The RBF incentive is designed as cash payment to reward risk taking and reduce market entry costs for first mover
+companies. The subsidy calculation is based on lumen-hours per day provided by the system. Similar subsidy calculation
+methodology was adopted by GiZ Energizing Development/EnDev in other countries. The methodology has several
+benefits:
+
+                (a) It provides good proxy for the amount of energy service provided by the system (even considering
+                    that some energy will go to non-lighting services like mobile phone charging).
+                (b) It provides a transparent metric that can be easily compared across systems of different sizes.
+                (c) It is readily available on the Lighting Global testing specification sheet for tested products, and
+                    therefore would not require any additional system testing. All Lighting Global products have published
+                    specification sheets, meaning that any new product that gets tested can be easily added to the RBF
+                    incentive list.
+
+The subsidy calculation methodology will be presented in the Operational Manual and will be subject to annual review.
+The annual review of the RBF subsidy level will be conducted by DRD considering market uptake in Myanmar, newly
+Lighting Global certified products, and changes in FOB prices. The Lighting Global products are clustered in three service
+level categories based on their key performance characteristics: (i) one light point with phone charging, (ii) multiple light
+points with phone charging, and (iii) 4 and more light points with phone charging and optional operation of a TV.
+
+Component 2: Implementation support to DRD. Key activities include overall management and promotion of the RBF Off-
+grid Solar, compliance with RBF procedures, monitoring and verification of results, fiduciary and safeguards aspects of the
+grant.
+
+Customer awareness campaign is supported by IFC as part of Lighting Myanmar initiative. IFC procured a marketing firm
+that promotes the benefits of quality-verified solar products and in particular Lighting Global certified products available
+in Myanmar. The marketing firm will also disseminate information on the RBF pilot.
+.
+
+ 4. PROJECT LOCATION AND SALIENT PHYSICAL CHARACTERISTICS RELEVANT TO THE SAFEGUARD ANALYSIS (IF
+    KNOWN)
+ Based on the nature of the technology, the Lighting Global certified products supported under the proposed
+ grant have very small footprint and are widely dispersed. The proposed RBF proposed grant will initially
+ support the ongoing IFC-led Lighting Myanmar activities in central Myanmar as envisaged at NEP project
+ design. In the longer term, the scope of the project remains national, demand driven, where households are
+ willing to buy Lighting Global certified solar products. The proposed RBF will be implemented alongside and
+ by the same implementation agency as the ongoing National Electrification Project (NEP), which has an ESMF
+ approved by the Bank. However, NEP has revised its ESMF to ensure that it is more relevant and tailored to
+ NEP broadly as well as to the RBF grant activities. The revised ESMF will be applicable to the RBF grant
+ activities. The revised ESMF includes RBF activities in the typology of sub-projects covered, with
+ corresponding brief ESMPs/ECOPs added (e.g. encouraging appropriate disposal). An Action Plan to address
+ NEP safeguards policies issues has been articulated as a part of the NEP mid-term review. The key elements
+ include (i) revision of ESMF by the client with support provided by GIZ, (ii) upstream E&S support by GIZ, (iii)
+        The World Bank                                                                                  Appraisal ISDS
+        Myanmar RBF Off-grid Solar (P166413)
+
+
+
+recruitment of the minimum number of local safeguards consultants with a view to add additional
+consultants as capacity deficit becomes clearer; (iv) continued training of implementing agencies staff.
+
+
+
+5. ENVIRONMENTAL AND SOCIAL SAFEGUARDS SPECIALISTS ON THE TEAM
+
+
+Martin Fodor, Environmental Safeguards Specialist
+Zeynep Durnev Darendeliler, Social Safeguards Specialist
+SAFEGUARD_TABLE
+6. SAFEGUARD POLICIES TRIGGERED
+
+ Safeguard Policies                         Triggered          Explanation
+
+                                                               The RBF grant supports the supply of small solar
+                                                               products of up to 50Wp capacity, with minimal
+                                                               environmental impact. Considering this activity as
+                                                               part of NEP broader suite of interventions and the
+                                                               country-specific social risks associated with social
+                                                               inclusion, the proposed project is treated as EA
+                                                               category B as overall NEP project. The NEP's revised
+                                                               Environmental and Social Management Framework
+                                                               (ESMF) will be applied. The revised ESMF has been
+                                                               revised by the client with support provided by GiZ
+ Environmental Assessment OP/BP 4.01        Yes                and disclosed on July 17, 2018. The document is
+                                                               subject to ongoing public consultations.
+
+                                                               As a part of the revised ESMF, the proposed RBF
+                                                               grant for Off-grid Solar is included in the typology
+                                                               of sub-projects with its own brief ECOPs added.
+                                                               Battery based products, disposal / recycling will be
+                                                               considered as a part of NEP’s solar program
+                                                               sustainability
+                                                               plan agreed during the Mid-term Review (April 24-
+                                                               May 25, 2018).
+ Natural Habitats OP/BP 4.04                No                 Impacts on natural habitats are not expected.
+                                                               The grant will not affect any forestry activities nor
+ Forests OP/BP 4.36                         No
+                                                               require triggering of OP4.36.
+                                                               The pest management policy is not triggered under
+ Pest Management OP 4.09                    No
+                                                               the proposed RBF off-grid solar grant.
+                                                               Given the scope of the proposed grant, OP/BP 4.11
+ Physical Cultural Resources OP/BP 4.11     No
+                                                               is not triggered.
+                                                               The project triggers OP 4.10 because ethnic
+ Indigenous Peoples OP/BP 4.10              Yes                minorities that fit the criteria of indigenous people
+                                                               are present in project areas. As part
+       The World Bank                                                                       Appraisal ISDS
+       Myanmar RBF Off-grid Solar (P166413)
+
+
+
+                                                   of the ESMF, the Indigenous People Planning
+                                                   Framework is also revised to ensure that the
+                                                   project obtains and documents broad community
+                                                   support in areas with ethnic minorities, following
+                                                   free,
+                                                   prior and informed consultation. To date,
+                                                   systematic application and documentation of the
+                                                   policy has been weak, but the revised ESMF and
+                                                   increased safeguards staffing should improve
+                                                   application.
+
+                                                   The RBF will not specifically target areas with ethnic
+                                                   minorities. Originally, NEP was designed to serve
+                                                   more peripheral and ethnic areas in Myanmar with
+                                                   high-subsidy solar systems, while the RBF grant
+                                                   would provide lower-subsidy solar systems in
+                                                   central Myanmar to jump-start the private market
+                                                   in these more accessible areas. During NEP
+                                                   implementation so far however, DRD has also
+                                                   included the central Myanmar areas for solar home
+                                                   systems, with higher subsidy support than planned.
+                                                   However, the next round of high subsidy support
+                                                   for solar home systems will be concentrated in
+                                                   ethnic areas. As higher-subsidy support shifts to
+                                                   peripheral ethnic areas, the lower subsidy RBF
+                                                   support will target central Myanmar to stimulate
+                                                   the private sector in these areas.
+                                                   The grant does not trigger OP 4.12 on Involuntary
+ Involuntary Resettlement OP/BP 4.12     No        Resettlement since it supports small solar systems
+                                                   of up to 50 Wp that will not have physical footprint.
+                                                   The project intervention is not expected to require
+                                                   the construction of dams or impoundment
+ Safety of Dams OP/BP 4.37               No        structures, nor is it expected that it could cause
+                                                   impacts to existing structures as governed by this
+                                                   policy.
+                                                   The project intervention is in nature and scale not
+                                                   expected to cause any drainage or discharges to
+ Projects on International Waterways               surface waters, nor entail any
+                                         No
+ OP/BP 7.50                                        significant usage of surface water for cooling or
+                                                   other purposes, that would affect international
+                                                   waterways.
+                                                   The project intervention is not in disputed areas
+ Projects in Disputed Areas OP/BP 7.60   No
+                                                   and will be wholly within the borders of Myanmar.
+KEY_POLICY_TABLE
+II. KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT
+          The World Bank                                                                                           Appraisal ISDS
+          Myanmar RBF Off-grid Solar (P166413)
+
+
+
+
+A.     SUMMARY OF KEY SAFEGUARD ISSUES
+
+
+1. Describe any safeguard issues and impacts associated with the Restructured project. Identify and describe any
+     potential large scale, significant and/or irreversible impacts.
+     The RBF grant supports the supply of small solar products of up to 50Wp capacity, with minimal environmental
+     impact. Considering this activity as part of NEP broader suite of interventions and the country-specific social risks
+     associated with social inclusion, the proposed project is treated as EA category B as overall NEP project.
+
+
+
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area.
+
+     No long term or indirect impacts are foreseen.
+
+
+3. Describe any potential alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+     Site selection in the project is flexible and ESMF provides guidance on choosing alternative sites if the initial siting is
+     in an environmentally sensitive area or requires land acquisition.
+
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower
+     capacity to plan and implement the measures described.
+     Department for Rural Development (DRD) is responsible for monitoring the safeguards’ compliance for the proposed
+     grant, alongside the NEP safeguards implementation. DRD hired one national environmental and social safeguards
+     specialist in March 2018. In terms of staff, four DRD staff work part time on safeguards as well as the technical reviews
+     for mini-grids, and two staff work on communications and grievance redress. Moreover, GiZ has engaged an
+     international consultant to support the client with the ESMF's revision. DRD has consultants with environmental and
+     social safeguards experience in place for the first time, and the Bank thinks that environmental and social safeguards
+     performance can improve to a satisfactory level once the revised ESMF is implemented, and recently prepared
+     safeguards workplan starts to be implemented in the next six months.
+
+     The World Bank has provided training and capacity building activities to DRD, including: in-mission training sessions
+     to assigned staff on screening using the ESMF screening form (May 2017), two day training on environmental and
+     social safeguards to NEP staff (June 2017), two day training on grievance redress and village electrification guidelines
+     to NEP Union level staff (September 2017), two day training on grievance redress and village electrification guidelines
+     to NEP township engineers (November 2017), two day training on environmental and social safeguards to NEP staff
+     (April 2018).
+
+
+5. Identify the key stakeholders and describe the mechanism for consultation and disclosure on safeguard policies, with
+     an emphasis on potentially affected people.
+     The revised NEP ESMF was disclosed and the document is subject to ongoing consultations for a month. For RBF grant,
+     the stakeholders include households that are willing to purchase Lighting Global Certified products and local
+     companies and NGOs that provide such products.Since the RBF grant activities will complement IFC-led Lighting
+     Myanmar activities, IFC's stakeholder engagement mechanisms will also be used throughout project implementation.
+                            The World Bank                                                                                  Appraisal ISDS
+                            Myanmar RBF Off-grid Solar (P166413)
+
+
+
+                      A customer awareness campaign is supported by IFC as part of Lighting Myanmar initiative. A firm has been hired by
+                      IFC to promote the benefits of quality-verified solar products and in particular Lighting Global certified products
+                      available in Myanmar. The marketing firm will also disseminate information on the RBF activities.
+
+DISCLOSURE_TABLE
+B.                    DISCLOSURE REQUIREMENTS
+ENV_TABLE
+Environmental Assessment/Audit/Management Plan/Other
+
+       Date of receipt by the Bank                                            Date of submission for disclosure
+       02-Jul-2018                                                            17-Jul-2018
+         For Category ‘A’ projects, date of distributing the Executive Summary of the EA to the Executive Directors
+
+
+         “In country�? Disclosure
+
+            Country                                                              Date of Disclosure
+            Myanmar                                                              17-Jul-2018
+            Comments
+
+
+
+
+INDIG ENOUS_TA BLE
+
+
+
+
+Indigenous Peoples Development Plan/Framework
+
+Date of receipt by the Bank                                                     Date of submission for disclosure
+02-Jul-2018                                                                     17-Jul-2018
+“In country�? Disclosure
+
+            Country                                                              Date of Disclosure
+            Myanmar                                                              17-Jul-2018
+            Comments
+
+
+
+
+       COMPLIANCE_TABLE
+                     C.   COMPLIANCE MONITORING INDICATORS AT THE CORPORATE LEVEL
+         The World Bank                                                                     Appraisal ISDS
+         Myanmar RBF Off-grid Solar (P166413)
+
+
+
+EA_TABLE
+ OP/BP/GP 4.01 - Environment Assessment
+ Does the project require a stand-alone EA (including EMP) report?                    Yes
+
+ If yes, then did the Regional Environment Unit or Practice Manager (PM) review
+                                                                                      Yes
+ and approve the EA report?
+
+ Are the cost and the accountabilities for the EMP incorporated in the credit/loan?   NA
+
+
+
+ IP_TABLE
+ OP/BP 4.10 - Indigenous Peoples
+ Has a separate Indigenous Peoples Plan/Planning Framework (as appropriate)
+                                                                                      Yes
+ been prepared in consultation with affected Indigenous Peoples?
+
+ If yes, then did the Regional unit responsible for safeguards or Practice Manager
+                                                                                      Yes
+ review the plan?
+
+ If the whole project is designed to benefit IP, has the design been reviewed and
+                                                                                      NA
+ approved by the Regional Social Development Unit or Practice Manager?
+
+
+
+ PDI_TABLE
+ The World Bank Policy on Disclosure of Information
+ Have relevant safeguard policies documents been sent to the World Bank for
+                                                                                      No
+ disclosure?
+
+ Have relevant documents been disclosed in-country in a public place in a form
+ and language that are understandable and accessible to project-affected groups       No
+ and local NGOs?
+
+
+
+ ALL_TABLE
+ All Safeguard Policies
+ Have satisfactory calendar, budget and clear institutional responsibilities been
+                                                                                      Yes
+ prepared for the implementation of measures related to safeguard policies?
+
+ Have costs related to safeguard policy measures been included in the project
+                                                                                      Yes
+ cost?
+
+ Does the Monitoring and Evaluation system of the project include the monitoring
+                                                                                      Yes
+ of safeguard impacts and measures related to safeguard policies?
+
+ Have satisfactory implementation arrangements been agreed with the borrower
+                                                                                      Yes
+ and the same been adequately reflected in the project legal documents?
+           The World Bank                                                            Appraisal ISDS
+           Myanmar RBF Off-grid Solar (P166413)
+
+
+
+
+III. APPROVALS
+
+
+                                         Sunil Kumar Khosla
+    Task Team Leader(s)                  Raluca Georgiana Golumbeanu
+                                         William Onahan Gallery
+
+    Approved By
+
+    Safeguards Advisor
+
+    Practice Manager/Manager             Julia M. Fraser               06-Aug-2018
+
+.
+

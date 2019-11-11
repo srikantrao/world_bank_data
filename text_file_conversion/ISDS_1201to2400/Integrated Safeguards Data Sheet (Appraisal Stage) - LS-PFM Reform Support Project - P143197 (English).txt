@@ -1,0 +1,442 @@
+                                                INTEGRATED SAFEGUARDS DATA SHEET
+                                                        APPRAISAL STAGE
+                                                                                               Report No.: ISDSA6497
+Public Disclosure Copy
+
+
+
+
+                         Date ISDS Prepared/Updated: 24-Dec-2013
+                         Date ISDS Approved/Disclosed: 25-Dec-2013
+                         I. BASIC INFORMATION
+                            1. Basic Project Data
+
+                            Country:           Lesotho                           Project ID:    P143197
+                            Project Name:      LS-PFM Reform Support Project (P143197)
+                            Task Team          Gert Johannes Alwyn Van D
+                            Leader:
+                            Estimated          03-Dec-2013                       Estimated   06-Feb-2014
+                            Appraisal Date:                                      Board Date:
+                            Managing Unit:     AFTME                             Lending     Investment Project Financing
+                                                                                 Instrument:
+                            Sector(s):        Central government administration (100%)
+                            Theme(s):         Public expenditure, financial management and procurement (100%)
+                            Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+                            8.00 (Rapid Response to Crises and Emergencies)?
+                            Financing (In USD Million)
+                            Total Project Cost:          6.09                Total Bank Financing:       5.50
+Public Disclosure Copy
+
+
+
+
+                            Financing Gap:               0.00
+                              Financing Source                                                                        Amount
+                              BORROWER/RECIPIENT                                                                        0.59
+                              International Development Association (IDA)                                               5.50
+                              Total                                                                                     6.09
+                            Environmental C - Not Required
+                            Category:
+                            Is this a          No
+                            Repeater
+                            project?
+
+                            2. Project Development Objective(s)
+                           The project development objective (PDO) is to improve the quality and timeliness of public financial
+                           management information. This project will support the Government’s PFM Reform Action Plan
+                           (PFMRAP) to improve budget execution.
+                            3. Project Description
+                           A: PROJECT COMPONENTS
+
+                                                                       Page 1 of 8
+                         The Project will be implemented through 3 distinct components, related sub-components and core
+                         activities as defined below:
+Public Disclosure Copy
+
+
+
+
+                         Component 1: Support for improving the stability and reliability of existing IFMIS platform (IDA
+                         US$ 0.752m; GoL US$ 0.130m)
+
+                         1. Objective: The objective of this component is to improve the stability, performance and reliability
+                         of the existing IFMIS platform. Government plans to go-live with an upgrade of its existing software
+                         on 1 April 2015, and the existing IFMIS platform will need to be operationally and technically sound
+                         through to the closing of FY15 (which could be as late as December 2015).
+
+                         2. Current situation: Most of the operational issues experienced today stem from the rapid
+                         deployment of IFMIS in April 2009, coupled with a decision by the GoL to allow more than 700
+                         untrained users access to the system whilst key staff to operate and maintain the system was not
+                         ready and / or departed shortly after go-live. The IFMIS implementation was initiated in November
+                         2007, through a turn-key contract (EUR 7.3 million, including a 3-year warranty period - funded by
+                         the EU) with the authorized supplier of the selected software in Africa. The system implementation
+                         was completed in a relatively short time (16 months), however, a number of contract management
+                         and system support challenges emerged afterwards. For instance, despite training of 16 Application,
+                         16 Technical and 16 Help Desk support personnel, the numerous problems and frustrations after go-
+                         live and a weak retention strategy have resulted in almost all of these team members leaving within a
+                         short time after system go-live.
+
+                         3. A recent evaluation of the IFMIS and World Bank staff assessment during project preparation
+                         confirm that several key problems with the configuration and operation of the IFMIS remain to be
+                         addressed. These include amongst others: (i) severe Wide Area Network (WAN) downtime; (ii)
+                         inadequate system performance; (iii) non-support of payment processing by an Electronic Funds
+                         Transfer (EFT) system; (iv) revenue receipting by cashiers of MDAs not performed on the IFMIS;
+Public Disclosure Copy
+
+
+
+
+                         (v) district spending units of MDAs are not connected to the IFMIS, but supported through Sub-
+                         accountancies connected to the IFMIS with cumbersome payment processes through commercial
+                         bank accounts; (vi) time-consuming bank reconciliation processes, which is the result of failure to
+                         originate some transactions directly in the IFMIS and data capture errors by the Central Bank of
+                         Lesotho (CBL); (vii) non-existent help desk function; (viii) lack of month-end closing procedures for
+                         the IFMIS resulting in inconsistency of financial information in reports; (ix) bypass of commitment
+                         controls in the IFMIS. The resolution of these problems have informed the design of the project
+                         components and sequencing of activities as further described below.
+
+                         4. In addition, there are several adaptive challenges and policy decisions which require high level
+                         attention from the Government, to ensure the successful resolution of the current problems. For
+                         example, IFMIS roles and responsibilities must be clearly defined; the Office of the Accountant-
+                         General and the broader Ministry of Finance (MoF) management do not routinely rely on IFMIS to
+                         support their core functions and decision making, and several others. In order to lay a proper
+                         foundation for a stable and effective IFMIS going forward these shortcomings should be addressed
+                         urgently and have been incorporated in the design of the project components and sequencing of
+                         activities as described below.
+
+                         5. Activities: The project will support the implementation of the following key activities in order to
+                         address existing technical and operational challenges, and lay a solid foundation for the expansion
+
+                                                                      Page 2 of 8
+                         and modernization of IFMIS platform through Component 2:
+
+                         a) Activity 1.1 - Improvement of existing wide-area network connectivity: A joint effort by the
+Public Disclosure Copy
+
+
+
+
+                         IFMIS Information and Communication Technology (ICT) team at the MoF and that of Ministry of
+                         Communications Science and Technology (MCST) has been initiated. However, further support is
+                         needed for the rapid resolution of existing network issues affecting the IFMIS operations;
+                         b) Activity 1.2 - Improvement of primary and backup IFMIS data centers: This will include
+                         immediate server and UPS upgrades. The Ministry of Finance will contribute to this activity by
+                         undertaking other urgent ICT infrastructure improvements, including the electrical works, upgrade of
+                         generators and improvement of the cooling systems;
+                         c)         Activity 1.3 - Activation of the EFT interface with the CBL: This activity is expected to
+                         support activation of the IFMIS EFT interface with the CBL;
+                         d) Activity 1.4 –Cleaning IFMIS databases and improving accounting controls: This activity will
+                         support the correction/cleaning of database records in the current IFMIS system and transfer of
+                         reliable opening balances to the upgraded version of the existing software. In addition, technical
+                         assistance will be provided to the Office of the Accountant-general to strengthen accounting controls
+                         such as reconciliations.
+
+                         6. In addition and through component 3, the project will support actions to be undertaken by the
+                         MoF to improve the reliability and ensure the effective use of IFMIS in daily operations. The
+                         following priority actions are recommended to facilitate more effective use of IFMIS for daily
+                         operations and reporting:
+
+                         a)         Ensure daily recording of all revenue in IFMIS by connecting cashiers of line ministries to
+                         the existing IFMIS.
+                         b) Enforce monthly closing of IFMIS (for example, 15 days after month-end) for data capture,
+                         monitor data quality, provide training support and enforce basic accounting disciplines.
+                         c)        Enforce year-end closing of IFMS for data capture (for example, 30 days after year-end).
+                         d) Re-affirm the directive to highlight the requirements for using IFMIS on a daily basis in all line
+Public Disclosure Copy
+
+
+
+
+                         ministries and sub-accountancies.
+                         e)         Strengthen the MoF Application Support team with additional staff, training, equipment
+                         and office space.
+                         f)         Activate the issue tracking portal of the software supplier to record all IFMIS technical and
+                         functional issues and record the solutions promptly.
+                         g) Complete the reorganization of the MoF ICT Department and define the roles and responsibilities
+                         of all technical specialists.
+
+                         Component 2: Support for expansion and modernization of IFMIS platform (IDA US$ 3.913m; GoL
+                         US$ 0.462m)
+
+                         7. Objective: The objective of this component is to upgrade, configure and extend the use of the
+                         existing IFMIS software to support a simplified business architecture from a stable and well
+                         performing technology platform.
+
+                         8. Current situation: The MoF is of the view that the existing IFMIS software is sound and relevant
+                         to the perceived needs of Lesotho. An upgrade of its existing IFMIS software, including to a web-
+                         based architecture, is required as the current version will no longer be maintained. This upgrade will
+                         assist to resolve some of the configuration issues such as separate databases, budget preparation,
+                         commitment control, cash management, and support for Treasury Single Account (TSA) operations.
+
+                                                                       Page 3 of 8
+                         In addition, the implementation of the current IFMIS is bedeviled by an overly complex architecture
+                         and process design, capacity weakness in the management of the Treasury function, control
+                         weaknesses and a general lack of clarity of and compliance with rules and regulations governing
+Public Disclosure Copy
+
+
+
+
+                         financial management practices (including timeliness of data collection and fiscal reporting).
+
+                         9. Activities: In order to address these challenges, the project will finance the following activities:
+
+                         a) Activity 2.1 - IT Audit of the IFMIS platform: A technical and operational assessment (IT Audit)
+                         of existing IFMIS software and data centers will be completed through this activity, before any
+                         system upgrade or modernization effort. The IT Audit is also expected to assist the GoL to update the
+                         necessary system design documentation and provide the necessary justification for the hardware to
+                         be procured.
+                         b) Activity 2.2 - PFM business process re-engineering: Apart from the process and architecture
+                         issues already identified and addressed in Component 1, a more detailed business process review
+                         needs to be completed rapidly in order to clarify and implement possible further improvements and
+                         simplifications before the IFMIS upgrade / modernization;
+                         c)         Activity 2.3 - Expansion and modernization of the IFMIS platform: This activity is
+                         expected to enhance the functional support by the IFMIS software (e.g., improved commitment
+                         management and budget execution, TSA operations, better cash management, etc.), modernize the
+                         technical architecture (transition to web-based application through an upgrade of the existing
+                         software), enhance the relevant ICT infrastructure and extend the IFMIS to all Ministry offices in
+                         Districts and District Councils (estimated at 122 offices) with the necessary capacity building. The
+                         Ministry of Finance will contribute to this activity by procuring the necessary servers to support the
+                         upgraded version of the existing software.
+
+                         10. In addition, the project will support MoF to introduce the following policy and architecture
+                         changes before or during the expansion and modernization of IFMIS to simplify processing and
+                         prevent operational IFMIS problems. The key changes to the IFMIS and TSA architectures include
+                         the following -
+Public Disclosure Copy
+
+
+
+
+                         a) Several key policy decisions should be made in consultation with relevant stakeholders on: (i)
+                         transition to centralized TSA operation benefiting from an interface with the CBL systems for
+                         electronic payments and reconciliation of accounts (which will require all staff, suppliers and
+                         beneficiaries transacting with government to open bank accounts); (ii) supporting the operations of
+                         District Councils (DCs) through IFMIS web portal extensions; (iii) supporting the operations of
+                         district spending units of line ministries, and cashier’s functions through IFMIS web portal
+                         extensions; and (iv) initiating the establishment of digital signature infrastructure (benefiting from
+                         ongoing e-Government initiatives of the MCST).
+                         b) One general ledger should be created for the Consolidated Fund and all line ministries operating
+                         against the TSA. This will also require district spending units of line ministries to be connected to the
+                         central IFMIS, operating against the TSA (using EFTs) and no longer through commercial bank
+                         accounts managed by the sub-accountancies. This will also require a review of the Chart of
+                         Accounts.
+                         c)         Only one District Council (Maseru) currently uses a commercial accounting package for
+                         financial control, accounting and reporting. The other nine run manual systems, and a recent
+                         diagnostic assessment of decentralization in Lesotho found that “Only limited audits of local
+                         Authorities have been undertaken since 2005. The Auditor General explained that only 3 district
+                         councils namely Botha Bothe, Mafeteng and Mohale Hoek have had their accounts audited over the
+                         period. In all cases, the accounts returned qualified opinions pointing to significant weaknesses in
+
+                                                                       Page 4 of 8
+                         their financial management systems”. A key challenge therefore is the absence of reliable and timely
+                         financial statements. To support their obligations under the Public Financial Management and
+                         Accountability Act, 2011, District Councils urgently require access to the IFMIS to bring this
+Public Disclosure Copy
+
+
+
+
+                         situation under control. From the dimensions of cash flow management, capacity, cost effectiveness
+                         and maintaining data integrity, they are to be connected to the central IFMIS, preferably as cost
+                         centers under the Ministry of Local Government and Chieftainship (MLGC) and also operating
+                         against the TSA. It is also proposed that the current sub-accountancies in districts are utilized to
+                         support the DCs, to support their financial management functions.
+                         d) The Budget Department must be equipped to use the Active Planner module for the FY16 budget
+                         preparation process. This will eliminate additional work and controls to ensure reliable transfer to
+                         and maintenance of the budget in the IMFIS.
+
+                         Component 3: Support for change management, training and project implementation (IDA US$
+                         0.834m)
+
+                         11. Objective: The objective of this component is to implement the project successfully with
+                         sustainable capacity to run the IFMIS, facilitating full ownership by key project stakeholders, though
+                         consultative communication, shared understanding and stakeholder involvement. Appropriate
+                         technical assistance will be provided to facilitate change management and capacity building as
+                         required for – the Office of the Accountant-general, the core IFMIS team, the PFM staff of line
+                         ministries who depend on the IFMIS for the execution of their functions, Program Managers and
+                         Chief Accounting Officers, the Auditor-general, Cabinet, the Public Accounts Committee, the
+                         Central Bank, development partners and citizens and suppliers who transact with the Government.
+
+                         12. Current situation: Given the poor IFMIS implementation record thus far, high levels of
+                         frustration and distrust in the system exist. These challenges are largely driven by the several
+                         adaptive problems that now require attention at the highest levels in Government to ensure their
+                         resolution and in turn, the effective implementation of the PFMRAP and its associated components.
+                         These specifically relate to such issues as the: (i) definition and clarification of IFMIS roles and
+Public Disclosure Copy
+
+
+
+
+                         responsibilities; (ii) development of capacity and retention strategy for sustainability of IFMIS
+                         operations and maintenance; (iii) routine reliance on IFMIS as a management tool – both within the
+                         Office of the Accountant-General and broader MoF – rather than just an accounting system; (iv)
+                         broad consultations with stakeholders across and within MDAs on key PFM policy decisions;
+                         amongst others.
+
+                         13. Activities: This component will implement several adaptive initiatives to ensure sustainable
+                         capacity to run the system, stakeholder backing /enforcement and sound project implementation. Key
+                         activities include the following:
+
+                         a)        Activity 3.1 - Support for change management and training. This will include –
+                         (i)      Provision of IFMIS operations and maintenance training/capacity development to the core
+                         IFMIS team (IFMIS custodian, super users, administrators, application support team, ICT support
+                         team, training team, etc.).
+                         (ii) Support to the MoF in the development of the requisite capacity and skills amongst the IFMIS
+                         stakeholders; the assignment of IFMIS training function to the Lesotho Centre for Accounting
+                         Studies (CAS); and strengthening the capacity and training capability of the Application Support
+                         team to deliver the necessary accounting and systems training to end users on a sustainable basis,
+                         with the support from CAS as needed.
+                         (iii) User database clean-up to ensure that only valid users remain registered for access to the IFMIS
+
+                                                                      Page 5 of 8
+                         software. A training program will be structured to deliver the right training at the right time. A core
+                         training team will be equipped in all respects to carry out training of end users and managers.
+                         (iv) Full PFM and relevant IFMIS training for management of Ministries and DCs, Cabinet and the
+Public Disclosure Copy
+
+
+
+
+                         Public Accounts Committee will also be delivered - this should include the full PFM cycle and how
+                         the IFMIS supports the objectives of fiscal discipline, strategic allocation of resources, efficient
+                         service delivery and financial accountability.
+                         (v) Technical Assistance to the Government for the development and implementation of a retention
+                         and succession plan for the core IFMIS team. In particular, assistance will be provided to develop the
+                         skill and competency profiles for all functions required to support the continued operation and
+                         maintenance of the IFMIS, together with a training plan for staff in post. Assistance will also be
+                         provided to explore options for GoL to appoint key IFMIS staff on performance contracts as a means
+                         to support better retention of staff in such positions.
+
+                         b) Activity 3.2 - Support for project implementation. This activity will support the project
+                         implementation costs, including – (i) technical assistance to set-up and run the project in IFMIS, and
+                         financial management and procurement assistance; (ii) basic office and IT equipment for the core
+                         IFMIS team; (iii) technical assistance to supplement capacity gaps in the core IFMIS team; (iii)
+                         monitoring and evaluation, and reporting progress on all components.
+
+                         c) Activity 3.3 - Audit of project/financial activities. This activity will support the annual audit and
+                         reporting of project activities.
+
+                         d) Activity 3.4 – Unallocated provision. This is a provision for unforeseen costs.
+                          4. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+
+
+                          5. Environmental and Social Safeguards Specialists
+Public Disclosure Copy
+
+
+
+
+                         Melissa C. Landesz (AFTSG)
+
+                          6. Safeguard Policies               Triggered? Explanation (Optional)
+                          Environmental Assessment OP/        No
+                          BP 4.01
+                          Natural Habitats OP/BP 4.04         No
+
+                          Forests OP/BP 4.36                  No
+
+                          Pest Management OP 4.09             No
+
+                          Physical Cultural Resources OP/     No
+                          BP 4.11
+                          Indigenous Peoples OP/BP 4.10       No
+
+                          Involuntary Resettlement OP/BP      No
+                          4.12
+
+
+
+
+                                                                       Page 6 of 8
+                            Safety of Dams OP/BP 4.37           No
+Public Disclosure Copy
+
+
+
+
+                            Projects on International        No
+                            Waterways OP/BP 7.50
+                            Projects in Disputed Areas OP/BP No
+                            7.60
+
+                         II. Key Safeguard Policy Issues and Their Management
+                             A. Summary of Key Safeguard Issues
+                            1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+                              and describe any potential large scale, significant and/or irreversible impacts:
+                              The project activities have no to minimal environmental and social impacts, and thus it is not
+                              necessary to prepare safeguards instruments.
+                            2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+                              in the project area:
+                              None
+                            3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+                              impacts.
+
+                            4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+                              assessment of borrower capacity to plan and implement the measures described.
+
+                            5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+                              on safeguard policies, with an emphasis on potentially affected people.
+Public Disclosure Copy
+
+
+
+
+                           B. Disclosure Requirements
+                            If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+                            respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+                            Audit/or EMP.
+                            If in-country disclosure of any of the above documents is not expected, please explain why:
+
+
+                           C. Compliance Monitoring Indicators at the Corporate Level
+                            OP 7.60 - Projects in Disputed Areas
+                             Has the memo conveying all pertinent information on the           Yes [   ]   No [   ]   NA [   ]
+                             international aspects of the project, including the procedures to
+                             be followed, and the recommendations for dealing with the
+                             issue, been prepared
+                             Does the PAD/MOP include the standard disclaimer referred to Yes [        ]   No [   ]   NA [   ]
+                             in the OP?
+                            The World Bank Policy on Disclosure of Information
+
+
+
+
+                                                                        Page 7 of 8
+                             Have relevant safeguard policies documents been sent to the     Yes [    ]   No [   ]   NA [   ]
+                             World Bank's Infoshop?
+Public Disclosure Copy
+
+
+
+
+                             Have relevant documents been disclosed in-country in a public   Yes [    ]   No [   ]   NA [   ]
+                             place in a form and language that are understandable and
+                             accessible to project-affected groups and local NGOs?
+                            All Safeguard Policies
+                             Have satisfactory calendar, budget and clear institutional      Yes [    ]   No [   ]   NA [   ]
+                             responsibilities been prepared for the implementation of
+                             measures related to safeguard policies?
+                             Have costs related to safeguard policy measures been included   Yes [    ]   No [   ]   NA [   ]
+                             in the project cost?
+                             Does the Monitoring and Evaluation system of the project        Yes [    ]   No [   ]   NA [   ]
+                             include the monitoring of safeguard impacts and measures
+                             related to safeguard policies?
+                             Have satisfactory implementation arrangements been agreed       Yes [    ]   No [   ]   NA [   ]
+                             with the borrower and the same been adequately reflected in
+                             the project legal documents?
+
+                         III. APPROVALS
+                            Task Team Leader: Name: Gert Johannes Alwyn Van D
+                            Approved By
+                            Regional Safeguards Name: Alexandra C. Bezeredi (RSA)                    Date: 24-Dec-2013
+                            Advisor:
+                            Sector Manager:     Name: Patricia Mc Kenzie (SM)                        Date: 25-Dec-2013
+Public Disclosure Copy
+
+
+
+
+                                                                      Page 8 of 8
+

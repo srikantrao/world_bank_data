@@ -1,0 +1,415 @@
+Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+I.  Basic Information
+ 
+Date prepared/updated:  04/19/2011 
+Report No.:  AC5775
+1. Basic Project Data  
+ 
+Country:  Africa 
+Project ID:  P122398 
+Project Name:  Central African Backbone - APL3 - Republic of Congo 
+Task Team Leader:  Jerome Bezzina 
+Estimated Appraisal Date: March 29, 2011 
+Estimated Board Date: May 24, 2011 
+Managing Unit:  TWICT 
+Lending Instrument:  Adaptable Program 
+Loan 
+Sector:  Telecommunications (60%);General information and communications sector 
+(20%);General industry and trade sector (20%) 
+Theme:  Regional integration (50%);Infrastructure services for private sector 
+development (40%);Regulation and competition policy (10%) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+15.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER/RECIPIENT 
+15.00
+15.00 
+Environmental Category: B - Partial Assessment 
+Repeater [] 
+ 
+ 
+Is this project processed under OP 8.50 (Emergency Recovery) 
+or OP 8.00 (Rapid Response to Crises and Emergencies) 
+Yes [ ] 
+No [X] 
+2. Project Objectives 
+The development objective of the proposed project is consistent with the PDO for the 
+CAB Program: To contribute to increase geographical reach and usage of regional 
+broadband network services and reduce their prices, in Congo.   
+ 
+3. Project Description 
+The Project will be executed over a five-year period with total financing of US$30 
+million, including US$15 million contribution from the government. Annex 2 provides a 
+detailed breakdown of financing between IDA and the Government. The main Project 
+components will consist of:  
+ 
+Component 1 - Enabling environment at the regional and national levels: This 
+component will include the following activities : (i) Technical Assistance to strengthen 
+the regulatory framework and capacity of key stakeholders to provide policy and 
+regulatory capacity building; (ii) Technical Assistance to promote Open Access Regime 
+&
+PPP; (iii) Technical Assistance to design a strategic plan for Congo Telecom, and (iv) 
+Page  2
+Technical Assistance to design and Implementation of Management Policy for ".cg" 
+Domain Name.  
+ 
+Component 2 - Connectivity: This component will include the following activities: (i) 
+CAB-related environmental and resettlements consultancies, (ii) financing some 
+complementary and missing international links developed under the NCP (National 
+Coverage Project) (including fiber-optic cables, terminal equipment, switches), 
+guaranteeing the establishment of an open access network (open to all operators), 
+leveraging private sector investment and ensuring interconnectivity among neighbouring 
+countries: Gabon (link Dolisie - Mbinda), Cameroon  (Link Oyo - Ouesso), and DRC 
+(Link Brazzaville - Kinshasa); (iii) financing the establishment of Internet Exchange 
+Points (IXP) to minimize rerouting of domestic Internet traffic via international routes.  
+ 
+Component 3 - Promotion of ICT sector: This component will build ICT skills and 
+create new business opportunities for local ICT firms, consisting of three main activities: 
+(i) Technical Assistance for the review, improvement and development of information 
+laws, "cyber" legal framework; (ii) Promotion of ICT start-up firms through a business 
+incubator approach; and (iii) Financing a study on the creation of IT parks.  
+ 
+Component 4 - Project Management: This component will consist of support to finance 
+management-related issues at the Project level, such as human resources support with 
+management, procurement, financial management, M&E, internal and external audit, and 
+communications expertise, operating expenses and equipment.   
+ 
+4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis 
+The project will complement the deployment of the national backbone infrastructure to be 
+developed by the GoC under the NCP (National Coverage Project).  It will finance 
+complementary and missing international links developed under the NCP including fiber-
+optic cables, microwave equipments, terminal equipments, switches, to guarantee the 
+establishment of an open access network (open to all operators), leveraging private sector 
+investment and to ensure the interconnection with neighboring countries: Gabon (link 
+Dolisie - Mbinda), Cameroon (link Oyo - Ouesso), and DRC (link Brazzaville - 
+Kinshasa).  
+ 
+Dolisie - Mbinda link: this segment is 338 km long and will consist of a 12 pair fiber 
+optic cable. The link will be comprised of (i) 2 (two) repeaters and powered by solar 
+solutions, (ii) 2 (two) SDH terminal stations located in Dolisie and Mbinda. The 
+acquisition and installation cost of the cable is estimated to be US$2.4 million. The SDH 
+and terminal stations cost is estimated to US$1.6 million. 
+ The cost of the 2 (two) 
+repeaters and their respective solar powered stations is estimated around US$1 million.   
+ 
+Oyo - Ouesso link: this segment is 420 km long and will consist of 6 (six) microwave 
+links. Each link will comprised 1 (one) repeater powered by solar solutions and 1 (one) 
+SDH terminal station. The acquisition and installation cost of the six poles is estimated to 
+be US$3 million. The SDH and terminal stations cost is estimated to US$3 million. The 
+cost of the 6 (six) repeaters and their respective solar powered stations is estimated 
+around US$3 million. The technical and management options identified for this segment 
+are based on the successful experiences carried out in Nigeria and Iran. In these two 
+Page  3
+countries, the Government created an SPV with private operators to ensure infrastructure 
+sharing through collocation of poles and hence reduce the number of poles installed. 
+However, to ensure a minimum bandwidth of 2 Gb/s, the poles cannot be distant of more 
+than 80 km. The component costing includes the installation of 6 poles between Oyo and 
+Ouesso.  
+ 
+Brazzaville - Kinshasa link: this segment is 10 km long and will consist of 2 (two) 
+microwave links. Each link will comprised 1 (one) repeater powered by solar solutions 
+and 1 (one) SDH terminal station. The acquisition and installation cost of the two poles is 
+estimated to be US$0.3 million. The SDH and terminal stations cost is estimated to 
+US$1.7 million.   
+ 
+5. Environmental and Social Safeguards Specialists 
+Ms Lucienne M. M'Baipor (AFTCS) 
+Mr Amadou Konare (AFTEN) 
+ 
+6. Safeguard Policies Triggered
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+X
+Natural Habitats (OP/BP 4.04) 
+X
+Forests (OP/BP 4.36) 
+ X 
+Pest Management (OP 4.09) 
+ X 
+Physical Cultural Resources (OP/BP 4.11) 
+X
+Indigenous Peoples (OP/BP 4.10) 
+X
+Involuntary Resettlement (OP/BP 4.12) 
+X
+Safety of Dams (OP/BP 4.37) 
+ X 
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X 
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts: 
+From an environmental and social safeguard standpoint, the Central African Backbone - 
+APL3 - Republic of Congo (CAB CITCG) is a Category B project. That is, the 
+environmental and social impacts of the project, for the most part, are expected to be 
+minimal, site-specific and manageable to an accepted level. There are five Bank 
+Safeguard policies triggered under the project. These include: Environmental Assessment 
+(OP 4.01); Natural Habitats (OP 4.04), Indigenous People Policy (OP 4.10); Physical 
+Cultural Resources (OP 4.11) and Involuntary Resettlement (OP 4.12).   
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+No potential indirect and or long term impacts anticipated.   
+ 
+Page  4
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts. 
+NA   
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide 
+an assessment of borrower capacity to plan and implement the measures described. 
+In line with the triggering of the five operational policies cited above and because of the 
+lack of site-specific information about the environmental and social characteristics of 
+future investments, the Project prepared two safeguards instruments, namely an 
+Environmental and Social Management Framework (ESMF), a Resettlement Plan 
+Framework (RPF, and an Indigenous Protection Plan Framework (IPPF).   The details 
+will be provided during the feasibilities studies, at which stage the project will prepare 
+detailed environmental and social studies.  
+ 
+The ESMF, RPF and IPPF set out standard methods and procedures, specifying how 
+sub-projects, whose locations are unknown at this stage, will systematically address 
+environmental and social issues at all stages.  These include: sub-project screening, 
+categorization, sitting, design, implementation, operational, and maintenance. At the core 
+of this approach are: (i) the systematic screening of all sub-projects; (ii) procedures for 
+applying the environmental checklist or for conducting ESIAs/ESMPs and RAPs - 
+whichever or combination of which is deemed applicable - for all identified sub-projects, 
+(iii) institutional arrangements for mitigating, preventing, and managing the identified 
+impacts; (iv) typical environmental management planning process for addressing 
+negative externalities in the course of project implementation; (v) a system for 
+monitoring the implementation of mitigation measures;  (v) Environmental and social 
+environmental clauses to be inserted in the bidding documents; and (vii) recommended 
+capacity building measures for environmental planning and monitoring of project 
+activities.  Guidelines and provisions for properly discussing and addressing impacts 
+related to Natural Habitats and physical cultural resources in sub-project specific 
+ESIAs/EMPs have been amply outlined in the ESMF.  
+ 
+Like the ESMF, the RPF also outlines the principles and procedures for resettlement 
+and/or compensation of subproject-affected people, and establishes standards for 
+identifying, assessing and mitigating negative impacts of program supported activities.  
+In addition, the RPF will guide the preparation and implementation of resettlement action 
+plans (RAPs) for each individual sub project that triggers the involuntary resettlement 
+policy.  Specific ESIAs and RAPs will be prepared for relevant activities before project 
+implementation along with Environmental Management Plans (EMPs). To adequately 
+address the project impacts on indigenous people, the project is set out to prepare an 
+Indigenous People Protection Framework(IPPF).  All three safeguard documents have 
+been reviewed and cleared by the Bank before appraisal and relevant provisions of the 
+three safeguard documents have been included in the Project Manuel of Procedures.   
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+The ESMF and the RPF for this operation have been prepared according to Bank and 
+national safeguard policies, following a consultation framework, involving relevant 
+stakeholder groups, both public and private, as well as in civil society and local 
+Page  5
+communities, consistent with the approach adopted at project inception.  This 
+participatory approach will also be carried on in the context of the preparation of each 
+sub-project specific ESIA/EMP or RAP, as well as throughout implementation, 
+maintenance, supervision and evaluation of the project.  Prior to disclosure in-country 
+and at Bank InfoShop, stakeholder workshops will be organized, involving relevant 
+project stakeholder groups.  This approach is designed to foster ownership and seeking 
+input from these stakeholders in order to improve quality and soundness of the 
+instruments.  Recommendations from both the Bank and stakeholders' workshop will be 
+reflected in the final safeguard reports, prior to disclosure.  The same approach will be 
+applied to each sub-project specific ESIA/EMP, RAP, or IPDP.  
+ 
+Key entities involved in the environmental function of the project include: the PCU who 
+will be assisted by experts, as needed, to prepare detailed technical studies (i.e., 
+feasibility studies, subproject-specific environmental and social safeguard instruments), 
+Resident engineers, whose team will include expertise in environmental and social 
+monitoring and reporting to ensure contractors implement proposed measures; (iii) the 
+national environmental agency (NEA), who will carry out external monitoring the 
+implementation of project safeguard  and ensure compliance with national and Bank 
+policies. NEA will be assisted by the Directorates of Forestry, Hydraulics, and other 
+institutions for technical backstopping in carrying out their mandate.  NEA will also 
+review and comments on subprojects specific safeguard instruments and ensure they are 
+disclosures at disclosure sites.  A "protocol d'accord" sanctioning this close partnership 
+between NEA, assisted by other relevant technical divisions/directorates shall be issued 
+and ratified by the project steering committees and Ministry of Environment. The 
+attributions, modalities and cost of intervention, reporting schedules of NEA should be 
+clearly outline in the protocol.   
+ 
+B. Disclosure Requirements Date
+ 
+Environmental Assessment/Audit/Management Plan/Other: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+ 
+Date of receipt by the Bank 
+02/28/2011 
+ 
+Date of "in-country" disclosure 
+03/22/2011 
+ 
+Date of submission to InfoShop 
+04/05/2011 
+ 
+For category A projects, date of distributing the Executive 
+Summary of the EA to the Executive Directors 
+ 
+Resettlement Action Plan/Framework/Policy Process: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+ 
+Date of receipt by the Bank 
+02/28/2011 
+ 
+Date of "in-country" disclosure 
+03/22/2011 
+ 
+Date of submission to InfoShop 
+04/05/2011 
+ 
+Indigenous Peoples Plan/Planning Framework: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+ 
+Date of receipt by the Bank 
+03/28/2011 
+ 
+Date of "in-country" disclosure 
+04/02/2011 
+ 
+Page  6
+Date of submission to InfoShop 
+04/07/2011 
+ 
+Pest Management Plan: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+*
+If the project triggers the Pest Management and/or Physical Cultural Resources, 
+the respective issues are to be addressed and disclosed as part of the Environmental 
+Assessment/Audit/or EMP. 
+If in-country disclosure of any of the above documents is not expected, please 
+explain why: 
+NA   
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the 
+ISDS is finalized by the project decision meeting) 
+ 
+OP/BP/GP 4.01 - Environment Assessment 
+ 
+Does the project require a stand-alone EA (including EMP) report? 
+No 
+If yes, then did the Regional Environment Unit or Sector Manager (SM) 
+review and approve the EA report? 
+N/A 
+Are the cost and the accountabilities for the EMP incorporated in the 
+credit/loan? 
+Yes 
+OP/BP 4.04 - Natural Habitats 
+ 
+Would the project result in any significant conversion or degradation of 
+critical natural habitats? 
+No 
+If the project would result in significant conversion or degradation of other 
+(non-critical) natural habitats, does the project include mitigation measures 
+acceptable to the Bank? 
+No 
+OP/BP 4.11 - Physical Cultural Resources 
+ 
+Does the EA include adequate measures related to cultural property? 
+N/A 
+Does the credit/loan incorporate mechanisms to mitigate the potential 
+adverse impacts on cultural property? 
+N/A 
+OP/BP 4.10 - Indigenous Peoples 
+ 
+Has a separate Indigenous Peoples Plan/Planning Framework (as 
+appropriate) been prepared in consultation with affected Indigenous Peoples? 
+Yes 
+If yes, then did the Regional unit responsible for safeguards or Sector 
+Manager review the plan? 
+Yes 
+If the whole project is designed to benefit IP, has the design been reviewed 
+and approved by the Regional Social Development Unit or Sector Manager? 
+Yes 
+OP/BP 4.12 - Involuntary Resettlement 
+ 
+Has a resettlement plan/abbreviated plan/policy framework/process 
+framework (as appropriate) been prepared? 
+Yes 
+If yes, then did the Regional unit responsible for safeguards or Sector 
+Manager review the plan? 
+Yes 
+The World Bank Policy on Disclosure of Information 
+ 
+Page  7
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+Yes 
+Have relevant documents been disclosed in-country in a public place in a 
+form and language that are understandable and accessible to project-affected 
+groups and local NGOs? 
+Yes 
+All Safeguard Policies 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities 
+been prepared for the implementation of measures related to safeguard 
+policies? 
+Yes 
+Have costs related to safeguard policy measures been included in the project 
+cost? 
+Yes 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures related to safeguard policies? 
+Yes 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+Yes 
+D. Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Mr Jerome Bezzina 
+04/18/2011 
+Environmental Specialist: 
+Mr Amadou Konare 
+ 
+Social Development Specialist 
+Ms Lucienne M. M'Baipor 
+ 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+ 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Ms Alexandra C. Bezeredi 
+04/19/2011 
+Comments:   
+Sector Manager: 
+Mr Philippe Dongier 
+04/18/2011 
+Comments:   

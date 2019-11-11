@@ -1,0 +1,263 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+APPRAISAL STAGE
+Report No.: ISDSA15389
+0
+Date ISDS Prepared/Updated: 12-Oct-2015
+o
+Date ISDS Approved/Disclosed: 13-Oct-2015
+I. BASIC INFORMATION
+1. Basic Project Data
+Country:        Uzbekistan                 Project ID:  P151746
+Project Name: Modernization of Real Property Registration and Cadastre (P151746)
+Task Team       Mika-Petteri Torhonen,Anna Corsi
+Leader(s):
+Estimated       12-Oct-2015                Estimated    18-Feb-2016
+Appraisal Date:                            Board Date:
+Managing Unit: GSULN                       Lending      Investment Project Financing
+Instrument:
+Sector(s):      General agriculture, fishing and forestry sector (10%), Law and justice (15%),
+Public administration- Information and communications (25%), Information
+technology (50%)
+Theme(s):       Land administration and management (40%), Personal and property rights
+(20%), e-Government (40%)
+Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+8.00 (Rapid Response to Crises and Emergencies)?
+O
+Financing (In USD Million)
+Total Project Cost:     25.00             Total Bank Financing:   20.00
+Financing Gap:            0.00
+Financing Source                                                        Amount
+BORROWER/RECIPIENT                                                          5.00
+International Development Association (IDA)                                20.00
+Total                                                                      25.00
+Environmental B - Partial Assessment
+Category:
+Is this a       No
+Repeater
+project?
+2. Project Development Objective(s)
+The Project's Development Objective is to improve the efficiency and accessibility of the real
+property registry and cadastre system as part of the national e-Government structure and services.
+Page 1 of 6
+
+
+﻿This objective will be achieved through: (i) improving business processes and customer orientation
+in the real property registry and cadastre; (ii) creating a fully digital real property registry and
+cadastre system (i.e. IISRPRC) accessible online to the public; (iii) improving the regulatory and
+policy environment of the real property registry and cadastercadastre; (iv) facilitating spatial data
+O
+U         access, exchange and sharing at national level; and (v) raising awareness on the importance of real
+property rights.
+O
+3. Project Description
+a        The proposed project would focus on establishing an electronic and unified real property register and
+cadastre in GKZGDK and enhance its operations through improved regulatory and operational
+framework and capacities, and expanding spatial data exchange and dissemination. The proposed
+project would have four main components:
+*      Component A - Real Property Registration and Cadastre System Development;
+*      Component B - Digitization of Real Property and Cadastre Records and Maps;
+*      Component C - Use of Real Property Register and Cadastre Data; and
+*      Component D - Regulatory Development, Institutional Development, Capacity Building,
+Technical Assistance and Project Management.
+Component A - Real Property Registration and Cadastre System Development (IDA 12.5 million
+USD)
+The objective of this component would be to develop and roll-out the new Integrated Information
+System for Real Property Registration and Cadastre (IISRPRC), including the development of
+IISRPRC's infrastructure and the revision and improvement of the operational environment,
+procedures, service standards and applications. Initially, the component will support a business
+process and performance standard review and identify the changes needed to improve GKZGDK's
+real property registration and cadastre maintenance functions. Based on the results of this review, the
+component will support the development of a modern Web-based real property registry and cadastre
+application with improved performance and functionalities, one-stop-shop client interface, and
+integrated map solutions. This new IISRPRC application will be rolled out in GKZGDK's Oblast
+offices (as the system's production offices) and one stop shops front-end desks (integrated to the
+eGovemment structure) supported by appropriate hardware and communications infrastructure. The
+component will further finance the renovation of the GKZGDK's main data processing center's
+premises and provide the needed engineering systems equipment according to the industrial design
+specifications. Finally, the component will improve GKZGDK's Oblast production offices general
+working conditions through office design and renovations and provision of furniture and equipment.
+Component B - Digitization of Real Property and Cadastre Records and Maps, (IDA 8.2 million
+USD)
+This component will support the provision of the digital attribute and spatial data that will enable the
+IISRPRC operationalization by: mass digitizing of the essential registration and cadastre documents,
+prioritizing current versus archive records; compiling uniform countrywide digital datasets for
+basemap, registered tenure rights with cadastre index map, and land-use cadastre for land and real
+property valuation; and harmonizing these datasets and populating the IISRPRC unified central
+database. Most of the current and archive records are paper-based. Given the classified nature of the
+information, the mass digitization and digital data processing will have to be carried out in-house by
+staff and local consultants with clearance to work with classified information. The component will
+support building up the in-house GKZGDK capacity to plan, manage, monitor the implementation,
+Page 2 of 6
+
+
+﻿assure the quality, and carry out the data development campaign; a mass digitizing technology,
+including the design of a transitional data model, work processes and tools, quality control, and
+transitional storage and updating procedures prior for IISRPRC population and roll out.
+O
+U         Component C - Use of Real Property Register and Cadastre Data, (IDA 0.8 million USD)
+This component will support activities aimed at enhancing public on-line use of IISRPRC data,
+which form the core dataset of the geospatial data framework and the geospatial base for a variety of
+market economy services and fiscal purposes. The component will support enhanced interoperability
+and efficient data sharing and exchange with other governmental stakeholders, such us the State Tax
+Committee, the Census Registry, line Ministries and Regional and District Governments, City
+administrations, etc. Specifically, the component will support: (i) the development of a strategy and
+technical guidelines for its implementation; (ii) the development of a technological framework for
+implementation; and (iii) the establishment of an e-GeoPortal that will provide the "one-stop-shop"
+for all geospatial information and related online services. The component will further support the
+creation of a new non-classified coordinate reference system (CRS) in the country, and the expansion
+of the country's Continuously Operating Reference Stations (CORS) network.
+Component D - Regulatory Development, Institutional Development, Capacity Building, Technical
+Assistance and Project Management, (IDA 3.5 million USD)
+The objective of this component would be to ensure effective management of the project and
+sustainability of its results. This component would support the improvement of legislative and
+regulatory environment of real property registration and real property market. In parallel, this
+component would focus on institutional development of the real property register and cadastre
+addressing challenges of financing, and staff policies and retention. The component would develop
+new business plans to the real property register and cadastre aiming to full cost recovery and/or self-
+financing. In addition, the component would support sectorial (law, surveying, cadastre, valuation,
+land management, GIS/SDI) education reforms and curriculum development. Also, broad training
+programs would be provided to GKZGDK and to other public sector and private sector personnel in
+real property registration, cadastre services and real property market. Also, the component would
+facilitate international and local technical assistance to enhance various stages of project
+implementation and transfer best practice knowledge to Uzbekistan. Finally, this component would
+a        support a Project Management Unit (PMU) under GKZGDK responsible for project management and
+project's fiduciary functions and monitoring and evaluation.
+4. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+The proposed project activities are focused on real property registration and cadaster offices in all
+regions, districts and cities of Uzbekistan.
+5. Environmental and Social Safeguards Specialists
+Rustam Arstanov (GENDR)
+6. Safeguard Policies   Triggered? Explanation (Optional)
+Environmental           Yes         Substantial number of real property registration and
+Assessment OP/BP 4.01               cadaster offices and a training center would be renovated.
+Potential environmental impacts associated with the
+Page 3 of 6
+
+
+﻿above interventions are minor, short-lived, and primarily
+limited to the project sites (except for movement of
+equipment and materials to/from the site). These issues
+are primarily: dust, noise, disposal of waste material and/
+or older equipment, some traffic disruption (depending
+upon specific location), worker safety (e.g. works at
+height) etc. All these impacts are addressed with good
+engineering and construction practices and with
+mitigation measures specified in the project
+Environmental Management Plan (EMP) to be applied by
+contractors with close supervision of compliance by the
+Project Implementation Unit (PIU).
+Natural Habitats OP/BP  No
+4.04
+Forests OP/BP 4.36      No
+Pest Management OP 4.09 No
+Physical Cultural       No
+Resources OP/BP 4.11
+Indigenous Peoples OP/  No
+BP 4.10
+Involuntary Resettlement No
+OP/BP 4.12
+Safety of Dams OP/BP    No
+4.37
+Projects on International  No
+0
+Waterways OP/BP 7.50
+Projects in Disputed    No
+Areas OP/BP 7.60
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+and describe any potential large scale, significant and/or irreversible impacts:
+Substantial number of real property registration and cadaster offices and a training center would be
+renovated. Potential environmental impacts associated with the above interventions are minor,
+short-lived, and primarily limited to the project sites (except for movement of equipment and
+materials to/from the site). These issues are primarily: dust, noise, disposal of waste material and/
+or older equipment, some traffic disruption (depending upon specific location), worker safety (e.g.
+works at height) etc. All these impacts are addressed with good engineering and construction
+practices and with mitigation measures specified in the project Environmental Management Plan
+(EMP) to be applied by contractors with close supervision of compliance by the Project
+Implementation Unit (PIU). No potential large scale, significant or irreversible impact expected.
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+Page 4 of 6
+
+
+﻿in the project area:
+N/A
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+impacts.
+N/A
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+assessment of borrower capacity to plan and implement the measures described.
+*           Since the scope and locations of the project interventions are not known before the Appraisal, the
+Borrower has developed an Environmental Management Framework that describes screening
+procedure and typical environmental mitigation measures for activities that involve civil works. It
+also includes a template for Environmental Management Plan (EMP) or EMP checklist
+specifically suggested by the World Bank for small scale refurbishment activities.
+The Borrower will have a dedicated staff unit responsible for environmental issues. Staff hours
+and a part-time salary was calculated and allocated for such purpose. A dedicated person has an
+engineering degree and is familiar with construction norms and regulations. The World Bank staff
+has provided an initial training on the Wold Bank Safeguards Policies and implementation of the
+EMF.
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+on safeguard policies, with an emphasis on potentially affected people.
+The project involves various stakeholders including the employees of cadaster offices,
+communities that live in the vicinity of the sites to be renovated and customers of the cadastre
+system. The EMF is to be disclosed at the web-site of State Committee for Land Resources,
+Geodesy, Cartography and State Cadastre, (Goskomzemgeodescadastre), a project implementing
+agency, by September 23d withan invitation for project affected parties to participate in a
+consultation meeting. The document will then be re-disclosed by October 12 incorporating
+suggestions by the project affected groups where possible.
+B. Disclosure Requirements
+O
+Environmental Assessment/Audit/Management Plan/Other
+Date of receipt by the Bank                                02-Oct-2015
+Date of submission to InfoShop                             09-Oct-2015
+For category A projects, date of distributing the Executive  00000000
+Summary of the EA to the Executive Directors
+"In country" Disclosure
+Tajikistan                                                 08-Oct-2015
+Comments: The EMF and the announcement were disclosed at the website of the Uzbekistan
+Cadastre Committe at the follwing link http://ygk.uz/ru/pages/main. All interested
+parties were invited to provide their comments. Public consultation meeting is
+planned for Oct 15th, 2015
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please explain why:
+Page 5 of 6
+
+
+﻿C. Compliance Monitoring Indicators at the Corporate Level
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) Yes [ X] No [ ] NA [ ]
+report?
+If yes, then did the Regional Environment Unit or Practice  Yes [X] No [  ]  NA [    ]
+Manager (PM) review and approve the EA report?
+Are the cost and the accountabilities for the EMP incorporated Yes [ X] No [ ] NA [ ]
+in the credit/loan?
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the  Yes [ X] No [  ]  NA [  ]
+World Bank's Infoshop?
+Have relevant documents been disclosed in-country in a public Yes [ X] No [  ]  NA [  ]
+place in a form and language that are understandable and
+accessible to project-affected groups and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional  Yes [ X] No [  ]  NA [  ]
+responsibilities been prepared for the implementation of
+measures related to safeguard policies?
+Have costs related to safeguard policy measures been included Yes [ X] No [ ] NA [ ]
+in the project cost?
+Does the Monitoring and Evaluation system of the project Yes [ X] No [ ] NA [ ]
+include the monitoring of safeguard impacts and measures
+related to safeguard policies?
+Have satisfactory implementation arrangements been agreed Yes [ X] No [ ] NA [ ]
+with the borrower and the same been adequately reflected in
+the project legal documents?
+III. APPROVALS
+Task Team Leader(s): Name: Mika-Petteri Torhonen,Anna Corsi
+Approved By
+Practice Manager/      Name: Jorge A. Munoz (PMGR)                Date: 13-Oct-2015
+Manager:
+Page 6 of 6
+
+

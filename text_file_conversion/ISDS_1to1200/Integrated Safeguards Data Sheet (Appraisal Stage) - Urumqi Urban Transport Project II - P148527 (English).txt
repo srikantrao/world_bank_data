@@ -1,0 +1,448 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+APPRAISAL STAGE
+Report No.: JSDSA16148
+U
+Date ISDS Prepared/Updated: 30-Nov-2015
+o
+Date ISDS Approved/Disclosed: 28-Jun-2015
+I. BASIC INFORMATION
+1. Basic Project Data
+Country:        China                      Project ID:  P148527
+Project Name: Urumqi Urban Transport Project II (P148527)
+Task Team       Binyam Reja
+Leader(s):
+Estimated       13-Jul-2015                Estimated    21-Dec-2015
+Appraisal Date:                            Board Date:
+Managing Unit: GT102                       Lending      Investment Project Financing
+Instrument:
+Sector(s):      Urban Transport (70%), Information technology (30%)
+Theme(s):       City-wide Infrastructure and Service Delivery (70%), Climate change (20%),
+Other Financial Sector Development (10%)
+Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+8.00 (Rapid Response to Crises and Emergencies)?
+Financing (In USD Million)
+Total Project Cost:     536.80            Total Bank Financing:  140.00
+Financing Gap:            0.00
+Financing Source                                                        Amount
+Borrower                                                                  396.80
+International Bank for Reconstruction and Development                     140.00
+Total                                                                     536.80
+Environmental A - Full Assessment
+Category:
+Is this a       No
+Repeater
+project?
+2. Project Development Objective(s)
+The PDO is to improve mobility in selected transport corridors in Urumqi.
+3. Project Description
+Component 1 Bus Rapid Transit (BRT) Corridors (61% percent of total project cost). This
+component will finance the development of three new BRT lines on existing road alignments,
+Page 1 of 10
+
+
+﻿namely the proposed BRT 4 (20.1 km), BRT 6 (18.1 km), and 6b (13.5 km). The activities include:
+(i) construction of 51.7 km of BRT lines, including road rehabilitation and lane reconfiguration of
+existing lanes, installation of lane segregation and pavement markings, and construction of BRT
+station platforms; (ii) procurement of BRT equipment, including fare collection system, passenger
+O
+information system, safety screen door system, x-ray machine, BRT priority signal at intersections,
+power supply for BRT stations, software and hardware for BRT dispatching center, and GPS-based
+onboard equipment for BRT vehicles; and (iii) procurement of 152 articulated buses (1 8m) and 29
+regular buses (12m).
+Component 2 Comprehensive Transport Information Management System (16% of project cost).
+This component will support the development of a city-wide Urumqi Comprehensive Transport
+Information Management System (UCTIMS), including: (i) development of comprehensive transport
+information management platform to collect and process transport data from various sources; (ii)
+installation of fiber optic cable network between different data center, installation of traffic data
+collection equipment along major roads in Urumqi, and the development of GIS-based transport data
+system; and (iii) improvement of parking management system, upgrade of the existing smart card
+system, installation of bus passenger counting system, and upgrade of existing GPS-based taxi
+onboard equipment.
+Component 3 Public Transport Infrastructure (21% of project cost). The component will finance (i)
+construction of public transport hub at the South Square of the High Speed Rail Station; the hub
+includes BRT terminal, regular bus terminal and public transport dispatching and information center;
+(ii) construction of public transport terminals at Beijiao, Midong and North Square of High Speed
+Rail Station; and (iii) construction of two public transport parking and maintenance facilities at
+Sangong and Midong. These facilities are located at the end of BRT 4, 6 and 6b lines. They will
+serve BRT buses and regular buses to facilitate passenger transfers.
+Component 4 Capacity Building (2% of project cost). This component comprises the development of
+a series of strategic studies, capacity building and training activities, project management and
+consulting services aimed at enhancing local capacities for planning, design, and operating urban
+transport services. Some of the studies, carried out during the project preparation, were financed
+using local funds, and have been used to inform the design of the project. The remaining studies and
+activities under this component will be financed under IBRD loan, and will be used to inform future
+a        policy reforms and investment program for urban transport in Urumqi.
+Link road for BRT 4. Urumqi is currently developing an elevated road over the north segment of the
+BRT 4 corridor to provide additional capacity for travelling along the corridor. The Elevated Road
+(about 5.7 km along the Aletai Road) will be used for through traffic, while the vehicle travel lanes
+along the proposed BRT 4 corridor (which is 20.1 km in length) will mostly serve local traffic. This
+will improve the traffic flow and create additional capacity along the corridor. In addition to the
+elevated road, the rehabilitation of the section of the BRT section under the road will be rehabilitated
+as part of the Aletai road project. However, the proposed project will do the BRT stations, lane
+segregation, and ITS aspects. Although the proposed project finances only BRT 4 line, UMG??s
+separate Aletai road project is linked to the Bank-financed project in terms of technical and
+safeguards requirements. As such, the project will ensure that the designs and implementation of the
+elevated road is compatible with the design of the BRT line, and the agreed safeguard policies for the
+proposed project are followed in the elevated road as well. During the pre-appraisal, the Bank
+reviewed the Aletai road design and implementation and concluded that the technical and safeguard
+aspects of the elevated road are compatible with the objectives, design and procedures of the project.
+Page 2 of 10
+
+
+﻿The construction is expected to be completed by November 2015.
+4. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+The project is located in urban and suburb area of Urumqi City, within which there are minority
+villages/communities of Uyghur and other several ethnic minorities. Urumqi is the capital city of
+Xinjiang Uygur Autonomous Region northwestern most of China with an arid to semi-arid climate
+and average annual precipitation of less than 200mm.
+5. Environmental and Social Safeguards Specialists
+Songling Yao (GSURR)
+Xin Ren (GENDR)
+6. Safeguard Policies   Triggered? Explanation (Optional)
+Environmental           Yes         Component 1 (establishing BRT lines and stations) and
+Assessment OP/BP 4.01               Component 3 (building and rehabilitating bus depots and
+terminals) will involve civil works. The environmental
+impacts will be mostly construction-related, such as noise
+and dust, construction waste disposal and temporary
+storage on-site, vegetation loss, sewage discharge, traffic
+impact, social disturbance and safety. Major impacts
+during operation include air pollution, noise, road safety
+and wastewater from bus depots and terminals built under
+the project.
+Given the potential physical impacts described above, and
+the complexities associated with some 12 ethnic groups
+living in the city, the project is assigned a Category A.
+In line with the Bank??s Safeguard Policies and relevant
+domestic regulations, an Environmental Assessment (EA)
+was prepared by a well?qualified and experienced EA
+institute, the Xinjiang EA Center, which has recent
+experience with Bank projects in the region. The EA was
+conducted in parallel with the feasibility study to integrate
+environmental and social consideration into technical
+designs. An Environment Management Plan (EMP) has
+been prepared and adopted by the client.
+Natural Habitats OP/BP  No          The project will take place in built-up area in Urumqi
+4.04                                with no natural habitats as defined by this OP in the
+vicinity of any project sites, as verified by the EA process.
+Forests OP/BP 4.36      No          Not applicable
+Pest Management OP 4.09 No          Not applicable
+Physical Cultural       No          Surveys during the EA process verified that no Physical
+Resources OP/BP 4.11                Cultural Resources as defined by this OP were found in
+Page 3 of 10
+
+
+﻿any project sites and the vicinity. Nevertheless, measures
+to mitigate impacts on religious activities in mosques
+along the project roads and chance find procedure during
+construction are included in the EMP.
+Indigenous Peoples OP/  No           The Ethnic Minority screening by the task team and the
+BP 4.10                              SA found that ethnic minorities, mainly Uyghur, Kazak,
+Hui, etc. are in urban Urumqi City, but they are actually
+mainstreamed. Therefore, the OP 4.10 on Indigenous
+People will not be triggered.
+However, in view of the complex ethnic composition of
+the city, the project conducted thorough minority-
+differentiated social assessment to ensure that the
+improved public transport system serves all communities
+and that the construction disruptions and ensuing access
+changes are not perceived as being disproportional to
+certain communities.
+Involuntary Resettlement Yes         The policy is triggered because of the fact that
+OP/BP 4.12                           Components 1 and 3 will require land acquisition and/or
+resettlement. Specific activities include:
+The project will acquire 239 mu collective land in two
+villages, separately taking 1.64% and 3.39 % of the total
+village land, with direct impact on 216 persons in 50
+households.
+Furthermore, some land acquisition and resettlement
+related to Beijiao Terminal, two hubs at north and south
+stations of High Speed Rail were implemented and have
+been reviewed in the RP. The total impact include 69 mu
+state-owned land with relocation of 4 households, 40
+shops and partial impact of one agency. The due diligence
+review, detailed in annex of the RP, concluded that the
+impacts were fully investigated, compensated and
+restored, and that there is no any complaint found in the
+review. The mission interviewed two persons relocated
+and versified the findings of the review. The external
+monitoring in project implementation stage will also
+cover this part as needed.
+Resettlement of the linkage Aertai Road includes
+relocation of 69 households with 242 persons, and partial
+demolition of structures in 13 agencies, which were fully
+integrated into the RP. Resettlement costs and civil works
+are covered under the Aletai Road project, financed
+separately by UMG, which has already allocated adequate
+budget for it
+Page 4 of 10
+
+
+﻿To address the above resettlement impacts, a resettlement
+plan (RP) with due diligence review has been prepared.
+Safety of Dams OP/BP    No
+4.37
+Projects on International  No
+Waterways OP/BP 7.50
+Projects in Disputed    No
+Areas OP/BP 7.60
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+and describe any potential large scale, significant and/or irreversible impacts:
+Environment
+As an urban transport project without building new roads or widening road but rehabilitating
+existing roads and building/rehabilitating transit hubs, bus depots and terminals, the adverse
+environmental impacts during construction are moderate and mostly temporary in nature. These
+impacts mainly include noise and dust, construction waste disposal and temporary storage on-site,
+vegetation loss, sewage discharge, traffic impact, social disturbance and safety. What is unique
+and important for Urumqi are social impacts on religious activities and vendors, as construction
+can cut off access to religious and educational venues, and business shops. Noise and dust can
+affect educational and religious activities and people's health. These impacts are temporary and
+can be mitigated if the measures in the EMP be followed (details see below under 4).
+Impacts during operation include air pollution, noise, road safety and wastewater from bus depots
+O
+U           and terminals built under the project. The environmental impacts during operation mainly include
+air pollution, traffic noise, road safety and sewage from bus hubs and depots. But compared to ???
+without project???, the project would improve bus speed and lower congestion thus leading to
+reduced level of air pollution and noise these would be offset by the environmental improvement
+of reduced air pollution.
+Social Impacts: the project will improve the public transportation system in Urumqi, especially in
+some suburban areas, and provide direct benefit to urban and peri-urban citizens in their daily life.
+In contrast, the social assessment also realized some likely adverse impacts on social disturbance
+in implementation stage and on land acquisition and resettlement. The main adverse impacts
+include:
+The project will acquire 239 mu collective land in two villages, separately taking 1.64 and 3.39 %
+of the total village land, with direct impact on 216 persons in 50 households.
+Further, some land acquisition and resettlement related to Beijiao Terminal, two hubs at north and
+south stations of High Speed Rail was implemented and was reviewed in the RP. The total impacts
+include 69 mu state-owned land with relocation of 4 households, 40 shops and partial impact of
+one agency. The due diligence review, detailed in annex of the RP, concluded that impacts were
+Page 5 of 10
+
+
+﻿fully investigated, compensated and restored, and that there is no any complaint found in the
+review. The mission interviewed two persons relocated and versified the findings of the review.
+The external monitoring in project implementation stage will also cover this part as needed.
+O
+Resettlement of the linkage Aertai Road includes relocation of 69 households with 242 persons,
+and partial demolition of structures in 13 agencies, which were fully integrated into the RP, even
+the budget is not covered in the project investment.
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+in the project area:
+More long term impacts occur during operation, i.e. air pollution and noise from traffic, waste and
+wastewater from bus hubs and depots, and passenger and vehicle safety, particularly in cold
+season. Measures to address these impacts are specified in the Environmental Management Plan
+(EMP) developed for the project. Another long-term issue related to green belt affected, as more
+than 5000 road-side trees will be relocated. It is expected that the green area in the city would be
+reduced to some extent if not properly managed.
+Long-term impacts that could be induced by the project are mostly positive, as the project will not
+build new roads but new bus facilities. With improved public transport, people will use less cars
+thus reduce air pollution and GHG emissions. New bus stations will bring in business around them
+which generate employment and economic opportunities.
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+impacts.
+Alternative analysis of different design options was undertaken as part of the EA process,
+including a without project scenario, to avoid or minimize negative impacts from the outset.
+Choice of major corridors for improvement, site selection for bus facilities, different land
+configuration and impacts on green belt and vegetation etc are compared. Alternatives with less
+social and environmental impacts, e.g. those that could reduce the tree/bush removal, better shelter
+passengers from the cold and wind were recommended. These recommendations have been
+incorporated in the feasibility studies and will feed into the design process.
+At least two options of project design were considered to avoid or minimize adverse social impacts
+in the project feasibility study process. For instance, all project activities prioritize use of current
+transport lines, hubs and terminals to minimize land acquisition and resettlement.
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+assessment of borrower capacity to plan and implement the measures described.
+Environment
+Capacity building of the clients has been an integral part of the project preparation process to
+address environmental safeguard issues. The PMO has implemented the Bank transport projects
+and safeguard policies in the past although many of its new staff lack experience. To tackle it, the
+PMO has assigned one staff in charge of environmental safeguard who has worked effectively. It
+also engaged a well?qualified and experienced EA institute, Xinjiang EA Center, which has very
+recent experience with the Bank projects in the region, one of them being Yining urban transport
+project in 2012.
+The EMP was developed based on the EA. It specifies supervising mechanism and institutional
+arrangement to foster its implementation. During construction, supervision engineers will be
+Page 6 of 10
+
+
+﻿primarily responsible for daily supervision of EMP measures. The PMO, assisted by
+environmental experts, will carry out random inspection. The EMP will be referred to in bidding
+documents and contracts with contractors and supervisors to ensure its implementation. During
+operation, responsibility to implement the EMP will largely be shifted to relevant operators and
+O
+government agencies. To ensure the EMP implementation, a budgeted training plan is included in
+the EMP. The EMP is the result of close collaboration between the PMO, FS team and the EA
+consultants. This ensures the EMP's ownership by the project entities which in turn helps
+guarantee its effective implementation.
+Social disturbance and impacts on green area are identified as key issues unique for this project.
+Social impacts will be mitigated through careful scheduling of construction to avoid the sensitive
+time for mosques and praying time, schools, kindergartens and hospitals; provision of access
+roads, prohibition of noisy equipment operation and water spray near such sensitive sections, and
+cooperation with local departments on traffic control and infrastructure service. Timing for the
+religious activities has been identified through the EA consultation, and the construction will be
+suspended during these times. In addition, respect on the religious custom is identified as a key
+issue for the construction management, the workers will be provided with trainings on the good
+behavior near the religious venues and supervision of their behavior will be the duty of the
+supervisors.
+After civil work completes, replantation of the trees and vegetation will compensate for the loss of
+the green area. The greening plan will be developed in the detailed design which include
+establishment of larger green belt and plots of flower beds that would improve the landscape of the
+city. The construction management will be enhanced to control the scope of the works and the
+workers will be trained on the protection of the green area.
+Social Aspects
+A social assessment (SA) was conducted by an experienced team from Xinjiang Social Science
+Institute. Based on meaningful consultation with various stakeholders: transport service users,
+affected citizens by land use and construction, officials and academics; as well as extensive
+quantitative and qualitative analysis, covering a survey of 1542 random samples with particular
+attention to gender, minority, poor and disable, the SA concluded that the project will improve the
+public transportation system in Urumqi, especially in some suburban areas, and provide direct
+a           benefit to urban and peri-urban citizens in their daily life. Further, the SA recommended 55
+suggestions/measures to pursue a friendly project design to enlarge the social benefit, which were
+reflected into the project feasibility study and will be incorporated into detailed project design.
+In contrast, the SA also realized some likely adverse impacts on social disturbance in
+implementation stage and on land acquisition and resettlement. The resettlement planning, with
+assistance from Hohai University, clearly scoped, investigated, and analyzed the resettlement
+impacts, and further explored mitigation measures based on meaningful consultation with the
+affected, by the project and by activities linked to the project, and finally developed the only
+resettlement instrument Resettlement Plan (RP).
+Main measures for household relocation consist of two options of cash compensation based on
+market value and replacement house. Compensation for households, including replacement house
+value, subsidies of movement and transition, and the unit price disbursed to the affected will not
+lower than the market price to ensure housing restoration. Compensation for shop and agency is at
+replacement cost determined by professional evaluation, including operational loss during the
+Page 7 of 10
+
+
+﻿transition stage. Land compensation is in line with national regulation, plus training and social
+security program are planned. The RP also identified valuable households and provided special
+measure for ensuring livelihood.
+O
+The RP also provided details on resettlement implementation procedures and requirements to be
+followed during project implementation, including compensation rates, mitigation measures to
+restore livelihoods, institutional and monitoring arrangements, and grievance redress mechanism,
+etc. The tabulated resettlement budget was determined in the RP and was committed to fully
+fmanced by the PMO.
+A grievance redress mechanism was designed in the RP, in which grievances can be filed both
+orally and in writing. The process starting from village and neighborhood committee level, could
+be elevated to district, city level, if they are not satisfied with the resolution at the lower level.
+Complainants also could file their cases in court, if not satisfied with the resolution by the project
+authority. All grievances and their resolutions will be recorded. This mechanism has been
+disclosed to the local population and will be further disseminated through the Resettlement
+Information Booklet attached to the RP.
+Internal and external resettlement monitoring arrangement was fully designed in the RP, which
+covers the monitoring indicators, frequency, agency qualification and their roles. The monitoring
+system will cover resettlement in the linked Aertai Road and the implemented Beijiao Terminal.
+A resettlement management system with proper staff and resources in the PMO and in project
+district will be established prior to resettlement commencement according to the RP, to internally
+monitor the resettlement progress and report semiannually to the Bank. A dedicated staff has been
+appointed in the PMO and District PMO to be responsible for the resettlement related assignment.
+In addition, an experienced external resettlement monitor will be contractually engaged according
+to the RP to ensure regularly monitoring and reporting. Further, the training program in the RP
+will be conducted as early as possible to ensure capacity building.
+O
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+on safeguard policies, with an emphasis on potentially affected people.
+Environment
+Two rounds of public consultation has been undertaken following corresponding public disclosure.
+In March 2014, notification about the project and plan for EA was disclosed March 2014 in local
+newspaper, official website of Provincial Environmental Bureau as well as bulletin boards along
+the proposed corridors. In June 2014, the draft EA/EMP was disclosed on the above mentioned
+website, and advertised in newspaper with information about access to the hardcopy. In January
+2015, the revised EA was disclosure locally again after some major adjustment of the project. The
+primary objective was to collect the public opinion about the project, the EA findings and the
+sufficiency of mitigation measures. Altogether 701 people with a wide range of background with
+17% from ethnic minority groups were surveyed with a bilingual questionnaire in Chinese and
+Uygur. Most people support the project. Their major concerns include traffic and social
+disturbance and noise during construction. Measures to address these concerns are incorporated in
+the EA/EMP and conveyed to the PMO. The English versions were sent to the World Bank??s
+InfoShop on June 26, 2015.
+Social
+Page 8 of 10
+
+
+﻿In the social preparation process, meaningful consultation was conducted with various
+stakeholders: transport service users, affected citizens by land use and construction, officials and
+academics; as well as extensive quantitative and qualitative analyses, covering a survey of 1542
+random samples with particular attention to gender, minority, poor and disable. The identified 55
+O
+suggestions/measures of the SA, to pursue a friendly project design to enlarge the social benefit,
+were reflected into the project feasibility study and will be incorporated into detailed project
+design. Further consultation and participation in project implementation stage will be further
+executed in line with the RP to ensure resettlement planning to be adjusted to reflect the project
+design and the demand of the affected people, which will be integrated into the supervision and
+monitoring process.
+Relevant information on the project social aspects was distributed among the local communities
+during the SA and RP preparation. The prepared SA and RP was locally disclosed in May 7, 2015
+on websites of Urumqi Municipal Construction Committee and local resettlement offices, as well
+as major communities in hard copies. The draft English versions of the documents were sent to the
+World Bank??s Infoshop on May 15, 2015.
+B. Disclosure Requirements
+Environmental Assessment/Audit/Management Plan/Other
+Date of receipt by the Bank                              16-Jun-2015
+Date of submission to InfoShop                           26-Jun-2015
+For category A projects, date of distributing the Executive  27-Nov-2015
+Summary of the EA to the Executive Directors
+"In country" Disclosure
+China                                                    06-Jan-2015
+Comments: The EA Summary was resubmitted to SECPO on November 27, 2015.
+Resettlement Action Plan/Framework/Policy Process
+Date of receipt by the Bank                              04-May-2015
+Date of submission to InfoShop                           15-May-2015
+"In country" Disclosure
+China                                                    07-May-2015
+Comments:
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please explain why:
+C. Compliance Monitoring Indicators at the Corporate Level
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) Yes [ X] No [ ] NA [ ]
+report?
+If yes, then did the Regional Environment Unit or Practice Yes [ X] No [ ] NA [ ]
+Manager (PM) review and approve the EA report?
+Page 9 of 10
+
+
+﻿Are the cost and the accountabilities for the EMP incorporated  Yes [ X ] No[  ]  NA[  ]
+in the credit/loan?
+OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy framework/ Yes [ X] No [ ] NA [ ]
+process framework (as appropriate) been prepared?
+If yes, then did the Regional unit responsible for safeguards or Yes [ X] No [ ] NA [ ]
+Practice Manager review the plan?
+Is physical displacement/relocation expected?            Yes [X] No [     ]  TBD [   ]
+216 Provided estimated number of people to be affected
+Is economic displacement expected? (loss of assets or access to Yes [ X] No [ ] TBD [ ]
+assets that leads to loss of income sources or other means of
+livelihoods)
+652 Provided estimated number of people to be affected
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the Yes [ X] No [ ] NA [ ]
+World Bank's Infoshop?
+Have relevant documents been disclosed in-country in a public Yes [ X ] No [ ] NA [ ]
+place in a form and language that are understandable and
+accessible to project-affected groups and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional  Yes [ X] No [  ]  NA [  ]
+responsibilities been prepared for the implementation of
+measures related to safeguard policies?
+Have costs related to safeguard policy measures been included Yes [ X] No [ ] NA [ ]
+in the project cost?
+Does the Monitoring and Evaluation system of the project  Yes [X] No [    ]  NA [   ]
+include the monitoring of safeguard impacts and measures
+a          related to safeguard policies?
+Have satisfactory implementation arrangements been agreed Yes [ X] No [ ] NA [ ]
+with the borrower and the same been adequately reflected in
+the project legal documents?
+III. APPROVALS
+Task Team Leader(s): Name: Binyam Reja
+Approved By
+Safeguards Advisor:    Name: Surhid P. Gautam (SA)                Date: 30-Nov-2015
+Practice Manager/      Name: Arturo Ardila Gomez (PMGR)           Date: 30-Nov-2015
+Manager:
+Page 10 of 10
+
+

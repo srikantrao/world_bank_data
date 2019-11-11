@@ -1,0 +1,249 @@
+Page  1
+INTEGRATED SAFEGUARDS DATA SHEET 
+CONCEPT STAGE 
+Report No.:  AC3307 
+ 
+Date ISDS Prepared/Updated: 03/06/2008 
+ 
+I.  BASIC INFORMATION 
+ 
+A.  Basic Project Data 
+ 
+Country: Africa 
+Project ID: P108368 
+Project Name: Central Africa Backbone 
+Task Team Leader: Yann Burtin 
+Estimated Appraisal Date: January 15, 
+2009 
+Estimated Board Date: May 21, 2009 
+Managing Unit: CITPO 
+Lending Instrument: Adaptable Program 
+Loan 
+Sector: Telecommunications (60%);General information and communications sector 
+(20%);General industry and trade sector (20%) 
+Theme: Regulation and competition policy (P);Infrastructure services for private sector 
+development (P);Regional integration (P) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+45.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER/RECIPIENT 
+0.00
+0.00 
+B.  Project Objectives [from section 2 of PCN] 
+The development objective of the Central Africa Backbone (CAB) Program and CAB 1, 2 and 3 
+Projects is to support population, businesses and governments across the Central Africa region to 
+have access to quality and affordable ICT services on open, transparent and non-discriminatory 
+terms. The benefits accrued in the targeted countries spill over the Central Africa region by:(i) 
+lower cost of international broadband capacity and extend reach of backbone networks across the 
+region and (ii) improve Government efficiency and transparency through eGovernment 
+applications; and (iii) increase country and regional competitiveness.   
+ 
+C.  Project Description [from section 3 of PCN] 
+To maximize flexibility, client-responsiveness and the specific national situation of each country 
+(in terms of existing infrastructure or policy environment), the CAB Program will include a 
+customizable components and sub-components drawn from the following focused areas:  
+ 
+Component 1 - Enabling environment at the regional and national levels  
+Page  2
+-
+Modernize and harmonize legal and regulatory framework the Information Communication 
+Technology (ICT) sector and the Information Society  
+ 
+-
+Strengthen capacity of public key stakeholders (i.e. Ministry and independent regulatory 
+agency)  
+ 
+-
+Promote a pro-competitive environment (i.e. develop regulatory tools, liberalize the telecom 
+sector, restructure and privatize public incumbent operators, PPP promotion) to maximize benefit 
+from the regional backbone  
+ 
+-
+Strengthen M&E capacity.  
+ 
+Component 2 - Connectivity:  
+ 
+-
+Finance the national infrastructure for the CAB including fiber-optic cables, terminal 
+equipments, switches, to guarantee the establishment of an open access networks (to all 
+operators) on the basis of PPPs, leveraging private sector investment  
+ 
+-
+Finance the purchase of capacity on the CAB  to assist rural and underserved areas, as well as 
+targeted users (schools, universities, hospitals eGovernment use) with discounted capacity prices  
+ 
+-
+Finance the establishment of government Virtual Private Networks (VPNs) to collect all the 
+government communication needs (voice and data) to be routed via the CAB and the 
+establishment of national and regional Internet Exchange Point (IXP)  
+ 
+-
+Support to extend ICT in rural areas on the basis of PPPs with competitive award of subsidies 
+(including country-specific innovative demand stimulation programs such as Digital Villages and 
+the SMS eService programs).  
+ 
+Component 3 - Good Governance and Transparency - Flagship IT applications:  
+ 
+-
+Deploy flagship applications for which country champion and commitment have been 
+identified to improve internal systems, deliver services more efficiently and effectively, and 
+make information & services more accessible to the population. Applications that could be 
+targeted are: customs systems, income taxes, social security benefits, personal documents 
+(passport, driving license), car registration, building license, birth and marriage certificates, 
+electronic payment (for utilities). The applications will be prioritized as follow: (i) activities that 
+will have the greatest impact in terms of transparency and accountability; (ii) activity for which a 
+champion and commitment has been identified; (iii) involvement of local communities, NGOs or 
+local units of international agencies; (iv) possibility of private sector participation; (v) high 
+potential of success with implementation and payback within a few years.  
+ 
+The proposed operation involves three counties (Cameroon, CAR and Chad) in Phase 1 (for an 
+estimated total IDA amount of USD45m), and up to eight other countries likely to join in 
+subsequent phases (for a total amount of USD160m).  
+ 
+The ISDS deals only with the first phase of the program (CAB Phase 1).   
+ 
+D.  Project location (if known) 
+CAB Phase 1 will involve the participation of up to three countries (Cameroon, Car and Chad). 
+The choice of countries in CAB Phase 1 is based on a combination of factors including a credible 
+national commitment to reform with a clear timetable, geographic proximity and interest in 
+deploying the regional cable project.  
+ 
+Page  3
+The ISDS deals only with the first phase of the Program.   
+ 
+E.  Bo
+rrower’s Institutional Capacity for Safeguard Policies [from PCN] 
+The Expert Commission comprising telecom sector ministry representatives from Chad, 
+Cameroon, and CAR, the CEMAC, the WB and the AfDB will oversee all preparatory studies 
+(including the Environmental and Social Management Framework (ESMF) and a Resettlement 
+Policy Framework (RPF)).  
+ 
+The CEMAC Commission will be responsible for managing the preparation study (including 
+ESMF and EMP) and has been involved with the environmental and social for the "CEMAC - 
+Transport-Transit Facilitation Project"(P079736).  
+ 
+During preparation, the project team will assess the capacity of all constituancies (Sector 
+Ministries and CEMAC).  
+ 
+The Private entity selected (Public Private Partnership) will build and operate the backbone 
+infrastructure.   
+ 
+F.  Environmental and Social Safeguards Specialists 
+Mr Paul Jonathan Martin (AFTEN) 
+Ms Lucienne M. M'Baipor (AFTCS) 
+Mr Abdoul-Wahab Seyni (AFTCS) 
+ 
+II.  SAFEGUARD POLICIES THAT MIGHT APPLY 
+Safeguard Policies Triggered
+ 
+Yes No TBD 
+Environmental Assessment (OP/BP 4.01) 
+X
+The physical component of the CAB Program will be limited to the building of national 
+terrestrial backbones and the deployment of rural networks (land acquisition for the construction 
+of telecommunications and ancillary infrastructure, such as ducts for laying fibers optic networks 
+or access roads). The project will therefore be under Environmental category B (OP 4.01).   
+Natural Habitats (OP/BP 4.04) 
+ 
+X
+This will be assessed to confirm that there will be no construction/excavation activities inside 
+protected areas   
+Forests (OP/BP 4.36) 
+ X  
+Pest Management (OP 4.09) 
+ X  
+Physical Cultural Resources (OP/BP 4.11) 
+ 
+X
+If significant excavation is anticipated for installation of the backbone, this OP should be 
+triggered. The EMF should assess the risk and define procedures if necessary.   
+Indigenous Peoples (OP/BP 4.10) 
+ X  
+Involuntary Resettlement (OP/BP 4.12) 
+X
+The building of national terrestrial backbones and the deployment of rural networks under 
+Component 2 of CAB Phase 1 Project will lead to new land acquisition for terrestrial facilities 
+and ancillary infrastructure (such as ducts for laying fibers optic networks or access roads) 
+trigger OP 4.12 . However the specific impacts resulting from planned land acquisition and 
+involuntary resettlement, and their locations have not yet been identified.   
+Page  4
+Safeguard Policies Triggered
+ 
+Yes No TBD 
+Safety of Dams (OP/BP 4.37) 
+ X  
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X  
+Projects in Disputed Areas (OP/BP 7.60) 
+ X  
+Environmental Category:
+ 
+B
+-
+Partial Assessment 
+ 
+III.  SAFEGUARD PREPARATION PLAN 
+ 
+A.  Target date for the Quality Enhancement Review (QER), at which time the PAD-stage ISDS 
+would be prepared:  06/18/2008 
+ 
+B.  For simple projects that will not require a QER, the target date for preparing the PAD-stage 
+ISDS:  N/A 
+ 
+C.  Time frame for launching and completing the safeguard-related studies that may be needed.  
+The specific studies and their timing
+1
+should be specified in the PAD-stage ISDS. 
+An Environmental and Social Management Framework (ESMF) and a Resettlement Policy 
+Framework (RPF) will be conducted for the CAB program prior to Project appraisal. The 
+ESMF and RPF will be reviewed by the World Bank and publicly disclosed in all countries 
+participating in CAB Phase1. A specific Environmental, Management Plan and Resettlement 
+Action Plan will be prepared as necessary for terrestrial facilities during project 
+implementation, in line with ESMF and RFP, once the locations of those facilities have been 
+identified.  
+ 
+The environmental and social Assessment will be prepared by June, 2008.  
+ 
+Civil works for the first 12-18 month of project implementation should be screened for 
+environmental and social impacts and  EAs / EMPs  needed for those sites should be ready 
+for disclosure (along with the draft ESMF) before appraisal.  
+ 
+Finally, since the Program will involve PPP schemes, appropriate  technical clauses will be 
+prepared and included in the biddings/bindings documents for the Private Entity when 
+necessary, to ensure the execution  of agreed environmental and social safeguards measures 
+or instruments.  
+ 
+All safeguards instruments prepared for the project  should be disclosed  120 before Board 
+presentation.   
+ 
+1
+Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the 
+InfoShop and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to potentially affected 
+persons.
+ 
+Page  5
+IV.  APPROVALS 
+ 
+Signed and submitted by: 
+ 
+Task Team Leader: 
+Mr Yann Burtin 
+03/06/2008 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Warren Waters 
+03/06/2008 
+Comments:   
+Sector Manager: 
+Mr Philippe Dongier 
+03/06/2008 
+Comments:   

@@ -1,0 +1,170 @@
+﻿                       INTEGRATED SAFEGUARDS DATA SHEET
+                                CONCEPT STAGE
+                                                                             Report No.: AC6403
+
+
+Date ISDS Prepared/Updated: 07/21/2011
+
+I. BASIC INFORMATION
+
+A. Basic Project Data
+
+Country: Africa                             Project ID: P126579
+Project Name: Regional Eastern Africa Power Pool Project (APL1)
+Task Team Leader: Paivi Koljonen
+Estimated Appraisal Date: January 10,       Estimated Board Date: May 29, 2012
+2012
+Managing Unit: AFTEG                        Lending Instrument: Adaptable Program
+                                            Loan
+Sector: General energy sector (100%)
+Theme: Regional integration (90%);Infrastructure services for private sector development
+(10%)
+IBRD Amount (US$m.):            0.00
+IDA Amount (US$m.):           500.00
+GEF Amount (US$m.):             0.00
+PCF Amount (US$m.):             0.00
+Other financing amounts by source:
+        BORROWER/RECIPIENT                                             110.00
+        Financing Gap                                                  490.00
+                                                                       600.00
+
+
+B. Project Objectives [from section 2 of PCN]
+Program Objective: To improve the reliability of electricity supply in the East Africa region.
+
+ Project Objective (APL 1): (a) transfer electricity between Ethiopia and Kenya; (b) and
+facilitate the integration of the power grids of the East African countries.
+
+C. Project Description [from section 3 of PCN]
+The project has three components:
+
+  Component 1. Construction of a 1,100 km, transmission line with 2,000 MW of transfer
+capacity to connect Ethiopia and Kenya (US$820 million). This component will construct the
+necessary transmission lines and substations in Kenya and Ethiopia to provide a strong electrical
+link between their power systems and to serve as an anchor to the development of a regional
+transmission backbone in the East Africa region.
+ Component 2. Institutional Capacity Building (US$20 million). This component will provide
+capacity building and technical assistance to the EAPP Secretariat and the transmission
+companies of Kenya and Ethiopia primarily in generation and transmission planning, energy
+dispatching, and operational procedures for power trading. The contents of the capacity building
+will be finalized during preparation in consultation with the countries concerned, the EAPP
+Secretariat, the transmission companies and Development Partners. The overall objective is to
+grow the human capacities needed for the development of a sound regional power market.
+
+  Component 3. Environmental and Social Mitigation Plan (US$60 million). This component will
+finance the necessary activities to mitigate the environment and social impacts of the project,
+including, the implementation of an Environmental and Social Management Plan and a
+Resettlement Action Plan for the affected areas and mitigation measures to offset possible
+damage on the environment. The details of this component will be developed after the
+ESIA/RAP studies are completed.
+
+D. Project location (if known)
+The interconnector will run from Southern Ethiopia (Sodo region) crossing the border into
+Kenya and delivering energy to Nairobi. About 400 km of the line are in Ethiopia and 700 km in
+Kenya. The precise routing of the line is not yet known and four routing alternatives are being
+analyzed. The most likely routing involves a Direct Current (DC) line from Sodo to Jenya in
+Ethiopia, crossing the border and reaching Dikama in Kenya. From this point, the line will
+follow a straight line south to Rumuruti, finally landing in Longonot, about 100 km northwest of
+Nairobi. In Longonot, the DC line is converted to Alternate Current (AC) line, which will take
+the power to Isinya where it connects to Kenya’s national grid.
+
+ The line routing will be selected to avoid, as much as possible, crossing environmentally
+sensitive areas and to minimize resettlement in the Nairobi area. The ESIA and RAP will be
+prepared based on the agreed route selection. Consultants have been recently hired by EEPCo
+and KETRACO to carry on the environmental and social studies.
+
+E. Borrower’s Institutional Capacity for Safeguard Policies [from PCN]
+On the Kenyan side, the Kenya Transmission Company (KETRACO) will be the implementing
+entity. It is a state-owned company, established in 2008, responsible for building and operating
+new transmission lines. Under the ongoing IDA-supported Electricity Expansion Project,
+KETRACO is receiving capacity building in environmental management and monitoring. It is
+the implementing entity for the Mombasa-Nairobi 220 kV high voltage line (financed by AfDB,
+EIB, and AFD) and thus has experience in implementing environmental and social management
+activities. As part of project preparation, the WB will carry out an assessment of KETRACO’s
+environmental and social management capacity to confirm the company’s capacity to fulfill its
+role as an implementing entity.
+
+ On the Ethiopian side, EEPCo is staffed with competent environmental and social professionals
+to implement the recommendations of the EA report and arrange for the preparation and
+implementation of RAPs.
+
+F. Environmental and Social Safeguards Specialists
+   Ms Yasmin Tayyab (AFTCS)
+   Mr Edward Felix Dwumfour (AFTEN)
+
+II. SAFEGUARD POLICIES THAT MIGHT APPLY
+Safeguard Policies Triggered                                         Yes          No        TBD
+Environmental Assessment (OP/BP 4.01)                                 X
+    This policy is triggered due to the construction of the interconnector, requiring the
+identification, mitigation and monitoring of potential adverse environmental and social impacts.
+      An Environmental and Social Impact Assessment (ESIA)/Environmental and Social
+Management Plan (ESMP) will be prepared. It will include an analysis of cumulative impacts,
+associated impacts, and alternatives.
+Natural Habitats (OP/BP 4.04)                                         X
+    The EA consultants are in the process of determining whether the interconnector will have
+adverse impacts on protected areas, wetlands and other natural habitats that might be located in
+the vicinity of the interconnector. Some impact on natural areas is expected, but it will be
+minimized as part of the route selection. The line will traverse the Marsabit and Losai Natural
+Reserves in (Kenya).
+Forests (OP/BP 4.36)                                                                         X
+    The EA consultants are in the process of determining whether the interconnector will have
+adverse impacts on forests that might be located in the vicinity of the interconnector. Given the
+size of the line and right-of-way, some impact on forests is expected. The line may traverse the
+Matthews Range Forest Reserve in (Kenya).
+Pest Management (OP 4.09)                                                                    X
+    The EA consultants are in the process of determining whether herbicides might be used in the
+maintenance of the interconnector.
+Physical Cultural Resources (OP/BP 4.11)                                                     X
+    The EA consultants are in the process of determining whether physical cultural resources are
+located in the vicinity of the interconnector. A team of archeologists and a GIS expert will
+conduct a rapid archeological impact assessment in the project area, the converter stations and
+the transmission lines. If the project affects Physical Cultural Resources, the impacts and
+mitigation measures will be addressed in the ESIA/ESMP.
+Indigenous Peoples (OP/BP 4.10)                                                              X
+    Given the presence of diverse ethnic groups in both countries, Bank screening will be
+necessary to determine if the project will traverse areas where vulnerable ethnic groups that meet
+the Bank’s criteria for triggering OP 4.10 are located.
+Involuntary Resettlement (OP/BP 4.12)                                 X
+    The route of the interconnector, with 400 km in southwestern Ethiopia and 700 km in Kenya
+is being selected to minimize displacement of the existing population or direct impact on their
+economic activities. The metropolitan areas near Nairobi will bear the greatest (impact). The
+project will prepare a Resettlement Action Plan before appraisal.
+Safety of Dams (OP/BP 4.37)                                                       X
+Projects on International Waterways (OP/BP 7.50)                                  X
+Projects in Disputed Areas (OP/BP 7.60)                                           X
+
+
+Environmental Category: A - Full Assessment
+III. SAFEGUARD PREPARATION PLAN
+
+A. Target date for the Quality Enhancement Review (QER), at which time the PAD-stage ISDS
+   would be prepared: 10/26/2011
+
+B. For projects that will not require a QER, the target date for preparing the PAD-stage ISDS:
+   N/A
+
+C. Time frame for launching and completing the safeguard-related studies that may be needed.
+The specific studies and their timing1 should be specified in the PAD-stage ISDS.
+   A preliminary Environmental and Social Impact Assessment (ESIA) and a Resettlement
+   Action Plan (RAP) were prepared in early 2009. An updated ESIA and RAP based on a new
+   line routing are under preparation. The draft ESIA will be available for review by September
+   2011. The ESIA and RAP will be disclosed in both countries and at the Bank’s Infoshop
+   prior to appraisal after review and clearance by the Bank.
+
+IV. APPROVALS
+
+    Signed and submitted by:
+    Task Team Leader:                              Ms Paivi Koljonen                                              07/18/2011
+    Approved by:
+    Regional Safeguards Coordinator:               Ms Alexandra C. Bezeredi                                       07/21/2011
+      Comments:
+    Sector Manager:                                Ms Anna M. Bjerde                                              07/21/2011
+      Comments:
+
+
+
+
+1   Reminder: The Bank’s Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the
+InfoShop and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to potentially affected
+persons.
+

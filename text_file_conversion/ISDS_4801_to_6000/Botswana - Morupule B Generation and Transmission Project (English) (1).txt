@@ -1,0 +1,280 @@
+Page  1
+INTEGRATED SAFEGUARDS DATA SHEET 
+CONCEPT STAGE 
+Report No.:  AC3946 
+ 
+Date ISDS Prepared/Updated: 01/26/2009 
+ 
+I.  BASIC INFORMATION 
+ 
+A.  Basic Project Data 
+ 
+Country: Botswana 
+Project ID: P112516 
+Project Name: Botswana - Morupule B Generation and Transmission Project 
+Task Team Leader: Varadarajan Atur 
+Estimated Appraisal Date: February 23, 
+2009 
+Estimated Board Date: April 7, 2009 
+Managing Unit: AFTEG 
+Lending Instrument: Specific Investment 
+Loan 
+Sector: Power (80%);Mining and other extractive (20%) 
+Theme: Infrastructure services for private sector development (P) 
+IBRD Amount (US$m.): 
+450.00 
+IDA Amount (US$m.): 
+0.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ Borrower 
+800.00 
+ 
+African Development Bank 
+200.00 
+ Financing 
+Gap 
+150.00
+1,150.00 
+B.  Project Objectives [from section 2 of PCN] 
+The project objectives are to (a) expand domestic power generation capacity that will support 
+sustained economic growth in Botswana, and (b) build institutional capacity for sustainable 
+development of the energy sector.   
+ 
+C.  Project Description [from section 3 of PCN] 
+The proposed scope includes the Morupule B power station, transmission lines and substations, 
+water supply connections, and technical assistance (TA). The Morupule B power station consists 
+of a 600 MW (4 x 150 MW) coal fired CFB power plant, right next to the existing Morupule A 
+power station in the township of Palapye, northeast of Botswana. The plant will include: coal 
+yard and coal preparation equipment, coal crushers, limestone preparation and feed systems, 
+CFB boilers with associated particulate removal equipment, fans, steam turbine and balance of 
+plant.  Also, the plant will be equipped with air cooled condenser to minimize use of water.  
+Morupule B will be a new plant, but it would utilize existing infrastructure including roads, coal 
+transport system, water supply and solid waste disposal facilities. BPC will build and operate the 
+Page  2
+power plant.  During project preparation, further consideration will be given to the need to 
+support investments in emissions control at Morupule A, which currently exceed national and 
+international standards for sulfur dioxide, and which under World Bank guidelines will require 
+mitigation measures at Moropule A to offset the additional emissions from Moropule B.  
+ 
+The transmission line part includes the following: Isang 400/220 kV substation, Morupule 
+–
+Phukoje 400 kV line (102km), Isang – Morupule 400 kV line (215km),Morupule – Isang 220 kV 
+tee in 2 lines, Morupule – Phukoje and Morupule – Isaang fiber optic lines and control 
+equipment.  
+ 
+The water supply component includes an interconnection to the North-South Carrier and, as a 
+backup water supply, water wells and pipelines.  
+ 
+The TA component covers five main areas: (a) Morupule B power station: supervision of 
+construction and implementation; (b) Power system: AGC system software, system harmonic 
+studies, control area establishment and training; (c) Morupule A power station: operational 
+improvement study and feasibility studies for CSP and CCS; (d) Sector development: regulatory 
+agency set up and capacity building; and (e) a Strategic Environmental Assessment (SEA) to 
+examine the cumulative impacts, particularly on air quality and water resources, of all the 
+planned and existing energy sector investments on both sides of the border with RSA.   
+ 
+D.  Project location (if known) 
+Morupule, near the township of Palapye, in the eastern part of Botswana.   
+ 
+E.  Borrower’s Institutional Capacity for Safeguard Policies [from PCN] 
+Institutional capacity for environmental management in Botswana has been significantly 
+strengthened in recent years, culminating in the promulgation of the Environmental Impact 
+Assessment Act 6 of 2005, and the creation of the Ministry of Environment, Wildlife and 
+Tourism (MEWT) with a mandate to coordinate environmental conservation and protection.  
+ 
+The Department of Environmental Affairs (DEA) is mandated to implement the Environmental 
+Impact Assessment Act which requires that an Environmental Impact Assessment (EIA, which 
+includes a Social Impact Analysis, SIA) be undertaken for the project.  The DEA has sufficient 
+capacity to review the ToR and results of the assessment.  
+ 
+The Department of Mines (DM) is separately mandated to implement the Mines and Minerals 
+Act 17 of 1999, which includes requirements for the environmental assessment of coal mining 
+operations.  In practice the environmental impact assessment process is driven by the DEA and 
+the Department of Mines is consulted on its requirements during the process. In addition to the 
+EIS authorizations, several additional permits and licenses will be required from several 
+Botswana Government Departments for the successful implementation of the Project.  
+ 
+Though there is sufficient government capacity for the review and approval of environmental 
+assessments, there is little experience with implementation and monitoring. Further capacity 
+strengthening is needed in the relevant institutions to handle these new challenges.   
+ 
+Page  3
+F.  Environmental and Social Safeguards Specialists 
+Mr Paul Jonathan Martin (AFTEN) 
+Ms Paula F. Lytle (ECSSD) 
+ 
+II.  SAFEGUARD POLICIES THAT MIGHT APPLY 
+Safeguard Policies Triggered
+ 
+Yes No TBD 
+Environmental Assessment (OP/BP 4.01) 
+X
+An EIA has been completed for the Morupule power plant, which indicates that current 
+levels of emissions from Morupule A cause occasional local exceedances of national and 
+international standards for sulfur dioxide, which under World Bank guidelines will require 
+mitigation measures at Morupule A to offset the additional emissions from Morupule B.  The 
+DEA has requested that an environmental audit of the existing Morupule A operations be 
+conducted, which should focus in particular on the collection of reliable data on current 
+emissions and air quality.  In addition to planned emission control measures, dust control, in 
+particular road surfacing, will be important to control particulate matter concentrations as a result 
+of combined Morupule A and B operations.   
+ 
+The EIA also identified existing elevated levels of sulfate in groundwater adjacent to the 
+Morupule A ash disposal lagoon.  To avoid further groundwater contamination it is proposed that 
+a
+new ash lagoon with sealed base be constructed for Morupule B, that run-off be captured for 
+recycling, and that Morupule A ash be rerouted to the new lagoon.  In order to mitigate the risk 
+that groundwater depletion occurs as a result of abstraction from the BPC Paje Wellfield for 
+combined Morupule A and B operations, it is proposed that water consumption at Morupule B be 
+minimized by recycling drainage water and runoff, and disposing of ash with minimal wetting.  
+ 
+With the operation of Morupule B, the EIA estimates that abstraction of water from the Paje 
+Wellfield (80km northwest of Morupule) will increase from the current 650,000 m3/yr to around 
+2
+million m3/yr.  The EIA states, however, that a detailed analysis of the impacts of groundwater 
+usage fall outside the scope of the study.  Consequently it is not clear whether this rate of 
+abstraction is sustainable.  Clarification  will be sought on this point during project preparation.  
+ 
+It is planned that some 2.6 million tons per annum (mtpa) of coal for Morupule B operations 
+will be provided by the adjacent coal mine operated by Morupule Colliery Limited (MCL).  This 
+additional coal production will comprise an element of the planned expansion of MCL 
+operations from current levels of about 1 mtpa to about 10 mtpa, largely to meet export demand.  
+An EIA of this planned expansion is underway.  
+ 
+The EIA of the transmission component has been completed, but has not yet been received 
+in full by the Bank.  This will be reviewed during project preparation.   
+Natural Habitats (OP/BP 4.04) 
+ X  
+Forests (OP/BP 4.36) 
+ X  
+Pest Management (OP 4.09) 
+ 
+X
+During project preparation it will be clarified whether operations to clear vegetation from 
+transmission line alignments will trigger OP 4.09 on Pest Management.   
+Physical Cultural Resources (OP/BP 4.11) 
+ 
+X
+The EIA of the Morupule B power plant
+included an archeological survey, which concluded 
+Page  4
+Safeguard Policies Triggered
+ 
+Yes No TBD 
+that nothing of archeological significance was found within the development area.  However, 
+chance finds procedures will be incorporated into construction contracts, including a requirement 
+to inform Botswana National Museum if anything of archeological significance is encountered.  
+Similar procedures will be incorporated into construction contracts for the transmission lines, 
+which although not directly affecting any known sites, pass through areas considered to be of 
+archeological interest.   
+Indigenous Peoples (OP/BP 4.10) 
+ X  
+In September 2008, social screening was carried out to identify whether indigenous peoples 
+are present in, or have attachment to, the project area. Based on the results of the screening, the 
+decision was taken that OP4.10 is not triggered.   
+Involuntary Resettlement (OP/BP 4.12) 
+X
+Social impact assessments have been carried out for Morupule B and for the transmission 
+lines. Within the immediate area of the proposed Morupule B power station, there is reportedly 
+one family of squatters; the process of re-locating that family is underway. During preparation, it 
+will be confirmed whether that relocation has occurred and whether it met OP 4.12 standards. At 
+the time of the September 2008 mission, the area to be developed under Morupule B had not 
+been fenced to prevent further encroachment, and the mission's aide memoire strongly 
+recommended that this work be carried out as soon as possible. It is also expected that the influx 
+during the construction period would have significant social impact, separate from any safeguard 
+issues. Although HIV/AIDS prevention programs are in place, these will need to be scaled up 
+and carefully targeted.  
+ 
+With respect to the transmission lines, the SIA indicates that there is potential negative 
+impact on land use and possible resettlement of individual households. The transmission line SIA 
+includes a Resettlement Framework, citing the IFC's performance standards. During project 
+preparation, this framework will need to be reviewed to ensure that it is consistent with OP/BP 
+4.12 and that a comprehensive Resettlement Policy Framework (RPF) has been prepared.   
+Safety of Dams (OP/BP 4.37) 
+ 
+X
+OP 4.37 on the Safety of Dams applies inter alia to ash impoundment dams for thermal 
+power plants.   While both the existing and proposed new ash impoundment dams exceed 15 
+meters in height, thereby qualifying as large dams under OP 4.37, they do not impound 
+significant amounts of water.  During project preparation the team will seek expert guidance on 
+the applicability of OP 4.37 and the safety measures to be implemented.   
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X  
+Projects in Disputed Areas (OP/BP 7.60) 
+ X  
+Environmental Category:
+ 
+A
+-
+Full Assessment 
+ 
+III.  SAFEGUARD PREPARATION PLAN 
+ 
+A.  Target date for the Quality Enhancement Review (QER), at which time the PAD-stage ISDS 
+would be prepared:  03/01/2009 
+ 
+Page  5
+B.  For simple projects that will not require a QER, the target date for preparing the PAD-stage 
+ISDS:  N/A 
+ 
+C.  Time frame for launching and completing the safeguard-related studies that may be needed.  
+The specific studies and their timing
+1
+should be specified in the PAD-stage ISDS. 
+An EIA including a Social Impact Assessment was prepared for Morupule B Power Station 
+in October 2007, and approved by the Department of Environmental Affairs (DEA) in 
+February 2008.  
+ 
+An EIA of the expansion of MCL operations was submitted to the DEA in November, 2008, 
+and is currently under review.  When this report becomes available for public disclosure in 
+Botswana, the Bank will also disclose it in the InfoShop.  
+ 
+The Department of Environmental Affairs has requested that BPC contract an 
+environmental audit of Morupule A operations.  During project preparation the team will 
+clarify with BPC when this will be completed.  
+ 
+An EIS for the Transmission Lines, including a Social Impact Assessment was completed in 
+November 2007, but has not yet been received in full by the World Bank.  This will be 
+reviewed during project preparation.  
+ 
+For the transmission lines a Resettlement Policy Framework following IFC guidelines has 
+been prepared as of November 2007.  This needs to be revised to reflect OP 4.12 and 
+endorsed by the government prior to appraisal.  
+ 
+If the screening determines the presence of indigenous peoples, the Government and the 
+BPC will prepare an Indigenous Peoples Plan following OP/BP 4.10, prior to appraisal. The 
+existing document refers to the definition of indigenous with respect to Botswana law, not 
+World Bank policy.  
+ 
+All safeguard instruments will be disclosed in-country as well as in the Bank Infoshop prior 
+to appraisal.   
+ 
+IV.  APPROVALS 
+ 
+Signed and submitted by: 
+ 
+Task Team Leader: 
+Mr Varadarajan Atur 
+01/16/2009 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Warren Waters 
+01/22/2009 
+Comments:   
+Sector Manager: 
+Mr Subramaniam V. Iyer 
+01/21/2009 
+Comments:   
+1
+Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the 
+InfoShop and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to potentially affected 
+persons.
+ 
+Page  6

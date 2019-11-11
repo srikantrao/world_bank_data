@@ -1,0 +1,220 @@
+Page  1
+INTEGRATED SAFEGUARDS DATA SHEET 
+CONCEPT STAGE 
+Report No.:  AC3468 
+ 
+Date ISDS Prepared/Updated: 04/27/2008 
+ 
+I.  BASIC INFORMATION 
+ 
+A.  Basic Project Data 
+ 
+Country: Indonesia 
+Project ID: P106384 
+Project Name: Strengthening the National Statistical System of Indonesia 
+Task Team Leader: Vivi Alatas 
+Estimated Appraisal Date: March 3, 2009 
+Estimated Board Date: June 30, 2009 
+Managing Unit: EASPI 
+Lending Instrument: Specific Investment 
+Loan 
+Sector: Central government administration (100%) 
+Theme: Economic statistics, modeling and forecasting (P);Macroeconomic management 
+(P);Other economic management (S);Decentralization (S);Managing for development 
+results (S) 
+IBRD Amount (US$m.): 
+45.00 
+IDA Amount (US$m.): 
+0.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ Borrower 
+8.64
+8.64 
+B.  Project Objectives [from section 2 of PCN] 
+The objectives of the project to strengthen the National Statistical System of Indonesia are: i) to 
+improve quality (procedures, standards and methodology, statistical infrastructure) and 
+availability (timeliness, presentation, dissemination) of statistics produced by BPS; ii) to improve 
+the confidence of users in the statistics produced by BPS through promoting engagement with 
+users and enhancing responsiveness to their demands; iii) to improve effectiveness and efficiency 
+of statistical system through better ICT and streamlining of source data collections; and iv) to 
+improve the skills and capacity of BPS staff, especially in the regions.  
+ 
+This will be achieved by streamlining and improving standardization of business processes, 
+improving coordination and collaboration among data producers and users, adoption of 
+international standards, improving information management system and accelerating ICT 
+investment, and training of human resources.   
+ 
+C.  Project Description [from section 3 of PCN] 
+Page  2
+This Project is proposed as a Specific Investment Loan, under the umbrella of the multi-country 
+STATCAP Adaptable Program Loan. The project will have four components:  
+ 
+Component A: Improvement of Data Collection, Compilation and Dissemination ($3.8 m)  
+ 
+This component will ensure the ongoing relevance and responsiveness of BPS (Statistics 
+Indonesia) programs to emerging user needs. In light of escalating demands and limited 
+resources, the project will assist with improving priority setting processes around statistical 
+collections and exploring trade-offs between competing needs to ensure the BPS work program 
+is ‘doable’ with existing resources.  
+ 
+Component B: Investments in ICT and Information Management System ($48.3 m)  
+ 
+This component will support the upgrade of information management system and ICT 
+infrastructure to improve standardization, accuracy and timeliness of BPS products. An 
+integrated data warehouse will be designed to facilitate internal data collection, processing and 
+analysis, as well as dissemination and user accessibility.  
+ 
+The project will also support the introduction of GIS and GPS technologies to integrate 
+geographically oriented statistical information systems, and to improve efficiency and accuracy 
+of data collection activities in the field. To address the constraints on communications and data 
+transfer, connectivity between central and regional offices will be improved through adoption of 
+VPN and other customized solutions.  
+ 
+This project would provide an assessment of the feasibility, costs, scope and schedule options to 
+provision BPS field offices with appropriate telecommunications access (local office network, 
+BPS intranet VPN, and Internet) to technically enable 3 functions:  
+ 
+•
+organizational connectivity (email, administrative information sharing, virtual work 
+assignment, help desk and related technical assistance)  
+ 
+•
+application system and database access (VPN access to BPS Headquarters resources 
+including servers, applications, databases)  
+ 
+•
+internet connectivity.  
+ 
+In addition, a “model” field office concept will be introduced to design and pilot a “future” 
+statistical office in several regions. A “model” field office with portable data capture equipment 
+used by enumerators, editing done at the collection site, and the data merged into an electronic 
+file back in the field office at the end of the day could create an entirely different vision of the 
+future of BPS field work. Given the diverse conditions of regions across Indonesia and limited 
+resources, a single phase upgrading of ICT capabilities nation-wide would not be feasible, but 
+the “model” office would allow BPS to envision a new paradigm for designing and processing 
+surveys, interacting with other BPS offices electronically, disseminating information at the local 
+level, and using the Internet to get their job done.  
+ 
+Component C: Human Capacity Development ($3.8 m)  
+ 
+The component will identify gaps between existing skills and needs to develop a corporate 
+training strategy, as well as individual training plans. And the project will focus on redesigning 
+the curriculum at the Statistical Institute (STIS).  
+ 
+Page  3
+Component D: Project Management and Administration Support ($3.3 m)  
+ 
+The Project Implementation Unit (PIU) will be established in BPS and will be supported by 
+specialist consultants to assist with procurement and contract management, as well as a firm to 
+provide IVV services.   
+ 
+D.  Project location (if known) 
+Nation-wide in Indonesia (BPS offices at national, provincial and district level)   
+ 
+E.  Borrower’s Institutional Capacity for Safeguard Policies [from PCN] 
+The institutional capacity for safeguard policies will be assessed during preparation and 
+environmental safeguards specialist will support the preparation of guidelines for disposal of 
+electronic wastes.   
+ 
+F.  Environmental and Social Safeguards Specialists 
+Ms Vivianti Rambe (EASIS) 
+ 
+II.  SAFEGUARD POLICIES THAT MIGHT APPLY 
+Safeguard Policies Triggered
+ 
+Yes No TBD 
+Environmental Assessment (OP/BP 4.01) 
+X
+No adverse environmental impacts are expected since the proposed project will not be 
+financing any constructions/civil works. However, it will provide equipment and 
+telecommunications access (local office network, BPS intranet VPN, and Internet) to technically 
+enable organizational connectivity (email, administrative information sharing, virtual work 
+assignment, help desk and related technical assistance), and application system and database 
+access (VPN access to BPS Headquarters resources including servers, applications, databases). 
+The ‘software’ partof the project will be the major focus of the proposed project, and to 
+accommodate and support this development, the proposed project will also provide the 
+‘hardware’ (PC and monitors). The provision of the hardware will be limited in quantity.  
+ 
+The proposed project is not expected to generate significant amounts of hazardous 
+materials, however, operations and maintenance of the ‘hardware’ activities may result in 
+generating electronic wastes (e.g. printed circuit boards from computer, other electronic 
+equipment). In order to mitigate environmental issues, the project will develop a simple and 
+practical guideline on disposal of computer equipment and peripherals which will be then 
+integrated into the project manual.  
+ 
+In addition, if the project design changes and/or civil works are required (especially might 
+apply to the ‘model’ field office), then reassessment would be necessary. If this case emerges 
+during preparation, the project team will flag it to the safeguard team.   
+Page  4
+Safeguard Policies Triggered
+ 
+Yes No TBD 
+Natural Habitats (OP/BP 4.04) 
+ X  
+Forests (OP/BP 4.36) 
+ X  
+Pest Management (OP 4.09) 
+ X  
+Physical Cultural Resources (OP/BP 4.11) 
+ X  
+Indigenous Peoples (OP/BP 4.10) 
+ X  
+Involuntary Resettlement (OP/BP 4.12) 
+ X  
+Safety of Dams (OP/BP 4.37) 
+ X  
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X  
+Projects in Disputed Areas (OP/BP 7.60) 
+ X  
+Environmental Category:
+ 
+C
+-
+Not Required 
+ 
+III.  SAFEGUARD PREPARATION PLAN 
+ 
+A.  Target date for the Quality Enhancement Review (QER), at which time the PAD-stage ISDS 
+would be prepared:  10/14/2008 
+ 
+B.  For simple projects that will not require a QER, the target date for preparing the PAD-stage 
+ISDS:  N/A 
+ 
+C.  Time frame for launching and completing the safeguard-related studies that may be needed.  
+The specific studies and their timing
+1
+should be specified in the PAD-stage ISDS. 
+It is anticipated that safeguard-related studies will not be required but electronic wastes 
+guidelines will be prepared and included in the project operations manual during the PAD-
+stage.   
+ 
+IV.  APPROVALS 
+ 
+Signed and submitted by: 
+ 
+Task Team Leader: 
+Ms Vivi Alatas 
+02/25/2008 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Panneer Selvam Lakshminarayanan 
+03/12/2008 
+Comments:   
+Sector Manager: 
+Mr Vikram Nehru 
+03/21/2008 
+Comments:   
+1
+Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the 
+InfoShop and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to potentially affected 
+persons.
+ 
+Page  5

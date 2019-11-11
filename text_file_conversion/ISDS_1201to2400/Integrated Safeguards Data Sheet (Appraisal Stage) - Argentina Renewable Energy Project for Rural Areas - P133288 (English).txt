@@ -1,0 +1,635 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+APPRAISAL STAGE
+Report No.: ISDSA6483
+0
+Date ISDS Prepared/Updated: 11-Dec-2014
+o
+Date ISDS Approved/Disclosed: 11-Dec-2014
+I. BASIC INFORMATION
+1. Basic Project Data
+Country:        Argentina                   Project ID:  P133288
+Project Name: Argentina Renewable Energy Project for Rural Areas (P133288)
+Task Team       Lucia Spinelli
+Leader:
+Estimated        10-Nov-2014                Estimated    17-Mar-2015
+Appraisal Date:                             Board Date:
+Managing Unit: GEEDR                        Lending      Investment Project Financing
+Instrument:
+Sector(s):      Hydropower (5%), Other Renewable Energy (75%), Transmission and
+Distribution of Electricity (15%), General energy sector (5%)
+Theme(s):       Social Inclusion (50%), Rural services and infrastructure (50%)
+Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+8.00 (Rapid Response to Crises and Emergencies)?
+Financing (In USD Million)
+Total Project Cost:     240.09             Total Bank Financing:   200.00
+Financing Gap:            0.00
+Financing Source                                                          Amount
+Borrower                                                                     10.85
+International Bank for Reconstruction and Development                       200.00
+Local Govts. (Prov., District, City) of Borrowing Country                     5.74
+Local Sources of Borrowing Country                                           23.50
+Total                                                                       240.09
+Environmental B - Partial Assessment
+Category:
+Is this a       No
+Repeater
+project?
+2. Project Development Objective(s)
+The development objective is to provide and enhance access to modern energy services in rural areas
+of Argentina.
+Page 1 of 14
+
+
+﻿3. Project Description
+The proposed Project would provide key support to Argentina's plans to achieve universal access to
+modern energy services and to improve the quality of life of the rural and isolated population. The
+Project will also support capacity building and strengthening activities at the national level. The
+operation builds upon the activities, lessons learned, best practices and experience obtained from the
+implementation of PERMER I as well as from projects in other countries. The proposed Project will
+be demand driven, but the PCU will work to ensure that all relevant stakeholders - including
+a        Provinces that have not participated in past projects - can benefit from the operation by providing
+tailored assistance through the capacity building activities being financed. The Project is comprised
+of four components:
+Component 1 - Renewable electricity service provision (US$215.61 million, of which US$183.40
+million: IBRD). This component will finance the acquisition and installation of stand-alone solar
+(PV) or wind systems, Pico PV (systems with a capacity below 35 watts), and the construction and/or
+upgrade of minigrids for groups of consumers that may include public institutions and population
+clusters, among others (these minigrids may include mini-hydro. The Project will not finance the
+acquisition of diesel-powered units, although existing ones may be kept as backup, and the operation
+could finance their integration with renewable technologies). The technologies to be installed and
+financed through the Project would support the provision of electricity services for residential and
+public users for multiple purposes, including: (a) electricity for lighting, communication and other
+basic household needs (such as food refrigeration and storage) for isolated individual households;
+dispersed public services buildings; and rural and isolated population clusters through minigrids; (b)
+electricity for potable water pumping in: individual households; dispersed public services facilities;
+and rural and isolated population clusters, and; (c) electricity for productive uses for individual
+purposes or collective subprojects.
+Component 2 - Solar thermal energy service provision (US$9.67 million, of which US$7.9 million:
+IBRD). This component will finance the acquisition and installation of solar water heaters, solar
+space heating systems, cookers and ovens. The component will only target dispersed public facilities
+and public buildings located in isolated areas and in rural population clusters (even if they already
+count with a basic energy service).
+Component 3 - Project deployment support (US$6.71 million, of which US$5.70 million: IBRD).
+This component will finance activities to support the design, implementation and execution of
+subprojects, including environmental and social aspects, as well as the development of tasks to
+enhance renewable energy deployment in the country. The component will finance - inter alia -
+market studies to determine potential energy demand and technologies (at both the urban and rural
+levels), monitoring and evaluation tasks (including the deployment of new technologies to remotely
+measure electricity consumption and use as well as subprojects performance), communication
+strategies and outreach activities, studies to support Argentina's renewable energy goals,
+dissemination of lessons learned, best practices and relevant experiences, and capacity building for
+the weakest stakeholders to ensure their participation, among others. It would also support the
+development of pilot studies for technologies that have not yet been fully deployed in Argentina, for
+example solar space heating systems.
+Component 4 - Project management (US$8.10 million, of which US$3.00 million: IBRD). This
+component will finance the incremental costs of the Project, strengthening existing structures,
+operation and maintenance of monitoring and evaluation (M&E) systems (equipment and surveys
+Page 2 of 14
+
+
+﻿will be financed by Component 3, but M&E data will be prepared by the PCU), training and travel
+costs for Project Coordinating Unit (PCU) staff and provincial counterparts, equipment for PCU and
+for provincial units, and other operational expenses.
+4. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+The Project is national in scope; therefore all Argentine Provinces constitute the target area for
+investment subprojects. The natural environment of these provinces is very varied, as it includes
+ecosystems ranging from forests to desert and from the Andes Mountains to the large rivers of the
+Rio de la Plata valley. The Project will focus on mainly two types of rural zones: a) those with small
+populations located in extremely isolated areas, for which stand-alone generation will be provided
+and, b) small concentrated communities in isolated areas that are of sufficient size to warrant
+provision of electricity through mini-grids. Specific subprojects are not likely to be identified before
+appraisal and therefore the specific sites, environmental and social conditions, and impacts of each
+subproject are not likely to be known. In light of this, an ESMF has been prepared, (updating the
+ESMF prepared for PERMER I) that includes a screening process for sub-projects. In the event that
+any sub-projects are confirmed for inclusion in the Project prior to appraisal, draft EIAs/EMPs and
+RAPs will be prepared (prior to appraisal).
+5. Environmental and Social Safeguards Specialists
+Fernando J. Brunstein (GENDR)
+Noreen Beg (GENDR)
+Lilian Pedersen (GSURR)
+6. Safeguard Policies          Triggered? Explanation (Optional)
+Environmental Assessment OP/   Yes         The Project will have a largely positive impact on
+BP 4.01                                    the environment, by improving the supply of
+energy in rural areas of Argentina's provinces,
+thereby reducing the use of fossil fuels for
+Q)                                                   domestic consumption, and the use of firewood
+(in the case of institutional buildings, i.e., schools
+and hospitals).
+The scope, targets and boundaries of PERMER II
+would be significantly expanded to include
+provinces not covered by PERMER I. In addition,
+some of the proposed interventions may be new
+or different in nature from those supported under
+PERMER I. The safeguard documents prepared
+for PERMER I, specifically the ESMF, have been
+updated to reflect this. The updated ESMF was
+disclosed - in Spanish - on October 24, 2014 at
+the following website: https://www.se.gob.ar/
+contenidos/archivos/permer/
+MaGAS_PERMER II.pdf.
+Components 1 (renewable electricity service
+provision) and 2 (solar thermal energy service
+Page 3 of 14
+
+
+﻿provision) of the Project will have low to
+moderate environmental impacts. These impacts
+would result from the installation of solar panels
+(requiring a plan for disposal of batteries), the
+installation of small wind turbines for individual
+use (300-600 wp), the retrofitting of existing
+diesel generation facilities to hybrid solar/diesel
+back-up systems, the construction of mini hydro
+(ranging from 100 kW to 4 MW) run-of-river
+generation facilities, and the construction of low-
+impact infrastructure (such as low voltage
+electricity distribution lines).The installation of
+solar cookstoves and heaters is also part of the
+Project.
+Expected potential negative environmental
+impacts will be primarily during the construction
+phase of civil work. Cumulative environmental
+impacts are not expected to be significant, as the
+Project is nationwide but relatively limited in
+scope. The impacts and relevant mitigation
+measures have been described in the Project's
+updated Environmental and Social Management
+Framework (ESMF). Appropriate mitigation
+measures will be followed to limit the impact on
+local fauna, avi-fauna and to protect indigenous
+plant and tree species, and preserve riverine
+ecosystems in the case of the mini-hydro
+schemes.
+The Project is expected to result in positive social
+outcomes, through its support to improve the
+quality of life for isolated populations in
+Argentina's provinces through the provision of
+electric and thermal energy, safe water supply for
+families, and the opportunity to undertake
+commercially productive activities and enhance
+the secure and timely provision of social services
+(e.g., security of electricity supply for
+refrigeration of vaccines).
+The Project is classified as Category B - Partial
+Assessment - assigned to projects that are likely
+to have limited and reversible environmental
+impacts, that can be readily mitigated. The ESMF
+considered, among others, the following issues:
+Page 4 of 14
+
+
+﻿i)     Updated environmental and
+social baseline conditions;
+ii)    A description of the full range of
+subprojects proposed under PERMER II;
+iii)   Updated legal and institutional
+provisions (for example, new PCUs and
+respective SETs in new provinces; capacity
+building for the Energy Secretariat (SE) and,
+where applicable, the designation of new entities
+responsible, at the provincial level, for managing
+environmental and social issues during operation
+and maintenance (e.g. management of waste
+generated by the maintenance and repair of
+equipment, including battery disposal
+management);
+iv)    A screening process for
+subproj ects;
+v)     A description of environmental
+management tools and mitigation measures
+applicable to the subprojects (including those
+specific subprojects if location has already been
+identified prior to appraisal as mentioned earlier-
+e.g. mini grids and mitigation measures to be
+applied during the design of the subprojects,
+considering the lessons learned from PERMER I
+and included in that project's ICR); and
+vi)    Results of public consultations on
+the updated draft ESMF.
+The Secretariat of Energy has undertaken public
+consultations on the ESMF with local and
+provincial government representatives,
+representatives of stakeholders in local
+communities, and local NGOs. The ESMF
+documents the results of the consultations and has
+taken into account and addressed stakeholder
+concerns and comments.
+In addition to the ESMF, the Borrower has
+prepared an Indigenous Peoples Planning
+Framework (IPPF), a Resettlement Policy
+Framework (RPF), a Good Practices Guide
+(GPG), and a Communication Strategy (CS).
+Natural Habitats OP/BP 4.04    Yes          This policy is triggered because many subprojects
+will be located in or close to natural habitats and/
+or protected areas. For example, in the case of
+retrofitting existing diesel generation facilities to
+Page 5 of 14
+
+
+﻿hybrid solar/diesel back-up systems, subprojects
+may be located within National Parks and
+Reserves, at government offices and lodges
+located within the Parks or Reserves. While the
+Project will not support or lead to the conversion
+of natural habitats, and the ESMF will explicitly
+forbid any Project activities inducing significant
+conversion or degradation of critical natural
+habitats, this policy is triggered to ensure that
+minor construction works have EMPs that will
+protect biodiversity and water resources. The
+most significant impacts will result from the
+construction of low-voltage distribution lines and
+construction of related infrastructure, and
+appropriate mitigation measures will be followed
+to limit the impact on local fauna, birdlife and to
+protect indigenous plant and tree species, and
+preserve riverine ecosystems in the case of mini-
+hydro schemes.
+The ESMF contains appropriate screening criteria
+to ensure that impacts on natural and critical
+natural habitats are properly evaluated. , and that
+no subprojects will be approved in locales which
+involve significant conversion of natural habitats.
+Any investments undertaken in designated
+protected areas will have site-specific EMPs
+specifying mitigation measures.
+Forests OP/BP 4.36              No           While some mini-hydro schemes may be located
+within forests, the ESMF explicitly forbids any
+Project activities that would lead to the significant
+degradation and conversion of critical forest areas
+and forest ecosystems. Although the distribution
+lines for some mini-grids may traverse natural
+forests, and some construction will take place for
+the mini-hydro schemes in rivers that may run
+through forest areas, impacts are likely to be
+small scale and are very unlikely to affect the
+rights and welfare of forest-dependent
+communities. On the contrary, the provision of
+secure energy would lessen dependence on
+firewood, thus reducing deforestation and
+reducing the pressure on forest biodiversity
+Project investments will not affect the
+management of forests, or the use of forests for
+livelihoods, and will not support investments such
+as plantations or other industrial uses.
+Page 6 of 14
+
+
+﻿The ESMF incorporates a screening mechanism
+to ensure that no subprojects will be included
+which affect the management of forests or the
+rights and welfare of forest dependent
+communities , and to ensure that any impacts on
+forests be mitigated through measures defined as
+part of the broader approach on natural habitat
+protection under OP 4.04.
+Pest Management OP 4.09         No           The Project will not finance any activities that
+would result in procurement or significant use of
+pesticides. There will be no pesticide use in
+construction of works. Any land clearing for
+rehabilitation of existing buildings or for
+placement of distribution poles will be undertaken
+manually.
+Minor use of pesticides to control pests in
+construction areas or in workers' campsites are
+addressed in the ESMF.
+Physical Cultural Resources OP/  Yes         During the PERMER I project it was verified that
+BP 4.11                                      many subprojects were located in the vicinity of
+sites of ancient indigenous settlements, and
+numerous utensils and tools of historical and
+archaeological importance were found during the
+progress of works. Considering that PERMER II
+will operate in the same areas, this policy is
+triggered. A chance finds procedure will be
+inserted into construction contracts and has been
+included in the ESMF, and the local and national
+Cultural Patrimony, Archeology Departments,
+and/or Museums authorities will be notified when
+chance finds are made.
+The ESMF includes specific screening provisions
+for evaluating potential impacts on cultural
+resources and will provide specific guidance on
+the chance finds procedures.
+Indigenous Peoples OP/BP 4.10   Yes          Based on the PERMER I experience and
+considering targeted areas are primarily rural
+areas, it is possible that members of one or more
+of Argentina's indigenous peoples could be
+present within the Project's geographical
+influence area. In order to guarantee the inclusion
+of such groups in Project benefits, or otherwise to
+avoid that Project activities affecting them in an
+adverse way, the Project would trigger OP/BP
+Page 7 of 14
+
+
+﻿4.10. The Borrower is preparing an Indigenous
+Peoples Planning Framework (IPPF), based on
+the current IPPF for PERMER I, to strengthen
+and coordinate overall attention to indigenous
+peoples' participation.
+The IPPF will include an analysis of the lessons
+learned from the participation of Indigenous
+Peoples in PERMER I. At the moment, available
+information allows to conclude that more than
+13,000 indigenous peoples benefited from
+individual SHS systems in: Salta (over 5,000
+members of the Diaguitas Calchaquies, Tupi,
+Guaranies and Kollas groups), Tucumdn /over
+1,700 Diaguitas Calchaquies), Chaco (roughly
+2,000 Wichi and Tobas), Mendoza
+(approximately 1,000 Mapuches and Huarpes),
+Neuqu6n (1,200 Mapuches), and Jujuy (1,700
+Quechuas, Kollas, Atacama, Ocloyas and
+Omaguaca).
+The PERMER I team conducted an identification
+and consultation process of indigenous
+populations in different provinces. These included
+both inhabitants of indigenous communities as
+well as those that identify themselves as
+indigenous but are integrated into non-indigenous
+communities. The communication and
+organizational factors of the different
+communities and different peoples was a key
+factor to consider when designing communication
+activities and determining beneficiaries. Given
+the nature of the operation (which provided
+individual solar systems), the Project was very
+well received since it is considered by the
+community as an improvement in the living
+conditions and opportunities for development.
+Finally, the specific subproject Environmental
+Management Plans to be developed under the
+Project would include pre-screening. In the case
+that IP are present in a specific subproject's area
+of influence, a site-specific Indigenous Peoples
+Plan (IPP) would be developed based on the IPPF
+guidelines. IPPF would be submitted to
+Indigenous People organization consulting
+process.
+Page 8 of 14
+
+
+﻿Involuntary Resettlement OP/BP  Yes          Subprojects financed by PERMER II (such as
+4.12                                         mini-grids, hydropower, small dams or farming
+activities) are likely to require land easement and/
+or acquisition, including potential investment that
+might entail resettlement as defined by OP 4.12
+(loss of assets, physical displacement, or
+livelihood losses). The Borrower will prepare a
+Resettlement Policy Framework (RPF), based on
+the PERMER I experience, to ensure that analysis
+of alternatives and appropriate compensation and
+support to potentially affected persons are
+incorporated into the subproject design. Given
+that due to the nature of the subprojects potential
+cases of voluntary land donations might take
+place, the ESMF will include robust criteria to
+clearly document these.
+Safety of Dams OP/BP 4.37       No           The mini-hydro electricity generation facilities
+that are under consideration (ranging from 100
+kW to 4 MW) will be run-of-river, and for those
+that require a small weir or pondage to provide
+water for the penstock, the dam height will not
+exceed 10 meters. For these small dams, the task
+team will agree on appropriate safety measures
+with the Borrower, will ensure the involvement of
+qualified engineers, and will confirm that the
+environmental assessment (EAs) for each sub-
+project have determined that there would be no
+risk or negligible risk of significant adverse
+impacts due to potential failure of the structure to
+local communities and assets, including assets to
+be financed as part of the proposed Project. Based
+on such determination, potential adverse impacts
+will be addressed through OP/BP 4.01,
+Environmental Assessment and not OP/BP 4.37,
+and measures will be included in the ESMF and
+in EMPs.
+Projects on International       Yes          While the exact location of subprojects is still
+Waterways OP/BP 7.50                         being determined, it is likely that Component A
+of the Project (Electricity Service Provision) will
+include the construction and/or upgrade of mini
+grids for remote rural areas with renewable
+technologies. These renewable technologies will
+include micro/mini/small-hydro run-of-river
+electricity generation facilities (ranging from 100
+kW to 4 MW), some of which may require a
+small weir or pondage to provide water for the
+penstock. Several of these subprojects that are
+Page 9 of 14
+
+
+﻿being considered for funding are located on
+waterways in rural areas that merge with and/or
+form part of the Parand/Paraguay River system
+which originates in Brazil and flows into Bolivia
+and Paraguay (the Paraguay River) and Paraguay
+and Argentina (the Parand River). The Paraguay
+discharges its water in the Parana and further
+downstream it merges with the Uruguay River to
+form the La Plata River, a river that flows from
+Argentina to Uruguay. In the case of Chile,
+Several of the sub-projects to be considered for
+funding are located on waterways in rural areas of
+Argentina that share rivers with Chile - for
+example the Negro, Colorado, Chico and Deseado
+rivers. These river systems comprise international
+waterways as defined under the World Bank's
+OP/BP 7.50 - Projects on International
+Waterways - paragraph 1. Therefore, the policy
+OP/BP 7.50 - Projects on International
+Waterways is triggered. The Borrower has
+requested that the Bank issue the Notification to
+Riparian States on its behalf. This has been
+undertaken. Brazil and Bolivia were the only
+countries that responded, and did not raised any
+major issues.
+Projects in Disputed Areas OP/BP No          No subprojects will be located in disputed areas.
+7.60
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+and describe any potential large scale, significant and/or irreversible impacts:
+There are no large-scale, significant, or irreversible environmental impacts associated with this
+Project. The Project will have a largely positive impact on the environment, by improving the
+supply of energy in rural areas of Argentina's provinces, thereby reducing the use of fossil fuels
+for domestic consumption, and the use of firewood (in the case of institutional buildings, i.e.,
+schools and hospitals). It is also expected to result in positive social outcomes, enhancing welfare
+for isolated populations in Argentina's provinces through the provision of electric and thermal
+energy and safe water supply for families; the opportunity to undertake commercially productive
+activities; and the secure and timely provision of social services (e.g., security of electricity supply
+for refrigeration of vaccines).
+Physical interventions resulting from the implementation of investments in rural areas may have
+low to moderate negative impacts on the environment, depending on their locations. The most
+significant impacts will result from the construction of low-voltage distribution lines and
+construction of related infrastructure, and the construction of mini-hydro schemes. Appropriate
+mitigation measures will be followed to limit the impact on local fauna, avi-fauna and to protect
+Page 10 of 14
+
+
+﻿indigenous plant and tree species, and preserve riverine ecosystems in the case of mini-hydro
+schemes.
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+in the project area:
+Long term indirect impacts are positive as the use of renewable energy and the expansion of
+electricity access will reduce dependence on firewood, and will lead to a reduction in use of off-
+grid diesel generation, and kerosene for cooking and lighting.
+In an indirect way, by optimizing cooking, hygiene and heating devices, the Project will improve
+the sustainable use of resources and empower women. The available of modern energy services
+will help them free-up time that could be used to search for new job opportunities and education,
+and thus improve their quality of life. The availability of electricity for the production of
+handicrafts - and other productive activities - could also benefit women by potentially expanding
+their incomes.
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+impacts.
+Without a program of rural connections to the grid or appropriate off-grid solutions, the
+Government would not be able to advance its program to bring the benefits of electricity to lower
+income, rural consumers.
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+assessment of borrower capacity to plan and implement the measures described.
+The implementation arrangements under the Project will be the same as those for the recently
+closed AR Renewable Energy Rural Markets. The implementation of the Project will be carried
+out through existing management structures, at both the national and provincial level. The
+implementing agency will be the Energy Secretariat (SE, as per its acronym in Spanish) through
+its Project Coordination Unit (PCU). The PCU will be responsible for coordinating the various
+activities of the Project with the other units in Provincial Government Agencies. The social and
+environmental team (SET) of the PCU will be responsible for identifying and disseminating
+guidelines for the implementation of actions to ensure compliance with Bank Operational Policies
+related to safeguards, and to ensure compliance with Government of Argentina rules and
+regulations. This will be based upon the application of the updated Environmental and Social
+Management Framework (ESMF). The same team will be responsible for the application of the
+Indigenous Peoples Planning Framework (IPPF) as well the Resettlement Planning Framework
+(RPF), the Good Practices Guide (GPG), and the Communication Strategy (CS). There is currently
+one officer in the SE responsible for environmental and social safeguard compliance. It is
+recommended that this capacity be enhanced and reinforced through the hiring of at least two
+additional staff members, supplemented by training.
+The Borrower's performance can be assessed analyzing the experiences from the implementation
+of PERMER I. The ICR of PERMER I - Report No 1336, June 26, 2013) states that
+"Environmental safeguard compliance was rated satisfactory throughout the whole implementation
+of the PERMER I project. However, an assessment undertaken by the Bank in early 2011
+concluded that some subprojects, particularly mini-grids, could have environmental and social
+impacts broader than what was foreseen at the design stage. Consequently, the supervision of
+ongoing subprojects was strengthened -including a more rigorous review of Environmental Impact
+Assessments (EIAs) - and data was systematized. No significant negative environmental impacts
+were detected (ICR, pp. 10- 11)."
+Page 11 of 14
+
+
+﻿At the provincial level, the institutional capacity is variable. The findings of the aforementioned
+Argentina Safeguards GAP analysis will be used to identify those provinces that will need more
+support from the central Project Coordination Unit. Most EIAs/EMPs are outsourced by the
+O
+Q)         provinces, so it will be important to undertake regular quality control assessments.
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+O
+on safeguard policies, with an emphasis on potentially affected people.
+The Secretariat of Energy has conducted public consultations on the ESMF with local and
+provincial government representatives; representatives of stakeholders in local communities; and
+local NGOs. These consultations were held on February 14 and July 14, 2014. Minutes of
+stakeholder meetings, including measures proposed to address grievances, have been included as
+an Annex to the environmental safeguard instruments.
+Regarding indigenous peoples, the counterpart has conducted consultations of an IPPF with the
+CPI (Consejo de Participaci6n Indigena, Indigenous Participation Council), on August 14 and will
+incorporate their advice in the final document to be disclosed in SE's website and the Bank
+Infoshop.
+B. Disclosure Requirements
+Environmental Assessment/Audit/Management Plan/Other
+Date of receipt by the Bank                              29-Oct-2014
+Date of submission to InfoShop                           29-Oct-2014
+For category A projects, date of distributing the Executive
+Summary of the EA to the Executive Directors
+"In country" Disclosure
+Argentina                                                24-Oct-2014
+Comments: The EA can be downloaded from the following website: https://www.se.gob.ar/
+o                      contenidos/archivos/permer/MaGAS PERMER II.pdf
+Resettlement Action Plan/Framework/Policy Process
+Date of receipt by the Bank                              14-Nov-2014
+Date of submission to InfoShop                           14-Nov-2014
+"In country" Disclosure
+Argentina                                                14-Nov-2014
+Comments: The framework can be downloaded from the following website: https://www.se.gob.
+ar/contenidos/archivos/permer/MaGAS-Anexo%202%20(MPR).pdf
+Indigenous Peoples Development Plan/Framework
+Date of receipt by the Bank                              14-Nov-2014
+Date of submission to InfoShop                           14-Nov-2014
+"In country" Disclosure
+Argentina                                                14-Nov-2014
+Comments: This framework can be downloaded from the following website: https://www.se.gob.
+ar/contenidos/archivos/permer/MAGAS-Anexo%203(MPPI).pdf
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+Page 12 of 14
+
+
+﻿Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please explain why:
+C. Compliance Monitoring Indicators at the Corporate Level
+OP/BP/GP 4.01 - Environment Assessment
+O
+Does the project require a stand-alone EA (including EMP)  Yes [ X] No [  ]  NA [  ]
+report?
+If yes, then did the Regional Environment Unit or Practice  Yes [X] No [  ]  NA [  ]
+Manager (PM) review and approve the EA report?
+Are the cost and the accountabilities for the EMP incorporated Yes [ X] No [ ] NA [ ]
+in the credit/loan?
+OP/BP 4.04 - Natural Habitats
+Would the project result in any significant conversion or  Yes [  ] No [X]  NA [  ]
+degradation of critical natural habitats?
+If the project would result in significant conversion or  Yes [  ] No [  ]  NA [ X ]
+degradation of other (non-critical) natural habitats, does the
+project include mitigation measures acceptable to the Bank?
+OP/BP 4.11 - Physical Cultural Resources
+Does the EA include adequate measures related to cultural Yes [ X] No [ ] NA [ ]
+property?
+Does the credit/loan incorporate mechanisms to mitigate the  Yes [X] No [  ]  NA [  ]
+potential adverse impacts on cultural property?
+OP/BP 4.10 - Indigenous Peoples
+Has a separate Indigenous Peoples Plan/Planning Framework Yes [ X] No [ ] NA [ ]
+(as appropriate) been prepared in consultation with affected
+Indigenous Peoples?
+If yes, then did the Regional unit responsible for safeguards or Yes [ X ] No [ ] NA [ ]
+Practice Manager review the plan?
+If the whole project is designed to benefit IP, has the design  Yes [X] No [ ]  NA [  ]
+been reviewed and approved by the Regional Social
+Development Unit or Practice Manager?
+OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy framework/  Yes [ X] No [  ]  NA [  ]
+process framework (as appropriate) been prepared?
+If yes, then did the Regional unit responsible for safeguards or Yes [ X] No [  ]  NA [  ]
+Practice Manager review the plan?
+OP 7.50 - Projects on International Waterways
+Have the other riparians been notified of the project?  Yes [ X] No [  ]   NA [   ]
+If the project falls under one of the exceptions to the  Yes [  ] No [  ]  NA [ X ]
+notification requirement, has this been cleared with the Legal
+Department, and the memo to the RVP prepared and sent?
+Has the RVP approved such an exception?                Yes [  ] No [   ]   NA [ X ]
+Page 13 of 14
+
+
+﻿The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the Yes [ X] No [ ] NA [ ]
+World Bank's Infoshop?
+Have relevant documents been disclosed in-country in a public Yes [X]  No [  ]  NA [  ]
+place in a form and language that are understandable and
+accessible to project-affected groups and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional  Yes [ X] No [  ]  NA [  ]
+responsibilities been prepared for the implementation of
+measures related to safeguard policies?
+Have costs related to safeguard policy measures been included  Yes [X] No [  ]  NA [  ]
+in the project cost?
+Does the Monitoring and Evaluation system of the project  Yes [ X] No [   ]  NA [   ]
+include the monitoring of safeguard impacts and measures
+related to safeguard policies?
+Have satisfactory implementation arrangements been agreed  Yes [ X] No [  ]  NA [   ]
+with the borrower and the same been adequately reflected in
+the project legal documents?
+III. APPROVALS
+Task Team Leader:    Name: Lucia Spinelli
+Approved By
+Practice Manager/    Name: Malcolm Cosgrove-Davies (PMGR)       Date: 11-Dec-2014
+Manager:
+Page 14 of 14
+
+

@@ -1,0 +1,434 @@
+                               INTEGRATED SAFEGUARDS DATA SHEET
+                                               APPRAISAL STAGE
+.
+
+
+
+
+                                                                                        Report No.:ISDSA21738
+Date ISDSPrepared/Updated:                 27-Mar-2017
+Date ISDS Approved/Disclosed               26-Feb-2017
+I. BASIC INFORMATION
+    1. Basic Project Data
+    Country:                         Western Africa               Project ID:             P147921
+    Project Name:                    OMVS - TRANSMISSION EXPANSION PROJECT (P147921)
+    Task Team Leader(s):             Pedro E. Sanchez,Pedro E. Sanchez,Thierno Bah,Thierno Bah
+    Estimated Appraisal              22-Feb-2017                  Estimated Board         12-May-2017
+    Date:                                                         Date:
+    Managing Unit:                   GEE07                        Financing               Investment Project
+                                                                  Instrument:             Financing
+    Is this project processed under OP 8.50 (Emergency                  Recovery) or OP           No
+    8.00(Rapid Response to Crises and         Emergencies)?
+                                               Financing (In USD Million)
+    Total Project Cost:           103.00                       Total Bank Financing: 97.00
+    Financing Gap:                0.00
+      Financing Source                                                                                       Amount
+    BORROWER/RECIPIENT                                                                                          6.00
+    International Development Association (IDA)                                                                97.00
+    Financing Gap                                                                                               0.00
+    Total                                                                                                     103.00
+    Environmental Category:          B - Partial Assessment
+    Is this a Repeater project?      No
+
+    2. Project Development Objective(s)
+    The project development objective is to enhance electricity trade among Mali, Mauritania, and Senegal.
+    3. Project Description
+    the proposed project will finance the construction of a new transmission line and associated substations to
+    reinforce and extend the RIMA, the backbone of the OMVS regional power grid. The line will interconnect the
+    exiting substation Kayes in Mali to the Tambacounda Substation in Senegal that is part of the expanded WAPP
+    system. This line will provide additional capacity required to transmit the additional production in new power
+    stations in Mali and Mauritania, creating redundancy in the system to ensure the availability of supply through
+    the WAPP system in the event of reduced production in the RIMA system through connection to the OMVG
+    network. In addition, the project will finance the implementation of a Supervisory Control and Data Acquisition
+
+
+                                                    Page 1 of 8
+(SCADA) system, and technical assistance for project implementation.
+
+Component 1: RIMA Reinforcement and Expansion (US$91 million, of which IDA US$84 million equivalent).
+This component is comprised of the following subcomponents:
+
+• Subcomponent 1.1: Kayes-Tambacounda Transmission Line (US$79 million, of which IDA US$79 million
+equivalent). The IDA credit will finance the construction of a new 288 km long 225 kV double-circuit
+transmission line from Kayes (Mali) to Tambacounda (Senegal), with an estimated wheeling capacity of 400
+MW. The line earth system will be equipped with a fiber optic cable (24 pairs) and the equipment required to
+provide electricity access to villages along the route of the line. In order to connect the line to the system, the
+IDA credit will also finance two 225 KV bays, one at the existing substation at Kayes and one at the future
+substation at Tambacounda. The latter substation in under construction under the Bank co-financed OMVG
+Interconnection Project (P146830).
+
+• Subcomponent 1.2: SCADA System (US$12 million, of which IDA US$5 million equivalent and SOGEM
+US$7 million). The IDA credit will partially finance the implementation of a SCADA system for joint operation
+and coordination between the three OMVS national power utilities EDM, SENELEC, SOMELEC, and the
+OMVS Power System Operator by: (i) upgrading communication and data acquisition facilities to enable real-
+time information exchange with the load dispatching center at Manantali and the three national power utilities;
+and (ii) acquiring the necessary software licenses with relevant training to support optimization and scheduling
+of the combined hydro and thermal power generation capacity of the recipients. Currently, the dispatch is being
+done manually by the OMVS Power System Operator within SEMAF (the Manantali and Felou Management
+Company, subsidiary of SOGEM).
+
+Component 2: Technical Assistance (US$8 million, of which IDA US$8 million equivalent). The project will
+finance the contract of a consulting firm that will assist SOGEM in implementing the project, including
+assistance in the procurement process and undertaking the supervision of the works included under
+Subcomponent 1.1. In addition, this component will finance the implementation of the Environmental and
+Social Management Plan.
+4. Project location and Salient physical characteristics                  relevant to the safeguard analysis
+(if known)
+Landscapes affected between Kayes and Tambacounda and between Manantali and Kati near Bamako are
+composed mainly of scarce woody savannah. The identification of the right-of-way included criteria such as
+avoidance of protected areas and human settlements, etc. However, 4 protected forest areas in Senegal near
+Tambacounda could not be avoided. Forest losses will be compensated to achieve a zero net biodiversity loss
+5. Environmental and Social Safeguards Specialists on the                      Team
+ Robert A. Robelus( GEN05 )
+ Salamata Bal( GSU01 )
+6. Safeguard Policies That Might Apply
+Safeguard Policies                              Triggered?       Explanation (Optional)
+Environmental Assessment OP/BP 4.01             Yes              3. The project is categorized as environmental
+                                                                 assessment Category B under the Environmental
+                                                                 Assessment policy (OP/BP 4.01). An
+                                                                 Environmental and Social Impact Assessment
+                                                                 (ESIA) has been prepared covering all project
+                                                                 components, which has been consulted on and has
+
+
+                                                   Page 2 of 8
+                                             beeen disclosed in-country at the various project
+                                             sites and on the Bank’s Website prior to appraisal.
+                                             Though the right-of-way of the new transmission
+                                             lines are not yet completely delineated, the
+                                             landscapes they will cross do not host any sensitive
+                                             biophysical features or geographies which deem to
+                                             be of particular attention, with the exception of the
+                                             passage of the line through 4 protected forest areas
+                                             near Tambacounda in Senegal. For this reason, the
+                                             Natural Habitats and Forest Policies are triggered.
+                                             The lost forest area will be compensated so that
+                                             there is zero net loss of biodiversity. Also, lessons
+                                             learned from recent transmission line projects in
+                                             similar socio-ecological contexts (Mali, Burkina
+                                             Faso, Senegal) suggest that the biophysical impacts
+                                             may be less significant than initially assessed as
+                                             part of the environment analysis. The
+                                             environmental impacts of the construction and
+                                             operation of the transmission lines is low. Special
+                                             care needs to be given to the Health & Safety
+                                             aspects during construction. There is no risk of
+                                             labor influx and no work camps will be used, since
+                                             the construction sites will move fast from site to
+                                             site. The main environmental, social, health and
+                                             safety risks will occur during construction of the
+                                             line. The World Bank Group General
+                                             Environmental, Health and Safety Guidelines of
+                                             April 2007 apply, as well the Electric Power
+                                             Transmission and Distribution EHS Guidelines.
+                                             SOGEM will establish a Grievance Mechanism for
+                                             communities and Contractor employees. Employees
+                                             need to sign a Code of Conduct, which will prohibit
+                                             misconduct of Contractor employees and which
+                                             prohibit employees among others to have sex with
+                                             minors (<18 years).
+                                             The Contractor will prepare his own Construction
+                                             Environmental and Social Management Plan
+                                             (CESMP) and a Health and Safety Plan. For this
+                                             purpose, the Contractor will employ staff with
+                                             international experience to prepare and implement
+                                             these plans. The Owner’s Engineer will have the
+                                             contractual obligation to supervise the adequate
+                                             implementation of the CESMP and H&S Plan and
+                                             employs for this purpose internationally
+                                             experienced staff.
+Natural Habitats OP/BP 4.04   Yes            The project passes through 4 protected forest areas
+                                             in Senegal, near Tambacounda. These forests are
+                                             not critical natural habitats, but natural habitats, this
+                                             triggers OP 4.04.
+
+
+                               Page 3 of 8
+Forests OP/BP 4.36                       Yes            The project passes through 4 protected forest areas,
+                                                        which was unavoidable. The forest losses will be
+                                                        compensated that so that the net result will be a
+                                                        zero biodiversity loss.
+Pest Management OP 4.09                  No             The OP 4.09 is not triggered as the project will not
+                                                        use pesticides for the maintenance of the right-of-
+                                                        way. The current practices for maintenance of the
+                                                        right of way of the transmission line and facilities
+                                                        have been reviewed for each country with respect to
+                                                        the use of pesticides, and the use of pesticides is not
+                                                        practiced.
+Physical Cultural Resources OP/BP 4.11   Yes            The project site is not located in a known
+                                                        archaeological or sacred areas. But, even though
+                                                        there will be no important civil works that would
+                                                        require the exploitation of new and/or large borrow
+                                                        pits, the policy is triggered to prevent any
+                                                        accidental loss and damage during construction. A
+                                                        comprehensive chance find procedure will be
+                                                        included in all Contractor contracts. This
+                                                        requirement is part of the ESMP.
+Indigenous Peoples OP/BP 4.10            No             Communities in the project area in the project
+                                                        countries, both within and along the transmission
+                                                        lines corridors, do not fall under the definition of
+                                                        indigenous people as stated under OP 4.10
+                                                        (paragraph 4 in defining indigenous peoples).
+Involuntary Resettlement OP/BP 4.12      Yes            The precise locations of the tower spots and
+                                                        alignment of the transmission lines are not yet
+                                                        determined, but land acquisition will be required for
+                                                        clearance of the right-of-ways. Therefore, a
+                                                        Resettlement Policy Framework (RPF) has been
+                                                        prepared and disclosed in-country and on the
+                                                        Bank’s Website before appraisal as required by OP
+                                                        4.12. The RPF includes a comprehensive
+                                                        consultation process. Once, when precise details of
+                                                        transmission line locations (alignment, locations for
+                                                        pylons, substations and other structures) are
+                                                        identified in the course of project preparation, a
+                                                        Resettlement Action Plan (RAP) will be prepared,
+                                                        disclosed and implemented. A socio economic
+                                                        study accompanied by a census of project affected
+                                                        people (PAPs) and assets will be carried out and
+                                                        will identify all adverse impacts associated with
+                                                        physical or economic loss and prepare
+                                                        compensation packages in compliance with OP
+                                                        4.12.
+Safety of Dams OP/BP 4.37                No             The safety of dam policy is not triggered. The
+                                                        project is only financing construction of the
+                                                        transmission line infrastructure as well as some
+
+                                          Page 4 of 8
+                                                                   communication and data acquisition facilities and
+                                                                   software. None of these activities will involve the
+                                                                   use or pollution of international waterways.
+    Projects on International Waterways OP/BP No                   The Safeguard Policy of Projects on International
+    7.50                                                           Waterways is not triggered. The project is only
+                                                                   financing construction of the transmission line
+                                                                   infrastructure as well as some communication and
+                                                                   data acquisition facilities and software. None of
+                                                                   these activities will involve the use or potential
+                                                                   pollution of international waterways.
+    Projects in Disputed Areas OP/BP 7.60          No              None of the project components will be located in a
+                                                                   disputed area.
+.
+
+
+
+
+    II. Key Safeguard Policy Issues and Their Management
+    A. Summary of Key Safeguard Issues
+    1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe
+    any potential large scale, significant and/or irreversible impacts:
+    Though the right-of-ways of the new transmission line is not yet delineated, the landscapes they will cross do
+    not host any sensitive biophysical or geographic features, which deem to be of particular attention, with the
+    exception of the 4 protected forest areas in Senegal near Tambacounda. Also, lessons learned from recent
+    transmission line projects in similar socio-ecological contexts (Mali, Burkina, Senegal) suggest that negative
+    biophysical impacts appeared less significant than feared initially during environment analysis. As a result, the
+    project is proposed to be category B.
+
+    An Environmental and Social Impact Assessment study (ESIA) and a Resettlement Policy Framework (RPF)
+    have been prepared to provide a transparent and standard process for the identification and screening of
+    environmental and social impacts associated with the transmission line and elaborate mitigation measures to
+    manage these impacts.
+
+    The RPF for the project specifies the principles and procedures to be followed in case land acquisition, physical
+    involuntary relocation of project affected people (PAPs), loss of assets or access to assets is needed. The ESIA
+    and the RPF have been publicly disclosed prior to appraisal in the 3 countries (Mali, Mauritania and Senegal)
+    and on the Bank’s Website.
+    2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the
+    project area:
+    There are no serious potential indirect or long term impacts caused by the project.
+    3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+    The selection of the right-of-way included criteria to avoid sensitive habitat and avoid villages. It was not
+    possible to avoid the 4 protected forest areas near Tambacounda. The lost forest area will be compensated so
+    that the net result will a zero loss of biodiversity.
+    4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of
+    borrower capacity to plan and implement the measures described.
+    The OMVS in Dakar has a Sustainable Development Direction and Social Safeguard Unit, staffed with two
+    skillful and experienced personnel, and fairly equipped for the preparation and/ implementation of safeguard
+    instruments including those required under the Bank policies. For instance, they have prepared and
+
+
+                                                     Page 5 of 8
+   implemented, in acceptable manner, environmental and social management framework, resettlement policy
+   framework, environmental and social impact assessment, resettlement action plan, pest and pesticides
+   management plan and environmental audit of several projects funded by the Bank (Felou Hydropower, MWRD1
+   and the ongoing MWRD2) and the GEF supported Senegal River Basin Water and Environmental Management
+   project. Therefore, the capacity of the Sustainable Development Unit of the OMVS in Dakar has been
+   strengthened under these operations. However, this Unit has no capacity to carry out the day to day supervision
+   of construction activities. This role should be the responsibility of the Owner’s Engineer.
+
+   In contrast, the capacity of member countries environmental agencies that have the responsibility to oversee the
+   implementation of the ESMPs and RAPs is weak. The Project Implementing Entity (SOGEM) will establish an
+   Environmental, Social, Health and Safety Unit (ESHSU) composed of qualified experts including the
+   Coordinator of the unit (C-ESHSU), the environmental, health and safety specialist (EHS-S) and the social and
+   resettlement specialist (SR-S). This team will have the overall responsibility for the environmental, social,
+   health and safety aspects during construction and operation. A highly qualified consultant with international
+   experience will be recruited to provide support to the SOGEM team. The Bank has approved the Terms of
+   Reference for this specialist. In case of a serious accident the Bank needs to be notified within 24 hours
+
+   The RPF and ESIA/ESMP detail the potential risks of adverse environmental, social, health and safety impacts
+   associated with the transmission line that will be supported by the project. They provide detailed arrangements
+   and modalities to ensure an in-depth screening of activities and mitigation measures.
+   5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on
+   safeguard policies, with an emphasis on potentially affected people.
+   Stakeholders include those from Local and Central Government in Mali, and Senegal, including Line Ministries
+   associated with the project, OMVS National Cells, Civil Society Organization, PAPs, communities, etc.
+
+   As part of the preparation of the safeguard policy instruments (ESIA and RPF) public consultations were carried
+   out in the different project areas in compliance with national and World Bank safeguard policies. Preparation of
+   the safeguard instruments involved consultation with the relevant stakeholder groups in the public, civil society,
+   agriculture groups and affected communities in Tambacounda (Senegal) and Kayes (Mali). A validation
+   workshop to discuss the 2 safeguards studies has been organized in Bamako.
+   .
+
+
+
+
+B. Disclosure Requirements
+Environmental Assessment/Audit/Management Plan/Other
+Date of receipt by the Bank                                             17-Dec-2016
+Date of submission to InfoShop                                          30-Jan-2017
+For category A projects, date of distributing the Executive
+Summary of the EA to the Executive Directors
+"In country" Disclosure
+PHENVCTRY
+
+
+
+
+   Mali                                                                           30-Jan-2017
+   Comments:
+PHENVCTRY
+
+
+
+
+   Senegal                                                                        30-Jan-2017
+   Comments:
+   Resettlement Action Plan/Framework/Policy Process
+   Date of receipt by the Bank                                          10-Jan-2017
+   Date of submission to InfoShop                                       30-Jan-2017
+   "In country" Disclosure
+PHRESCTRY
+
+
+
+
+   Mali                                                                            30-Jan-2017
+
+                                                    Page 6 of 8
+ Comments:
+PHRESCTRY
+
+
+
+
+ Senegal                                                                    30-Jan-2017
+ Comments:
+ If the project triggers the Pest Management and/or Physical Cultural Resources policies, the respective
+issues are to be addressed and disclosed as part of the Environmental Assessment/Audit/or EMP.
+ If in-country disclosure of any of the above documents is not expected, please explain why::
+
+
+
+C. Compliance Monitoring Indicators at the Corporate Level
+PHCompliance
+
+
+
+
+ OP/BP/GP 4.01 - Environment Assessment
+ Does the project require a stand-alone EA (including EMP)        Yes [X]   No []       NA          []
+ report?
+ If yes, then did the Regional Environment Unit or Practice       Yes [X]   No []       NA          []
+ Manager (PM) review and approve the EA report?
+ Are the cost and the accountabilities for the EMP                Yes [X]   No []       NA          []
+ incorporated in the credit/loan?
+PHCompliance
+
+
+
+
+ OP/BP 4.04 - Natural Habitats
+ Would the project result in any significant conversion or        Yes []    No [X]      NA          []
+ degradation of critical natural habitats?
+ If the project would result in significant conversion or         Yes []    No []       NA          [X]
+ degradation of other (non-critical) natural habitats, does the
+ project include mitigation measures acceptable to the Bank?
+PHCompliance
+
+
+
+
+ OP/BP 4.11 - Physical Cultural Resources
+ Does the EA include adequate measures related to cultural        Yes [X]   No []       NA          []
+ property?
+ Does the credit/loan incorporate mechanisms to mitigate the      Yes [X]   No []       NA          []
+ potential adverse impacts on cultural property?
+PHCompliance
+
+
+
+
+ OP/BP 4.12 - Involuntary Resettlement
+ Has a resettlement plan/abbreviated plan/policy                  Yes [X]   No []       NA          []
+ framework/process framework (as appropriate) been
+ prepared?
+ If yes, then did the Regional unit responsible for safeguards    Yes [X]   No []       NA          []
+ or Practice Manager review the plan?
+ Is physical displacement/relocation expected?                    Yes []    No []       TBD         [X]
+ Is economic displacement expected? (loss of assets or access     Yes []    No []       TBD         [X]
+ to assets that leads to loss of income sources or other means
+ of livelihoods)
+PHCompliance
+
+
+
+
+ OP/BP 4.36 - Forests
+ Has the sector-wide analysis of policy and institutional         Yes [X]   No []       NA          []
+ issues and constraints been carried out?
+ Does the project design include satisfactory measures to         Yes [X]   No []       NA          []
+ overcome these constraints?
+ Does the project finance commercial harvesting, and if so,       Yes []    No [X]      NA          []
+ does it include provisions for certification system?
+PHCompliance
+
+
+
+
+ The World Bank Policy on Disclosure of Information
+ Have relevant safeguard policies documents been sent to the      Yes [X]   No []       NA          []
+ World Bank's Infoshop?
+ Have relevant documents been disclosed in-country in a           Yes [X]   No []       NA          []
+
+                                                 Page 7 of 8
+          public place in a form and language that are understandable
+          and accessible to project-affected groups and local NGOs?
+PHCompliance
+
+
+
+
+          All Safeguard Policies
+          Have satisfactory calendar, budget and clear institutional    Yes [X]     No []       NA         []
+          responsibilities been prepared for the implementation of
+          measures related to safeguard policies?
+          Have costs related to safeguard policy measures been          Yes [X]     No []       NA         []
+          included in the project cost?
+          Does the Monitoring and Evaluation system of the project      Yes []      No []       NA         [X]
+          include the monitoring of safeguard impacts and measures
+          related to safeguard policies?
+          Have satisfactory implementation arrangements been agreed     Yes [X]     No []       NA         []
+          with the borrower and the same been adequately reflected in
+          the project legal documents?
+
+
+         III. Approval
+         Task Team Leader(s):                  Name:Pedro E. Sanchez,Pedro E. Sanchez,Thierno Bah,Thierno Bah
+         Approved By:
+         Safeguards Advisor:                   Name: Maman-Sani Issa (SA)         Date: 20-Apr-2017
+         Practice Manager/Manager:             Name: Manuel Luengo (PMGR)         Date: 10-May-2017
+
+
+
+
+                                                         Page 8 of 8
+

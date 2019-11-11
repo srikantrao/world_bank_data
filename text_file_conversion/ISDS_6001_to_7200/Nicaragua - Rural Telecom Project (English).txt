@@ -1,0 +1,418 @@
+Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+I.  Basic Information
+ 
+Date prepared/updated:  01/10/2006 
+Report No.:  AC2042
+1. Basic Project Data  
+ 
+Country:  Nicaragua 
+Project ID:  P089989 
+Project Name:  Nicaragua Rural Telecom 
+Task Team Leader:  Eloy Eduardo Vidal 
+Estimated Appraisal Date: December 30, 
+2005 
+Estimated Board Date: March 16, 2006 
+Managing Unit:  CITPO 
+Lending Instrument:  Specific Investment 
+Loan 
+Sector:  Telecommunications (90%);Postal services (10%) 
+Theme:  Rural services and infrastructure (P);Regulation and competition policy (S);State 
+enterprise/bank restructuring and privatization (S) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+7.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER/RECIPIENT 
+0.00 
+ Financing 
+Gap 
+3.00
+3.00 
+Environmental Category: C - Not Required 
+Simplified Processing 
+Simple [] 
+Repeater [] 
+Is this project processed under OP 8.50 (Emergency Recovery) 
+Yes [ ] 
+No [X] 
+2. Project Objectives 
+This project has two principal objectives that build on the foundations established by a 
+previous Bank project.  
+ 
+The first objective is to increase investments in and access to telecommunications 
+infrastructure, including public payphones, increased coverage of cellular telephones and 
+the Internet, in rural areas in Nicaragua. A significant percentage of Nicaraguans living in 
+rural areas will gain access to telecommunication services for the first time and at lower 
+cost as a result of this project. This will enable telecommunications and Information and 
+Communications Technologies (ICTs) to become a driver for sustainable economic 
+growth and enable the government to use ICTs to provide decentralized government 
+services, including education, in rural areas in Nicaragua.  Furthermore this project will 
+increase private sector investment in rural areas, increase the economic and social 
+integration of Nicaragua and increase the competitiveness of Nicaragua’s economy. This 
+project will expand Nicaragua’s telecommunications infrastructure by using international 
+best practice output-based-aid (OBA) mechanisms to competitively award funds to 
+private sector companies that build the infrastructure targeted by this project.  
+Page  2
+The second objective is to assist the transition from a monopoly to a competitive market 
+by strengthening the sector regulator to enable it to become more effective and 
+transparent balancing the needs and interests of suppliers, operators, consumers and the 
+state.   This project will accomplish this objective by helping the sector regulator to 
+restructure and update the legal and regulatory framework and institutions to take into 
+account the end of the incumbent’s exclusivity as well as market and technological 
+innovations.   Furthermore, this project will provide technical assistance on key 
+regulatory issues and will provide training to the sector regulator.  This project will also 
+assist the GON to ensure that the transition to a multi-sector regulatory agency will not 
+hinder liberalization, increased competition or implementation of effective universal 
+access programs in the telecommunications sector.  
+ 
+Key Performance Indicators  
+ 
+•
+Increase in the number of minutes of use of telephone service  
+ 
+•
+Increase in the number of hours of use of Internet access.  
+ 
+•
+Reduction in the average distance that residents in rural Nicaragua have to travel to the 
+nearest public telephone.  
+ 
+•
+Reduction in the price of international calls due to increased competition.   
+ 
+3. Project Description 
+The Project, at a total cost of $10.2 million, will allocate US$7 million of IDA funds to 
+the following components:  
+ 
+(a) Component 1: Rural Access  
+ 
+This $7.9 million component (IDA financing $5.3 million) will co-finance the proposed 
+FITEL project. This component will use competitive OBA mechanisms, such as those 
+used for the first two FITEL rural access projects, to award and allocate funds that will 
+enable private sector operators to build, own and operate on a commercially-sustainable 
+basis the ICT infrastructure that will be established in rural communities as a result of 
+this project.  
+ 
+This component will have two subcomponents that taken together seek to stimulate the 
+demand and supply of telephones and broadband Internet services in underserved rural 
+communities. The first subcomponent will provide at least one public payphone in 347 
+rural communities with populations greater than 400 inhabitants not covered by the first 
+two FITEL projects.  The direct beneficiaries of this initiative will be more than 346,934 
+people that, according to the 1995 census, live in these unserved rural communities. This 
+project will double the number of rural communities with populations greater than 400 
+people that have public payphones.  As a result of this component and the prior FITEL 
+projects, nearly 70% of Nicaragua’s  rural communities with populations greater than 400 
+people will have at least one public payphone.  This subcomponent will also create 
+incentives for the private operators to increase the coverage of mobile networks that will 
+enable more public entities (including national and municipal government institutions), 
+individual consumers and business to become individual phone subscribers.  
+ 
+Page  3
+The second subcomponent will establish a pilot telecenter in one secondary school in 
+each of the 103 municipal heads that currently lack Internet access and that are covered 
+by this project as well as 103 Internet points of presence (Internet POP) in the same 
+municipal heads. The 103 Internet POPs and 103 pilot telecenters in schools will enable 
+nearly 830,000 people (16% of Nicaraguans) to access the Internet in their rural 
+municipalities for the first time.  A recent FITEL study and information provided by the 
+Ministry of Hacienda and Credito Publico (MHCP) found that many government 
+officials, individuals and business in rural communities travel to other municipalities in 
+order to connect to the Internet in order to communicate or carry out transactions.   This 
+component will enable Nicaraguans living and working in rural communities to stay in 
+their communities in order to use the Internet and carry out online transactions.  
+ 
+The 103 pilot school telecenters that will be established by this project will enable the 
+public-at-large, ministries, municipalities, local businesses and NGOs to access the 
+Internet on a shared community basis.  The 103 pilot telecenters will be located in public 
+secondary schools that will be selected by the Ministry of Education, Culture and Sports 
+(MECD). The MECD and TELCOR will enter into an agreement aimed at ensuring the 
+sustainability of the pilot school telecenters and that will define the roles and 
+responsibilities of each institution as well as that of the private sector operator that will 
+provide the connectivity to the Internet. The private sector operator that wins the OBA 
+tender, for example, will be required to provide each pilot telecenter with 10 computers, a 
+local area network (LAN) as well as connectivity to the Internet for the pilot telecenter 
+for one year without charging any fees.  After the first year, the MECD and school will 
+be responsible for paying for Internet connectivity costs at regulated rates that will be far 
+lower than the monthly rate of $725 that MECD is currently charged for Internet 
+connectivity.  The pilot school telecenters subcomponent is also designed to dovetail and 
+complement several ongoing MECD e-education initiatives.  
+ 
+The 103 Internet POPs established by this project will enable approximately 704 public 
+entities (including offices of all ministries and municipalities), NGOs, businesses 
+(including commercial telecenters/cyber-cafes) and individual consumers in the 103 
+municipal heads that currently lack affordable access to the Internet to connect to the 
+Internet from their homes or offices at regulated rates far lower than the monthly rates of 
+$400 to $725 that they are currently paying for Internet access.  Several ministries have 
+indicated an interest and ability to become clients of the Internet POPs given their lower 
+connection costs.  
+ 
+(b) Component 2: Regulatory Capacity Strengthening  
+ 
+This US$814,000 component (IDA financing US$664,000) will have three 
+subcomponents. The first subcomponent will finance US$464,000 (IDA financing 
+US$364,000) to strengthen the institutional capacity of the sector regulator. This 
+subcomponent would also provide technical assistance to help re-organize the regulator, 
+carry out strategic planning, and to identify hiring needs/profiles in terms of qualified 
+economists, financial experts, and attorneys. It will also be used to obtain technical 
+assistance and provide TELCOR with resources to enable TELCOR to carry out 
+additional detailed pre-feasibility studies to design additional projects and prepare tender 
+Page  4
+documents for additional projects. The second subcomponent will finance US$150,000 
+(IDA financing US$100,000) in a training program for the sector regulator staff.  This 
+subcomponent would finance local training, by bringing experts from outside the country 
+to Nicaragua to dictate courses to the Regulator staff, and also to send key staff from the 
+Regulator to training courses abroad. The third subcomponent will provide US$200,000 
+(IDA financing (US$200,000) to finance Internet applications and capacity-building for 
+other public institutions (such as the Ministry of Education, Ministry of Agriculture and 
+Ministry of Finance and Public Credit) that will take advantage of the fact that rural 
+communities will gain access to the Internet as a result of the first component of this 
+project.  The Internet applications and capacity-building activities will be chosen by 
+TELCOR based on proposals made by the Ministries of Education, Health, Agriculture, 
+Finance, NGOs as well as by municipal governments. TELCOR has identified a number 
+of existing government educational, health, finance and e-government initiatives that will 
+benefit from this program as a result of the improved Internet connectivity in rural and 
+low income communities.  
+ 
+(c) Component 3.  Project Management This component will allocate $500,000 for 
+Project Management and Implementation (IDA financing $400,000).  
+ 
+Project Location: (Geographic location, information about the key environmental and 
+social characteristics of the area and population likely to be affected, and proximity to 
+any protected areas, or sites or critical natural habitats, or any other culturally or socially 
+sensitive areas.)  
+ 
+This is a National Project with specific locations for projects to be determined during 
+project preparation. Such locations will include rural areas of Nicaragua currently without 
+telecommunications service.   
+ 
+4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis 
+This is a National Project with specific locations for projects to be determined during 
+project preparation. Such locations will include rural areas of Nicaragua currently without 
+telecommunications service.   
+ 
+5. Environmental and Social Safeguards Specialists 
+Mr Roberto Gabriel Aiello (ENVCF) 
+Mr Alonso Zarzar Casis (LCSEO) 
+ 
+Page  5
+6. Safeguard Policies Triggered
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+X
+Natural Habitats (OP/BP 4.04) 
+ X 
+Forests (OP/BP 4.36) 
+ X 
+Pest Management (OP 4.09) 
+ X 
+Cultural Property (OPN 11.03) 
+ X 
+Indigenous Peoples (OP/BP 4.10) 
+ X 
+Involuntary Resettlement (OP/BP 4.12) 
+ X 
+Safety of Dams (OP/BP 4.37) 
+ X 
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X 
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts: 
+An environmental screening framework has been completed and has been found 
+satisfactory to the Bank.  It includes the potential impacts for both the construction and 
+operation phases of rural telecommunications facilities, as well as the mitigation plan and 
+guidelines to be followed during construction and operation of the towers.   
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+Environmental impacts of the Nicaragua Rural Telecom Project are expected to be well 
+manageable given the type of planned interventions under this project.  The project 
+includes provisions to ensure that potential impacts, including induced and cumulative 
+impacts are assessed and mitigated in accordance with the Bank’s safeguard policies.  An 
+environmental screening framework has been prepared by means of which Environmental 
+Management Plans (EMPs) will be developed and followed for each investment activity 
+during implementation.  EMPs will be developed as an inherent part of the preparation of 
+each transaction, and its conclusions and recommendations will be integrated into the 
+contracts with private sector providers that will be responsible to install, operate and 
+maintain the telecommunications systems. Development of EMPs will follow guidelines 
+provided in the Guidebooks prepared under the Environmental Assessment.  
+ 
+The GoN has also prepared a Social Assessment (SA) which includes the following: (i) 
+executive summary, (ii) methodology, (iii) analysis of regulatory framework with respect 
+to indigenous populations, (iv) survey to all communities involved in the Project and field 
+trips description, (v) matrix of social impacts (vi) results of social impacts, (vii) 
+conclusions and recommendations, and (viii) a Social Framework and Communications 
+Manual for Populations near the Installations of Antennas to ensure that any Bank-
+supported civil works comply with the safeguard policies.  
+ 
+The study had overall satisfactory results, which include some of the following:  
+ 
+Page  6
+a) 
+The people surveyed considered that telecommunications services is a real need 
+and will reduce significant costs;  
+ 
+b)
+Almost all of the people surveyed considered that the installation of antennas 
+were harmless (only 1% considered it prejudicial but could not explain why);  
+ 
+c) 
+No indigenous communities were identified as potentially been affected by the 
+Project;  
+ 
+The social impacts derived from the Project can be managed adequately during the 
+phases of design, construction and operation, following the Social Framework and 
+Communications Manual developed in the SA.   
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts. 
+Not applicable.   
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide 
+an assessment of borrower capacity to plan and implement the measures described. 
+The borrower in collaboration with the project preparation team (including consultants) 
+has prepared the appropriate Action plan/safeguard framework documents, which will be 
+revised and finalized during the project appraisal period. The recommended and agreed 
+follow-up activities as stated in the Project Operational Manual would be implemented 
+during the project life. At each supervision mission stage and mid-term review stage the 
+process would be reevaluated and necessary adjustments will also be made as appropriate 
+to the prevalent conditions.  
+ 
+The safeguard documents include:  
+ 
+a. Environmental Management Framework (EMF), including a Guidebook for the 
+Construction and Installation of antennas; and  
+ 
+b.
+Social Framework and Communications Manual.  
+ 
+The project management unit will prepare the Operational Manual that describes in 
+detail the approach to implementation of the above mentioned frameworks. The project 
+implementation team and the Expert Panel is expected to have the capacity to screen 
+subprojects at the calls for proposal stage, mid-term, and post implementation stage in 
+line with the safeguard policies of the Bank. In addition, the safeguards budget make 
+provisions to use the services of safeguard specialists/thematic specialists as consultants 
+to the project.  When needed, the project would draw on additional local and international 
+expertise for each of the technical components.   
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+The EA report has been disclosed at the local level and can be found in TELCOR’s web 
+site.  It has also been disclosed at the WB’s Infoshop in Washington DC.  
+ 
+Page  7
+To carry out the EA, a multidisciplinary team has been formed, with the support of 
+TELCOR’s legal adviser.  Social surveys were carried out with 4 people in each 
+municipality determined for the EA (San Juan de Cinco Pinos, El Pellizco Occidental, 
+Comunidad el Sol, Santa Lucia–Las Mercedes, San JosÃ© de los Remates, Altagracia). 
+Before this, a meeting was held with all team members to coordinate and understand the 
+Study’s social and environmental objectives. Much of the baseline information was 
+provided by municipal mayors, and the rest was collected in the field. The baseline 
+information provided by the mayors was updated.  
+ 
+Interviews were held with mayors, vice-mayors, administrators, and project technicians, 
+authorities, and people in urban and rural communities, randomly selected (an average of 
+30 people were interviewed in each locality).  Consultation workshops will be carried out 
+locally in the areas of influence of each subproject on an individual basis.   
+ 
+B. Disclosure Requirements Date
+ 
+Environmental Assessment/Audit/Management Plan/Other: 
+Date of receipt by the Bank 
+05/31/2005 
+ 
+Date of "in-country" disclosure 
+10/31/2005 
+ 
+Date of submission to InfoShop 
+01/10/2006 
+ 
+For category A projects, date of distributing the Executive 
+Summary of the EA to the Executive Directors 
+ 
+*
+If the project triggers the Pest Management, Cultural Property and/or the Safety 
+of Dams policies, the respective issues are to be addressed and disclosed as part of 
+the Environmental Assessment/Audit/or EMP. 
+If in-country disclosure of any of the above documents is not expected, please 
+explain why: 
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the 
+ISDS is finalized by the project decision meeting) 
+ 
+OP/BP/GP 4.01 - Environment Assessment 
+ 
+Does the project require a stand-alone EA (including EMP) report? 
+Yes 
+If yes, then did the Regional Environment Unit or Sector Manager (SM) 
+review and approve the EA report? 
+Yes 
+Are the cost and the accountabilities for the EMP incorporated in the 
+credit/loan? 
+Yes 
+The World Bank Policy on Disclosure of Information 
+ 
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+Yes 
+Have relevant documents been disclosed in-country in a public place in a 
+form and language that are understandable and accessible to project-affected 
+groups and local NGOs? 
+Yes 
+Page  8
+All Safeguard Policies 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities 
+been prepared for the implementation of measures related to safeguard 
+policies? 
+Yes 
+Have costs related to safeguard policy measures been included in the project 
+cost? 
+Yes 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures related to safeguard policies? 
+Yes 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+Yes 
+D. Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Mr Eloy Eduardo Vidal 
+01/20/2006 
+Environmental Specialist: 
+Mr Roberto Gabriel Aiello 
+01/09/2006 
+Social Development Specialist 
+Mr Alonso Zarzar Casis 
+01/09/2006 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+ 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+ 
+ 
+Comments:   
+Sector Manager: 
+Mr Peter L. Smith 
+01/10/2006 
+Comments:   

@@ -1,0 +1,423 @@
+                                                INTEGRATED SAFEGUARDS DATA SHEET
+                                                        APPRAISAL STAGE
+                                                                                               Report No.: ISDSA1112
+Public Disclosure Copy
+
+
+
+
+                         Date ISDS Prepared/Updated: 31-Jan-2015
+                         Date ISDS Approved/Disclosed: 02-Feb-2015
+                         I. BASIC INFORMATION
+                            1. Basic Project Data
+
+                            Country:           Armenia                           Project ID:    P146199
+                            Project Name:      Electricity Transmission Network Improvement Project (P146199)
+                            Task Team          Artur Kochnakyan
+                            Leader(s):
+                            Estimated          26-Jan-2015                       Estimated   30-Mar-2015
+                            Appraisal Date:                                      Board Date:
+                            Managing Unit:     GEEDR                             Lending     Investment Project Financing
+                                                                                 Instrument:
+                            Sector(s):         Transmission and Distribution of Electricity (100%)
+                            Theme(s):         Infrastructure services for private sector development (80%), Other urban
+                                              development (20%)
+                            Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+                            8.00 (Rapid Response to Crises and Emergencies)?
+                            Financing (In USD Million)
+Public Disclosure Copy
+
+
+
+
+                            Total Project Cost:      69.16           Total Bank Financing:                 52.00
+                            Financing Gap:            0.00
+                              Financing Source                                                                       Amount
+                              Borrower                                                                                 17.16
+                              International Bank for Reconstruction and Development                                    52.00
+                              Total                                                                                    69.16
+                            Environmental B - Partial Assessment
+                            Category:
+                            Is this a          No
+                            Repeater
+                            project?
+
+                            2. Project Development Objective(s)
+                           The proposed project development objectives (PDO) are to improve the reliability of the power
+                           transmission network and system management, and support the Government efforts in ensuring
+                           adequate electricity supply
+                            3. Project Description
+
+
+                                                                       Page 1 of 8
+                         The project will have three components:
+
+                         Component 1: Strengthening of the power transmission network. This component will finance:
+Public Disclosure Copy
+
+
+
+
+                         Sub-component 1.1: Rehabilitation of Ashnak substation of High Voltage Electric Networks
+                         (HVEN). This sub-component will help reducing the number of equipment failures caused by
+                         technical reasons, and, thus, improve the reliability of power transmission network. This 220/110/10
+                         kV substation is essential for ensuring reliable power supply to consumers in Eastern and North-
+                         Eastern parts of Armenia, including a large dairy products company, an asphalt plant, and a diamond
+                         polishing and jewelry production factory, which employ around 3,500 people.
+
+                         This sub-component will finance replacement of all key plant and equipment in the substation,
+                         including, but not limited to: complete rehabilitation of 220 kV OSY and 110 kV OSY; replacement
+                         of main transformers; complete rehabilitation of 10 kV cubicles and the associated building;
+                         installation of the Supervisory Control and Data Acquisition System (SCADA) and replacement of
+                         protection relays, replacement of house transformers; and construction of a new building for control
+                         rooms. HVEN will implement this sub-component.
+
+                         Sub-component 1.2: Rehabilitation of YTPC’s substation. This sub-component will help reducing the
+                         incidence of equipment failures at 220/110/35 kV YTPC substation. The substation is used for
+                         evacuation of electricity from the modern and efficient CCGT plant with 240 MW of installed
+                         capacity. The existing CCGT plant at YTPC accounts for 20 percent of the total annual electricity
+                         generation in the country. Therefore, it is essential for ensuring adequate and low-cost electricity
+                         supply to all of the 1,040,000 electricity consumers in the country.
+
+                         This sub-component will finance replacement of all key plant and equipment in the substation,
+                         including, but not limited to: rehabilitation and expansion of 220 kV Open Switchyard (OSY) and
+                         rehabilitation of 110 kV OSY; installation of new main transformers; installation of SCADA and
+Public Disclosure Copy
+
+
+
+
+                         replacement of protection relays; construction of a new building for control rooms in OSY;
+                         reconnection of disconnected OTLs required for evacuation of power from YTPC. YTPC will
+                         implement this sub-component
+
+                         Sub-component 1.3: Project implementation support to HVEN. This will include support in technical
+                         supervision of rehabilitation works at Ashnak substation.
+
+                         Sub-component 1.4: Project implementation support to YTPC. This will include support in technical
+                         supervision and safeguards compliance of rehabilitation works at YTPC substation.
+
+                         Component 2: Improvement of the power system management. This component will finance:
+
+                         Sub-component 2.1: Establishment of a back-up dispatch center. Establishment of a back-up dispatch
+                         center will allow improving the management of the power system. Specifically, it is important for
+                         ensuring continuous management and control of the power system in case the primary dispatch
+                         center (located in down-town Yerevan) fails due to technical or other reasons. In 2012-2014, the
+                         primary dispatch power system was down an average of 22 minutes per year.
+
+                         The back-up dispatch center will allow to immediately restoring the control and management of the
+                         power system in case of such failure. If the operation and management of the system is not restored,
+
+
+                                                                     Page 2 of 8
+                         then it may jeopardize reliability of power system operation, which may cause electricity supply
+                         outages. The proposed back-up dispatch center will be located in an existing building owned by the
+                         MENR.
+Public Disclosure Copy
+
+
+
+
+                         This sub-component will finance renovation of the interior space, procurement and installation of the
+                         mimic board, primary and back-up servers, fiber-optic connection with the nearest Haghtanak
+                         substation, and other civil works and equipment required for a back-up dispatch center. HVEN will
+                         implement this sub-component.
+
+                         Sub-component 2.2: Construction of a new administrative building for HVEN. Construction of a new
+                         administrative building will enable HVEN to improve the efficiency of its operations because current
+                         administrative building has a very limited space with an average office area of 5 square meters per
+                         person (no overstaffing at HVEN) and limited space for transmission system control and
+                         management systems. This results in overcrowded offices and low productivity, which impacts the
+                         efficiency of operations.
+
+                         The construction of administrative building will be done on an existing land plot belonging to HVEN
+                         nearby the existing administrative building. It will include construction of 3-4 story building to
+                         provide enough space for staff, equipment, and other functions. HVEN will implement this sub-
+                         component. Specifically, HVEN will finance from its own funds preparation of the design, bills of
+                         quantities, and bidding documents for the works. The loan proceeds will be used to finance only the
+                         construction works and purchase of office equipment and accessories.
+
+                         Component 3: Preparation of a new electricity generation project. This component will finance:
+
+                         Sub-component 3.1: Preparation of a new CCGT project. The power system will need around 500
+                         MW of new gas-fired generation capacity to preclude the emergence of a supply capacity gap by
+                         2020. The new CCGT is part of the Government’s least-cost power supply plan until 2030. The
+                         Government plans to construct the new CCGT with private sector involvement, which will require a
+Public Disclosure Copy
+
+
+
+
+                         number of preparatory activities for which no financing is available.
+
+                         This sub-component will include support for preparation of a bankable feasibility study,
+                         environmental and social impact assessment, transaction advisory and other technical assistance
+                         required for preparation of a new CCGT project. YTPC will implement this sub-component.
+
+                         Sub-component 3.2: Project audit. This will include financing of project audits. HVEN will be
+                         responsible for the selection of the auditor. Consolidation of the project annual financial statements
+                         to be audited will be made by HVEN based on inputs provided by YTPC.
+                          4. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+                         (a) YTPC substation: The substation is located on the territory of the YTPC and the territory of the
+                         substation is fenced. The substation is accessible from the road which passes nearby the YTPC. The
+                         land around the substation carries no vegetation. There is limited agricultural activity to the East of
+                         the substation.
+
+                         (b) Ashnak substation: The substation is located nearby the city of Talin in the Aragatsotn marz
+                         (region) and is critical for ensuring reliable power supply to customers in Western and North-
+                         Western parts of Armenia. The territory of the substation is fenced. It is accessible by a main road,
+
+
+                                                                       Page 3 of 8
+                         which passes nearby the facility. The vehicles can enter the substation using the small road
+                         specifically constructed for accessing the substation from the main road. The land around the
+                         substation is used for agricultural activities.
+Public Disclosure Copy
+
+
+
+
+                         (c) Back-up dispatch center of Electric Power System Operator. The main part of the premises to be
+                         provided for the back-up center is on the second floor of an existing building in the city of Yerevan.
+                         An additional small structure will be constructed adjacent to the existing building within the territory
+                         around it which is fenced and has an access road from a free-way.
+
+                         (d) Administrative building of HVEN: The new building will be located near the existing
+                         headquarters of HVEN in the city of Yerevan. The land plot for the potential new building is already
+                         owned by HVEN and is fenced across the circumference.
+                         5. Environmental and Social Safeguards Specialists
+                         Darejan Kapanadze (GENDR)
+                         Jennifer Shkabatur (GSURR)
+                         Sarah G. Michael (GSURR)
+
+                         6. Safeguard Policies             Triggered? Explanation (Optional)
+                         Environmental Assessment          Yes             The project is not expected to have significant
+                         OP/BP 4.01                                        irreversible impact on the natural environment,
+                                                                           because proposed works will be undertaken within
+                                                                           the footprint of the existing infrastructure. The main
+                                                                           risk associated with the rehabilitation of power
+                                                                           substations is related to the generation of hazardous
+                                                                           waste. Environmental Management Plans (EMPs)
+                                                                           developed for works at the substations provide
+                                                                           detailed instructions for on-site storage of acid
+Public Disclosure Copy
+
+
+
+
+                                                                           batteries and used oils as well as recommendations
+                                                                           for safe recycling of oils should HVEN and YTPC
+                                                                           opt to treat and sell them for re-use. Construction of
+                                                                           an administrative building for HVEN and
+                                                                           arrangement of premises for a back-up dispatch
+                                                                           center of EPSO will have negligible negative impacts
+                                                                           on the natural and social environment, and Checklist
+                                                                           EMPs were prepared for those works.
+                         Natural Habitats OP/BP 4.04       No              The two substations, which will be rehabilitated as
+                                                                           part of the project, and the sites allocated for the
+                                                                           construction of the back-up dispatch center and the
+                                                                           administrative building of HVEN are not located in
+                                                                           areas of natural habitats.
+                         Forests OP/BP 4.36                No              The two substations, which will be rehabilitated as
+                                                                           part of the project, and the sites allocated for the
+                                                                           construction of the back-up dispatch center and the
+                                                                           administrative building of HVEN are not located in
+                                                                           or nearby any forested areas.
+                         Pest Management OP 4.09           No              Pesticides will not be applied for vegetation control
+
+
+                                                                       Page 4 of 8
+                                                                              in substations or any other purpose related to the
+                                                                              construction or operation phases of the project.
+                            Physical Cultural Resources       No              Works to be undertaken will have no impact on any
+Public Disclosure Copy
+
+
+
+
+                            OP/BP 4.11                                        known historic/cultural monument.
+                            Indigenous Peoples OP/BP          No
+                            4.10
+                            Involuntary Resettlement OP/      No              OP 4.12 is not triggered as the rehabilitation of the
+                            BP 4.12                                           Ashnak and YTPC substations is expected to take
+                                                                              place within the existing fenced footprint of the
+                                                                              current substations. No land acquisition or
+                                                                              resettlement is expected. Access roads to the
+                                                                              substations are in a good condition and will not
+                                                                              require repairs and there will be no need to use any
+                                                                              land in the vicinity of the substations.
+                            Safety of Dams OP/BP 4.37         No              Project implementation does not include any works
+                                                                              on dams and no part of the project-supported
+                                                                              infrastructure depends in its operation on any
+                                                                              existing dam.
+                            Projects on International         No              The project activities will not use and not influence,
+                            Waterways OP/BP 7.50                              in any manner, any national or international surface
+                                                                              waters and groundwater resources.
+                            Projects in Disputed Areas OP/ No
+                            BP 7.60
+
+                         II. Key Safeguard Policy Issues and Their Management
+                             A. Summary of Key Safeguard Issues
+Public Disclosure Copy
+
+
+
+
+                            1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+                              and describe any potential large scale, significant and/or irreversible impacts:
+                              The project is not expected to have significant irreversible impact on the natural environment and
+                              is therefore classified as environmental Category B. All proposed works will be undertaken within
+                              the footprint of the existing infrastructure. Rehabilitation of substations may result in generation of
+                              hazardous waste, such as replaced acid batteries and used transformer oils potentially containing
+                              PCBs. Waste disposal is a generally challenging task in Armenia due to lack of adequate
+                              infrastructure and effective control mechanisms. Some types of hazardous waste, including
+                              replaced acid batteries and transformer oils, are being put in storage until the Government finds
+                              acceptable and affordable solutions for their permanent disposal. Site-specific Environmental
+                              Management Plans (EMPs) developed for works at the beneficiary substations provide detailed
+                              information on the conditions of the allocated on-site storage facilities and lay out instructions for
+                              safe storage.
+
+                              Small scale civil works for the arrangement of premises for the back-up dispatch center of EPSO
+                              and construction of an administrative building for HVEN will be undertaken within fenced plots
+                              belonging to beneficiary institutions which urban setting, with minimal likelihood of any
+                              environmental and social impacts that will be addressed by adhering to simplified checklist EMPs
+                              prepared for these works and by applying general good construction practice.
+                            2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+
+                                                                          Page 5 of 8
+                           in the project area:
+                           The social impact of this project is positive as it will improve the reliability of electricity supply in
+                           the country, enhance power system management, and support the Government efforts in ensuring
+Public Disclosure Copy
+
+
+
+
+                           adequate electricity supply. The project will create benefits for all energy consumers in the
+                           country, including vulnerable and impoverished households. Temporary positive impacts will also
+                           include economic benefits through the employment of local people during construction work. It
+                           should be noted that improvement of electricity supply reliability will be especially beneficial for
+                           people who spend most of their time at home such as the elderly, children and women as well as
+                           those who have the primary responsibility for cooking and cleaning, typically women.
+                         3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+                           impacts.
+
+                         4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+                           assessment of borrower capacity to plan and implement the measures described.
+                           HVEN developed EMPs for works planned at the Ashank substation, YTPC substation,
+                           administrative building of HVEN and establishment of back-up dispatch center. The project will
+                           be implemented by HVEN (works at the Ashnak substation) and by YTPC (works at the YTPC
+                           substation). HVEN is an implementing agency for the ongoing Electricity Supply Reliability
+                           Project (ESRP), under which it will receive capacity-building on managing environmental and
+                           social aspects of its activities. HVEN uses consultant services for day-to-day supervision of
+                           safeguards under ESRP, and will use services of a hired safeguards specialist for the purposes of
+                           ETNIP. TOR for the consultant was shared with the Bank. YTPC has not been previously involved
+                           in implementation of Bank-supported projects and has no in-house capacity to manage application
+                           of safeguard policies. Administration of YTPC will be obligated to hire and maintain an
+                           environmental consultant of with the background and skills adequate for ensuring good
+                           environmental performance during works at the substation.
+                         5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+Public Disclosure Copy
+
+
+
+
+                           on safeguard policies, with an emphasis on potentially affected people.
+                           HVEN, administrations of individual power substations, and all electricity consumers in Armenia
+                           supplied with substations targeted under ETNIP are key beneficiaries and stakeholders of the
+                           project.
+
+                           The project will support widespread stakeholder information-sharing and consultation. The project
+                           activities and potential risks will be communicated in a transparent manner. The project will
+                           promote gender-sensitive consultation mechanisms at all stages. A grievance redress mechanism
+                           will also be in place to support citizen engagement with the project. This GRM will be operated by
+                           HVEN for both substations and allow project affected people and other interested stakeholders to
+                           submit all types of complaints, suggestions, or questions related to the project.
+
+                           All EMPs drafted during the project preparation were disclosed in Armenian and English
+                           languages through sending hard copies to communities and posting on the web-site of HVEN and
+                           MENR. EMPs for the rehabilitation of power substations and for construction of the back-up
+                           dispatch center and administrative building of HVEN were open for the feedback from potentially
+                           affected communities by advertising locations for accessing hard copies of these documents and
+                           contact information for submitting questions and comments. Finalized versions of all safeguard
+                           documents were re-disclosed on January 30, 2015 along with documentation on public
+                           consultation process.
+
+
+                                                                        Page 6 of 8
+                         B. Disclosure Requirements
+                         Environmental Assessment/Audit/Management Plan/Other
+Public Disclosure Copy
+
+
+
+
+                           Date of receipt by the Bank                                          30-Jan-2015
+                           Date of submission to InfoShop                                       31-Jan-2015
+                           For category A projects, date of distributing the Executive          ////
+                           Summary of the EA to the Executive Directors
+                         "In country" Disclosure
+                           Armenia                                                              30-Jan-2015
+                           Comments: EMP were disclosed on the web-site of the HVEN and hard copies made available
+                                         for communities in the vicinity of individual project sites.
+                         If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+                         respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+                         Audit/or EMP.
+                         If in-country disclosure of any of the above documents is not expected, please explain why:
+
+
+                         C. Compliance Monitoring Indicators at the Corporate Level
+                         OP/BP/GP 4.01 - Environment Assessment
+                          Does the project require a stand-alone EA (including EMP)        Yes [   ]   No [   ]   NA [   ]
+                          report?
+                          If yes, then did the Regional Environment Unit or Practice       Yes [   ]   No [   ]   NA [   ]
+                          Manager (PM) review and approve the EA report?
+                          Are the cost and the accountabilities for the EMP incorporated   Yes [   ]   No [   ]   NA [   ]
+                          in the credit/loan?
+                         The World Bank Policy on Disclosure of Information
+Public Disclosure Copy
+
+
+
+
+                          Have relevant safeguard policies documents been sent to the      Yes [   ]   No [   ]   NA [   ]
+                          World Bank's Infoshop?
+                          Have relevant documents been disclosed in-country in a public    Yes [   ]   No [   ]   NA [   ]
+                          place in a form and language that are understandable and
+                          accessible to project-affected groups and local NGOs?
+                         All Safeguard Policies
+                          Have satisfactory calendar, budget and clear institutional       Yes [   ]   No [   ]   NA [   ]
+                          responsibilities been prepared for the implementation of
+                          measures related to safeguard policies?
+                          Have costs related to safeguard policy measures been included    Yes [   ]   No [   ]   NA [   ]
+                          in the project cost?
+                          Does the Monitoring and Evaluation system of the project         Yes [   ]   No [   ]   NA [   ]
+                          include the monitoring of safeguard impacts and measures
+                          related to safeguard policies?
+                          Have satisfactory implementation arrangements been agreed        Yes [   ]   No [   ]   NA [   ]
+                          with the borrower and the same been adequately reflected in
+                          the project legal documents?
+
+
+
+                                                                    Page 7 of 8
+                         III. APPROVALS
+                            Task Team Leader(s): Name: Artur Kochnakyan
+Public Disclosure Copy
+
+
+
+
+                            Approved By
+                            Regional Safeguards Name: Agnes I. Kiss (RSA)        Date: 02-Feb-2015
+                            Advisor:
+                            Practice Manager/    Name: Ranjit J. Lamech (PMGR)   Date: 02-Feb-2015
+                            Manager:
+Public Disclosure Copy
+
+
+
+
+                                                                Page 8 of 8
+The original had problem with text extraction. pdftotext Unable to extract text.

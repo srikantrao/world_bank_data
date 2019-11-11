@@ -1,0 +1,393 @@
+                                                INTEGRATED SAFEGUARDS DATA SHEET
+                                                        APPRAISAL STAGE
+                                                                                               Report No.: ISDSA8639
+Public Disclosure Copy
+
+
+
+
+                         Date ISDS Prepared/Updated: 28-Apr-2014
+                         Date ISDS Approved/Disclosed: 06-Jan-2014, 14-Jan-2014, 16-Jan-2014, 29-Apr-2014
+                         I. BASIC INFORMATION
+                            1. Basic Project Data
+
+                            Country:           Mongolia                          Project ID:    P130891
+                            Project Name:      MN: SMART Government (P130891)
+                            Task Team          Tenzin Dolma Norbhu
+                            Leader:
+                            Estimated          03-Oct-2013                       Estimated   06-Jun-2014
+                            Appraisal Date:                                      Board Date:
+                            Managing Unit:     TWICT                             Lending     Investment Project Financing
+                                                                                 Instrument:
+                            Sector(s):        Public administration- Information and communications (70%), General
+                                              information and communications sector (30%)
+                            Theme(s):         e-Government (80%), Other accountability/anti-corruption (10%), Regulation
+                                              and competition policy (10%)
+                            Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+                            8.00 (Rapid Response to Crises and Emergencies)?
+Public Disclosure Copy
+
+
+
+
+                            Financing (In USD Million)
+                            Total Project Cost:      20.00           Total Bank Financing:                 19.40
+                            Financing Gap:            0.00
+                              Financing Source                                                                        Amount
+                              BORROWER/RECIPIENT                                                                         0.60
+                              International Development Association (IDA)                                               19.40
+                              Total                                                                                     20.00
+                            Environmental C - Not Required
+                            Category:
+                            Is this a          No
+                            Repeater
+                            project?
+
+                            2. Project Development Objective(s)
+                            The development objective of the project is to use information and communication technologies to
+                            improve accessibility, transparency, and efficiency of public service in Mongolia.
+                            3. Project Description
+
+
+                                                                       Page 1 of 7
+                         The project is structured along four areas: (a) enhancing civic engagement and citizen feedback
+                         mechanisms, (b) enabling foundations for SMART government, (c) enabling open data, and (d)
+                         project management.
+Public Disclosure Copy
+
+
+
+
+                         Component 1: Enhance civic engagement and citizen feedback mechanisms ($1.1 million) to
+                         enhance civic engagement and citizen feedback mechanisms through ICT would make a significant
+                         impact on the lives of the Mongolian citizens. Through a well-structured contact center, citizens
+                         would be able to conveniently seek information and conduct transactions with the government,
+                         through the channel of their choice. Having citizen feedback mechanisms will facilitate means of
+                         promoting a responsive Government that listens, understands and provides for its citizen’s needs.
+                         These initiatives, supported by an underlining business analytics program will empower the
+                         Mongolian Government to analyze the ever growing transactional and social data, to develop timely
+                         insights for policy design, service improvements and resource optimization. Component 1
+                         comprises:
+
+                         (a) Technical assistance ($0.1 million) consulting support for the integration of the central 11-11
+                         center and the Ulaanbaatar city’s 1200 – 1234 systems to increase efficiency and reduce citizen
+                         confusion.
+
+                         (b)       Investment support ($0.5 million) to: (i) expand the 11-11 center to the Aimag centers. This
+                         will include replication of the 11-11 center at Ulaanbaatar to aimag capitals; (ii) migrate the data
+                         structures of the 11-11 system to the Open 311 standard; (iii) develop a citizen facing dashboard that
+                         aggregates incoming messages and displays the information in meaningful ways for citizens; (iv)
+                         develop the citizen dashboard to allow for exploration of the data, allowing citizens to mash up data
+                         sets, drill into data delimited by keyword or geography, and disaggregate data by any existing
+                         demographic information (i.e., gender, age, etc.); (v) open source the code base (software) and
+                         invest in community and documentation of the code so that the code base can be reused by other
+                         countries positioning Mongolia as a leader in the space; (vi) design improved accountability
+Public Disclosure Copy
+
+
+
+
+                         measures for complaints in the system; and (vii) improve and strengthen workflows and responses
+                         from Ministries to resolvie issues in order to enhance the overall performance of the system. This
+                         component will enable enhanced accessibility to information and services for citizens of all income
+                         groups across the country.
+
+                         (c) Support government to develop a business analytics (BA) program ($0.5 million) consisting of
+                         the applications, tools and best practices that enable analysis of data to improve and optimize policy
+                         and program decisions and performance. The core components of BA include business intelligence,
+                         performance management, predictive analytics, analytical decision making, and risk management.
+                         Intended key areas for BA deployments could include citizen services analytics where public sector
+                         agency can deliver citizen services when and where they are most needed. Public officers could
+                         predict and target the needs of citizens more accurately, and match programs and resources to meet
+                         the highest-priority citizen needs. In addition, public agencies could position resources to focus on
+                         high-priority service areas, and then automate processes for more efficient and effective service
+                         delivery.
+
+                         Component 2: Enabling Foundations for SMART Government ($10.9 million) to establish the right
+                         enabling SMART Government ICT foundations will enable the public agencies to set in place a
+                         robust framework for service delivery, benefit from economies of scale on ICT infrastructure, and
+                         expedite the pace of eService delivery in response to citizens' needs. Four key projects are identified
+
+
+                                                                       Page 2 of 7
+                         to form the basis for SMART Government foundations are (1) National Enterprise Architecture to
+                         enhance interoperability, to eliminate overlapping projects, and to support reuse, (2) Government
+                         Cloud, will serve as a whole-of-government infrastructure to achieve cost efficiency on technology
+Public Disclosure Copy
+
+
+
+
+                         investments, improve accessibility and flexibility, (3) Public sector platform as a service (PaaS),
+                         which is a key software infrastructure within the Government Cloud. The public sector PaaS would
+                         significantly reduce the cost and time to implement eService based on the “built once and reuse
+                         always” principle of developing common enablers, and (4) digitization of property registration
+                         certificates to support reforms.. The details for the four projects in Component 2 are described below:
+
+                         (a) Investment and technical assistance ($2.1 million) to design, develop, deploy and use the NEA
+                         and interoperability (e-GIF) for better strategies, processes, plans, structures, technologies and
+                         systems across the government. The NEA and interoperability framework will be used to better
+                         tailor information systems for government agencies to achieve key Government objectives and
+                         outcomes and achieve increased data sharing, better asset management, reduced risk and lower costs
+                         of IT procurement. This subcomponent will be developed in a participative manner, ensuring buy-in
+                         by various line agencies and facilitating implementation that will contribute to business process
+                         changes.
+
+                         (b) Investment support ($5 million) to upgrade the National Data Center and transition it into a
+                         national data exchange and cloud computing infrastructure for the Government. The primary focus
+                         of this subcomponent will be the establishment of a government cloud computing infrastructure in
+                         order to enable government agencies to deliver electronic services faster and more efficiently. The
+                         Government cloud will be eventually shared by all ministries and agencies of the Government. It
+                         will incorporate a Mobile delivery system, to enable people that do not have access to the Internet to
+                         get services through mobile phones.
+
+                         (c) Investment support to establish an Innovation Support Program ($0.5 million) to finance an
+                         innovation grants program as a mechanism to quickly identify, test, and deploy simple open data and
+                         mobile applications in support of specific government objectives in priority sectors. The program
+Public Disclosure Copy
+
+
+
+
+                         will take the form of a grants competition that will fund the most innovative tools that address
+                         specific development ‘innovation challenges’ in priority areas identified by various ministries and
+                         agencies of the Government. The program will be hardwired to deliver pro-poor applications and
+                         solutions. It will also support increased female targeted solutions and increased female participation
+                         in the apps competition.
+
+                         (d) e-Property Registration System (ePRS) ($3.0 million) to support the scale-up the digitization of
+                         property registration and establishment of an ePRS that is currently being implemented in five
+                         districts of Ulaanbaatar and eight provinces to all nine districts and 21 provinces in Mongolia. The
+                         initial work on ePRS was financed by the Millennium Challenge Corporation and funding for the
+                         program closes on September 30, 2013. This will enable citizens and business to use a more accurate
+                         and user-friendly registration system to document property purchases, sales and other economic
+                         transactions. It will allow banks to have better information about prospective borrowers, enabling
+                         decrease in borrowing costs and improved commercial lending. This subcomponent will facilitate
+                         the goal of shared prosperity for all.
+
+                         (e) Capacity development support to the ITPTA CS ($0.3 million) to strengthen its ability to
+                         support various government agencies on ICT initiatives ($0.5 million) to build capacity through
+                         workshops and training events, so that the ITPTA and its aligned agency, the National IT Park can
+                         better function as an e-Government resource center to support other line agencies on the design and
+
+                                                                      Page 3 of 7
+                         development of specifications for systems and solutions, contract management, quality assurance and
+                         testing among others.deliver on the SMART Government program.
+Public Disclosure Copy
+
+
+
+
+                         Component 3: Enabling Open Data ($6 million) to help develop a vibrant open data ecosystem
+                         defined by a sustainable pipeline of high-quality data, continuous engagement with user communities
+                         and demand-driven, innovative co-creation. The support will enable the GoM to invest in both the
+                         supply and reuse of open data in a comprehensive manner. This Component will have two main
+                         subcomponents: (1) Design and implementation of an Open Data Initiative; and (2) support through
+                         investment to implement the statistics production system at the NSO.
+
+                         (a) Design and implementation of an open data initiative ($0.6 million) will focus on four main areas,
+                         each contributing to a dynamic, sustainable open data ecosystem. (i) Open Data Readiness
+                         Assessment: Open data in Mongolia will need to operate on both a national and subnational level
+                         (UB City), especially since 50 percent of the population lives in the capitol city. Jointly conducting a
+                         proper assessment of readiness that has as its major output a targeted, client-specific open data action
+                         plan is essential for identifying the high-impact entry points for initial investments in open data, both
+                         on the supply and demand sides; (ii)        Policy/legal/institutional frameworks: Activities will seek
+                         to ensure that the policy and legal environment serves the needs of an open data in Mongolia. It will
+                         aim to strengthen the institutional structures critical for their management and coordination; (iii)
+                         Supply of open data: Ensuring the release of diverse, high-quality data sets in areas that are
+                         important to Mongolian is the primary objective of this pillar. It is important that open data link to
+                         priority initiatives of the Government—at the federal level this includes the “11-11” center and at the
+                         municipal level includes the priority areas of cadaster, construction licensing, plans to develop UB
+                         City as a “smart” city and the city’s health and safety indexes; and (iv) Demand-driven reuse and
+                         co-creation: A steady pipeline of open data must be matched with sustained co-creation efforts to
+                         produce visualizations and applications that make Mongolia’s open data more accessible to the
+                         public and specific user communities. This requires attention to the demand side of open data, and
+                         active engagement with data suppliers and users. Training and awareness-raising are equally
+                         important for the demand side of open data.
+Public Disclosure Copy
+
+
+
+
+                         (b) Data production capabilities of the National Statistics Office ($5 million) to provide investment
+                         and technical assistance support to the NSO in connection with its data production functions.
+                         Resources will support the development or redesign of the NSO’s data production infrastructure in a
+                         way that improves internal data management and complies with standards and requirements of a
+                         NEA. It is important to ensure that the NSO’s data management system has the ability both to
+                         release open data and smoothly interoperate with the systems of other Government agencies (e.g., a
+                         National GIS portal) and an open data portal (whether it is based on an open source or commercial
+                         platform). Technical assistance will also be provided for enhancing NSO’s capacity to produce good
+                         quality data more frequently.
+
+                         Project Implementation Support ($1.8 million) to establish the Project Implementation Unit. Project
+                         funds will be used to hire the Project Director, a Financial Management Specialist, and Procurement
+                         support which will include a procurement/implementation specialist to interact with the beneficiary
+                         agencies and provide assistance to the General Procurement Agency and other required support staff
+                         including translators, communications specialists, Monitoring and Evaluation Officer. Funds will be
+                         used to procure required infrastructure and services to support the functioning of the PIU as needed,
+                         including office equipment. Operational costs of the project will be met from this allocation. The
+                         Government’s in-kind contribution to the project will include office space and the cost of key
+
+
+
+                                                                       Page 4 of 7
+                         technical officers at the ITPTA office. The PIU will be dissolved at project closing, with the
+                         technical skills for long-term sustainability of operations developed and residing at the line agencies.
+                          4. Project location and salient physical characteristics relevant to the safeguard
+Public Disclosure Copy
+
+
+
+
+                         analysis (if known)
+                         The project will be located in Ulaanbaatar, Mongolia's capital city and Aimag centers for Component
+                         1. The project will support capacity building; technical assistance; an innovation support program;
+                         investment support in IT systems and statistical production system. The project will not finance any
+                         physical interventions: neither civil works nor resettlement.
+                          5. Environmental and Social Safeguards Specialists
+                         Chongwu Sun (EASCS)
+                         Mary C.K. Bitekerezo (EASDE)
+
+                          6. Safeguard Policies               Triggered? Explanation (Optional)
+                          Environmental Assessment OP/        No               The proposed project will not affect the
+                          BP 4.01                                              environment.
+                          Natural Habitats OP/BP 4.04         No               The proposed project will not affect natural
+                                                                               habitats.
+                          Forests OP/BP 4.36                  No               The proposed project will not affect forests.
+
+                          Pest Management OP 4.09             No               The proposed project will not procure pesticides,
+                                                                               nor will it increase the use of pesticides.
+                          Physical Cultural Resources OP/     No               The proposed project will not affect physical or
+                          BP 4.11                                              cultural resources.
+                          Indigenous Peoples OP/BP 4.10       Yes              The Indigenous People Policy is triggered
+                                                                               because ethnic minorities are or may be project
+                                                                               beneficiaries. However, specific safeguards
+Public Disclosure Copy
+
+
+
+
+                                                                               instruments are not required. Relevant elements
+                                                                               of the Indigenous People Policy will be directly
+                                                                               integrated into the project design such as: the
+                                                                               inclusion of indigenous people in project
+                                                                               activities through free and informed consultations
+                                                                               during implementation; ensuring the provision of
+                                                                               culturally appropriate project benefits by using
+                                                                               the indigenous peoples' languages in the provision
+                                                                               of services; establishing the estimated number of
+                                                                               indigenous people in the selected project areas
+                                                                               and the proportion of indigenous people likely to
+                                                                               have access to service and information.
+                          Involuntary Resettlement OP/BP      No               The proposed project does not contain plans for
+                          4.12                                                 resettlement (involuntary, or otherwise).
+                          Safety of Dams OP/BP 4.37           No               The proposed project will not finance
+                                                                               construction or rehabilitation of dams as defined
+                                                                               under the policy.
+                                                              No
+
+
+
+                                                                       Page 5 of 7
+                            Projects on International                            The proposed project is not being implemented on
+                            Waterways
+                            Projects    OP/BP 7.50
+                                     in Disputed  Areas OP/BP No                 an
+                                                                                 Theinternational waterway
+                                                                                      proposed project will not be implemented on
+                            7.60                                                 disputed areas.
+Public Disclosure Copy
+
+
+
+
+                         II. Key Safeguard Policy Issues and Their Management
+                             A. Summary of Key Safeguard Issues
+                            1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+                              and describe any potential large scale, significant and/or irreversible impacts:
+                              Ethnic minorities are or may be project beneficiaries. The project will not have nationality- or
+                              group-differentiated benefits. There are no large-scale, significant and/or irreversible impacts. The
+                              Indigenous People (IP) Policy is triggered. However, specific safeguards instruments are not
+                              required.
+                            2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+                              in the project area:
+                              None.
+                            3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+                              impacts.
+                              The team and clients to ensure that energy efficient resources with minimum negative
+                              environmental impact are used.
+                            4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+                              assessment of borrower capacity to plan and implement the measures described.
+                              The Borrower has already implemented an ICT project and are familiar with safeguard policy
+                              issues and mitigation plans.
+                            5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+                              on safeguard policies, with an emphasis on potentially affected people.
+Public Disclosure Copy
+
+
+
+
+                              Key stakeholders include Cabinet Secretariat, Information Technology, Post and
+                              Telecommunications Authority, National Statistics Office, and General Authority of State
+                              Registration.
+                           B. Disclosure Requirements
+                             Indigenous Peoples Development Plan/Framework
+                              Date of receipt by the Bank                                         15-Jan-2014
+                              Date of submission to InfoShop                                      15-Jan-2014
+                            "In country" Disclosure
+
+                              Comments:
+                            If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+                            respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+                            Audit/or EMP.
+                            If in-country disclosure of any of the above documents is not expected, please explain why:
+                            As advised by the Regional Safeguards Secretariat, specific safeguards instruments are not required.
+                            Relevant elements of the IP Policy have been incorporated into the project design as described in the
+                            PAD. As such, the date on which the PAD is finalized is listed as the Date of Receipt by the Bank.
+
+
+                                                                         Page 6 of 7
+                           C. Compliance Monitoring Indicators at the Corporate Level
+                            OP/BP 4.10 - Indigenous Peoples
+Public Disclosure Copy
+
+
+
+
+                             Has a separate Indigenous Peoples Plan/Planning Framework       Yes [    ]   No [   ]   NA [   ]
+                             (as appropriate) been prepared in consultation with affected
+                             Indigenous Peoples?
+                            The World Bank Policy on Disclosure of Information
+                             Have relevant safeguard policies documents been sent to the     Yes [    ]   No [   ]   NA [   ]
+                             World Bank's Infoshop?
+                             Have relevant documents been disclosed in-country in a public   Yes [    ]   No [   ]   NA [   ]
+                             place in a form and language that are understandable and
+                             accessible to project-affected groups and local NGOs?
+                            All Safeguard Policies
+                             Have satisfactory calendar, budget and clear institutional      Yes [    ]   No [   ]   NA [   ]
+                             responsibilities been prepared for the implementation of
+                             measures related to safeguard policies?
+                             Have costs related to safeguard policy measures been included   Yes [    ]   No [   ]   NA [   ]
+                             in the project cost?
+                             Does the Monitoring and Evaluation system of the project        Yes [    ]   No [   ]   NA [   ]
+                             include the monitoring of safeguard impacts and measures
+                             related to safeguard policies?
+                             Have satisfactory implementation arrangements been agreed       Yes [    ]   No [   ]   NA [   ]
+                             with the borrower and the same been adequately reflected in
+                             the project legal documents?
+
+                         III. APPROVALS
+Public Disclosure Copy
+
+
+
+
+                            Task Team Leader:      Name: Tenzin Dolma Norbhu
+                            Approved By
+                            Sector Manager:        Name: Randeep Sudan (SM)                          Date: 29-Apr-2014
+
+
+
+
+                                                                      Page 7 of 7
+

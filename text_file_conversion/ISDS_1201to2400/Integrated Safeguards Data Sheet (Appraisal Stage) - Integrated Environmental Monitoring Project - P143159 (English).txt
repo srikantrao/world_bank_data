@@ -1,0 +1,344 @@
+                                               INTEGRATED SAFEGUARDS DATA SHEET
+                                                       APPRAISAL STAGE
+                                                                                               Report No.: ISDSA8641
+Public Disclosure Copy
+
+
+
+
+                         Date ISDS Prepared/Updated: 19-Mar-2014
+                         Date ISDS Approved/Disclosed: 03-Apr-2014, 28-Apr-2014
+                         I. BASIC INFORMATION
+                            1. Basic Project Data
+
+                            Country:           Russian Federation                Project ID:    P143159
+                            Project Name:      Integrated Environmental Monitoring Project (P143159)
+                            Task Team          Adriana Jordanova Damiano
+                            Leader:
+                            Estimated          09-Apr-2014                       Estimated   25-Sep-2014
+                            Appraisal Date:                                      Board Date:
+                            Managing Unit:     ECSEN                             Lending     Investment Project Financing
+                                                                                 Instrument:
+                            Sector(s):        Public administration- Information and communications (40%), Solid waste
+                                              management (40%), General water, sanitation and flood prote ction sector (20%)
+                            Theme(s):         Environmental policies and institutions (35%), Pollution management and
+                                              environmental health (30%), Other environment and natural re sources
+                                              management (20%), Climate change (15%)
+                            Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+                            8.00 (Rapid Response to Crises and Emergencies)?
+Public Disclosure Copy
+
+
+
+
+                            Financing (In USD Million)
+                            Total Project Cost:     153.00           Total Bank Financing:                 50.00
+                            Financing Gap:            0.00
+                              Financing Source                                                                        Amount
+                              Borrower                                                                                 103.00
+                              International Bank for Reconstruction and Development                                     50.00
+                              Total                                                                                    153.00
+                            Environmental C - Not Required
+                            Category:
+                            Is this a          No
+                            Repeater
+                            project?
+
+                            2. Project Development Objective(s)
+                           The Project Development Objective (PDO) is to improve the national and selected regions’ capacity
+                           to generate environmental monitoring data and provide accessible, quality and reliable environmental
+                           monitoring information to various users from the public and private sectors.
+
+                                                                       Page 1 of 6
+                         Specifically, the project will support methodological and technological enhancement of the
+                         environmental monitoring network at federal level and selected pilot regions. This will include GIS
+Public Disclosure Copy
+
+
+
+
+                         based and (remote sensing) services; enhancing data system of nationwide environmental
+                         information which is used for monitoring, control, planning and assessment of the environment, and
+                         research; establishment of compliance monitoring data system which contains data on pollution
+                         loads; national GIS -based portal and modern equipment, that will allow expanding decision making
+                         capacity of various users and thus strengthen the fundamentals of environmental management. The
+                         project will support targeted regional programs for environmental monitoring in selected pilot
+                         regions, including support to monitoring infrastructure and capacity of regional authorities for
+                         region-sector specific environmental monitoring.
+                         3. Project Description
+                         The Project will take the form of an investment loan. The project will finance technical assistance (e.
+                         g., studies, knowledge exchange, and training), investments in ICT (system design, software and
+                         hardware), monitoring equipment, laboratory equipment etc. and will have four components: (1)
+                         Support to institutional, regulatory-and methodological framework for environmental monitoring; (2)
+                         Information technologies and systems of ecological monitoring; (3) Public access to environmental
+                         information; and (4) Project management.
+                         Component 1: Support to institutional, regulatory and methodological framework for environmental
+                         monitoring (estimated cost US$15.0 million). This Component will address functional gaps in the
+                         current environmental monitoring system. The activities will specifically include:(i) improvement of
+                         regulatory tools for comprehensive ecological monitoring based on good international practice; (ii)
+                         development of comprehensive environmental quality monitoring system and requirements for
+                         homogeneity and representativeness of information in line with recommendations of international
+                         organizations (e.g., WHO, WMO, OECD, UNECE) and good international practice (EU, USA,
+                         Canada etc.); (iii) development of guidelines for the anthropogenic load impact assessment and
+                         analysis of limiting and critical ecological factors; (iv) analysis of operational costs of regional
+                         segments of existing and perspective USSEM subsystems in pilot regions, using management
+Public Disclosure Copy
+
+
+
+
+                         accounting model for calculating the cost of environmental information products and economic
+                         valuation of environmental performance; (v) development of methodology for collection and
+                         processing of observation data, quality controls, formats and protocols for representativeness and
+                         accuracy of data, as well as the creation and testing an interactive information model for specific
+                         users and areas of application; (vi) staff training on new methodologies and use of new equipment
+                         for:
+
+                         •       MENR, agencies headquarters, regional offices and branches of the sub-systems of
+                         ecological monitoring;
+                         •       Research and information centers (e.g., Main Geophysical Observatory Voejkov, Scientific-
+                         Research Institute of Atmospheric Air, (SRI," NPO “Typhoon”, Fedorov Institute of Applied
+                         Geophysics, Federal Center for Geographic Information Systems, and the Russian Academy of
+                         Science;
+                         •       Territorial environmental and geo-information centers responsible for collection and
+                         processing of environmental data.
+                         During project preparation, an analysis will be carried out of existing departmental facilities for
+                         processing and storage of environmental data, observation and data collection points, in order to
+                         substantiate the subsequent system optimization and modernization, including observation
+                         equipment, ICT and laboratory infrastructure requirements. The methodological framework for
+                         operationalizing the monitoring system will be developed under Component 1 early on during project
+
+
+                                                                      Page 2 of 6
+                         implementation. This includes the methodological guidelines for dataset formats, archiving, spatial
+                         visualization (harmonized with the principles of the European Monitoring and Evaluation Program
+                         (EMEP).
+Public Disclosure Copy
+
+
+
+
+                         Component 2: Information technology and environmental monitoring systems (estimated cost US
+                         $125.0 million). This component will support two levels of monitoring infrastructure improvements:
+                         (i) at regional level, through elimination of major technology gaps and moderniza tion of existing
+                         observation system in the pilot regions. Candidate regions include the Arkhangelsk, Murmansk,
+                         Kaluga, Chelyabinsk and Sverdlovsk oblasts and Krasnoyarski Krai (industrial areas), and Kostroma,
+                         Voronezh, Smolensk oblasts (agricultural areas), all of which with high concentration of pollution in
+                         densely populated areas, and (ii) at national level, through supporting integration and optimization of
+                         the existing system for collection, processing and storage of environmental observation data; and
+                         establishment of a single information space which allows for real time data processing, transmission,
+                         integration and visualization, access and data sharing by a diverse group of users.
+
+                         In selected pilot regions the project will support modernization of analytical laboratories directly
+                         related to air, water and soil quality monitoring and a demonstration model for accounting of
+                         anthropogenic impact and reporting, using spatial datasets for sector groups applicable to specific
+                         users. During preparation the feasibility of including project support to wildlife monitoring sub-
+                         systems in the pilot regions by equipping regional authorities with automated infrastructure for
+                         monitoring and control will be determined.
+
+                         In addition, this component will include the services of a System Integrator. His services will be key
+                         to resolve a number of system integration tasks as follows:
+
+                         •        Conducting a pre-project survey at the federal level and in the pilot regions, including the
+                         analysis of information and telecommunication resources created and used by the federal and
+                         regional authorities for assessment of negative environmental impacts and ecological monitoring, as
+                         well as the analysis of human resource potential;
+Public Disclosure Copy
+
+
+
+
+                         •        Carrying out the engineering design of the FIS of SFD, including federal and territorial
+                         segments;
+                         •        Providing technical support to the leading implementing agency and Project Implementation
+                         Unit (PIU) in implementation of project activities - from formulation of technical requirements up to
+                         performing the designer supervision over the execution of contracts for creation of system
+                         components;
+                         •        Ensuring system integration (format/logical, hardware and software compatibility of
+                         individual complexes, subsystems and components of FIS of SFD.
+
+                         Component 3: Public access to environmental information (estimated cost US$8.0 million). In Russia
+                         the general public had limited capacity to participate in formulation of environmental policies.
+                         Current GORF policies call for a shift towards broader involvement of public and a stronger role in
+                         local environmental matters through:
+
+                         (i)      Enhanced public access to environmental information. Specifically, the project will target
+                         schools, community organizations to increase the demand for information and public understanding
+                         of the factors affecting the environmental quality (e.g. surface and ground waters; air quality) and
+                         health related impacts. Support will be provided to target groups in building awareness on
+                         environment related human health risks.
+                         (ii)     A website (in each pilot region) with visual maps of the spatial distribution of emission
+
+                                                                       Page 3 of 6
+                         levels and pollutants in selected urban centers. This will demonstrate innovative methods for
+                         providing near-time reporting of spatial and temporal distribution of air pollutants in heavily
+                         industrialized urban communities atmospheric dispersion models (ADMs), and regional Geographic
+Public Disclosure Copy
+
+
+
+
+                         Information Systems (GIS).
+
+                         The project will also support a series of events (i.e. conferences, workshop, scientific exchanges,
+                         knowledge sharing events) on environmental monitoring, policy development, international best
+                         practice, in respect of environmental managemen t and conservation with representation from federal
+                         and regional executive bodies, academia and non-governmental organizations.
+
+                         Component 4: Project management (estimated cost US$5.0 million). This component will finance
+                         project management cost in relation to PIU management and staff, and operational cost to meet the
+                         requirements of the Bank fiduciary policies on procurement, financial management, contract
+                         management, reporting and safeguards.
+
+                         2.       Implementation
+
+                         The project activities are designed to facilitate the implementation of the environmental policy of the
+                         Russian Federation. While successful implementation of the policies and regulations to a large extent
+                         depends on timely and accurate information on environmental conditions, increasing the
+                         transparency and access to information will have positive impact and will gradually change public
+                         behavior and expand the demand for and possibility of public involvement in local environmental
+                         matters. The project will be implemented over a five years period. The leading Implementing Agency
+                         will be the Ministry of Natural Resources and Ecology of Russia (MNRE). Project implementation
+                         will be carried out according to the principles of Resolution No. 43 of January 28, 2005, which
+                         requires the selection of Project Implementation Unit (PIU) prior to project appraisal. For effective
+                         implementation of administrative and technical functions, the PIU will be selected based on agreed
+                         Terms of Reference to perform the following functions: (i) organization of competitive selection of
+                         consultants and contractors in accordance with the rules of the World Bank; (ii) ensuring a target use
+Public Disclosure Copy
+
+
+
+
+                         of the loan and co-financing funds; (iii) delivery of project and financial reporting under the project;
+                         (iv) coordination of all project activities.
+
+                         Financial provision for counterpart funds for preparation and project implementation are already
+                         secured within the budget allocations of the Russian Federation and are linked to the lending pipeline
+                         in the CPS. A principle approval of the project concept has been granted by Ministry of Finance and
+                         Ministry of Economic Development to the effect that the project financing is provided in the federal
+                         budget for planning period of 2014 - 2015, and also included in the external borrowing program of
+                         the Russian Federation for 2013 and the planning period of 2014 - 2015.
+                          4. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+                         The project will be implemented at national level and three pilot regions: Arkhangelskiy Kray,
+                         Kaluzhskaya Oblast, and Krasnoyarskiy Kray.
+                          5. Environmental and Social Safeguards Specialists
+                         Arcadii Capcelea (ECSEN)
+
+                          6. Safeguard Policies               Triggered? Explanation (Optional)
+
+
+
+                                                                       Page 4 of 6
+                            Environmental Assessment OP/        No
+                            BP 4.01
+Public Disclosure Copy
+
+
+
+
+                            Natural Habitats OP/BP 4.04         No
+
+                            Forests OP/BP 4.36                  No
+
+                            Pest Management OP 4.09             No
+
+                            Physical Cultural Resources OP/     No
+                            BP 4.11
+                            Indigenous Peoples OP/BP 4.10       No
+
+                            Involuntary Resettlement OP/BP      No
+                            4.12
+                            Safety of Dams OP/BP 4.37           No
+
+                            Projects on International        No
+                            Waterways OP/BP 7.50
+                            Projects in Disputed Areas OP/BP No
+                            7.60
+
+                         II. Key Safeguard Policy Issues and Their Management
+                             A. Summary of Key Safeguard Issues
+                            1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+                              and describe any potential large scale, significant and/or irreversible impacts:
+Public Disclosure Copy
+
+
+
+
+                              The proposed project will support the development of a unified environmental monitoring system
+                              as a pillar of the modernization of Russian environmental management system and research it will
+                              not generate adverse environmental impacts. Furthermore the project investments will generate
+                              positive environmental and social impacts as the result of establishing the enabling infrastructure
+                              and methodological framework for improved capacity at national and regional level to produce
+                              and supply reliable environmental information to various users. This will include data generation,
+                              storage, interpretation, visualization and public access to environmental information.
+                              Establishment of functioning unified monitoring system will contribute to prevention and
+                              reduction of pollution, sustainable allocation and use of resources, deliver data to inform national
+                              and international policies used to reduce impacts to human health and facilitate public
+                              participation in environmental decision making. The use of GIS data content and services
+                              describing the environmental conditions would also allow Russia and pilot states to generate
+                              annual reports on the state of the environment which are compatible with its international
+                              obligations. The project was assigned environmental assessment category “C” and therefore no EA
+                              is required.
+                            2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+                              in the project area:
+
+
+
+
+                                                                        Page 5 of 6
+                            3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+                              impacts.
+Public Disclosure Copy
+
+
+
+
+                            4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+                              assessment of borrower capacity to plan and implement the measures described.
+
+                            5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+                              on safeguard policies, with an emphasis on potentially affected people.
+
+
+                           B. Disclosure Requirements
+                            If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+                            respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+                            Audit/or EMP.
+                            If in-country disclosure of any of the above documents is not expected, please explain why:
+                            As category "C" the project does not require EIA and disclosure will be applicable to the ISDS.
+                           C. Compliance Monitoring Indicators at the Corporate Level
+                            The World Bank Policy on Disclosure of Information
+                             Have relevant safeguard policies documents been sent to the     Yes [    ]   No [   ]   NA [   ]
+                             World Bank's Infoshop?
+                             Have relevant documents been disclosed in-country in a public   Yes [    ]   No [   ]   NA [   ]
+                             place in a form and language that are understandable and
+                             accessible to project-affected groups and local NGOs?
+                            All Safeguard Policies
+                             Have satisfactory calendar, budget and clear institutional      Yes [    ]   No [   ]   NA [   ]
+Public Disclosure Copy
+
+
+
+
+                             responsibilities been prepared for the implementation of
+                             measures related to safeguard policies?
+                             Have costs related to safeguard policy measures been included   Yes [    ]   No [   ]   NA [   ]
+                             in the project cost?
+                             Does the Monitoring and Evaluation system of the project        Yes [    ]   No [   ]   NA [   ]
+                             include the monitoring of safeguard impacts and measures
+                             related to safeguard policies?
+                             Have satisfactory implementation arrangements been agreed       Yes [    ]   No [   ]   NA [   ]
+                             with the borrower and the same been adequately reflected in
+                             the project legal documents?
+
+                         III. APPROVALS
+                            Task Team Leader:      Name: Adriana Jordanova Damiano
+                            Approved By
+                            Sector Manager:        Name: Kulsum Ahmed (SM)                           Date: 28-Apr-2014
+
+
+
+
+                                                                      Page 6 of 6
+

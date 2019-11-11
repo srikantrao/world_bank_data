@@ -1,0 +1,520 @@
+                                                                                              102324
+                          INTEGR.ATED SAFEGlARDS DATA SHEET
+                                        RESTRUCTURING STAGE
+          !\Jote: This ISDS will be considered effective only upon approval of the project restructuring
+
+
+
+
+Date ISDS Prepared/Updated:             15-Dec-2015
+l. BASIC INFORMATION
+ l. Basic Project Data
+ Country:                        Micronesia,         Project tp:                       Pl30592
+                                 Federated States of
+ Project Name:                   Pacific Regional Connectivity Program 2:Palau-FSM Connectivity
+                                 Project (Pl 30592)
+ Task Team Leader(s):            James L. Neumann,Natasha Beschomer
+ Estimated Board Date:            17-Dec-2014
+ Managing Unit:                  GTI09
+ Sector(s):                      Telecommunications (98%), Public administration- [nformation and
+                                 corrununications (2%)
+ Theme(s):                       Infrastructure services for private sector development (97%). Regulation
+                                 and competition policy (3%)
+ Is this project processed under OP 8.50 (Emergency Recovery) or OP 8.00
+                                                                                                INº
+ (Rapid Response to Crises and Emergencies)?
+                                 Project Financiog Data (in USD Million)
+ Total Project Cost:          72.50                       Total Bank Financing:        147.50
+ Financing Gap:              0.00
+     Financing Source                                                                                      Amouot
+     BORROWER/RECIPIENT                                                                                       0.00
+     IDA Grant                                                                                               47.50
+     Asian Development Bank                                                                                  25.00
+     Total                                                                                                   72.50
+ Environmental Category:         8 - Partial Assessment
+ Is this a Repeater project? No
+ Is this a Traosferred              o
+ project?
+
+
+ 2. Current Project Development Objectives
+ The developrnent objective of the Project is to reduce the cost and increase the availability of TCT
+ serv1ces needed to support social and economic development in the Recipient's territory.
+ J>roposed New PDO (from Restructuring Paper)
+
+
+ 3. Project Description
+ The Project will finance the following components.
+
+ Component 1. lntemational connectivity infrastructure. ($44.5 million) .
+
+. (a) Subcomponent lA: Palau-Yap-Guam Cable System (US$22.5 million). In collaboration with
+  Palau, fi.nancing for the construction of a new cable system (and/or the procurement of capacity rights)
+  to connect Yap to the global tclecommunications network;
+
+ (b) Subcomponent 1B: Chuuk-Pohnpei Cable System (US$ l 8.5 millionJ. For an undivided right to
+ own and manage a new cable system which will be constructed between Weno and either at the
+ Pohnpei landing station or the branching unit on the Pohnpei spur to the HANTRU-1 cable system
+ (whichever is financially and technically most advantageous): and
+
+ (c) Subcomponent IC: Kosrae Connectivity (USS3.5 million). This will finance a one-time purchase
+ of intemational bandwidth for Kosrae on terrns wh.ich promote equitable access to broadband access
+ across FSM.
+
+ Component 2. Technical Assistance ($2.25 million) will fmance advisory services and training for:
+
+ (a) Design and ownership structure of existing and new infrastructure.
+
+ (b) Refonn and development ofFSM Telecommunications Corporation. Options for restructuring
+ FSMTC and resulting actions to strengthen FSMTC's capacity to operate in a competitive market.
+
+ (e) Sector regulation and regulatory capacity development. Complementing the TA Project
+ (Pl32686), financing for medium-tenn technical assistance to develop key capacities within the new
+ sector regulator.
+
+ Component 3. Project management support ($0.75 mi Ilion) will finance Project managernent and
+ coordination, financia! management, audit, general Project reporting, monitoring and evaluation,
+ Training, and administrative costs associated with project implementation.
+ 4. Project location and salient physical characteristics relevant to the safeguard analysis
+ (if known)
+ The restructured project no longer proposes thc joint construction by Palau and FSM of a standalone
+ cable from Guam to Palau with a spur to Yap. A new-lower impact-solution has been identified.
+ FSM would construct a spur linking Yap to the SEA-US cable system and would buy capacity on the
+ SEA-US cable system connecting Yap to the global telecommunications network via an existing
+ landing facility on Guam (a United States Territory). By utilizing capacit; on SEA-US, rather than
+ building a duplicate standalone cable systern, these revised implementation arrangements would
+ reduce costs, project management risks and social and environmental impacts significantly. The
+ SEA-US consortium has selected NEC Corporation of Japan (NEC) to construct the SEA-US cable
+ system. NEC would also construct the spur for FSM connecting Yap to the SEA-US cable system.
+ SEA-US and NEC are reputable intemational operators and accordingly major environmental risks on
+the applicable deep-sea cable segment used to supply capacity to FSM are not anticipated. lt is
+understood that NEC's Submarine Network Division is CS0900 l compliant, is a member of ICPC and
+adheres to ICPC recommendations.
+
+The lateral connecting cable to landfall in Yap is approximately 262 km in length, connecting to the
+main SEA-US cable beyond 1,000 m isobath. This is well beyond the territorial seas and contiguous
+zone of FSM, and well off the continental shel f. Deep ocean fiber optic cables are no larger than
+17-21 mm diameter-about the size of a domestic garden hose-and are laid mainly upon the surface of
+the ocean íloor. No specific environmental studies are undertaken for submarine cables whicb líe in
+deep sea. However, prior to laying cables, a detailed Cable Route Survey is done to ensure that the
+cable is not located in high risk locations or geological features (e.g., thermal vents) that often harbor
+unique fauna! assemblages at abyssal depths. The [ntemational Cable Protection Committee ([CPC)
+publishes recommendations on key issues such as cable routing, cable protection and cable recovery
+and prescribes strict envirorunental standards. Extensive studies that are undertaken by cable
+suppliers prior to final cable laying work as effective safeguards against any possible environmental
+disruption, since in large part they are intended to identify routes for the cable that will avoid
+seamounts, volcanoes, canyons, vents, seeps, deep water reefs. dissected terrain-all areas that tend to
+be associated with higher biological value than the general abyssal plain.
+
+The lateral cable spur between the main SEA-US cable and Yap would land in Yap at the existing
+appraised and approved landing site (oras othe1wise documented in the project ESMF). The SEA-US
+cable system which would supply capacity to Yap between the branching unit and Guam will follow
+the same route and installation methodology as originally appraised. FSM will have no control or
+intluence over the design, installation or functionmg ofthe SEA-US cable. Nor will FSM contribute
+to the financia! or technical feasibility ofthe SEA-US cable. The spur for Yap would likely be placed
+in the center ofthe shipping channel to the bridge, by Colonia harbor and then into Chamorro Bay,
+outside ofthe marine conservation areas. to the state-owned landing area and facility site. For Chuuk,
+it will likely be the corridor from the Guam-Pohnpei cable junction ski11ing a number of ato lis, also
+outside ofthe marine conservation zones, to the North East end ofthe airport runway and then either
+to the existing FSMTC office orto the govemor·s complex via an existing easement.
+
+The lnitial Environmental Examination safeguards documentation preparcd by the Recipient has
+indicated that in Yap. the inland location for the landing site, and the site for the cable station are on
+vacant government land and that the sites are not being used by other parties. No structures, crops. or
+productive trees will be used will be affected. No land acquisition will be required and no involuntary
+resettlement has been identified. The cable landing site in Chuuk is located adjacent to the airport and
+is currently being purchased by the state Government. The key issue here is to ensure that the
+cumpensation for this land is paid in ful! and that appropriate consultation has been carried out, that
+the compensation reflects the full replacement cost ofthis land and that no outstanding grievances
+exist in relation to this purchase. Both options for the actual cable station are located on Govemment
+owned land (one option is an FSM Telccom compound and the other is m the state Govemment
+headquarters of M ichiti w ). Existing govemment easements are proposcd to be used to bring the fiber
+optic cable to the cable station.
+
+FSM will revise its Environmental and Social Management Plan ( ESMP), included as part of its lnitial
+Environmental Examination (IEE) report to provide for due diligence reporting on envir.onmental and
+social management systems and instruments applied by SEA-US in connection with the construction
+of the segment of the SEA-US cable which will supply capacity to FSM, consistent with FSM's status
+as a customer of SEA-US and accepted commercial practices. It is noted that, as a purchaser of
+capacity from SEA-US under a contrae! for an lndefeasible Right of Use (IRU), FSM would have no
+    intlucncc or control over the activities of SEA-US or the design, installation or functioning of the
+    SEA-US cable. Ali ofthe parts ofthe SEA-US cable south ea st ofthe branching unit that would
+    connect Yap to SEA-US is outside the area likely to be affected by the project and does not fall within
+    the area ofinfluence ofthis Project. Any activities from Guam to Hawaii and beyond carried on by
+    SEA-US is similarly outside the area of influence ofthis Project.
+
+    The population of FSM is comprised of many ethnicities; and ali are descended from, and belong to,
+    the Micronesian culture. These different ethnicities are Chuukese 48.8 percent, Pohnpeian 24.2
+    percent, Kosraean 6.2 percent, Yapese 5.2 percent, Yap outer islands 4.5 percent. Asian 1.8 percent,
+    Polynesian 1.5 percent, other 6.4 percent, un.known 1.4 percent (2000 census). Based on recent
+    analytical work completed by the World Ban.k the comrnunities within FSM are not considered to have
+    the four characteristics required to trigger OP 4.1 O (self-identification as distinct indigenous cultural
+    group and recognition ofthis identity by others; collective attachment to geographically distinct
+    habitats or ancestral territories in project area and the natural resources in these habitats or territories;
+    customary cultural, economic, social or political institutions separate frorn those ofthe dominant
+    society and culture; and lndigenous language, often different from official language ofthe country or
+    region).
+
+    5. Environmental and Social Safeguards Specialists on the Team
+    Ross James Butler ( GSURR )
+
+    6. Safeguard Policies                           Triggered?       Explanation (Optional)
+    Environmental Assessment OP/BP 4.01             Yes              The Project involves the laying of
+                                                                     submarine cables and the construction of
+                                                                     landing stations in FSM. Under the
+                                                                     original project an existing landing
+                                                                     station was to be used in Guam however
+                                                                     this will no long be required as the
+                                                                     restructured project would now intercept
+1                                                                    the (soon to be installed) SEA-US cable.
+                                                                     Accordingly no construction activities
+                                                                     will be required in Guam and no social
+1                                                                    or environmental impacts are
+1                                                                    anticipated.
+1
+1                                                                    Potential negative environn1ental
+                                                                     ímpacts related to the laying of the
+                                                                     submarine cables, operations and
+                                                                     maintenance phase of the cable operation
+                                                                     and in the eventual removal of the cable
+                                                                     are small-scale and temporary. The
+                                                                     anticipated impacts include clouded
+                                                                     water due to the temporary suspension of
+                                                                     sand along the sections ofthe alignment
+                                                                     due to cable laying and trenching; air
+                                                                     and water pollutants as well as noise and
+                                                                     vibration from survey and cable
+                                                                     placement vessels; minar disturbance to
+                                                                     coral reefs, mangroves, other marine
+                                    habitats and hydrothermal vents; foreign,
+                                    biologically-hannful or
+                                    chemically-reactive cable materials or
+                                    release ofharmful substances dw-ing
+                                    cable laying operations.
+
+                                      The Recipient has completed an Initial
+                                      Envirorunental Examü1ation which
+                                      included an Environmental and Social
+                                      Management Plan (ESMP) for
+                                      mitigation, monitoring and reporting of
+                                      ali identified impacts including
+                                      institutional responsibilities. policy,
+                                      legal, and administrative framework,
+                                      cost and financing, ami monitoring.
+                                      Embedded in the ESMP is an
+                                      Environmental Code of Practice (ECOP)
+                                      wh.ich lists the items defined in the
+                                      ESMP and adds further detail on
+                                      boundaries and restriction to be adhered
+                                      to by contractors conducting work in the
+                                      marine cnvironment and on shore. The
+                                      IEE also contains proccdures to establish
+                                      a Grievance Redress Mechanism. The
+                                      IEE includes assessment of ali
+                                      project-related development sites and
+                                      general layout and extent of facilities at
+                                      project-relatcd developmcnt sites,
+                                      analysis of altematives for the
+                                      determination ofthe best location and
+                                      technology of the cable alignment, cable
+                                      laying, landing siles and cable stations;
+                                      flow diagrams of facilities/operations,
+                                    1 design basis, size. capacity;
+
+                                      pre-construction, construction and
+                                      operational activities; construction,
+                                      schedule. facilities and sen ices;
+                                      operation an<l maintenance activities.
+                                      Community consultations were
+                                      undertaken. and this has bcen
+                                      documented in the IEE and ESMP and
+                                      has been disclosed by the govemment.
+
+                                    Unexploded ammunition from WWII
+                                    poses risks that will be mitigated through
+                                    careful management and due diligence;
+                                    this issue is (also) addressed in the
+                                    ESMP.
+Natural Habitats OP/BP 4.04   Yes   This policy is triggered since the cable
+                                    alignments for Yap and Chuuk will run
+                                                        1 through natural habitats but will not
+                                                          enter any conservation area, nor degrade
+                                                          or convert any critica! natural habitat
+                                                          Although the alignment rnns close to 2
+                                                          conservation areas m Yap, no impacts
+                                                          are expectcd given the small ...cale ofthe
+                                                          infrastructure being installed. The !EF
+                                                          has assessed the impacts on the marine
+                                                        / life and the coastal ecosystems and has
+                                                          proposed mitigating measures in the
+                                                        1
+                                                          ESMP.
+                                                        1
+Forests 0Pf13P 4.36                       No                This policy is not triggered as there will
+                                                            be no use of pesticides in this project.
+Pest Management OP 4.09                   No                This policy is not triggered as there will
+                                                            be no use of pesticides in this project.
+Physical Cultural Resources OP/BP 4.11    Yes               This policy is triggered. Chuuk branch
+                                                            line will run directly from junction to
+                                                            Weno, entering the Chuuk Lagoon              1
+                                                            through the northeast cham1et. Draft         1
+                                                                                                         1
+                                                            Chuuk Historie Preservation Act
+                                                            declares there is a signiticant number of 1
+                                                            sunken World War 2 (WW2) relics
+                                                            (including 80 wrecks) in Chuuk Lagoon
+                                                            protected under law and these
+                                                            shipwrecks for nomination to
+                                                            UNESCO's World Heritagc listing. The
+                                                            ESMP has identificd potential impacts to
+                                                            the PCR and mitigating measures and
+                                                            chance find provisions are contained
+                                                            therein. A separate PCR rnanagement
+                                                            plan will be prepared and disclosed after
+                                                            detailed infom1ation on the relics is
+                                                            gathered during the oceanographic and
+                                                            bathymetric survey. The ESMP also
+                                                            establishes a chance-find procedure by
+                                                            requiring that 1f the alignrnent 1~ found to
+                                                            affect any cultural heritage once the
+                                                            work has bcgun, mitigative actions will
+                                                            be discussed with local officials andan
+                                                            optional plan implemented and
+                                                            monitored.
+-
+lndigenous Peoples OP/BP 4.1 O            No                This policy is not triggered as there are
+                                                            no IPs identified in the proJect sites. This
+                                                            is consistent with the PIC guidelines.
+                                                                                     --         -     -
+Involuntary Resettlement OP/BP 4.12       No
+                                                        ffº No land acquisition is required for any of
+                                                                landing mes and all cable mutes "e
+                                                            along existmg government owned ioads.
+                                                            Construction retatcd impacts are
+                                         --     -   .           ---
+                                                managed via the ESMP to ensure these
+                                                are mitigated and inconvenience to local
+                                                conununities rrúnimized.
+
+                                                 Due diligence documentation has been
+                                                 prepared for the FSM landing site. The
+                                                 project site (cable landing si te and si te
+                                                 for cable station) in Yap will be located
+                                                 on a govemment land in Nimar Village
+                                                 in Weloy Municipality, Colonia (Parce!
+                                                 l\Jo. 002 F 01 title) thus will not require
+                                                 land acquisition. Both cable landing
+                                               1 site and site for cable station are on a
+
+                                                 vacant government land in a govemment
+                                                 precinct including staff quarters,
+                                                 government offices, the Post Office and
+                                                 Office of Lands in the capital.
+
+                                                 The cable landing station for Chuuk will
+                                                 be on land which has already been
+                                                 acqui.red by the State Govemment prior
+                                               1 to the project and not for the direct
+
+                                                 purpose of the project. The land on
+                                                 which the cable landing site will be
+                                                 located is fully owned by the
+                                                 Government. This is confirmed in a
+                                                 letter from the Govemor of Chuuk Sta te
+                                                 to the Chairperson of the FSM Fiber
+                                                 Optic Cable Taskforce. Ongoing
+                                                 mon.itoring will be undertaken by the
+                                                 PMU to confirm there are no outstanding
+                                                 issues for this land .
+
+                                                 Whereas under the original project a new
+                                                 cable was being built from Palau to
+                                                 Guam anda spur line to Yap would then
+                                               1
+                                               ¡be connected to this cable, the Yap spur
+                                                 will now connect to the SEA-US cable.
+                                                 The project therefore operates
+                                                 independently from the ADB supported
+                                                 connection of Palau ( which will also
+                                                 have a spur to the SEA-US cable).
+                                                 Accordingly ali Palau related irnpacts are
+                                                 now removed from the World Bank
+                                                 supported project.
+Safety of Dams OPIBP 4.37                No    This policy is not triggered as there are
+                                               no dams involved the project.
+Projects on Intemational Waterways OP 'BP No   This policy is not triggered as submarine
+7.50                                           cable systems will be deployed in the
+                                                                 open ocean, not in shared waterways
+                                                                 (ri,ers, lakes).
+    Projects in Disputed Areas OP/BP 7.60        No              No disputed areas.
+
+    11. Key Safeguard Policy Issues and Their         ~lanagement
+
+    A. Summary of Key Safeguard Issues
+    l. Describe any safeguard issues and impacts associated with the Restructured project. Identify
+    and describe any potential large scale, significant and/or irreversible impacts:
+    The scale of social and environmental impacts is very low. The revised implementation arrangements
+    further reduce any impact by avoiding the need to construct a second dedicated cable from Palau Yap
+    to Guam. The only additive infrastructure as a result ofthis Project include~ the spur that will be
+    installed linking Yap to the SEA-US cable system as outlined above.
+
+    An IEE has identified key social and environmental impacts and benefits for the FSM (Yap-Chuuk)
+    component to date. Another IEE was preparcd for.the Palau component, which will no longer be
+    relevant as this will not form part of the World Bank supported project.
+
+1   The !EE include social assessmenb which confirm that the project is expected to ha vean
+    overwhelmingly positive social impact by impro\ ing the accessibility and quality of ICT services
+    which will benefit the people of FSM.
+
+    No land acquísition is required for the project however sorne localized disturbance may be created
+    during construction. These have been assessed and management provisions established in the
+    Environmental and Social Management Plan ( ESMP).
+1
+    Sorne negative environmental impacts may occur dueto physical works including constructíon of
+    cable landing sites and laying and/or burial ofthe submanne cables on seabed floor. 1km buffer
+    zones for sensitive environments (e.g .. seamounts and hydrothennal vents) and selection of
+    appropriatc tcchnologies and cable placement methods have been established to minimize
+    environmental disturbance ami are included in the ESMP. Maximizing placement ofthe cable in
+    shipping channels will avoid harm to coral reefs. mangroves, other sensitive marine environments as
+    well as sunken cultural rclics. Although two conservation areas (C As) in Yap are located adjacent to
+    the project area, these areas can be avoided and the ESMP requires that contract specifications
+    establish a cable route that provides ~ 75m distance from CA boundaries, and requires ali survey and
+    cable laying vessels to maintain this distance at ali times (limited by the proximity ofCAs to the
+    shipping channel).
+
+    UXO Safcty Risks have also been identified in the ESMP and additional detailed work will be
+    required during implementation to ensure UXO does not represent a risk to workers, the community or
+    the environment.
+
+    An Environrnental Code of Practice (ECOP) is embedded in the ESMP and will be used during
+    ongoing consultation processes in guidrng the effective delivcry ofthe project.
+
+    The ESMP requires that a PCR management plan be prepared after detailed information on the sunken
+    relics are obtained after the oceanographic and bathymetric survey. The ESMP also establishes a
+    chance-find procedure by requiring that if the alignment is found to affect any cultural heritage once
+    the work has begun. mitigative actions will be <liscussed with local officials andan optional plan
+implemented and monitored.
+
+FSM will revise its ESMP to provide for due diligence reporting in connection with the construction of
+the cable system segment by SEA-US which will supply capacity services for Yap. It is noted that, as
+a purchaser of capacity from SEA-US under a contract for an Indefeasible Right of Use (IRU), FSM
+has no influence or control over the activities of SEA-US.
+2. Describe aoy potential indirect aod/or long term impacts due to anticipated future activities in
+tbe project area:
+Construction of support infrastructure may have smalJ-scale and localized temporary impacts. No long
+term impacts are expected.
+
+Consultation highlighted concems about increased vulnerability to human trafficking and increased
+accessibility of undesirable websites dueto improved technology
+3. Describe any project alteroatives (if relevant) considered to help avoid or minimize adverse
+impacts.
+Altemative technologies, cable aligrunents, and methods were considered in the IEE, as outlined in the
+report. Six options for the land site in Yap and three aJternative landing sites in Chuuk were
+considered.
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+assessment of borrower capacity to plan and implement the measures described.
+                                                                         ~~~~~~~~~~~~
+
+
+The cable laying operations will avoid infringing on any live coral reefs or areas where coral is
+recovering from past degradation. To that end thc oceanographic survey team will receive instructions
+to align the cable around living reefs (based on the 2014 surveys to date no such interaction is
+anticipated, so long the cable is placed in the shipping channel).
+
+lf not placed with care and in the shipping channel the cable could impact local seagrass meadows in
+both si tes (albeit minimally. given that the cable is 3-7 cm in diameter). To avoid this, the cables
+placement will be confined to a narrow path (less than 0.4m ( 15") wide and O. 75m (29.5'") deep, and
+these specifications will be included in contract documents, and avoiding seagrass meadows wherever
+possible. Seagrass meadow locations were identified and none found to be in the recommended
+cable-placement corri<lor. or anywhere near it.
+
+The lEE established the limited technical capacity ofthe project implementing entity, the Project
+Coordinator or the PMU, to credibly implement the ESMP. Nevertheless, this capacity will be
+reinforced by the recruitment of a Safeguards monitor who will oversee the monitoring the Project 's
+safeguards performance. Capacity building activities will be conducted to strengthen the PMUs
+capacity to supervise compliance with the ESMP and ECOP.
+S. ldeotify the key stakeholders and describe the mechanisms for consultation aod disclosure on
+safeguard policies, with an emphasis on potentially affected people.
+Department ofTransport, Communications and IJ1frastructure, FSM Open Access Entity (once
+established), Department of Finance and Administration, MicroPal Committee (Palau-FSM joint
+steering committee).
+
+The ESMP establishes the need, and outlines a process for stakeholder consultation including the
+requirement to conduct a series of consultations before. during and after construction activities with
+government, pri.vate sector and non-government organizations including women and youth to address
+a number of issues including progress of work and cable alignment. These consultations have the
+    object1ve of informing. and seeking feedback from al! interested people on the work and general
+    alignrnent location and methods to used. Coastal resource users will be consulted and cable laying
+    activities kept to as short a period as possible; preferably outside any fishing seasons which will be
+    defined during the consultation with Marine Resources authorities and the above community
+    consultation activities.
+
+    The ESMP requires that a safeguards monitor-technician be retained as needed by the project
+    coordinator's office or the national govemment to provide on-the-job assistance with infonnation
+    distribution, community consultation, and compliance monitoring tasks. The Cost of community
+    awareness activities such as community meetings/public consultations and information materials
+    prior to construction, during and after construction-have been budgeted far and are expected to be
+    approximately $20,000, or about $10,000 in each of Yap and Chuuk.
+
+    B. Disclosure Requirements
+    Eoviroomental Assessmeot/Audit/Maoagemeot Plao/Otber
+    Date of receipt by the Bank                                                       l 7 December 201 5
+    Date of submission to lnfoShop                                                    l 8 Decernber 2015
+    Far category A projects, date of distributing the EKecutíve Summary of the        NA
+    EA to the Executive Directors
+    "ln country" Disclosure                                                                17 December 2015
+    Pacific Islands
+    Comments:
+    lf the project triggers the Pest Management aod/or Physical Cultural Resources policies, the
+    respective issues are to be addressed and discloscd as part of the Eovironmental                                1
+
+
+    Assessment/Audit/or EMP.                                               YES                                      1
+
+    lf in-country disclosure of aoy of the above documeots is not expected, please explain wby:
+                                                                                                                    1
+
+    NA - Disclosed in country                                                                                       1
+
+    C. Compliance Monitoring llldicators at tire Corporate leve/
+j OP/BP/GP      4.01 - Environment Assessment
+    Does the project require a stand-alone EA (including EMP) report?       Yes [X)       No [     l   '\A [    l
+1
+    OP/BP 4.04 - Natural Habitats
+    Would the project result in any significant conversion or               Yes [ l       No [X]       NA [     l
+    degradation of critica! natural habitats?
+    lf the project would result in signi ficant conversion or degradation   Yes [     l   No [     J   NA [X]
+    of other (non-critica!) natural habitats, cloes the project include
+    mitigation mea.sures acceptable to the Bank?
+    OPfBP 4. l l - Physical Cultural Resources
+    Does the EA include adequate measures related to cultural               Yes [X]       No [     l   NA [     l
+    property?
+    Does the credit!loan incorporate mechanisms to mitigate the             Yes [X]       No [     l   NA [     l
+potential adverse impacts on.cultural property'?
+The World Bank Policy on Disclosure of lnformation
+Have relevant safeguard policíes documents been sent to the World Yes [X]      No [   l   NA [   l
+Bank's [nfoshop?
+Have relevant documents been dísclosed ín-country in a public       Yes [X]    No [   l   NA [   l
+place in a form and language that are understandable and accessible
+to project-affected groups and local NGOs?
+Ali Safeguard Policies
+Have satisfactory calendar, budget and clear institutional           Yes [X]   No 1 l     NA [   l
+responsíbilities been prepared for the implementation of measures
+related to safeguard policies?
+Have costs related to safeguard policy measures been included in     Yes [X]   No [   l   NA [   l
+the project cost?
+Does the Monitoring and Evaluation system ofthe project include      Yes [X]   No [   l   NA [   l
+the monitoring of safeguard impacts and measures related to
+safeguard policies?
+Have satisfactory implementation arrangements been agreed with       Yes [X]   No [   l   NA [   l
+the borrower and the same been adequately reflected in the project
+legal documents?
+
+
+111. APPROV ALS
+
+Task Team Leader(s):            l\ame: James L. Neumann,Natasha Beschomer
+Approved By:
+Safeguards Advísor:             Name: Peter Leonard
+Practice Manager/Manager:
+

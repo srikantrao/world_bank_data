@@ -1,0 +1,369 @@
+Page  1
+INTEGRATED SAFEGUARDS DATA SHEET 
+CONCEPT STAGE 
+Report No.:  AC1232 
+ 
+Date ISDS Prepared/Updated: January 18, 2005 
+ 
+I.  BASIC INFORMATION 
+ 
+A.  Basic Project Data 
+ 
+Country: India 
+Project ID: P091383 
+Project Name: e-Bharat
+1
+Task Team Leader: Mark Dutz and Deepak 
+Bhatia 
+Estimated Appraisal Date: September 15, 
+2005 
+Estimated Board Date: February 6, 2006 
+Managing Unit: SASFP and ISGIF 
+Lending Instrument: Specific Investment 
+Loan 
+Sector: Information technology (40%); 
+Sub-national government administration 
+(30%); Central government administration 
+(30%) 
+Theme: Administrative and civil service 
+reform (P); Other public sector governance 
+(P); Technology diffusion (S) 
+Safeguard Policies Specialist in the task team: Sonia Chand Sandhu 
+Loan/Credit amount ($m): 500 (IBRD/IDA) 
+Other financing amounts by source: Borrower (Government of India) 
+($m) 2700 
+B.  Project Objectives 
+ 
+The development objective of the proposed operation is to improve the quality, accessibility and 
+effectiveness of government services to citizens and businesses particularly among the poor and 
+rural communities, through the use of Information and Communication Technology (ICT). 
+ 
+The expected benefits from this operation are: 
+·
+reduction in cost and increase in access to public services by citizens and businesses across 
+the country; 
+·
+re-orientation of civil service from 
+a
+traditional “command & control” focus on inputs to 
+output-based “meeting citizen needs” through business process re-engineering, freeing up 
+public resources to overcome remaining market failures; 
+·
+increase in efficiency, transparency and accountability of the revenue collection and public 
+procurement functions; 
+·
+improvement in the decision-making ability of farmers and rural suppliers through timely 
+access to market prices; and 
+1
+e-Bharat, based on the Hindi name for India, refers to the proposed Bank project to distinguish it from the 
+Government’s NEGAP (National e-Governance Action Plan) program. 
+Page  2
+·
+deployment of electronic networking infrastructure for technology-enabled economic growth 
+and social equity, enabling better targeting of government programs to meet basic needs and 
+empowering monitoring by citizens and advocacy groups. 
+ 
+C.  Project Description 
+ 
+1. 
+Bank’s lending instrument.
+ 
+The total NEGAP program cost is estimated to be 
+approximately US$ 3.2 billion (Rs. 142.62 billion to be confirmed over preparation) over a 
+period of four years. The proposed Bank lending would be US$ 500 million over that period, 
+provided through this e-Bharat project to support implementation of the NEGAP. 
+ 
+2. Project components.
+ The Bank’s financing would support the following components as part 
+of the overall NEGAP program. The amount of Bank contribution to each component will be 
+determined during preparation.   
+Table 1.  Mission Mode Projects  
+Central 
+State 
+Integrated 
+Service to 
+Citizens 
+(G2C) 
+y
+Income tax 
+y
+Passport, visa 
+and 
+immigration 
+y
+Land records 
+y
+Property 
+registration
+ 
+y
+Road transport 
+y
+Agriculture 
+y
+Municipalities 
+y
+Panchayats 
+y
+Police
+ 
+y
+Common service 
+centers 
+y
+India portal
+ 
+Service to 
+Business 
+(G2B) 
+y
+Excise 
+y
+Company 
+affairs 
+(DCA21) 
+y
+Commercial taxes 
+y
+EDI 
+y
+e-Biz 
+y
+e-Procurement
+ 
+Other 
+y
+National ID  
+ 
+y
+National e-governance 
+gateway 
+ 
+(MMPs highlighted in 
+bold
+ to be supported by proposed Bank operation) 
+ 
+Component 1. Scaling up of selected MMPs (approximately 73% of total program costs).
+ 
+NEGAP will provide the platform for scaling up and replicating successful e-governance pilots. 
+In Table 1, the MMPs are divided into services delivered by: central government departments; 
+state/municipal departments; and both central and local departments. They also are classified by 
+type of outputs, namely services to citizens (G2C), businesses (G2B), and others to facilitate 
+service integration. The Bank would support those MMPs that have an emphasis on the poor and 
+rural communities, particularly in the less advanced states, indicated in bold in Table 1. 
+ 
+Component 2. Infrastructure (approximately 16% of total program costs).  
+This component 
+caters to the infrastructure needs at state, district, block and village levels. It will include: (a) 
+state wide area networks (SWANs) to provide fiber optic connectivity up to the block level; (b) 
+state data centers (SDCs) to enable aggregation of existing data currently stored in a fragmented 
+Page  3
+manner; and (c) other support networking infrastructure possibly including access points for 
+services and development and deployment of low cost technology solutions.  
+ 
+Component 3. Training, communications & advocacy,
+ 
+and R&D (approximately 7% of total 
+program costs).  
+This component includes (a) a training program at central and state levels for e-
+government leaders, CIOs (Chief Information Officers), line managers, and civil servants in 
+general; (b) a communications program to create awareness on e-governance and on NEGAP 
+objectives, progress and outcomes; (c) an advocacy program to maintain political support and 
+commitment among stakeholders; (d) an R&D function on areas of interest to e-governance.  
+DARPG (Department of Administrative Reforms & Public Grievances) would be the 
+implementing agency.  
+ 
+Component 4. Program management, TA and M&E
+ 
+(approximately 4% of total program 
+costs)
+.
+This component would finance the capital and operational costs of national and state level 
+PMDs (Program Management Directorates) including: (a) overall program management and 
+coordination to avoid duplications and exploit opportunities for synergies utilizing common 
+infrastructure (e.g. databases, technologies, standards); (b) management of the program funding 
+mechanism; (c) supervisory responsibility of core policies including enforcement of standards; 
+(d) allocation and delivery of technical assistance resources; and (e) monitoring and evaluation 
+for effective tracking of key performance indicators and overall program effectiveness. 
+ 
+3. Funding mechanisms.  
+It is important that the funding mechanisms within the program 
+should be project-specific to reflect the economic viability of each MMP (i.e. revenue generating 
+potential through user fees and/or cost-saving possibility to the GOI), the level of fiscal support 
+to be provided either at the central or state level, and the share of Bank financing.  In addition, 
+the extent to which these projects can be facilitated through PPP arrangements would further 
+enhan
+ce the available financing options irrespective of the projects’ income-generating capacity. 
+ 
+The complementary possible financing options, which could exist as separate funding sources or 
+under more unified mechanisms, include: (a) project financing for MMPs with strong revenue 
+generating potential through user fees, (b) allocation or on-lending of funds from a grant/loan 
+pool to support MMPs that may not generate user-fee income but have the potential for 
+substantial cost savings to the government, (c) grant funding for MMPs with significant social 
+developmental impact but no fee income or cost savings possibilities; and (d) direct program 
+financing to private sector partners under appropriate PPP structures. 
+ 
+4. Co-financing opportunities.
+ The task team is collaborating with IFC to assess the feasibility 
+of their financing of PPP activities under the program, based on their active participation during 
+the project identification mission. GoI also would seek to maximize appropriate co-financing by 
+other donors, and the task team will build on initial contacts with donor agencies during the 
+preparation phase. Preliminary discussions with selected development partners indicate the 
+strong possibility of bilateral grant funding being mobilized to help support NEGAP. 
+ 
+D.  Project location (if known) 
+ 
+Throughout India – specific participating states to be identified during preparation. 
+Page  4
+E.  Borrower’s Institutional Capacity for Safeguard Policies 
+ 
+To be clarified as needed during preparation. 
+ 
+II.  SAFEGUARD POLICIES THAT MIGHT APPLY 
+ 
+Applicable?
+Safeguard Policy 
+If Applicable, How Might It Apply? 
+[X] 
+Environmental Assessment
+(
+OP
+/
+BP
+4.01) 
+[
+]
+Natural Habitats
+(
+OP
+/
+BP
+4.04) 
+[
+]
+Pest Management
+(
+OP 4.09
+)
+[
+]
+Involuntary Resettlement
+(
+OP
+/
+BP
+4.12) 
+[
+]
+Indigenous Peoples
+(
+OD 4.20
+)
+[
+]
+Forests
+(
+OP
+/
+BP
+4.36) 
+[
+]
+Safety of Dams
+(
+OP
+/
+BP
+4.37) 
+[
+]
+Cultural Property
+(draft OP 4.11 - 
+OPN 11.03
+)
+[
+]
+Projects in Disputed Areas
+(
+OP
+/
+BP
+/
+GP
+7.60)
+*
+[
+]
+Projects on International Waterways
+(
+OP
+/
+BP
+/
+GP
+7.50) 
+Environmental Assessment Category:
+ 
+[
+]
+A
+[
+]
+B
+[
+]
+C
+[
+]
+FI   [X] TBD (to be determined) 
+ 
+The laying of fiber optic cable, which may mostly be dealt with under a complementary rural 
+telecommunications development project, could involve the preparation of a technical standard 
+to ensure no adverse environmental or social impact.  This will be clarified during project 
+preparation once the concept has evolved further. 
+ 
+III.  SAFEGUARD PREPARATION PLAN 
+ 
+A.  Target date for the Quality Enhancement Review (QER), at which time the PAD-stage ISDS 
+would be prepared: May 2005. 
+ 
+*
+By supporting the proposed project, the Bank does not intend to prejudice the final determination of the parties' claims on the 
+disputed areas
+ 
+Page  5
+B.  For simple projects that will not require a QER, the target date for preparing the PAD-stage 
+ISDS 
+ 
+C.  Time frame for launching and completing the safeguard-related studies that may be needed.  
+The specific studies and their timing
+2
+should be specified in the PAD-stage ISDS. 
+ 
+IV.  APPROVALS 
+ 
+Signed and submitted by: 
+ 
+Task Team Leader: 
+Mark Dutz and Deepak Bhatia 
+1/26/05 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Frederick Brusberg 
+2/9/05 
+The EA category for this project will be determined as the project scope becomes better defined. The decision 
+to tran
+sfer safeguards management oversight for this project to SASFP is deferred until the project’s 
+components are better defined. 
+ 
+Sector Manager: 
+Simon C. Bell 
+2/16/05 
+Cleared. 
+2
+Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the 
+InfoShop and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to potentially affected 
+persons.
+ 
+Page  6

@@ -1,0 +1,362 @@
+﻿                    INTEGRATED SAFEGUARDS DATASHEET
+                            APPRAISAL STAGE
+
+I. Basic Information
+Date prepared/updated: 03/09/2013                                     Report No.: AC6832
+1. Basic Project Data
+Original Project ID: P093765                  Original Project Name: GAS SECTOR
+                                              DEVELOPMENT
+Country: Turkey                               Project ID: P133565
+Project Name: Gas Sector Development Additional Financing
+Task Team Leader: Kari J. Nyman
+Estimated Appraisal Date: March 13, 2013 Estimated Board Date: May 30, 2013
+Managing Unit: ECSEG                          Lending Instrument: Specific Investment
+                                              Loan
+Sector: Oil and gas (100%)
+Theme: Infrastructure services for private sector development (100%)
+IBRD Amount (US$m.):           225
+IDA Amount (US$m.):              0
+GEF Amount (US$m.):              0
+PCF Amount (US$m.):              0
+Other financing amounts by source:
+         Borrower                                                     389.10
+                                                                      389.10
+Environmental Category: A - Full Assessment
+Simplified Processing                         Simple []           Repeater []
+Is this project processed under OP 8.50 (Emergency Recovery)
+                                                                   Yes [ ]     No [X]
+or OP 8.00 (Rapid Response to Crises and Emergencies)
+
+2. Project Objectives
+The objective of the Project is to increase the reliability and stability of gas supply in
+Turkey by implementing critically needed gas storage and network infrastructure; and
+support BOTAŞ in strengthening its operations as a financially stable and commercially
+managed corporation and in developing a gas trading platform.
+
+3. Project Description
+The Project consists of three components: gas storage facility; network expansion; and
+gas trading platform. (1) The establishment of a gas storage facility in an underground
+salt formation located close to Tuz Golu through the provision of financing for: (a)
+surface and subsurface facilities including engineering and construction, solution mining,
+the gas pipelines and the compressor facility; (b) water and brine discharge pipelines; (c)
+cushion gas; and (d) consultants' services to assist in the supervision and monitoring of
+the implementation, environmental monitoring and regulatory aspects of the Project;(2)
+Construction of two compressor stations in Erzincan and Corum and other network
+infrastructure to assist in transmitting the increasing volumes of gas expected to be
+imported into the Republic of Turkey from existing and new sources; and (3) the
+development of a gas trading platform. The proposed additional loan would finance US$
+200 million of the cost overrun resulting from a five-year implementation delay in the
+Tuz Golu gas storage facility and US$25 million of the costs of a new gas trading
+platform component. It should also be noted that there has been a design change
+regarding the total volume of the caverns to be leached. The change was increasing the
+total volume of the caverns (by keeping the total volume of stored gas constant but
+increasing the volume of cushion gas), which also resulted in the increased flow rate of
+fresh water pumped from the Hirfanli reservoir and increased flow rate of brine water to
+be discharged into the Salt Lake.
+
+ Development objectives and the expected results of the Tuz Golu project remain
+unchanged except for reflecting the five-year time delay. In addition US$ 25 million is
+proposed for the financing of a proposed new project component: a gas trading platform.
+
+4. Project Location and salient physical characteristics relevant to the safeguard
+analysis
+The gas storage facility will be in an underground salt formation located close to Tuz
+Golu, a salt lake in South Central Turkey. The facility will have 12 underground caverns
+which will be solution-mined in two phases of six caverns each. The facility, upon
+completion, will have a storage capacity of about 960 Million cubic meters of working
+gas and 460 million cubic meters of cushion gas. Water for the solution mining will be
+obtained from the Hirfanli Reservoir on the Kizilirmak River. It will be supplied to the
+Tuz Golu site by a fresh water pipeline of about 120 km in length. The brine resulting
+from the solution mining will be transferred to the Tuz Golu salt lake, using gravity flow,
+by a brine disposal pipeline of about 40 km. A gas pipeline connection will be built from
+the storage facility to the Kayseri-Konya-Seydisehir line, one of BOTAŞ' main trunk
+lines. This connector line will be 19 km in length.
+
+5. Environmental and Social Safeguards Specialists
+   Mr Alessandro Palmieri (TWIWA)
+   Ms Zeynep Durnev Darendeliler (ECSSO)
+   Ms Esra Arikan (ECSEN)
+
+6. Safeguard Policies Triggered                              Yes         No
+Environmental Assessment (OP/BP 4.01)                         X
+Natural Habitats (OP/BP 4.04)                                 X
+Forests (OP/BP 4.36)                                                      X
+Pest Management (OP 4.09)                                                 X
+Physical Cultural Resources (OP/BP 4.11)                                  X
+Indigenous Peoples (OP/BP 4.10)                                           X
+Involuntary Resettlement (OP/BP 4.12)                         X
+Safety of Dams (OP/BP 4.37)                                   X
+Projects on International Waterways (OP/BP 7.50)                          X
+Projects in Disputed Areas (OP/BP 7.60)                                   X
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project.
+Identify and describe any potential large scale, significant and/or irreversible impacts:
+Key environmental and safety issues associated with Tuz Golu natural gas storage project
+include: seismic stability of the salt dome storage facilities and general project area
+(water supply pipeline, brine discharge area, gas distribution pipeline route), and
+environmental impacts from brine discharge into the Tuz Golu salt lake. These issues
+were dealt in the EIA report which was approved by WB in 2005. The project has a
+Category A environmental rating and accordingly an environmental impact assessment
+(EIA) was prepared and disclosed in 2005. Since then there has been the change
+regarding the size of the caverns and increase in the flow rates of the fresh water used for
+leaching operations and increase in the flow rate of the brine solution which will be
+discharged to Salt Lake. Further, the EIA did not fully cover the access roads and
+electricity transmission line required for the construction and operation of the project.
+The Ministry of Environment and Urbanization has informed BOTAŞ that the existing
+EIA does not need to be modified or updated by taking the existing national EIA
+regulation as a basis (since there are certain thresholds in the regulation stating the
+necessity of any update/revision). However, it was suggested by Bank team that an
+addendum to the EIA and a revised Environment Management Plan (EMP) would be
+necessary in order to reflect changes in the project design and to assess their impacts. WB
+received the initial draft EIA Addendum which indicated that the revisions/updates in the
+project will not result in additional significant environmental impacts. The major impact
+from the change in the design will be the increase in the use of fresh water for leaching
+the salt caverns and the corresponding increase in the amount of the brine solution
+discharged to the Salt Lake. Salt Lake is a designated Special Environmental Protected
+Area by Turkish Ministry of Environment and Urbanization, therefore the Natural
+Habitats policy has been triggered and detailed assessment on the quantity and the quality
+of the brine water discharge to the lake has been assessed in the project's original EIA
+and the EIA addendum. The EIA and the addendum made it clear that; since the brine
+solution has the same characteristics with the natural inflows to the Lake and the total
+amount of brine solution discharged is not affecting the amount of water in the lake
+significantly (it is resulting in a minor increase in the water level in the lake which is
+even accepted as a positive environmental impact considering water losses of the lake
+during draught periods), the project is not creating a pressure or a negative impact on the
+Lake.The draft EIA addendum (together with the revised EMP) is disclosed in country on
+March 4, 2013 and in Infoshop on March 5, 2013.
+
+ The World Bank's Resettlement Policy (OP 4.12) was triggered for the original project.
+In 2005, two documents were produced and disclosed, a Land Acquisition Plan (LAP),
+the equivalent of a Resettlement Action Plan, for Tuz Golu project area and a Land
+Acquisition Policy Framework (LAPF), the equivalent of a Resettlement Policy
+Framework, to provide guidance for producing subsequent LAPs if land was to be
+acquired elsewhere.
+  The land acquisition for the natural gas, water and brine pipelines for the Tuz Golu
+project was completed in 2007 and 2008, and constitutes a total of 389 hectares of long
+term easements. Permanent land acquisition for the pump stations, water storage tanks
+and the Tuz Golu Surface Facility were completed in September 2012, with a total area of
+40 hectares. Lastly, the land acquisition for the exact location for Well 8 (less than 1
+hectares) was completed in November 2012, though the surrounding area of the well
+remains to be acquired. The completed land acquisition affected land only, it did not
+affect any structures, and it did not physically displace any persons. In the upcoming
+months, additional land will be acquired for the remaining wells in the Tuz Golu Well
+Area, including a security buffer zone between and around them (324 hectares, of which
+191 hectares are private), and long term easements will be acquired for electricity
+transmission lines.
+
+ Land for the eight wells to be drilled in the Tuz Golu area was not included in the
+original 2005 LAP. A draft revised LAP including this area and updating some other
+provisions of the original LAP has been disclosed in country and in Infoshop. The
+revised LAP needs to be finalized by adding specific baseline data to be obtained through
+interviews with the affected landowners. This can be done for the entire Tuz Golu well
+site at one time, but is more likely to be done in steps as the plot(s) comprising each
+successive sub-site is required for drilling. The first "sub-site specific LAP," acceptable
+to the Bank, should be completed as a condition of loan negotiations. The LAP covering
+each plot is to be completed, acceptable to the Bank, prior to acquisition, and
+commencement of drilling on that plot.
+
+ A Corum Compressor Station, which was to be funded through the project according to
+the original Project Appraisal Document in 2005, was instead excluded from Bank
+funding and completed with the borrower's own resources. World Bank environmental
+and social safeguards policies apply to all components of a project regardless of the
+source of financing, and a Bank-approved LAP was not produced for this Compressor
+Station prior to land acquisition. As a result, the Bank will review the Corum Compressor
+Station for compliance with the environmental and social safeguards policies and identify
+any possible remedial actions to be taken by BOTAS a a time-bound plan. This will be
+done through a Bank staff site visit and a third-party environmental and resettlement
+audit.
+
+  Since the fresh water necessary for leaching the salt domes will be supplied from an
+upstream dam (Hirfanli Dam and Reservoir), the dam safety OP was also triggerred for
+the original project. Dam safety specialist suggested some measures in the latest AM of
+the project, and since the dam was owned by State Hydraulic Works - DSI-, all measures
+were discussed and agreed by DSI. DSI has drafted a report summarizing the actions
+taken by them and they are still working on the updating of the Operations and
+Maintenance Manual and this will be finalized before loan negotiations and will be made
+an annex to the EMP.
+2. Describe any potential indirect and/or long term impacts due to anticipated future
+activities in the project area:
+Turkey would need more gas storage capacity beyond the project. Potential exists to
+develop additional gas storage in the Tuz Golu salt formation. Therefore, similar project
+are started to be developed by government/private sector in the same region, therefore
+cumulative impacts should also be followed. Regarding this, the EIA addendum also
+deals with the possible cumulative impacts of brine discharge to Salt Lake arising from
+Botas project and reasonable foreseen similar projects.
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize
+adverse impacts.
+Not relevant at this time. Alternatives were considered at the time of project investment
+decision in 2005. Developing gas storage in the Tuz Golu salt formation was chosen as
+the best option available in Turkey. Development of gas storage in salt deposits using the
+process of solution mining the caverns is an established practice and has been
+successfully employed elsewhere in the world.
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide
+an assessment of borrower capacity to plan and implement the measures described.
+An environmental impact assessment (EIA) including an environmental management
+plan (EMP) was prepared and disclosed in 2005. As described above, Botas has prepared
+the draft versions of the addendum to the existing EIA and a revised EMP. These drafts
+were shared with local public and upon finalization (before negotiations) will be
+disclosed in country and Infoshop again.
+
+ Botas has also engaged with the environmental monitoring consultancy company who
+will be responsible for supervising BOTAS and the constructions contractor for
+successful implementation of the EMP including the revised sections of the EMP.
+
+  Land for the Tuz Golu Surface Facility was acquired without keeping the Bank
+informed of the acquisition process and without collecting the necessary information on
+the project affected people prior to the acquisition. In addition, the project appeared to
+lack an acceptable formal Grievance Redress Mechanism (GRM) as required by the
+Bank's policy. BOTAS submitted a draft social audit report in December 2012, which
+the Bank reviewed and provided comments and requested for further information on the
+timing of the consultations, the compensation payment and the GRM. During a field visit
+in January 2013 the Bank team was able to talk to some of the project affected people and
+the local Muhtar (village head) about this acquisition and verify that market rate
+payments had been made available to those affected.
+
+ Lands for the Tuz Golu Well Area and the proposed electricity transmission lines were
+not included in the original 2005 LAP. Therefore, BOTAS has revised the original LAP
+to include the additional land, to update information that had become outdated since the
+LAP was prepared in 2005 and also to clarify some requirements. A Bank team visited
+the project site during January 2013 and provided detailed guidance on what was required
+for the revised LAP. The Bank team also delivered a one-day Resettlement Policy
+training to BOTAS land acquisition staff to help avoid compliance problems in the
+future.
+
+ BOTAS is aware that a revised LAP (acceptable to the Bank) should be in place and
+disclosed prior to any further land acquisition. Implementation will be monitored by
+Bank implementation support missions. BOTAS has also agreed to hire by loan
+negotiations an external monitor to assist with the supervision monitoring and completion
+reporting. BOTAS has confirmed that there will be no further land acquisition beyond
+which will be covered in the revised LAP.
+
+ The safety of the Hirfanli dam was inspected during project preparation and its safety is
+being monitored by DSI. This arrangement is adequate because: (a) Hirfanli is an existing
+dam; (b) the dam safety measures do not involve significant and complex remedial
+works; and (c) DSI is the national regulator of dam safety and runs an effective dam
+safety program including periodic inspections and safety assessments of its dams. As
+stated before DSI took some extra measures that the Bank's dam specialist suggested and
+they will update the Operations and Maintenance Manual for the Dam before loan
+negotiations. Although DSI will be responsible for conducting the dam safety measures,
+BOTAS will be following the actions taken and will be responsible for reporting back to
+the World Bank.
+
+5. Identify the key stakeholders and describe the mechanisms for consultation and
+disclosure on safeguard policies, with an emphasis on potentially affected people.
+Following the Turkish Law for Exprorpiation, BOTAS has carried out consultations with
+project affected people to inform them of land acquisition procedures. In preparation for
+the revised LAP and while collecting the necessary socio-economic information on
+project affected people, BOTAS will inform them of the revised LAP and its means of
+disclosure.
+
+ Regarding the original project preparation, it was thought that given DSI's capacity, and
+given the relatively small impact of the project on the reservoir, a separate panel of
+experts may not be necessary. It was decided that DSI's operations department will
+monitor the dam's safety and implement the agreed measures. This is still the case for the
+agreed actions as stated above. For the measures taken, an independent review will be
+carried out by DSI General Directorate for Dam Safety and the relative report shared with
+the World Bank.
+
+
+
+B. Disclosure Requirements Date
+Environmental Assessment/Audit/Management Plan/Other:
+ Was the document disclosed prior to appraisal?                     Yes
+ Date of receipt by the Bank                                     02/19/2013
+ Date of "in-country" disclosure                                 03/04/2013
+ Date of submission to InfoShop                                  03/05/2013
+ For category A projects, date of distributing the Executive     11/07/2005
+  Summary of the EA to the Executive Directors
+Resettlement Action Plan/Framework/Policy Process:
+  Was the document disclosed prior to appraisal?                   Yes
+  Date of receipt by the Bank                                  02/25/2013
+  Date of "in-country" disclosure                              03/04/2013
+  Date of submission to InfoShop                               03/05/2013
+Indigenous Peoples Plan/Planning Framework:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+Pest Management Plan:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+* If the project triggers the Pest Management and/or Physical Cultural Resources,
+the respective issues are to be addressed and disclosed as part of the Environmental
+Assessment/Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please
+explain why:
+The original EIA was received by the Bank on 06/03/2005, discosed in the country on
+06/01/2005 and shared at the infoshop on 07/08/2005. Dates provided in this ISDS are
+the disclosure dates of the EIA addendum and the revised EMP being a part of the
+addendum.
+
+ A revised LAP, for the acquisition of land not covered in the 2005 LAP, has been
+prepared, received by the Bank on February 25, 2013, disclosed in country on March 4th,
+2013, on InfoShop March 5th, 2013. After agreement between the World Bank and
+BOTAS, this revised LAP was conditionally cleared with the understanding that BOTAS
+will collect socio-economic data on project affected persons before acquiring the
+additional lands. These additional submissions will need to be cleared by the Bank, and
+disclosed along with the LAP going forward before any land acquisition takes place.
+
+
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the
+ISDS is finalized by the project decision meeting)
+
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) report?            Yes
+If yes, then did the Regional Environment Unit or Sector Manager (SM)        Yes
+review and approve the EA report?
+Are the cost and the accountabilities for the EMP incorporated in the        Yes
+credit/loan?
+OP/BP 4.04 - Natural Habitats
+Would the project result in any significant conversion or degradation of     No
+critical natural habitats?
+If the project would result in significant conversion or degradation of other   N/A
+(non-critical) natural habitats, does the project include mitigation measures
+acceptable to the Bank?
+OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy framework/process               Yes
+framework (as appropriate) been prepared?
+If yes, then did the Regional unit responsible for safeguards or Sector         Yes
+Manager review the plan?
+OP/BP 4.37 - Safety of Dams
+Have dam safety plans been prepared?                                            Yes
+Have the TORs as well as composition for the independent Panel of Experts       N/A
+(POE) been reviewed and approved by the Bank?
+Has an Emergency Preparedness Plan (EPP) been prepared and arrangements         Yes
+been made for public awareness and training?
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the World Bank's        Yes
+Infoshop?
+Have relevant documents been disclosed in-country in a public place in a        Yes
+form and language that are understandable and accessible to project-affected
+groups and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional responsibilities     Yes
+been prepared for the implementation of measures related to safeguard
+policies?
+Have costs related to safeguard policy measures been included in the project    Yes
+cost?
+Does the Monitoring and Evaluation system of the project include the            Yes
+monitoring of safeguard impacts and measures related to safeguard policies?
+Have satisfactory implementation arrangements been agreed with the              Yes
+borrower and the same been adequately reflected in the project legal
+documents?
+  D. Approvals
+
+Signed and submitted by:                               Name           Date
+Task Team Leader:                   Mr Kari J. Nyman                03/07/2013
+Environmental Specialist:           Ms Esra Arikan                  03/05/2013
+Social Development Specialist       Ms Zeynep Durnev Darendeliler   03/07/2013
+Additional Environmental and/or
+Social Development Specialist(s):
+
+Approved by:
+Regional Safeguards Coordinator:    Ms Agnes I. Kiss                03/08/2013
+  Comments:
+Sector Manager:                     Mr Ranjit J. Lamech             03/07/2013
+  Comments:
+

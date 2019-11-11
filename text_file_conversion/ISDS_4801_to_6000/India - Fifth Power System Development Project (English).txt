@@ -1,0 +1,559 @@
+Page  1
+I
+NTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+I.  Basic Information 
+Date prepared/updated:  06/01/2009 
+ 
+Report No.: 48783  
+ 
+1. Basic Project Data 
+ 
+Country:  India 
+Project ID:  P115566 
+Additional Project ID 
+(if any)
+:
+Project Name:  Fifth Power System Development Project 
+Task Team Leader:  Julia M. Fraser 
+Estimated Appraisal Date: May 21, 2009 
+Estimated Board Date:  September 15, 2009 
+Managing Unit:  SASDE 
+Lending Instrument:  Specific Investment Loan 
+Sector:  Power (100%) 
+Theme: Infrastructure services for private sector development (P) 
+IBRD Amount (US$m.): 
+1,000.00 
+IDA Amount (US$m.): 
+0.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ 
+ Borrower 
+575.00 
+ 
+Environmental Category:   A 
+–
+Full Assessment 
+Is this a transferred project 
+Yes [ ] 
+    No [X] 
+Simplified Processing 
+Simple [ ] 
+    Repeater [ ] 
+Is this project processed under OP 8.00 (Rapid Response to Crises and 
+Emergencies) 
+Yes [ ] 
+No [X] 
+2. Project Objectives: 
+The project development objective is to strengthen India's electricity transmission system in order 
+to increase reliable power exchange between regions and states.   
+ 
+3. Project Description: 
+The project will finance five regional transmission schemes for strengthening the transmission 
+system and/or facilitating inter-regional power exchange for the National Grid. The five schemes are as 
+follows: 
+·
+System Strengthening in Western Region for Sasan Ultra Mega Power Project (UMPP) 
+·
+System Strengthening in Western Region for Mundra UMPP 
+·
+System Strengthening in Northern Region for Sasan and Mundra UMPP 
+·
+System Strengthening in Southern and Western Region for Krishnaptanam UMPP 
+·
+Transmission System for South-West Interconnection 
+While the names of the various schemes refer to three ultra mega power projects (UMPPs)
+1
+,
+they are not 
+associated facilities as these transmission investments are mostly required to facilitate the transmission of 
+power to meet demand in other regions of the country. By design, the operations of the UMPPs are not 
+dependent on the construction of the regional transmission schemes. Indeed, the first three schemes are 
+being constructed to meet the demand in the Western and Northern Regions where the Sasan UMPP and 
+1
+Ultra Mega Power Plants in India are large coal-fired thermal power plants, employing super critical technology to 
+achieve high levels of fuel efficiency, with a capacity of approximately 4,000 MW each.  Of the nine identified 
+UMPPs, four are at pithead and five are at coastal locations. 
+Page  2
+Mundra UMPP
+2
+are physically located. Both plants are expected to be commissioned progressively by 
+2014-15.  To facilitate the exchange of power between regions, the transmission networks have to be 
+strengthened in the western, northern and central part of the national grid system, as the difference in 
+demand profiles across regions requires large bulk power transfers over short periods of time and the 
+transmission networks need to have significant available transfer capacity to sustain them.  
+Similarly, the fourth scheme listed below relates to another 4000 MW (5 x 800 MW) UMPP to be 
+located at Krishnapatnam, Andhra Pradesh, in the Southern region which is also planned to be 
+commissioned progressively by 2015-16.  The power from this project will be transferred to load centers 
+in Southern and Western Regions.  The fifth scheme 
+–
+the South-West Interconnection – will transfer 
+power surpluses in the Southern region to deficit regions in the West.  By 2011-12, surpluses are 
+projected to be 1000 MW at peak periods and 6000 MW at off-peak periods. 
+4. Project Location and salient physical characteristics relevant to the safeguard analysis: 
+The project is to be spread over various parts of the northern, western and south-west regions of 
+the country. The project is primarily aimed at building a strong national transmission network.  The five 
+schemes include works in Andhra Pradesh, Bihar, Gujarat, Haryana, Karnataka, Maharashtra, Rajasthan, 
+and Uttar Pradesh.   
+ 
+5. Environmental and Social Safeguards Specialists on the Team: 
+ 
+Mr Mohammed Hasan (SASDI) 
+Mr Gaurav D. Joshi (SASDI) 
+ 
+6. Safeguard Policies Triggered 
+(please explain why)
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+X
+Natural Habitats (OP/BP 4.04) 
+X
+Forests (OP/BP 4.36) 
+X
+Pest Management (OP 4.09) 
+ X 
+Physical Cultural Resources (OP/BP 4.11) 
+X
+Indigenous Peoples (OP/BP 4.10) 
+X
+Involuntary Resettlement (OP/BP 4.12) 
+X
+Safety of Dams (OP/BP 4.37) 
+ X 
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X 
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+Piloting the Use of Borrower Systems to Address Environmental and Social 
+Safeguard Issues in Bank-Supported Projects (OP/BP 4.00) 
+X
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any 
+potential large scale, significant and/or irreversible impacts: 
+Transmission schemes are generally environmentally clean and non-polluting in nature. Their 
+impact on the environment is generally restricted to rights of way (ROW) and land acquisition for sub-
+stations.  Environmental issues during the construction phase of power transmission line projects may 
+include impacts on terrestrial and aquatic habitat and impacts on humans due to electric and magnetic 
+fields and hazardous materials. Given the large geographical spread of the transmission system (voltages 
+above 400 kV and relatively large substations), and given the assumption that some of the project 
+2
+The 3960 MW (6 x 660 MW) Sasan UMPP is located in Madhya Pradesh, the 4000 MW (5 x 800 MW) Mundra 
+UMPP is located in the upper part of Gujarat. 
+Page  3
+transmission lines may pass through forest areas, the project has been assigned environment category 
+“A”.  
+ 
+POWERGRID has had a corporate Environmental and Social Policies and Procedures (ESPP) in 
+place since 1998 (revised in March 2005) to proactively respond to the environmental and social issues 
+that may be encountered in all its operations. The ESPP has been revised very recently (February 2009) to 
+incorporate observations and suggestions following the Safeguards Diagnostic Review (SDR) by the 
+World Bank. Some of the potential environment and social issues that would be mitigated using the ESPP 
+framework, irrespective of source of funding for its schemes include the following: 
+ 
+·
+Mitigating opening up of canopy in natural forests; lopping of trees; habitat loss, vegetation 
+damage and fragmentation 
+·
+Avoid increased access to wild lands, paths/access roads; 
+·
+Avoid run off and sedimentation from grading of  access roads; 
+·
+Avoid chemical contamination from chemical maintenance techniques; 
+·
+Ensure that there is no PCBs in electrical equipment; 
+·
+Mitigate the impact as a result of change in land use and population relocation due to towers, 
+substations and induced secondary development during construction; 
+·
+Minimizing avian hazards from transmission lines and towers, aircraft hazards from transmission 
+lines and towers; 
+·
+Avoid impairment of cultural and aesthetic resources, health and safety, fire hazards and pollution 
+·
+Prevent loss of agriculture/community land by avoiding physical displacement of population  
+·
+Avoid, if not minimize, displacement of population and ensure that the livelihood of those 
+affected is improved or restored   
+ 
+Several changes have been included in the revised ESPP such as annual monitoring of the works 
+by POWERGRID-appointed committee of eminent experts in the field of environmental management and 
+social development.  
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project 
+area: 
+ Not 
+anticipated. 
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts: 
+POWERGRID has developed its ESPP formalizing its “commitment to the goal of sustainable 
+development
+ 
+through conservation of natural resources and involvement of stakeholders, continually 
+improving its management system, accessing specialist knowledge for management of significant 
+environmental and social issues and introducing new state of the art and internationally proven 
+technologies while strictly following the basic principles of Avoidance, Minimization and Mitigation.” As 
+part of the EA, several alternative alignments are analyzed and choice is made on the basis of several 
+criteria including environmental sensitivity of the routes.  
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of 
+borrower capacity to plan and implement the measures described: 
+At the corporate level, POWERGRID has established a strong Environment and Social 
+Management Division (ESMD) headed by a General Manager, and supported by seven environment and 
+social specialists under the overall control of an Executive Director (Corporate Planning).  In each of the 
+nine regions of POWERGRID, there is one separate unit headed by a Deputy General Manager/Chief 
+Manager responsible for managing social and environmental activities and ensuring coordination with 
+ESMD in the corporate office.  POWERGRID is also in the process of recruiting additional 
+Page  4
+environmental and social specialists and thus strengthen the ESMD, both at the corporate and regional 
+levels. 
+ 
+The ESPP provides a framework for identification, assessment and management of environmental 
+and social concerns at both organizational as well as project levels. In addition, POWERGRID has also 
+appointed a committee of independent eminent experts to oversee environmental and social management 
+policies and their implementation. Following the latest revision, the committee is mandated to annually 
+review POWERGRID’s performance in complying with the ESPP provisions.  Other enhancements in the 
+2009 revision include the addition of procedures for handling chance finds and adherence to provisions of 
+international treaties to which India is a party.  
+The environmental assessment process for transmission line schemes includes two stages, 
+particularly where the lines go through forest reserves or may go through sensitive habitats.  During the 
+first stage, the POWERGRID team prepares an initial environment assessment report (IEAR) based on 
+the available GIS survey for fixing line routes and sensitive areas such as reserved forests, wild life 
+sanctuary, national park,  protected areas supported by public consultation and ground survey, particularly 
+with reference to sensitive areas and other sensitive receptors, if any. The IEAR captures all significant 
+environmental issues and contains an ‘
+Environmental Management Plan
+’, including budget provisions for 
+implementation. The second stage produces a final environmental assessment report, submitted after 
+completion of the detailed survey of entire route. This report incorporates site specific minor changes 
+before commencing actual scheme implementation and requirements for compliance with conditions of 
+clearances, including forestry clearances accorded by the Ministry of Environment and Forests. The 
+Initial Environmental Assessment reports for each scheme include a set of indicators and a mitigation 
+plan to be supervised during the implementation stage. 
+POWERGRID has adopted a third party certified comprehensive “Integrated Management 
+System” (IMS) as per PAS 99:2006 integrating the requirement of ISO: 9001 for Quality Management 
+System, ISO: 14001 for Environment Management System and OHSAS: 18001 for Occupational Health 
+&
+Safety Management System. POWERGRID has also been certified for SA 8000:2001 for Social 
+Accountability standard by Social Accountability International. POWERGRID is progressively rolling 
+out the IMS to regional offices. Implementation of these systems will enhance the effectiveness of 
+implementation of ESPP in POWERGRID-supported investment projects. In recognition of 
+POWERGRID's efforts on social and environmental safeguards mainstreaming, they have been awarded 
+the "Annual Green Award" for 2006 by the Environment Sector Board of the World Bank. 
+The World Bank has formally reviewed POWERGRID’s ESPP to establish its equivalence and 
+acceptability for use as a Borrower System with reference to each safeguard policy of the World Bank. 
+The Safeguards Diagnostic Report (SDR) for POWERGRID accepting its ESPP as the Use of Borrower 
+Systems under OP 4.00 has been prepared and disclosed at the Bank’s Infoshop. POWERGRID agreed to 
+the key findings and recommendations of the Bank’s review of ESPP and has also publicly disclosed the 
+revised (draft final) ESPP addressing the gaps identified and suggestions given in the SDR. The key 
+findings and recommendations for equivalence and acceptability of the ESPP are as follows: 
+To attain and sustain full equivalence with the objectives and operational principles of OP 4.00 Table A1, 
+the following enhancements are identified: 
+Environmental Assessment 
+·
+Include assessment of trans-boundary environmental and social impacts in EA as appropriate;  
+·
+Cite all GoI laws and regulations applicable to POWERGRID operations that are intended to 
+implement international environmental agreements ratified by GoI  such as the Convention on 
+Biodiversity; Vienna Convention and Montreal Protocol on Protection of the Ozone Layer; World 
+Page  5
+Heritage Convention; and when finalized, GOI regulations designed to  implement the (Ramsar) 
+Convention on Wetlands of International Importance;  
+·
+Expand alternatives assessment to reference “no action” alternative (using baseline data included in 
+the EA) and the institutional, training and monitoring requirements associated with each alternative;  
+·
+Cite use of independent expertise, such as academic and social science research institutions and 
+individual experts in providing advice on complex projects; and 
+·
+Ensure that consultations with project affected people are conducted in a format and state language 
+accessible to key stakeholders.  
+Natural Habitats 
+·
+Add reference to “critical” natural habitats such as “Critical Wildlife Habitat (under FRA),” 
+“Critical Tiger Habitat (under WPA),” including core areas; Ecologically Sensitive Areas, 
+Biodiversity Heritage Sites (BDA), as well as “conservation reserves” and “community reserves” 
+along with existing ESPP references to National Parks and Wildlife Sanctuaries; and Coastal 
+Management Zones (when pending Notification is finalized);  and  
+·
+Ensure that consultations with project affected people on NHs are conducted in a format and state 
+language accessible to key stakeholders.  
+Forests 
+·
+With respect to public disclosure of Forest Clearances reference the FCA clearance process as per 
+Supreme Court orders 
+Involuntary Resettlement 
+·
+Include socio-economic impacts of infrastructure related indirectly to projects, such as access roads, 
+within the scope of Monitoring and Evaluation in of a Rehabilitation Action Plan:  
+·
+Incorporate relevant provisions of the pending Resettlement and Rehabilitation Bill and Land 
+Acquisition Act Amendments in the ESPP, when enacted; 
+·
+Disclose critical aspects of RAPs in State languages of PAPs or other key stakeholders; and  
+·
+Incorporate baseline socio-economic conditions into RAP monitoring criteria. 
+Indigenous Peoples: 
+·
+Reference the objectives and specific provisions of the Provisions of Panchayats (Extension to 
+Scheduled Areas) Act 1996 (PESA) as applicable to states; and the Scheduled Tribes and Other 
+Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 (FRA); 
+·
+Ensure that “prior, free and informed consultation” with tribals takes place prior to project 
+implementation resulting in “broad community support” for the project; and 
+·
+Document public consultation process with tribals in Tribal People Development Plan (TPDP). 
+Based on the Acceptability Assessment (and as informed by the Equivalence analysis and proposed gap 
+filling measures for Equivalence), the following measures were proposed and subsequently adopted by 
+POWERGRID to attain and sustain full Acceptability in the implementation of its EMPP. 
+·
+Add the terms of reference for the Final Environmental Assessment Report (FEAR) to the ESPP 
+that is explicitly designed to address potential environmental impacts of “high-risk” (“Category A”) 
+projects impacting ecologically and/or socially sensitive areas (e.g. National Parks, Wildlife 
+Sanctuaries, Conservation and Community Reserves and or Scheduled Areas);  
+Page  6
+·
+Strengthen institutional structure for environmental and social management at site and regional 
+levels to improve implementation of reporting of EMP measures through enhanced staffing, 
+training and other capacity building. A process for recruiting dedicated human resources has been 
+initiated and is expected to result in the posting of additional staff and regions and sites in the near 
+future; 
+·
+Undertake annual independent environmental audit of sample of transmission lines and include 
+aggregated results and case studies in proposed annual Environment and Social Sustainability 
+Report.  POWERGRID has initiated steps in this direction and a tender has already been issued for 
+selection of a consultant to provide assistance in the development of an Annual Sustainability 
+Report; 
+·
+RAPs should provide sufficient detail on the types of income-generating schemes beyond generic 
+information provided in the Social Entitlements Framework; 
+·
+RAPS should provide clear justification for use of Land Acquisition Act (LAA) Section 17 
+“emergency waiver” provision that permits land acquisition prior to payment of compensation, 
+consistent with conditions stipulated in proposed LAA revision; 
+·
+Improve coordination between, completion of final RAP, RAP implementation, land acquisition 
+and initiation of civil works.  POWERGRID has begun to initiate more timely execution of 
+development works as per RAP provisions; and 
+·
+Complete community development works per the RAP implementation schedule. 
+It is noted that the SDR recommends that five of the six policies triggered be implemented under OP 4.00.  
+It does not include the Indigenous Peoples Policy (OP 4.10) since there is not yet enough information 
+regarding POWERGRID’s performance in this regard.   
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard 
+policies, with an emphasis on potentially affected people: 
+ 
+The ESPP was prepared and has been revised (in 2005 and 2009) based on regional level 
+consultation with the stakeholders including affected community, NGOs, people’s representatives and 
+others. A national level consultation workshop was also organized to discuss the draft ESPP. For 
+obtaining stakeholder feedback on the SDR, consultations were held in Gurgaon and Hyderabad. 
+POWERGRID has also disclosed the ESPP and SDR in public including their website. During EA 
+process for individual sub-projects, and preparation of RAP, consultations are held in settlements along 
+the alignment as well as at Regional Offices of POWERGRID. EA documents are also posted on the 
+POWERGRID website.  
+ 
+POWERGRID has also begun the process of preparing an Environmental and Social Sustainability 
+Report. The report will provide a historic snap shot of POWERGRID’s efforts thus far to manage 
+environmental and social issues related with its operations. Once the value of the endeavor is recognized 
+by various stakeholders – regulators, communities, NGOs, decision makers, etc. – this report has the 
+potential to become a regular feature that will facilitate communication of POWERGRID’s commitment 
+and action on environmental management and social development.   
+ 
+Page  7
+B. Disclosure Requirements Date
+ 
+Equivalence and Acceptability Report: 
+Date of "in-country" disclosure 
+02/27/2009 
+Date of submission to InfoShop 
+02/27/2009 
+For category A projects, date of distributing the Project Information Document to 
+the Executive Directors 
+05/29/2009 
+If in-country disclosure of any of the above documents is not expected, please explain why: 
+ 
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is finalized by the 
+project decision meeting) 
+ 
+OP/BP/4.01 - Environment Assessment
+ 
+Does the project require a stand-alone EA (including EMP) report? 
+Yes [X]          No [  ]          N/A [  ] 
+If yes, then did the Regional Environment Unit or Sector Manager 
+(SM) review and approve the EA report? 
+Yes 
+Are the cost and the accountabilities for the EMP incorporated in the 
+credit/loan? 
+Yes 
+OP/BP 4.00 
+–
+Piloting the Use of Borrower Systems to Address Environmental and Social Safeguard Issues in 
+Bank-Supported Projects
+ 
+Did the Quality Assurance and Compliance Unit (QACU) and the 
+ESSD and International Law Practice Group (LEGEN) review and 
+approve the Safeguard Diagnostic Review report? 
+Yes [X]          No [  ]          N/A [  ] 
+OP/BP 4.04 - Natural Habitats
+ 
+Would the project result in any significant conversion or degradation 
+of critical natural habitats? 
+Yes [  ]          No [X]          N/A [  ] 
+If the project would result in significant conversion or degradation of 
+other (non-critical) natural habitats, does the project include 
+mitigation measures acceptable to the Bank? 
+N/A 
+OP 4.09 - Pest Management
+ 
+Does the EA adequately address the pest management issues? 
+Yes [  ]          No [  ]          N/A [X] 
+Is a separate PMP required? 
+Yes [  ]          No [  ]          N/A [X] 
+If yes, has the PMP been reviewed and approved by a safeguards 
+specialist or Sector Manager?  Are PMP requirements included in 
+project design? If yes, does the project team include a Pest 
+Management Specialist? 
+N/A 
+OP/BP 4.11 – Physical Cultural Resources
+ 
+Does the EA include adequate measures related to physical cultural 
+resources? 
+Yes [X]          No [  ]          N/A [  ] 
+Does the credit/loan incorporate mechanisms to mitigate the 
+potential adverse impacts on physical cultural resources? 
+Yes 
+OP/BP 4.10 - Indigenous Peoples
+ 
+Has a separate Indigenous Peoples Plan/Planning Framework (as 
+appropriate) been prepared in consultation with affected Indigenous 
+Peoples? 
+Yes [X]          No [  ]          N/A [  ] 
+If yes, then did the Regional unit responsible for safeguards or 
+Sector Manager review the plan? 
+Yes 
+If the whole project is designed to benefit IP, has the design been 
+reviewed and approved by the Regional Social Development Unit? 
+N/A 
+OP/BP 4.12 - Involuntary Resettlement
+ 
+Has a resettlement plan/abbreviated plan/policy framework/process 
+framework (as appropriate) been prepared? 
+Yes [X]          No [  ]          N/A [  ] 
+Page  8
+If yes, then did the Regional unit responsible for safeguards or 
+Sector Manager review and approve the plan/policy 
+framework/process framework? 
+Yes 
+OP/BP 4.36 
+–
+Forests
+ 
+Has the sector-wide analysis of policy and institutional issues and 
+constraints been carried out? 
+Yes [  ]          No [X]          N/A [  ] 
+Does the project design include satisfactory measures to overcome 
+these constraints? 
+N/A 
+Does the project finance commercial harvesting, and if so, does it 
+include provisions for certification system? 
+No 
+OP/BP 4.37 - Safety of Dams
+ 
+Have dam safety plans been prepared? 
+Yes [  ]          No [  ]          N/A [X] 
+Have the TORs as well as composition for the independent Panel of 
+Experts (POE) been reviewed and approved by the Bank? 
+N/A 
+Has an Emergency Preparedness Plan (EPP) been prepared and 
+arrangements been made for public awareness and training? 
+N/A 
+OP 7.50 - Projects on International Waterways
+ 
+Have the other riparians been notified of the project? 
+Yes [  ]          No [  ]          N/A [  ] 
+If the project falls under one of the exceptions to the notification 
+requirement, has this been cleared with the Legal Department, and 
+the memo to the RVP prepared and sent? 
+N/A 
+What are the reasons for the exception?  Please explain: 
+N/A 
+Has the RVP approved such an exception? 
+N/A 
+OP 7.60 - Projects in Disputed Areas
+ 
+Has the memo conveying all pertinent information on the 
+international aspects of the project, including the procedures to be 
+followed, and the recommendations for dealing with the issue, been 
+prepared 
+Yes [  ]          No [  ]          N/A [X] 
+Does the PAD/MOP include the standard disclaimer referred to in 
+the OP? 
+N/A 
+The World Bank Policy on Disclosure of Information 
+Have relevant safeguard policies documents been sent to the World 
+Bank's Infoshop? 
+Yes [X]          No [  ]          N/A [  ] 
+Have relevant documents been disclosed in-country in a public place 
+in a form and language that are understandable and accessible to 
+project-affected groups and local NGOs? 
+Yes 
+All Safeguard Policies
+ 
+Have satisfactory calendar, budget and clear institutional 
+responsibilities been prepared for the implementation of measures 
+related to safeguard policies? 
+Yes [X]          No [  ]          N/A [  ] 
+Have costs related to safeguard policy measures been included in the 
+project cost? 
+Yes 
+Does the Monitoring and Evaluation system of the project include 
+the monitoring of safeguard impacts and measures related to 
+safeguard policies? 
+Yes 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+ 
+Page  9
+D
+.
+Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Ms. Julia M. Fraser 
+05/08/2009 
+Environmental Specialist: 
+Mr. Gaurav Joshi 
+05/08/2009 
+Social Development Specialist 
+Mr. Mohammed Hasan 
+05/08/2009 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+The SDR was prepared as per OP 4.00 in 
+coordination with OPCS-Safeguard and 
+Compliance Unit (Harvey Himberg) and LEGEN 
+(Alberto Ninio). 
+ 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr. Frederick Edmund Brusberg 
+05/11/2009 
+Comments:  cleared for Safeguards 
+Sector Manager: 
+Mr. Salman Zaheer 
+05/11/2009 
+Comments:  cleared 

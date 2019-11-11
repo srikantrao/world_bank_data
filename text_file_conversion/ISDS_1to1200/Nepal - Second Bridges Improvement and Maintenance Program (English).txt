@@ -1,0 +1,703 @@
+﻿                           INTEGRATED SAFEGUARDS DATA SHEET (ISDS)
+                                                Appraisal Stage
+
+
+
+
+Date Prepared/Updated: 04/26/2018
+I. BASIC INFORMATION
+ A. Basic Project Data
+ Country:                          Nepal                          Project ID:               P161929
+                                                                  Parent Project ID:        N/A
+ Project Name:                     Second Bridges Improvement and Maintenance Program (BIMP-II)
+ Region:                           South Asia
+ Estimated Appraisal Date:         05-09-2018                     Estimated Board Date:     Jul-10-2018
+ Practice Area (Lead):             Transport & Digital            Financing Instrument:     PforR
+                                   Development
+ Borrower(s)                       Government of Nepal represented by Ministry of Finance
+ Implementing Agency               Department of Roads
+ Financing (in USD Million)
+    Financing Source                                                                                  Amount
+ BORROWER/RECIPIENT                                                                                        63.0
+ International Development Association (IDA)                                                              133.0
+ Borrowing Country's Fin. Intermediary/ies
+ LOCAL BENEFICIARIES
+ Financing Gap
+ Total Project Cost                                                                                       196.0
+ Environmental Category            A - Full Assessment (For IPF TA Component). The project is hybrid (PforR
+                                   and IPF TA)
+ Decision
+ Other Decision (as needed)
+ Is this a Repeater project?       No
+ Is this a Transferred project?    No
+ (Will not be disclosed)
+B. Introduction and Context
+  Country Context
+  1.    Over the past decade, Nepal’s economy has performed reasonably well. Growth averaged 4.3 percent
+  (at market prices) over 2005-15. Although declining as a share in the economy, agriculture continues to
+  play a large role, contributing one third of value-added. The service sector has grown in importance,
+  accounting for more than half of value-added in recent years. Industry in general, and manufacturing has
+  grown more slowly and its relative share in the economy is falling. Similarly, exports continue to struggle,
+  while imports are fueled by remittances that exceed 30 percent of GDP. Inflation was in single digit for
+  most of the past decade, with the peg of the Nepalese rupee to the Indian rupee providing a nominal anchor.
+  Fiscal balances remained sustainable owing to strong revenue growth and modest spending. The incidence
+  of poverty measured against the national poverty line fell by 19 percentage points from 2003/04 to 2010/11,
+  and in 2010/11, 25 percent of the population was counted as poor. Most multidimensional indicators of
+  poverty also showed improvements across regions in Nepal. However, these gains remain vulnerable to
+  shocks and setbacks, like the 2015 earthquakes which were followed by trade disruptions resulting in the
+  lowest economic growth in 14 years in 2016.
+
+  2.    Economic activity, which rebounded strongly in FY2017, following two challenging years, has once
+  again been disrupted by floods affecting more than one-third of the country. Rebound in FY2017 stemmed
+  partly from a base effect, as well as a favorable monsoon boosting agricultural output and earthquake
+  reconstruction gathering speed to raise investment. High inflation in the past two years has moderated
+  sharply and has decelerated to 2.7 percent (y/y) in July 2017. Government revenue continued to perform
+  well, and spending has also picked up significantly in FY2017 compared to previous years. Nevertheless,
+  ambitious expenditure targets envisioned in the budget have not been met and the quality of spending has
+  not improved with 60 percent of capital spending occurring in the last quarter. Meanwhile, rapid credit
+  growth in early 2017 has slowed but deposits growth has continued to decline, pushing up the interest rates.
+  On the external side, the cumulative effect of a sharp trade balance deterioration and a slow growth of
+  remittances, has put some pressure on current account. Economic activity, which was expected to progress
+  well in FY2018, has been affected by the worst floods in decades particularly affecting the agriculture
+  output. A new constitution that defined Nepal as a federal democratic republic was promulgated in
+  September 2015. With the formulation of the new Constitution, Nepal is now migrating to a federal state
+  structure with autonomous sub-national governments. One major impact of the transition is the redundancy
+  of the district offices and their sub offices to be replaced by the newly elected local governments. The
+  country will now have 7 Provinces and 753 Municipalities. Funds, functions and functionaries hitherto
+  managed through the 75 District Development Committees will move to new local governments. While
+  the proposed 753 Municipalities are expected to provide better outreach and services, they will likely take
+  significant time to become fully operational. In addition to fresh general elections, Nepal is aiming to elect
+  a new provincial tier of government by December 2017.
+
+  3.    A new constitution that defined Nepal as a federal democratic republic was promulgated in September
+  2015. With the formulation of the new Constitution, Nepal is now migrating to a federal state structure
+  with autonomous sub-national governments. One major impact of the transition is the redundancy of the
+  district offices and their sub offices to be replaced by the newly elected local governments. The country
+  will now have 7 Provinces and 753 Municipalities. Funds, functions and functionaries hitherto managed
+  through the 75 District Development Committees will move to new local governments. While the proposed
+  753 Municipalities are expected to provide better outreach and services, they will likely take significant
+time to become fully operational. In addition to fresh general elections, Nepal will also elect a new
+provincial tier of government by December 2017.
+
+Sectoral and Institutional Context
+
+4.    Nepal’s physical and economic integration as a country depends on bridges along the Strategic Roads
+Network (SNR) that enable year-round connectivity between the federal provinces. The SRN consists of
+12,142 km of roads and 1,773 bridges. It carries the vast majority of passenger and goods transport
+throughout Nepal. It also provides critical connections to India which is Nepal’s largest trading partner and
+primary conduit for third country trade. The bridges that stitch together different sections of SRN roads
+represent critical infrastructure for Nepal’s development given the number of river crossings and drainages
+that Nepal’s Himalayan topography creates. Where bridges have yet to be built, or prove vulnerable to
+climatic conditions such as flooding, communities and entire sections of Nepal can lose connectivity to
+other internal regions, social services, and markets. Absent or lost connectivity impedes poverty reduction
+– particularly in Nepal’s rural areas.
+
+5.    Nepal’s Department of Roads (DOR) within the Ministry of Physical Infrastructure and Transport
+(MoPIT) develops and maintains roads and bridges along the SRN. The SRN and its management is a
+national concern with resources allocated from Nepal’s Consolidated Fund via the national budget.
+Implementation of SRN works is managed by 34 Divisional Road Offices as well as Kathmandu-based
+units that operate across divisions. A central Kathmandu-based Bridge Branch within the DOR has overall
+jurisdiction over bridge assets and uses 4 regionally based Bridge Sectors to maintain field presence. It
+directly manages complex bridge works using a dedicated engineering team. For less complex bridge
+works, Divisional Road Offices implement works under the Bridge Branch’s supervision and technical
+guidance.
+
+6.    The geographical configuration of the SRN is significant to Nepal’s transport connectivity
+challenges. Nepal’s busiest highway, known as the East-West Highway traverses “Terai�? districts and
+provides a transportation link that runs in parallel to Nepal’s southern border with India. This road crosses
+numerous large year-round and seasonal rivers that drain hill and mountain catchments. As a result,
+approximately 40% of Nepal’s existing bridge stock (by meters) is found on the East-West Highway.
+North-south feeder roads branch off the East-West Highway and provide access to the difficult topography
+of Nepal’s hill and mountain districts. SRN roads and bridges that comprise Nepal’s national road network
+provide the physical linkages that integrate Nepal as a single country. The maintenance and replacement
+of aging bridges along Nepal’s East-West Highway is particularly critical to the reliability of this
+connectivity.
+
+7.    Monsoon flooding during the summer of 2017 demonstrated that many bridges in Nepal, particularly
+along the East-West Highway are vulnerable to natural events. The International Panel on Climate Change
+(IPCC), suggests that that Himalayan regions like Nepal will experience significant changes in weather
+patterns due to climate change. The Association’s Climate and Disaster Risk Screening tool further
+confirms high risks of extreme precipitation and landslides facing SRN roads and bridges. Strengthening
+the resilience of Nepal’s road and bridge network, particularly through greater consideration for resilient
+engineering designs will be important for adapting to whatever eventualities climate change will bring for
+Nepal. Strengthening maintenance systems is also essential for achieving greater resilience as well as cost
+effectiveness of Nepal’s SRN bridge investments. Regular bridge maintenance is critical to enhancing
+resilience and extending the useful life of assets at levels of costs that are typically well below bridge
+replacement. There is also a need to enhance the resilience considerations reflected in initial bridge designs
+that DOR deploys in Nepal.
+
+8.    SRN roads and bridges suffer from insufficient road safety features and the rate of road transport
+related fatalities in Nepal is amongst the highest in the world. In part, this reflects a historical focus on
+prioritizing expansion of connectivity ahead of the quality and safety of that connectivity. Bridge rail,
+proper markings, approach barriers, and features to protect non-motorized transport are typically basic and
+insufficient to provide for safety. The design and construction of bridges for inclusive and safe access is
+an area where Nepal can improve development results from bridge investments.
+
+9.    The SRN remains both incomplete and inadequate with respect to the transportation services that
+Nepal requires for poverty reduction and increasing shared prosperity. For example, only about 54% of
+SRN roads feature some form of bituminous surface. Similarly, there are 372 identified gaps (totaling
+approximately18,861 meters) on SRN roads that require new bridge construction for improved all-weather
+connectivity. Historically, the SRN’s development has been constrained by GON’s fiscal capacity and the
+inherent technical challenges of Himalayan geology. Increasingly, however the SRN’s development is
+constrained by governance related issues and the limited ability of GON’s programs to deliver their
+intended results to international standards of safety, reliability, and cost effectiveness. The IDA-supported
+Bridges Improvement and Maintenance Program (BIMP-I) made considerable progress but more work
+remains to be done. Sourcing the overall quantum of investment needed for improving SRN road and
+bridge infrastructure will remain a formidable challenge. However, the foremost obstacle to addressing it
+will be improving results from the money that will be spent along the way. Supporting the GON to further
+advance both infrastructure availability and the capabilities of its SRN bridge program (hereafter the
+Program) is a high development priority for Nepal.
+
+10.   Women are unrepresented in Nepal’s engineering professions and the ministries / departments that
+manage the road network which represents a clear gender gap in Nepal’s transport sector. Rough estimates
+suggest that female engineers comprise about 6% of the DOR’s technical staff. Despite being a low
+proportion overall, this may be slightly more than other roads sector institutions in Nepal. For example, in
+2013 the Department of Local Infrastructure Development and Agricultural Roads reportedly employed
+only 7 female engineers (out of approximately 1,000).1 At present, there is only one female “class 1�?
+government officer2 assigned in the entirety of Nepal’s roads sector. Nationally, of the total number of
+people employed in the transport, storage and communications sector in Nepal, only 3.5% are women.3
+This may in part reflect cultural norms and preferences. However, anecdotal evidence also suggests that
+female engineers within road sector institutions are often allocated organizational rather than technical task
+which may reduce job satisfaction and limit opportunities for advancement. Sourcing more female
+engineers, enhancing their technical skills, and elevating their role in technical programs can help
+strengthen GON’s road sector institutions and Nepal’s overall engineering community. This will be a key
+objective of a new Design and Advanced Technologies Cell (DATC) that the proposed operation will
+support.
+
+
+
+      1 https://blogs.adb.org/blog/meet-nisha-tripathee-female-engineer-nepal
+      2 “Class 1�? officers are able to hold the rank of Director General and Deputy Director General level posts. They are also potential
+      candidates for Secretary-level positions in Nepal’s ministries.
+      3 Based on ILO data, using a three-year moving average
+C. Proposed Development Objective(s)
+ 11.  The Program Development Objective is to provide safe, resilient, and cost effective bridges on
+ Nepal’s Strategic Roads Network. The following three indicators will serve to measure the PDO’s
+ achievement:
+
+ Key Results
+ PDO level results and indicators are as mentioned below:
+
+  PDO level result              PDO level indicator
+  Safe bridges                  PDO 1: Reduced likelihood of road departure crashes on Program bridges.
+  Resilient bridges             PDO 2: Enhanced DOR capabilities for developing resilient bridge designs.
+  Cost effective bridges        PDO 3: Estimated road user cost savings achieved by Program interventions
+ D. Project Description
+
+  PforR Program Scope - As the ISDS is not necessary for the PforR operation, the PforR component of
+  the project has not been described here.
+
+ IPF Component – TA, Advanced Resilience & Inclusion Designs, & Institutional Development:
+ 12.   The IPF TA component will support, among other things, studies that concern potential impacts and
+ requirements for site specific mitigation plans under the Association’s system, and advanced designs for
+ enhanced resilience and inclusion that could be included in future IDA-supported operations. The IPF
+ component will thus support baseline assessments, engineering studies, feasibility studies, and technical
+ designs for preparing future projects on the SRN as government priorities crystalize and DOR identifies
+ the specific projects. The risk level of each future proposed project or bridge for which relevant studies
+ will be prepared under the IPF component will be confirmed in accordance with the screening criteria as
+ per Bank’s OP 4.01 as well as country’s legislative requirements and the DOR’s Environmental and Social
+ Management Framework that guides their implementation. Model Environmental Impact Assessment
+ (EIA) and Social Impact Assessment (SIA) Terms of Reference (TOR) have been prepared, reviewed,
+ cleared by the Bank and publicly disclosed. During implementation, model TOR will be customized to
+ site-specific interventions. During implementation, site specific EIA and SIA TOR as well as EIA and SIA
+ report(s) for each high-risk intervention will be reviewed and cleared by the Association. The site-specific
+ assessment reports and prepared plans shall be reviewed and cleared by the Bank, approved by the
+ concerned GON authorities, and be disclosed by the Association and DOR (/Implementing Agency) at
+ least 120 days prior to the execution of assignments.
+
+ 13.  For environmental risk management, OP/BP 4.01 Environmental Assessment, OP/BP 4.04 Natural
+ Habitats, OP/BP 4.36 Forests, and OP/BP 4.11 Physical Cultural Resources are triggered for the IPF
+ component because one or more of the bridges to be developed with support from the TA may have adverse
+ consequences relevant to those aspects, depending on the location and details of the proposed intervention/
+ bridge.
+
+ 14.    For social impacts, OP/BP 4.10 (Indigenous Peoples), and OP/BP 4.12 (Involuntary Resettlement)
+ are triggered. Vulnerable Community Development Plan (VCDP) inclusive of Indigenous People's issues
+ (or an independent Indigenous Peoples' Plan (IPP) where necessary) will be developed as may be applicable
+  based on findings of social impact assessment (SIA) for each bridge-site. Similarly, a Resettlement Action
+  Plan (RAP) or Abbreviated Resettlement Action Plan (ARAP) will be prepared for each project requiring
+  permanent acquisition of private assets (land, structures, etc.) based on SIA findings. Further, adversely
+  affected persons/families will be supported in livelihood restoration and/or enhancement through
+  preparation and implementation of a VCDP for each high-risk bridge site.
+
+  15.   Communities and individuals who believe that they are adversely affected as a result of a Bank
+  supported operation, as defined by the applicable policy and procedures, may submit complaints to the
+  existing program grievance redress mechanism or the WB’s Grievance Redress Service (GRS). The GRS
+  ensures that complaints received are promptly reviewed in order to address pertinent concerns. Affected
+  communities and individuals may submit their complaint to the WB’s independent Inspection Panel which
+  determines whether harm occurred, or could occur, as a result of WB non-compliance with its policies and
+  procedures. Complaints may be submitted at any time after concerns have been brought directly to the
+  World Bank's attention, and Bank Management has been given an opportunity to respond. For information
+  on how to submit complaints to the World Bank’s corporate Grievance Redress Service (GRS), please visit
+  http://www.worldbank.org/GRS. For information on how to submit complaints to the World Bank
+  Inspection Panel, please visit www.inspectionpanel.org.
+
+  E. Project location and Salient physical characteristics relevant to the safeguard analysis (if
+  known)
+  16.   The IPF Component is a TA and will include support, inter alia, for the preparations of future projects
+  on the Strategic Roads Network; advanced bridge designs for enhanced resilience and inclusion; and other
+  technical support outlined in the project description.
+
+  17.   Specific locations of projects applicable to the IPF component are not yet to be known. The designs
+  that will be prepared under the IPF TA Component are likely to be for bridges located on the Strategic
+  Road Network (SRN) of Nepal, and in some cases, in close vicinity of existing bridges. The road network
+  under SRN spread across Nepal – hills/ mountains, and plain terrains. Some sections of roads in the SRN
+  pass through sensitive sites including protected areas or close to such sites and/ or forest areas as well as
+  through or close to settlements.
+
+  F. Environmental and Social Safeguards Specialists on the Team
+  Drona Raj Ghimire, Sr. Environment Specialist - GEN06
+  Caroline Mary Sage, Sr. Social Development Specialist – GSU06
+  Annu Rajbhandari, Environmental Specialist – GEN06
+  Govind Prasad Bhatt, Social Development Consultant – GTI06
+  Dron Pun, Environmental Consultant - GENDR
+
+
+II. IMPLEMENTATION
+Institutional and Implementation Arrangements
+18.  DOR’s Bridge Branch will lead Program implementation as well as the implementation of the hybrid
+operation’s IPF component. Six other entities within the Department of Roads will have key roles in
+supporting the Program’s functioning. Table 1 summarizes the roles of these different entities.
+Table 1: Roles / Responsibilities of Internal DOR Entities
+
+ DOR Entity         Program role
+                    ▪ Overall stewardship of Bridge Management System (BMS) and Bridge Site
+                       Monitoring System (BSMS), management of BMS / BSMS data and software
+                    ▪   Implementation of complex works (e.g. high / long bridges, innovative designs,
+                        advanced maintenance and repair methodologies)
+                    ▪   Oversight of implementation by Divisional Road Offices (for less complex
+                        works)
+                    ▪   Coordination of site supervision by independent consultants
+ Bridge Branch
+ (Lead entity for   ▪   Management of design consultants and international experts
+ Program            ▪   Implementation the Program’s complementary component on technical
+ delivery)              assistance, advanced resilience & inclusion designs, and institutional
+                        development
+                    ▪   Design approval, planning, monitoring, and development of Program
+                        investments
+                    ▪   Undertaking quality monitoring and evaluation of worksites
+                    ▪   Coordination of all PforR Program and IPF activities and primary point of
+                        contact with the Association’s task team
+ Divisional         ▪   Procurement and contract management of less complex works
+ Offices
+                    ▪   Coordinating of monitoring and reporting to Bridge Branch of bridge works by
+ Bridge Sectors         Divisional Offices within their respective geographical remits
+ (Regional
+ Directorates)      ▪   Direct monitoring and reporting to Bridge Branch on Program bridge works
+                        within their respective geographical remits.
+
+                    ▪   Compilation of work plan and annual budget for the Program (which are
+ Planning Branch        subsequently proposed to MoF for consideration / inclusion in the national
+                        budget)
+ Financial
+ Administration     ▪   Financial control and reporting for the Program within DOR
+ Section
+                      ▪   Lead overall management of environmental and social aspects of the Program
+                      ▪   Social and environmental assessments and development of safeguards
+                          instruments in accordance with the DOR’s Environmental and Social
+                          Management Framework, and other legislative provisions of GON
+                      ▪   Ensuring environmental and social consideration are adequately incorporated in
+Geo-Environment           project designs, bidding documents, bills of quantity, contract monitoring
+and Social Unit           systems, and other elements of contractual packages
+(GESU)
+                      ▪   Environmental and social compliance assurances – including planning,
+                          implementation, monitoring and supervisions; and seek/grant
+                          approvals/concurrences as applicable
+                      ▪   Management of DOR’s Grievance Redress Mechanism (GRM) focusing on
+                          social and environmental impacts
+Maintenance           ▪   Development of Annual Road Maintenance Plans (which also include bridges)
+Branch
+III. SAFEGUARD POLICIES THAT MIGHT APPLY
+ Safeguard Policies                     Triggered?       Explanation (Optional)
+ Environmental Assessment OP/BP 4.01 Yes                 The TA under IPF component will support the
+                                                         preparation of new road project and advance
+                                                         engineering design of major bridges that will require
+                                                         parallel Environmental and Social Assessments. Some
+                                                         of existing SRN Roads pass through National Parks/
+                                                         Protected Areas and forests. The roads and bridges
+                                                         that may be proposed might be located in the
+                                                         mountainous/hilly as well as in the plain terrains.
+                                                         Cultural sites are found in many of the rivers over
+                                                         which bridges may be constructed. After completion
+                                                         of the preparation/ engineering design under the IPF
+                                                         TA, subsequent construction of the road or bridges
+                                                         may have impacts on the natural environment, human
+                                                         health & safety, and cultural resources. The road and
+                                                         some bridges, depending on the location, scale, and
+                                                         type of activities, may be of high risk (risk level of
+                                                         each cannot be ascertained now because precise
+                                                         location, scale and type of activities are not known).
+                                                         Given that the details of investments are largely
+                                                         unknown at this stage, a draft EIA TOR has been
+                                                         developed, which includes the development of
+                                                         required environmental management plans where
+                                                         necessary. The TOR will be adapted for site specific
+                                                         assessments and plans for each future project as
+                                                         needed.
+
+ Natural Habitats OP/BP 4.04            Yes              Some of SRN Roads pass through National Parks/
+                                                         Protected Areas. The new road project that may be
+                                                         prepared under the IPF TA could also pass through the
+                                             protected area/ natural habitat. Some rivers, over
+                                             which bridges may be designed under the IPF TA
+                                             component, could be important habitat for fishes,
+                                             riverine ecosystems and aquatic species.
+                                             The currently prepared EIA TOR will be adapted for
+                                             site specific assessments and required plans for each
+                                             future project as needed.
+
+Forests OP/BP 4.36                    Yes    Some of SRN Roads pass through forest areas. The
+                                             new road project that may be prepared under the IPF
+                                             TA could also pass through the forest area. The
+                                             bridges designed under the IFP TA could also be
+                                             located in or adjacent to forests.
+                                             The currently prepared EIA TOR will be adapted for
+                                             site specific assessments and required plans for each
+                                             future project as needed.
+
+Pest Management OP 4.09               No     The proposed operation will not use any herbicides or
+                                             pesticides. Therefore, this policy is not triggered.
+
+Physical Cultural Resources OP/BP 4.11 Yes   Depending on the locations of the activities, there is
+                                             possibility of existence of cultural sites within or close
+                                             to rights of way or project influence area: some could
+                                             be of national/ international significance.
+                                             The currently prepared EIA TOR will be adapted for
+                                             site specific assessments and required plans for each
+                                             future project as needed.
+
+Indigenous Peoples OP/BP 4.10         Yes    Indigenous Peoples (IPs) in Nepal reside in various
+                                             parts of the country and are likely to be present in the
+                                             proposed project/program area as well because the
+                                             road and/or bridge project that may be prepared under
+                                             the IPF TA may pass through the IP area. Thus, they
+                                             (IPs) are potentially affected people by the project
+                                             activities, triggering this policy. Given that the details
+                                             of project investments are largely unknown at this
+                                             stage, a draft model Social Impact Assessment TOR
+                                             has been developed, which includes the development
+                                             of an indigenous peoples/vulnerable community
+                                             development plan with IP issues, where necessary.
+                                             The TOR will be adapted for site specific assessments
+                                             and plans for each future project as needed.
+
+Involuntary Resettlement OP/BP 4.12   Yes    Involuntary taking of land might be required as the
+                                             road and/or bridge project that may be prepared under
+                                             the IPF TA might pass through the settlements,
+                                             agricultural lands, etc. affecting assets and/or
+                                             livelihoods of the people. Therefore, the policy is
+                                                             triggered. Given that the details of investments are
+                                                             largely unknown at this stage, a draft Social Impact
+                                                             Assessment TOR has been developed, which includes
+                                                             the development of a Resettlement Action Plan where
+                                                             necessary. The TOR will be adapted for site specific
+                                                             assessments and plans for each future project as
+                                                             needed.
+
+ Safety of Dams OP/BP 4.37                No                 No dams will be constructed or upgraded for the
+                                                             project, and no project investments depend on existing
+                                                             dams.
+
+ Projects on International Waterways No                      No dams will be constructed or upgraded for the
+ OP/BP 7.50                                                  project, and no project investments depend on existing
+                                                             dams.
+
+ Projects in Disputed Areas OP/BP 7.60 No                    The project does not include any activities in disputed
+                                                             areas.
+
+
+
+IV. Key Safeguard Policy Issues and Their Management
+ A. Summary of Key Safeguard Issues
+ 1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe
+ any potential large scale, significant and/or irreversible impacts:
+ The IPF Component does not include the construction of civil works and will include support for: (i) preparing
+ future projects on the Strategic Roads Network; (ii) technical auditing by NVC; (iii) advance bridge designs for
+ enhanced resilience and inclusion; (iv) training (domestic and international) and capacity development; (v)
+ supervision oversight consultancies; (vi) mobilization, equipage, and development of a Design and Advance
+ Technology Cell; and (vii) capacity development for Environmental and Social Risk management, including
+ support to improve OHS practices and DOR’s capabilities for implementing Nepal’s new Labor Act (2017).
+
+ However, some aspects of the IPF component, such as the preparation of feasibility studies/ future projects and
+ advance bridge designs relating to major SRN road could be of significant social and environmental risk depending
+ on the nature, scale and location of the activity. The location of the future project that may be prepared under the
+ TA is not-known at this stage. The advance design of the bridges on the SRN will be located in the existing
+ Strategic Roads, and potentially, in close vicinity of existing bridges. The roads under SRN are in the hilly/
+ mountain as well as plain terrains, and some of SRN Roads pass through National Parks/ Protected Areas as well
+ as from forest areas. Some rivers, over which bridges may be designed under the IPF TA component, are important
+ habitat for fishes and aquatic species, and heritage sites are often located in the river banks. For these reasons,
+ OP/BP 4.01 Environmental Assessment, OP/BP 4.04 Natural Habitats, OP/BP 4.36 Forests, and OP/BP 4.11
+ Physical Cultural Resources are triggered. The IPF Component will, together with technical preparation and
+ engineering design, support the carrying out the environmental and social assessments, including stakeholder
+ consultations meeting the requirements of the applicable Bank policies.
+
+ For social impacts, OP/BP 4.10 (Indigenous Peoples), and OP/BP 4.12 (Involuntary Resettlement) are triggered.
+ For analytical and engineering works relating to the preparation of major SRN road and bridge projects, Social
+ Impact Assessments (SIA) will be conducted in tandem with engineering works (feasibility studies, and
+preparation of designs and DPRs) and required social management plans (resettlement, Indigenous
+Peoples/vulnerable community development, etc.) shall be prepared in parallel with such engineering works in
+accordance with applicable Policies and Procedures of the World Bank (including OP/BP 4.10, 4.12, etc.) and
+those of the GON (Land Acquisition Act; Land Acquisition, Resettlement and Rehabilitation Policy, etc.; and the
+DOR’s ESMF - which has been prepared with support of the World Bank environment and social safeguard teams
+under Bank-supported Road Sector Development Project (RSDP), and is in alignment in general with the
+applicable social and environmental policies of the Bank).
+2. Describe any potential indirect and/or long-term impacts due to anticipated future activities in the project
+area:
+This is not-known at this stage. The EIA, SIA and other assessments that will be carried out during implementation
+of the TA, in tandem with technical studies/ assessment, will assess any potential indirect/ and/ or long-term
+impacts and will incorporate relevant mitigation measures. Generic TOR for EIA and SIA have been reviewed and
+cleared by the Bank. The generic TOR will be customized for each intervention during implementation of the TA.
+The customized TOR for each high-risk intervention will be reviewed and cleared by the Bank.
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+Alternatives will be explored during study/design/DPR stage as well as by the EIA and SIA. The TOR for EIA and
+SIA will be reviewed and cleared by the Bank.
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of
+borrower capacity to plan and implement the measures described.
+Implementing agency, the Department of Roads (DOR) is the lead agency in planning and developing the Strategic
+Road Network (SRN) including bridges on the SNR in Nepal, and has experience of implementing donor
+supported projects including World Bank supported projects. The DOR is familiar with the Bank’s
+social/environmental requirements, as it has been engaged with the Bank funded projects including RSDP,
+NIRTTP, RSSP and BIMP-I (predecessor of the proposed Program). The department has established a Geo-
+Environment and Social Unit (GESU) to deal with environmental and social aspects of roads: it has played an
+important role in mainstreaming environmental and social considerations in road and bridge planning and
+development.
+
+GON / DOR has prepared a sectoral Environmental and Social Management Framework (ESMF 2007), which is
+being applied in the Bank funded ongoing RSDP, NIRTTP, etc. DOR issued a bridge addendum to the ESMF in
+2013. The ESMF together with the bridge addendum have been prepared considering the government’s legal
+requirements as well as the World Bank’s safeguard policies. ESMF and the addendum provide a comprehensive
+framework for the assessment of different risks, development of safeguards instruments, and overall management
+of impacts. Besides, the DOR has developed several documents such as a manual and reference book for helping
+internalize environmental and social aspects. Over the years, DOR has improved environmental and social
+management through strengthening GESU. However, DOR has limited experience of independently handling/
+managing higher risk projects. The IPF TA component of the proposed project will support in further
+strengthening the environmental management capacity and system of the DOR/GESU, particularly the assessment
+and management of environmental and social risks and impacts of high-risk projects.
+
+The existing Environmental and Social Management Framework (ESMF) of DOR will be used as a general
+guidance document. The client has prepared generic TOR for the EIA and SIA (Road and Bridge) for use during
+the TA implementation, which have been cleared by the Bank. Based on the generic TOR cleared by the Bank, the
+client -during implementation- will prepare specific/customized TOR for EIA and SIA for each IPF supported
+design work. The specific/customized TOR (for EIA and SIA) for high-risk interventions will be reviewed and
+cleared/agreed by the Bank, in which specific requirements for the proposed bridge/road to comply with the Bank
+safeguard policies will be defined. It is envisaged that the EIA and SIA will be undertaken at the same time as the
+more complex designs being supported by the TA. Where such interventions are screened as high-risk
+interventions (i.e. screened as Category ‘A’ interventions), each EIA and SIA TOR will be subject to consultation
+and disclosure as required by the World Bank safeguard policies as well as clearance from the Bank. In addition,
+an Environmental and Social Screening will be carried for each IPF intervention. The Screening and
+Categorization Report will also include an early environmental and social assessment of the potential impacts and
+risks providing early inputs to engineering planning and design. The Bank will review and clear each of the
+screening and categorization reports for Category ‘A’ interventions. The Bank will also review and clear each of
+the draft EIA and SIA Report of Category ‘A’ interventions.
+
+Environmental and social safeguard documents, including detailed EIA, SIA and various required plans as per
+GON and World Bank provisions, will be prepared during the implementation of the TA, in tandem with
+engineering works (feasibility studies, and preparation of designs and DPRs). The aim is for the EIA and SIA
+steps and engineering steps to be carried out together so that there is good integration of both environmental/ social
+assessment and engineering planning and design processes and outputs.
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard
+policies, with an emphasis on potentially affected people.
+Road and Bridge Specific Stakeholders will be identified during the EIA and SIA process. EIA/SIA, as described
+above, will be undertaken during the implementation of the TA (in tandem with technical studies). Specific TOR
+for the EIA and SIA will include requirements for the stakeholders’ consultations and disclosures and will be
+reviewed and cleared by the Bank.
+
+
+B. Disclosure Requirements (N.B. The sections below appear only if corresponding safeguard policy is
+triggered)
+Environmental Assessment/Audit/Management Plan/Other.
+Date of receipt by the Bank (ESMF)                                                        December 29, 2017
+Date of receipt by the Bank (EIA Model TOR)                                               April 17, 2018
+Date of submission to InfoShop (ESMF)                                                     December 29, 2017
+Date of submission to InfoShop (EIA Model TOR)                                            April 17, 2018
+For category A projects, date of distributing the Executive Summary of the EA to the      NA
+Executive Directors
+"In country" Disclosure
+Nepal (ESMF)                                                                  December 19, 2017 (Re-
+                                                                              disclosed integrating
+                                                                              Bridge Addendum)
+Nepal (EIA Model TOR)                                                         April 17, 2018
+Comments: The ESMF of the Implementing Agency (DOR) has been prepared with support from the
+World Bank. It is generally in-line with environmental and social safeguard policies and procedures of
+the Bank and is inclusive of provisions for screening, planning, and developing actions and guidance to
+address safeguard issues arising from implementation of project activities. The ESMF is being applied
+in the ongoing Bank supported projects. Generic TOR for EIA and SIA have been prepared, and
+cleared by the Bank. Specific/customized TOR for EIA and SIA will be prepared based on the generic
+TOR cleared by the Bank. The specific TOR for each Category ‘A’ interventions will also be reviewed
+and cleared by the Bank. The Screening and Categorization Report will also be reviewed and cleared
+by the Bank.
+Resettlement Action Plan/Framework/Policy Process
+Date of receipt by the Bank (ESMF)                                                     December 29, 2017
+Date of receipt by the Bank (SIA Model TOR)                                            April 17, 2018
+Date of submission to InfoShop (ESMF)                                                  December 29, 2017
+Date of submission to InfoShop (SIA Model TOR)                                         April 17, 2018
+"In country" Disclosure
+Nepal (ESMF)                                                                December 19, 2017 (Re-
+                                                                            disclosed integrating
+                                                                            Bridge Addendum)
+Nepal (SIA Model TOR)                                                       April 17, 2018
+Comments: The DOR ESMF contains RAF and has provisions complying with Bank policies and
+procedures that will be followed during the EIA / SIA and in preparation of the RAP and other plans as
+required adhering to applicable GON and World Bank standards/provisions. Generic TOR for EIA and
+SIA have been reviewed and cleared by the Bank. EIA and SIA TOR for specific interventions will be
+prepared during implantation of the TA, and specific/ customized TOR for each Category ‘A’
+intervention will be reviewed and cleared by the Bank during implementation of the TA.
+Indigenous Peoples Development Plan/Framework
+Date of receipt by the Bank (ESMF)                                                     December 29, 2017
+Date of receipt by the Bank (SIA Model TOR)                                            April 17, 2018
+Date of submission to InfoShop (ESMF)                                                  December 29, 2017
+Date of submission to InfoShop (SIA Model TOR)                                         April 17, 2018
+"In country" Disclosure
+Nepal (ESMF)                                                                 December 19, 2017 (Re-
+                                                                             disclosed integrating
+                                                                             Bridge Addendum)
+Nepal (SIA Model TOR)                                                        April 17, 2018
+Comments: The DOR ESMF contains IPF and has provisions complying with Bank policies and
+procedures that will be followed during the EIA / SIA and in preparation of the IPP/ VCDP. Generic
+TOR have already been reviewed by the Bank. Intervention specific TOR will be reviewed and cleared
+by the Bank ensuring that Bank policies are fully complied with in conducting the SIA and preparation
+of required management plans (VCDP/IPP, etc.).
+Pest Management Plan: NA
+Was the document disclosed prior to appraisal?
+Date of receipt by the Bank
+Date of submission to InfoShop
+"In country" Disclosure
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, the respective
+issues are to be addressed and disclosed as part of the Environmental Assessment/Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please explain why:
+NA
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is finalized by the
+project decision meeting) (N.B. The sections below appear only if corresponding safeguard policy is triggered)
+ OP/BP/GP 4.01 - Environment Assessment
+ Does the project require a stand-alone EA (including
+                                                              Yes   []    No      []    NA       [x]
+ EMP) report?
+ If yes, then did the Regional Environment Unit or
+ Practice Manager (PM) review and approve the EA              Yes   []    No     [X]    NA        []
+ report?
+ Are the cost and the accountabilities for the EMP
+                                                              Yes   [X]   No      []    NA        []
+ incorporated in the credit/loan?
+ OP/BP 4.04 - Natural Habitats
+ Would the project result in any significant conversion or
+                                                              Yes   []    No      []    NA       [x]
+ degradation of critical natural habitats?
+ If the project would result in significant conversion or
+ degradation of other (non-critical) natural habitats, does
+                                                              Yes   [X]   No      []    NA        []
+ the project include mitigation measures acceptable to the
+ Bank?
+ POP 4.09 - Pest Management
+ Does the EA adequately address the pest management
+                                                              Yes   []    No    [X]     NA        []
+ issues?
+ Is a separate PMP required?
+                                                              Yes   []    No     [X]    NA        []
+ If yes, has the PMP been reviewed and approved by a
+ safeguards specialist or PM? Are PMP requirements
+                                                              Yes   []    No      []    NA       [x]
+ included in project design? If yes, does the project team
+ include a Pest Management Specialist?
+ OP/BP 4.11 - Physical Cultural Resources
+ Does the EA include adequate measures related to
+                                                              Yes   [X]   No      []    NA        []
+ cultural property?
+ Does the credit/loan incorporate mechanisms to mitigate
+                                                              Yes   [X]   No      []    NA        []
+ the potential adverse impacts on cultural property?
+ OP/BP 4.10 - Indigenous Peoples
+ Has a separate Indigenous Peoples Plan/Planning
+ Framework (as appropriate) been prepared in                  Yes   []    No     [X]    NA        []
+ consultation with affected Indigenous Peoples?
+ If yes, then did the Regional unit responsible for
+                                                              Yes   []    No      []    NA       [X]
+ safeguards or Practice Manager review the plan?
+ If the whole project is designed to benefit IP, has the
+ design been reviewed and approved by the Regional            Yes   []    No     [X]    NA        []
+ Social Development Unit or Practice Manager?
+ OP/BP 4.12 - Involuntary Resettlement
+ Has a resettlement plan/abbreviated plan/policy
+ framework/process framework (as appropriate) been            Yes   []    No   [X]   NA    []
+ prepared?
+ If yes, then did the Regional unit responsible for
+                                                              Yes   []    No   []    NA    [x]
+ safeguards or Practice Manager review the plan?
+ Is physical displacement/relocation expected?
+                                                              Yes   []    No   []    TBD   [X]
+ Is economic displacement expected? (loss of assets or
+ access to assets that leads to loss of income sources or     Yes   []    No   []    TBD   [X]
+ other means of livelihoods)
+ OP/BP 4.36 – Forests
+ Has the sector-wide analysis of policy and institutional
+                                                              Yes   []    No   [X]   NA    []
+ issues and constraints been carried out?
+ Does the project design include satisfactory measures to
+                                                              Yes   []    No   []    NA    [X]
+ overcome these constraints?
+ Does the project finance commercial harvesting, and if
+                                                              Yes   []    No   [X]   NA    []
+ so, does it include provisions for certification system?
+ The World Bank Policy on Disclosure of Information
+ Have relevant safeguard policies documents been sent to
+                                                              Yes   [X]   No   []    NA    []
+ the World Bank's Infoshop?
+ Have relevant documents been disclosed in-country in a
+ public place in a form and language that are
+                                                              Yes   [X]   No   []    NA    []
+ understandable and accessible to project-affected groups
+ and local NGOs?
+ All Safeguard Policies
+ Have satisfactory calendar, budget and clear institutional
+ responsibilities been prepared for the implementation of     Yes   [X]   No   []    NA    []
+ measures related to safeguard policies?
+ Have costs related to safeguard policy measures been
+                                                              Yes   [X]   No   []    NA    []
+ included in the project cost?
+ Does the Monitoring and Evaluation system of the
+ project include the monitoring of safeguard impacts and      Yes   []    No   []    NA    [X]
+ measures related to safeguard policies?
+ Have satisfactory implementation arrangements been
+ agreed with the borrower and the same been adequately        Yes   [X]   No   []    NA    []
+ reflected in the project legal documents?
+
+V. Contact point
+     Contact 1:       Dominic Pasquale Patella
+     Title:           Sr. Transport Specialist
+     Tel:             +1 (202) 458 4619
+     Email:           dpatella@worldbank.org
+
+     Contact 2:       Oceane Keou
+     Title:           Transport Specialist
+     Tel:             +1 (202) 473 7130
+     Email:           okeou@worldbank.org
+Borrower/Client/Recipient
+Contact:       Mr. Kewal Prasad Bhandari
+Title:         Joint Secretary, International Economic Cooperation Coordination Division
+Tel:           +977 4211837
+Email:         ieccd@mof.gov.np
+
+Implementing Agencies
+Contact:      Mr. Gopal Prasad Sigdel
+Title:        Director General, Department of Roads
+Tel:          +977 15529075
+Email:        dgdor@dor.gov.np
+
+For more information contact:
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+
+APPROVAL
+
+                                 Dominic Pasquale Patella
+ Task Team Leader(s)
+                                 Oceane Keou
+
+Approved By
+ Regional Safeguards Adviser     Maged Mahmoud Hamed                May 17, 2018
+
+ Practice Manager                Karla Gonzalez Carvajal            May 18, 2018
+

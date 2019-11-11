@@ -1,0 +1,263 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+ADDITIONAL FINANCING
+Report No.: ISDSAl 127
+Date ISDS Prepared/Updated: 18-Mar-2015
+Date ISDS Approved/Disclosed: 19-Mar-2015
+I. BASIC INFORMATION
+1. Basic Project Data
+Country:        Ghana                      Project ID:  P147878
+Parent       P074191
+Project ID:
+Project Name: GEDAP Second Additional Financing (P147878)
+Parent Project Ghana: Energy Development and Access Project (P074191)
+Name:
+Task Team       Sunil W. Mathrani
+Leader(s):
+Estimated       04-Mar-2015                Estimated    30-Apr-2015
+Appraisal Date:                            Board Date:
+Managing Unit: GEEDR                       Lending      Investment Project Financing
+Instrument:
+Sector(s):      Transmission and Distribution of Electricity (100%)
+Theme(s):       Infrastructure services for private sector development (70%), Other public sector
+governance (30%)
+Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+8.00 (Rapid Response to Crises and Emergencies)?
+Financing (In USD Million)
+Total Project Cost:     60.00             Total Bank Financing:   60.00
+Financing Gap:            0.00
+Financing Source                                                        Amount
+BORROWER/RECIPIENT                                                          0.00
+International Development Association (IDA)                                60.00
+Total                                                                      60.00
+Environmental B - Partial Assessment
+Category:
+Is this a       No
+Repeater
+project?
+2. Project Development Objective(s)
+Page 1 of 7
+
+
+﻿A. Original Project Development Objectives - Parent
+To improve the operational efficiency of the electricity distribution system and increase the
+population s access to electricity.
+B. Current Project Development Objectives - Parent
+C. Proposed Project Development Objectives - Additional Financing (AF)
+3. Project Description
+Proposed Project Development Objectives - Additional Financing (AF): The PDO of the AF will
+remain the same as those of the original GEDAP.
+The original project has three components: (A) Sector and institutional development; (B) electricity
+distribution improvement; and (C) electricity access and renewable energy. It is almost fully
+disbursed and virtually all activities have been completed.
+In June 2010 IDA approved a first additional financing of US$ 70 million to concentrate efforts on
+improving ECG's operational performance in high loss regions (Ashanti East & West) through the
+following new components that were added to the original project and which were concentrated on:
+(i) Distribution upgrade and (ii) commercial and technical capacity upgrade that included a program
+for replacement of faulty meters and implementation of a loss reduction program, a new customer
+management system and revenue improvement measures. The current closing date of the project is
+July 31, 2015 and activities under the first AF are also nearing completion, with about 75% of the
+Credit disbursed on 15 February 2015.
+The implementation status for the components under the original project is as follows:
+Component A: Sector and institutional development:
+1.       Four sector entities (the Ministry of Energy, ECG and the two energy sector regulators, the
+PURC and the Energy Commission), were supported by this component from the original project.
+Implementation has been mixed. The Renewable Energy Act was approved by Parliament in late
+2011 as a result of work carried out under GEDAP. Renewable resource assessments have been
+completed for biomass energy, wind, and mini-/micro-hydro electricity generation. Tariff studies and
+utility benchmarking were carried out by the PURC, along with capacity building activities for
+several oversight agencies. However, while measures to enhance ECG's operational performance
+helped to reduce losses, this did not achieve the expected improvements in ECG's financial
+performance.
+Component B: Electricity distribution improvement:
+2.     This component has been completed. It has helped to upgrade the ECG distribution system in
+order to contain or reduce technical energy losses on the network and improve the quality of supply
+to consumers. A recent (2012) loss-reduction study estimated these to be about 11 percent, which is
+considered to be reasonable and which could not have been achieved absent these interventions under
+the original project scope. As a result overall losses have been brought down from 26% to around
+22%.
+Component C: Electricity access and renewable development:
+Page 2 of 7
+
+
+﻿3.     Implementation of activities under this component is proceeding well. ECG and the Northern
+Electricity Distribution Company (NEDCO) have connected over 140,000 households to their
+distribution networks. In addition, the program of providing solar photovoltaic (PV) systems has
+brought electricity to 15,000 remote rural households, while demonstrating a successful business
+model for distributing PV systems to communities where the grid is not expected to reach. One
+activity that is still under implementation is the construction of pilot mini- and micro-grids in
+inaccessible areas in and around Lake Volta. The construction of these systems is expected to be
+completed by the third quarter of 2015, and the contractor will operate them until July 2017 under a
+contract with the Ministry of Power.
+4.     The activities under the first Additional Financing were included under a new Component D,
+Expanded Capacity for Electricity Distribution Improvement which was added to the original project
+scope. The implementation status is as follows:
+Distribution system upgrade. Substation and medium-voltage line works are progressing
+satisfactorily and will be completed by Credit closure.
+Commercial and technical capacity upgrade. Seven district offices/customer service centers have
+been built to deal with the growth in customer population. Implementation of a new, company-wide
+Commercial Management System (CMS) is well under way and is expected to be completed by
+September 2015. The installation of 140,000 meters in the Ashanti region will begin on March 1,
+2015.
+The proposed AF will scale up and expand the activities under the GEDAP and the first additional
+financing. The activities comprise (a) revenue protection program targeting ECG's revenues from
+large and medium customers, (b) bulk metering for medium voltage networks, (d) an incident
+management system (IMS) to support effective management and resolution of outages and incidents
+in electricity supply, and (d) technical assistance and project management support. The bulk of the
+proposed activities would be focus on improving revenue and co mmercial loss reduction.
+The specific activities would be as follows:
+(a) Revenue protection program (RPP, US$30 million). RPP is focused on the systematic recording
+and monitoring of consumption of ECG's s largest users to protect revenues from sales to large and
+medium customers. Around 4 percent of ECG's high value customers represent 60 percent of total
+energy (kWh) billed. They include the medium and high voltage customers and the largest low
+voltage customers. Sustainable protection of the revenues generated by these customers is the key
+focus of the RRP. The aim is to achieve zero non-technical losses in this segment by completion of
+the activity.
+Recovery and protection of the revenues generated by large customers will be achieved by managing
+their consumption (metering, reading and billing) through advanced metering infrastructure (AMI).
+The AMI includes consumption metering systems and communications devices at each customer
+premises, including communication devices that make possible to periodically transmit their records
+to remote points where they are systematically analyzed, processed and monitored by metering
+control centers (MCCs). The MCCs will be supported with a meter data management (MDM))
+software designed to monitor, timely detect and correct any eventual irregular condition in electricity
+use.
+At present ECG has incorporated AMI to remotely record consumption of its large customers
+Page 3 of 7
+
+
+﻿supplied in high and medium voltage. However, the company has not implemented the MCCs as
+permanent organizational units responsible for revenue protection. The existing MDM is outdated,
+and needs to be replaced by a software package specifically designed to enable systematic
+monitoring of consumption for the purpose of revenue protection.
+The RPP to be implemented by ECG will comprise: (i) installation/relocation of AMI infrastructure
+at the customer's premises of at least 80,000 users with recorded monthly consumption above 600
+kWh; (ii) creation of the MCCs as new organizational units within the company; and (iii)
+incorporation of a state-oft-art MDM software package and training of the operators of the MCCs for
+systematic monitoring of consumption of the target customers. Meters prone to energy theft and/or
+direct unmetered connection to the grids will be relocated.
+(b) Bulk metering - medium voltage distribution networks (US$21 million). This component will
+include the deployment of bulk metering AMI infrastructure in the four regional medium voltage
+distribution networks operated by ECG. The meters will be installed in feeders, distribution
+transformers and export-import metering at regional and district boundaries. Data provided by the
+AMI systems will be managed by the MCCs.
+ECG has started a bulk metering program in the Accra region, but the scope needs to be expanded to
+other critical areas of the distribution network. The AMI based bulk metering system will enable
+accurate metering and accounting of energy flows in four regional medium voltage distribution
+networks. This would enable the identification of high loss areas and targeting of specific loss
+reduction programs. It will also enable accountability of regional and district managers for losses in
+their operational areas.
+(c) Incorporation of an Incidents Management System (IMS, US$1.9 million). This component
+comprises an IT application to support management and resolution of outages and incidents in
+electricity supply at all levels but will in particular focus on low voltage distribution networks.
+Incidents at low voltage level cannot be detected through the SCADA system for operation and
+supervision of high and medium voltage networks. The IMS will be accompanied by the
+establishment of a network assets and supply database, which include data on medium voltage
+networks and on each customer's connection to the corresponding transformer station. The IMS will
+allow a centralized, reliable and continuous management of customers' claims. The system will be
+interconnected with the Commercial Management System (CMS), currently being implemented
+under the first GEDAP AF.
+(d) Technical Assistance and Project Management Support (US$3.1 million). This component
+comprises: (i) construction of customer service centers; (ii) project management support activities;
+and (iii) provision of technical assistance/consultancy services. Technical assistance activities
+include consultancy services for (i) preparation of a 10 year Master Plan for the development of the
+distribution infrastructure; (ii) cost assessment of unserved energy to ECG; (iii) suppressed demand
+study; and (iv) feasibility studies for possible upgrade of sub-transmission facilities currently
+operating at 11kV and 33kV to higher voltages to reduce technical losses.
+4. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+The project covers the entire country.
+5. Environmental and Social Safeguards Specialists
+Page 4 of 7
+
+
+﻿Demba Balde (GSURR)
+Thomas E. Walton (GENDR)
+6. Safeguard Policies   Triggered? Explanation (Optional)
+Environmental           No           The AF activities does not trigger this policy.
+Assessment OP/BP 4.01
+Natural Habitats OP/BP  No           The proposed AF does not include any activity that
+4.04                                 triggers this policy.
+Forests OP/BP 4.36      No           No activities are expected to trigger this policy.
+Pest Management OP 4.09 No           The AF does not involve activities related to pest
+management.
+Physical Cultural       No           No excavations, demolitions or physical work are
+Resources OP/BP 4.11                 undertaken under the AF. Therefore, this policy is not
+triggered.
+Indigenous Peoples OP/  No           The planned activities under the AF do not involve
+BP 4.10                             indigenous people.
+Involuntary Resettlement No          No land acquisition leading to involuntary resettlement
+OP/BP 4.12                           and/or restrictions of access is envisaged
+Safety of Dams OP/BP    No           N/A
+4.37
+Projects on International  No        N/A
+Waterways OP/BP 7.50
+Projects in Disputed    No           N/A
+Areas OP/BP 7.60
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+and describe any potential large scale, significant and/or irreversible impacts:
+The proposed AF mainly focuses on purchasing materials, software and technical assistance to
+improve revenue and commercial loss reduction of the system. There are no adverse and
+irreversible environmental or social impacts expected due to the implementation of the activities
+planned under the AF. There are no Bank Safeguard Policy Triggered. However the category of
+the AF is kept as B like the Parent Project". The parent project (P074191) was part of the pilot use
+of the country's safeguard systems. As such, OP/BP 4.01 and 4.11 were not triggered, and
+environmental management has been carried out according to Ghanaian laws and procedures.
+After evaluation of Borrower capacity, country systems were not used to meet the requirements of
+OP 4.04 on Natural Habitat, OP 4.12 on Involuntary Resettlement, and OP 4.37 on Safety of Dams
+as they were not found to be up to Standards. The project legal agreements required adherence to
+OP 4.04 and 4.37 if those policies are triggered by any subprojects (which they were not). The
+Borrower prepared a Resettlement Policy Framework (RPF) which was disclosed at the Infoshop
+and In-country on 2/20/2007. The project has not required the preparation of RAPs.
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+in the project area:
+Page 5 of 7
+
+
+﻿3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+impacts.
+Not considered.
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+assessment of borrower capacity to plan and implement the measures described.
+The Borrower will use the existing Project Management Unit for this additional financing which
+has experience in safeguards implementation. In addition, the project management team will
+benefit support from the World Bank Safeguard team when required.
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+on safeguard policies, with an emphasis on potentially affected people.
+B. Disclosure Requirements
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please explain why:
+In this Additional Financing, no Safeguards Policy was triggered.
+C Compliance Monitoring Indicators at the Corporate Level
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the  Yes [  ] No [ X ]  NA [  ]
+World Bank's Infoshop?
+Have relevant documents been disclosed in-country in a public Yes [  ] No [ X ]  NA [  ]
+place in a form and language that are understandable and
+accessible to project-affected groups and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional  Yes [  ] No [  ]  NA [ X]
+responsibilities been prepared for the implementation of
+measures related to safeguard policies?
+Have costs related to safeguard policy measures been included  Yes [  ] No [  ]  NA [ X]
+in the project cost?
+Does the Monitoring and Evaluation system of the project  Yes [  ] No [   ]  NA [ X]
+include the monitoring of safeguard impacts and measures
+related to safeguard policies?
+Have satisfactory implementation arrangements been agreed  Yes [ X] No [  ]  NA
+with the borrower and the same been adequately reflected in
+the project legal documents?
+III. APPROVALS
+Task Team Leader(s): Name: Sunil W. Mathrani
+Approved By
+Page 6 of 7
+
+
+﻿qx o
+-e
+C   C.
+C
+
+

@@ -1,0 +1,772 @@
+Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+I.  Basic Information
+ 
+Date prepared/updated:  09/11/2009 
+Report No.:  AC4205
+1. Basic Project Data  
+ 
+Country:  Botswana 
+Project ID:  P112516 
+Project Name:  Botswana - Morupule B Generation and Transmission Project 
+Task Team Leader:  Varadarajan Atur 
+Estimated Appraisal Date: August 24, 2009 
+Estimated Board Date: October 29, 2009 
+Managing Unit:  AFTEG 
+Lending Instrument:  Specific Investment 
+Loan 
+Sector:  Power (80%);Mining and other extractive (20%) 
+Theme:  Infrastructure services for private sector development (100%) 
+IBRD Amount (US$m.): 
+162.00 
+IDA Amount (US$m.): 
+0.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ Borrower 
+1,317.00 
+ IBRD 
+Guarantee 
+243.00 
+ 
+African Development Bank 
+203.00
+1,763.00 
+Environmental Category: A - Full Assessment 
+Simplified Processing 
+Simple [] 
+Repeater [] 
+Is this project processed under OP 8.50 (Emergency Recovery) 
+or OP 8.00 (Rapid Response to Crises and Emergencies) 
+Yes [ ] 
+No [X] 
+2. Project Objectives 
+The objectives of the project are to support Botswana in: (i) developing reliable and 
+affordable supply of electricity for energy security; (ii) promoting alternative energy 
+resources for low-carbon growth; and (iii) building its institutional capacity in the energy 
+sector. All these objectives are key to Botswana's development strategy aimed at further 
+reducing poverty and spreading the dividends of progress more equitably among all 
+sections of society.  
+ 
+The first objective will be achieved by adding 600 megawatts (MW) new capacity 
+through four units of 150 MW each, adjacent to the existing Morupule A Power Station, 
+and associated transmission lines and substations. Greater availability of affordable 
+electricity to households and industry will benefit the economy as a whole. New 
+electricity connections bring new economic opportunities. The economic growth made 
+possible by increased and secure access to electricity will enhance social welfare, help 
+create jobs, and allow some of the country's rural populations to benefit from electricity 
+for the first time.  
+ 
+Page  2
+The second objective will be achieved by preparing a low-carbon growth strategy to 
+help the Government and private sector to fast track exploration of alternative energy 
+sources (e.g., coal-bed methane (CBM), concentrating solar power (CSP)) and new 
+technologies (e.g., carbon capture and storage (CCS)) through feasibility studies and 
+securing appropriate financing. In the short-term, this will enhance the Government's 
+knowledge, capacity, and preparedness for new technologies; in the medium-term, this 
+will enhance the prospects for private sector investment in new technologies and energy 
+alternatives; in the long-term, this will benefit the local population by creating new 
+"green collar" jobs and increasing Botswana's contribution to regional climate change 
+mitigation.  
+ 
+The third objective will be achieved by improving the sector frameworks - policy, legal, 
+and regulatory - for the electricity, coal, and CBM, and enhancing capacity of the 
+relevant institutions, including setting up of a new independent electricity regulator.   
+ 
+3. Project Description 
+The proposed project has three components and two associated infrastructure elements.  
+ 
+Component 1 - Morupule Generation Expansion: This component includes three distinct 
+and integral infrastructure subcomponents as follows:  
+ 
+Component 1(A) - The Morupule B Power Station (estimated cost US$1,211.3 million, 
+including taxes and duties of US$ 138 million) involves construction of a 600 MW (4 x 
+150 MW) coal-fired power station, adjacent to the existing Morupule A Power Station in 
+the township of Palapye, in the eastern part of the country. The scope includes, inter alia: 
+(i) coal conveyor, coal yard, coal crushers, and coal preparation equipment, (ii) limestone 
+preparation and feed systems, (iii) ash disposal and handling system, (iv) circulating 
+fluidized bed (CFB) boilers with associated particulate removal equipment, (v) steam 
+turbines and generators, (vi) fans and air cooled condensers, (vii) switchyard, and (viii) 
+balance of plant.  
+ 
+Component 1(B) - A transmission system (estimated cost US$275.2 million, including 
+taxes and duties of US$ 36 million) involves construction, through supply and 
+installation, of: (i)  Morupule-Phukoje 400-kilovolt (kV) transmission line (102 kilometer 
+(km)) and associated and associated communications equipment (OPGW), (ii) 400-kV 
+line bay at Phukoje, (iii) 315-MVA transformer intertie bay between Morupule A and 
+Morupule B, (iv) 220-kV line deviation (5 km) near exising Morupule A station, (v) three 
+315-MVA 400/220-kV transformers (two at Isang substation and one at Morupule B 
+station, (vi) automatic generation control (AGC) equipment, software, and associated 
+training, (vii) Isang (formerly called Mosaditsheni) 400/220-kV substation and 220-kV 
+tie-in two lines, (viii) Morupule-Isang 400-kV transmission line (215 km), and (ix) 
+reactive power compensation equipment.  
+ 
+Component 1(C) - A water supply system (estimated cost US$53.0 million, including 
+taxes and duties of US$6.1 million) involves construction, through supply and 
+installation, of: (i) gathering system, pumps, and reservoir at the new section of the Paje 
+Page  3
+well field and a pipeline from there to the Morupule B Power Station (80 km) for backup 
+supply; (ii) power supply line for the new Paje well field; and (iii) an extension pipeline 
+from the MCL reservoir to the Morupule B Power Station (5 km) for the main water 
+supply.  
+ 
+Component 2 - Alternative Energy Development: This component (estimated cost 
+US$6.8 million, including taxes) includes preparation of alternative energy projects 
+supporting low-carbon growth strategy as follows: (i) low-carbon study for growth and 
+long-term mitigation strategy for Botswana; (ii) bankable feasibility study for a 
+commercial scale CSP, including implementation approach and funding mobilization 
+assistance; (iii) CBM and coal development strategy; and (iv) detailed feasibility study 
+for pilot implementation of a CCS project.  
+ 
+Component 3 - Institution and Capacity Building: This component (estimated cost 
+US$13.9 million, including taxes) covers project implementation assistance, institution 
+and capacity building for Botswana Power Corporation (BPC) and the Ministry of 
+Minerals, Energy, and Water Resources (MMEWR) as follows:  
+ 
+(a) 
+For BPC (power plant and transmission): (i) transmission system harmonic study; 
+(ii) transmission control area establishment; (iii) transmission system operations training; 
+(iv) air quality monitoring and management; (v) training and workshops for Project 
+Management Unit (PMU) staff; and (vi) project management and supervision.  
+ 
+(b) 
+For MMEWR (sector development): (i) interim tariff policy study; (ii) tariff 
+policy and regulatory agency for the power sector, including capacity building; (iii) 
+design and implementation of a communications program; and (iv) training for 
+safeguards monitoring.  
+ 
+Associated infrastructure. Beyond the scope of the project are two elements of 
+associated infrastructure: (1) MCL is undertaking an expansion of their underground coal 
+mine, which also supplies coal to the Morupule A Power Station, for the dual purposes of 
+supplying coal to (i) the proposed Morupule B Power Station and (ii) the export market; 
+and (2) MCL has constructed a twenty-two kilometer underground water pipeline from 
+the North-South Carrier (NSC) for the dual purposes of supplying water to (i) the 
+Morupule Colliery and (ii) the proposed Morupule B Power Station. Both of these 
+undertakings also serve other customers, not just BPC or the project. Given their 
+importance to the project, however, Environmental and Social Impact Assessments 
+(EIAs) for both have been included in the project documentation.   
+ 
+4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis 
+The project is located at Morupule, near the township of Palapye, in the semi-arid eastern 
+part of Botswana, adjacent to the site of the existing Morupule A Power Station. The 
+surrounding area is sparsely inhabited.   
+ 
+Page  4
+5. Environmental and Social Safeguards Specialists 
+Mr Paul Jonathan Martin (AFTEN) 
+Ms Paula F. Lytle (ECSS4) 
+ 
+6. Safeguard Policies Triggered
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+X
+Natural Habitats (OP/BP 4.04) 
+ X 
+Forests (OP/BP 4.36) 
+ X 
+Pest Management (OP 4.09) 
+X
+Physical Cultural Resources (OP/BP 4.11) 
+ X 
+Indigenous Peoples (OP/BP 4.10) 
+ X 
+Involuntary Resettlement (OP/BP 4.12) 
+X
+Safety of Dams (OP/BP 4.37) 
+X
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+X
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts: 
+Emissions of Pollutants. Specifications for the proposed Morupule B Power Station 
+include achievement of applicable World Bank emissions standards (Thermal Power: 
+Guidelines for New Plants, Pollution Prevention and Abatement Handbook, 1998). While 
+Botswana has not established emissions standards for power stations, the Air Pollution 
+(Prevention) Act of 1971 requires the application of best practicable means to control 
+emissions. World Bank emissions standards are more stringent that the maximum 
+permissible limits specified by the Botswana authorities for Morupule A's current boiler 
+operations.    
+ 
+The Environmental and Social Impact Assessment (EIA) for the proposed Morupule B 
+Power Station found that current emissions from the Morupule A Power Station may be 
+causing occasional local exceedances of Botswanan and World Bank air quality standards 
+for ambient sulfur dioxide and particulate matter concentrations, suggesting that it may 
+not be possible for Morupule B to meet ambient air quality standards without reductions 
+in emissions from Morupule A.    
+ 
+The dam safety report identified existing elevated levels of sulfate in the groundwater 
+adjacent to the Morupule A ash disposal site.    
+ 
+Availability of Water. Although both the Morupule A and the proposed Morupule B 
+power stations are designed for air-cooling technology, significant amounts of water will 
+still be required for a variety of aspects of their operation, in particular as make-up water 
+for blow-down losses. The estimated water requirement for the combined operation of 
+Morupule A and Morupule B is 2.2 million cubic meters per year. Currently, about seven 
+Page  5
+hundred thousand cubic meters per year are being supplied for the Morupule A Power 
+Station from an older section of the Paje well field.    
+ 
+A
+new section of the Paje well field will be developed as the backup source of water for 
+Morupule B operations. The EIA of the proposed new well field indicates that meeting 
+the full water requirement from this source would draw down the aquifer by thirty 
+percent in twenty years, potentially affecting a number of cattle post boreholes. BPC has 
+identified an underground structure separating the new section of the Paje aquifer into 
+distinct northern and southern compartments. If the northern compartment of the aquifer 
+is used, the seeps at the foot of the adjacent escarpment which feed the Motloutse River 
+may be affected. BPC will develop the southern compartment of the well field as a 
+backup source of water for Morupule B operations. Any future development of the 
+northern compartment for Morupule B operations will be subject to further studies and 
+agreement with the World Bank.  
+ 
+Safety of Dams. BPC commissioned an independent assessment by a qualified specialist 
+of the safety of the existing ash impoundment dam. The report also makes 
+recommendations on the design of the new ash dam. This assessment was completed in 
+March 2009, and indicated that while the existing ash dam appears stable at present, 
+improvements in the structure and operation of the dam are recommended to address any 
+possible concerns. In addition, the design of the new dam should be subject to 
+independent review. OP 4.37 Safety of Dams is triggered.    
+ 
+Use of Pesticides. BPC does not intend to use pesticides or herbicides to control pests or 
+vegetation under transmission lines; however, BPC has sought guidance from the Plant 
+Protection Division of the Ministry of Agriculture on appropriate herbicides to use for 
+control of vegetation at substations, and received the recommendation to use preparations 
+of tebuthiuron, an active ingredient categorized by the World Health Organization as 
+Class III, slightly hazardous. OP 4.09 Pest Management is triggered.    
+ 
+Involuntary Resettlement and Social Impacts. Social impact assessments have been 
+carried out for the proposed power station and transmission lines. Within the designated 
+site of the proposed Morupule B power station, there is one family which will have to be 
+resettled. With respect to the transmission lines, the EIA and a May 2009 Resettlement 
+Action Plan Baseline Investigation indicates that there is potential negative impact on 
+land use,  disruption of access to grazing or agricultural fields, and possible resettlement 
+of individual households depending on the final routing. The Bank visited sites along the 
+proposed routing and recommended modifications to further minimize the impact. OP 
+4.12 Involuntary Resettlement is triggered.  
+ 
+It is also expected that the influx of workers during the construction period would have 
+significant social impact, separate from any safeguard issues. Although HIV/AIDS 
+prevention programs are in place, these will need to be scaled up and carefully targeted.     
+ 
+Page  6
+The project team carried out social screening to identify whether indigenous peoples are 
+present in, or have attachment to, the project area. Based on the findings of the social 
+screening, OP 4.10 Indigenous Peoples is not triggered.  
+ 
+International Waterways. The primary source of water for the proposed Morupule B 
+Power Station is the North-South Carrier (NSC). The Water Utility Corporation captures 
+surface water from the northeastern part of Botswana and transfers it via the NSC to 
+various users including in the capital city of Gaborone. MCL has an allocation of about 
+2.5 million cubic meters per year from the existing capacity of the NSC and has built a 
+twenty-two kilometer underground water pipeline linking the Morupule site to the NSC. 
+BPC has purchased a 50 percent interest in the pipeline in exchange for the rights to 
+about three-fourths of the water. The coal mine and power station will use the existing 
+capacity of the ongoing NSC scheme, and will not entail works and activities that would 
+exceed the original scheme, change its nature, or so alter or expand its scope and extent 
+as to make it appear a new or different scheme. The Government of Botswana has 
+notified riparians regarding the capture and transfer of the designed capacity of water to 
+the NSC, as required by the SADC Revised Protocol on Shared Watercourses. Botswana 
+has conformed with the requirements of OP 7.50 for notification to riparian states 
+regarding the transfer of water via the NSC in accordance with the provisions of the 
+SADC Revised Protocol on Shared Watercourses of 2000.   
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+It is possible that within a decade or so there may be more than 17,000 MW of coal-fired 
+generation capacity within approximately one hundred and fifty kilometers of the 
+Botswana/South Africa border. Separate environmental assessments for investments in 
+coal-fired power on both sides of the Botswana/South Africa border will not adequately 
+address possible cumulative, long-range, and transboundary effects, in particular impacts 
+on air quality, water availability and quality, and socio-economics.   
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts. 
+No-project alternative. Given the regional shortage of power, the no-project alternative 
+implies that BPC will be unable to meet projected national demand for power. The 
+benefits of this alternative are that most of the negative impacts associated with the 
+proposed development option will be prevented; these benefits are out-weighed, however, 
+by the economic costs of continued and worsening national power shortages.    
+ 
+Site alternatives. The main factors influencing the location of the Morupule B Power 
+Station are a reliable and low-cost coal resource of suitable quality and water supply. 
+Other important factors that influence location include availability of land, environmental 
+suitability, proximity to the market and availability of infrastructure such as roads, 
+railways and telecommunications. Establishment of the power station at any other 
+location in Botswana would require significant additional infrastructure to be constructed 
+such as roads, rail and the establishment of a new coal mine. Notwithstanding the 
+financial cost associated with this additional infrastructure, the impact to the environment 
+Page  7
+would be significantly greater than the proposed expansion of an existing footprint. BPC 
+has also altered the initial proposed transmission line routing (which would have 
+followed existing power lines) to minimize social impact in the outskirts of Mahalapye.  
+ 
+Technology alternatives. The electricity demand pattern in Botswana requires that a 
+base-load generation technology be considered, as a peaking electricity generation 
+technology will only limit the extent to which imported power will be needed at certain 
+times of the day. Although this will assist in reducing reliance on imported power, it will 
+not enable BPC to replace the current seventy percent reliance on imported power with 
+local generation capability, which is a key strategic objective of this project, given the 
+renegotiation of the contract with Eskom which will terminate any sales of electricity to 
+Botswana by 2013. Recent developments in energy storage technologies are bringing 
+renewable energy technologies such as solar thermal generation and wind energy closer 
+to providing base-load requirements, however these new technologies cannot yet be 
+considered to be commercially proven. Given the urgent need to establish base-load 
+capacity in Botswana to replace imported power, and the prohibitive cost of an oil-fired 
+plant, the only financially feasible option is a coal-fired plant.    
+ 
+Design alternatives. Design options considered for Morupule B Power Station focused 
+on either the CFB boiler design or the pulverized coal (PC) boiler design. The CFB 
+design is an advanced coal utilization technology which has the following benefits over 
+conventional thermal power plants:    
+ 
+-
+Wide range of fuel adaptability which allows for the use of low grade coal, biomass, 
+and waste tyres;  
+ 
+-
+Decreased emissions of nitrogen oxides and sulfur oxides;  
+ 
+-
+High combustion efficiency; and  
+ 
+-
+Space saving and improved maintenance ability.    
+ 
+Selecting between PC and CFB boiler designs is a complex decision and environmental 
+performance is only one criterion which should influence this decision. CFB boiler 
+design is able to achieve a similar environmental performance with respect to gaseous 
+emissions to PC technology with emissions control, at a lower operating cost.    
+ 
+The large unit sizes (500 MW and above) necessary for super-critical boiler technology 
+were deemed inappropriate for a small system like in Botswana.   
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide 
+an assessment of borrower capacity to plan and implement the measures described. 
+The following assessments of safeguard policy issues have been undertaken or are 
+underway:  
+ 
+Environmental:  
+ 
+EIA for Morupule B Power Station - Completed  
+ 
+EIA for BPC transmission lines - Completed  
+ 
+EIA for Isang Substation - Draft under DEA review  
+Page  8
+EIA for the new section of the Paje well field - Completed  
+ 
+EMP for Paje well field water pipeline and power connection - Underway  
+ 
+Social:  
+ 
+RPF for project - Completed  
+ 
+Abbreviated RAP for family at Morupule B site - Completed  
+ 
+RAP for Morupule-Phokoje 400-kV transmission line - Underway  
+ 
+RAP for Morupule-Isang 400-kV transmission line Draft - under DEA review  
+ 
+Associated infrastructure:  
+ 
+EIA for MCL mine expansion - Completed  
+ 
+EIA for NSC-1-MCL water pipeline - Completed  
+ 
+Emissions. The power station will include continuous ambient air quality and in-stack 
+emissions monitoring for compliance with applicable standards (Botswanan and Bank 
+standards for both emissions and ambient air quality). The Department of Waste 
+Management and Pollution Control (DWMPC) holds the primary responsibility for 
+enforcing the compliance of the project with national environmental regulatory 
+requirements, and with the approved Environmental and Social Management Plans 
+(EMPs). In order to strengthen the capacity of DWMPC to fulfill their mandate, the TA 
+component of the project includes resources to provide DWMPC with training and 
+equipment for air quality monitoring, and expert advice for the development of national 
+emissions standards for power plants.    
+ 
+Prior to making a decision regarding investment in emissions control at Morupule A, 
+BPC intends to undertake a two-year air quality monitoring campaign to better define the 
+issues to be addressed and possible solutions. This is necessary because the EIA provided 
+only a "predicted baseline" for air quality, due to the limitations of available directly 
+monitored data. Based on the results of the two-year air quality monitoring campaign, 
+BPC will implement measures as necessary to ensure that the joint operation of Morupule 
+A
+and B does not lead to exceedances of World Bank or Botswanan air quality standards. 
+ 
+To avoid further groundwater contamination from the old ash dump, in the future, ash 
+(slurry and dry) from the Morupule A Power Station will be rerouted to the new ash 
+dump at the Morupule B Power Station, which will have a sealed base.    
+ 
+Water. Although the power station will be connected to the new section of the Paje well 
+field, by stipulating that the NSC-1 is the primary water supply, BPC will be minimizing 
+the impact on the slowly recharging underground aquifer at Paje. Furthermore, BPC has 
+identified an underground structure separating the new section of the Paje aquifer into 
+distinct northern and southern compartments. To avoid affecting the seeps at the foot of 
+the adjacent escarpment, only the southern compartment of the new section of the Paje 
+well field will be connected. Further studies and modeling will be conducted before 
+taking any decision to connect the northern compartment of the aquifer, before which no-
+objection from the World Bank would be requested.    
+Page  9
+Pest Management. The environmental assessment of the Isang Substation, which is 
+currently underway, will include a pest management plan providing guidance on the safe 
+storage, handling, application, and disposal of pesticides and herbicides to be used by 
+BPC at this and other substations, as well as recommendations on the training needed to 
+implement this guidance. When implemented, this will meet the requirements of OP 4.09 
+Pest Management.  
+ 
+Safety of Dams. The assessment of the existing ash dam provided a set of 
+recommendations that will be implemented by BPC, including:    
+ 
+-
+Structural measures to improve the integrity of the outer wall of the ash dam;  
+ 
+-
+Provision to pump off water pools for return to the power station;  
+ 
+-
+Construction of bunds around the south-east of the ash dump to catch any 
+contaminated runoff, eroded material or slippage;  
+ 
+-
+Construction of diversion ditches to the north-west to divert runoff and prevent 
+erosion;  
+ 
+-
+Alteration of the deposition system;  
+ 
+-
+Improvements in the groundwater monitoring system; and  
+ 
+-
+A
+detailed geotechnical investigation of the existing ash dam.    
+ 
+The design of the new ash dam to be built will be subject to independent review. BPC 
+plans to use the new ash dam for collecting ash from both the existing Morupule A power 
+plant and the proposed new Morupule B power plant.  Based on the independent 
+assessment of the existing and planned ash dams, and on the advice of the World Bank's 
+Lead Dam Specialist, it was determined that neither a Panel of Experts nor an Emergency 
+Preparedness Plan are required.  
+ 
+Involuntary Resettlement. BPC has prepared and is implementing a Resettlement Policy 
+Framework (RPF) that complies with the requirements of OP 4.12 Involuntary 
+Resettlement.  BPC has also commissioned a Resettlement Action Plan baseline study to 
+update the information in the EIA and provide better social data for resettlement 
+planning. It has prepared a draft abbreviated Resettlement Action Plan for one section of 
+the Transmission line and under the RPF, has agreed that RAPs will be prepared prior to 
+any construction activities.  
+ 
+In accordance with the RPF, BPC has implemented an abbreviated Resettlement Action 
+Plan for the one family residing on the project site, and will fence the project site before 
+commencement of construction activities on site.    
+ 
+When the surveys are completed for the final routing of the transmission lines, 
+additional Resettlement Action Plans may be required, in compliance with the RPF.  If 
+required, each such plan must be implemented, any resettlement must be completed, and 
+any compensation must be paid prior to commencement of construction activities on that 
+subcomponent.    
+ 
+Page  10
+The water supply component is not expected to require a Resettlement Action Plan. A 
+detailed EMP is under preparation for this component.   
+ 
+International Waterways. Botswana has conformed with the requirements of OP 7.50 
+Projects on International Waterways for notification to riparian states regarding the 
+transfer of water via the NSC in accordance with the provisions of the SADC Revised 
+Protocol on Shared Watercourses of 2000.  
+ 
+Institutional Capacity. BPC will be responsible for the overall implementation, 
+administration, and enforcement of the EMPs for the project. For the proposed Morupule 
+B
+Power Station, BPC will appoint an Engineering Consultant, who in turn will:    
+ 
+-
+Ensure that the EMP specifications are included in all tender documents issued for 
+building works and activities on site, and will monitor and enforce adherence to these 
+requirements by contractors;  
+ 
+-
+Appoint an Environmental Liaison Officer to monitor implementation of and 
+compliance with the EMP for the duration of the works; and  
+ 
+-
+Issue fines or stop-work orders for contravention of the EMP and give instructions 
+regarding corrective action.    
+ 
+In addition, BPC will appoint an Environmental Manager who will undertake regular 
+audits of the construction sites for EMP compliance by contractors and BPC. During the 
+operational phase, the Environmental Manager will be responsible for ensuring BPC's 
+continuing compliance with the EMPs. BPC will also appoint a community outreach 
+official to support continual dialogue with communities and ensure that social aspects are 
+implemented as per policy.   
+ 
+Management of Cumulative Impacts. Recognizing that separate environmental 
+assessments for future investments in coal-fired power on both sides of the 
+Botswana/South African border will not adequately address possible cumulative, long-
+range and transboundary effects, the World Bank has initiated discussions with the 
+authorities in both countries to jointly undertake a Regional Environmental and Social 
+Assessment (RESA). The terms of reference for the first phase of the RESA have been 
+agreed with BPC, the Department of Environmental Affairs, DWMPC, as well as with 
+the Department of Environmental Affairs and Tourism in South Africa. The World Bank 
+will use trust fund resources to carry out the first phase as well as the full RESA, with full 
+participation of the relevant authorities in Botswana and South Africa.  The first phase 
+report, including draft ToR for the full RESA, will be disclosed by June 30, 2010.   
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+Public consultations were conducted for the project as part of the various environmental 
+and social assessments. The stakeholder engagement process for the EIA of the power 
+plant commenced in August 2007 with the publication of an advertisement in English and 
+Setswana announcing the project. An invitation to attend the scheduled public meeting 
+Page  11
+regarding the project was included in the advertisements, and at these meetings a 
+background information document was presented in both Setswana and English.    
+ 
+A
+public meeting was held at Palapye main Khotla on September 4, 2007, and was 
+conducted in Setswana as all the participants could speak and understand the language. 
+The meeting was attended by thirty-one people including the consultations team and 
+representatives from BPC.  A meeting with key local and central government officers was 
+also convened in Palapye in September 2007, and the stakeholder engagement team 
+undertook consultations with focus groups comprised of local farmers in the following 
+lands areas within ten kilometers of the proposed power station site:    
+ 
+-
+Morupule;  
+ 
+-
+Mantshadidi;  
+ 
+-
+Mmalenakana;  
+ 
+-
+Dikabeana; and  
+ 
+-
+Molapowadipitse.    
+ 
+The principal comments received during these consultations are indicated below:    
+ 
+i) Public, farmers and livestock owners meetings - (a) preference should be given to 
+local people for non-skilled and semi-skilled labor requirements and the hiring should be 
+done in a transparent manner, such as through use of the Khotla, (b) concern was 
+expressed regarding the increased probability of illegal occupiers of land who will come 
+in as job seekers;  
+ 
+ii) Business community - the contractor should source some of the materials and 
+services locally; and  
+ 
+iii) Local government - construction phase may exert pressure on existing social 
+amenities such as schools and clinics available in the town.   Additional consultations 
+have been in made in the context of the Resettlement Action Plan Baseline Investigation 
+in March- April 2009.  
+ 
+In compliance with the Bank's policy on disclosure of information, BPC has made the 
+approved versions of all safeguard documents available both on the BPC website and at 
+the public libraries in Palapye and Serowe.  
+ 
+All EIAs required for appraisal are completed, as follows:  
+ 
+EIA for Morupule B Power Station;  
+ 
+EIA for BPC transmission lines;  
+ 
+EIA for the new section of the Paje well field;  
+ 
+RPF for project;  
+ 
+Abbreviated RAP for family at Morupule B site;  
+ 
+EIA for MCL mine expansion;  
+ 
+EIA for NSC-1-MCL water pipeline.   
+ 
+Page  12
+B. Disclosure Requirements Date
+ 
+Environmental Assessment/Audit/Management Plan/Other: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+ 
+Date of receipt by the Bank 
+06/15/2008 
+ 
+Date of "in-country" disclosure 
+12/01/2008 
+ 
+Date of submission to InfoShop 
+02/04/2009 
+ 
+For category A projects, date of distributing the Executive 
+Summary of the EA to the Executive Directors 
+05/07/2009  
+Resettlement Action Plan/Framework/Policy Process: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+ 
+Date of receipt by the Bank 
+05/19/2009 
+ 
+Date of "in-country" disclosure 
+05/22/2009 
+ 
+Date of submission to InfoShop 
+05/22/2009 
+ 
+Indigenous Peoples Plan/Planning Framework: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+Pest Management Plan: 
+Was the document disclosed 
+prior to appraisal?
+ N/A 
+ 
+Date of receipt by the Bank 
+ 
+N/A 
+Date of "in-country" disclosure 
+ 
+N/A 
+Date of submission to InfoShop 
+ 
+N/A 
+*
+If the project triggers the Pest Management and/or Physical Cultural Resources, 
+the respective issues are to be addressed and disclosed as part of the Environmental 
+Assessment/Audit/or EMP. 
+If in-country disclosure of any of the above documents is not expected, please 
+explain why: 
+Pest Management issues only arise in relation to vegetation control at the Isang 
+Substation. A Pest Management Plan will be incorporated in the EMP for the Substation, 
+which will be submitted for no-objection by the Bank.   
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the 
+ISDS is finalized by the project decision meeting) 
+ 
+OP/BP/GP 4.01 - Environment Assessment 
+ 
+Does the project require a stand-alone EA (including EMP) report? 
+Yes 
+If yes, then did the Regional Environment Unit or Sector Manager (SM) 
+review and approve the EA report? 
+Yes 
+Are the cost and the accountabilities for the EMP incorporated in the 
+credit/loan? 
+Yes 
+OP 4.09 - Pest Management 
+ 
+Does the EA adequately address the pest management issues? 
+Yes 
+Is a separate PMP required? 
+No 
+Page  13
+If yes, has the PMP been reviewed and approved by a safeguards specialist or 
+SM?  Are PMP requirements included in project design?  If yes, does the 
+project team include a Pest Management Specialist? 
+N/A 
+OP/BP 4.12 - Involuntary Resettlement 
+ 
+Has a resettlement plan/abbreviated plan/policy framework/process 
+framework (as appropriate) been prepared? 
+Yes 
+If yes, then did the Regional unit responsible for safeguards or Sector 
+Manager review the plan? 
+Yes 
+OP/BP 4.37 - Safety of Dams 
+ 
+Have dam safety plans been prepared? 
+Yes 
+Have the TORs as well as composition for the independent Panel of Experts 
+(POE) been reviewed and approved by the Bank? 
+N/A 
+Has an Emergency Preparedness Plan (EPP) been prepared and arrangements 
+been made for public awareness and training? 
+N/A 
+OP 7.50 - Projects on International Waterways 
+ 
+Have the other riparians been notified of the project? 
+Yes 
+If the project falls under one of the exceptions to the notification 
+requirement, has this been cleared with the Legal Department, and the memo 
+to the RVP prepared and sent? 
+N/A 
+Has the RVP approved such an exception? 
+N/A 
+The World Bank Policy on Disclosure of Information 
+ 
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+Yes 
+Have relevant documents been disclosed in-country in a public place in a 
+form and language that are understandable and accessible to project-affected 
+groups and local NGOs? 
+Yes 
+All Safeguard Policies 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities 
+been prepared for the implementation of measures related to safeguard 
+policies? 
+Yes 
+Have costs related to safeguard policy measures been included in the project 
+cost? 
+Yes 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures related to safeguard policies? 
+Yes 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+Yes 
+Page  14
+D. Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Mr Varadarajan Atur 
+09/09/2009 
+Environmental Specialist: 
+Mr Paul Jonathan Martin 
+09/09/2009 
+Social Development Specialist 
+Ms Paula F. Lytle 
+09/09/2009 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+ 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Warren Waters 
+09/11/2009 
+Comments:   
+Sector Manager: 
+Mr Subramaniam V. Iyer 
+09/11/2009 
+Comments:   

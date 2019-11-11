@@ -1,0 +1,501 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+RESTRUCTURING STAGE
+Note: This ISDS will be considered effective only upon approval of the project restructuring
+Report No.: ISDSR15616
+Date ISDS Prepared/Updated: 10-Dec-2015
+o
+Date ISDS Approved/Disclosed: 11-Dec-2015
+I. BASIC INFORMATION
+1. Basic Project Data
+Country:        Paraguay                   Project ID:   P114971
+Project Name: PY Energy Sector Strengthening Project (P114971)
+Task Team       Sergio Augusto Gonzalez Coltrinari
+Leader(s):
+Estimated       04-Oct-20 10               Estimated     30-Nov-2010
+Appraisal Date:                            Board Date:
+Managing Unit: GEEO4                       Lending       Specific Investment Loan
+Instrument:
+Sector:         Transmission and Distribution of Electricity (77%), Energy efficiency in Heat
+and Power (20%), Public administration- Energy and min ing (3%)
+Theme:          Infrastructure services for private sector development (50%), Other rural
+development (50%)
+Is this project processed under OP 8.50 (Emergency
+Recovery) or OP 8.00 (Rapid Response to Crises and                   No
+Emergencies)?
+O
+Financing (in USD Million)
+Total Project Cost:     125.00            Total Bank Financing:   100.00
+Financing Gap:            0.00
+Financing Source                                                Amount
+Borrower                                                        25.00
+International Bank for Reconstruction and Development          100.00
+Total                                                          125.00
+Environmental B - Partial Assessment
+Category:
+Is this a       No
+Repeater
+project?
+2. Current Project Development Objectives
+The development objective of the proposed Project is to increase the quantity and quality of the
+provision of electricity services by the Borrower, while improv               ing
+Page 1 of 12
+
+
+﻿the Borrower's performance.
+Proposed New PDO (from Restructuring Paper)
+The development objective of the proposed Project is to increase the quantity and quality of the
+provision of electricity services by the Borrower, while improv                  ing
+the Borrower's performance.
+O
+3. Project Description
+ORIGINAL TEXT FROM APPRAISAL
+The cost of the proposed Project is estimated to be US$125 million (including contingencies, taxes
+and duties applicable to ANDE) of which US$100 million would be provided by IBRD. The
+proposed Project would involve three components: the first component aims at providing ANDE
+with a state-of-the-art Electricity Distribution Management System to enhance the quality of its
+service, and the strengthening of the metering system to reduce losses and improve the utility's
+performance; the second component supports the implementation of priority transmission
+investments in substations and the installation of reactive compensation to increase the quantity and
+quality of electricity supplied; and the third component aims at strengthening ANDE#s capacity in
+investment planning and project preparation and at improving the sector and ANDE's performance
+and transparency.
+Component 1: Modernizing the Borrower's Distribution Management System and Installing an
+Advanced Meter Infrastructure for Large Consumers. (Total cost: US$25 million; IBRD financing:
+US$20 million). This component includes:
+(i) Installation of a state-of-the-art integrated distribution management system (Sistema de Gesti6n
+Integral de la Distribuci6n El6ctrica -SGIDE) integrating technical and commercial operations
+through a turn-key contract procuring hardware, software, database set-up and maintenance,
+including the installation of the following functional modules: (i) planning, projects and works of the
+distribution system; (ii) supervisory control and data acquisition operating system and the
+corresponding remote terminal units; (iii) maintenance, including the provision on of training of the
+Borrower#s staff in the use, maintenance and upgrading of the integrated distribution management
+system; (iv) technical and non-technical distribution losses; (v) client support (call center); and (vi)
+implementation of an incidence recording and management system.
+(ii) Installation of a 66kV and 23kV advanced metering system which allows remote consumption
+metering and disconnection or reconnection of the Borrower's large customers.
+Component 2: Improving the Performance of the Transmission Network (Total cost: US$96.25
+million; IBRD financing: US$77 million). This component will provide resources to support:
+(i) Construction of new substations below the existing transmission lines (excluding transmission
+line investments), including: (i) the construction of a new 220 /23kV substation in the area of Barrio
+San Pedro in the Paraguayan District of Guajayvi; and (ii) the construction of a new 66kV substation
+in the Paraguayan Di strict of Minga Pord.
+(ii) Extension of about ten (10) existing substations including the expansion of the transformation
+capacity of said substations (excluding transmission line investments).
+(iii) Installation of reactive compensation at the Guarambar6 substation in the Paraguayan Central
+Department.
+Component 3: Strengthening Paraguay's Electricity Sector and the Borrower's Institutional Capacity
+Page 2 of 12
+
+
+﻿(Total cost: US$3.5 million; IBRD financing US$2.75 million). This component will provide
+resources to support:
+(i) Improvement of the performance of the electricity sector and in particular, the Borrower, through:
+Q)       (i) the carrying out of an independent institutional assessment of the legal framework, the
+organizational structure and operational procedures of the electric sector in Paraguay; (ii) the
+development of an action pl an (acceptable to the Bank); and (iii) the implementation of the key
+priorities established in the action plan in a manner acceptable to the Bank and to the MH.
+(ii) Institutional strengthening of the Borrower's capacity in investment and project planning and
+implementation, through, inter alia: (i) strategic advice to the Borrower's Presidency on managerial
+decisions that will enhance its performance; (ii) strategic support from international consultants with
+successful experience in the implementation of a distribution management system during the first
+three years of implementation of Part 1 of the Project; (iii) strengthening of the Borrower#s
+environmental and social unit through provision of b est practice s and methodologies, and capacity
+building to ensure oversight of transmission investments under Part 2 of the Project; and (iv)
+strengthening of the Borrower's financial and asset management practices, its internal auditing unit,
+and provision of external auditors for the Project.
+PROPOSED CHANGES IN THE RESTRUCTURING
+Component 1 - original US$ 35.5, proposed US$ 25.63
+The new project investments proposed are:
+a)     Supply and installation of SCADA/EMS for transmission  US$ 4,942,153
+b)     Supply and installation of fiber optic network   US$ 7,690,000
+c)     Supply and installation of active communication equipment  US$ 6,235,000
+d)     Supply and installation of wireless meshed network  US$ 3,700,000
+(v)    Supply and installation of digital carrier equipment  US$  928,000
+Component 2- original US $76.03, proposed US$ 71.77.
+New investments proposed are:
+a)     Supply of 11 three-phase power transformers for additional 7 substations US$13,230,000
+b)     Supply of mobile substation 66/23kV-30MVA                        US$ 2,500,000
+c)     Purchase of 8x6 truck with modular trailer to transport power transformers  US$
+1,900,000
+d)     Purchase of mobile 23kv distribution center compact 23kv cells and SSAA  US$
+1,600,740
+Component 3 - Strengthening Paraguay's electricity Sector and the Borrower's Institutional Capacity
+Original US$ 3.50, Proposed US$ 2.35million
+During the mission of July 2015, the Borrower informed the Bank team that they did not see a need
+to carry out the three studies originally contemplated under the above sub-component 3.1 given that
+they have done several similar studies recently. Therefore, the Borrower proposes to replace the
+studies under sub-component 3.1 with the following study:
+Page 3 of 12
+
+
+﻿a) Technical assistance for the analysis of ANDE's organizational structure and human resources US
+$ 800,000.
+As part of this component a defined budget for the environment management of the additional and
+O
+U        new works is incorporated to ensure proper environmental and social management of activities and
+compliance with national legislation and the WB Safeguards Policies.
+O
+4. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+ORIGINAL TEXT AT APPRAISAL ISDS
+All investment works are located in the Eastern Region of Paraguay within urban or peri-urban areas
+of rural towns and Metropolitan Asuncion.
+A list of the most critical substations within the Master Plan was screened as also being of low
+environmental and social risks and impacts. These projects will be implemented mostly in rural or
+peri-urban areas. Already identified projects to be declared eligible for financing at appraisal will be
+developed in eight Departments, and include:(i) construction of two new rural substations (66 kV in
+Department of Al to Parana, District of Minga Pora; and 220 kV in Department of San Pedro,
+District of Guayaiby); (ii)addition of transformers to ten existing transformer stations in the
+departments of Central, Misiones, Paraguari, Itapfia, Caazapd, and Caaguaz-6 Departments, two of
+which are in urban areas; and (iii) installation of reactive compensation at the Guarambar6 substation
+in the Paraguayan Central Department. No protected areas are near or around the proposed stations
+and existing forests are highly fragmented and degraded in the region. As deforestation is prohibited
+in this ecoregion, no forests or natural habitats will be impacted by the proposed works.
+The construction of two new substations will require purchase of private land (one ha. in one and 2
+has. in the second site). Agreements with the land owners with ANDE are under discussions in
+accordance with OP 4.12 requirements. Both locations are within large mechanized farms of Eastern
+Paraguay and relatively distant from the local populations. Concerns may be expressed by
+neighborhood residents around their intended locations and perceived danger from substations due to
+their associated electromagnetic fields, the possibility of causing fires, among others.
+PROPOSED CHANGES IN RESTRUCTURING
+The project area will be expanded from the original project area evaluated during appraisal.
+Component 1. The majority of activities are related to the purchase of software equipment except the
+installation of a fiber optic line which includes mainly the urban area of Del Gran Asunci6n, Coronel
+Oviedo, Ciudad del Este and Encarnaci6n.
+Component 2. The project will buy and install 35 three-phase power transformers of 80 MVA 220/23
+kV, 66/23 kV 30 MVA and 50 MVA to increase the capacity in the national grid system. These
+transformers will be installed in 17 existing substations: San Lorenzo, Luque, San Antonio, Itaugud,
+Pirayfi, New City and Concepci6n. Seven (7) of these existing substations are added intervened
+areas of the project as part of the ongoing project restructuring. The operation of these transformers
+requires an operation licenses by the National Environmental Secretary (SEAM). ANDE has
+requested these licenses.
+In relation to the purchase of the special truck with a modular trailer to transport a large power
+Page 4 of 12
+
+
+﻿transformer, it is necessary to request a permit from the ministry of transport. This is due to the size
+and the potential hazard of this type of equipment. The project area for this will be represented by the
+route that is approved for the Ministry of Transport that the truck and transformer can use during
+both: arrival and during operation. ANDE will coordinate with the municipalities and the Ministry
+U         of Transport all preventive and information measures to inform the communities and to reduce the
+risks of accidents and transit impacts.
+The other proposed activities include the purchase of one 66/23kv-30MVA mobile substation. This
+equipment also represent hazardous electrical material. The project area will be represented by the
+approved transport route which is represented by the locations where the equipment will be stored (a
+substation not known) to the location where will be installed according to demand and operation
+requirements.
+5. Environmental and Social Safeguards Specialists
+Elena Correa (GSU10)
+Ruth Tiffer-Sotomayor (GENDR)
+6. Safeguard Policies   Triggered? Explanation (Optional)
+Environmental           Yes
+Assessment OP/BP 4.01
+Natural Habitats OP/BP  Yes
+4.04
+Forests OP/BP 4.36      Yes
+Pest Management OP 4.09 No
+Physical Cultural       Yes
+Resources OP/BP 4.11
+Indigenous Peoples OP/  Yes
+BP 4.10
+Involuntary Resettlement Yes
+OP/BP 4.12
+Safety of Dams OP/BP    No
+4.37
+Projects on International  No
+Waterways OP/BP 7.50
+Projects in Disputed    No
+Areas OP/BP 7.60
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the Restructured project.
+Identify and describe any potential large scale, significant and/or irreversible impacts:
+Describe any safeguard issues and impacts associated with the proposed project. Identify and
+describe any potential large scale, significant and/or irreversible impacts:
+RESTRUCTURING
+Page 5 of 12
+
+
+﻿The main environmental impacts and risks of the new proposed activities to be included in the
+restructuring request are related to:
+O
+i) Generation of waste from the packing of large and medium electrical equipment (wood, carton,
+plastic, etc).
+ii) Imported oil tanks to fill up the transformers (each transformer can require about 20 tanks).
+iii) Risks of accidents in urban areas during transportation of the imported electrical equipment:
+transformers, mobile substations, large truck, etc.
+iv) Risks of explosions and fires during installation and operation
+v) Management of hazardous residues - most residues from operations and/or replacement
+activities (change of electrical, electronic, transformers, etc equipment) are sent either to other
+substations .
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+in the project area:
+RESTRUCTURING PERIOD
+As with any energy rehabilitation project, the main indirect and long term environmental impacts
+are associated with the generation of electrical and electronic residues (replacement of old obsolete
+equipment), hazardous waste (oil and hydrocarbon based contaminated residues -oil containers).
+ANDE stores the majority of electrical residues from its operations in the San Lorenzo substation,
+therefore any electrical residues from this project is also expected to be stored at the San Lorenzo
+substation. In September, 2015, a fire of high proportion occurred in the San Lorenzo Substation
+causing the explosion of old transformers been stored in this area. This cause an emergency in
+Asunci6n affecting the air, the surrounding communities and ANDE workers and reveal the need
+to strengthen ANDE capacities to manage this type of contingencies.
+ORIGINAL TEXT in the ISDS APPRAISAL
+O
+No long-term negative environmental and social impacts will ensue because of project activities
+while positive effects will accrue from support and strengthening of ANDE's environmental and
+O
+social technical capacities, including their programs for proper management of hazardous wastes
+and chemicals, and people's security. In the long term, these sub-stations will provide favor social
+*           benefits though the availability of increased quantity and quality of the service and expansion of
+the coverage in at least eight departments of Eastern Paraguay, where electricity is a key constraint
+to social and economic development. The works that will be supported by the project would
+increase electricity supply availability to households, commercial and industrial activities.It is
+estimated that in 2015 about 1.3 million persons will directly benefit from the project.
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+impacts.
+RESTRUCTURING
+No alternatives is applicable. An EMP for all new additional activities for the restructuring period,
+following the ESMF, has been prepared to manage environmental and social risks during
+implementation.
+ORIGINAL TEXT in the ISDS APPRAISAL
+A review and a rapid risk-assessment of potential sub-projects included in ANDE Master Plan
+Page 6 of 12
+
+
+﻿indicated that several packages might have greater social and environmental risks and concerns
+associated. An initial screening of the Master Plan was done to prioritize sub-project groups of
+high priority but of lesser environmental and social concern. As an added risk mitigation strategy,
+an ESMF has been prepared and disclosed by ANDE and the Bank in case any changes occur
+O
+during implementation regarding site locations or if funds permit other infrastructure to be
+constructed. The ESMF would ensure that high risk activities are screened-out and Bank
+safeguards integrated into any environmental and social assessment process and management plan
+to be developed.
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+assessment of borrower capacity to plan and implement the measures described.
+Capacity of ANDE
+The capacity of ANDE to handle environmental issues is moderate. ANDE has an Environmental
+and Social Unit (ESU) with about 20 people working in different tasks (obtaining environmental
+licenses, training activities, conservation of a natural reserve, providing environmental guidance to
+the different departments, etc). The ESU is within the Planning Department. The Planning
+Department is the PIU for this project. However, the construction of works under this project and
+the future operation and maintenance of these installations are responsibilities of another
+department within ANDE: the Technical Department (Gerencia Tecnica).
+Therefore, a main issue has been to incorporate environmental management activities during the
+construction works at the substations (the new and the rehabilitated) and to give the necessary
+authority to ESU to supervise the works of the Technical Department. Compliance with the
+safeguards policies with the current arragement has been difficult.
+Main issues during project implementation:
+a) CONSULTANTS. The Bank required ANDE to contract 2 consultants to support environmental
+and social supervision. ANDE has complied with this requirement. However significant issues
+were caused by this arrangement, among these: i) consultants are not seen as staff of ANDE and,
+therefore, there is inadequate follow up to their recommendations by the contractors and ANDE
+staff; ii) the Consultants lack authority to oversee contractors. The Bank recommended ANDE the
+hiring of these consultants as permanent staff so these professionals can be part of ANDE's teams
+*           - as originally envisioned by the Bank. ANDE has no responded to this proposal.
+b) COORDINATION. The coordination has been very challenging in terms of environmental,
+health and safety issues. The Technical Department supervises the civil works carried out by the
+contractors through 2 environmental staff supervising the environmental related aspects in all civil
+works developed in the country. These 2 professionals report to the Manager of the Technical
+Department (Gerencia Tecnica). Since the beginning of the implementation of this project, the
+Bank highlighted the need for both (Planning and Technical) departments to work together.
+However, the coordination between the two departments has been limited.The Bank has
+recommended that these 2 environmental staff from the Technical Department (Gerencia Tecnica)
+be transfered to the ESU to ensure appropriate supervision to the Bank project and to also to
+strengthen the Environmental Unit with experienced staff. ANDE has not responded yet.
+c) SUPERVISION OF WORKs. Even though the rehabilitation works involved at the substation
+(Gurambare) could be considered simple, environmental issues have been numerous due to the
+Page 7 of 12
+
+
+﻿intricacies of supervision arrangements between the Technical Department and the Planning
+Department. The environmental management staff within the Environmental Unit of ANDE, as
+well as the two Consultants hired at the Bank request, cannot request remediation actions directly
+to the contractors. This arrangement has not only reduced the ability to resolve simple issues
+O
+during the construction but, also, prevents the contractors to pay attention to recurrent
+environmental issues such as: sedimentation of main road next to the work site, weak solid and
+hazardous waste management, poor drainage water measures, lack of coordination for the
+reforestation plan, etc.
+As part of the ongoing project restructuring period, the Bank has requested ANDE for the ESU to
+have full responsibility over the environmental/social supervision of the Bank financed
+investments. ANDE has no responded yet.
+d)INSTRUMENTS. ANDE has prepared an EMP for the management of potential environmental
+and social impacts following OP 4.01, guidelines of the existing ESMF and current EIA national
+legislation. A Bank social specialist reviewed the proposed investments with the ESU team and
+found that there no resettlement issues or potential negative impacts for indigenous people
+expected from the new proposed activities for the restructuring period, therefore no RAP or IPP
+was required to be prepared by ANDE.
+e) INFORMATION and COMMUNICATION. Since the project involves several sites the
+coordination of documentation, reports, contractor reports, has represented a significant challenge
+to ANDE, and is important to resolve these issues. As part of the ongoing project restructuring,
+the Bank has requested ANDE to install a digital platform to help monitor the Bank projects,
+including:storage of information from each subproject, status of environmental licenses,
+supervision reports, etc. ANDE has confirmed that it has contracted the development of such
+system and it agreed to use it for the Bank project.
+f) BIDDING Documents. In the EMP for the restructuring period, ANDE will include the
+Environmental Clauses in bidding documents. ANDE has agreed.
+g) BUDGET. The strengthening activities for the Environmental Unit within the Planning
+Department have not been executed, mainly due to difficulties to assign a budget for said
+0          activities. As part of the ongoing project restructuring, the Bank has requested ANDE: i) budget
+for overseeing the restructuring activities (agreed budget $360,000 which will be financed by
+ANDE as counterpart funding), ii) additional budget for the original project activities. Both
+compromises are included in the EMP prepared for the restructuring period . The EMP has been
+disclosed.
+ORIGINAL TEXT in the ISDS of APPRAISAL
+The EA has reviewed a number of weaknesses and opportunities for improving and strengthening
+the social and environmental management capacity of ANDE including potential policy or
+regulatory issues that may need to be considered for improved environmental and social
+management. The institutional capacity-building plan is proposing specific actions including
+support from an environmental and from a social consultant, training, and software and equipment
+to strengthen ANDE's environmental and social unit (ESU) and project resources have been
+allocated for project implementation. There is full agreement with the Borrower on the actions
+required to strengthen institutional capacity, and staff with expertise in these areas have already
+Page 8 of 12
+
+
+﻿been hired, indicating commitment on the part of the Borrower to address these issues in an
+integrated manner. This is also reflected in the organizational structure, where environmental and
+social management is integrated with planning units rather than working in isolation.
+O
+Capacity-building of human resources, as well as support from an environmental and a social
+consultant, to comply with the functions expected from ANDE's Environmental and Social Unit
+(ESU), and the implementation of requirements previously described. This includes: (i)
+supervision of compliance with social and environmental laws, decrees, instructions, procedures,
+and manuals; (ii) preparation of TORs and budgets for the execution of the environmental and
+social studies and works; (iii) support to ANDE's Procurement and Contracting units during
+preparation and evaluation of bids, contracts discussions and compliance supervision of ; (iv)
+coordination of the dissemination of informative publications, and their integration into the
+institutional information system; (v) measurement of the results of the activities and comparison
+with expected outcomes and results and if necessary; and (vi) proposal of corrective measures.
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+on safeguard policies, with an emphasis on potentially affected people.
+RESTRUCTURING
+ANDE,'s Environmental and Social Unit prepared an EMP with guidance from the Bank. This
+new EMP will be applicable to the new activities incorporated as part of the project restructuring
+and will support improvements to environmental and social management within ANDE.
+The new EMP will be consulted and published following the agreed procedures in the ESMF. For
+the consultation, ANDE will invite relevant stakeholders from some of the potentially affected
+areas and incorporated recommendations from the stakeholders, the Ministry of Environment.
+Ministry of Transport, Fire Department and municipalities.
+The final EMP will be disclosed in the web site of ANDE and the World Bank.
+ORIGINAL TEXT in the ISDS APPRAISAL
+o
+Public Consultation and Disclosure in Designing the EIA, ESMP, RP and ESMF, including IPF
+and IRLAPF: The development of these instruments was informed by a consultative process
+which sought feedback from key stakeholders including potentially consumers, municipalities and
+departments involved, government institutions, and NGO's. Disclosure and consultation of these
+environmental and social instruments was carried out.
+Project preparation: Multiple stakeholder groups were involved in environmental and social
+assessments defining the overall framework for environmental andsocial management scope both
+for the plans (EIA, ESMF and RP) as well for the ESMF.
+Consultation and Disclosure During Project Implementation: All documents are published in
+ANDE's website and in the Bank's Public Information Center of Asuncion(Paraguay) and in the
+Bank's website (Infoshop) in Washington. Disclosure will continue as required during the
+implementation of the project. Disclosure and consultation were consistent with the national
+regulations and the provisions of the Bank's Operational Policies.
+Page 9 of 12
+
+
+﻿B. Disclosure Requirements
+Environmental Assessment/Audit/Management Plan/Other
+Date of receipt by the Bank                              13-Nov-2015
+Date of submission to InfoShop                           25-Nov-2015
+For category A projects, date of distributing the Executive  ///
+Summary of the EA to the Executive Directors
+a         "In country" Disclosure
+Comments:
+Resettlement Action Plan/Framework/Policy Process
+Date of receipt by the Bank                              13-Oct-2010
+Date of submission to InfoShop                           15-Oct-2010
+"In country" Disclosure
+Comments:
+Indigenous Peoples Development Plan/Framework
+Date of receipt by the Bank                              13-Oct-2010
+Date of submission to InfoShop                           15-Oct-2010
+"In country" Disclosure
+Comments:
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please explain why:
+C. Compliance Monitoring Indicators at the Corporate Level
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) Yes [ X] No [ ] NA [ ]
+report?
+If yes, then did the Regional Environment Unit or Practice  Yes [ X] No [  ]  NA [  ]
+Manager (PM) review and approve the EA report?
+Are the cost and the accountabilities for the EMP incorporated Yes [ X] No [ ] NA [ ]
+in the credit/loan?
+OP/BP 4.04 - Natural Habitats
+Would the project result in any significant conversion or  Yes [  ] No [X]  NA [   ]
+degradation of critical natural habitats?
+If the project would result in significant conversion or  Yes [ X] No [  ]  NA [   ]
+degradation of other (non-critical) natural habitats, does the
+project include mitigation measures acceptable to the Bank?
+Page 10 of 12
+
+
+﻿OP/BP 4.11 - Physical Cultural Resources
+Does the EA include adequate measures related to cultural  Yes[X]  No[    ]  NA [
+property?
+Does the credit/loan incorporate mechanisms to mitigate the  Yes[X]  No[  ]  NA [
+potential adverse impacts on cultural property?
+OP/BP 4.10 - Indigenous Peoples
+Has a separate Indigenous Peoples Plan/Planning Framework  Yes[X]  No[       NA
+(as appropriate) been prepared in consultation with affected
+Indigenous Peoples?
+If yes, then did the Regional unit responsible for safeguards or Yes [X] No [  ]  NA [  ]
+Practice Manager review the plan?
+If the whole project is designed to benefit IP, has the design  Yes [  ]  No [  ]  NA [ X]
+been reviewed and approved by the Regional Social
+Development Unit or Practice Manager?
+OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy framework/  Yes [ X] No [  ]  NA [   ]
+process framework (as appropriate) been prepared?
+If yes, then did the Regional unit responsible for safeguards or Yes [X] No [  ]  NA [  ]
+Practice Manager review the plan?
+Is physical displacement/relocation expected?            Yes [  ] No [X]     TBD [   ]
+Provided estimated number of people to be affected
+Is economic displacement expected? (loss of assets or access to Yes [  ] No [X]  TBD [  ]
+assets that leads to loss of income sources or other means of
+livelihoods)
+Provided estimated number of people to be affected
+OP/BP 4.36 - Forests
+o          Has the sector-wide analysis of policy and institutional issues  Yes [  ] No [  ]  NA [ X]
+and constraints been carried out?
+Does the project design include satisfactory measures to  Yes [  ] No [   ]  NA [ X]
+overcome these constraints?
+Does the project finance commercial harvesting, and if so,  Yes [  ] No [  ]  NA [ X]
+does it include provisions for certification system?
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the Yes [ X] No [ ] NA [ ]
+World Bank's Infoshop?
+Have relevant documents been disclosed in-country in a public Yes [ X] No [ ] NA [ ]
+place in a form and language that are understandable and
+accessible to project-affected groups and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional  Yes [ X] No [  ]  NA [  ]
+responsibilities been prepared for the implementation of
+measures related to safeguard policies?
+Page 11 of 12
+
+
+﻿Have costs related to safeguard policy measures been included Yes [ X ] No [ ] NA [ ]
+in the project cost?
+Does the Monitoring and Evaluation system of the project  Yes [ X] No [  ]  NA [  ]
+include the monitoring of safeguard impacts and measures
+related to safeguard policies?
+Have satisfactory implementation arrangements been agreed  Yes [X] No [  ]  NA [  ]
+with the borrower and the same been adequately reflected in
+the project legal documents?
+III. APPROVALS
+Task Team Leader(s): Name: Sergio Augusto Gonzalez Coltrinari
+Approved By
+Safeguards Advisor:   Name: Francis V. Fragano (SA)            Date: 10-Dec-2015
+Practice Manager/     Name: Antonio Alexandre Rodrigues        Date: 11-Dec-2015
+Manager:                     Barbalho (PMGR)
+Page 12 of 12
+
+

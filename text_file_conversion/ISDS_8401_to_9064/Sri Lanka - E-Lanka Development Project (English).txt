@@ -1,0 +1,542 @@
+Page  1
+ 
+ 
+Integrated Safeguards Data Sheet (Initial) 
+Section I - Basic Information 
+Date ISDS Prepared/Updated: 11/19/2003 
+A. Basic Project Data 
+(from PDS) 
+I.A.1. Project Statistics 
+Country:
+ SRI LANKA 
+Project ID:
+ P081771 
+ 
+Project:
+ E-Lanka Development 
+Task Team Leader:
+ Nagy K. Hanna 
+Authorized to Appraise Date:
+ November 3, 2003 
+IBRD Amount ($m):
+  
+Bank Approval:
+ March 16, 2004 
+IDA Amount ($m):
+ 50.00
+            
+ 
+Managing Unit:
+ PA9SS 
+Lending Instrument:
+ Specific Investment Loan (SIL) 
+ 
+Status: 
+Lending 
+Sector:
+ Information technology (70%);  General 
+industry and trade sector (30%) 
+Theme:
+ Other financial and private sector 
+development (P);  Other public sector governance 
+(P) 
+ 
+ 
+I.A.2.  Project Objectives (From PDS): 
+The E-Lanka Development project proposes a multi-sectoral approach that aims to bridge the digital 
+divide, bringing the benefits of the global knowledge economy to both the urban centers and rural poor 
+of Sri Lanka, and jumpstarting Information and Communications Technology (ICT) diffusion.  The 
+project promotes the effective use of ICT as an enabler for development throughout the key sectors of 
+the economy. Achieving these objectives will facilitate the country's economic and social 
+transformation, taking it closer to realize the E-Lanka vision.  The project will support key elements of 
+the first phase of the E-Lanka program and lay the grounds for a sustainable e-development process, 
+and help implement the CAS 2003 objective of poverty reduction by supporting peace, growth and 
+equity. 
+ 
+The E-Lanka Development project focuses on the following areas:  (i) leadership, policy development 
+and capacity building; (ii) information infrastructure network and services fund, including a network of 
+telecenters; (iii) e-government; and (iv) innovative societal applications.  Outlined below are some of 
+the medium-term strategies proposed by the E-Lanka project in order to achieve its objectives: 
+ 
+Developing the necessary leadership, policy and human resources for the ICT program,
+ through 
+the following measures: (i) establishing an ICT Agency (company) reporting to the Prime Minister and 
+the Minister of ICT and developing a cadre of CIOs in other ministries in the government; (ii) 
+developing various mechanisms to engage stakeholders from public, private and civil society at all 
+levels and regions; (iii) creating the enabling environment for the knowledge economy through various 
+mechanisms such as enabling laws for e-commerce and e-government, recruitment of ICT 
+multinationals, reformed venture capital laws, and transparent public procurement of ICT services (iv) 
+developing
+ 
+ICT human resources and broad ICT literacy at all levels of education
+, 
+including at least 
+doubling the output of software engineering and computer science graduates, and enacting policies  and 
+programs to increase private sector participation in ICT education, and mobilizing the diaspora.  
+ 
+Page  2
+ 
+ 
+Building the national information infrastructure
+ 
+Network and Services 
+to ensure access and  to 
+address information needs of the poor and rural areas through telecenters, by addressing  the policy, 
+regulatory and incentive environment, and by establishing a rural information infrastructure 
+development fund to provide smart, least-cost subsidies for licensed
+ 
+operators to invest in rural 
+connectivity. After the adoption of a National Communications Policy in July 2002 , GOSL continues  
+the implementation of an ambitious sector reform program. The primary focus of the reforms is to 
+increase access by implementing a competitive and liberalized market structure.  The objective of this 
+project is to support this ongoing reform process by enabling private provision of the rural information 
+infrastructure and services; develop capacity in ICTA and MERST to set policy and implement it in a 
+timely manner. 
+ 
+Developing electronic delivery of public services to citizens and businesses 
+and use ICT to enhance 
+public-private interactions by reducing transaction costs; improving effectiveness and access to 
+services; and reducing the urban-rural divide in access to government through a coherent e-government 
+program. 
+ 
+Using ICT as a lever for social development through a societal applications innovation fund, 
+community centers, and mass media.     
+    
+ 
+I.A.3. Project Description (From PDS): 
+The four components of the project are discussed below: 
+ 
+Components:  
+ 
+(i) Leadership, Policy Development and Capacity Building Program:
+  This component aims to 
+develop the required institutional and executive leadership required at all levels of government for 
+furthering the ICT led reform efforts. The central focus is the establishment of a single responsible, 
+accountable and transparent ICT agency and  development of the linkages and human resources at 
+government agencies to ensure smooth coordination between these and the ICT agency.  The project 
+proposes the establishment of the ICT agency to build capacity within government for implementation 
+and assure proximity to high level commitment. The older CINTEC will be subsumed into the ICT 
+agency to ensure that project goals do not conflict with the government's need for a lean bureaucracy. 
+Discussions have been initiated within the Sri Lankan parliament on the ICT bill and a Board 
+comprising of prominent individuals from government, private sector and academia has been created 
+for the ICT Agency. The project is also recommending that a Cabinet level paper which is awaiting 
+clearance should include room fro the ICT agency to act with agility and speed in staffing and other 
+relevant decisions, accountable to the ICT Agency Board but independent of government bureaucracy. 
+A short list of international consultants has been developed who will provide immediate technical 
+assistance to the ICT agency. The ICT agency will also provide e-leadership, program management, 
+monitoring and evaluation; establish policies and mechanisms in order to promote private education for 
+software engineering and computer science; promote and train government leaders in e-government 
+programs; improve policy, institutional support and regulatory environment for software companies; 
+promote the brand name of the Sri Lankan software industry overseas; and promote private sector 
+investment in software and e-commerce.  
+ 
+Page  3
+ 
+ 
+(ii) Information Infrastructure Network and Services Fund:
+  GOSL recognizes that rural access 
+service might be associated with less attractive financial returns.  On the advice of GOSL, the ICT 
+Agency is  using a market mechanism to finance a capital subsidy for a private RTN operators to 
+provide services in ------ unserved villages.  The operator will serve approximately 3.0 million people.  
+This approach is expected to meet the dual objectives of extending access in rural areas and 
+encouraging private participation in developing the sector.  Details of the licensing process are in the 
+draft RFA which was prepared in accordance with IDA's Procurement Guidelines.  The key features of 
+the rural licensing are summarized in Annex 2.  In addition to the minimum rural access, the the ICTA 
+agency will also finance the establishment of public ICT telecenters in rural areas.  Initially, assistance 
+will be provided to ICT agency to plan and implement the first phase.  Subsequently, this will lead to 
+evaluating and developing replicable models for sustainable public ICT access telecenters.  Upon the 
+successful implementation of the first phase, the program will be scaled-up to cover a larger 
+geographical area.   
+ 
+(iii) E-Government
+: 
+ This component aims to:  modernize government operations to promote access, 
+quality, efficiency, transparency and responsiveness to citizens; improve procurement of ICT to reduce 
+costs and improve quality; and support the creation of a domestic market for software and ICT support 
+services.  
+ 
+It is divided into four broad subcomponents:  
+E-Governance.
+  
+This sub-component will formulate the legal and regulatory framework for E-
+Government through a comprehensive strategic planning study.  Outputs include a set of policies, 
+standards and guidelines for technology selection, procurement and utilization; formulation of shared 
+data, applications and service architectures across government; a human resource development strategy 
+for e-government;  private sector partnership policies and models; and ICT project planning, 
+management and evaluation guidelines.   
+ 
+Client-Oriented, Front-End Applications
+.
+  Basically consisting of the country Internet Portal and the 
+internal Government Intranet.  The Country Portal
+ will be an Internet-based “entry door” and routing 
+facility into Sri Lanka’s political and administrative jurisdictions, government services, country 
+information, activities and people.  The Portal will thus be a host application for integrated delivery of 
+progressive groups of services ranging from utility payments to issuance of certificates, identification 
+documents, permits, licenses, etc. to both citizens and businesses.  The Government Intranet
+ will be a 
+similar portal except that it will be internal to Government.  It will offer a consistent, employee-
+oriented interface to information and services from the GoSL..  The Portal will be the basic knowledge 
+management system of the public sector offering a wealth of information as well as conferencing and 
+electronic mail services.  It will also be the host for internal service delivery, transaction processing, or 
+work flow management applications that cross agency lines, as they are gradually implemented, and the 
+portal for agency-specific applications that do not.   
+ 
+Strategic Information Systems.
+ 
+Strategic
+ 
+information
+ 
+systems are a special category of systems that Sri 
+Lanka must create to underpin its economic and social development. These systems are soft forms of 
+national infrastructure because, like roads or power, they have major economies of scale, require 
+substantial front-end investments, and underpin other economic activities.  Five and possibly six 
+systems have been identified for priority implementation, namely the Citizens Services Database
+ for 
+citizen identification services based on a unique identification number; the National Operations Room
+ 
+Page  4
+ 
+ 
+for public sector performance monitoring;  the E- Procurement system
+ for all government purchases; 
+the Government Human Resources Management System;
+ the Land Information System
+ for land-related 
+information and records, and possibly an e-Parliament System
+ to empower the legislature. 
+ 
+Electronic Networking Infrastructure.
+ 
+Consists of a Government Wide Area Network
+ linking initially 
+the central and provincial levels of Government ministries through dedicated data communications and 
+networking facility of at least 2 Mbs capacity; and a number of Local Area Networks
+ providing 
+internet-connected computer workstations to a core group of government employees using the strategic 
+information systems.    
+ 
+Four of the above systems will be initially developed as pilot systems, to test the novel concepts of data 
+integration, service-oriented design, and client-oriented delivery mechanisms.  These systems are the 
+two portals for country and government, the Citizens Services Database, and the National Operations 
+Room.  
+ 
+(iv) Societal Applications Fund:
+  The proposed overall goal of the SAF is the provision of key 
+information
+ and opportunities for 
+communication
+ (as opposed to a focus on technology) that enables an 
+improvement in living conditions in the targeted through pilot projects poorest communities of Sri 
+Lanka. This will be achieved by applying low-cost technology solutions in pilot projects and evaluating 
+the impact of access to information as well as to communication means;  equitably and innovatively 
+building capacity in the least empowered population to use and benefit from ICT; identifying 
+sustainable social or business models that can be scaled up for  broader impact.The fund would provide 
+grants initially and would later enable development of other funding vehicles as well. In addition, it is 
+proposed that the SAF 
+promote and progressively address
+: partnerships between private sector, NGOs, 
+and government;  good governance; equality between women and men; inclusion of marginalized 
+groups, such as people with disabilities and other minorities; environmentally sustainable 
+practices.Proposals would be generated through RFP and by soliciting and refining proposals in areas 
+identified as presenting opportunities or  developmental problems needing immediate attention. 
+ 
+I.A.4. Project Location: (Geographic location, information about the key environmental and social characteristics 
+of the area and population likely to be affected, and proximity to any protected areas, or sites or critical natural 
+habitats, or any other culturally or socially sensitive areas.) 
+ 
+The project essentially covers entire Sri Lanka.  However, the Information Infrastructure Network, 
+which is the only component of the project that may have potential environmental and social impacts 
+focuses on the poorest regions of the country, particularly rural areas with low connectivity in the South 
+and post conflict regions in the North and East. 
+ 
+ 
+B. Check Environmental Classification: 
+ 
+C (Not Required) 
+Comments:
+  
+Of the six components supported under the project, 5 have no adverse environmental and social impacts 
+since this is a E development and ICT reform project.  The regional telephone network (RTN) that is 
+proposed under the project may result in potential environmental issues that may require the project to 
+be categorized as an Environmental Category B project.  This may depend largely on whether the RTN 
+network is a wireline system or a wireless system.  An appropriate Environmental and Social 
+Page  5
+ 
+ 
+Assessment Framework Note will be prepared during project preparation to be used if the project will 
+be classified as a Category B project.   
+ 
+C. Safeguard Policies Triggered (from PDS) 
+(click on 
+ for a detailed desciption 
+or
+ click on the policy number for a brief description) 
+ 
+Policy Triggered 
+ 
+Environmental Assessment (OP 4.01, BP 4.01, GP 4.01) 
+             Yes 
+ 
+Natural Habitats (OP 4.04, BP 4.04, GP 4.04) 
+             No 
+ 
+Forestry (OP 4.36, GP 4.36) 
+             No 
+ 
+Pest Management (OP 4.09) 
+             No 
+ 
+Cultural Property (OPN 11.03) 
+             No 
+ 
+Indigenous Peoples (OD 4.20) 
+             No 
+ 
+Involuntary Resettlement (OP/BP 4.12) 
+             No 
+ 
+Safety of Dams (OP 4.37, BP 4.37) 
+             No 
+ 
+Projects in International Waters (OP 7.50, BP 7.50, GP 7.50) 
+             No 
+ 
+Projects in Disputed Areas (OP 7.60, BP 7.60, GP 7.60)* 
+             No 
+ 
+ 
+ 
+Section II - Key Safeguard Issues and Their Management 
+D. Summary of Key Safeguard Issues
+. Please fill in all relevant questions. If information is not available, 
+describe steps to be taken to obtain necessary data. 
+ 
+II.D.1a. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe 
+any potential large scale, significant and/or irreversible impacts. 
+ 
+ 
+There are no major environmental issues associated with the project.  The project is an E-
+Development and ICT sector reform project, which primarily involves policy and institution building 
+components.  The only component of the project that may have potential environmental & social 
+impacts is the Information Infrastructure Network which will be financing the construction of 
+information infrastructure network to integrate the North and East to the rest of the country and to 
+connect the most remote and rural areas, particularly in the South.  It has not been pre-determined if 
+wireless or wireline systems will be used.  This decision cannot be made at this stage but will depend 
+on the proposals put forward by the private sector during the bidding process for the RTN networks.  
+Wireless systems will have minimal environmental & social impacts, with potential impacts 
+associated with the land for erection of towers and the aesthetic impacts of the towers being of 
+concern.  Wireline systems would potentially have considerably more environmental and social 
+impacts due to erection of the network.  These impacts will probably be due to clearing of rights of 
+way and erection of poles.  Since rural road access in Sri Lanka is reasonably good, it is the rural 
+telephone network will follow existing roads, thus requiring no real change in land use or associated 
+impacts of land acquisition.  There may be minor environmental impacts associated with the 
+construction or renovation of Telecenters.  But considering the small size of rural telecenters, these 
+impacts are easily mitigated.  There will be no resettlement, damage to cultural property or adverse 
+impact on indigenous people under this project. 
+   
+II.D.1b. Describe any potential cumulative impacts due to application of more than one safeguard policy or due 
+to multiple project component.  
+  
+Page  6
+ 
+ 
+Since it is only the environmental assessment safeguard policy that may be applicable for this project, it 
+is anticipated that there will be no cumulative impacts due to the application of more than one 
+safeguard policy.  As stated above, all other project components have no adverse environmental or 
+social impacts. 
+ 
+II.D.1c Describe any potential long term impacts due to anticipated future activities in the project area. 
+ 
+ 
+There are no long term impacts anticipated due to future activities within the project area. 
+ 
+II.D.2. In light of 1, describe the proposed treatment of alternatives (if required) 
+    
+Bidders for the RTN project will be required to file an environmental impact assessment (EIA) 
+identifying environmental impacts of their proposed networks.  The EIA will follow the guidelines 
+described in the Environmental and Social Assessment Framework Note that is being prepared for 
+this project.  These environmental assessments will be screened as part of the bid evaluation process 
+in order to minimize any negative environmental impacts. 
+ 
+II.D.3. Describe arrangement for the borrower to address safeguard issues 
+ 
+Bidders for the RTN project will be required to file an environmental impact assessment identifying 
+environmental impacts of their proposed networks, in accordance with the agreed Framework.  
+These assessments will be screened as part of the bid evaluation process in order to minimize any 
+negative environmental impacts.  Implementation of the environmental mitigation measures during 
+construction will be included as part of the contract of the selected bidder.  Since EIA’s are not 
+statutorily required for telecommunications projects under Sri Lanks’s National Environmental Act 
+(NEA), the EIA will be reviewed by the project implementing agency (through outsourcing the 
+environmental review) and by the Bank to ensure that the environmental issues are adequately 
+addressed and the mitigation measures are appropriate.    
+ 
+II.D.4. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard 
+policies, with an emphasis on potentially affected people. 
+ 
+The key stakeholders are the public of Sri Lanka with rural communities in the areas where the RTN 
+network will be established being critical stakeholders.  The stakeholders will be consulted during the 
+EIA preparation stage by the bidders.  The Framework for undertaking the EA will placed for public 
+comments prior to finalization. 
+ 
+ 
+ 
+E. Safeguards Classification
+ (select in SAP).
+ Category is determined by the highest impact in any policy. 
+Or on basis of cumulative impacts from multiple safeguards. Whenever an individual safeguard policy is 
+triggered the provisions of that policy apply. 
+ 
+ 
+[   ] 
+S1. – Significant, cumulative and/or irreversible impacts; or significant technical and institutional risks in 
+management of one or more safeguard areas  
+[ X] 
+S2. – One or more safeguard policies are triggered, but effects are limited in their impact and are technically 
+and institutionally manageable 
+[   ] 
+S3. – No safeguard issues 
+Page  7
+ 
+ 
+[   ] 
+SF. – Financial intermediary projects, social development funds, community driven development or similar 
+projects which require a safeguard framework or programmatic approach to address safeguard issues.  
+ 
+F. Disclosure Requirements  
+Environmental Assessment/Analysis/Management Plan:  
+ 
+Expected
+ Actual
+  
+Date of receipt by the Bank 
+November 24, 
+2003 
+  
+Date of “in-country” disclosure 
+November 26, 
+2003 
+  
+Date of submission to InfoShop 
+November 26, 
+2003 
+  
+Date of distributing the Exec. Summary of the EA to the Executive 
+Directors 
+(For category A projects) 
+  
+ 
+Resettlement Action Plan/Framework:
+  
+ 
+Expected
+ Actual
+  
+Date of receipt by the Bank 
+ 
+ 
+ 
+Date of “in-country” disclosure 
+ 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+ 
+Indigenous Peoples Development Plan/Framework:  
+ 
+Expected
+ Actual
+  
+Date of receipt by the Bank 
+ 
+ 
+ 
+Date of “in-country” disclosure 
+ 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+ 
+Pest Management Plan: 
+ 
+Expected
+ Actual
+  
+Date of receipt by the Bank 
+ 
+ 
+ 
+Date of “in-country” disclosure 
+ 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+ 
+Dam Safety Management Plan:  
+ 
+Expected
+ Actual
+  
+Date of receipt by the Bank 
+ 
+ 
+ 
+Date of “in-country” disclosure 
+ 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+If in-country disclosure of any of the above documents is not expected, please explain why.  
+ 
+Signed and submitted by 
+ 
+ 
+Name
+ Date
+ 
+Task Team Leader: 
+Nagy K. Hanna 
+ 
+Project Safeguards Specialists 1: 
+Sumith Pilapitiya 
+ 
+Project Safeguards Specialists 2: 
+ 
+ 
+Project Safeguards Specialists 3: 
+ 
+ 
+ 
+ 
+Page  8
+ 
+ 
+Approved by:
+ 
+Name
+ Date
+ 
+Regional Safeguards Coordinator: 
+Frederick Edmund Brusberg 
+December 5, 2003 
+ 
+ 
+Sector Manager/Director 
+Joseph Del Mar Pernia 
+ 
+ 
+ 

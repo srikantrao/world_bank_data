@@ -1,0 +1,461 @@
+Page  1
+PROJECT INFORMATION DOCUMENT (PID) 
+CONCEPT STAGE 
+Report No.:  
+AC922
+ 
+Project Name 
+HEALTH SERVICES EXTENSION AND MODERNIZATION 
+SWAP  (2nd APL) 
+Region 
+LATIN AMERICA AND CARIBBEAN 
+Sector 
+Health (100%) 
+Project ID 
+P078991 
+Borrower(s) 
+REPUBLIC OF NICARAGUA 
+Implementing Agency 
+Government of Nicaragua 
+Environment Category 
+[
+]
+A
+[X] B   [ ] C   [ ] FI   [ ]  
+Safeguard Classification 
+[
+]
+S
+1
+[
+]
+S
+2
+[
+]
+S
+3
+[
+]
+S
+F
+[
+]
+TBD (to be determined)
+ 
+Date PID Prepared 
+June 23, 2004 
+Estimated Date of 
+Appraisal Authorization 
+September 20, 2004 
+Estimated Date of Board 
+Approval 
+March 15, 2005 
+1.  Key development issues and rationale for Bank involvement 
+Nicaragua has among the lowest MDG health indicators in Latin America. Although there has 
+been considerable progress in improving these indicators over the last ten years
+—particularly 
+infant and child mortality rates—it is unlikely that Nicaragua will achieve either its maternal 
+mortality or its chronic malnutrition MDG goals for 2015, unless significant additional efforts 
+are made to accelerate current trends. The fertility rate, one of the highest in LAC at 3.2, is a 
+particularly pressing social problem: Nicaragua’s adolescent fertility is the highest in the region. 
+ 
+Current 
+Goal for 2005 
+PRSP 2015 
+Indicator 
+Status (2001)
+Target 
+On track 
+Target
+Likelihood of Achieving
+Infant Mortality 
+31 
+32 
+Yes 
+20
+Possible 
+Child mortality 
+40 
+37 
+Partly 
+24
+Possible 
+Maternal mortality 
+125 
+129 
+Yes 
+40
+Unlikely 
+Chronic Malnutrition
+17.8 
+16 
+Yes 
+7
+Unlikely 
+Global Fertility Rate
+3.2 
+Source:  PRSP, LSMS 2001, PRSP First Progress Report, Poverty Assessment 2003. 
+ 
+Moreover Nicaragua’s national health indicators hide tremendous inequities in the level of health 
+status that exist within the country, as well as in the progress that has been made in the past few 
+years. As may be seen in the graph below, there is a direct relationship between the amount of 
+improvement that was made between 1998 and 2001 in household income quintile and the rate of 
+reduction in the (a) infant mortality rate, (b) the under-five mortality rate and (c) the prevalence 
+of chronic malnutrition among children 12-59 months old. The poorest benefited the least from 
+the improvement of health indicators, the wealthiest benefited the most.  As a result, these health 
+problems have become increasingly concentrated among the poor.  The prevalence of poverty 
+and the absolute number of poor are found disproportionately in the rural areas of the North and 
+the Atlantic Coast.  As a result, as these health problems have become increasingly concentrated 
+Page  2
+among the poor, they have concomitantly become increasingly concentrated in these geographic 
+areas of the country.  The graph on the following page shows how:  
+Rates of Reduction in Nicaragua's Key Health MDG Indicators
+Between 1998 and 2001 by Household Income Quintile
+2%
+24%
+30%
+36%
+37%
+7%
+22%
+26%
+33%
+35%
+7%
+1
+2%
+31%
+35%
+47%
+0
+%
+5
+%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+Q1-Lowest
+Q2
+Q3
+Q4
+Q5-Highest
+Household Income Quintiles
+Infant Mortality Rate
+Under 5 Mortality Rate
+Chronic Malnutrition
+Source:  DHS 1998 and 2001 data. 
+With a 2002 per  capita GNI of US$710, Nicaragua is one of the poorest countries in LAC (WDI, 
+2003).  Although the rate of poverty declined between 1993 and 2001, the absolute number of 
+Nicaraguans in poverty increased by nearly 300,000 (World Bank, 2003:3).  Poverty and health 
+are transactionally related. Nicaragua’s 2003 Poverty Assessment empirically established the 
+importance of living conditions, health inputs and demographic factors as key determinants of 
+health status in Nicaragua.  Living conditions that characterize impoverished populations are 
+important factors contributing to poor health, at the same time that poor physical and mental 
+health, poor health practices —including premature births, short child-spacing intervals and large 
+family size—and high out-of-pocket expenditures on health impede the ability of a family to rise 
+up out of poverty.  For Nicaragua to make better progress in reducing poverty, it will need to do 
+a
+better job in improving health status. 
+ 
+The GON is fully committed to the 2001 PRSP, and is now preparing its second stage PRSP. The 
+Bank’s CAS main rationale is to support the GON’s PRSP. Two of the four PRSP pillars are 
+closely related to the proposed project: (i) greater and better investment in the human capital of 
+the poor, and (ii) better protection for vulnerable populations. The largest financial support of 
+IDA to Nicaragua is the budget support provided by the PSAC and PRSCs. These credits include 
+health conditionalities that are fully aligned with the PRSP, whose achievement is supposed to be 
+supported by a new health investment project which corresponds to the second phase of the 
+current health project, the Health Modernization Program, which is an adjustable programmatic 
+loan (APL).
+1
+The MOH has recently completed the 
+National Health Policies 2005-2015
+,
+in which it formally 
+presents its vision of how it intends to achieve the health goals established in the PRSP. The 
+Ministry is now working on the elaboration of a long-term 
+National Health Plan: 2005-2015
+,
+and a more detailed and operational companion document, the 
+Five-Year Implementation Plan, 
+2005-2009
+.
+2
+Five Cooperating Agencies and the MOH have a signed agreement that the 
+1
+Phase I of the current project ends in December 2004, at which time it is anticipated that 100 percent of project 
+funds will have been spent. 
+2
+The Ministry is committed to completing these documents by August 2004 and November 2004, respectively. 
+Page  3
+Ministry’s 
+Five-Year Implementation Plan, 2005-2009 
+will be the operational framework for 
+the proposed SWAp (sector wide approaches), thereby assuring that the SWAp will be 
+fully aligned with Government policy. 
+The first phase of the APL has consisted of a substantial number of pilots, as have the projects of 
+the IDB and Sweden.  Evalu
+ations have already been completed of the Women’s Centers (
+Casas 
+Maternas)
+,
+the 14 primary health care interventions and of the health policies of 1997-2002.  
+Additional evaluations are currently in various stages of preparation, including:   hospital 
+modernization, primary care extension via the purchase of NGO services and via the Maternal-
+Child Insurance Fund, the institutional modernization of MINSA and the community-based 
+nutrition program.  The Ministry is planning to use the evaluations to aid it in making strategic 
+decisions as to how best to harmonize donors’ programs and to design the SWAp.  Several of 
+these evaluations, for instance, will provide input into the design of the Integrated Health Care 
+Model that the Ministry is currently constructing, and that it intends to use as the implementing 
+vehicle of the National Health Plan. The lessons learned in the modernization of hospital 
+management of the first phase will be consolidated into a formal hospital management model 
+that will be extended under the second phase of the project to the rest of public hospitals. 
+Likewise, the institutional modernization evaluation will provide lessons to adjust those efforts, 
+which will also be continued throughout the second phase of the project.  
+ 
+Nicaragua has been recipient of a massive amount of foreign aid, particularly after natural 
+disasters such as Hurricane Mitch (October 1998). Without denying the contribution that this aid 
+has made in helping to bridge the gap in health services availability and the health financing 
+shortfall in the country, it is evident that this amount of foreign resources has come at a price. It 
+has resulted in 36 distinct projects, with different purposes, priorities and strategies. No less 
+important, this proliferation in foreign projects has limited the leadership and stewardship role of 
+the MOH,  and, by virtue of the lack of adequate coordination, it has contributed substantially to 
+inefficiencies in the health sector, at the same time that it has foisted excessive demands for 
+project supervision and monitoring on the Ministry. This has been a major motivation for the 
+Ministry’s efforts over the past two years to promote a health SWAp, together with the support 
+of the like-minded group of donors. This particular moment—when IDA, IADB and Sweden (a 
+major donor in the health sector in Nicaragua), are all in similar phases of the traditional project 
+cycle and need to define their investment support to the health sector for the next four to five 
+years—provides a unique opportunity to develop a health SWAp under the leadership of the 
+MOH. Other donors with ongoing health projects—the Netherlands and Finland--have expressed 
+their willingness to participate in the SWAp both with additional funds and by progressively 
+aligning their own projects within the same operational framework, while USAID and Canada, 
+who have been participating in the preparatory workshops, have also stated their interest in 
+having their projects and country strategies supporting the SWAp. UN agencies, including 
+UNFPA and PAHO/WHO, have been approached by the MOH and IDA and have indicated their 
+interest in supporting the sectoral approach. Finally, the MOH is seeking to integrate a bilateral 
+donors’ fund (Canada, Finland and DfID), which is currently devoted to sexual and reproductive 
+health, into the overall SWAp.   
+ 
+The GON requested a PHRD grant for the preparation of the second phase of the APL, which 
+was approved in February 2004 and signed-off on in May 2004. The PHRD will be managed by 
+Page  4
+the MOH, and its action plan is fully consistent with this PCN. Under the PHRD, a financial 
+analysis of the sector will be prepared in the next few months and a detailed estimation of the 
+cost of the Five-year Implementation Plan for the National Health Plan will be developed. These 
+analyses will provide a sectoral economic and financial framework that will identify the required 
+financial contributions of the Government and its SWAp partners.  
+ 
+Much preparatory work for the SWAp has already been done.  Over the course of the past year 
+and a half, IDA, IADB and the Nordic countries have conducted four joint missions, which have 
+included the development and signing of joint 
+Ayuda Memorias
+.
+In addition, there have been 
+two SWAp workshops, including a week long event in May 2004, to clarify and to define goals, 
+objectives, expectations and methods.  These have been important, Ministry-led events with 
+substantive, technical discussions and the active participation of Ministry line personnel and 
+donor representatives.  This process has helped to harmonize donors and has nurtured good 
+working relationships between all involved.   
+ 
+Some of the groundwork that has been done for the SWAp has been the product of the 
+institutional modernization that has been achieved in the past three or four years, particularly in 
+the area of financial planning and management, and in the development of information systems 
+for monitoring and evaluation.  The SWAp is now feasible, in large part, because of these 
+significant developments. The development of the SIPLA
+—an algorithm-based health activity 
+planning tool—and the SIAFI—a program- and activity-based budgeting and accounting 
+system—are major accomplishments. Furthermore, they have been implemented in a manner that 
+has made an important contribution to the decentralization of MINSA. It is noteworthy that the 
+design of the SWAp is helping to further institutionalize the use of these tools and will be based 
+on a decentralized plan that will be constructed from the bottom-up.  
+ 
+2. Proposed objective(s) 
+The Health Sector Modernization Program (HSMP), of which this project is the second phase, 
+seeks to improve the efficiency, effectiveness and equity of the Nicaragua health system by: (i) 
+strengthening first level care and nutrition; (ii) modernizing the hospital network; (iii) developing 
+the institutional capacity of the Ministry of Health; and (iv) supporting the social security reform. 
+The second phase of this APL will seek the attainment of this program’s objective by: (i) 
+focusing on the extension of the integral model of health care to the poorest areas of the country; 
+(ii) improving delivery and management of hospital services and Women Centers related to the 
+extension of services; (iii) strengthening the MOH capacity to steward and evaluate a more 
+equitable and efficient health system; and (iv) expanding coverage and quality of services 
+guaranteed by the social security. 
+ 
+3. Preliminary description 
+The SWAp will finance the Five Year Plan of the National Health Plan. The Ministry’s National 
+Health Plan will identify the specific health priorities and goals, and will establish specific 
+benchmarks for each SILAIS—regional health units.  Each SILAIS will, in turn, use the SIPLA 
+together with the SIAFI to develop annual operating plans for achieving its benchmarks. The 
+plans will consist of specific types and quantities of activities and services, and their required 
+inputs and estimated costs. The sum of these plans will provide an estimate of the cost of a major 
+component of the Five Year Health Plan (it will not include the hospitals’ component or the 
+Page  5
+MINSA Central Office component). It would be a relatively straightforward process to transform 
+these individual SILAIS annual operating plans into management agreements/contracts with the 
+SILAIS, since all SILAIS and municipalities are now working under these management 
+agreements, thereby enabling the introduction of performance-based contracting for some 
+portion of the Phase 2 activities later on. 
+ 
+Within the abovementioned planning framework, the SWAp will support three major sets of 
+activities or investment areas: (1) the expansion of coverage of the basic health services to the 
+most vulnerable populations, (2) integration of the health care network so as to strengthen 
+institutional birthing services and (3) institutional strengthening 
+ 
+ 
+Investment Area #1:
+ 
+Though the specific targets have not yet been identified, we foresee a substantial amount of 
+money going to support specific MCH activities in targeted SILAIS. 
+The focus of the SWAp 
+will be the expansion of basic health and nutrition services to most vulnerable populations 
+using the new Integrated Healthcare Model (IHCM)
+.
+The IHCM will include and integrate 
+successful piloted programs such as PROCOSAN
+3
+,
+FONMAT
+4
+,
+NGO’s contracted services
+5
+,
+PHC management model
+6
+,
+reproductive and sexual health
+7
+,
+Women's centers
+8
+and PROSILAIS
+9
+.
+The model will be implemented through different tailored strategies, such as contracting NGOs 
+in remote areas or through demand-incentives to public facilities (where they exist). The IHCM 
+will include  two components, one focusing on health  services and one focused on management 
+systems.  The health care component will define the package of services, the outreach strategy, 
+the professional team and service standards as well as the system of referral to specialized care. 
+The management component will entail the consolidation of service agreements, performance 
+monitoring mechanisms, payment and reward systems, as well as conditions essential for 
+strengthening the stewardship and contracting roles of the SILAIS and the MOH.  Finally, the 
+IHCM will incorporate social participation and social control mechanisms to assure that care is 
+responsive to local priorities and expectations.  
+ 
+Investment Area #2:   
+3
+Programa Comunitario de Salud y Nutrición. PROCOSAN is the program which was piloted by the APL first 
+phase and, as of June 2003,  became the national nutrition and child growth program integrating other donors’ 
+nutrition programs. 
+4
+Fondo de Maternidad e Infancia Segura, sponsored by the IADB loan promotes increased production of MIC 
+services through an incentive scheme to public and private providers in eligible geographic areas. 
+5
+Pilots sponsored by the World Bank credit contracting basic health services with NGO’s in two very remote areas 
+in the North and Atlantic Coast. 
+6
+A
+management model implemented under the APL first phase, which involves better managerial practices and 
+services agreements with health centers.  
+7
+There is now a National Sexual and Reproductive Health Program which integrates previous separate programs. 
+The new National Program is being funded by three bilateral donors and administered by MOH with technical and 
+administrative support from UNFPA. The MOH has committed to include this program and funding within the 
+sector-wide program.  
+8
+Community managed shelters located next to health centers that provide housing for women immediately before 
+and after birth delivery. These centers also provide health education, family planning advise and other gender 
+empowerment counseling. 
+9
+A
+long lasting program sponsored by Sweden and PAHO which promotes strengthening of primary health care 
+services and management capacity at decentralized MOH offices (SILAIS). 
+Page  6
+The SWAp will also include targeted investments in hospital services as well as the expansion of 
+Womens’ Centers (which after being evaluated have become a national strategy to increase 
+institutional deliveries in remote areas). Investments in hospitals will be related primarily to the 
+strengthening of maternal and child care, predominantly in areas of the extension of services, and 
+general hospital support services (laboratories, maintenance, waste management, water and 
+steam supply, etc.).   
+ 
+Investment Area #3:  
+Another SWAp priority will be the continued support of the institutional reform of the MOH. 
+Priorities for the second phase will likely be the human resource policies, the expanded 
+implementation of the Health Management Information System (SIMINSA) prepared under 
+phase 1, and the complete implementation of the Financial Administration Information System 
+(SIGFA). The project will also need to beef-up the MOH’s procurement capacity. Human 
+resource policy, the implementation of SIGFA and strengthening Government’s procurement 
+capacity, together, form part of the objectives of another World Bank project (PSTAC) aimed at 
+strengthening GON public management and working on them simultaneously is likely to yield 
+synergistic gains in terms of impact. 
+ 
+It is also expected that the SWAp will support core MOH programs, namely the prevention and 
+control of HIV/AIDS and vector-borne diseases, together with the population policy action 
+program. 
+ 
+A
+likely third portion of investment area #3 will consist of the continued expansion of efforts to 
+extend coverage of the Nicaraguan Social Security Institute (INSS), and the provision of services 
+by the Previsional Health Firms (Empresas Médicas Previsionales, EMPs) which INSS currently 
+contracts to provide services. 
+ 
+4.  Safeguard policies that might apply 
+Environmental Assessment (OP/BP 4.01)
+The expansion of basic health and nutrition services 
+to most vulnerable populations using the new Integrated Healthcare Model (IHCM), the 
+investments in hospital services, the expansion of women centers, as well as the continued 
+support of the institutional reform of the MOH, will lead to an increase on the generation of 
+Health Care Waste and are expected to generate environmental impacts during construction 
+activities. These events will require the development of a set of guidelines and procedures for 
+new facilities, in order to mitigate environmental impacts caused by construction on any 
+sensitive areas. The health care waste management plan will focus in a set of guidelines and 
+procedures to enhance the quality of sorting, managing, transport and disposing of the hospital 
+waste at National and Regional level. The plan will include training activities for involved 
+personnel and institutions. Indicators to monitor its implementation will be developed and 
+enforced through Bank supervision activities.  
+Indigenous Peoples
+(OD 4.20
+)
+Given that the Swap will target the most vulnerable groups 
+including the Indigenous and Afro-descendants, an Indigenous Peoples Plan will be included. 
+The social assessment for the Health Services Extension and Modernization Swap includes a 
+stakeholder evaluation and beneficiary assessments of ongoing services (Women’s Centers, 
+PHC, Hospital services) in order to capitalize on good practices and lessons learned. Particular 
+attention is being given to most vulnerable regions (Jinotega, RAAN, RAAS, Río San Juan and 
+Page  7
+other) and high-risk groups (women and children ages 0-5). The social strategy for the project 
+will ensure a participatory strategy and social auditing mechanisms are in place for the project 
+components. The strategy will include the participation of Central and Regional MOH, NGOs, 
+Women’s Associations, community networks, midwive’s and health promotor’s networks, etc. 
+Based on the positive experience with Women’s Centers (particularly on the Atlantic Coast and 
+isolated areas) the project will support Government’s efforts to expand on 100 new locations 
+country-wide.
+ 
+Cultural Property
+(draft OP 4.11 - OPN 11.03
+)
+Given the fact that construction/refurbishing activities will take place, chance find procedures 
+will be included in the construction guidelines. 
+ 
+5. Tentative financing 
+Source: ($m.) 
+BORROWER/RECIPIENT 0 
+INTERNATIONAL DEVELOPMENT ASSOCIATION 
+7 
+ Total 
+7 
+ 
+6. Contact point 
+Contact: Jesus Maria Fernandez Diaz 
+Title: Sr Public Health Spec. 
+Tel: (202) 458-4806 
+Fax:  (202) 522-1201 
+Email: jfernandezdiaz@worldbank.org
+ 

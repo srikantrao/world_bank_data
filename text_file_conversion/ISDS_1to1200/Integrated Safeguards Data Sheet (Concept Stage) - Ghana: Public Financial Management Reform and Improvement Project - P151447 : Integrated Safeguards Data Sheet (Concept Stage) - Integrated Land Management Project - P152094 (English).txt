@@ -1,0 +1,229 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+CONCEPT STAGE
+,2 Date ISDS Prepared/Updated: 16-Mar-2015
+Date ISDS Approved/Disclosed: 18-Mar-2015
+I. BASIC INFORMATION
+A. Basic Project Data
+Country:         Albania                    Project ID:   P152094
+Project Name:    Integrated Land Management Project (P152094)
+Task Team        Kathrine M. Kelm
+Leader(s):
+Estimated        08-Jul-2015                Estimated     29-Oct-2015
+Appraisal Date:                             Board Date:
+Managing Unit: GSURR                        Lending       Investment Project Financing
+Instrument:
+Sector(s):       Public administration- Information and communications (30%), General public
+administration sector (30%), Information technology (40% )
+Theme(s):        e-Government (30%), Personal and property rights (30%), Land administration
+and management (40%)
+Financing (In USD Million)
+Total Project Cost:      45.00             Total Bank Financing:    45.00
+U       Financing Gap:            0.00
+Financing Source                                               Amount
+Borrower                                                          0.00
+a          International Bank for Reconstruction and Development           45.00
+Total                                                            45.00
+Environmental B - Partial Assessment
+Category:
+Is this a        No
+Repeater
+project?
+B. Project Objectives
+The proposed project's development objective would be to contribute to an increase in the efficiency,
+transparency, reliability and availability of an integrated land management system through
+integration of key IT systems, and geo-spatial and immovable property information.
+The project would achieve these goals by (i) supporting the development of an integrated land
+
+
+﻿management policy and harmonized legal framework; (ii) improving the regulatory environment,
+business processes, staff capacity and customer orientation in the IPRO; (iii) updating, upgrading and
+digitizing the paper-based registration information for priority areas of the country; (iv) improving
+transparency of immovable property ownership and transactions by increasing digital information
+U       and on-line access; (v) facilitating spatial data access, exchange and sharing; and (vi) developing a
+new methodology for value-based property tax and piloting new approaches for enhancing property
+taxation.
+C. Project Description
+The proposed project will have the following four components:
+Component A: E-Governance for Enabling Integrated Land Management. The Government of
+Albania is taking major steps to improve service delivery to citizens, increase transparency, minimize
+opportunities for corrupt practices and build public trust. The e-Gateway was recently put into
+operation and the digital property registration system has been integrated. A new Bank financed
+project will support the establishment of citizen centric service delivery, a one-stop-shop service
+center that will include property registration services. This component would support the Ministry of
+Innovation and Public Administration (MIPA), in cooperation with key stakeholder groups, to
+manage the development and implementation of an enabling e-governance technical environment to
+support a wider Integrated Land Management Program. Actions under this component would involve
+the development of Integrated Land Management policy, strategy, legal framework and technology
+to create an enabling technical environment, and development of rules, standards and human
+resource capacities to manage implementation of the program. Data acquisition, processing, storage,
+access, sharing and optimal use of geospatial and other data will be additional key elements of the
+program. Many of the provisions of the EU INSPIRE Directive could be translated to the policy,
+legal and technical framework in Albania. The project would also support the Bank financed project
+for citizens centric services by addressing the key components and data related to geospatial and
+property/land systems. The component would work closely with the MIPA and the new National
+Spatial Data Agency (ASIG) to ensure that the data models, metadata rules and strategy for including
+the data layers for the main themes in the INSPIRE directive and areas of key government interest in
+the urban and land sectors are included in the integrated land management system.
+Component B: Data for the Integrated Land Management System. The biggest challenges facing
+IPRO remains the pre-2011 registration data (data for approximately 80% of property in the country).
+These data (maps and legal registers) are kept in manual form and are of poor quality or damaged by
+daily use. Thus, a national process to digitize, update and upgrade the data is urgently needed so it
+can be uploaded and maintained in the IT system as part of the wider e-government strategy. Actions
+under this component will complete first registration in any remaining priority areas, provide
+institutional support to IPRO, and fulfill other data requirements. Although many of these zones are
+in remote areas, first registration remains incomplete along the economically valuable Southern
+coastline and for most forests/pastures. The process requires a regulatory framework to determine
+administrative boundaries, address the particular issues associated with the southern coastline, and a
+procedure to recognize the rights of users in remote areas who are often from the most vulnerable
+groups and rely on forest products for their livelihood. Institutional support for IPRO, would include:
+production of a digital archives; staff training; improving IT system and integrating the system
+architecture; extending e-services modules and putting them into operation; and ensuring sufficient
+backup and disaster recovery mechanisms. Key data suppliers include the address information and
+the citizen national identification (NID) system held at the Ministry of the Interior. These data need
+to be integrated with the IPRO IT system and be available in the geoportal. The proposed project
+
+
+﻿would therefore include a subcomponent to access these data and link to the IPRO IT system.
+Component C: Property Valuation and Taxation. This component would support the establishment of
+a more efficient and transparent property valuation and taxation system. Actions under this
+U       component will include conducting mass appraisal system pilots based on international valuation
+standards in select municipalities. The pilots will inform the procedures to set up and operationalize
+the system, and identify changes in property tax collection as well as changes in tax burden
+(distributional effects) as a result of the mass appraisal system. This is expected to be achieved
+through: (i) the development of a fiscal cadastre - property data and IT system; (ii) the design and
+piloting of a mass valuation system; and (iii) the adoption of valuation standards based on
+international standards and the development of a market-based property tax legal framework. The
+component could also contribute to the strengthening of local governments' capacity to bill and
+collect property tax revenues and to assure the flow of information across the different institutional
+users.
+Component D: Project Management, Capacity Building and Monitoring and Evaluation (M&E). The
+project would also support IPRO and ASIG with updating and implementation of their Strategic
+Business Plans in order to ensure IPRO operates as a service oriented business and ASIG develops
+its capacity to operate as the hub for geo-spatial information. These modernization plans require
+intensive training and information campaigns for staff as well as for state and private users. In
+addition, a strong M&E program is needed to track progress for each institution within the wider e-
+government structure and to collect and analyze gender data about property ownership and services.
+Actions under this component will include developing a business plan for ASIG, devising an
+integrated training and capacity building plan for implementing agencies, and strengthening M&E
+methodology and rigor at the implementing agencies.
+D. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+The project will be implemented for the entire country of Albania, but majority of the activities will
+focus around improved services and digital databases, with no physical footprint.
+E. Borrowers Institutional Capacity for Safeguard Policies
+The project will be implemented either by IPRO that has implemented a large land administration
+project component of the Land Administration and Management Project (P096263) which closed on
+June 30, 2014 or by a newly established PIU - National Spatial Data Agency (ASIG). Although
+ASIG has no previous experience in implementing World Bank projects it is expected that ASIG will
+work together with the IPRO for implementation.
+The safeguards issues identified for the project will be assigned to a specialist within the PIU, while
+for the development of specific studies (such as the SESA or the chapter of the Program) consultants
+with relevant expertise and experience will be hired on board.
+F. Environmental and Social Safeguards Specialists on the Team
+Esma Kreso (GENDR)
+II. SAFEGUARD POLICIES THAT MIGHT APPLY
+Safeguard Policies          Triggered? Explanation (Optional)
+Environmental Assessment    Yes         Although there are no activities with a physical
+
+
+﻿OP/BP 4.01                               footprint envisaged under this project, there is
+potential for small-scale, indoor reconstruction works
+that would be needed for establishment of server
+rooms or IT-back up storage under Component B. In
+the event that such works would be needed, a
+Checklist EMP would be prepared for the specific
+sites. A generic Checklist EMP will be prepared and
+disclosed prior to Appraisal as guidance.
+Under component A, the wider Integrated Land
+Management Program needs to be assessed related to
+the potential environmental implications. This would
+need to be carried out either by doing a Strategic
+Environmental and Social Assessment (SESA) in
+parallel with the development of the Program, if such
+a document is required also by the Albanian law on
+SEA. If not, the Program should be supplemented
+with an integrated section that would analyze the
+potential linkages and impacts on the environment.
+Natural Habitats OP/BP 4.04  No
+Forests OP/BP 4.36          No
+Pest Management OP 4.09     No
+Physical Cultural Resources  No
+OP/BP 4.11
+Indigenous Peoples OP/BP    No
+a       4.10
+Involuntary Resettlement OP/ No         There will be no physical investments requiring
+BP 4.12                                 temporary or permanent land acquisition or
+displacement. The main activity under this project
+will focus on registration of property rights and the
+team refers to the 2009 Interim Guidance Note on
+Land Use Planning (Paras. 10 and 11), which
+indicates that OP 4.12 is not triggered in the case of
+support for Government land use planning or
+administration activities which do not include any
+investments that actually result in changes in
+resource or land access, use and/or organization. (i.e.,
+the project will only record the existing situation, not
+change it).
+Although in projects of this kind there is the potential
+for the process of land surveying, mapping and
+registration to result in establishing formal
+boundaries that do not coincide with actual current
+
+
+﻿land use patterns on the ground, in some cases
+resulting in an effective reduction in the area
+accessible to a private landowner, the current
+registration regulations in Albania instruct the
+registration teams to record the facts on the ground
+and include automatic allowances of up to 15%
+surplus for the area occupied compared with the
+privatization documentation. The definition or
+amendment of a property boundary as to its legal
+position should not be confused or co-mingled with
+the failure to accept ownership and/or requiring a
+person to move. Also, based on the previous project
+(LAMP) precedent, in case of any dispute regarding
+the location of the boundary between a private land
+holding and adjacent state-owned land, the Borrower
+will be encouraged to set the boundary based on the
+actual land use/occupation rather than existing land
+records. If unresolved discrepancies remain, they
+would be indicated as such in the registration data (i.
+e. a dotted line on the map and a note of who
+occupies the land) rather than formalizing a
+boundary that reduces a current private land
+"holding." Furthermore, there is a legalization
+process on-going in Albania that allows most people
+to formalize their land rights, even for illegal
+occupation and there are administrative and judicial
+procedures in place to resolve any disputes. Thus, the
+issue of involuntary resettlement or lack of access is
+not considered to be a significant risk under the
+present project.
+Safety of Dams OP/BP 4.37     No
+*    Projects on International     No
+Waterways OP/BP 7.50
+Projects in Disputed Areas OP/ No
+BP 7.60
+III. SAFEGUARD PREPARATION PLAN
+A. Tentative target date for preparing the PAD Stage ISDS: 01-Jul-2015
+B. Time frame for launching and completing the safeguard-related studies that may be needed.
+The specific studies and their timingi should be specified in the PAD-stage ISDS:
+B.      Time frame for launching and completing the safeguard-related studies that may be
+needed. The specific studies and their timing should be specified in the PAD-stage ISDS.
+Checklist EMP will be prepared and disclosed in its generic form by mid-May. The ToR forSESA
+1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+form and language that are accessible to potentially affected persons.
+
+
+﻿or section of the Integrated Land Management Program related to environment will also be
+disclosed at this time.
+IV. APPROVALS
+O
+Task Team Leader(s): Name: Kathrine M. Kelm
+Approved By:
+Safeguards Advisor:   Name: Agnes I. Kiss (SA)                      Date: 18-Mar-2015
+*       Practice Manager/     Name: Jorge A. Munoz (PMGR)                   Date: 18-Mar-2015
+Manager:
+
+

@@ -1,0 +1,598 @@
+Page  1
+Integrated Safeguards Data Sheet (ISDS) 
+Section I 
+–
+Basic Information 
+Date ISDS Prepared/Updated: June 30, 2004 
+Report No.:AC935
+A. Basic Project Data 
+ 
+A.1. Project Statistics 
+Country: Lao People's Democratic 
+Republic 
+Project ID: P075531 
+GEF Focal Area: M-Multi-focal area 
+Global Supplemental ID: P080054 
+Project: Second Southern Provincial Rural 
+Electrification 
+TTL: Barry Trembath 
+Total project cost (by component): 
+Appraisal Date: June 30, 2004 
+Loan/Credit amount($m):  
+IDA: 20 
+Board Date: October 19, 2004 
+  
+Other financing amounts by source: 
+ 
+($m.) 
+GLOBAL ENVIRONMENT FACILITY 
+3.75 
+Managing Unit: EASEG 
+Sector: Power (90%);General public 
+administration sector (10%) 
+Lending Instruments: Adaptable Program 
+Loan 
+ 
+Is this project processed under OP 8.50 (Emergency 
+recovery? 
+Yes?
+[
+]
+No?
+[X] 
+Environmental Category: B 
+Safeguard Classification:  S2 
+A.2. Project Objectives 
+ 
+The project development objective is to improve incomes and living standards of 123,500 
+rural households through electrification of these households. 
+ 
+Achievement of the objective will be measured by socio-economic surveys in villages 
+electrified under the project, the results of which will be compared with the baseline 
+studies referred to above. 
+ 
+There are two expected outcomes for the global environmental objective: (1)  substantial adoption of 
+renewable energy in GoL’s rural electrification program (growing from a 7-10% share of all newly 
+electrified households in SPRE to a 20% share in SPRE II);  and (2) increased efficiency of energy 
+consumption for EdL customers, that in turn will result in increased exports of hydropower production to 
+Thailand and eventual greenhouse gas savings, as thermal power plants are the marginal production unit in 
+Thailand over the project period.
+ 
+Achievement of the renewable energy objective will be measured by the percentage of 
+households electrified by renewable off-grid technologies in relation to overall 
+households in the proposed project, in comparison to the baseline established by the 
+SPRE project.  For the DSM and energy efficiency activities, a detailed M&E program 
+will be formulated to estimate the domestic electricity usage and cost savings, increased 
+power exports, and regional carbon reductions that comprise the benefits of the off-grid 
+and DSM/energy efficiency components of SPRE II. 
+ 
+Page  2
+NGPES and CAS Objectives.
+ 
+In line with the main objective of the government-owned NGPES and the 
+existing CAS, the proposed project will support rural and national infrastructure development by targeting 
+rural electricity consumers and sector-wide institution building.  In this way, the project will respond to the 
+NGPES objectives of poverty reduction and establishment of an enabling environment for growth and 
+development while supporting the CAS objective of rural and national infrastructure development.
+ 
+Global Environmental Objective.
+ 
+The GEF financed activities will contribute to two GEF climate change 
+operational program objectives 
+–
+(i) removing the barriers to higher efficiency levels in urban and rural 
+power end-use consumption (OP 5);  and (ii) wider use of renewable energy technologies in rural power 
+supply, especially off-grid (OP 6). Furthermore, the strategies and outcomes that the proposed GEF 
+financing will support are closely aligned with four of the six recently-adopted Strategic Priorities for the 
+Climate Change Focal Area, especially creation of power sector policy frameworks supportive of 
+renewable energy and energy efficiency (CC-3). The global benefits of the two GEF-supported SPRE II 
+components are estimated as 4,150 te CO
+2
+lifetime for the off-grid renewable electrification component 
+and 44,500 te CO
+2
+lifetime for the DSM and energy efficiency component. 
+A.3. Project Description 
+ 
+Project Components. 
+The Project has two components one to be executed by each beneficiary EdL and 
+MIH. 
+ 
+The EdL component
+ will contribute to the achievement of project objectives through 
+electrification of rural households by grid extension, and indirectly through further 
+advancing the commercialization of E
+dL, thus increasing EdL’s self-financing capability.  
+It consists of the following sub-components:  
+ 
+(a) extension of the EdL grid to about 42,000 households in some 544 villages in 
+seven central and southern provinces; 
+(b) enhancement of existing EdL loss reduction efforts (covering both technical and 
+non
+technical losses) through implementation of a program of activities and 
+investments developed and piloted under a PHRD financed study; 
+(c) furthering integration of EdL headquarters and branch offices (BO) through 
+rolling out the existing billing and accounting  system (BAS) installed in 
+Vientiane Office and some BOs to remaining BOs; 
+(d) implementing a program of Demand-Side Management (DSM) and energy 
+efficiency activities in the country, including establishment of provisional 
+institutional arrangements for DSM planning and energy efficiency policy 
+development within EdL or MIH or both (further definition of this program 
+currently underway with ASTAE assistance). 
+(e) development of tariff and subsidy policies and associated tariff regime and an 
+action plan to implement this regime. 
+ 
+The EdL component will generally be IDA financed, except that DSM and energy 
+efficiency activities will be financed by GEF.  In all activities, EdL will provide 
+substantial co-financing. The financing by source is provided in Annex 4 and a detailed 
+financing plan is provided in Annex 5. 
+ 
+The MIH component
+will contribute to the project development objective through 
+Page  3
+scaling up the pilot off-grid program of rural electrification.  It will also establish the 
+enabling environment (together with the EdL tariff/subsidy studies) to encourage other 
+participants to develop and finance power sector expansion under the Phase II project.  It 
+consists of the following sub-components: 
+ 
+(a) provide electrification to about 10,000 households spread over 1109 villages in 17 
+provinces through off-grid technologies (mostly renewables);
+ 
+(b) scaling up the existing MIH off-grid development program through establishment 
+of
+necessary legal and regulatory underpinnings, strengthening organization and 
+management arrangements, offering a wider range of off-grid technologies, and 
+conversion of the existing re-flow account into a Rural Electrification Fund (REF) 
+to provide a self-financing contribution to the MIH program. 
+(c) detailed design of other rural electrification models involving non-traditional 
+developers and financiers and development and enactment of necessary legal and 
+regulatory arrangements including those necessary to extend REF to other 
+participants, and project preparation 
+including solicitation documents for “other 
+model” projects. 
+(d) development of  a rural electrification master-plan (including associated resource 
+studies for distributed generation) and an electricity distribution database; 
+(e) development of  a sector financing strategy including models for solicitation for 
+new generation and preparation of  a  small hydropower IPP project for sales to 
+the EdL grid (policy, legal, regulatory, solicitation documents), assuming 
+technical feasibility study carried out by JICA.  
+(f)  strengthening organizational and management arrangements within MIH to enable 
+it to undertake its expanded roles in  the areas of regulation and planning. 
+ 
+IDA financing will generally be used to finance the physical investments in off-grid electrification.  
+Substantial self-financing by MIH through re-flows from the REF is also envisaged. 
+ 
+GEF financing will support all of the institutional development components. Co-financing from PPIAF and 
+ESMAP is also being sought to supplement GEF financing in some  areas. The financing by source is 
+provided in Annex 4 and a detailed financing plan is provided in Annex 5 of the PAD.
+ 
+A.4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis: 
+ 
+The grid-extension will be in seven southern provinces in Lao PDR, including: 
+Bolikhamxay, Khammouane, Savannakhet,  Saravane, Champassak, Attopeu and Sekong. 
+The off-grid electrification will spread over 17 provinces in Lao PDR. 
+ 
+B. Check Environmental Category 
+A
+[
+], B [X], C [ ], FI [ ] 
+ 
+Comments:  
+C. Safeguard Policies Triggered 
+ 
+Yes No 
+ 
+Page  4
+Environmental Assessment
+(OP
+/BP
+/GP
+4.01) [X] 
+[ 
+]  
+Natural Habitats
+(OP
+/BP
+4.04) 
+[ ] 
+[ ] 
+ 
+Pest Management
+(OP 4.09
+)
+[
+]
+[
+]
+Cultural Property
+(draft OP 4.11 - OPN 
+11.03
+-) 
+[
+]
+[
+]
+Involuntary Resettlement
+(OP
+/BP
+4.12) [X] 
+[ 
+] 
+ 
+Indigenous Peoples
+(OD 4.20
+)
+[X] [ 
+] 
+ 
+Forests
+(OP
+/BP
+4.36) 
+[ ] 
+[ ] 
+ 
+Safety of Dams
+(OP
+/BP
+4.37) 
+[ ] 
+[ ] 
+ 
+Projects in Disputed Areas
+(OP
+/BP
+/GP
+7.60)
+*
+[
+]
+[
+]
+Projects on International Waterways
+(OP
+/BP
+/GP
+7.50) 
+[
+]
+[
+]
+For grid extension component, the first year program will include 47 subprojects for electrification of 
+42,000 households in 394 villages, only 0.4 ha land areas will be required with 20 percent being farmland, 
+and  about 33,000 trees will be affected.  The Phase 1 project will focus on using SHS and VH and GS for 
+off-grid electrification of 10,000 households. Limited land acquisition and resettlement impacts are 
+expected
+ 
+Significant portion of the project beneficiaries are ethnic villages and populations. For grid extension 
+component, 37 percent of the targeted villages have ethnic groups and 31 percent of total project 
+beneficiaries are ethnic population. For off-grid component, since most project villages will be located in 
+remote areas in 17 provinces, about two thirds of them are ethnic villages.
+ 
+Policy Framework for On- and Off-Grid Components.
+ Given the APL approach adopted for the project 
+and potential resettlement and environmental impacts, a resettlement policy framework has been developed 
+for both grid and off-grid component, and environmental policy framework has been prepared for on- and 
+off-grid activities respectively. Both policy frameworks have been reviewed by the IDA project team and 
+the East Asia Safeguard Unit and were considered acceptable.   
+ 
+Action Plans for First Year On-Grid Program.
+ RAP for 47 subprojects and EMPs for 42 of the 47 
+subprojects were prepared in line with the policy frameworks and submitted to IDA. EMPs for the rest of 
+the subproject will be submitted to IDA by end July. For off-grid component, since the first year program 
+does not include VH and GS schemes, no RAP and EMP is required. The EMPs and RAPs available were 
+reviewed by the IDA project team and were considered acceptable.  
+ 
+Ethnic People Development Plan. 
+An Ethnic People’s Development Plan (EPDP) was prepared in 
+compliance with relevant Bank policies for both components to ensure that affected ethnic populations 
+benefit from the project and adverse impacts are avoided or mitigated through a consultative process. The 
+EPDP introduces the basic legal, cultural and socio-economic conditions for ethnic groups in Lao PDR, 
+particularly pertaining to land tenure and natural resource use. In addition, specific consultation procedures 
+and institutional arrangements are proposed to address the particular needs and circumstances of ethnic 
+groups during project implementation. It aims to ensure that development progress fosters full respect for 
+their dignity, human rights and cultural uniqueness.
+ 
+Section II 
+–
+Key Safeguard Issues and Their Management  
+D. Summary of Key Safeguard Issues
+.
+D.1. Describe any safeguard issues and impacts associated with the proposed project. 
+*
+By supporting the proposed project, the Bank does not intend to prejudice the final determination of the parties' 
+claims on the disputed areas
+ 
+Page  5
+Identify and describe any potential large scale, significant and/or irreversible impacts. 
+ 
+No major impacts are expected. 
+ 
+D.2 Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area. 
+ 
+Two 115 kV transmission lines financed by others will be constructed in Lao PDR and are associated with 
+the SPRE II project. EDL agrees to apply the same resettlement policy to the associated 115 kV 
+transmission projects even though they are not financed by IDA. Environment assessment was conducted 
+and recorded in the project files. These two transmission line EIAs were reviewed by the World Bank Task 
+Team and considered to meet World Bank standards. 
+ 
+D.3. Describe the treatment of alternatives (if relevant) 
+ 
+Optimization of design for grid extension has gone several round with assistance of 
+international consultants and alternative technologies and international experiences have 
+been reviewed and incorporated. The off-grid component is design to tap new renewable 
+energy technologies while replicating  the successful experience on SHS. All these work 
+is aimed to achieve cost-effectiveness and greater impacts on rural electrification with 
+limited resources. 
+ 
+D.4. Describe measures taken by the borrower to address safeguard issues. Provide an 
+assessment of borrower capacity to plan and implement the measures described. 
+ 
+The borrower has prepared action plans and framework documents
+ 
+as described above to 
+address the safeguard issues. The borrower has agreed to implement the 
+recommendations of the action plans and follow the procedures outlined in the 
+framework documents. EdL has gained experience in environmental and social impacts 
+mitigation with the on-going SPRE project, which are also financed by IDA and are very 
+similar to the proposed project. EdL has adequate capacity to plan and implement these 
+action plans. 
+ 
+For VH schemes to be developed in the later stage of the Phase 1 project, MIH will be the 
+interim implementing agency and the future implementing agency will be placed in 
+position as a result of the institutional strengthening  program under the proposed project. 
+The capacity of these implementing agencies for planning and implementing safeguard 
+actions are inadequate and will be enhanced in the early stage of Phase 1 under the TA 
+program of the proposed project. 
+ 
+D.5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+ 
+The key stakeholders are the project affected households and beneficiaries. An extensive 
+social economic survey and rural electrification impact assessment was carried out during 
+the project preparation, during which the affected households and beneficiaries were 
+consulted. Based on the consultation, the resettlement policy framework and EPDP were 
+Page  6
+developed in a participatory approach, which focus on affected people for compensation 
+of lost land and re-establishment of livelihood, and on ethnic people for assurance of 
+benefit sharing. 
+F. Disclosure Requirements  Date 
+Environmental Assessment/Audit/Management Plan/Other:  
+Date of receipt by the Bank 
+30/06/04      or Not Applicable 
+Date of “in-country” disclosure 
+10/07/04      or Not Applicable 
+Date of submission to InfoShop 
+10/07/04      or Not Applicable 
+For category A projects, date of distributing the Executive Summary of the EA to the 
+Executive Directors 
+…/…/…      or Not Applicable 
+Resettlement Action Plan/Framework/Policy Process: 
+Date of receipt by the Bank 
+25/06/04      or Not Applicable 
+Date of “in-country” disclosure 
+10/07/04      or Not Applicable 
+Date of submission to InfoShop 
+10/07/04      or Not Applicable 
+Indigenous Peoples Development Plan/Framework:  
+Date of receipt by the Bank 
+25/06/04      or Not Applicable 
+Date of “in-country” disclosure 
+10/07/04      or Not Applicable 
+Date of submission to InfoShop 
+10/07/04      or Not Applicable 
+Pest Management Plan:  
+ 
+Date of receipt by the Bank 
+…/…/…      or Not Applicable 
+Date of “in-country” disclosure 
+…/…/…      or Not Applicable 
+Date of submission to InfoShop 
+…/…/…      or Not Applicable 
+Dam Safety Management Plan:  
+  
+Date of receipt by the Bank 
+…/…/…      or Not Applicable 
+Date of “in-country” disclosure 
+…/…/…      or Not Applicable 
+Date of submission to InfoShop 
+…/…/…      or Not Applicable 
+If in-country disclosure of any of the above documents is not expected, please explain 
+why. 
+ 
+Section III 
+–
+Compliance Monitoring Indicators at the Corporate Level 
+(To be filled in when the ISDS is finalized by the project decision meeting) 
+OP/BP 4.01 - Environment Assessment:
+ 
+Yes
+No
+Does the project require a stand-alone EA (including EMP) report? 
+ 
+No 
+If yes, then did the Regional Environment Unit review and approve 
+the EA report? 
+ 
+Are the cost and the accountabilities for the EMP incorporated in the 
+credit/loan? 
+ 
+OP/BP 4.04 - Natural Habitats: 
+Yes
+No
+Would the project result in any significant conversion  or degradation 
+of critical natural habitats? 
+ 
+No 
+If the project would result in significant conversion or degradation of 
+other (non-critical) natural habitats, does the project include 
+mitigation measures acceptable to the Bank? 
+ 
+Page  7
+OP 4.09 - Pest Management: 
+Yes
+No
+Does the EA adequately address the pest management issues? 
+ 
+ 
+Is a separate PMP required? 
+ 
+ 
+If yes,  are PMP requirements included in project design? 
+ 
+ 
+Draft OP 4.11 (OPN 11.03) - Cultural Property: 
+Yes
+No
+Does the EA include adequate measures? 
+ 
+ 
+Does the credit/loan incorporate mechanisms to mitigate the potential 
+adverse impacts on physical cultural resources? 
+ 
+OD 4.20 - Indigenous Peoples: 
+Yes
+No
+Has a separate indigenous people development plan been prepared in 
+consultation with the Indigenous People? 
+Yes 
+ 
+If yes, then did the Regional Social Development Unit review and 
+approve the plan? 
+ 
+If the whole project is designed to benefit IP, has the design been 
+reviewed and approved by the Regional Social Development Unit? 
+ 
+OP/BP 4.12 - Involuntary Resettlement: 
+Yes
+No
+Has a resettlement action plan, policy framework or policy process 
+been prepared? 
+Yes 
+ 
+If yes, then did the Regional Social Development Unit review and 
+approve the plan / policy framework / policy process? 
+ 
+OP/BP 4.36 
+–
+Forests: 
+Yes
+No
+Has the sector-wide analysis of policy and institutional issues and 
+constraints been carried out? 
+Yes  
+Does the project design include satisfactory measures to overcome 
+these constraints? 
+Yes  
+Does the project finance commercial harvesting, and if so, does it 
+include provisions for certification system? 
+ No 
+OP/BP 4.37 - Safety of Dams: 
+Yes
+No
+Have dam safety plans been prepared? 
+ 
+ 
+Have the TORs as well as composition for the independent Panel of 
+Experts (POE) been reviewed and approved by the Bank? 
+ 
+Has an Emergency Preparedness Plan (EPP) been prepared and 
+arrangements been made for public awareness and training? 
+ 
+OP 7.50 - Projects on International Waterways: 
+Yes
+No
+Have the other riparians been notified of the project? 
+ 
+ 
+If the project falls under one of the exceptions to the notification 
+requirement, then has this been cleared with the Legal Department, 
+and the memo to the RVP prepared and sent? 
+ 
+What are the reasons for the exception? 
+ 
+ 
+Please explain: 
+ 
+ 
+Has the RVP approved such an exception? 
+ 
+ 
+OP 7.60 - Projects in Disputed Areas
+:
+Yes
+No
+Has the memo conveying all pertinent information on the 
+international aspects of the project, including the procedures to be 
+followed, and the recommendations for dealing with the issue, been 
+prepared, cleared with the Legal Department and sent to the RVP? 
+ 
+Page  8
+Does the PAD/MOP include the standard disclaimer referred to in the 
+OP? 
+ 
+BP 17.50 - Public Disclosure: 
+Yes
+No
+Have relevant safeguard policies documents been sent to the World 
+Bank's Infoshop? 
+ 
+No 
+Have relevant documents been disclosed in-country in a public place 
+in a form and language that are understandable and accessible to 
+project-affected groups and local NGOs? 
+ 
+All Safeguard Policies: 
+Yes
+No
+Have satisfactory calendar, budget and clear institutional 
+responsibilities been prepared for the implementation of the 
+safeguard measures? 
+Yes 
+ 
+Have safeguard measures costs been included in project cost? 
+ 
+Will the safeguard measures costs be funded as part of project 
+implementation? 
+ 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures? 
+ 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+Yes/No 
+ 
+Signed and submitted by:
+ Name
+Date
+Task Team Leader: 
+Barry Trembath, Lead Power Engineer 
+June 30, 2004 
+Project Safeguards 
+Specialist 1: 
+Bernard Baratz, Environmental 
+Specialist 
+June 30, 2004 
+Project Safeguards 
+Specialist 2: 
+Youxuan Zhu, Social Specialist 
+June 30, 2004 
+Project Safeguards 
+Specialist 3: 
+ 
+Approved by:
+ Name
+Date
+Regional Safeguards 
+Coordinator: 
+Glenn S. Morgan, Lead Environment 
+Specialist 
+19, July, 2004 
+Comments: 
+Sector Manager: 
+Junhui Wu 
+19 July, 2004 
+Comments: 

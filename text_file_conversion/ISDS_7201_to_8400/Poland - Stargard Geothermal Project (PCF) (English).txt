@@ -1,0 +1,203 @@
+                               Integrated Safeguards Data Sheet (Initial)
+
+                                                                                                Report No: AC1015
+Section I - Basic Information
+Date ISDS Prepared/Updated: 09/01/2004
+A. Basic Project Data (from PDS)
+I.A.1. Project Statistics
+Country: POLAND                                                 Project ID: P078250
+Project: POLAND - Stargard Geothermal Project (PCF)             Task Team Leader: Helmut Schreiber
+Authorized to Appraise Date: May 29, 2002                       IBRD Amount ($m):
+Bank Approval: November 29, 2004                                IDA Amount ($m):
+                                                                Global Supplemental Amount ($m):
+                                                                Prototype Carbon Fund ($m): 1.04
+Managing Unit: ECSIE                                            Sector: Renewable energy (50%); Power (50%)
+Lending Instrument: Specific Investment Loan (SIL)              Theme: Climate change (P); Pollution management
+Status: Appraisal                                               and environmental health (P); Infrastructure services
+                                                                for private sector development (S)
+
+I.A.2. Project Objectives (From PDS):
+The reduction of emissions of carbon dioxide through displacement of coal-fired heat with heat
+produced from renewable geothermal energy for the District Heating System of the City of
+Stargard Szczecinski.
+
+I.A.3. Project Description (From PDS):
+The proposed Project will establish a geothermal base-load heating plant with an installed capacity
+of about 14 MWt opposite the site of the coal fired heat plant of the District Heating Company
+PEC Stargard. The Project includes two new wells (production and re-injection well) drilled near
+the existing district heat plant to a depth of about 2,700 meters and the above ground connections
+to the existing district heating system. Above-ground plant components include a new building
+which will house heat exchangers, electrical equipment and installations, process equipment and
+controls and the piping connection to the existing district heating network of Stargard. Total
+project investment costs are estimated to be $8.6 million. Geothermal heat will be used to displace
+some of the heat previously provided by Stargard's existing coal-fired boilers. The Project will be
+financed, operated and managed by GEOTERMIA Stargard sp. zoo. (GP).
+
+I.A.4. Project Location: (Geographic location, information about the key environmental and social
+characteristics of the area and population likely to be affected, and proximity to any protected areas, or sites or
+critical natural habitats, or any other culturally or socially sensitive areas.)
+Stargard Szczecinski (Stargard), the third largest city in the new West Pomeranian Wojewodship,
+and capital of the new Powiat of Stargard, with a population of almost 75 thousand people, is
+located 36 km from Szczecin and about 180 km from Berlin. Stargard and Szczecin together form
+the agricultural and industrial centres of Western Pomerania and are important rail and road
+communication nodes. Primary economic activity in these cities includes food, clothing, electric
+machinery, building and tourism industries. Unemployment has risen to above 25% in recent
+years. Heat sales from the district heating company are about 67% to housing cooperatives, 25%
+to institutional buildings and the remainder to individual houses.
+
+                                                        2
+                                                                                                       ISDS
+
+
+
+
+B. Check Environmental Classification: B (Partial Assessment)
+
+Comments: Very limited environmental impacts. Major environmental benefits (global and local).
+
+
+C. Safeguard Policies Triggered (from PDS)
+(click on  for a detailed desciption or click on the policy number for a brief description)
+                                     Policy                                          Triggered
+    Environmental Assessment (OP 4.01, BP 4.01, GP 4.01)                        Yes      No    TBD
+    Natural Habitats (OP 4.04, BP 4.04, GP 4.04)                                Yes      No    TBD
+    Forestry (OP 4.36, GP 4.36)                                                 Yes      No    TBD
+    Pest Management (OP 4.09)                                                   Yes      No    TBD
+    Cultural Property (OPN 11.03)                                               Yes      No    TBD
+    Indigenous Peoples (OD 4.20)                                                Yes      No    TBD
+    Involuntary Resettlement (OP/BP 4.12)                                       Yes      No    TBD
+    Safety of Dams (OP 4.37, BP 4.37)                                           Yes      No    TBD
+    Projects in International Waters (OP 7.50, BP 7.50, GP 7.50)                Yes      No    TBD
+    Projects in Disputed Areas (OP 7.60, BP 7.60, GP 7.60)*                     Yes      No    TBD
+
+
+
+Section II - Key Safeguard Issues and Their Management
+D. Summary of Key Safeguard Issues. Please fill in all relevant questions. If information is not available,
+describe steps to be taken to obtain necessary data.
+
+II.D.1a. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe
+any potential large scale, significant and/or irreversible impacts.
+The main risks ex ante for environmental damage and impacts were as follows:
+·       Risk of damaging soil and road surfaces during construction works;
+·       Risk of intrusion of geothermal water into the surface or deeper layers of the ground
+during well drilling;
+·       Risk of contamination of ground water during well drilling;
+·       Risk of damaging impact on the surface of the liquid waste generated by the process of
+washing out the cuttings during drilling;
+·       Risk of de-stabilization of geological formations caused by well drilling;
+·       Risk of causing damage to environmentally sensitive areas on the ground;
+These risks were minimized through appropriate mitigation measures as per EMP of 2002,
+prepared in close cooperation between the Geotermia Stargard Staff and a visiting World Bank
+team and updated in June 2004.
+Construction is now almost complete and the system is about to start operations.
+There are several identified environmental impacts during the imminent operation phase:
+·       Impact on the Ina river of geothermal water occasionally discharged from the reservoir;
+·       Potential impact on the ground water of geothermal water stored in the reservoir as a
+result of unexpected leakage;
+·       Noise generated in the surface plant around the DH pumps.
+These impacts are minimized through agreed measures as follows:
+
+                                                       3
+                                                                                                           ISDS
+
+
+·        Discharged brines will be diluted with cleaned municipal sewage waters;
+·        Ground water contamination to be monitored to allow timely counter measures;
+·        Noise abatement below 70 dB will be sufficient in the industrial area location.
+The updated EMP (June 2004) reflects additional requirements for operations of the plant
+(discharge of limited amounts of geothermal brine).
+
+II.D.1b. Describe any potential cumulative impacts due to application of more than one safeguard policy or
+due to multiple project component.
+None
+
+II.D.1c Describe any potential long term impacts due to anticipated future activities in the project area.
+None
+
+II.D.2. In light of 1, describe the proposed treatment of alternatives (if required)
+Project is the best Alternative from environmental point of view. Otherwise continuation of full
+heat production from existing coal-fired heating plant with concomitant higher air pollution
+(global and local).
+
+II.D.3. Describe arrangement for the borrower to address safeguard issues
+Construction almost complete, and followed earlier EMP. For operations, agreed mitigation
+measures are as follows:
+·        Discharged brines will be diluted with cleaned municipal sewage waters coming from the
+nearby municipal sewage treatment plant;
+·        Ground water contamination to be monitored to allow timely counter measures;
+·        Noise abatement below 70 dB will be adequate in the industrial area location.
+For public consultations see section below.
+
+II.D.4. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard
+policies, with an emphasis on potentially affected people.
+Regarding public consultation, representatives of appropriate groups of people have been invited
+to participate in both administration procedures: for the "construction permit" and the "water
+permits" (see section above). Especially those few local residents (the Project is located in an
+industrial area) potentially affected by the project in any significant way have been invited. There
+was no interest, however, therefore a public meeting was not held. While the construction phase is
+close to completion now, consultations at this stage of the Project are deemed to be unnecessary.
+However, for better familiarization with the Project and its significant benefits, local residents and
+appropriate local authorities will be invited prior to the construction of a planned "Geothermal
+Business Development and Dissemination Center". The President of Geotermia Stargard will
+indicate in September 2004 a qualified employee who will be responsible for day-to-day collection
+of environmental data. The employee will be fully trained in the Polish Environmental Law.
+
+E. Safeguards Classification (select in SAP). Category is determined by the highest impact in any policy. Or
+on basis of cumulative impacts from multiple safeguards. Whenever an individual safeguard policy is
+triggered the provisions of that policy apply.
+
+[ ] S1. ­ Significant, cumulative and/or irreversible impacts; or significant technical and institutional risks in
+
+                                                      4
+                                                                                                        ISDS
+
+
+         management of one or more safeguard areas
+[X] S2. ­ One or more safeguard policies are triggered, but effects are limited in their impact and are
+         technically and institutionally manageable
+[ ] S3. ­ No safeguard issues
+[ ] SF. ­ Financial intermediary projects, social development funds, community driven development or similar
+         projects which require a safeguard framework or programmatic approach to address safeguard
+         issues.
+
+F. Disclosure Requirements
+
+Environmental Assessment/Analysis/Management Plan:                        Expected          Actual
+Date of receipt by the Bank                                               12/31/2001        10/15/2001
+Date of "in-country" disclosure                                           1/15/2002         12/10/2001
+Date of submission to InfoShop                                            4/23/2002
+Date of distributing the Exec. Summary of the EA to the Executive         Not Available     Not Available
+Directors (For category A projects)
+
+Resettlement Action Plan/Framework:                                       Expected          Actual
+Date of receipt by the Bank                                               Not Applicable Not Applicable
+Date of "in-country" disclosure                                           Not Applicable Not Applicable
+Date of submission to InfoShop                                            Not Applicable Not Applicable
+
+Indigenous Peoples Development Plan/Framework:                            Expected          Actual
+Date of receipt by the Bank                                               Not Applicable Not Applicable
+Date of "in-country" disclosure                                           Not Applicable Not Applicable
+Date of submission to InfoShop                                            Not Applicable Not Applicable
+
+Pest Management Plan:                                                     Expected          Actual
+Date of receipt by the Bank                                               Not Applicable Not Applicable
+Date of "in-country" disclosure
+Date of submission to InfoShop
+
+Dam Safety Management Plan:                                               Expected          Actual
+Date of receipt by the Bank                                               Not Applicable Not Applicable
+Date of "in-country" disclosure                                           Not Applicable Not Applicable
+Date of submission to InfoShop                                            Not Applicable Not Applicable
+If in-country disclosure of any of the above documents is not expected, please explain why.
+
+Signed and submitted by               Name                                                  Date
+Task Team Leader:                     Helmut Schreiber                                      August 30, 2004
+Project Safeguards Specialists 1:     Ryszard Malarski/Person/World Bank                    June 09, 2004
+Project Safeguards Specialists 2:     J. Christian Duvigneau/Person/World Bank              June 09, 2004
+Project Safeguards Specialists 3:
+
+Approved by:                         Name                                                   Date
+Regional Safeguards Coordinator: Ronald N. Hoffer                                           August 25, 2004
+Sector Manager/Director               Henk Busz                                             August 31, 2004
+

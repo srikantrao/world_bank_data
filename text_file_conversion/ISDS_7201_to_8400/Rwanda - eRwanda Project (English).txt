@@ -1,0 +1,239 @@
+Page  1
+INTEGRATED SAFEGUARDS DATA SHEET 
+CONCEPT STAGE 
+Report No.:  AC1930 
+ 
+Date ISDS Prepared/Updated: 11/28/2005 
+ 
+I.  BASIC INFORMATION 
+ 
+A.  Basic Project Data 
+ 
+Country: Rwanda 
+Project ID: P098926 
+Project Name: eRwanda Project 
+Task Team Leader: Guenter Heidenhof 
+Estimated Appraisal Date: May 19, 2006 
+Estimated Board Date: July 25, 2006 
+Managing Unit: AFTPR 
+Lending Instrument: Technical Assistance 
+Loan 
+Sector: General information and communications sector (50%);General public 
+administration sector (50%) 
+Theme: Other public sector governance (P);Public expenditure, financial management 
+and procurement (S);Technology diffusion (S) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+10.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER/RECIPIENT 
+30.00
+30.00 
+B.  Project Objectives [from section 2 of PCN] 
+Key objective of the project is to (i) improve the efficiency and effectiveness of government 
+operations, and to (ii) enhance citizen's service delivery systems, in particular in rural areas. The 
+project will support:  
+ 
+.
+Activities to modernize key government internal systems and processes, namely, a) 
+improvement of the GoR public financial management system to provide timely and accurate 
+information to support better government decision making; and b) extension of and improvement 
+in the physical infrastructure to support effective delivery of such applications.  
+ 
+.
+Specific interventions to improve services for citizens and the private sector, namely a) 
+support to primary health care and education services as well as in land registration services 
+through business process reengineering and the use of modern technology, b) provision of access 
+points (kiosks) distributed throughout Rwanda which will provide access to information and 
+(potentially) to government services, and c) formation of public private partnerships (PPPs) to 
+strengthen the private sector to complement public sector service delivery.  
+Page  2
+The intended outcomes of the project are an engaged citizenry with access to better services 
+from improved government systems. Beneficiaries include the government (due to decreased 
+costs for service delivery, better transparency), the private sector (which will have greater 
+business opportunities), and citizens, particularly those living in rural areas and those 
+underserved by current service delivery schemes or government information systems.   
+ 
+C.  Project Description [from section 3 of PCN] 
+The proposed project components include:  
+ 
+1. 
+Strengthening of government effectiveness.  
+ 
+This component aims at complementing ongoing activities under other projects, in particular 
+the Government's Multi Sector Capacity Building Program and its supporting donor 
+interventions, notably the Bank's Public Sector Capacity Building Project. Activities to be 
+financed under this component will be determined in collaboration with the government and 
+would be selected from a menu of options which could include the modernization of key 
+government internal systems and processes, namely, financial and procurement management, 
+human resources and payroll, and the back end databases which support them. Investment will be 
+based on a phased and prioritized strategy that would first perform business process 
+reengineering to streamline existing processes, and pilot applications before rolling them out to 
+the broader government machinery. The component will include institutional strengthening and 
+capacity building.  
+ 
+This component will also support development of a common IT architecture framework in 
+accordance with the National ICT policy so that any new applications to be developed will be 
+fully integrated with government standards. In order for government officials to select, design 
+and implement ICT programs and participate in e-government activities, additional capacity 
+building opportunities will be provided to them.  
+ 
+2. 
+Service delivery improvement for citizens and the private sector.  
+ 
+This component intends to identify and modernize the most crucial service delivery 
+applications. Investment will be based on a phased and prioritized strategy that would first 
+perform business process reengineering to streamline the processes, pilot some applications to 
+certain locations through the use of public access kiosks, then scale up the delivery of key e-
+government services to additional locations. The pilot applications will be determined in 
+collaboration with the relevant stakeholders and selected from a menu of options which could 
+include the national ID card system, registration for life cycle events (birth, marriage, death 
+certificates), business and property registration services, cadastre management, and social 
+delivery services such as in health, education, agriculture, etc. This component will include 
+institutional strengthening and capacity building at the national and sub-national levels.  
+ 
+This component will also mobilize local communities to run the access points (kiosks) and to 
+develop the content for the various stakeholder groups.  Business models for the kiosks (public, 
+private or PPP) and the physical locations, equipping and staffing of them will be addressed 
+under this component as well as change management interventions to ensure acceptance and 
+usage of these access points by the target population. These kiosks will also serve as a platform 
+Page  3
+to make available information to the citizenry. Instructional videoclips in Kinyarwanda, French, 
+and English could form the basis of local training and acceptance, and also provide a mechanism 
+for the delivery of services to the illiterate (i.e., through icons instead of texted materials). 
+Particular attention will be paid to those groups who do not have sufficient access to public 
+services and information, namely women and youth groups, farmers and the uneducated rural 
+poor.  
+ 
+3. 
+Strengthening of ICT infrastructure  
+ 
+This component intends to complement ongoing reforms of the telecommunications and energy 
+sectors to create an overall enabling environment and increase the reach of the network for better 
+access to information/transaction capability for citizens and businesses. The component will 
+focus both on the central utility functions and on the provision of connections for the 'last mile' to 
+the kiosks. The component will (i) strengthen the legal, institutional and regulatory environment 
+by (a) finalizing or developing relevant policies, regulations and procedures, (b) providing 
+technical assistance to RURA to ensure an efficient, non discriminatory and open regulatory 
+regime and management of the Universal Access Fund, (c) developing an open access regime for 
+infrastructure sharing; and (ii) facilitate the implementation of a national infrastructure network 
+in collaboration with regional infrastructure initiatives by (a) establishing a network database and 
+GIS land record system to map networks and monitor roll out implementation plan and (b) 
+facilitating the development of a national backbone network and cross border connectivity.  
+ 
+4. 
+Private sector development  
+ 
+This component intends to strengthen the legal and regulatory framework for IT private sector 
+development (PSD) and the establishment of public-private partnerships to improve the private 
+sector's capacity to undertake the development of the applications, the strengthening of the 
+infrastructure, and the running of the kiosks. To accomplish this, the project will build 
+institutional capacity for PSD through active collaboration and strengthening of the Private 
+Sector Federation and creation of a small business association to develop the IT private sector, as 
+well as encourage foreign direct investment and venture capital funds to help entrepreneurs. The 
+IT private sector will be given assistance so that they may qualify as vendors to participate in the 
+multi-faceted project activities which will be generated by e-government, including extension of 
+and provision of infrastructure, training, creation of applications and websites, running the 
+kiosks, and knowledge sharing activities.  
+ 
+5. 
+Project Management  
+ 
+This component will strengthen the institutional capacity within Rwanda to implement the 
+project. Support will in particular be provided to RITA (Rwanda Information Technology 
+Authority) which is charged with the technical implementation of the NICI plans and with 
+eRwanda, and to HIDA which is charged with capacity building coordination within the Multi 
+Sector Capacity Building Program. Both institutions need strengthening in terms of staff, 
+technical assistance, logistics, and improved equipment to handle the management of the project.   
+ 
+D.  Project location (if known) 
+Kigali, Gitarama, Ruhengheri, Kibuye - Rwanda  
+ 
+This is a national program that will focus on modernizing key government internal systems and 
+processes, and improvement in related physical infrastructure.   
+Page  4
+E.  Borrower’s Institutional Capacity for Safeguard Policies [from PCN] 
+N/A   
+ 
+F.  Environmental and Social Safeguards Specialists 
+Mr Thomas E. Walton (AFTSD) 
+ 
+II.  SAFEGUARD POLICIES THAT MIGHT APPLY 
+Safeguard Policies Triggered
+ 
+Yes No TBD 
+Environmental Assessment (OP/BP 4.01) 
+ X  
+Natural Habitats (OP/BP 4.04) 
+ X  
+Forests (OP/BP 4.36) 
+ X  
+Pest Management (OP 4.09) 
+ X  
+Cultural Property (OPN 11.03) 
+ X  
+Indigenous Peoples (OD 4.20) 
+ X  
+Involuntary Resettlement (OP/BP 4.12) 
+ X  
+Safety of Dams (OP/BP 4.37) 
+ X  
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X  
+Projects in Disputed Areas (OP/BP 7.60) 
+ X  
+Environmental Category:
+ 
+C
+-
+Not Required 
+ 
+III.  SAFEGUARD PREPARATION PLAN 
+ 
+A.  Target date for the Quality Enhancement Review (QER), at which time the PAD-stage ISDS 
+would be prepared:  01/20/2006 
+ 
+B.  For simple projects that will not require a QER, the target date for preparing the PAD-stage 
+ISDS:  N/A 
+ 
+C.  Time frame for launching and completing the safeguard-related studies that may be needed.  
+The specific studies and their timing
+1
+should be specified in the PAD-stage ISDS. 
+No safeguard reporting instruments are required.  
+ 
+The SMU agrees to accept the transfer of responsibility for the remaining required 
+safeguards process.   
+ 
+1
+Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the 
+InfoShop and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to potentially affected 
+persons.
+ 
+Page  5
+IV.  APPROVALS 
+ 
+Signed and submitted by: 
+ 
+Task Team Leader: 
+Mr Guenter Heidenhof 
+11/23/2005 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Thomas E. Walton 
+11/28/2005 
+Comments:  No SGP specialist required if project remains as defined in PCN and ISDS.  Later, should 
+project involve land acquisition, construction, or potential environmental or social impacts, consult 
+ASPEN. 
+Sector Manager: 
+Ms Helga W. Muller 
+11/23/2005 
+Comments:   

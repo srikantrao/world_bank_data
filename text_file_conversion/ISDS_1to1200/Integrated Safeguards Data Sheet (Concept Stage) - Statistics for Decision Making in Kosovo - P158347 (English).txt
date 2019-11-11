@@ -1,0 +1,285 @@
+                                            INTEGRATED SAFEGUARDS DATA SHEET
+                                               IDENTIFICATION / CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                                Report No.: ISDSC16050
+
+                         Date ISDS Prepared/Updated: 01-Apr-2016
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:              Kosovo                          Project ID:      P158347
+                            Project Name:         Statistics for Decision Making in Kosovo
+                            Team Leader(s):       Alexandru Cojocaru
+                            Estimated Date        29-Apr-2016
+                            of Approval:
+                            Managing Unit:        GPV03                           Lending          Lending Instrument
+                                                                                  Instrument:
+                            Sector(s):            Public administration- Other social services (100%)
+                            Theme(s):             Economic statistics, modeling and forecasting (34%), Poverty strategy,
+                                                  analysis and monitoring (33%), Health system performance (33%)
+                            Financing (in USD Million)
+                            Total Project Cost: 0.281269                        Total Bank Financing: 0
+                            Financing Gap:      0
+                              Financing Source                                                                            Amount
+Public Disclosure Copy
+
+
+
+
+                              Trust Fund for Statistical Capacity Building                                                0.281269
+                            Environment         C - Not Required
+                            Category:
+
+                           B. Project Development Objective(s)
+                           The overall development objective is to promote evidence-based policymaking in Kosovo. In
+                           particular, the grant seeks to enhance the relevance and timeliness of statistical data produced by the
+                           Kosovo Agency of Statistics (KAS) in a number of key areas including informality, poverty and
+                           social inclusion, health, and social protection, and contribute to enhancing the interaction between
+                           statistics producers and statistics users in these areas.
+                           C. Project Description
+                           The project has two pillars, financed by two TFSCB grants:
+                           Pillar I aims at enhancing the quality of data, and our understanding of 4 key issues (i) informality;
+                           (ii) health; (iii) social protection; and (iv) poverty dynamics.
+                           Pillar II supports the implementation of the first full scale EU-SILC survey in Kosovo.
+
+                           The knowledge gaps in these three areas, as well as the institutional dimensions related to these, are
+                           discussed, sequentially, below.
+                         Pillar 1 ($180,000 USD)
+
+                         Of the total grant amount of US$ 180,000, half of the funds (US$90,000) will be to support the
+Public Disclosure Copy
+
+
+
+
+                         implementation of the informality survey, undertaken by the Department of Economic Statistics; the
+                         other half of the funds (US$90,000) will be allocated to the Department of Social Statistics, for the
+                         purposes of collecting data on health indicators, timely poverty indicators, as well as improving the
+                         ability of the HBS survey to capture social protection transfers.
+
+                         1.1. Informality
+                         The economy is characterized by a high degree of informality, particularly in agriculture. While the
+                         definition of informality can vary, 15 percent of wage workers in Kosovo are employed without a
+                         contract, and more broadly, 35 percent of workers are in low productivity employment (self-
+                         employed non-professional, unpaid family workers, employees in small firms, and employers of
+                         small firms). Informality is a significant problem in Kosovo. Preliminary analysis of firm-level data
+                         reveals that the percentage of firms that are severely affected by the competition of informal firms is
+                         one of highest in the world. Informality and underemployment is especially widespread in the
+                         agriculture sector. Many small and family run business are not fully captured by official labor
+                         statistics.
+
+                         A better understanding of informality has been identified as a key knowledge gap by the Systematic
+                         Country Diagnostic (SCD). In particular, the SCD notes that “[m]ore information is needed about
+                         many aspects of Kosovo’s informal economy, especially better estimates of its size, the extent to
+                         which informal activities are not captured by standard surveys, and motivations for enterprises and
+                         individual workers to remain informal. Information is also needed about the scale and scope of
+                         corruption and illegal economic activity.” (World Bank, 2016). The ongoing Kosovo Jobs Diagnostic
+                         (P156926) aims at addressing some of the existing gaps on informality, but it relies primarily on
+                         Labor Force Survey (LFS) data, which allow, primarily, a view onto informal contract arrangements,
+                         and less so on the nature of informal firms that existing in the economy.
+Public Disclosure Copy
+
+
+
+
+                         The estimations of the economic activity in Kosovo should take into consideration the significant
+                         scale of non-observed (both hidden and illegal) activity in the country. In order to gain a better
+                         understanding of what is generally assumed to be a large but undocumented portion of the Kosovo
+                         economy, the grant proposes to finance a survey of unregistered (informal) enterprises and formal
+                         enterprises that tend to have large informal components (e.g., restaurants, hotels) in Kosovo. This is
+                         expected to improve national income accounting, and help to refine the analyses that come directly
+                         from the HBS and LFS. From a policy standpoint it is especially important as the government aims to
+                         broaden its tax base.
+
+                         1.2. Health
+                         Health outcomes in Kosovo have improved overtime, but remain poor across multiple dimensions,
+                         and in particular for certain population subgroups. Life expectancy at birth in Kosovo has, for
+                         instance, increased over time from 69 years in 2007 to 70.5 years in 2012, but remains the lowest in
+                         South Eastern Europe and is 10 years lower than the EU average (80.5 years). Circulatory diseases
+                         are the primary cause of death in Kosovo, followed by cancers, perinatal conditions and respiratory
+                         diseases. Maternal and child mortality rates are an important concern. The infant mortality rate at
+                         17.1 per 1,000 as well as the maternal mortality ratio at 7.2 per 100,000 live births (both in 2011) are
+                         still high compared to the EU averages of 4.1 per 1,000 and 5.8 per 100,000 in 2011 (World Bank,
+                         2016).
+                         The share of out-of-pocket payments in total health spending is almost twice as high as the
+                         recommended upper limit of 15-20 percent and are impoverishing a number of households. Private
+                         health expenditure, almost entirely in the form of out-of-pocket (OOP) payments at the point of
+Public Disclosure Copy
+
+
+
+
+                         service, contributes an estimated 40 percent of total spending in the sector (16 percent in EU
+                         countries), with drugs accounting for 85 percent of all health OOP spending. Adjusting the poverty
+                         threshold to account for health expenditures, and additional 2 percent of the population would fall
+                         below the poverty threshold in 2011 -- a 7 percent increase in the poverty rate.
+
+                         Primary health care (PHC) facility utilization rates remain low. Primary health care (PHC) facility
+                         utilization rates are low. There were on average 2.4 visits per capita and 18.2 visits per physician per
+                         day in 2012. In comparison, among SEE countries, only Albania reports lower visit rates (2.2 visits
+                         per capita in 2011). The EU average is 7 visits per capita and Turkey’s is 8.2 visits per capita.
+                         Utilization of inpatient services is also low, which is not, however, a reflection of a well-functioning
+                         primary care system, as utilization rates for primary care services are similarly low.
+
+                         Ongoing health financing reforms and the planned introduction of mandatory health insurance aims
+                         to fix many of the outstanding sector issues. Estimates suggest that mandatory health insurance
+                         revenues could raise public health expenditures in Kosovo from 2.4 percent to 4 percent of GDP,
+                         bringing it closer to the South East Europe and EU average of 5 percent. The Health Insurance Law
+                         exempts the poor from insurance premiums and any cost-sharing to reduce financial barriers to
+                         access. The additional expected revenues create opportunities for the future Health Insurance Fund
+                         (HIF) to strategically purchase improvements in quality and coverage for hospital and primary care
+                         services . The planned mandatory insurance scheme intends to introduce an outpatient drug benefit to
+                         reduce household spending on outpatient drugs as one of its flagship benefits. This is believed to be
+                         administratively achievable in a short time period as well as highly visible and pro-poor.
+
+                         In order to assess the poverty impact of ongoing reforms, better information on health expenditures is
+                         required. Administrative records from MoH will provide some of the required information for
+                         performance indicators, but they will not be sufficient. Additional survey-based information is also
+Public Disclosure Copy
+
+
+
+
+                         required, especially on service utilization and to track the incidence of health spending by income
+                         level. Generally, the Household Budget Survey (HBS) has only three fairly broad questions about
+                         health, all about health expenditures.
+
+                         In the 2014 round of the HBS survey the Kosovo Agency for Statistics (KAS) added an expanded set
+                         of health indicators to the HBS questionnaire, in collaboration with the World Bank. In particular, for
+                         4 randomly chosen household members aged 18+, information of health status, as well as utilization
+                         of health services (both out- and in-patient), as well as satisfaction with the services that were
+                         provided. The current grant would seek to include again in the 2017 HBS survey round these
+                         questions on health status and utilization, to allow for comparable indicators across time.
+
+                         1.3. Timely indicators of poverty
+                         Policy making in Kosovo is often constrained by lack of sufficiently timely data on poverty and well-
+                         being. The economic crisis demonstrated that the main poverty indicators currently in use (based on
+                         household consumption) are available with too long a time lag. The grant would support the addition
+                         of new indicators to the LFS that are relatively easy to verify and summarize, to provide for timelier
+                         (quarterly) monitoring of welfare aspects relevant to poverty and shared prosperity, particularly
+                         relevant for times of economic shocks to serve as early warning of deteriorating financial situation of
+                         households.
+                         While the exact set of questions remains to be finalized, they would include questions capturing
+                         various aspect of financial distress. This would include standard indicators of financial distress used
+                         in the European Union (e.g. Which of these statements best describes the current financial situation
+Public Disclosure Copy
+
+
+
+
+                         of your household? (a) we are saving a lot; (b) we are saving little; (c) we are just managing to make
+                         ends meet on our income; (d) we are having to draw on our savings; (e) we are running into debt), as
+                         well as other questions such as Likert-scale questions about satisfaction with the financial well-being
+                         of the household, satisfaction with life overall, as well as questions regarding whether households
+                         had to adjust essential expenditures (food, healthcare) in order to pay for other household needs.
+
+                         1.4. Social protection
+                         Kosovo has various means-tested and categorical social benefits, but neither the current HBS nor the
+                         existing administrative data shed light on the incidence of these benefits across different income
+                         groups or other population sub-groups. This has hampered government efforts to reform (with WBG
+                         support) social programs because not enough is known about the targeting effectiveness or coverage
+                         of individual programs. The proposed grant would support greater disaggregation of information in
+                         the part of the income section of the HBS that captures pensions and social benefits. This would help
+                         inform efforts to improve the effectiveness of social transfers, as the current data does not distinguish
+                         between different types of pensions or social benefits.
+
+                         Pillar 2 ($101,269 USD)
+
+                         Kosovo, as well as other countries in the Western Balkans region, are in the middle of the process of
+                         alignment of their statistical systems with those of the European Union. The adoption of the EU-
+                         SILC survey instrument for purposes of measurement of poverty and social inclusion indicators is a
+                         key element of this process of harmonization. Among the six Western Balkans countries the
+                         implementation of EU-SILC started in 2010 in FYR Macedonia, followed by Montenegro and Serbia
+                         in 2013, and planned for 2017 in Albania and Bosnia and Herzegovina.
+
+                         A pilot EU-SILC was conducted in Kosovo in 2014, under the IPA 2012 pilot project and partly
+Public Disclosure Copy
+
+
+
+
+                         funded by Eurostat, in accordance with the European Framework Regulation (EC) No 1177/2003,
+                         which establishes standards and guidelines enabling the production of Statistics on Income and
+                         Living Conditions (ILC)across the EU. The pilot was fielded to a sample of 655 households,
+                         stratified by region and locality (urban/rural).
+
+                         As part of the EU-SILC pilot, the following activities were undertaken by KAS:
+                         • Review of the methodological manual (Document 065) and EU-SILC regulations;
+                         • Review of possible administrative sources which could be used for the purpose of this survey;
+                         • Design and testing of the EU-SILC questionnaire, satisfying all the requirements of Eurostat
+                         regulations;
+                         • Training of interviewers and supervisors
+                         • Development of data entry software for pilot EU-SILC based on CSPRO.
+                         • Verification of data and statistical processing.
+
+                         Until now, the implementation of the full-scale survey is stalled due to lack of funding. This grant
+                         aims to provide financing for the first year of the full EU-SILC survey in the country, building on the
+                         experience of the pilot survey, and the systems that have been put in place during the pilot phase. In
+                         particular, the grant would support (i) finalizing the work on SILC methodology preparation and
+                         testing, building on earlier work, and (ii) full implementation of the full cycle of the first year of the
+                         EU-SILC survey, including field work, data processing and dissemination. The TFSCB grant would
+                           thus ensure that Kosovo can “catch up” to the rest of the countries in the Western Balkans, as well
+                           foster cross-country dialogue on EU-SILC related issues. Furthermore, while data collection during
+                           the pilot was undertaken using PAPI, KAS plans to rely on CAPI for the full EU-SILC survey. Thus,
+Public Disclosure Copy
+
+
+
+
+                           supporting the implementation of the full-scale EU-SILC would also allow the World Bank to
+                           support the streamlining of CAPI technology in the country.
+                           D. Project location and salient physical characteristics relevant to the safeguard
+                           analysis (if known)
+
+
+                           E. Borrower’s Institutional Capacity for Safeguard Policies
+
+
+                           F. Environmental and Social Safeguards Specialists on the Team
+
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+                           Safeguard Policies                 Triggered?      Explanation (Optional)
+                           Environmental Assessment OP/       No
+                           BP 4.01
+                           Natural Habitats OP/BP 4.04        No
+                           Forests OP/BP 4.36                 No
+                           Pest Management OP 4.09            No
+                           Physical Cultural Resources OP/    No
+                           BP 4.11
+                           Indigenous Peoples OP/BP 4.10      No
+Public Disclosure Copy
+
+
+
+
+                           Involuntary Resettlement OP/BP     No
+                           4.12
+                           Safety of Dams OP/BP 4.37          No
+                           Projects on International          No
+                           Waterways OP/BP 7.50
+                           Projects in Disputed Areas OP/BP   No
+                           7.60
+
+                         III. SAFEGUARD PREPARATION PLAN
+                              Appraisal stage ISDS required?: No
+                         IV. APPROVALS
+                           Team Leader(s):           Name: Alexandru Cojocaru
+                           Approved By:
+                           Safeguards Advisor:       Name: Agnes I. Kiss (SA)                            Date: 14-Apr-2016
+                           Practice Manager/         Name: Carolina Sanchez (PMGR)                       Date: 14-Apr-2016
+                           Manager:
+                         1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the
+Public Disclosure Copy
+
+
+
+
+                         InfoShop and (ii) in country, at publicly accessible locations and in a form and language that are accessible to potentially
+                         affected persons.
+Public Disclosure Copy
+

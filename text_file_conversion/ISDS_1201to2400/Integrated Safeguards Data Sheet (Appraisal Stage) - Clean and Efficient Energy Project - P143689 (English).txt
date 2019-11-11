@@ -1,0 +1,423 @@
+                                               INTEGRATED SAFEGUARDS DATA SHEET
+                                                       APPRAISAL STAGE
+                                                                                              Report No.: ISDSA1151
+Public Disclosure Copy
+
+
+
+
+                         Date ISDS Prepared/Updated: 18-Feb-2015
+                         Date ISDS Approved/Disclosed: 21-Feb-2015
+                         I. BASIC INFORMATION
+                            1. Basic Project Data
+
+                            Country:          Morocco                           Project ID:    P143689
+                            Project Name:     Clean and Efficient Energy Project (P143689)
+                            Task Team         Roger Coma Cunill
+                            Leader(s):
+                            Estimated         23-Feb-2015                       Estimated   23-Apr-2015
+                            Appraisal Date:                                     Board Date:
+                            Managing Unit:    GEEDR                             Lending     Investment Project Financing
+                                                                                Instrument:
+                            Sector(s):        Other Renewable Energy (50%), Transmission and Distribution of Electricity
+                                              (50%)
+                            Theme(s):         Infrastructure services for private sector development (10%), Climate change
+                                              (90%)
+                            Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+                            8.00 (Rapid Response to Crises and Emergencies)?
+Public Disclosure Copy
+
+
+
+
+                            Financing (In USD Million)
+                            Total Project Cost:     153.00           Total Bank Financing:               125.00
+                            Financing Gap:            0.00
+                              Financing Source                                                                       Amount
+                              Borrower                                                                                  4.05
+                              International Bank for Reconstruction and Development                                   125.00
+                              Clean Technology Fund                                                                    23.95
+                              Total                                                                                   153.00
+                            Environmental B - Partial Assessment
+                            Category:
+                            Is this a         No
+                            Repeater
+                            project?
+
+                            2. Project Development Objective(s)
+                           To improve the capacity of ONEE to supply and dispatch clean electricity and to meet the demand of
+                           targeted customers more efficiently.
+
+
+                                                                      Page 1 of 8
+                         3. Project Description
+                         The project will increase the ability of ONEE to supply and efficiently dispatch clean energy and
+                         meet demand more efficiently. The country ambitious energy goals require a coordinated action to
+Public Disclosure Copy
+
+
+
+
+                         change the way in which energy is supplied, dispatched, and consumed in the system. This includes,
+                         first, collaborating between different stakeholders to meet clean energy supply goals. Second,
+                         modernizing the grid to ensure its effective and reliable operation as large shares of clean variable
+                         generation are integrated into the system. And, lastly, managing demand to reduce consumption and
+                         ensuring utility loses are controlled. These three complementary areas of action form the
+                         components of the project, which are detailed herewith:
+
+                         Component 1 – ONEE’s Solar PV Program:
+
+                         In December 2013, ONEE adopted a 3-phase corporate strategy to develop 400 MW of grid-
+                         connected decentralized solar PV in 16 sites located at the end of high-voltage transmission lines.
+                         The Government strongly supports the implementation of this strategy, which will contribute to
+                         achieve the ambitious national renewable energy targets established by 2020 (42% in installed
+                         capacity, including 14% of solar energy). The strategy is also expected to have important local
+                         benefits in terms of improved quantity and quality of electricity supply in communities with
+                         significant poverty rates where economic activities, i.e. agriculture, tourism, crafts, and household’s
+                         life quality are affected by voltage drops and regular outages. As part of Morocco’s national energy
+                         strategy, ONEE’s solar PV strategy complements the 2,000 MW solar plant under implementation by
+                         MASEN.
+
+                         This component will finance the first phase of ONEE’s solar Photovoltaic (PV) program as public
+                         investment and will assist ONEE in transitioning towards private sector financing of solar PV plants
+                         in subsequent phases of its program based on lessons learned. The first phase will include the
+                         development of solar PV plants, with a combined installed capacity of 75 MW, at three sites in
+                         Missour, Erfoud and Zagora (Subcomponent 1.1). Each solar PV plant will evacuate the generated
+Public Disclosure Copy
+
+
+
+
+                         power through High Voltage (HV) transmission lines connected to the existing HV 60 kV grid. The
+                         specific alignments of the HV evacuation lines will be determined by ONEE based on the results of
+                         the on-going technical studies. ONEE will build the associated HV evacuation lines. Each site is
+                         accessible from national and/or regional roads and secondary road tracks which will be rehabilitated
+                         during the project but not upgraded with asphalt.
+
+                         The project integrates a Technical Assistance activity (Subcomponent 1.2) to support ONEE in the
+                         transition from a public to an IPP model for developing solar PV plants in the country. The study
+                         "Enabling Environment for Private Participation" will include a market sounding analysis to test
+                         private sector interest for grid-connected PV in Morocco.
+
+                         Component 2 – Planning and dispatching of Renewable energies:
+
+                         Transmission System Operators (TSO) such as ONEE are responsible for managing the electrical
+                         system under strict safety and quality parameters. TSOs control key variables such as the voltage at
+                         the local nodes and the frequency for the whole system. Both variables, voltage and frequency,
+                         should be kept within predefined range of values all the time. Thus, ONEE programs daily the
+                         production of the power plants connected to the high voltage grid to cover the forecasted demand at
+                         the minimum possible cost. This component will finance a Renewable Energy dispatch center
+                         consisting of SCADA software and hardware to ensure optimal power dispatch and system
+
+
+                                                                      Page 2 of 8
+                         protection. This investment will provide more opportunities to ONEE, the transmission system
+                         operator, to optimally adjust supply and demand resources. Dispatch optimization will be carried out
+                         according to supply/demands forecasts and hence, reduce investment needs in generation and
+Public Disclosure Copy
+
+
+
+
+                         transmission. The dispatch center will be co-located with the existing National load dispatch center
+                         and integrated with real time measurement and information flow.
+
+                         Component 3 – Utility Demand-side Management and Revenue Protection program:
+
+                         ONEE plans to install smart-meters and advanced metering infrastructure (AMI) to its high and
+                         medium voltage customers, as well as time-of-use meters -with integration capabilities to the AMI-
+                         to its top-consuming households, small agricultural, and commercial clients. The two main objectives
+                         are: (i) to keep non-technical losses (unmetered consumption) in electricity supply low systematically
+                         and, hence, increase the company’s billing revenues; and (ii) incentivize customers with time-of-use
+                         meters to subscribe to a time-of-use tariff and reduce their consumption during expensive peak hours.
+                         The advanced metering infrastructure will initially be deployed to cover all of ONEE’s high voltage
+                         clients (Distributors and Direct large clients) and all of its medium voltage clients. This category of
+                         users represents 0.40% of the total number of clients and accounts for 78% of energy sales. The time-
+                         of-use meters will be installed at 60,000 low-voltage client sites representing only 1.30% of ONEE’s
+                         clients, but 10% of total consumption of ONEE’s low voltage users.
+
+                         Component 4 – Technical Assistance:
+
+                         This component will include training, capacity building, knowledge exchange, and study tour
+                         activities in the following areas: (i) best practices by system operators to manage large shares of
+                         renewable energy at the wholesale and distribution level, training and study tours (ii) new technology
+                         trends in control and performance capabilities of renewable energy technologies and interconnection
+                         standards, (iii) best practices and approaches for the supervision of PV, wind and other projects, and
+                         other such as (iv) new emerging regulatory practices for private participation in renewables, access to
+                         transmission networks, and others.
+Public Disclosure Copy
+
+
+
+
+                          4. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+                         The national utility, the Office National de l’Electricité et de l’Eau Potable (ONEE) has identified
+                         several sites next to the towns of Missour, Erfoud and Zagora in the South-eastern region of Morocco
+                         to develop mid-size solar PV plants. The on-going feasibility study will confirm the precise siting as
+                         well as technology choice.
+                          5. Environmental and Social Safeguards Specialists
+                         Arbi Ben Achour (GSURR)
+                         Najat Maalla M'Jid (MNCMA)
+                         Suiko Yoshijima (GENDR)
+
+                          6. Safeguard Policies           Triggered? Explanation (Optional)
+                          Environmental Assessment        Yes             Solar PV power generation does not produce any
+                          OP/BP 4.01                                      pollutant. The panels of some solar PV sub-
+                                                                          technologies, however, contain chemicals such as
+                                                                          cadmium which might require particular attention in
+                                                                          their replacement, and during de-commissioning in
+
+
+                                                                      Page 3 of 8
+                                                                  case of damage. The main concern is expected to be
+                                                                  on workers safety issues during construction. Such
+                                                                  impacts will be small scale and site-specific, and can
+Public Disclosure Copy
+
+
+
+
+                                                                  be readily avoided/mitigated through implementation
+                                                                  of the project environmental management plan.
+
+                                                                  Therefore, the proposed project is Category B as per
+                                                                  OP4.01.
+
+                                                                  Three sites have been identified in Erfoud, Zagora
+                                                                  and Missour. ONEE will make a decision on the
+                                                                  specific photovoltaic technology to be used based on
+                                                                  the recommendations of the on-going feasibility
+                                                                  study. Site-specific Environmental and Social Impact
+                                                                  Assessments (ESIAs)/ESMPs for the three sites and
+                                                                  an Environmental and Social Management
+                                                                  Framework (ESMF) for the associated facilities were
+                                                                  prepared before appraisal.
+                         Natural Habitats OP/BP 4.04    No        Sensitive natural habitat areas will be avoided.
+
+                         Forests OP/BP 4.36             No        There are no forests in the proposed three locations.
+
+                         Pest Management OP 4.09        No        No pesticides will be used.
+
+                         Physical Cultural Resources    No        It was confirmed that proposed sites are far from the
+                         OP/BP 4.11                               known physical cultural sites in Zagora and Erfoud.
+                                                                  However, for due diligence, the ESIA and the ESMF
+Public Disclosure Copy
+
+
+
+
+                                                                  includes chance finds procedure annex in case any
+                                                                  physical cultural resources are found during the
+                                                                  construction phase.
+                         Indigenous Peoples OP/BP       No        The project sites where the solar PV plants are
+                         4.10                                     proposed to be constructed are large extension of
+                                                                  uninhabited bare land. Hence, indigenous people will
+                                                                  not be affected.
+                         Involuntary Resettlement OP/   Yes       While no involuntary resettlement is expected under
+                         BP 4.12                                  the Project, there will be land acquisition, in
+                                                                  particular for the planned solar PV plants and
+                                                                  transmission lines.
+
+                                                                  The specific alignments of the transmission lines and
+                                                                  roads in the associated facilities are not fully
+                                                                  determined.
+
+                                                                  A Land Acquisition Plan (LAP)/Resettlement Action
+                                                                  Plan (RAP), consistent with the requirements of OP
+                                                                  4.12 has been prepared for the three sites and a
+
+
+
+                                                              Page 4 of 8
+                                                                             Resettlement Policy Framework (RPF) has been
+                                                                             prepared for the associated facilities (transmission
+                                                                             lines and roads) prior to appraisal.
+Public Disclosure Copy
+
+
+
+
+                            Safety of Dams OP/BP 4.37        No
+
+                            Projects on International      No
+                            Waterways OP/BP 7.50
+                            Projects in Disputed Areas OP/ No
+                            BP 7.60
+
+                         II. Key Safeguard Policy Issues and Their Management
+                             A. Summary of Key Safeguard Issues
+                            1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+                              and describe any potential large scale, significant and/or irreversible impacts:
+                              In general, PV power generation does not produce any pollutant during operation and good site
+                              management will minimize all the impacts. However, the choice of transformers will have to be
+                              made to minimize the impacts. Overall, the project will have little impact on the three sites, whose
+                              locations are well adapted for solar projects. The main anticipated impacts during the construction
+                              phase, will be potential impacts on the soil such as ground settlement due to movement of heavy
+                              machinery, soil erosion, and risk of accidental oil spills from equipment and machinery. During
+                              the operational phase, there is the potential impact of fire outbreak from equipment and the visual
+                              impact of the solar array on the landscape. The ESIA prescribes adequate measures to address
+                              these issues during construction and operation phases. Issues related to workers’ health and safety
+                              are also addressed in the ESMP. The ESIA also includes an annex containing draft environmental
+                              and social clauses to be included in the contractual call for tenders.
+Public Disclosure Copy
+
+
+
+
+                              While no physical displacement and no involuntary resettlement of persons is expected under the
+                              Project, there will be land acquisition, in particular for the planned solar PV plants, and
+                              transmission lines. Therefore, OP 4.12 is triggered and RPF has been prepared for associated
+                              facilities and LAP/RAPs have been prepared for three sites.
+                            2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+                              in the project area:
+                              The long term impact of the project is visual. This will be addressed through adequate landscaping
+                              measures to shield of the visual impact from major routes in the project areas.
+
+                             The project will provide reliable green energy to inhabitants of the urban areas in Erfoud, Missour
+                             and Zagora, in Morocco’s south eastern region. The solar PV plants will have positive impacts in
+                             the economy, health, and quality of life of citizens, including women, living in these areas.
+
+                              The Project will be implemented in areas where the poverty level is between 11.3% to over 30%
+                              according to data from the national poverty map. It will thus contribute to unlock the economic
+                              potential of these regions by providing green power with adequate quality for agricultural, tourism
+                              and craft industries’ project.s.
+                            3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+                              impacts.
+
+
+
+                                                                         Page 5 of 8
+                           The project choice has been selected based on its minimal adverse effects on the project area.
+                         4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+                           assessment of borrower capacity to plan and implement the measures described.
+Public Disclosure Copy
+
+
+
+
+                           ONEE’s Environmental department has actively been involved in the preparation of the safeguards
+                           instruments and will be responsible for the implementation of the site-specific ESIAs, ESMPs,
+                           LAP/RAP and RPF.
+
+                           ONEE will provide updates on implementation of safeguards instruments to the Bank, which will
+                           be included in the bi-annual project progress report.
+
+                           ONEE has collaborated on development of many projects supported by the Bank and has a good
+                           expertise of the procedures of land acquisition and compensation and the WB safeguard policies.
+                         5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+                           on safeguard policies, with an emphasis on potentially affected people.
+                           Key stakeholders are: ONEE; regional governments of Erfoud, Missour and Zagora; civil society
+                           groups in the three regions; ethnic groups in the project affected areas; local businesses.
+
+                           Consultation activities (interviews, focus group discussions, and public hearing) were held with
+                           various stakeholders and members of communities in the three pre-selected sites.
+                           Formal consultations here held on December 16, 2014 in Zagora, December 17, 2014 in Erfoud
+                           and December 18, 2014 in Missour. These consultations were in compliance with World Bank
+                           policies related to disclosure and public consultation (BP 17.50 and OP 4.01). Project-affected
+                           peoples represented almost 30% of attendance at these meetings. Throughout the various
+                           consultation activities, ONEE and the Bank teams recorded a widely significant public acceptance
+                           by the communities and governmental stakeholders towards the proposed project.
+
+                           Grievance Redress Mechanisms (GRM) are easily accessible to potential affected people, who can
+Public Disclosure Copy
+
+
+
+
+                           express their complaints to the ONEE using different channels (mobile teams, ONEE offices at
+                           provincial and local levels). Regarding land acquisition and compensation, they can also have
+                           access to administrative (arbitration committee) and to judicial legal remedies if needed.). The
+                           population can also use channels that are not specific to the power sector, such as local authorities
+                           and independent constitutional grievance bodies (National Human Rights Council, Mediator and
+                           Agency for Preventing and Fighting Corruption).
+                         B. Disclosure Requirements
+                         Environmental Assessment/Audit/Management Plan/Other
+                           Date of receipt by the Bank                                    19-Jan-2015
+                           Date of submission to InfoShop                                 06-Feb-2015
+                           For category A projects, date of distributing the Executive    ////
+                           Summary of the EA to the Executive Directors
+                         "In country" Disclosure
+                           Morocco                                                        18-Feb-2015
+                           Comments: Documents available on the Client's Website: http://www.one.ma/FR/pages/interne.
+                                         asp?esp=2&id1=10&id2=177&t2=1
+                          Resettlement Action Plan/Framework/Policy Process
+                           Date of receipt by the Bank                                    19-Jan-2015
+
+
+                                                                      Page 6 of 8
+                              Date of submission to InfoShop                                   18-Feb-2015
+                            "In country" Disclosure
+                              Morocco                                                          18-Feb-2015
+Public Disclosure Copy
+
+
+
+
+                              Comments: Documents available on the Client's Website: http://www.one.ma/FR/pages/interne.
+                                            asp?esp=2&id1=10&id2=177&t2=1
+                            If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+                            respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+                            Audit/or EMP.
+                            If in-country disclosure of any of the above documents is not expected, please explain why:
+
+
+                           C. Compliance Monitoring Indicators at the Corporate Level
+                            OP/BP/GP 4.01 - Environment Assessment
+                             Does the project require a stand-alone EA (including EMP)          Yes [   ]   No [   ]   NA [   ]
+                             report?
+                             If yes, then did the Regional Environment Unit or Practice         Yes [   ]   No [   ]   NA [   ]
+                             Manager (PM) review and approve the EA report?
+                             Are the cost and the accountabilities for the EMP incorporated     Yes [   ]   No [   ]   NA [   ]
+                             in the credit/loan?
+                            OP/BP 4.12 - Involuntary Resettlement
+                             Has a resettlement plan/abbreviated plan/policy framework/         Yes [   ]   No [   ]   NA [   ]
+                             process framework (as appropriate) been prepared?
+                             If yes, then did the Regional unit responsible for safeguards or   Yes [   ]   No [   ]   NA [   ]
+                             Practice Manager review the plan?
+                            The World Bank Policy on Disclosure of Information
+Public Disclosure Copy
+
+
+
+
+                             Have relevant safeguard policies documents been sent to the        Yes [   ]   No [   ]   NA [   ]
+                             World Bank's Infoshop?
+                             Have relevant documents been disclosed in-country in a public      Yes [   ]   No [   ]   NA [   ]
+                             place in a form and language that are understandable and
+                             accessible to project-affected groups and local NGOs?
+                            All Safeguard Policies
+                             Have satisfactory calendar, budget and clear institutional         Yes [   ]   No [   ]   NA [   ]
+                             responsibilities been prepared for the implementation of
+                             measures related to safeguard policies?
+                             Have costs related to safeguard policy measures been included      Yes [   ]   No [   ]   NA [   ]
+                             in the project cost?
+                             Does the Monitoring and Evaluation system of the project           Yes [   ]   No [   ]   NA [   ]
+                             include the monitoring of safeguard impacts and measures
+                             related to safeguard policies?
+                             Have satisfactory implementation arrangements been agreed          Yes [   ]   No [   ]   NA [   ]
+                             with the borrower and the same been adequately reflected in
+                             the project legal documents?
+
+                         III. APPROVALS
+
+
+                                                                        Page 7 of 8
+                         Task Team Leader(s): Name: Roger Coma Cunill
+                         Approved By
+Public Disclosure Copy
+
+
+
+
+                         Regional Safeguards Name: Nina Chee (RSA)                  Date: 20-Feb-2015
+                         Advisor:
+                         Practice Manager/    Name: Charles Joseph Cormier (PMGR)   Date: 21-Feb-2015
+                         Manager:
+Public Disclosure Copy
+
+
+
+
+                                                             Page 8 of 8
+The original had problem with text extraction. pdftotext Unable to extract text.

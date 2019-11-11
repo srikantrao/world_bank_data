@@ -1,0 +1,321 @@
+                                           INTEGRATED SAFEGUARDS DATA SHEET
+                                                    CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                               Report No.: ISDSC5074
+
+                         Date ISDS Prepared/Updated: 23-Jul-2014
+                         Date ISDS Approved/Disclosed: 22-Sep-2014
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:            Bangladesh                       Project ID:      P128012
+                            Project Name:       Bangladesh Ghorashal Unit 4 Repowering Project (P128012)
+                            Task Team           Mohammad Anis
+                            Leader:
+                            Estimated           12-Feb-2015                      Estimated        17-Jul-2015
+                            Appraisal Date:                                      Board Date:
+                            Managing Unit:      GEEDR                            Lending          Specific Investment Loan
+                                                                                 Instrument:
+                            Sector(s):        Energy efficiency in Heat and Power (50%), Thermal Power Generation (50%)
+                            Theme(s):         Infrastructure services for private sector development (100%)
+                            Financing (In USD Million)
+                            Total Project Cost:        400.00                 Total Bank Financing:       300.00
+                            Financing Gap:                0.00
+Public Disclosure Copy
+
+
+
+
+                              Financing Source                                                             Amount
+                              BORROWER/RECIPIENT                                                            100.00
+                              International Development Association (IDA)                                   300.00
+                              Total                                                                         400.00
+                            Environmental A - Full Assessment
+                            Category:
+                            Is this a           No
+                            Repeater
+                            project?
+
+                           B. Project Objectives
+                           The proposed development objective of the Project is to increase generation supply and efficiency;
+                           C. Project Description
+                           1. The proposed Project would repower one of the four 210 MW gas-fired steam units Ghorashal
+                           power stations by adding one gas turbine & generator (GTG) and a heat recovery steam generator
+                           (HRSG) to the existing steam turbine (ST) unit for an upgraded capacity of about 400 MW. The
+                           targeted unit for repowering has already been identified through a feasibility study (completed in July
+                         2012 by a consulting firm engaged through a Bank TA). This unit is currently generating 170MW
+                         and the overall efficiency of the unit is around 31%. As it came out of the feasibility study, the
+                         Project would increase the gross plant efficiency of the identified unit to 54% and the generation will
+Public Disclosure Copy
+
+
+
+
+                         be more than doubled. Consequently, fuel consumption (per GWh) would be reduced by 43%. The
+                         proposed Project will also be designed to operate the new gas turbine and existing steam plant
+                         independently from each other through a bypass stack allowing operational flexibility for the
+                         government.
+
+                         2. Although the feasibility study looked into the alternatives of developing a new combined cycle
+                         (CC) technology along with other repowering options and full repowering came out to be the most
+                         economically viable options, the primary objective of this project is to increase the efficiency of the
+                         existing unit to ensure better utilization of scarce natural gas. Efficiency improvement in the existing
+                         plants is the government's key priority now.
+
+                         3. The project would be built at the existing land and most of the existing civil structures would be
+                         retained. That itself would reduce construction cost by 10 per cent as compared with new
+                         construction on a green-field site. Existing auxiliary equipment would also be re-used with some
+                         modification and refurbishment. Repowering of the facility will also help achieve reduction in
+                         operation and maintenance (O&M) cost, reduction in emissions and other discharges and
+                         minimization of capital cost expenditures.
+
+                         4. With a nameplate capacity of 950 MW (including other two 55MW steam units), Ghorashal is the
+                         largest power station in the country. The identified steam turbine unit at Ghorashal was installed in
+                         1989. However, they are very robust machines, and the feasibility study has confirmed that there are
+                         good prospects for cost effective refurbishment and upgrade of this unit that can increase its useful
+                         life to another 25 years once repowered. Incorporating these machines into a new combined cycle
+                         configuration is a challenging exercise, although international experience has demonstrated its
+                         practicality. BPDB has already awarded contract to a consortium of Alstom and a Chinese developer
+                         to repower the unit no 3 at Ghorashal. MIGA has been approached by HSBC Bank, Hong Kong to
+Public Disclosure Copy
+
+
+
+
+                         provide political risk guarantee to this project. MIGA is currently doing its due diligence. BPDB has
+                         also tendered for repowering of unit 6. The feasibility study that was done for unit 4 has really paved
+                         the way for the government to proceed to such conversion (from steam unit to combined cycle unit)
+                         in Bangladesh.
+
+                         5. As it is planned currently, the proposed operation has four components, notio nally estimated at
+                         US$300 million in total. In addition to repowering of unit 4, the consulting firm in their feasibility
+                         study report has recommended for upgrading the associated power evacuation system and installing a
+                         gas pipe line. These two additional components have been included in the PCN at this stage, and
+                         their inclusion will be reassessed during project preparation.
+
+                         6. Component 1: Re-powering of the target unit ($250 million): This component would finance the
+                         attachment of a new gas-fired gas turbine to the existing 4th steam unit at Ghorashal and a heat
+                         recovery steam generator, power generator, and associated ancillary equipment for the full
+                         repowering of the identified unit. This component has been proposed based on the feasibility study
+                         by the consultant that has assessed various repowering options (feed water, hot windbox, hybrid and
+                         full repowering).
+
+                         7. Draft Pre-qualification document and Bid document (with preliminary technical specifications) for
+                         this component have already been prepared by the consultants following the Bank guidelines and
+                         reviewed by BPDB.Technical Specifications will be finalized after the Quick Scan RLA (Residual
+                         Life Assessment) is complete and during the subsequent pre-bid conference with the potential
+                         developers.
+Public Disclosure Copy
+
+
+
+
+                         8. Component 2: Installation of a new 230 kV GIS substation and 230 kV high voltage line ($25
+                         million): For evacuation of the additional power from the proposed project, a new 230 kV GIS
+                         substation and a new 27 km long high capacity 230 kV double circuit transmission line to Tongi grid
+                         substation need to be installed by Power Grid Company of Bangladesh (PGCB). The new GT has to
+                         be connected to the new 230 kV GIS substation by means o f a step-up transformer, a 230 kV cable
+                         and a 230 kV switchgear bay. The need for this component will be discussed in further details with
+                         PGCB.
+
+                         9. Component 3: Installation of a new gas pipe line (US$15 million): At present the gas is supplied to
+                         Ghorasal Power Station from Titas Gas Transmission & Distribution System through a 16 inch
+                         diameter pipeline and a Regulating & Metering Station (RMS) situated at the north east corner of the
+                         Power Station complex. Due to space constraint, a new gas station will need to be installed at the
+                         space available west of the proposed repowering site. One 16” gas line from inlet header of Titas
+                         RMS to be installed up to the bus of the gas station as mentioned above. From this bus, several gas
+                         lines will brunch out. Individual branch will lead through gas compressor and associated facilities
+                         prior to connection to the individual unit to be repowered. This component, if agreed, will be
+                         implemented by Gas Transmission Company Limited (GTCL).
+
+                         10. Component 4: TA for institutional strengthening support ($10 million): To sustain the gains of
+                         the conversion through re-powering, it would be necessary to build up implementation and O&M
+                         management capacity and better monitoring and evaluation (M&E) of plant performance at the
+                         power station. This component would finance an Owner’s Engineer (implementation support
+                         consultant) for the Project to bolster project governance while ensuring effective management of the
+                         construction and initial operation of the new power plant. This component would also support BPDB
+                         in the development and implementation of processes, procedures, standards, monitoring and
+Public Disclosure Copy
+
+
+
+
+                         management. Relevant training and study tours for the core BPDB project team and power plant
+                         personnel would be organized so they become receptive and familiar with the operation of the
+                         proposed installation. Using the experience at IDA financed Siddhirganj project, this component will
+                         also explore whether ERP (Enterprise Resource Planning) can be implemented at Ghorashal covering
+                         all the units.
+                         D. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+                         The proposed project will be implemented in the existing Power Plant Complex at Ghorashal
+                         (Location coordinates are: Latitude = 23.9797, Longitude = 90.637). Ghorashal falls in Narsingdi
+                         district and is located 50 km north-east of Dhaka. The site can be accessed by either Dhaka-Sylhet
+                         highway or Tongi-Narshingdi highway. The site is located besides the Sitalakha river and uses the
+                         water from that river. The Ghrashal Power Plant consists of 6 gas fuelled boiler/steam turbine
+                         installations. The units 1 and 2 are the first build installations (in the seventies), producing maximum
+                         48MW each (design value 55 MW). The rest of the units have the same size and have 210 MW
+                         maximum design capacity each. The unit 4 has been considered for repowering under the proposed
+                         operation.
+                         E. Borrowers Institutional Capacity for Safeguard Policies
+                         The Bangladesh power Development Board (BPDB) will be the implementing agency for the
+                           component 1. BPDB is responsible for major portion of generation and distribution of electricity
+                           mainly in urban areas except Dhaka and West Zone of the country. The Board is under the Power
+                           Division of the Ministry of power, Energy and Mineral Resources, Government of Bangladesh.
+Public Disclosure Copy
+
+
+
+
+                           Although BPDB has not implemented any recent project with the World Bank, it has undertaken
+                           projects funded by external development partners that require management of environmental issues.
+                           In addition, the country law also requires full environmental assessment of power plant. BPDB is
+                           fully aware about the Bank requirement of environmental and social assessment of the project.
+
+                           Power Grid Company Bangladesh (PGCB) and Gas Transmission Company Ltd. (GTCL) are the
+                           implementing agencies for component 2 and 3 respectively. Both the agencies are now implementing
+                           the Sidhirganj Power Project (P095065) and have experience on the World Bank safeguard policies.
+
+                           During the EIA process, the safeguard capacity assessment of the implementing agencies will be
+                           carried out.
+                           F. Environmental and Social Safeguards Specialists on the Team
+                           Shakil Ahmed Ferdausi (GENDR)
+                           Dr. M. Khaliquzzaman (GENDR)
+                           Sabah Moyeen (GSURR)
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+                           Safeguard Policies                 Triggered?      Explanation (Optional)
+                           Environmental Assessment OP/       Yes             The project is expected to bring environmental
+                           BP 4.01                                            benefit by increasing the efficiency of the power
+                                                                              plant and subsequently reducing the emission.
+                                                                              However, repowering will involve
+                                                                              decommissioning of the existing boiler and
+                                                                              associated equipment and also include
+Public Disclosure Copy
+
+
+
+
+                                                                              installation of gas compressor, gas turbine,
+                                                                              generator etc. Proper environmental
+                                                                              management is required for both construction
+                                                                              and operation phase. In addition, the project will
+                                                                              support the new transmission line and
+                                                                              substation. The environmental impacts of
+                                                                              transmission lines construction are normally
+                                                                              restricted to rights of way (ROW) and not
+                                                                              significant. However, construction of new
+                                                                              substation may require rehabilitation of the old
+                                                                              substations and the key related environmental
+                                                                              management issue would be the collection and
+                                                                              disposal of old transformers and capacitors.
+                                                                              New gas pipeline may also lead to some local
+                                                                              environmental impact due to construction work.
+                                                                              Environmental health and safety related risks in
+                                                                              decommission of the existing boiler and new
+                                                                              plant commissioning are major issues. Asbestos
+                                                                              based insulators for steam pipes in the existing
+                                                                 boiler/turbine system need to be removed during
+                                                                 its decommissioning. Asbestos being a
+                                                                 hazardous material has to be handled with
+Public Disclosure Copy
+
+
+
+
+                                                                 special care. Currently, hydrazine is used in
+                                                                 water treatment, which is a highly hazardous
+                                                                 substance and a carcinogen. As per WBG EHS
+                                                                 guidelines, Hydrazine should be replaced with a
+                                                                 less hazardous substance which is now
+                                                                 available. Due to anticipated morphology
+                                                                 change of the Shitalakhya river during lifetime
+                                                                 of the plant, the adequacy of current water use
+                                                                 and supply availability have to be carefully
+                                                                 looked into. An environmental impact
+                                                                 assessment will be carried out during the
+                                                                 preparation phase to identify the possible
+                                                                 environmental impacts in component 1, 2 & 3.
+                                                                 Environmental Management Plans (EMPs) will
+                                                                 be prepared for 3 components with appropriate
+                                                                 mitigation and monitoring activities. The cost of
+                                                                 EMP implementation will be estimated and
+                                                                 included the bidding document. Separate
+                                                                 monitoring plan, arrangement and costing will
+                                                                 be made.
+                         Natural Habitats OP/BP 4.04       Yes   Environmental issues during the construction
+                                                                 phase of power transmission lines and gas
+                                                                 pipeline may include impacts on terrestrial and
+                                                                 aquatic habitat. The possible impact on natural
+                                                                 habitats will be addressed through EIA.
+Public Disclosure Copy
+
+
+
+
+                         Forests OP/BP 4.36                No    The project area does not include any
+                                                                 designated forest area.
+                         Pest Management OP 4.09           No    Not relevant to the project
+
+                         Physical Cultural Resources OP/   Yes   During the EIA, studies will be carried out
+                         BP 4.11                                 whether the routes of transmission lines and gas
+                                                                 pipelines pass through areas with physical
+                                                                 cultural resources.
+                         Indigenous Peoples OP/BP 4.10     TBD   Although the proposed project is not expected to
+                                                                 have any impact on indigenous people, the
+                                                                 policy has been triggered as TBD since detailed
+                                                                 information is not available now and social
+                                                                 assessment will be carried out during
+                                                                 preparation.
+                         Involuntary Resettlement OP/BP    Yes   The addition of lines, expansion of existing
+                         4.12                                    networks and establishment of new sub-stations
+                                                                 will require land; this may be public or private
+                                                                 land depending on the routing of the lines and
+                                                                                                                                 requirements of the substation location. Lying
+                                                                                                                                 of 16 inch gas pipeline will lead to a small, but
+                                                                                                                                 permanent loss of arable land, for which
+Public Disclosure Copy
+
+
+
+
+                                                                                                                                 compensation may be required. Thus OP 4.12
+                                                                                                                                 has been triggered for the project.
+                                 Safety of Dams OP/BP 4.37                                         No                            Not applicable here.
+
+                                 Projects on International        No
+                                 Waterways OP/BP 7.50
+                                 Projects in Disputed Areas OP/BP No
+                                 7.60
+
+                         III. SAFEGUARD PREPARATION PLAN
+                               A. Tentative target date for preparing the PAD Stage ISDS: 31-Jan-2015
+                               B. Time frame for launching and completing the safeguard-related studies that may be needed.
+                                  The specific studies and their timing1 should be specified in the PAD-stage ISDS:
+                                      The environmental and social assessments will be carried out for the project. The ESA preparation
+                                      work is expected to start early August. The appraisal mission is currently planned in Feb, 2015.
+                                      All the safeguards mitigation plans along with the ESA will be prepared and disclosed prior to
+                                      appraisal.
+                         IV. APPROVALS
+                                 Task Team Leader:                            Name: Mohammad Anis
+
+                                 Approved By:
+                                 Regional Safeguards Name: Francis V. Fragano (RSA)                                                                                             Date: 09-Sep-2014
+Public Disclosure Copy
+
+
+
+
+                                 Coordinator:
+                                 Practice Manager/   Name: Julia Bucknall (PMGR)                                                                                                Date: 22-Sep-2014
+                                 Manager:
+
+
+
+
+                         1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+                          form and language that are accessible to potentially affected persons.
+

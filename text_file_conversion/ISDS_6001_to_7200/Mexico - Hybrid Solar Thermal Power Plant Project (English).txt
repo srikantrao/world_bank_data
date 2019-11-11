@@ -1,0 +1,491 @@
+Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+I.  Basic Information
+ 
+Date prepared/updated:  10/05/2006 
+Report No.:  AC2532
+1. Basic Project Data  
+ 
+Country:  Mexico 
+Project ID:  P066426 
+Project Name:  Hybrid Solar Thermal Power Plant 
+Task Team Leader:  Gabriela Elizondo Azuela 
+GEF Focal Area: Climate change 
+Global Supplemental ID:  
+Estimated Appraisal Date: June 14, 2006 
+Estimated Board Date: October 5, 2006 
+Managing Unit:  LCSFE 
+Lending Instrument:  Specific Investment 
+Loan 
+Sector:  Renewable energy (80%);Power (20%) 
+Theme:  Pollution management and environmental health (P);Infrastructure services for 
+private sector development (P);Climate change (S) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+0.00 
+GEF Amount (US$m.): 
+49.35 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER/RECIPIENT 
+0.00 
+ 
+FOREIGN PRIVATE COMMERCIAL SOURCES (UNIDENTIFIED) 
+0.00
+0.00 
+Environmental Category: B - Partial Assessment 
+Simplified Processing 
+Simple [] 
+Repeater [] 
+Is this project processed under OP 8.50 (Emergency Recovery) 
+Yes [ ] 
+No [X] 
+2. Project Objectives 
+The project development objective is to demonstrate and encourage replication of ISCCS 
+power generation technology in Mexico and elsewhere, thereby contributing to the 
+reduction of global GHG emissions.  
+ 
+Key performance indicators associated with the project development objective include:  
+ 
+Total electricity generated from the solar thermal hybrid project (GWh/year)  
+ 
+Solar output as a percentage of total energy produced by the hybrid plant (GWh/year)   
+ 
+3. Project Description 
+The design, construction and operation of the proposed Integrated Solar Combined Cycle 
+System (ISCCS) include two components:  
+ 
+Component 1. Design and construction of a 31 MW (net) solar field: the solar collector 
+field consists of a large field of single-axis tracking parabolic trough solar collectors.  
+ 
+Page  2
+Component 2.  Design and, construction of a 535 MW (net) gas based thermal plant: the 
+plant is based on a standard configuration that includes two industrial frame combustion 
+turbines each associated with a heat recovery steam generator (HRSG) and a steam 
+turbine.   
+ 
+4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis 
+The region surrounding the project site has the characteristics of a desert, with very low 
+precipitation, and a high incidence of solar radiation. Vegetation is composed mainly of 
+desert bushes. This region has been significantly affected by human intervention. The 
+municipality of Agua Prieta, located approximately 6 kilometers east of the project site, 
+has a population of almost 64,000 inhabitants. Utilities (water, electricity, sewage) cover 
+100% of the population in the Agua Prieta municipality. The city has been growing 
+slowly towards the south, where most of the industries are located. Though some small 
+scale agricultural production exists, the main source of income for the region comes from 
+industrial activities, mainly manufacture. The Naco-Nogales combined cycle gas power 
+plant is 7 kilometers south-east. Oxidating lagoons for the water treatment plant for the 
+city can be found east of the site, in the outskirts of the urban area. It is important to note 
+that these lagoons already exist to service the municipality of Agua Prieta.  
+ 
+Due to the low availability of water in the region, an air cooled condenser will be used 
+in the proposed project. The water supply will be gray water from the Agua Prieta 
+municipal sewage system (oxidation lagoons mentioned before). The gray water will be 
+processed to produce boiler quality makeup water for the power plant operation as well as 
+suitable water for cleaning of the solar trough components.  The wastewater treatment 
+plant to be located inside the ISCCS Agua Prieta installation will be a small modular 
+plant and no social or environmental impacts are expected from its operation.  
+ 
+Other industries such as quarries and assembly plants (maquiladoras) can be found in 
+the region.  
+ 
+The project site is located far away from any sort of protected or environmentally 
+sensitive areas: the closest federally protected area is approximately 12 kms away, the 
+closest priority protection area is about 13 kms away, and the closest priority area for the 
+protection of birds is approximately 200 kms away.  
+ 
+Additionally, the project location is sufficiently far away from the urban area (City of 
+Agua Prieta) so that no potential socio-economic or land use conflicts are expected. The 
+land where the project will be installed belongs to one legal private owner, and currently 
+it does not have any productive or social use.  The owner is willing to sell his property to 
+CFE, and in accordance with the Mexican law, the value of the property will be appraised 
+based on its commercial value. Moreover, the project is already included in the Municipal 
+Development Plan and it will not create any conflict with other future development plans 
+and/or proposed land uses.  
+ 
+It is important to note that the GEF resources will not be used the purchase of land. CFE 
+will buy the land required for the ISCSS to a private owner as described above. The land 
+is a private parcel, with no houses or any other sort of social or economic activity.  
+Page  3
+The environmental and social impacts associated with the Agua Prieta II Integrated 
+Solar Combined Cycle System (ISCCS) project are expected to be minimal:  
+ 
+-
+As for environmental impacts, the type of intervention and the physical characteristics 
+of the area where it will be located (see the preceding paragraphs) make sizeable 
+environmental impacts highly unlikely. Instead, this project will help meet growing 
+demand for electricity in the region, and the operation of the solar component will have 
+positive environmental impacts due to the reduction of CO2 emissions.  
+ 
+-
+As for social impacts, a social screening was conducted during the preparation of the 
+project. The result of the screening showed that the construction and operation of the 
+project will not cause any adverse social impacts. Rather, the project will generate 660 
+jobs during the pre-construction and construction phases.  Of these, 600 will be provided 
+to non-qualified labor. CFE expects these positions to be filled with local people.  The 
+more specialized work force is generally hired from the region or State.   
+ 
+5. Environmental and Social Safeguards Specialists 
+Mr Juan D. Quintero (EASEN) 
+Ms Elena Correa (LCSEO) 
+Mr Hernan M. Gonzalez Figueroa (LCSEN) 
+ 
+6. Safeguard Policies Triggered
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+X
+Natural Habitats (OP/BP 4.04) 
+ X 
+Forests (OP/BP 4.36) 
+ X 
+Pest Management (OP 4.09) 
+ X 
+Physical Cultural Resources (OP/BP 4.11) 
+ X 
+Indigenous Peoples (OP/BP 4.10) 
+ X 
+Involuntary Resettlement (OP/BP 4.12) 
+ X 
+Safety of Dams (OP/BP 4.37) 
+ X 
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X 
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts: 
+There are no potential large scale, significant or irreversible impacts associated to this 
+project. The construction of the proposed project will not require any forced displacement 
+of people in the area, as the selected sites are located away from populated areas. The 
+main environmental impacts expected from this project and the proposed mitigation 
+options are summarized in the table below:   
+ 
+Page  4
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+There are no expected negative impacts due to anticipated future activities in the project 
+area. The project will contribute to meet the increasing demand for electricity in the 
+region and may help increase socioeconomic welfare of the inhabitants. The benefits to 
+the environment include the avoidance of emissions of green houses associated with 
+fossil fuel-based thermo-electric generation, including C02, S02, NOx, methane, 
+suspended particles, etc, which have local and global repercussions.   
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts. 
+Not Applicable   
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide 
+an assessment of borrower capacity to plan and implement the measures described. 
+Environmental:  
+ 
+The only safeguard triggered is Environmental Assessment (4.01). CFE has prepared an 
+EA acceptable to the Bank and to the national environmental authorities.  
+ 
+The CFE is the entity in charge of developing the Environmental Assessment, including 
+the Environmental Management Plan. CFE has demonstrated its capacity to conduct this 
+type of assessments which are generally sub-contracted to third independent parties.  
+ 
+Social:  
+ 
+The project does not trigger any social safeguard policy. However, during the 
+construction and operation of the project CFE will implement the following community 
+activities:  
+ 
+-
+Launch an energy efficiency program to lower household expenditure in electricity 
+bills (e.g. incentives to replace old inefficient refrigerators and other).  
+ 
+-
+Implement a communication program during the construction and operation stages to 
+inform local authorities, communities and different stakeholders about the project  
+ 
+-
+Due to the nature of a solar thermal hybrid facility, it is possible that the plant will 
+attract international and national attention. CFE will explore the possibility to engage the 
+community in a program for information and dissemination (e.g. schools, universities)  
+ 
+-
+The possibility to develop a botanical garden within the installations of the solar 
+thermal hybrid plant is being explored. This will require the participation of local 
+universities and local work force.  
+ 
+CFE has conducted this type of activities in many of its previous facilities and its 
+capacity to manage a social plan has been widely demonstrated.  
+Page  5
+CFE is highly qualified to address the identified environmental impacts and manage the 
+social and environmental aspects of the project including all the activities described in the 
+Environmental Management Plan (EMP). The project will be supervised by the Social 
+Development and Environmental Offices at the central level in CFE and by an 
+environmental specialist at the site.   
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+A
+couple of preliminary meetings between the CFE and the authorities of the 
+Municipality of Agua Prieta took place in the period September 2004 and November 
+2005 at the offices of the Municipal President, Carlos Alvarez Samaniego. The 
+participants of these meetings included only government authorities: representatives of 
+the municipal planning commission (COPLADEMUN), the Municipal President and CFE 
+representatives including the Project Manager and the Project Environmental Engineer.  
+ 
+During these meetings CFE gave a presentation on the characteristics of the Agua Prieta 
+II plant to government authorities and specifically requested information on the 
+availability of municipal grey water. During these meetings, the representatives of 
+COPLADEMUN explained the details of the Municipal Plan de Ordenamiento Territorial 
+and confirmed that the Agua Prieta II plant was welcomed and that indeed grey water 
+was available to supply the needs for operation and maintenance requested by CFE.  
+ 
+A
+formal consultation process was subsequently organized as described in detailed 
+below.  
+ 
+Dates and Venues  
+ 
+The project consultation process included the following event:  
+ 
+The general project consultation took place on May 4th, 2006 at the Auditorio 
+Deportivo Agua Prieta, at the Municipality of Agua Prieta, Sonora. The event was 
+organized by the social communications unit of the CFE. Prior to the event, CFE 
+extended a public invitation through posters and the local press and distributed a data 
+sheet in the form of leaflets with information on the general characteristics of the project. 
+The information was placed at convenient locations (Instituto Tecnologico, Offices of the 
+Municipal President and other government Institutions).  Prior to the event, CFE had 
+disclosed the EA of the project at its official website .  
+ 
+The World Bank was also invited to participate in the consultation event however the 
+task team could not to attend.  
+ 
+Participants  
+ 
+The participants included the municipal president, representatives of the 
+COPLADEMUN, Director of Economic Development Municipality of Agua Prieta, 
+Page  6
+about 86 people - including the civil society, students and professors of the Instituto 
+Tecnolgico- a representative of the El Paso Natural Gas, and the local press (with the 
+coverage of three different newspapers: Expresso, El Clarin and El Diario). Pictures of 
+the consultation process are shown in the Figures below.  
+ 
+The consultation process consisted of presentation by different CFE representatives on 
+the characteristics of the Agua Prieta Project including the technical details and the 
+identified or expected environmental impacts including the mitigation measures and 
+characteristics of various programs to be implemented during the different phases of the 
+project (EMP). The CFE presentation followed a session of questions and answers of 
+which a summary of results is presented below.  
+ 
+Results and Recommendations of the Consultation Process  
+ 
+The results of the consultation are summarized below.  
+ 
+Investment amount: the question was focused on what percentage of the total investment 
+would be indirectly captured by the Municipality. CFE explained that the Municipality 
+will benefit by the construction and operation of the Agua Prieta II Plant in the following 
+ways: a) employment generation, b) purchase by CFE of the municipal wastewater (with 
+income generation of about 65,000 USD per yearto the Municipality) and c) and number 
+of initiatives that will promote education in energy efficiency at the household level and 
+others contemplated in the EMP.  
+ 
+Impacts on the costs of regional electric tariffs: the community (as all the other 
+communities or urban centers located at the North of Mexico where the extreme high 
+temperatures signify a high electricity bill) wanted to know how the construction and 
+operation of the Agua Prieta II plant will impact the regional electricity tariff level. CFE 
+explained that the electricity tariff including the subsidy is defined by Secretaria de 
+Hacienda y Credito Publica (SHCP) and not by CFE. CFE also explained that the 
+capacity addition of Agua Prieta II to the interconnected system will indeed have effects 
+on the systemas marginal cost (SMC) but further explained that SHCP defines the tariff 
+levels based on a number of different considerations, which escape the decision making 
+and authority limits of the CFE. In addition, CFE explained that they can contemplate 
+activities to educate people on how to save energy and lower their electricity bill.  
+ 
+Implications regarding the promotion of tourism: the participants wanted to know if the 
+Agua Prieta II project, being an innovative technology development plant, would attract 
+tourism and the visit of schools, academic institutions, research centers and international 
+visitors. CFE explained that it is indeed possible that the plant will attract visitors but also 
+said it was difficult to predict the flow and or frequence of these visits.  
+ 
+Implications regarding the development of a local airport. As the Municipality is 
+planning the construction of a local small one lane airport, they also wanted to know how 
+the Agua Prieta II plant can affect this development (positively or negatively). CFE 
+explained that it is difficult to predict the increase of tourism for visits to the Agua Prieta 
+Page  7
+II facility. CFE also explained that the operation of the solar field would not affect this 
+future initiative in a negative way.  
+ 
+The installation of future solar field or integrated plants and natural gas availability in 
+the area. The Director of Economic Development of the Municipality of Agua Prieta 
+wanted to know if the Agua Prieta II project can be replicated in the area and in general 
+what is the availability of natural gas for future projects in the area. CFE explained that if 
+the performance of the plant is good, it is possible that a similar hybrid plant is installed 
+in the future in Mexico, although CFE at this stage does not know when, the scale or even 
+the location.  
+ 
+With regards to the availability of natural gas CFE explained that both the Naco-
+Nogales plant (operated by Union Fenosa some kms away from Agua Prieta) and the 
+Agua Prieta II Plant, will use imported natural gas from USA. The capacity of the 
+existent natural gas pipeline is sufficient to supply these two plants during their life 
+cycles.  
+ 
+Periods of construction and operation. CFE explained in detailed the program of 
+activities. Employment Generation. CFE clarified that considering the experience with 
+the Naco-Nogales plant (located some kms away from the municipality if Agua Prieta), 
+the plant is expecting to hire up to 1,500 local workers during the construction phase, of 
+which 450 are expected to be allocated to people from the Agua Prieta Municipality. The 
+local representative of the electricity sector union (CFE-SUTERM) confirmed they will 
+advertise the types of position available in the local media soon after the bidding process 
+is completed (November 2006).  
+ 
+Type and origin of the technology, environmental performance. There were some 
+technical questions from the students and professors of the Instituto Tecnolgico de Agua 
+Prieta (ITAP) regarding the type of technology, the country of origin, and the NOx 
+emissions associated with the installation. The CFEs technical team answer all technical 
+questions and clarified that the Agua Preita II plant will comply with the Mexican 
+standards (NOMs) and that the maximum allowable limits for NOx emissions specified in 
+the bidding documents are even lower than those specified in the corresponding NOM.  
+ 
+Greenhouse Gas Emissions. Students of the ITAP wanted to know if the project will 
+increase or reduce GHGs at the global and local levels and impacts of the plant on the 
+local temperature. CFE explained that the solar field will contribute to reduction of X and 
+that reductions in GHGs have an impact at a global level. CFE also explained that the 
+temperature at the local level will not be affected.  
+ 
+Reasons why the plant will use wastewater from the Municipality. CFE explained that 
+given the lack of water availability in the zone, the Agua Prieta II plant will use grey 
+water from the Municipality in minimum quantities for general operation and 
+maintenance activities including the cleaning of the solar mirrors. The grey water will be 
+treated in situ in a small modular plant.  
+ 
+Page  8
+In general terms CFE reported a generalized acceptance to the project from the 
+participants to the consultation event. The next the local press (Expresso, El Clarin and El 
+Diario) issued informative notes on the project and a brief summary of what was said 
+during the consultation. Two of the articles were positive about the operation of the plant, 
+a
+third article showed skepticism regarding the benefits to the community.  
+ 
+Decisions  
+ 
+At the end of the session, CFE decided to formalize the implementation of programs and 
+activities involving the community. The following programs were added to the second 
+version of the EMP presented to the Bank before appraisal activities:  
+ 
+-
+Program to Support Community Activities: which includes activities associated to 
+employment generation (bolsa de trabajo), education and civil protection. The activities 
+are detailed in the EMP, included in the project files.  
+ 
+-
+Program to Support Municipal Initiatives: CFE offered a review of the Municipal Plan 
+de Ordenamiento Territorial soon after the completion of the bidding process to 
+determine whether the project can contribute to the Plan de Ordenamiento Territorial or 
+Municipal Development Plan in any significant way.  
+ 
+Feedback Mechanisms and Disclosure  
+ 
+At the end of the event, the CFEs social communications unit distributed among 
+participants a CFE press bulletin with information about the plant and CFE contact 
+information for future questions and concerns regarding the project. CFE has also a local 
+office in the area, and people were encouraged to contact the local representative for 
+additional questions or concerns regarding the Agua Prieta II initiative.  
+ 
+The EA is made publicly available by the Ministry of Environment (SEMARNAT) and 
+through the World Bank's Infoshop. This assessment has already been disclosed by CFE 
+at its official website, www.cfe.gob.mx since July 2006.   
+ 
+B. Disclosure Requirements Date
+ 
+Environmental Assessment/Audit/Management Plan/Other: 
+Date of receipt by the Bank 
+06/25/2006 
+ 
+Date of "in-country" disclosure 
+07/10/2006 
+ 
+Date of submission to InfoShop 
+10/05/2006 
+ 
+For category A projects, date of distributing the Executive 
+Summary of the EA to the Executive Directors 
+ 
+*
+If the project triggers the Pest Management and/or Physical Cultural Resources, 
+the respective issues are to be addressed and disclosed as part of the Environmental 
+Assessment/Audit/or EMP. 
+Page  9
+If in-country disclosure of any of the above documents is not expected, please 
+explain why: 
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the 
+ISDS is finalized by the project decision meeting) 
+ 
+OP/BP/GP 4.01 - Environment Assessment 
+ 
+Does the project require a stand-alone EA (including EMP) report? 
+Yes 
+If yes, then did the Regional Environment Unit or Sector Manager (SM) 
+review and approve the EA report? 
+N/A 
+Are the cost and the accountabilities for the EMP incorporated in the 
+credit/loan? 
+N/A 
+The World Bank Policy on Disclosure of Information 
+ 
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+N/A 
+Have relevant documents been disclosed in-country in a public place in a 
+form and language that are understandable and accessible to project-affected 
+groups and local NGOs? 
+N/A 
+All Safeguard Policies 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities 
+been prepared for the implementation of measures related to safeguard 
+policies? 
+ 
+Have costs related to safeguard policy measures been included in the project 
+cost? 
+ 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures related to safeguard policies? 
+ 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+ 
+Page  10
+D. Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Ms Gabriela Elizondo 
+10/05/2006 
+Environmental Specialist: 
+Mr Juan D. Quintero 
+ 
+Social Development Specialist 
+Ms Elena Correa 
+ 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+Mr Hernan M. Gonzalez Figueroa 
+ 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Reidar Kvam 
+ 
+Comments:   
+Sector Manager: 
+Ms Susan G. Goldmark 
+10/05/2006 
+Comments:   

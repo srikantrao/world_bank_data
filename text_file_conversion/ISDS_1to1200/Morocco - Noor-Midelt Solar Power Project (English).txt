@@ -1,0 +1,233 @@
+                            INTEGRATED SAFEGUARDS DATA SHEET
+                                     CONCEPT STAGE
+Report No.: 111018
+
+Date ISDS Prepared/Updated: Dec-12-2016
+
+I. BASIC INFORMATION
+
+A. Basic Project Data
+
+ Country: Morocco                                   I Project ID : P161893
+                                                    I Additional Project ID (if any):
+ Project Name: Noor-Midelt Solar Power Project
+ Task Team Leader: Sameh Mobarek and Moez Cherif
+ Estimated Appraisal Date: May 22, 2017        I Estimated Board Date: July 27, 2017
+ Managing Unit: GEE05                          I Lending Instrument: IPF
+ Sector: Energy
+ Theme:
+ IBRD Amount (US$400m.):
+ IDA Amount (US$m.):
+ GEF Amount (US$m.):
+ PCF Amount (US$m.):
+ Other financing amounts by source:
+ KfW Amount (US$750m)
+ European Investment Bank Amount (US$200m)
+ Agence Franyaise de Developpement Amount (US$1 OOm)
+ African Development Bank Amount (US$260m)
+ Clean Technology Fund Amount (US$50m)
+ Environmental Category: A
+ Simplified Processing              Simple []               Repeater []
+ Is this a transferred project      Yes []                   No [X]
+
+B. Project Objectives:
+
+The PDO is to increase (a) installed capacity (megawatt) and (b) electricity output (megawatt-hour),
+especially during peak hours, of the Noor-Midelt Solar Complex.
+
+C. Project Description:
+
+The Project is expected to adopt an innovative hybrid solar CSP/PV plant design to combine the benefits
+of both technologies to deliver firm power to the grid. The feasibility study indicates that this type of
+hybridization is an attractive solution as it increases the load factor and reduces intermittency, compared to
+pure PV solutions. At the same time, it also reduces upfront investment cost and the levelized cost of
+energy, compared to pure CSP solutions. The Request for Qualification (RFQ) for Phase 1 was issued on
+July 26, 2016, indicating that the CSP technology could be parabolic trough or tower, similar those used in
+the Noor-Ouarzazate Solar Complex.
+
+The first phase ofNoor-Midelt is expected to consist of two separate plants, each with 150-190 MW CSP
+capacity and a minimum of 5 hours of thermal storage. The capacity of the PV component, which is
+expected to provide daytime generation, is left to the bidders' discretion, but cannot exceed night-time net
+capacity from CSP by more than 20%. Bidders are expected to optimize their design based on expected
+plant performance criteria that will be provided in the RfP. The actual capacity will depend on the
+technical specifications MAS EN will develop in the RfP stage, and bidders' proposed technical
+optimization to meet the RfP requirements. The common and associated infrastructures includes access
+roads, on site drainage infrastructure, raw water infrastructure (including water intake, treatment, storage
+tank, pipes), power transmission line and on-site substation, and telecom infrastructure. All common
+infrastructure will be developed by MASEN, except the transmission lines and substation for evacuating
+power that are considered to be associated infrastructure and will be developed by national power utility
+ONEE.
+
+D. Project location and salient physical characteristics relevant to the analysis of environmental
+and social risks and impacts (if known):
+
+The future Noor-Midelt site is administratively located in the Midelt Province and comprises a total surface
+of 4141 ha. The site is located on the Haute Moulouya Plateau approximately 20 km Northeast from the
+town of Midelt. The site is accessible from the Route Nationale RN13, which links Meknes with Midelt.
+2714 ha is communal land and belongs to the two ethnic communities of Ait Oufella and Ait Rahou Ouali,
+while around 1427 ha of forest land belongs to the Water and Forests Administration. MASEN had planned
+and started the process of acquisition of the land through willing buyer - willing seller arrangements.
+Currently (November 2016), the ownership titles of the different plots constituting the site are contested in
+court, so the acquisition will now be obtained through expropriation. For this, the compensation rates agreed
+upon during negotiations with the communities will be used. According to MASEN, the court case should
+be resolved in the first half of the calendar year 2017. Should the situation not be clarified prior to the
+preparation of the involuntary land acquisition planning documents, the different scenarios of legal
+outcomes will have to be included in the safeguards assessments.
+
+The Noor-Midelt site has been selected for the following reasons: i) the site has an excellent potential for
+solar power production; ii) the site is close to the Hassan II Reservoir (11 km) for its water needs; iii) there
+is a nearby electric transmission line; iv) there is easy access via the RN13; v) the site is very flat and
+favorable for a solar power plant; vi) there are no people living on the site; vii) the vegetation is very sparse
+so that the site is barely used for livestock grazing; viii) environmental impacts and risks are minimal; ix)
+there are no physical cultural resources within a radius of 3 km; and x) the site is located outside a natural
+zone and outside any protected tourist area.
+
+The project site preparation, project construction and operation will require a total of more than 4000
+hectares (ha) of permanent land acquisition. Additional land acquisition will be required for water supply
+and transmission lines. Access roads to the project site will not require land acquisition, as existing right-
+of-way are used, and existing rural roads are upgraded without enlargement. The sandy and arid terrain
+allow only for small scrubs to grow. The land acquisition for the project will have limited impacts on the
+livelihood of local communities: the land is having only very sparse vegetation, and is used only barely for
+livestock grazing. Transhumance seems to occur mostly along the river crossing the site, along which a
+corridor will be kept open that can be used for livestock. The importance of the site for livestock rearing
+will be quantified during a socio-economic assessment during project preparation. Local population
+confirmed the low intensity of use for temporal pastoralist activities. The area to be acquired covers around
+10% of the available land of the communities, but much less in terms of income-generating assets.
+
+E. Borrower's Institutional Capacity for Effective SEMS:
+
+The Borrower (MASEN) has gained considerable experience during the implementation of the ESMPs for
+the Noor-Ouarzazate I, II and III projects. The Noor-Midelt solar power project is expected to be very
+similar, and MASEN has adequate capacity to implement the project in compliance with World Bank
+Performance Standards and Environmental, Health and Safety Guidelines. During the construction of the
+CSP Tower of Noor III in Ouarzazate, there was a lapse in the application of the Health & Safety
+Procedures, leading to a fatal accident. The Health & Safety System for Noor II and III has since then been
+significantly strengthened and is now in compliance with international standards.
+
+MASEN has prepared and managed land acquisition for similar projects before, in particular for the NOOR
+Ouarzazate projects, where conditions for land acquisition are similar. No particular issues have been
+reported regarding land acquisition, which is implemented by a division under the Ministry of Interior. A
+team of two staff is currently assigned to deal with the land acquisition and E&S management under the
+Midelt project. Land acquisition will follow initially national procedures. The RAP being prepared will
+follow WBG and other donors' requirements to ensure implementation is up to international best practices.
+MASEN followed the same principles for the Ouarzazate projects.
+
+The main responsibility for the adequate preparation and implementation of the Framework Environmental
+arid Social Assessment (FESIA), Construction Environmental and Social Management Plans (CESMPs)
+and the Health and Safety Plan (H&S Plan) will be with the Developer and the Contractors, which is similar
+to the 3 Ouarzazate solar power projects. The Developer and the Contractors will have the required capacity
+for the implementation of the Construction ESMPs (CESMPs) and H&S Plan. During project preparation,
+attention will be paid to PS2, in particular regarding working conditions, management of labor influx, etc.
+Requirements for th~ application of PS 1, PS2, PS3, PS4, PS6 and PS8 by the developer and contractor will
+be managed through bidding documents and contracts, and MASEN will monitor all safeguards plans.
+
+MASEN has prepared and shared with the Bank's technical project task team in draft form a FESIA,
+including the environmental impacts and mitigation for the possible solar technologies, water intake, water
+pipeline, raw water treatment plant and access roads, a Resettlement Action Plan (RAP) for the project main
+and extension sites (land acquisition plan 1, LAP 1) for the two phase 1 plants, and a due diligence report
+for the access road. The RAP for the main project site will be revised by MASEN and resubmitted to the
+Bank and other borrowers in early 2017. No land acquisition will be needed for the access road. A third
+RAP will be prepared later in 201 7 and cover land acquisition for the water supply infrastructures for the
+project operation. The RAP will be prepared after the alignment of these water supply infrastructures is
+finalized. The ESIA and RAP for the transmission lines to connect the site with the national power grid will
+be prepared as associated facilities by ONEE, the national energy utility. A separate ESIA and RAP in
+compliance with the applicable World Bank Safeguard Policies will be prepared for those lines by ONEE
+and reviewed by the Bank and the other IFis and disclosed in-country and the Bank's website.
+
+F. Environmental and Social Safeguards Specialists on the Team:
+
+Africa Olojoba, Lead Environmental Specialist
+Markus Vorpahl, Sr. Social Development Specialist
+Robert Robelus, Sr. Environmental Consultant
+II. PERFORMANCE STANDARDS THAT MIGHT APPLY
+
+ Performance Standards (please explain why)                                    Yes           No           TBD
+ PS 1: Assessment and Management of Environmental and                           x
+ Social Risks and Impacts
+      A Draft Framework Environmental and Social Impact Assessment (FESIA) has been prepared for the
+ Midelt Project and was shared with the World Bank for technical review. For each Solar Power Technology
+ that is used, a full ESWCESMP will be prepared, cleared and disclosed in-country and the Bank's website
+ prior to Appraisal and implemented during project construction and operation. For the water intake, the
+ water pipeline, the water treatment plant and the access roads, which all have a very low environmental and
+ social impact and risk, an Environmental and Social Management Plan (ESMP) has been prepared as part of
+ the FESIA. The Developer and Contractor will be required to prepare and implement a Construction ESMP
+ (CESMP) and a Health and Safety Plan (H&S Plan) in compliance with international best practices.
+ PS 2: Labor and Workin2 Conditions                                             x
+      Labor conditions and Health and Safety aspects during construction and operation will be managed in
+ compliance with PS2 by all sub-contractors, contractors, developers and MASEN.
+ PS 3: Resource Efficiency and Pollution Prevention                             x
+      Pollution prevention and other environmental management responsibilities will be part of the FESIA,
+ ESMPs and CESMPs and will be implemented by the Developer, the Contractors, sub-contractors and
+ supervised by MASEN.
+ PS 4: Community Health, Safety, and Security                                   x
+      Influx of non-local labor into local communities during construction will have to be managed. It is
+ expected that non-local labor will be living off-site in existing townships and travel daily to the construction
+ site, so social risks to local communities should be moderate and manageable. Recruitment of local labor
+ will be the responsibility of Agence nationale de promotion de l 'emploi et des competences (ANAPEC).
+ The same approach as for the 3 Ouarzazate projects will be followed, which worked well. The nearest
+ village is 7 km from the project site, which means that negative environmental and social impacts on
+ villages will be limited. However, positive environmental and social impacts may be substantial during
+ construction and operation through the implementation of a local development plan by MASEN within the
+ nearby villages, currently being prepared as part of MASEN's Corporate Social Responsibility and the
+ implementation of the RAP.
+ PS 5: Land Acquisition and Involuntary Resettlement                           x
+      Around 4000 hectares of land are to be acquired involuntarily. Local communities have been consulted
+ on the land acquisition for the project site and compensation standards have been agreed upon. At this stage,
+ the ownership of the land is contested between local communities, the public entity managing forest land -
+ some of the land, although arid, is classified as forest due to specific vegetation patterns - and individual
+ members of the local communities. While the matter is being settled through the court system, the
+ compensation will be placed in an escrow account. A resettlement plan has been prepared by MASEN and
+ will be revised to be in line with PSS.
+ PS 6: Biodiversity Conservation and Sustainable Management                    x
+ of Living Natural Resources
+      There are very scarce living natural resources at the project site, no endemic or endangered species. The
+ environmental and very limited biodiversity impacts are expected to be mainly only on the project site,
+ which has been assessed and determined in the FESIA.
+ PS 7: Indigenous Peoples                                                                                  x
+      Additional information is needed.
+ PS 8: Cultural Heritage                                                       x
+      No Cultural Heritage has been discovered within a radius of 3 km from the project site. However, a
+ chance finds procedures will be included in all relevant Contracts.
+
+OP 7.50 regarding Projects on International Waterways and OP 7.60 regarding Projects in Disputed Areas
+are not triggered.
+ III. SAFEGUARD PREPARATION PLAN
+
+A. Target date for the Quality Enhancement Review (QER), at which time the ESRS would be disclosed
+        and the PAD-stage ISDS would be prepared:
+
+        March 25, 2017
+
+B. For Category C or Category FI projects that do not require an ESRS, the target date for preparing the
+   PAD-stage ISDS:
+
+C. Time frame for launching and completing the safeguard-related studies that may be needed.
+   The specific studies and their timing 1 should be specified in the PAD-stage ISDS:
+           o FESIA: Launched, draft FESIA has been sent to the World Bank for technical review and
+               has been approved by other IFis for disclosure. The FESIA includes an ESMP for the
+               water intake, water supply pipes, raw water treatment plant, and access roads. The
+               preparation time frame for the ESIA for the transmission line is not known. Also the time
+               frames for the preparation for the ESIAs/ESMPs for each solar energy technology is not
+               yet known, since the developers have not yet been selected.
+           o Resettlement Action Plan for the project site: Launched, to be completed by QIII, FY 17
+           o Resettlement Action Plan for the water supply lines and water treatment plant: To be
+               launched after alignment and design of the infrastructure has been finalized.
+           o Socio-economic analysis: Ongoing, to be finalized in QIII, FY 17
+
+IV. APPROVALS
+
+    Si ned and submitted b :
+    Task Team Leader:
+
+                                                   Nina Chee
+      Comments:
+    Practice Mana er:                              Erik Fernstrom
+      Comments:
+
+
+
+
+1   Reminder: The Bank's Access to Information Policy requires that safeguard-related documents be disclosed before appraisal (i)
+at the InfoShop and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to potentially
+affected persons.
+

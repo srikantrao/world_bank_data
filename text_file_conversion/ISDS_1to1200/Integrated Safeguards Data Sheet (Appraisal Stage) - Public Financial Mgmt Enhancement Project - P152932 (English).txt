@@ -1,0 +1,437 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+APPRAISAL STAGE
+Report No.: ISDSA13322
+0
+Date ISDS Prepared/Updated: 11-Nov-2015
+o
+Date ISDS Approved/Disclosed: 12-Nov-2015
+I. BASIC INFORMATION
+1. Basic Project Data
+Country:        Zimbabwe                    Project ID:  P152932
+Project Name: Public Financial Mgmt Enhancement Project (P 152932)
+Task Team       Daniel Yaw Domelevo
+Leader(s):
+Estimated       03-Aug-2015                 Estimated    30-Dec-2015
+Appraisal Date:                             Board Date:
+Managing Unit: GGO13                        Lending      Investment Project Financing
+Instrument:
+Sector(s):      General finance sector (100%)
+Theme(s):       Other economic management (100%)
+Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+8.00 (Rapid Response to Crises and Emergencies)?
+Financing (In USD Million)
+Total Project Cost:      20.80             Total Bank Financing:     0.00
+Financing Gap:            0.00
+Financing Source                                                          Amount
+O
+Borrower                                                                      0.00
+Zimbabwe Reconstruction Fund (ZIMREF)                                        20.80
+Total                                                                        20.80
+Environmental C - Not Required
+Category:
+Is this a       No
+Repeater
+project?
+2. Project Development Objective(s)
+The Project development objective (PDO) is to improve control, transparency and accountability, and
+oversight in the use of public resource in Zimbabwe. The Project will contribute to enhancing fiscal
+discipline, strategic allocation of resources, and service delivery efficiency, through strengthened
+systems, procedures and targeted capacity-building.
+3. Project Description
+Page 1 of 10
+
+
+﻿3. Project Description
+Component 1: Financial Management and Accounting (US$6.8 million)
+O
+1.     Objectives: The objectives of this component are to improve financial reporting, strengthen
+fiscal controls, and enhance financial transparency.
+o
+2.       Status: Since 2009, the government's efforts to rebuild the systems after the economic
+recovery have yielded results. In summary: (a) Institutional arrangements for a sound PFM system
+are in place but not engendered; (b) Banking arrangements for establishing Treasury Single Account
+structure are largely in place; (c) The PFM Act was enacted in 2009 and complementary regulations
+drafted but not finalized - both the Act and the draft regulations are not aligned with the Constitution
+of Zimbabwe (d) Integrated Financial Management Information system (IFMIS) running on SAP
+ECC 6 EHP 7 has been implemented at all the 26 MDAs at Harare and 10 provinces; IFMIS ensures
+ex-ante commitment control, produce budget execution and other financial reports, and manage cash;
+( e ) IPSAS cash standard compliant financial statements are being produced from the system with
+some gaps; (f) Payroll system is a custom developed system, which is not integrated with IFMIS; (f)
+Interface of IFMIS with the Reserved Bank of Zimbabwe (RBZ) has been operationalized, but other
+interfaces with revenue management system and debt management systems are not developed yet;
+(g) budget is being prepared through spreadsheets and is uploaded into IFMIS after approval; budget
+classification is GFS 2013 compliant with economic category segment; (h) Local Authorities are
+using a combination of spreadsheets and manual systems to track budget and prepare financial
+statements; (i) IFMIS has been configured to track and capture donor-funded project expenditures
+through the Grants Management Module but not fully rolled out; and (j) establishment registers
+configured in IFMIS/SAP- Human Capital Management - but not integrated with Payroll.
+Activities to be financed:
+3.      Phase 1: The activities to be financed include: (i) Business Planning and Consolidation
+(BPC) module- to support budget compilation; (ii) procurement of the hardware for IFMIS; (iii) roll
+out of IFMIS to urban councils; (iv) implementation of SAP payroll integrated with the establishment
+registers and migration of data from the legacy system; ; (v) review of regulations and manuals; (vi)
+service level agreements for system maintenance and (vii) support the Government's initiative to
+fully align the financial reporting system to international standards (cash basis IPSAS)
+4.       Phase 2 will continue with activities of phase 1 and will include: (viii) roll-out of the
+IFMIS to include donor funded projects; (ix) roll out the IFMIS system to the large statutory funds;
+(x) roll out of the system to capture expenditures against the retained earnings of the ministries (xi)
+procurement of the hardware to augment capacity; (xii) training of the technical staff for relevant
+technical certifications; (xiii) end user training; (xv) implementation of Business Intelligence tool for
+enhance reporting; (xv) development and operationalization of the interfaces with the revenue
+systems and debt management system; (xvi) implementation of the electronic records management
+system and associated procurement of hardware like scanners and servers and (xvii) support the
+Government in making decision on whether to move to accrual basis accounting.
+5.     In both phases the Project will ensure that, as far as possible, equal numbers of women and
+men benefit from the training and experience provided, and have equal opportunities to progress as a
+result.
+Page 2 of 10
+
+
+﻿Expected Outcomes:
+6.        The component will strengthen financial compliance with budget, financial regulations,
+O
+and procedures and hence improve fiscal discipline and controls. It will also improve the timeliness
+and comprehensiveness of financial reports for enhanced transparency and accountability. System
+infrastructure upgrade will enhance availability of the system for carrying out financial management
+operations across the country. The technical trainings will ensure enhance sustainability of the
+system support in its operations.
+Component 2: Enhance effectiveness of Internal Controls and Internal Audit (US$3.2million)
+7.        Objectives: The objective of this component is to strengthen internal oversight and
+controls by enhancing effectiveness of internal audit to ensure compliance with rules and regulations
+and contribute to effective service delivery outcomes.
+8.        Status: The PFM Act (2009) prescribes the appointment of internal audit in line
+Ministries, 'to support' Treasury in performance of prescribed functions. Accordingly, internal audit
+is placed in the line Ministries to report administratively to the Permanent Secretary of the relevant
+line ministry and is expected to functionally report to the Audit Committee. The Audit Committees
+are prescribed by the Act but have been piloted only in the Ministry of Health and Child Care where
+it is yet to take firm roots. Internal audit across Government is characterized by no central
+coordination, training and quality assurance. The MoFED (Treasury/Accountant General) presently
+are not substantially involved in strengthening and coordinating development of internal audit
+function at a central level. Internal audit functions across the Government remained weak, and the
+ability of internal audit function to assess, with reasonable credibility, the cost-effectiveness of any
+projects undertaken by any ministry is limited. In its present structure, depth and coverage, it
+provides very limited assurance on the government processes and transactions audited.
+Activities to be financed
+9.     Phase 1 will involve: (i) strengthening the capacity of Treasury (MoFED) in playing a nodal
+role in internal audit function in Government by upgrading the function to that of a central agency/
+o         unit (Controller of Internal Audit Director of Internal Audit) with the mandate to coordinate internal
+audit in Government; (ii) ensuring that audits are performed as per the new Internal Audit Manual;
+(iii) supporting or conducting training needs analyses in order to identify gaps in general audit and
+technical skills related to specific ministries' internal audit; (iv) developing competencies of staff
+through a range of basic, specialist and professional level skills-training in specific types of auditing
+(including, compliance audits, performance audits, and financial audits), with specific attention to
+equal opportunities in participation in training and in deployment of staff once trained; (v) enhancing
+the capabilities of internal auditors to audit by interrogating data from IFMIS systems and other IT
+systems; (vi) mainstreaming risk based audit process in internal audit function; (vii) leveraging
+technology in the audit organisation through use of modem tools-including, Computer Assisted
+Auditing Tools, (viii) enhancing professionalism in Internal Audit function by acquisition of relevant
+professional certifications by auditors and, (viii) supporting collaboration & knowledge sharing in
+internal audit.
+10.    Phase 2 will continue the training and capacity building initiatives of Phase I and in addition
+also support activities including: (i) establishment of audit charters in all line ministries; (ii)
+Page 3 of 10
+
+
+﻿strengthening the roll-out of Audit Committees as per the PFM Act to all line Ministries (iii)
+establishing a system of follow-up to build on implementation of audit findings and
+recommendations; (iv) training in domain specific skills for internal audit of specialise ministries (e.
+g. transport, public works, agriculture, energy); (v) Advanced IT audit training in auditing the
+U         development/ acquisition and rollout of IT systems in Government; (vi) enhancing skills in auditing
+consolidated revenue fund; (vii) purchase of equipment for internal audit function; (viii) introduction
+of fraud and forensic audit in internal auditing; (ix) support to bridge training gaps identified in
+training needs analyses, including any identified gender inequalities, (x) strengthening internal audit
+at district / local bodies and (xi) any other emerging needs of internal audit function.
+Expected outcomes
+11.    The component will strengthen internal controls in government by enhancing the
+effectiveness of internal audit. It will contribute to equal opportunities for women and men. It will
+support streamlining the existing ad-hoc practices of Internal Audit function in the Government in a
+more coherent and unified manner in accordance with international and regional best practices. It
+also facilitates establishment of Audit Committees in clusters of Ministries to guide the internal audit
+function as well as take into consideration the audit findings from the office of the Auditor General.
+A robust and integrated internal audit function with necessary skill sets, taking full advantage of the
+skills of both women and men, is the key overall outcome of the support from this component
+Component 3: Enhance Accountability through strengthening External Audit (US$5.million)
+Objective
+12.  The objective of this component is to strengthen the Office of the Auditor General (OAG) to
+deliver high quality audit products, on its enhanced mandate (as provided for by the Constitution of
+Zimbabwe)), which covers all ministries, departments and agencies of Government, public entities
+and rural and urban local authorities.
+o
+Current Status
+O
+13.     The Audit Office Act was promulgated in 2010. It is a ground-breaking piece of legislation
+a        that enhances the independence of the OAG. It introduced the Audit Office Commission that took
+over the appointment of staff of the OAG. This functions used to be carried by the then Public
+Service Commission. The Constitution of Zimbabwe replaced the Audit Office Commission with the
+Audit Office Board; and staff of OAG became public officers appointed by the Audit Office Board.
+The OAG was given an additional mandate, to audit all Provincial and Metropolitan Councils and
+Local Authorities. The Audit Office Act is neither aligned to the Constitution nor engendered.
+External audit and legislative scrutiny of audit reports show that the checks and balances in the
+IFMIS need to work better to ensure that expenditures are well controlled and scrutinized. In 2006,
+the Auditor General issued a 'Disclaimer of opinion' for all public accounts because of the
+breakdown of the IFMIS. This has since improved, but the 2013 audit report still shows serious
+weakness in compliance with internal control systems. The fiduciary reengagement report (2015)
+identified a trend of improvements in the functioning of the OAG, while flagging the areas where it
+falls short of expected standards. The OAG is presently unable to fully discharge its responsibilities
+due to limitations in skill set, auditing methodologies, hardware & software and strength of
+workforce considering the audit universe. Engaging additional staff with the pre-requisite skills
+seems not to be an option in the immediate future. This is because of the Government is over-
+Page 4 of 10
+
+
+﻿burdened by the public sector wage bill and the salary levels are not attractive enough to attract the
+right competencies. The way forward is collaboration with the private sector and the use of modem
+audit tools, techniques and practices.
+O
+Q)        Activities to be financed
+14.    Phase 1 of this component will involve: (i) supporting improved collaboration of OAG with
+private sector auditing firms to conduct comprehensive audits for, and on behalf of, the OAG, which
+focus on service delivery and performance of the audited entity as well as financial and compliance
+aspects. This will require development of processes and checklists by OAG and workshops to
+orientate the firms in public sector auditing and retraining of the audit staff in coordinating and
+supervising audits to be undertaken by private sector auditors; (ii) encouraging use of customised
+Performance Audit Manual and Financial & Regularity Audit Manual through training and
+dissemination; (iii) training and implementation of audit work flow automation, through AFROSAl-
+E developed Audit Flow; (iv) supporting or conducting self-assessment on compliance with use of
+ISSAls using iCAT tool of INTOSAI; (v) Training in IFRS, IPSAS and specialised audits of local
+authorities; (vi) Enhancing skills in auditing IFMIS (SAP based) systems; (vii) helping OAG to audit
+IFMIS SAP integrity annually, and to contract appropriately for integrity testing of SAP every two
+years by a suitably expert external party; (viii) piloting new audit practices in missions: (ix)
+developing and implementing risk management processes in OAG, (x) Training in Procurement
+Audits, Revenue Audits and audit of extractive industries; (xi) supporting efforts of OAG to enhance
+audit visibility and citizen partnership; (xii) enabling OAG staff acquire professional skills and
+certifications; (xiii) supporting improved logistics and hardware acquisition, (xiv) acquiring and
+rolling out an audit report monitoring system and electronic records management system, (xv)
+supporting the dev elopment of a strategic plan by OAG; (xvi) facilitating networking and
+knowledge-transfer with other Supreme Audit Institutions, (xvii) Facilitating stronger dialogue with
+stakeholders, including the Public Accounts Committee accountancy professional bodies, the public
+and donors and (xviii) acquiring and using CAATs for data extraction and analysis. In addition the
+project will provide other technical and logistics support required for OAG in performing its legal
+mandate.
+15.    Phase II of the component will involve continuation of several of the activities that started
+under Phase 1. In addition, the following activities will be taken up in Phase II: (i) capacitating the
+o        OAG to conduct comprehensive audits and produce Comprehensive Governance Audit Reports
+(CGAR) for each Ministry. These audits will cover not only appropriation but also statutory funds,
+internally generated funds and donor funds and will have performance audit and service delivery
+parameters (and, where relevant, gender sensitive indicators); (ii) conducting pilot decentralization
+of the OAG to one of the ten Provinces (support to develop procedures and reporting relationship
+between the Provincial and the Head Office, furniture, computers etc); (iii) enhancing partnerships
+with other SAls on Performance Audits and IT Audits through study tours, (iv) Advanced SAP
+training for IFMIS based system audits, (v) establishing eLeaming facility, (vi) introducing a quality
+assurance function in OAG, (vii) refurbishing offices, (viii) introducing environmental auditing, (viii)
+acquiring / developing and rolling out an Audit Management system; (ix) developing an office
+library, (x) establishing a standardized system andpilot for audit of Boards, commissions and
+institutions, (xi) providing logistics support through motor vehicles, (x) training in Public debt,
+SAIPAC, enhanced forensic audit, training of trainers in development of training curriculum,
+courseware and delivery of training and (xii) other emerging needs and just in time interventions to
+support external audit. In addition, the project will continue to provide necessary technical assistance
+and logistics needed by the OAG to discharge its legal mandate effectively and efficiently
+Page 5 of 10
+
+
+﻿16.    In both Phases the Project will aim, as far as possible, to ensure that equal numbers of
+women and men benefit from training opportunities, and progress as a result. It will thus aim to
+ensure that the OAG makes the fullest possible use of the staff available to it.
+Expected outcomes
+17.    The component will strengthen the OAG to deliver on its enhanced audit mandate under the
+Constitution of Zimbabwe. It will help the OAG to collaborate with private sector accounting firms
+in improving the quality of audits in the public sector and enhance the participation of private firms
+in public sector audit. It will enhance the skills and competences available at the OAG and ensure
+compliance with international standards and best practices. The development of the OAG into a
+gender sensitive, competent and professional Supreme Audit Organization following international
+best practices and delivering effectively on the enhanced mandate is the key overall outcome of the
+component. The ultimate expected outcome is enhanced audit oversight and improved transparency
+and accountability in the public sector.
+Component 4: Strengthening the Demand Side of Transparency and Accountability (US$3.0 million)
+18.    Objective: Objective: The objective of this component is to strengthen the demand side of
+accountability by enhancing Parliament's role in public financial management, including increased
+collaboration with other demand-side actors.
+19.    Status/Background: The oversight mandate of Zimbabwe's 8th Parliament, elected in 2013,
+is underpinned by the Constitution, PFM Act, Parliament of Zimbabwe (PoZ)'s Standing Rules and
+Orders, and PoZ's 2014-2018 Institutional Strategic Plan. The high turnover of Members of
+Parliament (MPs) in the last election coupled with the sessional status of the Finance and Economic
+Development Committee (FEDC) and Public Accounts Committee (PAC) creates demand for
+strengthening not only the technical capacity o f Parliamentarians to engage in the budget process,
+but committee business processes and access to technical analysis. It also creates challenges in
+achieving gender parity in the relevant committees. Although there is high retention of the
+Parliamentary Secretariat year to year, they are often rotated between committees. The PoZ is in the
+process of establishing a Parliamentary Budget Office (PBO) with the aim to provide independent
+a        budget analysis to parliamentarians. The PBO will require a strategic plan to be operationalized
+within the parameters of Parliament, as well as technical training (including gender mainstreaming)
+for incoming budget officers. The Parliament enjoys a strong relationship with the OAG. As the
+capacity of the OAG increases through Component 3 activities, the Parliament will need to be
+equipped to consider a larger number of and different types of audit reports. With restricted powers
+to amend the budget and lack of a systematized and harmonized tracking system of audit
+recommendations, there is also a need to enhance coordination between the FEDC, PAC and
+Portfolio Committees to harness Parliament's full potential for integrated budget oversight. Finally,
+Pa rliament is constitutionally mandated to facilitate public participation in the public finance related
+issues and processes. The PoZ seeks to increase citizen and media engagement in the budget process
+through public consultations, hearings, and workshops aimed at strengthening collaborative efforts to
+hold government accountable for effective public financial management.
+Activities to be financed:
+20. Phase 1 will focus on strengthening the Parliament's role in PFM through oversight of the
+Page 6 of 10
+
+
+﻿budget at central and local levels of government, in collaboration with other demand-side actors, by:
+(i) providing training, study visits, attachments, participation in practitioner knowledge-exchange
+events, and workshops to enhance the technical, procedural, and administrative capacity and
+coordinating arrangements of the FEDC and PAC; (ii) financing extended sittings and technical
+support for the FEDC and PAC to enable them to meet their respective Terms of Reference (ToRs)
+and conduct their committee business and oversight functions; (iii) providing training for Portfolio
+Committees on oversight of budget implementation/execution; (iv) providing technical assistance to
+develop and customize toolkits to support committee business; (v) enabling the parliamentary
+Secretariat to acquire professional certificates and provide train the trainer (ToT) workshops for the
+secretariat to train new Committee members; (vi) setting up a PBO to provide clerks with support,
+procedural guidance, and technical analysis to Parliament through strategic support, procurement of
+hardware, training, and participation in global practitioner network knowledge-exchange events; (vii)
+financing procurement of hardware and internet connectivity to support the business of Committees,
+Secretariat training, and Parliamentary Program Coordination Unit; and (viii) supporting
+collaboration between Parliament, the media and civil society to enhance transparency,
+accountability and gender responsiveness across the budget process at the Central Government and
+local levels, including training events, briefings, public consultations and hearings, and procurement
+of vehicles to facilitate travel. In particular, it will explore the scope for collaboration between
+Parliament and civil society on gender aspects of public financial management.
+21.    Phase II will continue to strengthen Parliament's role in budget oversight, in collaboration
+with other demand-side actors, aiming to ensure transparency and accountability. This includes: (i)
+continued support for training, attachments, participation in practitioner knowledge-exchange events,
+and workshops to enhance the technical, procedural, and administrative capacity and coordinating
+arrangements of the FEDC and PAC; (ii) finance for extended sittings and technical support for the
+FEDC and PAC to enable them to meet their respective ToRs and conduct their Committee business
+and oversight functions; (iii) training for Portfolio Committees on oversight of budget
+implementation/execution; (iv) ToT to parliamentary Secretariat to utilize toolkits/handbooks to
+support Committee business processes and induct new Committee members - including the new
+Parliament to be elected in 2018; (v) support for the parliamentary Secretariat to acquire professional
+certificates; (vi) help to facilitate the operationalization of the PBO, providing technical and IFMIS
+training for staff, financing attachments, and enabling participation in global practitioner network
+knowledge exchange events; (vii) procurement of internet connectivity to support the business of
+a        committees, secretariat training, and Parliamentary Program Coordination Unit; (viii) facilitation of
+collaboration between Parliament, the media and civil society to enhance transparency and
+accountability across the budget process at the central government and local levels, including
+trainings, public consultations and hearings, (ix) consultancy support to manage and coordinate
+project implementation through Parliamentary Program Coordination Unit; and (x) any additional
+technical and logistical assistance Parliament may require in order to discharge its legal mandate of
+providing oversight of public funds.
+Expected Outcomes:
+22.    It is expected that strengthening and engendering the Parliament's capacity to contribute to
+national budgeting processes, in collaboration with other demand-side accountability actors, will
+enhance fiscal discipline, ensure public officials are held accountable for the successful
+implementation of government policies, and that lessons learned from budget implementation will be
+applied in order to enhance governance systems in the medium-to-long term.
+Page 7 of 10
+
+
+﻿Component 5: PFMEP Management (US$2.Omillion)
+23.    The objective of this component is to provide the administrative and operational structure for
+the seamless management and coordination of implementation of activities of the Project by the
+O
+U        various component managers. This structure will provide technical leadership in articulating, guiding
+and monitoring the overall PFM reforms across the Government. The component will manage the
+agreed development program, provide expertise in procurement and financial management support to
+the implementing departments and will monitor objectives and performance against the indicators
+(including equal opportunities indicators) The existing PFM Project Management Unit at MoFED,
+currently comprising consultants and civil servants, will be responsible for the financial management
+of the overall trust fund program. Capacity building is required, both in terms of staff training and
+through additional appointments to support the main functions of the Unit. .All the components will
+ensure that there is gender balance in the training and in the project cycle as a whole. The programme
+will also work with the M&E project in ZIMREF to identify indicators that may measure gender-
+related progress in areas where sufficient attribution is realistic. The main activities will include:
+(i)  Procurement of a full complement of professional staff required for the Unit either through
+transfer from other units or through contract appointments;
+(ii) Purchase of any office equipment urgently required and other expenses directly relating to the
+Project;
+(iii) Training in project management, procurement and/or financial management, and gender
+mainstreaming, as required; and,
+(iv) Annual auditing of the Project.
+Component 6: Project Implementation support by the World Bank (US$ 0.8million).
+24.     The PFM Enhancement project is the first recipient executed project under the ZIMREF
+covering works, goods and services. The use of country FM systems would result in streamlined
+supervision activities and implementation support will play a key role in ensuring that the use of
+country system does not bring about use of project funds for unintended pu rposes. Though it is the
+a        primary responsibility of the government to supervise the implementation of the project,
+complimenting it with the Bank's implementation support would be needed in minimizing the risk of
+using country systems. The World Bank will provide intensive implementation support at the
+inception and the early stages of the projects until such time that reliance can be established on the
+systems used by the project. It is expected that the current weaknesses in the internal controls would
+be mitigated by implementation arrangements detailed in annex 2 of the PAD.
+4. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+5. Environmental and Social Safeguards Specialists
+6. Safeguard Policies   Triggered? Explanation (Optional)
+Page 8 of 10
+
+
+﻿Environmental          No
+Assessment OP/BP 4.01
+Natural Habitats OP/BP  No
+O
+0         4.04
+Forests OP/BP 4.36     No
+a
+Pest Management OP 4.09 No
+Physical Cultural      No
+Resources OP/BP 4.11
+Indigenous Peoples OP/  No
+BP 4.10
+Involuntary Resettlement No
+OP/BP 4.12
+Safety of Dams OP/BP   No
+4.37
+Projects on International  No
+Waterways OP/BP 7.50
+Projects in Disputed   No
+Areas OP/BP 7.60
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+and describe any potential large scale, significant and/or irreversible impacts:
+N/A
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+in the project area:
+N/A
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+impacts.
+N/A
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+assessment of borrower capacity to plan and implement the measures described.
+N/A
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+on safeguard policies, with an emphasis on potentially affected people.
+N/A
+B. Disclosure Requirements
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+Audit/or EMP.
+Page 9 of 10
+
+
+﻿If in-country disclosure of any of the above documents is not expected, please explain why:
+C. Compliance Monitoring Indicators at the Corporate Level
+0
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the  Yes [  ] No [  ]  NA [ X ]
+World Bank's Infoshop?
+Have relevant documents been disclosed in-country in a public Yes [  ] No [  ]  NA [ X ]
+place in a form and language that are understandable and
+accessible to project-affected groups and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional  Yes [  ] No [  ]  NA [ X ]
+responsibilities been prepared for the implementation of
+measures related to safeguard policies?
+Have costs related to safeguard policy measures been included Yes [  ] No [  ]  NA [ X ]
+in the project cost?
+Does the Monitoring and Evaluation system of the project Yes [ ] No [ ] NA [ X]
+include the monitoring of safeguard impacts and measures
+related to safeguard policies?
+Have satisfactory implementation arrangements been agreed Yes [ ] No [ ] NA [ X]
+with the borrower and the same been adequately reflected in
+the project legal documents?
+III. APPROVALS
+Task Team Leader(s): Name: Daniel Yaw Domelevo
+Approved By
+Safeguards Advisor:   Name: Johanna van Tilburg (SA)            Date: 12-Nov-2015
+Practice Manager/     Name: Guenter Heidenhof (PMGR)            Date: 12-Nov-2015
+Manager:
+Page 10 of 10
+
+

@@ -1,0 +1,262 @@
+Page  1
+INTEGRATED SAFEGUARDS DATA SHEET 
+CONCEPT STAGE 
+Report No.:  AC2676 
+ 
+Date ISDS Prepared/Updated: 01/19/2007 
+ 
+I.  BASIC INFORMATION 
+ 
+A.  Basic Project Data 
+ 
+Country: Chile 
+Project ID: P103441 
+Project Name: Second Public Expenditure Management 
+Task Team Leader: Roberto O. Panzardi 
+Estimated Appraisal Date: April 23, 2007 
+Estimated Board Date: July 26, 2007 
+Managing Unit: LCSPS 
+Lending Instrument: Technical Assistance 
+Loan 
+Sector: Central government administration (70%);Information technology (30%) 
+Theme: Public expenditure, financial management and procurement (P);Debt 
+management and fiscal sustainability (P);Decentralization (S) 
+IBRD Amount (US$m.): 
+23.00 
+IDA Amount (US$m.): 
+0.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER 
+0.00
+0.00 
+B.  Project Objectives [from section 2 of PCN] 
+The overall development objective would be to enhance public expenditure management by 
+improving information systems and practices. Thereby, the effectiveness of financial 
+administration and assets management would be improved with gains for efficiency, 
+effectiveness and transparency.   Specifically, the project would:  
+ 
+-
+Improve fiscal monitoring by updating existing data systems and developing common 
+standards for recording financial information.  
+ 
+-
+Improve budget processes by developing new methods for resource management and by 
+strengthening the system of monitoring and evaluation.  
+ 
+-
+Strengthen financial management at the local level and especially in the most vulnerability 
+municipalities.   
+ 
+C.  Project Description [from section 3 of PCN] 
+Component 1:  
+ 
+Upgrading SIGFE and expanding its coverage to the entire public sector.  
+ 
+Page  2
+Technical assistance and training would be provided for the design, implementation and 
+monitoring of:  
+ 
+a:  SIGFE Upgrade.  
+ 
+A
+new and expanded version of SIGFE would be developed and introduced, including:  
+ 
+-
+The redesign of budget, accounting and treasury functions for all stages of budget preparation, 
+execution and control.  
+ 
+-
+The technical upgrading of software and hardware that would enable the system to be adapted 
+to a web-based platform.  
+ 
+-
+The development of system modules for specialized functions such as the management of 
+fixed assets, treasury management and financial planning, and the management of financial 
+information for the Ministry of Health relating to hospital and pharmacy services.  
+ 
+-
+Mainstreaming the functions of the SIGFE unit within DIPRES and other public agencies at 
+the national and regional level.  
+ 
+b: Extension of SIGFE to the entire Central Government.  
+ 
+Although SIGFE has been adopted by 90 percent of all central government agencies, the 10 
+percent that remain outside the system include some large and important entities such as the 
+National Treasury, the Ministry of Public Works, the Armed Forces, the Legislature and the 
+Judiciary.  They were not included in the first project because, in general, they were well served 
+by their own specialized systems of financial management.  The proposed second project would 
+bring them into SIGFE. That would entail: (i) an assessment and redesign of the systems now in 
+use by entities currently outside the system; and (ii) the customization of SIGFE to suit the needs 
+of each entity.  
+ 
+Component 2:  
+ 
+Improvement of Budget Procedures (including preparation, execution, monitoring and 
+evaluation) and of Mechanisms for Monitoring and Evaluation.  
+ 
+A
+pilot program would be introduced with an initial focus on policy modules (areas de 
+pol?ticas) in a few selected ministries or agencies. Support would be provided to develop 
+innovative methods of budget formulation for the selected policy modules and for strengthening 
+the capacity of DIPRES to undertake results-based monitoring and evaluation.  
+ 
+a. Development of new methods for resource management:  
+ 
+-
+New methodologies for resource management would be introduced for key policy modules 
+within one or more ministries/agencies.  
+ 
+-
+For each of the policy modules, budget systems would be improved, and the monitoring and 
+evaluation of budget outcomes would emphasize measurable results.  
+ 
+-
+The incentives for client agencies to participate in SIGFE would be enhanced by 
+demonstrating how performance-based management can help them improve their own 
+effectiveness and efficiency.  
+ 
+b. Strengthen monitoring and evaluation:  
+ 
+-
+The Management Control Division (Division de Control de Gesti?n) of DIPRES would be 
+strengthened.  
+Page  3
+-
+Indicators would be developed to assess the extent to which budget outcomes are consistent 
+with project development objectives in terms of efficiency and effectiveness.  
+ 
+-
+Monitoring and Evaluation (M&E) would be improved by strengthening the capacity of public 
+agencies at the central, regional and municipal level so that they may better appreciate how M&E 
+can be used as an effective management tool.  
+ 
+-
+The present system of Program Evaluation (PE) would be upgraded, especially with respect to 
+M&E.  
+ 
+-
+The number of program and project evaluations (both internal and external) conducted by 
+public sector entities would be increased from present levels.  
+ 
+Component 3  
+ 
+Strengthening the Financial Management of Municipal Governments  
+ 
+The objectives of this component  would be to improve the availability of information on 
+municipal budgets and financial transfers, to improve the efficiency with which capital transfers 
+are made by the central government to municipalities, and the enhance the delivery of municipal 
+services. Implementation would be a collaborative effort between the Office of the Comptroller 
+General (CGO) and the Sub-Secretariat for Regional Development in the Ministry of Interior 
+(SUBDERE).  
+ 
+Finance would be provided for technical assistance, goods and training to strengthen financial 
+management at the municipal level. That would include:  
+ 
+-
+Studies to evaluate the current state of financial management at the municipal level.  The 
+studies would employ the public expenditure and financial accounting methodology and the 
+institutional analysis developed by PEFA  
+ 
+-
+A
+simplified system of financial management (to be known as SIGFE-MUNI) would be 
+designed and installed in all municipalities. The system would cover budget, accounting and 
+treasury functions.  Installation at the municipal level would be phased.  It would include 
+guidelines for users together with training in information technology and processes.  
+ 
+-
+The budget classifications and accounting framework approved by CGO and DIPRES would 
+be introduced at the municipal level.  
+ 
+-
+Support would be provided for intensive training programs focusing primarily on ITC and on 
+budget and accounting techniques as well as on the use of the SIGFE-MUNI for large, medium 
+and small municipalities.  
+ 
+-
+Support for the implementation of SIGFE-MUNI would focus, in particular, on the poorest 
+100 municipalities.   
+ 
+D.  Project location (if known) 
+Santiago, Chile   
+ 
+E.  Borrower’s Institutional Capacity for Safeguard Policies [from PCN] 
+Not applicable since the project is not expected to trigger any Bank safeguard policies.   
+ 
+F.  Environmental and Social Safeguards Specialists 
+Ms Maria Isabel Junqueira Braga (LCSSA) 
+ 
+Page  4
+II.  SAFEGUARD POLICIES THAT MIGHT APPLY 
+Safeguard Policies Triggered
+ 
+Yes No TBD 
+Environmental Assessment (OP/BP 4.01) 
+ X  
+Natural Habitats (OP/BP 4.04) 
+ X  
+Forests (OP/BP 4.36) 
+ X  
+Pest Management (OP 4.09) 
+ X  
+Physical Cultural Resources (OP/BP 4.11) 
+ X  
+Indigenous Peoples (OP/BP 4.10) 
+ X  
+Involuntary Resettlement (OP/BP 4.12) 
+ X  
+Safety of Dams (OP/BP 4.37) 
+ X  
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X  
+Projects in Disputed Areas (OP/BP 7.60) 
+ X  
+Environmental Category:
+ 
+C
+-
+Not Required 
+ 
+III.  SAFEGUARD PREPARATION PLAN 
+ 
+A.  Target date for the Quality Enhancement Review (QER), at which time the PAD-stage ISDS 
+would be prepared:  03/15/2007 
+ 
+B.  For simple projects that will not require a QER, the target date for preparing the PAD-stage 
+ISDS:  N/A 
+ 
+C.  Time frame for launching and completing the safeguard-related studies that may be needed.  
+The specific studies and their timing
+1
+should be specified in the PAD-stage ISDS. 
+N/A   
+ 
+IV.  APPROVALS 
+ 
+Signed and submitted by: 
+ 
+Task Team Leader: 
+Mr Roberto O. Panzardi 
+01/12/2007 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Ms Maria Isabel Junqueira Braga 
+ 
+Comments:   
+Sector Manager: 
+Mr Fernando Rojas 
+ 
+Comments:   
+1
+Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the 
+InfoShop and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to potentially affected 
+persons.
+ 
+Page  5

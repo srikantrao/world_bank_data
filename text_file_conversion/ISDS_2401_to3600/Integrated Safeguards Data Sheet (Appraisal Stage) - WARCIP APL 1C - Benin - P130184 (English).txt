@@ -1,0 +1,300 @@
+﻿                                                                      INTEGRATED SAFEGUARDS DATA SHEET
+                                                                               APPRAISAL STAGE
+                                                                                                                                                   Report No.: ISDSA799
+Public Disclosure Copy
+
+
+
+
+                         Date ISDS Prepared/Updated: 23-May-2012
+
+                         I.   BASIC INFORMATION
+                              1. Basic Project Data
+
+                              Country:                         Africa                                     Project ID:                         P130184
+                              Project Name:                    WARCIP APL 1C - Benin (P130184)
+                              Task Team Leader:                Boutheina Guermazi
+                              Estimated Appraisal Date: 25-May-2012                                       Estimated Board Date:               12-Jul-2012
+                              Managing Unit:                   TWICT                                      Lending Instrument:                 Adaptable Program Loan
+                              Sector:                          Telecommunications (50%), General information and communications sector (50%)
+                              Theme:                           Regional integration (40%), Regulation and competition policy (20%), Infrastructure services for private sector
+                                                               development (40%)
+                              Financing (In USD Million)
+                                   Financing Source                                                                                                              Amount
+                                   BORROWER/RECIPIENT                                                                                                                 0.00
+                                   International Development Association (IDA)                                                                                       35.00
+                                   Total                                                                                                                             35.00
+                              Environmental Category:          B - Partial Assessment
+                              Is this a Repeater project? No
+
+                              2. Project Objectives
+
+                              The project development objective for WARCIP 1-C is to contribute to increasing the geographical reach of broadband networks and reducing
+                              costs of communications services in Benin.
+
+                              3. Project Description
+Public Disclosure Copy
+
+
+
+
+                              Component 1- Supporting Connectivity-(US$30.5 million): The connectivity component will focus on supporting Benin to have access to Africa
+                              Coast to Europe (ACE) submarine cable. Benin has a submarine landing station already – SAT-3 – but pricing and capacity limitations mean that
+                              the country needs a second, higher capacity international link, to improve reliability and to service anticipated increased demand from the growing
+                              number of operators in the recently liberalized market. The project will finance the cost of ACE membership fee while the Government creates a
+                              PPP framework to own and manage the landing station. The government would initially pre-finance the infrastructure and the private operators
+                              would pay the government back based on a payment schedule to be agreed.
+
+                              Component 2 - Creating an enabling environment for connectivity: This component will focus on (i) the transaction design and operating model for
+                              ownership and management of connectivity infrastructure using PPP frameworks, (ii) related open access principles to create an enabling
+                              environment for improved connectivity and (iii) strengthening of policymaking and regulatory functions in Benin
+
+                              (i)        Transactional design: The focus will be on designing a Special Purpose Vehicle (SPV) to own and operate the submarine cable landing
+                              station (and access to cable capacity), discussion of transfer of CMA signatory rights and obligation from Benin Telecom to the new SPV and
+                              support related to develop all legal and contractual instruments for the SPV. Under this activity, support will be provided to facilitate negotiations
+                              with operators in landlocked countries and development of IRU agreements or any other legal documents to secure access to capacity by
+                              neighboring countries.
+
+                              (ii)         Addressing policy, market and regulatory bottlenecks to maximize the benefits of the proposed connectivity agenda. Specifically this
+                              activity will provide support to the regulatory authority to develop regulatory instruments for open access including support for licensing the new
+                              SPV, wholesale regime for capacity and other instruments related to capacity pricing to ensure open and non discriminatory access to ACE
+                              capacity. The project will also provide technical and regulatory support to ensure redundancy between ACE and SAT-3. The project will also
+                              provide support to the Government to reposition Benin Telecom in the market.
+
+                              (iii)        Institutional strengthening: Institutional strengthening support will be offered to (i) Benin Telecom SA as the company is going through
+                              initial restructuring process to convert to a carrier carrier, (ii) Regulatory Authority to strengthen its capacity in regulating the sector, (iii) Ministry to
+                              support policy making function and (iv) initial support to the SPV in the first formative months.
+
+                              Component 3 - Project Implementation, Monitoring and Evaluation-(US$ 1.25 million)
+                              This activity will support strengthening the capacity of the Government to implement the connectivity project, including incremental cost for the e-
+                              Benin PIU which will implement this project (cost of additional year of implementation as e-Benin is expected to close before WARCIP- Benin, cost
+                              for hiring additional technical expert for the PIU) and other incremental operating costs, audits, communications, M&E, and environmental and
+                              social studies, including their implementation and monitoring.
+
+                                                                                                                                                                                  Page 1 of 4
+                               4. Project location and salient physical characteristics relevant to the safeguard analysis (if known)
+
+                               The Project will involve installing an ACE submarine cable in Cotonou, Benin. The choice of the landing site was based on the marine survey and
+                               confirmation of the topography of the seabed and the locations of the marine geophysical structures. The marine environment between the two
+                               locations sustains sensitive ecosystems but there are no proposed or established protected areas documented along the ocean part of the cable
+                               route.
+                               The project is a Category B project.
+Public Disclosure Copy
+
+
+
+
+                               5. Environmental and Social Safeguards Specialists
+
+                               Harvey D. Van Veldhuizen (OPCQC)
+                               Abdoul-Wahab Seyni (AFTCS)
+                               Rita Dambita (TWICT)
+                               Africa Eshogba Olojoba (AFTN1)
+
+                               6. Safeguard Policies                           Triggered?       Explanation (Optional)
+                               Environmental Assessment OP/BP 4.01             Yes              Civil works associated with laying down the underground cables is likely to be site-
+                                                                                                specific, small scale and easily remediable. Since the landing site is already
+                                                                                                known, An Environmental and Social Management Plan (ESMP) has been
+                                                                                                prepared, consulted upon, and disclosed in-country and at the Infoshop prior to
+                                                                                                appraisal.
+                               Natural Habitats OP/BP 4.04                     Yes              The cable will be laid in waters with marine biodiversity. The ESMP provides
+                                                                                                guidance on mitigating impacts on marine species.
+                               Forests OP/BP 4.36                              No
+                               Pest Management OP 4.09                         No
+                               Physical Cultural Resources OP/BP 4.11          Yes              The minor civil works may affect physical cultural resources. The ESMP provides
+                                                                                                guidance on handling “chance finds�?.
+                               Indigenous Peoples OP/BP 4.10                   No
+                               Involuntary Resettlement OP/BP 4.12             Yes              Potential civil works could lead to minor land take and restriction of access to
+                                                                                                assets or sources of livelihood. As the landing site is known, a Resettlement Action
+                                                                                                Plan (RAP) has been prepared, consulted upon, and disclosed in-country and at
+                                                                                                the InfoShop.
+                               Safety of Dams OP/BP 4.37                       No
+                               Projects on International Waterways OP/BP       No               While the main cables are to be placed in non-territorial, deep sea locations, OP
+                               7.50                                                             7.50—Projects on International Waterways, does not apply. The types of
+                                                                                                waterways covered under the policy do not contemplate an "open sea." For
+                                                                                                purposes of the policy, international waterways include semi-enclosed coastal
+Public Disclosure Copy
+
+
+
+
+                                                                                                waters, closed seas, national rivers flowing into those waters, and trans-boundary
+                                                                                                groundwater. It should be noted that the definition of international waterways under
+                                                                                                the policy is at variance with the definitions under the rules established by the
+                                                                                                Institut de Droit and the International Law Association, as well as the United
+                                                                                                Nations Convention on the Law of the Non-Navigational Uses of International
+                                                                                                Waters Watercourses."
+                               Projects in Disputed Areas OP/BP 7.60           No
+
+
+                         II.   Key Safeguard Policy Issues and Their Management
+                               A. Summary of Key Safeguard Issues
+
+                               1. Describe any safeguard issues and impacts associated with the Restructured project. Identify and describe any potential l arge scale,
+                                  significant and/or irreversible impacts:
+                                    The project triggers Environmental Assessment (EA) (OP/BP 4.01) – This policy requires analysis of project impacts and measures to prevent,
+                                  minimize, mitigate or compensate for the adverse impacts. The Environmental Impact Assessment, in this case the ESMP of theproject is
+                                  based on the likely route the marine cable will take between the two landing stations. The current EIA/ESMP (i) surveys the topography of the
+                                  sea bed and the locations and formations of the marine geophysical structures. (ii) provides guidance on the cable’s likely area of influence or
+                                  potential area of impact, (iii), shows that the potential impacts on habitats which lie in close proximity of the cable path will most likely result
+                                  from the construction activities in laying the cables.
+
+                                  Natural Habitats (OP/BP 4.04) the project route selection is done in such a way that it will not be allowed to adversely impact these areas. This
+                                  will be done by confirming in the marine survey phase when the cable route is being finalized, that the selection of the final cable route will be
+                                  made in outside the cable’s area of influence / corridor (requires a trench of about 1 m over a length of about 700 m, or about 700 m2). This will
+                                  ensure that any critical natural habitat areas are not impacted by the cable during construction.
+
+                                  Physical Cultural Resources (PCR) (OP/BP 4.11) – This policy seeks to avoid the disturbance and/ or destruction of physical cultural resources
+                                  by the project’s activities. During construction and maintenance / phases, the cable will not be laid closely on land to the physical cultural
+                                  resources in such areas as places of worship, buried artifacts, cemeteries, and archeological assets, etc.
+
+                                  The project triggers OP/BP 4.12 on Involuntary Resettlement due to the potential impacts: of a) ten (10) properties affected belong to six (6)
+
+                                                                                                                                                                          Page 2 of 4
+                           PAPs, out of which four (4) PAPs are individuals (persons); one PAP has experienced three impacts (house ramp, shop, garage ramp), a
+                           private institution (private school) is impacted on three levels (access ramp, kiosk, front entrance) and a public institution; Benin Telecom (main
+                           entrance).
+                           Some construction may cause demolition of permanent or temporary structures. There is expected land acquisition issue at the site the landing
+                           station crosses public domain. There will be temporary inconveniences during the construction phase and economic loss to some business
+                           concerns especially those run by SMEs. There will be some expected disturbances of quality of life and/or businesses due to permanent or
+                           temporary relocation.
+Public Disclosure Copy
+
+
+
+
+                           Since the number of PAPs (10) is less than 200, an Abbreviated Resettlement Plan (ARAP) should be prepared. However, the consultant on
+                           the country team suggested maintaining the RAP to facilitate the overall presentation since the project has not yet been included in a
+                           Resettlement Policy Framework.
+                           In order to address these impacts a Resettlement and Compensation Plan has been prepared which outlines the mechanisms in place to
+                           address compensation when needed. A grievance redress system is put in place to address any issues that may arise. Consultations took
+                           place with potentially affected people in Cotonou and their views have been integrated in 2011.
+                         2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area:
+                            NA
+                         3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+                            During the assessment, the consultants surveyed potential alternatives in the process of determining the final cable route so as to avoid the
+                           environmental impacts on. The current choices appear to be the best to mitigating social impacts and that is going through the unpaved road to
+                           FIYEGNON I district and the option to build the terminal station in a virgin compound of KIPE instead of a market area.
+                         4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower capacity to plan
+                            and implement the measures described.
+                            The implementing agency; eBenin PIU, is committed to ensuring that environmentally responsive practices are carried out during construction
+                           and maintenance operations of the project in KIPE and FIYEGNON I. Measures envisaged during implementation include: (a)incorporating
+                           environmental considerations in the planning, management and operational activities; (b) hiring an Environmental and Safety Coordinator/
+                           consultant responsible for environmental and safety issues during construction and maintenance, (c) building individual and institutional
+                           capacities if the in-country staff and the implementing agency, and; (c) allocating resources for addressing safeguards issues.
+                         5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies, with an emphasis
+                            on potentially affected people.
+                            The Key Stakeholders include current inhabitants (KIPE and FIYEGNON 1) of landing sites, the Environmental Protection Agencies of Benin,
+                           businesses and civil society grassroots technical services, local communities, and general populations in Cotonou. Issues raised in the
+                           consultations have focused on local involvement in the environmental and social management of the project and ensuring adequate capacity to
+                           supervise safeguards implementation.
+
+                           Public Consultation: meaningful and participatory consultations were held in both KIPE and FIYEGNON with potentially affected people (PAPs)
+                           and broader stake holders including NGOs, civil society during the preparation of the ESMP and ARAP to inform about the project. The
+                           consultation process also informed the affected people about the grievance procedures.
+
+                           Among the environmental NGO communities which supported the project, concerns were raised about potential impacts and resettlement
+Public Disclosure Copy
+
+
+
+
+                           including.
+                           •          the destruction of infrastructure during construction;
+                           •          loss of income during the work;
+                           •          loss of goodwill during the construction phase;
+                           •          the improbability of finding resettlement site or at least as attractive;
+                           •          the construction period;
+                           •          transparency in property valuation
+                           •          ensuring a fair and just compensation;
+                           •          Restoration of property to their initial state;
+                           Subsequently to these concerns, the recommendations of the PAPs to mitigate the negative impacts associated with relocation are:
+                           •          good assessment;
+                           •          compensate per loss
+                           •          Warn people on time to allow them to prepare;
+                           •          Insure the income lost during construction;
+                           •          compensation in cash;
+                           •          compensation before start;
+                           •          restore the functionality of the property destroyed in a brief deadline;
+                           •          ensure that the work does not last disrupting activity over a long period
+                           •          restore the property affected at its initial state.
+                           •          resettle in the area in order to secure regular customers;
+                           •          Involve PAPs in the process
+                           These concerns have been addressed.
+
+                           Local authorities particularly the City of Cotonou and the Commune of the 12th arrondissement (CA 12th) have a favorable perception of the
+                           project and are aware of the importance of the project for the country and the citizens promising to make Benin the “Digital hub for West Africa�?
+
+                         B. Disclosure Requirements Date
+
+                         Environmental Assessment/Audit/Management Plan/Other
+                           Was the document disclosed prior to appraisal?
+                           Date of receipt by the Bank                                                                               25-Apr-2012
+
+                                                                                                                                                                   Page 3 of 4
+                              Date of "in-country" disclosure                                                                                15-May-2012
+                              Date of submission to InfoShop                                                                                 15-May-2012
+                              For category A projects, date of distributing the Executive Summary of the EA to the Executive
+                              Directors
+                             Resettlement Action Plan/Framework/Policy Process
+Public Disclosure Copy
+
+
+
+
+                              Was the document disclosed prior to appraisal?
+                              Date of receipt by the Bank                                                                                    25-Apr-2012
+                              Date of "in-country" disclosure                                                                                15-May-2012
+                              Date of submission to InfoShop                                                                                 15-May-2012
+                            If the project triggers the Pest Management and/or Physical Cultural Resources policies, the respective issues are to be addressed and
+                            disclosed as part of the Environmental Assessment/Audit/or EMP.
+                            If in-country disclosure of any of the above documents is not expected, please explain why:
+
+
+
+                            C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is finalized by the project decision meeting)
+
+                            OP/BP/GP 4.01 - Environment Assessment
+                              Are the cost and the accountabilities for the EMP incorporated in the credit/loan?                     Yes [     ]       No [   ]        NA [   ]
+
+                            OP/BP 4.04 - Natural Habitats
+                              If the project would result in significant conversion or degradation of other (non-critical) natural   Yes [     ]       No [   ]        NA [   ]
+                              habitats, does the project include mitigation measures acceptable to the Bank?
+                            OP/BP 4.11 - Physical Cultural Resources
+                              Does the credit/loan incorporate mechanisms to mitigate the potential adverse impacts on               Yes [     ]       No [   ]        NA [   ]
+                              cultural property?
+                            OP/BP 4.12 - Involuntary Resettlement
+                              If yes, then did the Regional unit responsible for safeguards or Sector Manager review the             Yes [     ]       No [   ]        NA [   ]
+                              plan?
+                            The World Bank Policy on Disclosure of Information
+                              Have relevant safeguard policies documents been sent to the World Bank's Infoshop?                     Yes [     ]       No [   ]        NA [   ]
+
+                              Have relevant documents been disclosed in-country in a public place in a form and language             Yes [     ]       No [   ]        NA [   ]
+                              that are understandable and accessible to project-affected groups and local NGOs?
+                            All Safeguard Policies
+Public Disclosure Copy
+
+
+
+
+                              Have satisfactory calendar, budget and clear institutional responsibilities been prepared for          Yes [     ]       No [   ]        NA [   ]
+                              the implementation of measures related to safeguard policies?
+                              Have costs related to safeguard policy measures been included in the project cost?                     Yes [     ]       No [   ]        NA [   ]
+
+                              Does the Monitoring and Evaluation system of the project include the monitoring of safeguard           Yes [     ]       No [   ]        NA [   ]
+                              impacts and measures related to safeguard policies?
+                              Have satisfactory implementation arrangements been agreed with the borrower and the same               Yes [     ]       No [   ]        NA [   ]
+                              been adequately reflected in the project legal documents?
+
+                         III. APPROVALS
+
+                            Task Team Leader:                     Boutheina Guermazi
+                            Approved By:
+                            Regional Safeguards Coordinator:      Name: Alexandra C. Bezeredi (RSA)                                                Date: 05-Jun-2012
+                            Sector Manager:                       Name Deepak T. Bhatia (SM)                                                       Date: 24-May-2012
+
+
+
+
+                                                                                                                                                                        Page 4 of 4
+

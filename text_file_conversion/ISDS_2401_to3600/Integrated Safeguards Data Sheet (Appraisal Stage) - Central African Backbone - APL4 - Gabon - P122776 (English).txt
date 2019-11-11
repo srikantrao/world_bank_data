@@ -1,0 +1,239 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+APPRAISAL STAGE
+Report No.: ISDSA647
+b  Date ISDS Prepared/Updated: 15-Feb-2012
+0
+1 1. BASIC INFORMATION
+U)    1. Basic Project Data
+0
+0
+.U,
+Q      Country:               Africa                       Project ID:             P122776
+.      Project Name:         Central African Backbone - APL4 - Gabon (P122776)
+Task Team Leader:      Michel Rogy
+Estimated Appraisal Date: 23-Jan-2012               Estimated Board Date:   22-Mar-2012
+Managing Unit:        TWICT                         Lending Instrument:     Adaptable Program Loan
+Sector:               Telecommunications (60%), General information and communications sector (20%), General industry and trade
+sector (20%)
+Theme:                 Regional integration (50%), Infrastructure services for private sector development (40%), Regulation and
+competition policy (10%)
+Financing (In USD Million)
+Financing Source                                                                      Amount
+Borrower                                                                                 51.00
+International Bank for Reconstruction and Development                                   58.00
+Total                                                                                   109.00
+Environmental Category: B - Partial Assessment
+Is this a Repeater project? No
+2. Project Objectives
+The development objective of the proposed project is consistent with the PDO for the CAB Program: To contribute to increase geographical reach
+and usage of regional broadband network services and reduce their prices in the territory of the Republic of Gabon.
+3. Project Description
+0
+As for previous APLs, CAB4 GB will include a customizable set of activities which have been grouped under three broad headings or components.
+Component 1 - Enabling environment - This component will include the following activities: Technical Assistance (i) to promote and implement
+0     Open Access Regime & PPP for international and for national connectivity, (ii) for the review, improvement and development of the telecoms and
+03 information laws, (iii) to strengthen capacity of key stakeholders and provide policy and regulatory capacity building, (iv) to support the increase of
+broadband access including rural access as well as further liberalization in Gabon including the regulatory regime for ISPs and reaping the
+Q
+a     broadband benefits of digital switchover, (v) to support the establishment of an Internet Exchange Point (IXP) and to implement a management
+policy for Internet domain names and (vi) to assist in defining an e-government strategy and action plan leveraging new connectivity.
+Component 2 - Connectivity - This component will include the following activities on the basis of an open access and PPP structure so as to
+leverage private sector investment: (i) financing a share of GoG's $15 million contribution (consortium fee) for participating in the ACE submarine
+cable (ii) financing a terrestrial fiber optic link Libreville - Franceville - Bakumba - Lekoko / Border with Congo to interconnect with the Congolese
+link Dolisie - Mbinda (already financed under CAB3 CG) and additional links within the first phase of roll out of a national backbone and (iii) finance
+the setup of an Internet Exchange Point (IXP) and of an interconnection point to access the national backbone capacity.
+Component 3 - Project Management - This activity will (i) finance required social and environmental studies, part of the implementation,
+monitoring and capacity building, (ii) provide support needed to strengthen the capacity of GoG to implement CAB4 GA, including upgrading an
+existing Project Implementation Unit (PIU) (see below), hiring dedicated staff to work on the project to complement existing project staff (such as
+technical advisor), covering office equipment and some operating costs, trainings on Bank's project cycle and procurement and FM guidelines of
+Bank funded projects and (iii) finance audits, monitoring and evaluation (M&E) including appropriate actions to support efficient data collection, and
+communication.
+4. Project location and salient physical characteristics relevant to the safeguard analysis (if known)
+APL 4 will deal exclusively with the Republic of Gabon. For the international ACE connectivity, the final site of the landing station in Libreville is
+known and the specific civil works identified. For the national backbone Libreville - Franceville - Bakumba - Lekoko / Border with Congo and the
+additional terrestrial fiber link from Lekoni to Koulamoutou via Franceville, the exact sites and paths for civil works are not yet known.
+5. Environmental and Social Safeguards Specialists
+Lucienne M. M'Baipor (AFTCS)
+Bienvenu Rajaonson (AFTEN)
+Page 1 of 4
+
+
+﻿6. Safeguard Policies              Triggered?   Explanation (Optional)
+Environmental Assessment OP/BP 4.01  Yes
+Natural Habitats OP/BP 4.04        Yes
+Forests OP/BP 4.36                 No
+Pest Management OP 4.09            No
+0
+O      Physical Cultural Resources OP/BP 4.11  Yes
+Indigenous Peoples OP/BP 4.10      Yes
+0      Involuntary Resettlement OP/BP 4.12  Yes
+.U     Safety of Dams OP/BP 4.37           No
+Q
+a      Projects on International Waterways OP/BP  No
+7.50
+0..    Projects in Disputed Areas OP/BP 7.60  No
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential large scale,
+significant andlor irreversible impacts:
+International connectivity via the ACE submarine cable landing in Libreville. As the ESMF and ISIA indicate, no major negative impact of the
+ACE cable is expected at the outset: the small environmental disturbances caused by laying and connecting cable from the shore in Libreville to
+a submarine fiber optic cable are not expected to have any perceptible effect on the quality of the coastal waters of the Atlantic Ocean or on the
+marine environment, including fisheries and other marine species. For the cable and associated equipment onshore, there will be overall
+moderate to low negative environmental and social impacts. The number of Project-Affected People (PAPs) is 13, as the project has negative
+impacts on the living environment, mobility and livelihoods of some people located along the road between the shore and the landing station.
+National backbone connectivity (Phase 1) via a terrestrial fiber optic link. The terrestrial fiber optic link is expected to follow major railway tracks
+or roads already in place, and the project connection at the border with Congo will not lead to social conflicts because the borders between the
+two countries have been clearly delineated and materialized. Negative environmental and social impacts of the project come mainly from the
+laying of the fiber (excavation and crossing human settlements, fields, forests, rivers, etc.). The negative environmental impacts of the project
+resulting from the work will mainly concern: soil erosion (due to the unstable nature of soils), the risks of water pollution and degradation, loss of
+vegetation due to deforestation to clear the right-of-way, risks of pollution and degradation of rivers, etc. The significant negative social impacts
+will mainly concern the acquisition of land for the construction of infrastructure, the disruption of life setting, the occupation of private lands, the
+possible destruction of crops, the deforestation of woodlands, the risk of encroachment on areas of indigenous peoples and the sacred forests,
+the risk of disruption of cultural areas during the excavation, the risks of accidents during the work, the risks of disruption of networks of dealers
+(water, telephone, electricity), etc. The accurate estimate of the number of people who will be affected is not feasible at this stage of the study.
+However a rough estimate could be made according to the planned route. For the whole railway route, the number of people likely to be
+0
+0        affected by the implementation of fiber optic cable is estimated at 250, while along the terrestrial road the number is 200. Land requirements
+are estimated at 100 ha for the railway line and 80 ha for the terrestrial road. Interviews with different categories of Indigenous People players
+(leaders, women, and youth) show that the project has a lot of support; however, Indigenous Peoples have expressed broader concerns about
+0        being marginalized on development activities in the country.
+0
+.U     2. Describe any potential indirect andlor long term impacts due to anticipated future activities in the project area:
+Q         In light of the provisions made under the project for environmental and social management, potential indirect and/or long term impacts due to
+the planned activities are not anticipated.
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+The project alternatives have focused on minimizing the impacts of the cable, both from the sea to shore and over the terrestrial route. The
+ESIA identifies minimal to moderate impacts of the cable coming on shore and being placed along the terrestrial RoW. The ESMF includes: i)
+Mitigation of impacts of the fiber laying, including environmental guidelines for contractors and Environmental, Health and Safety guidelines; (ii)
+Measures in case of archaeological discovery; (iii) institutional strengthening measures; (iv) strengthening technical measures; (v) Monitoring
+and Evaluation of the CAB4 GA activities; (vi) informing stakeholders involved in the implementation of the CAB4 GA and public awareness;
+(vii) institutional responsibilities for environmental monitoring; (viii) institutional arrangements for implementing the CAB4 GA ESMF; (ix)
+recommendations for implementation. The total cost of activities is estimated at 220,000,000 XAF (440,000 US$).
+The RPF includes guidance for preparing socio-economic surveys, a census of people and assets, and appropriate eligibility and entitlement
+frameworks. All in all, the overall cost of resettlement can be estimated at 170,000,000 XAF (340,000 US$), based on estimates of affected
+populations and areas required for the implementation of projects.
+The IPPF outlines capacity building and infrastructure building mitigation measures, including: (i) consultation about and participation in project
+activities; (ii) advocacy and information for parents about the benefits of registering births; (ii) selection and implementation structures of literacy
+or mass education in the villages of Indigenous Peoples; and (iii) staffing of the four villages in sets of 16 KVA in order to feed from 40 to 50
+households and Action for the promotion of ICTs for young indigenous people in four villages situated along the main road Franceville-
+Lastourville. The total cost of activities is estimated at 196,400,000 XAF (392,800 US$).
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower capacity to plan
+and implement the measures described.
+Page 2 of 4
+
+
+﻿International connectivity via the ACE submarine cable landing in Libreville. As the Marine Survey has been performed, the final site of the
+landing station is known and the specific civil works identified, the Borrower prepared and consulted upon an Environmental and Social Impact
+Assessment (ESIA), an Environmental and Social Management Plan (ESMP) and an Abbreviated Resettlement Action Plan (ARAP) for the
+cable and any associated equipment that will be laid from the junction with the main cable through territorial waters and onto the national
+shores to the landing station in Libreville.
+National backbone connectivity (Phase 1) via a terrestrial fiber optic link. Because the exact nature and location of investments may not be
+0.       determined up front, the borrower prepared and consulted upon an Environmental and Social Management Framework (ESMF), a
+0        Resettlement Policy Framework (RPF) and an Indigenous Peoples Planning Framework (IPPF). Once the final path for the terrestrial fiber
+a      foreseen alongside existing railway tracks and roads and the final location of the associated technical sites are chosen and the specific civil
+works identified, the Borrower will prepare and consult upon an Environmental and Social Management Plan (ESMP) as well as a Resettlement
+Action Plan (RAP) or an Abbreviated RAP whichever will be appropriate and an Indigenous Peoples Plan (IPP). These safeguard documents
+0
+0        will be prepared as part of project implementation but before the terrestrial fiber optic link is laid.
+.U,
+Relevant provisions of the safeguard documents will be included in the Project Implementation Manual. Since the Program will involve PPP
+schemes, appropriate technical clauses will be prepared and included in the biddings/binding documents for the Private Entity when necessary,
+to ensure the execution of agreed environmental and social safeguards measures and implementation of the recommendations in the
+instruments. Appropriate capacity building followed by periodic joint review will be addressed to selected companies along with the duration of
+their respective contract.
+The Steering Commission in charge of providing overall technical and operative guidance, direction and coordination during project
+implementation, and will have fiduciary and governance oversight on the project (in which the Line Ministry in charge of Ecology and
+Sustainable Development is being represented), and will bear overall responsibility for the compliance of safeguards activities to National and
+Bank Policies for CAB4 GB. To this end, the Steering Commission will sign a Memorandum of Understanding ("protocole d'accord") with the
+Line Ministry in charge of Ecology and Sustainable Development, which will carry out periodical external monitoring of the implementation of
+environmental and social safeguards measures.
+The implementation and supervision of activities related to safeguards for CAB4 GB will be done as part of the overall project implementation
+by the Project Implementation Unit (PIU) CN TIPPEE in conjunction with the Line Ministry in charge of Ecology and Sustainable Development
+Ann Environment and Social Safeguards Focal Point (Point Focal Environnement et Social (PFES)) will be recruited and will be in charge of
+coordinating the implementation, the monitoring (control and audit) of social and environmental aspects and be an interface between the
+project, local authorities and other stakeholders.
+To ensure successful implementation of the project safeguard measures, capacity of the PIU CN TIPPEE as well as of the Line Ministry
+MCPEN, the ANINF and of the Line Ministry in charge of Ecology and Sustainable Development will be strengthened. To ensure effective Bank
+support, the PIU CN TIPPEE will prepare and update reports on the implementation of the safeguards instruments prepared under CAB4 GB
+before Bank supervision missions.
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies, with an emphasis
+on potentially affected people.
+Key stakeholders for consultation include current inhabitants (where applicable), the Line Ministry in charge of Ecology and Sustainable
+Development), the Line Ministry MCPEN, the ANINF, businesses and civil society. Stakeholders were interviewed in the project target areas
+0.       during field visits made by the consultants working on the environmental and social safeguards. All the key actors, called to play a part in this
+0        process, have been consulted and informed. The potentially affected persons have been consulted as well.
+The safeguards documents (ESIA, ESMP, ARAP) for the international connectivity were reviewed and cleared by the World Bank on December
+o)       29, 2011. Submission for public disclosure in the Bank InfoShop was made on January 4, 2012 and documents were disclosed publicly in local
+0
+05 language in the country on January 31, 2012.
+o        The safeguards documents (ESMF, RPF, IPPF) for the National backbone connectivity (Phase 1) were submitted in draft version to the Bank on
+December 27, 2011 and comments have been provided by the Bank's environmental and social safeguards team on January 4, 2012.
+Submission for public disclosure in the Bank InfoShop was made on January 24, 2012 for ESMF and RPF and on January 30, 2012 for IPPF
+and all documents were disclosed publicly in local language in the country on January 31, 2012. Once the final path for the terrestrial fiber
+foreseen alongside existing railway tracks and roads and the final location of the associated technical sites are chosen and the specific civil
+works identified, the Borrower will prepare and consult upon an Environmental and Social Management Plan (ESMP) as well as a Resettlement
+Action Plan (RAP) or an Abbreviated RAP whichever will be appropriate and an Indigenous Peoples Plan (IPP) which will be then publicly
+disclosed in local language in the country as well as in the Bank InfoShop.
+B. Disclosure Requirements Date
+Environmental Assessment/Audit/Management Plan/Other
+Was the document disclosed prior to appraisal?                                Yes
+Date of receipt by the Bank                                                  23-Jan-2012
+Date of "in-country" disclosure                                              31-Jan-2012
+Date of submission to InfoShop                                               24-Jan-2012
+For category A projects, date of distributing the Executive Summary of the EA to the Executive
+Directors
+Resettlement Action PlanlFramework/Policy Process
+Was the document disclosed prior to appraisal?                                Yes
+Date of receipt by the Bank                                                  23-Jan-2012
+Page 3 of 4
+
+
+﻿Date of "in-country" disclosure                                                31-Jan-2012
+Date of submission to InfoShop                                                 24-Jan-2012
+Indigenous Peoples Development PlanlFramework
+Was the document disclosed prior to appraisal?                                  Yes
+Date of receipt by the Bank                                                    25-Jan-2012
+0        Date of "in-country" disclosure                                                31-Jan-2012
+a        Date of submission to InfoShop                                                 30-Jan-2012
+If the project triggers the Pest Management andlor Physical Cultural Resources policies, the respective issues are to be addressed and
+0      disclosed as part of the Environmental Assessment/Auditior EMP.
+0
+.U)    If in-country disclosure of any of the above documents is not expected, please explain why:
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is finalized by the project decision meeting)
+OP/BP/GP 4.01 - Environment Assessment
+Are the cost and the accountabilities for the EMP incorporated in the credit/loan?  Yes [ x ]  No [  ]  NA [
+OP/BP 4.04 - Natural Habitats
+If the project would result in significant conversion or degradation of other (non-critical) natural  Yes [  ]  No [  ]  NA [ X]
+habitats, does the project include mitigation measures acceptable to the Bank?
+OP/BP 4.11 - Physical Cultural Resources
+Does the credit/loan incorporate mechanisms to mitigate the potential adverse impacts on  Yes [ X]  No [  ]  NA [
+cultural property?
+OP/BP 4.10 - Indigenous Peoples
+If the whole project is designed to benefit IP, has the design been reviewed and approved by  Yes [  ]  No [  ]  NA [ X]
+the Regional Social Development Unit or Sector Manager?
+OP/BP 4.12 - Involuntary Resettlement
+If yes, then did the Regional unit responsible for safeguards or Sector Manager review the  Yes [ X ]  No [  ]  NA [
+plan?
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the World Bank's Infoshop?  Yes [ X]  No [  ]  NA [
+Have relevant documents been disclosed in-country in a public place in a form and language  Yes [  No  NA[
+that are understandable and accessible to project-affected groups and local NGOs?
+All Safeguard Policies
+0
+0        Have satisfactory calendar, budget and clear institutional responsibilities been prepared for  Yes [ x  No  NA[
+a)      the implementation of measures related to safeguard policies?
+U)       Have costs related to safeguard policy measures been included in the project cost?  Yes [ x]  No [  ]  NA [
+0
+__       Does the Monitoring and Evaluation system of the project include the monitoring of safeguard  Yes [ X]  No [  ]  NA [
+o        impacts and measures related to safeguard policies?
+o        Have satisfactory implementation arrangements been agreed with the borrower and the same  Yes [ X]  No [  ]  NA [
+been adequately reflected in the project legal documents?
+Ill. APPROVALS
+Task Team Leader:           Michel Rogy
+Approved By:
+Regional Safeguards Coordinator: Name: Alexandra C. Bezeredi (RSA)                    Date: 20-Feb-2012
+Sector Manager:             Name Doyle Gallegos (SM)                                  Date: 20-Feb-2012
+Page 4 of 4
+
+

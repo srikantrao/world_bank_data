@@ -1,0 +1,474 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+APPRAISAL STAGE
+Report No.: ISDSA12658
+0
+Date ISDS Prepared/Updated: 21-Apr-2015
+o
+Date ISDS Approved/Disclosed: 21-Apr-2015
+I. BASIC INFORMATION
+1. Basic Project Data
+Country:        Lao People's Democratic    Project ID:  P149599
+Republic
+Project Name: Power Grid Improvement Project (P149599)
+Task Team       Rome Chavapricha
+Leader(s):
+Estimated       22-Apr-2015                Estimated    23-Jun-2015
+Appraisal Date:                            Board Date:
+Managing Unit: GEEDR                       Lending      Investment Project Financing
+Instrument:
+Sector(s):      Transmission and Distribution of Electricity (50%), Energy efficiency in Heat
+and Power (50%)
+Theme(s):       City-wide Infrastructure and Service Delivery (100%)
+Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+8.00 (Rapid Response to Crises and Emergencies)?
+Financing (In USD Million)
+Total Project Cost:      30.00            Total Bank Financing:   30.00
+Financing Gap:            0.00
+Financing Source                                                        Amount
+BORROWER/RECIPIENT                                                          0.00
+International Development Association (IDA)                                30.00
+Total                                                                      30.00
+Environmental B - Partial Assessment
+Category:
+Is this a       No
+Repeater
+project?
+2. Project Development Objective(s)
+The project development objective is to help improve efficiency and reliability of power distribution
+in the selected load areas served by EDL.
+3. Project Description
+Page 1 of 11
+
+
+﻿The main proposed project components include:
+a. Component 1: Smart metering, distribution improvement and distribution losses reduction [US$ 19
+million]: This component is expected to introduce advanced metering infrastructure (AMI)
+technology and digital meters in the project area. In addition, it is expected to help improve reliability
+of power supply and reduce losses in selected parts of the distribution network through strengthening
+of power distribution infrastructure and distribution automation. This component includes
+rehabilitating power distribution lines, upgrading of conductors, increasing transformer capacity,
+placement of capacitors for reactive power and voltage control, installation of load break switches
+and reclosers, etc.
+b. Component 2: Electric utility information system [US$ 6 million]. There are three
+subcomponents: (i) Supply and installation of optical fiber communication links to support advanced
+metering and distribution automation; (ii) Extension of Geographic Information System (GIS) to
+support power distribution operation and maintenance; and (iii) Supply and installation of an updated
+corporate financial management information system (FMIS). This sub-component is expected to take
+a modular approach in modernizing financial management in EDL, including through the
+improvement of billing and collection system, which can be subsequently scaled up to a full
+enterprise resources planning system or be disaggregated according to EDL corporate structure.
+c. Component 3: Institutional capacity building and project implementation support [US$ 5 million].
+This component is expected to include (i) financing for EDL's distribution materials and equipment
+testers and related trainings, (ii) applications of advanced metering infrastructure, (iii) applications of
+energy balancing and power flow software, (iv) consultancy for electric utility information system,
+(v) support to measure distribution system performance indicators, and (vi) project implementation
+support and incremental operating cost. This component is expected to enhance EDL institutional
+capacity to utilize new technologies to address distribution losses and improve power grid efficiency.
+d. Component 4: Contingent emergency response [US$ 0 million]. The objective of the contingent
+O
+Q)        emergency response component with a provisional zero allocation is to allow for the reallocation of
+financing in accordance with the IDA Immediate Response Mechanism in order to provide a rapid
+response to disaster or emergency events, as needed. This component would finance expenditures on
+a positive list of goods and/or specific works and services required for emergency recovery. An
+Emergency Response Manual (ERM) will apply to this component, detailing streamlined financial
+management, procurement, safeguard and any other necessary implementation arrangements.
+Status of the Project, Procurement, Financial Management and Disbursement
+EDL, supported by the Bank team, has prepared a preliminary cost estimate for all components under
+the proposed IDA Credit budget of US$ 30 million. The actual cost will be determined upon
+completion of procurement for each procurement package.
+The implementing agency EDL is expected to utilize its existing expertise in procurement, financial
+management, disbursement, and environmental and social management gained through the on-going
+REP II and the GMS Power Trade Project. The Bank team has carried out an updated assessment of
+EDL's fiduciary as well as safeguard capacity and will provide the necessary training and support
+during appraisal and implementation.
+Page 2 of 11
+
+
+﻿4. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+The geographical scope of the project is limited to the urban and suburban area of Vientiane.
+Specifically, the intended project area is located in Xaythany district of Vientiane capital, about 10
+kilometers north of Vientiane city center, with a distribution loss of around 24 percent in 2014
+(higher than national average of 13 percent). The Vientiane capital area accounts for about 40 percent
+of the country's demand for electricity. The Xaythany district comprises low- and high-income
+residential customers, commercial, and industrial customers. There are currently about 46,000
+residential and 1,100 non-residential customers in Xaythany.
+The number of kilometers of power lines to be rehabilitated is about 366 (of which 127 for medium-
+voltage). Small-scale works linked primarily to installation of meters, capacitors, upgraded medium-
+voltage transformers, power poles, and conductors of low- and medium voltage lines are linked to the
+proposed rehabilitation of existing medium and low voltage distribution lines and reinforcement of
+selected electricity networks. The planned activities within the project do not include construction of
+new transmission or distribution electrical lines. The physical installations of meters, power
+distribution equipment, communication links, computing hardware, testing equipment are expected
+to be done on existing power poles, power lines, and buildings owned by EDL or by electricity
+customers.
+No physical relocation of existing residences is expected as construction work will be done on the
+existing power distribution infrastructure. However, minor losses of private assets such as land, crops
+and fences may occur as a result of upgrading of existing or adding new power poles under the
+existing right of way. At this stage of the project design the location of the poles is not yet decided by
+EDL. However, the land area required for new poles normally is around one square foot per pole,
+which would be addressed through voluntary land donation. Loss of crops and fences would be
+compensated at replacement value. EDL will notify affected customers for any power cut
+requirements during project implementation in accordance with its established procedures, including
+those adopted under the Bank requirements.
+5. Environmental and Social Safeguards Specialists
+Juan Martinez (GSURR)
+Waraporn Hirunwatsiri (GENDR)
+6. Safeguard Policies   Triggered? Explanation (Optional)
+Environmental           Yes         Small scale installation works pertain to the rehabilitation
+Assessment OP/BP 4.01               of distribution of medium voltage (MV 22kV) and low-
+voltage (LV 0.4 kV) lines and the installation of
+electronic meters, replacement of capacitors (LV line),
+upgrading of conductors (on LV and MV lines) and
+replacement and addition of transformers and power poles
+(for MV). Given the nature of the rehabilitation works, the
+project is proposed as category B as certain mitigation
+measures and monitoring actions will have to be
+implemented during the civil works in order to minimize,
+prevent and reduce possible temporary impacts on the
+environment. Temporary environmental impacts during
+Page 3 of 11
+
+
+﻿works may include soils and water surfaces pollution due
+to disposal of fuel oils and other chemicals related to
+works and disposal of waste materials from installations
+to be replaced, and physical hazards to workers. Special
+attention will be given to management of hazardous
+electrical waste (old transformers) including handling,
+transportation and final disposal of materials
+contaminated by PCBs, as well as to impacts from
+disconnection of power lines and interruption of service to
+beneficiaries during works. These potential impacts could
+be managed through clear environmental due diligence
+obligations of contractors (which will be stipulated in the
+ESMP) and use of adequate technical construction
+standards. To ensure that the environmental issues are
+appropriately addressed, EDL prepared an ESMP
+including ECoPs that meet the applicable World Bank
+safeguard policies and national applicable legislation. The
+WBG Environmental, Health and Safety (EHS)
+Guidelines for Power Transmission and Distribution
+which has been incorporated into the ESMP and ECoP
+will be followed during project construction, operation
+and maintenance, including provisions for beneficiaries
+and worker health and safety. The ECoPs include
+specifications for the proper disposal of excess/discarded
+electric materials, lubricants, etc. In addition, proper
+dissemination of service disruption, traffic management,
+etc. will be required of all contractors. The draft ESMP
+was publicly disclosed in country on March 26, 2015 as
+well as in Infoshop on March 25, 2015 in English before
+the public consultations.
+Natural Habitats OP/BP  No           The works will take place in urban and sub-urban areas
+4.04                                 where there is no natural habitats.
+o         Forests OP/BP 4.36      No           There is no forest in project right of way. No project
+activities are involved with forest management of
+affecting forests.
+Pest Management OP 4.09 No           The project does not involve the purchase or increase use
+of pesticides. EDL does not use toxic herbicides to
+prevent vegetation growth around poles.
+Physical Cultural       Yes          The policy is triggered as precautionary measure to avoid
+Resources OP/BP 4.11                 impacts to stupas, pagodas or other cultural and historical
+resources. From the initial rights-of-way survey, no
+physical cultural resources were found within the existing
+22kV distribution right of way, which is located along the
+existing road (National Road 13 South). A detailed survey
+to identify buried physical cultural resources at the
+location of the additional poles will be conducted before
+Page 4 of 11
+
+
+﻿the work commencement. A chance find procedures were
+included in the ESMP.
+Indigenous Peoples OP/  No          The project will be implemented within the Xaythany
+BP 4.10                             district which is an urban district within Vientiane
+Capital. Indigenous Peoples communities (known as
+Ethnic Groups in Lao PDR) are not known to be present
+in the project areas.
+Involuntary Resettlement Yes       The project triggers OP4.12 Involuntary Resettlement,
+OP/BP 4.12                          and draft protocols for voluntary land donation (P-VLD)
+and a Resettlement Policy Framework (RPF) have been
+drafted and disclosed in order to address project impacts
+in compliance with both GOL and World Bank's policies.
+No involuntary land acquisition is expected as the small
+land plots for new poles required are commonly provided
+through voluntary donations. However, during
+construction and maintenance minor impacts on structures
+and standing crops and trees (trimming) cannot be ruled
+out. At this stage of the project design the location of the
+poles is not yet decided by EDL. A Resettlement Policy
+Framework (RPF) was therefore developed which
+provides principles and procedures to ensure that such
+impacts will be fully compensated at replacement value.
+The Protocols for VLD include detailed documentation
+indicating the appropriateness of the VLD, description on
+owners and users of land donated, procedures for
+consultation and disclosure, informed consent of the
+person donating the land, legal documentation indicating
+the transference of land donated, and grievance redress
+procedure and mechanism. In the unlikely event, that
+involuntary resettlement will occur in the form of impacts
+on structures or standing crops and trees, the RPF that was
+prepared by EDL will be applied. The Bank has reviewed
+the P-VLD and RPF drafted by EDL.
+Safety of Dams OP/BP   No           The project will not support construction or rehabilitation
+4.37                                of dams nor will support other investments that rely on
+the services of existing dams.
+Projects on International  No       No project activities are involved in international
+Waterways OP/BP 7.50                waterways.
+Projects in Disputed   No           No project activities are involved in disputed areas.
+Areas OP/BP 7.60
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+Page 5 of 11
+
+
+﻿and describe any potential large scale, significant and/or irreversible impacts:
+The activities involved in PGI project would include small scale installation works pertain to the
+rehabilitation of distribution medium voltage (127 km of 22 kV MV) and low voltage (239 km of
+0.4 kV LV) lines and the installation of electronic meters, replacement of capacitors (LV line),
+upgrading of conductors (on LV and MV lines) and replacement and addition of transformers and
+power poles (for MV). Given the nature of the rehabilitation works, the project is proposed as
+O
+category B and triggered Environmental Assessment OP/BP 4.01 as certain mitigation measures
+and monitoring actions will have to be implemented during the civil works both during the
+*           construction and operation and maintenance phase in order to minimize, prevent and reduce
+possible temporary and site specific impacts on the environment.
+The key impact of the project during project construction and operation phase may include soil
+and surface water pollution due to disposal of fuel oils and disposal of construction debris (from
+earth excavation for installation of 50 electrical poles) and waste materials (from replacement of
+old PCB-based transformers, meters, etc.) and physical hazard to workers. A preliminary on-site
+assessment conducted found about 30 households with structures around power poles and limit
+working space for EDL officers and contractors. The exact scale and history of household
+structures around power poles will be determined during implementation.
+In addition, trimming of trees and bushes during project installation for additional poles and
+regular maintenance of vegetation within the 22 kV distribution right-of way which is necessary to
+avoid disruption to overhead power lines and poles will have minor impact to biological resources
+in the project right of way.
+In terms of climate and geophysical hazards, as a result of the WBG Climate and Disasters Risk
+Screening Tool, the project is considered being moderately exposed to strong winds and slightly
+exposed to drought that may directly impact project implementation and operation. For instance,
+strong wind may disrupt construction activities or cause physical damages to infrastructure during
+operating phase. Excess drought may cause fire accidents, which may cause physical damages.
+The project is less exposed to flooding as most of distribution equipment is above ground-level,
+and may continue to operate safely during flooding.
+The social issues associated with the project are expected to be limited. EDL has already
+established procedures and communication methods to inform its customers of upcoming power
+cuts necessary for the project implementation. It is expected that under this project no involuntary
+land acquisition, physical relocation of households, or commercial entities due to construction
+work will occur as all the work will be done on existing power distribution infrastructure. About
+50 new power poles would be installed on private land under the existing right of way (ROW)
+along a nine-kilometer section of provincial public road and located in the field paddies. Impact
+will be minor since each pole will require only around one square foot of land. Such minor loss of
+land will be addressed through voluntary donations in line with the protocols provided in the
+Resettlement Policy Framework (RPF). In addition, minor impacts on structures and standing
+crops and trees may occur during construction and maintenance. The RPF provides principles and
+procedures to ensure that such impacts will be fully compensated at replacement value.
+A draft Environmental and Social Management Plan (ESMP), Environmental Codes of Practices
+(ECoP), Protocol for Voluntary Land Donation (P-VLD) and Resettlement Policy Framework
+(RPF) in line with the World bank's Safeguard policies, the WBG Environmental, Health and
+Page 6 of 11
+
+
+﻿Safety (EHS) Guidelines for Power Transmi ssion and Distribution and the National applicable
+legislation that appropriately addressed the environmental and social issues identified from E&S
+due diligence was prepared by EDL and reviewed by the Bank. The draft ESMP, ECoP, P-VLD
+and RPF have been disclosed in country and Infoshop prior to project appraisal. Public
+O
+consultation was held on April 3, 2015 in Xaythany District.
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+O
+in the project area:
+Lower electricity generation resulting from a reduction in distribution losses will also yield a
+reduction in C02 emissions since part of the generation comes from fossil fuel fired power plants.
+A cumulative C02 emissions saving amount of 1.27 million tons from the project is the long term
+positive impact from the project. In term of future activities in the project area that may impact
+project implementation on the safety aspect, any new temporary shelter around power poles could
+be an issue. This potentially could obstruct and limit safety working space for workers during
+project operation and maintenance. To avoid and mitigate any negative impacts, EDL will prepare
+a detailed plan to ensure no additional temporary shelter will be built around power poles.
+The socio-economic benefits include a range of positive impacts by improving the efficiency and
+reliability of power distribution in the urban and suburban areas, the strengthening of power
+distribution infrastructure and improvements of voltage drop, reduced power cuts, and reduction of
+distribution losses, which ultimately result in local economic benefits. The potential for adverse
+impacts on the existing communities is low, as the area is already heavily developed and
+populated. The physical installations of meters, communication links, computing hardware, testing
+equipment are expected to be done on existing power lines, and buildings owned by EDL or by
+electricity customers.
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+impacts.
+Not relevant.
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+O
+assessment of borrower capacity to plan and implement the measures described.
+Measures to Be Taken:
+0
+Mitigation and management have been proposed in the ESMP to address all of the impacts
+identified, including a comprehensive ECoP and P-VLD and RPF for implementation during
+construction and operation of the scheme. The ESMP details the environmental management and
+supervision organizations and responsibilities, mitigation measures, capacity training plan,
+monitoring plan, and budget estimates for implementation. Relevant elements of ESMP and ECOP
+will be incorporated into project management by EDL in order to ensure effective implementation
+throughout the preconstruction, construction and operation phases of the project.
+The draft ESMP and ECoP have been prepared by EDL and reviewed by the Bank. The draft
+ESMP and ECoP has been disclosed locally and in the InfoShop to address project impacts in
+compliance with both GOL and World Banks' relevant policies for small scale installation works
+pertain to the rehabilitation of distribution of medium voltage (127 km of 22kV MV system) and
+low-voltage (239 km of 0.4 kV LV system) lines and the installation of electric meters,
+replacement of capacitors (LV line), upgrading of conductors (on LV and MV lines) and
+replacement and addition of transformers and power poles (for MV). The ECoP will be
+incorporated as part of the contractor's contract.
+Page 7 of 11
+
+
+﻿Appropriate P-VLD of new poles installation include detailed documentation indicating the
+appropriateness of the VLD, description of owners and users of land donated, procedures for
+consultation and disclosure, informed consent of the person donating the land, legal
+O
+Q)          documentation indicating the transference of land donated; and grievance redress procedure and
+mechanism.
+In the unlikely event that involuntary resettlement will occur in the form of impacts on structures
+or standing crops and trees, the RPF that was prepared by EDL will be applied.
+Institutional and Implementation Arrangements
+The Environment and Social (E&S) Office of EDL will be responsible for the implementation of
+the proposed mitigation measures in the ESMP, ECoP, P-VLD and RPF. The E&S Office will be
+responsible for ensuring, on a day-to-day basis, that the mitigation measures and monitoring
+activities identified in the ESMP, ECoP, P-VLD and RPF are implemented. EDL capacity for
+implementing environmental and social safeguard is strong. EDL has also experienced working
+with the Bank on power sector projects (e.g. Rural Electrification Project I and II). With EDL
+capacity, they will provide training to contractors involved in project construction on the
+environmental and social safeguard. The training will be focused on: environmental protection
+laws and regulations, environmental management good practices for power grid improvement;
+including training on P-VLD.
+In addition, EDL's individual E&S consultant will provide oversight and advice to EDL as needed
+to ensure the ESMP and its monitoring plan is effectively implemented. Detailed Institutional
+arrangements are described in the ESMP.
+Gender Strategy
+Women are more vulnerable to some types of impacts, therefore a draft gender strategy has been
+prepared and included in the ESMP. It is expected that the project would proportionately benefit
+female and male population through improved efficiency and reliability of power distribution. In
+addition, targeted training of female EDL staff (about 20 percent of total staff) will be carried out
+during implementation phase, which will be monitored and evaluated under the project results
+a          framework. Potential additional financial support for Lao's electrification fund Power to the Poor
+Program from this proposed project's financial benefits will benefit more women-headed
+households.
+Institutional Capacity Assessment
+As an institution, EDL has worked with the Bank for over 20 years and is familiar with the Bank's
+environmental and social safeguard policies. Currently, one Bank-financed project with EDL are
+under supervision (Rural Electrification Phase II). In order to comply with the Bank requirement
+as well as the Government of Lao PDR, under Rural Electrification Phase I and II EDL prepared
+the Environmental Assessment Framework, the Resettlement Policy Framework and the Ethnic
+People's Development Plan. Therefore, EDL is familiar with the Bank safeguard's policies. In
+addition, EDL has been implementing numerous projects financed by other development financial
+institutions, such as the ADB, which have similar safeguards policies as those of the Bank.
+Most of the staff and internal consultants of EDL have qualified education background and
+Page 8 of 11
+
+
+﻿relevant project experience. However, the Bank will provide capacity building on safeguard for
+EDL to successfully implement the project. As was mentioned before, as part of the project
+implementation arrangements, an environmental and social team will include staff members from
+EDL Environmental and Social Department with support from the E&S consultants, having the
+O
+Q)         responsibility to minimize the social and environmental impacts of the project during the
+construction/installation and after completion of the project. The E&S team will monitor the
+preparation and implementations of the ESMP, ECoP, RPF and P-VLD as necessary to minimize
+the social and environmental impacts according to agreed policy frameworks for safeguards.
+During the project preparation, the Bank team has provided a series of informal guidance on the
+Bank's environmental and social safeguards policies to its counterparts in EDL. Numerous
+meetings and discussions of the Bank team with its counterparts in EDL have also provided many
+on-the-job training opportunities to the EDL project team. Also during the project implementation,
+formal and informal training will be provided to EDL team to properly implement the ESMP,
+ECOP, P-VLD and RPF. Training budgets have been allocated for project implementation stage as
+described in the ESMP. EDL's E&S individual consultant will assist EDL to supervise the
+implementation of the project, including the implementation of the ESMP.
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+on safeguard policies, with an emphasis on potentially affected people.
+Stakeholders include those affected directly or indirectly, as well as the local governments and
+goods and service suppliers, contractors, customers and suppliers of EDL. For stakeholders, in
+addition to individual household census and sample survey respondents, several rounds of focus
+group discussions (FGDs) and public consultations were conducted on April 3, 2015 for the
+preparation of the ESMP
+The purpose of each meeting or interview was to first convey information to the people regarding
+the project, and secondly to seek feedback to gain an understanding of their perceptions of the
+project, their aspirations and to receive their comments on how the project may affect them.
+Written documentation on the project was provided, as well as oral presentations and discussions
+with the meeting attendees or interviewees.
+B. Disclosure Requirements
+Environmental Assessment/Audit/Management Plan/Other
+Date of receipt by the Bank                              24-Mar-2015
+Date of submission to InfoShop                           25-Mar-2015
+For category A projects, date of distributing the Executive  00000000
+Summary of the EA to the Executive Directors
+"In country" Disclosure
+Lao People's Democratic Republic                         26-Mar-2015
+Comments: Following public consultations the draft Environment and Social Management Plan,
+the Environmental Codes of Practices, the Resettlement Policy Framework and the
+Protocols for Voluntary Land Donation will be revised by EDL and reviewed and
+cleared by the World Bank.
+Resettlement Action Plan/Framework/Policy Process
+Date of receipt by the Bank                              24-Mar-2015
+Date of submission to InfoShop                           25-Mar-2015
+Page 9 of 11I
+
+
+﻿"In country" Disclosure
+Lao People's Democratic Republic                          26-Mar-2015
+Comments: Following public consultations the draft Environment and Social Management Plan,
+the Environmental Codes of Practices, the Resettlement Policy Framework and the
+Protocols for Voluntary Land Donation will be revised by EDL and reviewed and
+cleared by the World Bank.
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+a         respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please explain why:
+C. Compliance Monitoring Indicators at the Corporate Level
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) Yes [ X] No [ ] NA [ ]
+report?
+If yes, then did the Regional Environment Unit or Practice Yes [ X] No [ ] NA [ ]
+Manager (PM) review and approve the EA report?
+Are the cost and the accountabilities for the EMP incorporated Yes [ X] No [ ] NA [ ]
+in the credit/loan?
+OP/BP 4.11 - Physical Cultural Resources
+Does the EA include adequate measures related to cultural Yes [ X] No [ ] NA [ ]
+property?
+Does the credit/loan incorporate mechanisms to mitigate the Yes [ X] No [ ] NA [ ]
+potential adverse impacts on cultural property?
+OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy framework/ Yes [ X] No [ ] NA [ ]
+process framework (as appropriate) been prepared?
+If yes, then did the Regional unit responsible for safeguards or Yes [ X ] No [  ]  NA [  ]
+Practice Manager review the plan?
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the  Yes [X] No [  ]  NA [  ]
+World Bank's Infoshop?
+Have relevant documents been disclosed in-country in a public Yes [ X] No [  ]  NA [  ]
+place in a form and language that are understandable and
+accessible to project-affected groups and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional  Yes [ X] No [  ]  NA [  ]
+responsibilities been prepared for the implementation of
+measures related to safeguard policies?
+Have costs related to safeguard policy measures been included Yes [ X ] No [ ] NA [ ]
+in the project cost?
+Page 10 of 1I
+
+
+﻿Does the Monitoring and Evaluation system of the project  Yes[X]  No[      NA[
+include the monitoring of safeguard impacts and measures
+related to safeguard policies?
+Have satisfactory implementation arrangements been agreed  Yes[X]  No[     NA[
+with the borrower and the same been adequately reflected in
+the project legal documents?
+III. APPROVALS
+Task Team Leader(s): Name: Rome Chavapricha
+Approved By
+Safeguards Advisor:   Name: Peter Leonard (SA)                  Date: 21-Apr-2015
+Practice Manager/     Name: Julia M. Fraser (PMGR)              Date: 21-Apr-2015
+Manager:
+Page 11 of 11
+
+

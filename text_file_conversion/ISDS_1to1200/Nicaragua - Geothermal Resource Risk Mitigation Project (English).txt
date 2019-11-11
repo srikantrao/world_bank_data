@@ -1,0 +1,452 @@
+                        INTEGRATED SAFEGUARDS DATA SHEET
+                                 CONCEPT STAGE
+
+Report No.: ISDSC14402
+
+
+Date ISDS Prepared/Updated: September 26, 2016
+
+I. BASIC INFORMATION
+
+A. Basic Project Data
+
+Country: Nicaragua                        Project ID: P155197
+                                          Additional Project ID (if any):
+Project Name: Geothermal Resource Risk Mitigation Project
+Task Team Leader: Migara Jayawardena
+Estimated Appraisal Date:                 Estimated Board Date:
+Managing Unit: GEEDR                      Lending Instrument:
+Sector: Energy and Extractives
+Theme:
+IDA Amount (US$m.): 30.00
+SREP Amount (US$m.): 15.00
+MDB/Private Financing Amount (US$m.): 24.00
+Project Developer (CCP): 46.50
+
+Environmental Category: Proposed environment category is A
+Simplified Processing             Simple [ ]               Repeater [ ]
+Is this a transferred project     Yes [ ]                  No [X]
+
+
+B. Project Objectives [from section 2 of PCN]:
+
+The development objective of the Geothermal Risk Mitigation Project is to help confirm
+resources and speed-up geothermal development in the field by mitigating risks and leveraging
+funds through a PPP arrangement.
+
+C. Project Description [from section 3 of PCN]:
+
+Project Scope: The proposed project is designed to confirm the resource base and to mitigate
+risks with the view to facilitate the development of the first operational power plant in the Casita-
+San Cristobal field. The resource confirmation and the demonstration of the first modular
+expansion of a small-scale demonstration power plant of 15-25 MW in capacity would mitigate
+the development risks and increase the prospects of additional investments to unlock the
+potential in the field. The proposed project will be developed in two project phases covering the
+multiple stages (1-4) of the geothermal development cycle, as detailed below:
+Project Phase A: Exploration Drilling for Resource Confirmation [Estimated cost $42.5
+million (includes $10 million already invested by Cerro Colorado Power, a public private
+partnership between Polaris Energy Corporation and Empresa Nicaragüense de Electricidad
+(ENEL)
+    ▪ Stage I: Surface Studies and Reconnaissance – This includes the first set of activities
+       undertaken in a geothermal development. They consists of surface reconnaissance,
+       geological, geophysical and geochemical studies, and in the case of the Casita- San
+       Cristobal Field, the drilling of a slim/core hole that has confirmed the availability of a
+       steam resource. CCP, utilizing its own funds, has already completed this activity,
+       providing a sounds basis for moving forward with stage II development.
+    ▪ Stage II: Exploration Drilling Program – An exploration drilling program of 3-5 wells
+       is being considered in order to ascertain the steam capacity (i.e. resource base) for
+       producing electricity and to estimate the cost of extracting the resource. The exploration
+       program will significantly improve the understanding of the geothermal resource and
+       provide better estimates as to the cost of the project, whereby, risks would be
+       considerably reduced.
+    ▪ Technical Assistance for Resource Confirmation – Following the exploratory drilling,
+       an industry standard (bankable) feasibility study and an Environmental and Social Impact
+       Assessment (ESIA) that meets international standards and complies with World Bank
+       Group requirements will be prepared. These important studies will evaluate and confirm
+       the commercial viability of the project and its prospects for sustainability. It will form
+       the basis for making an informed investment decision as to how to proceed with Project
+       Phase B activities.
+
+Project Phase B: Steam Field and Power Plant Development [Illustrative cost ≈$73.0
+million]
+   ▪ Stage III: Production Drilling and Steam Field Development – On the basis of the
+       resource estimate and the initially proposed expansion, the well field would be further
+       developed with additional drilling of production and injection wells; and the Steam
+       Above-Ground System (SAGS) that will transport the steam from the wells to the power
+       plant will be constructed.
+   ▪ Stage IV: Construction of Power Plant – Also based on the feasibility and ESIA
+       studies, an initial small geothermal power plant expected to be in the range of 15MW-
+       25MW will be constructed in line with industry standards. It will demonstrate the
+       viability of sustainably generating power from the geothermal steam resource in the
+       Casita-San Cristobal reservoir; and open up prospects for further modular expansion at
+       the field in the future.
+
+Project Financing through PPP Arrangement: Activities described in the proposed scope will
+be funded through additional equity from the private developer, SREP grants and credit up to
+$15 million, IDA credit up to $30 million, and potential private financing from other multilateral
+sources. The initially proposed funding arrangements, is depicted in the following figure:
+          Illustration of Proposed Project Funding Structure across Multiple Geothermal
+                                       Development Stages
+
+
+
+
+D. Project location and salient physical characteristics relevant to the analysis of
+environmental and social risks and impacts (if known):
+
+The exploitation concession covers an area of 20 square kilometers and is located on the
+southeast slope of the Casitas volcano, (part of the Cordillera de los Maribios and Reserva
+Natural Complejo Volcánico San Cristobal-Casita) in the municipality of Chinandega located in
+the Chinandega Department. The Project is situated approximately 130 km northwest of the city
+of Managua and 20 km West of the city of Chinandega. The concession is located in private
+lands overlapping the Reserva Natural Complejo Volcánico San Cristobal-Casita; Hacienda
+Algeria (99%) and Cooperativa El Higueral (1%). No human settlements or communities are
+located within the geothermal concession area (20 km2).
+
+The Reserva Natural Complejo Volcánico San Cristobal-Casita, is a protected area of 179.64
+km2 under the category of Natural Reserve belonging to the National System of Protected Areas
+(Servicio Nacional de Areas Protegidas SINAP) of the Republic of Nicaragua . It was
+established by Decree-Law 1320 of 1983. It is located in the department of Chinandega, 130 km
+north of the Pacific region of Nicaragua km of the capital Managua. The protected area consists
+of a chain of five volcanic cones, including the San Cristobal one, the country's highest volcano.
+The reserve is divided into six management zones: Core Area, Conservation Recovery Area,
+High Fragility Area, and Sustainable Production Zone in addition to the buffer zone. The
+geothermal development activities of the Project are proposed to take place within the
+Sustainable Production Zone and the Core Zone, while the already built access road and the
+future transmission line also affect a narrow strip within the Buffer Zone of the protected area.
+Most of the impacts will however be generated within the Sustainable Production Zone, where at
+least two well pads and the power plant are planned to be sited. The already constructed well pad
+and an additional proposed well pad are located within the Core Zone.
+
+Nicaraguan legislation approved in 2006-2008 (through amendments to the Geothermal Law,
+article 7; to the General Environmental and Natural Resources Law, article 116; and to the
+Protected Areas Bylaw, article 22) allows geothermal exploration and development in protected
+areas, provided appropriate environmental assessment and mitigation measures are applied and
+included in the Management Plan of the Protected Area
+
+Geothermal development is a multi-stage process, and the Casita-San Cristobal field
+development began in 2009. Surface studies (geological, geophysical, and geochemical) have
+already been completed, a well pad constructed including its associated access road, and a slim
+hole drilled that has led to the confirmation of the availability of a steam resource. Based on this
+favorable result, it is proposed to proceed with the remaining stages of development towards the
+demonstration of a small operational power plant (phase B of the Project).
+
+Compliance with Nicaragua’s permitting requirements:
+
+Following Nicaraguan legislation, CCP prepared Environmental Impact Studies (EIS), Category
+II 1 at the request of the Environmental and Natural Resources Ministry (Ministerio del Ambiente
+y los Recursos Naturales or MARENA). In 2009, MARENA granted CCP with an
+environmental permit for the project to conduct exploration activities from three drilling sites
+(two of them within the core zone of the Natural Reserve (Resolución Administrativa No. 017-
+2009 - Nov 23, 2009) in the exploration concession area of 100 km2. Based on the environmental
+permit, CCP carried out in 2009-2011 an initial geothermal exploration program in the area,
+which comprised surface investigations, construction of an access road and drilling of a single
+slim hole within the core zone of the Natural Reserve. For the follow-on exploitation phase, CCP
+prepared an EIA category II covering an area of 20 km2, for which an environmental permit was
+granted by MARENA on July 13, 2015. The proposed activities covered by this permit are:
+construction and installation of four (4) platforms for production and reinjection wells, civil
+works and ancillary installations necessary for the drilling program and the construction of the
+power plant. The permit was granted with a series of conditional requirements that need to be
+fulfilled prior to starting any exploitation activities including the drilling of additional wells.
+These requirements include: a presentation of the updated and specific environmental
+management program including a contingency plan, control and follow-up plan; environmental
+quality plan; waste management plan; noise management plan; and training and environmental
+education plans. Additional permit conditions have to do with the biodiversity component of the
+project, for which MARENA is requesting flora and fauna inventories, based on the International
+Union for Conservation of Nature (IUCN) Red List of Threatened Species, to identify presence
+of migratory, endemic or resident species in the area of the concession.
+
+
+
+
+1
+ CATEGORY II - All works, projects, industries and activities considered in this Environmental Category II
+can cause a potential high impact on the environment and are subject to an Environmental Impact Study.
+E. Borrower’s Institutional Capacity for Effective ESMS:
+
+Currently, CCP doesn’t have an ESMS in place consistent with the WB Performance Standards.
+However, Polaris, the primary shareholder of CCP, is an experienced geothermal developer that
+constructed and is currently operating the San Jacinto-Tizate geothermal project in Nicaragua,
+which is being financed by IFC and other multi-lateral development partners. Therefore, it has
+prior experience with the implementation of the IFC performance standards and has an ESMS in
+place for the San Jacinto-Tizate operation. Polaris is proposing the approach of transferring
+technical and operational capacity by adopting the applicable ESMS procedures/protocols from
+the San Jacinto drilling operation (which is currently ongoing) to the CCP and applying them to
+the Casita-San Cristobal exploration drilling program. Additional work will be undertaken by
+CCP to develop the ESMS further to adapt it to meet the specific requirements of the Casita-San
+Cristobal project. This approach will help them take advantage of the valuable experience
+developed by Polaris throughout the development of the San Jacinto field and utilize staff with
+expertise that will help transfer good operational practices for implementing the ESMS during
+the implementation of the Casita- San Cristobal Project.
+
+
+F. Environmental and Social Safeguards Specialists on the Team:
+
+Noreen Beg/ Ximena Herbas Ramirez                         Senior Environment Specialists
+Peter LaFere/Carlos Perez Brito                           Senior Social Specialist
+
+II. PERFORMANCE STANDARDS THAT MIGHT APPLY
+
+Performance Standards (please explain why)                        Yes          No         TBD
+PS 1: Assessment and Management of Environmental                   X
+and Social Risks and Impacts
+Given that the activities of the proposed Project will be implemented within a protected area, the
+San Cristobal Casita Natural Reserve, including inside the core area of the Reserve, the World
+Bank has classified the proposed project as Category A (for all phases), requiring full
+Environmental and Social Impact Assessment (ESIA). Since the project will finance both phases,
+the Borrower will be required to comply with World Bank Performance Standards throughout
+the entire Project.
+Following Nicaraguan legislation, CCP prepared Environmental Impact Studies (EIS), Category
+II 2 at the request of the Environmental and Natural Resources Ministry (Ministerio del Ambiente
+y los Recursos Naturales MARENA). In 2009, MARENA granted CCP with an environmental
+permit for the project to conduct exploration activities from three drilling sites (two of them
+within the core zone of the Natural Reserve (Resolución Administrativa No. 017-2009 - Nov 23,
+2009) in the exploration concession area of 100 km2. Based on the environmental permit, CCP
+carried out in 2009-2011 an initial geothermal exploration program in the area, which comprised
+
+2
+ CATEGORY II - All works, projects, industries and activities considered in this Environmental Category II
+can cause a potential high impact on the environment and are subject to an Environmental Impact Study.
+Performance Standards (please explain why)                          Yes          No         TBD
+surface investigations, construction of an access road and drilling of a single slim hole within the
+core zone of the Natural Reserve. This has resulted in favorable findings indicating the existence
+of high temperature steam, which if extracted, could be suitable for power generation.
+For the follow-on exploitation phase, CCP prepared an EIA category II covering an area of 20
+km2, for which an environmental permit was granted by MARENA on July 13, 2015. The
+proposed activities covered by this permit are: construction and installation of four (4) platforms
+for production and reinjection wells, civil works and ancillary installations necessary for the
+drilling program and the construction of the power plant. The permit was granted with a series of
+conditional requirements that need to be fulfilled. Some of these requirements include a
+presentation of the updated and specific environmental management program including a
+contingency plan, control and follow-up plan, environmental quality plan, waste management
+plan, noise management plan, training and environmental education plans among others. Other
+conditions have to do with the biodiversity component of the project, for which MARENA is
+requesting flora and fauna inventories using the International Union for Conservation of Nature
+(IUCN) list and defining if there are migratory, endemic or resident species in the area of the
+concession.
+As the EIA for the follow-on exploitation phase was undertaken to meet local requirements and
+hence does not consider the WB performance standards, it will need to be revised taking into
+consideration the requirements for complying with WB Performance Standards. This review will
+be carried out independently and it may need several additional studies and Environmental and
+Social Action Plans to be developed to bring the ESIA and the management aspects of the
+project in line with the World Bank performance standards.
+Also, it would be useful for CCP to strengthen the project’s socioeconomic baseline, through the
+development of a Social Assessment that will be included in the ESIA and that will contribute to
+the development of more effective Environmental and Social Action Plans. This Social
+Assessment is expected to include: (a) a more complete picture of land tenure, ownership, and
+use within the project site and concession area, (b) current economic/livelihood activities within
+the project’s influence area (c) more detailed information of sources of potable water, water
+usage by the local community within the project site and concession area, water-quality data, and
+periodic monitoring of water supplies (ground and surface) within the project site and concession
+area, (d) issues related to land/resource access and any impacts thereof as a result of CCP’s
+activities, (e) more precise demographic data for the project site and the concession area, (f)
+presence of indigenous peoples as identified under PS 7, (g) archeological, paleontological,
+historical, cultural, artistic, or religious value of the project area.
+
+The Social Assessment will also provide a basis for the development of a stakeholder
+engagement and consultation strategy to ensure that the World Bank consultation requirements
+for a Category A project are met.
+
+Upon completion of Phase A and once the geothermal resources have been confirmed, additional
+assessments will be carried out incorporating the updated information. This is a critical mid-
+project decision point regarding the manner in which Phase B will be implemented. Along with
+the technical studies, an ESIA for the phase B will be prepared with the additionally available
+Performance Standards (please explain why)                     Yes          No          TBD
+information. This phase B ESIA and ESMS would need to comply with World Bank
+Performance Standards, and will be one key consideration that will determine how to proceed
+with Phase B activities. In addition, the ESMS will also be updated to include the activities of
+Phase B as appropriate. The new ESIA and revised ESMS will be key criteria for deciding
+whether to move forward with the implementation of Phase B and disbursement of funds. CCP
+will meet the requirements of the updated ESMS and the Phase B ESIA in compliance with the
+World Bank Performance Standards.
+
+
+The key environmental and social impacts and risks associated with the project’s construction
+phase (during drilling) are (a) potential contamination of surface and ground water, as well as
+soils, from drilling fluids, geothermal fluids, muds, and cuttings associated to any wells drilled to
+date or additional wells, and construction waste (b) increased water demand from drilling, well
+testing, and construction activities (c) potential air emissions, noise, and solid and hazardous
+waste generated from construction activities and/or accidental spills, (d) transportation of heavy
+equipment and machinery and increased hazards thereof (e) potential health and occupation risks
+to construction workers from working with extremely hot components and handling and
+operating heavy equipment and machinery; and (during SAGS and power plant construction), (f)
+incremental impacts associated with the easement and expansion of existing access roads, the
+construction of a demonstration 15-25 MW small power plant along with a substation and a 35.8
+kV transmission line extending 5.8 km to the substation.
+
+Once the project is completed and the small demonstration power plant is in operation, the key
+environmental and social impacts and risks are: (g) potential soil and water contamination from
+re-injected process water and drilling wastes (muds, cuttings) (h) increased emissions of
+potentially hazardous (and malodorous) air pollutants such as hydrogen sulfide (H2S) and
+mercury (i) community and worker exposure to explosions, well blowouts, pipeline failures,
+induced seismicity and/or ground subsidence (j) water consumption for supplementary activities
+associated with power plant operations (primarily from water use in sanitary facilities and
+associated construction camps and within the generation facility). and (k) hazardous working
+conditions for plant personnel (e.g. increased exposure risks to toxic gases, working in confined
+spaces or heights, exposure to heat, high pressure gases, and noise). These impacts and risks can
+be managed with existing pollution prevention and control technologies and with standard
+industry and environmental management practices, such as those described in IFC’s EHS
+Guidelines: http://www.ifc.org/ehsguidelines and the EHS guidelines for Geothermal Power
+Generation http://goo.gl/W3hvY6
+
+During appraisal, the different elements of the environmental, health and safety and social
+management system, its plans and procedures will be evaluated if additional measures and
+actions are identified an Environmental and Social Action Plan will be developed.
+
+PS 2: Labor and Working Conditions                                  X
+For the construction of civil works for the exploitation phase, CCP expects about 50 people to be
+employed by contractor and no workers camp is expected. These will include civil engineers,
+surveyors, machine operators and experienced drivers for earthworks; as well as bricklayers,
+Performance Standards (please explain why)                     Yes          No       TBD
+welders, helpers and guards. Unskilled workers and guards may be hired from the communities
+near the project.
+
+For building platforms and drilling of wells, CCP expects to hire about 60 employees. An
+estimated 50% of qualified personnel will be recruited nationally, while most of the unskilled
+workers, helpers and security personnel will be hired locally.
+
+The WBG team will review the specific HR processes and practices for the Casita-San Cristobal
+project in line with the requirements of the PS including some requirements in the contracts for
+third party employers as well as the process for a grievance mechanism and occupational health
+and safety practices.
+PS 3: Resource Efficiency and Pollution Prevention                    X
+Air Emissions/Air Quality: Air emissions will consist primarily of carbon dioxide (CO2) and
+hydrogen sulfide (H2S) in the waste steam and from around well heads. These two parameters
+will be measured continuously during drilling operations and ambient levels will be measured on
+a semi-annual basis around well platforms, power plant, rock muffler and silencers.
+Greenhouse Gas (GHG): This project is expected to positively reduce the climate footprint of
+power generation in the country displacing the utilization of less environmentally friendly bunker
+fuel for producing electricity. The client will be asked to report gross and net emissions
+Solid waste: The main solid waste, apart from construction waste, will be dried drilling mud and
+cuttings containing potentially hazardous heavy metals, drilling fluids residues, or other
+contaminants. Other solid waste generated during generation phase would include cooling tower
+sludge, lubricants and plastic bags.
+
+Water consumption and extraction: Well drilling typically is a water intensive process. Water
+wells will be drilled in order to obtain the necessary water primarily for the drilling operations.
+The company needs to undertake a hydrogeological evaluation to gather information about
+aquifers, yields, permeability, users, gradients, abstraction, quality, etc. in order to understand
+impacts to the resource, and so as to elaborate on mitigation measures, etc.
+
+
+Regarding resource conservation and energy efficiency to be implemented in the project, the
+WBG team will evaluate the process CCP will implement to ensure that resource and energy
+efficiency is examined throughout the different phases of the project (exploitation, construction
+and operation), and the monitoring measures and indicators to benchmark the performance of the
+project on these aspects following best practices for the industry.
+
+PS 4: Community Health, Safety, and Security                             X
+The World Bank team will assess if the company’s management system includes a Health Management
+Plan to address matters regarding the health and wellbeing of construction workers, project staff and
+nearby landowners, a Transport/Road Safety and Logistics Management Plans with measures to ensure
+safety of road users during construction, that appropriate Emergency Response Plans have been
+developed include procedures to respond to accidental leaks, spills, emissions, fires, and other unforeseen
+impacts ( including natural disaster events such as landslides, unstable terrain, volcanic eruptions and
+floods). Issues pertaining to management of security personnel will also be appropriately specified in line
+with this Performance Standard. Also the WBG team will review if the system includes training of
+Performance Standards (please explain why)                     Yes              No          TBD
+security personnel on Voluntary Principles on Security and Human rights.
+
+
+PS 5: Land Acquisition and Involuntary Resettlement                 X
+The land requirement for this project will affect five landowners in the area with whom easement
+rights for development affecting 36 ha were negotiated and concluded in the period May 2009 –
+May 2010. The Government of Nicaragua imposed easement rights for the benefit of CCP on
+one of the five owners. The easement rights would not affect communities’ access to natural
+resources such as water, and no physical displacement or economic displacement have occurred
+or are expected to occur as a result of this project.
+
+CCP will commission a Completion Audit to determine whether the five easements were
+compensated in accordance with PS 5 and, if necessary, develop a Social and Environmental
+Action Plan, as required by performance standard, prior to appraisal to identify additional
+corrective actions that would be required to comply with the policy. If any further easements are
+identified, a Livelihood Restoration Plan will be developed and included with the Environmental
+and Social Action Plan.
+
+As the project is likely to be conducted in several phases and as there are likely further
+easements required of which the exact nature and location is not yet fully known, a Livelihood
+Restoration Framework will also be developed in accordance with PS 5 to describe the principles
+for the conclusion of any further easements, land acquisition, or restrictions to the use of natural
+resources.
+The
+PS 6: Biodiversity Conservation and Sustainable                     X
+Management of Living Natural Resources
+
+The Reserva Natural Complejo Volcánico San Cristobal-Casita, is a protected area of 179.64
+km2 under the category of Natural Reserve belonging to the National System of Protected Areas
+(Servicio Nacional de Areas Protegidas SINAP) of the Republic of Nicaragua . It was
+established by Decree-Law 1320 of 1983. It is located in the department of Chinandega, north of
+the Pacific region of Nicaragua, 130 km. of the capital Managua. The protected area consists of a
+chain of five volcanic cones, including the San Cristobal one, the country's highest volcano. The
+reserve is divided into six management zones: Core Area, Conservation Recovery Area, High
+Fragility Area, Sustainable Production Zone in addition to the buffer zone. The geothermal
+development activities of the Project are proposed to take place within the Sustainable
+Production Zone and the Core Zone, while the already built access road and the future
+transmission line also affect a narrow strip within the Buffer Zone of the protected area. Most of
+the impacts will however be generated within the Sustainable Production Zone, where at least
+two well pads and the power plant are planned to be sited. The already constructed well pad and
+an additional well pad are located within the Core Zone.
+
+CCP must undertake a biodiversity assessment of related risks in all phases of the project in strict
+conformance with Performance Standard 6 that will evaluate whether the Project is located
+within Critical Habitats for phase A and B. The results of the biodiversity assessment will be
+Performance Standards (please explain why)                       Yes          No          TBD
+included in the ESIA. The assessment exercise should include a comprehensive evaluation and
+understanding of the landscape in which the project is located, including the extent of
+anthropogenic modification and or the presence of natural habitat or critical habitat; the
+biodiversity values of the project area, the direct and indirect impacts of the project on the
+biodiversity values, and recommendations of appropriate mitigation measures following the
+mitigation hierarchy: avoidance, minimization, remedy/restoration and compensation/offset of
+any residual (unavoidable) impact. Also, the alternatives analysis of the project will need to be
+assessed to demonstrate that the project prioritized ‘avoidance’ of impacts on sensitive
+biodiversity areas before considering mitigation and that there were no other viable alternatives
+within the region for development of the project.
+
+PS 7: Indigenous Peoples                                                                       X
+The EIA did not identify any groups that meet the definition in PS7 in the project area.
+However, given the presence of IP in Chinandega or the possibility that certain groups have a
+collective attachment to distinct habitats or natural resources within the project area, the Social
+Assessment that will be prepared to complement the existing EIA will include specific further
+information on whether any IP will be impacted by the project. If presence of IP is confirmed
+and there are impacts generated by the Project, further requirements will be prepared based on
+PS 7.
+
+PS 8: Cultural Heritage                                               X
+There is no cultural heritage management plan detailed in the existing EMP and EIA. The Social
+Assessment that will be prepared to complement the existing EIA will include an assessment of
+whether the site as a whole, or a specific part thereof, has archeological, paleontological,
+historical, cultural, artistic, or religious value. Chance finds procedures will be incorporated into
+the EIA and Environmental and Social Action Plans.
+
+
+
+III. SAFEGUARD PREPARATION PLAN
+
+A. Target date for the Quality Enhancement Review (QER), at which time the ESRS would be
+   disclosed and the PAD-stage ISDS would be prepared: March, 2017
+
+B. For Category C or Category FI projects that do not require an ESRS, the target date for
+   preparing the PAD-stage ISDS: N/A
+
+C. Time frame for launching and completing the safeguard-related studies that may be needed.
+   The specific studies and their timing3 should be specified in the PAD-stage ISDS:
+
+
+
+3   Reminder: The Bank's Access to Information Policy requires that safeguard-related documents be disclosed before appraisal (i)
+at the InfoShop and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to potentially
+affected persons.
+   Resettlement Policy Framework/ Resettlement Action Plan (RAP):
+   EIA/EMP for drilling/power plant construction: Completed in July 2014. To be updated as
+   needed and as requested by MARENA.
+
+IV. APPROVALS
+
+ Signed and submitted by:
+ Task Team Leader:                  Migara Jayawardena                            Date
+ Approved by:
+ Regional Safeguards Coordinator:   Agi Kiss                                      Date
+   Comments:
+ Practice Manager:                  Antonio Barbalho                              Date
+   Comments:
+

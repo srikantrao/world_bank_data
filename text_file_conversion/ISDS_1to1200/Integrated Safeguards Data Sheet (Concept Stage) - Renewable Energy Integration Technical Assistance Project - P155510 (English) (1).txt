@@ -1,0 +1,134 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+IDENTIFICATION / CONCEPT STAGE
+0                                               Report No.: ISDSC13010
+Date ISDS Prepared/Updated: 28-May-2015
+I. BASIC INFORMATION
+A. Basic Project Data
+Country:          Turkey                     Project ID:   P155510
+Project Name:     Renewable Energy Integration Technical Assistance Project
+Team Leader(s): Mikul Bhatia
+Estimated Date    30-Sep-2015
+of Approval:
+Managing Unit:    GEEO3                      Lending       Lending Instrument
+Instrument:
+Sector(s):        General energy sector (100%)
+Theme(s):         Climate change (50%), Other environment and natural resources management
+(50%)
+Financing (in USD Million)
+Total Project Cost:   1                    Total Bank Financing: 0
+Financing Gap:        0
+Financing Source                                                           Amount
+Clean Technology Fund                                                             1
+O
+-       Environment       C - Not Required
+Category:
+0
+B. Project Development Objective(s)
+To assist Turkey in enhancing capacity for transmission planning as well as grid management in
+anticipation of increased share of renewable energy in the generation mix.
+C. Project Description
+The project involves capacity enhancement in the areas of : (i) Indicative Generation and
+Transmission Scenario Planning, and (ii) SCADA Based Smart-grid systems.
+Component -1: Capacity enhancement for transmission planning under a range of indicative
+generationcapacity expansion scenarios.
+This component would strengthen the transmission planning capabilities at TEIAS in wake of
+increased penetration of renewable energy - especially wind energy over the medium-long term. The
+component involves four steps:
+a) Early training on transmission planning tools: This training would provide an update on the
+
+
+﻿various generation and transmission planning tools available in the market, while providing deeper
+insights into some tools as an example. The training would be conducted at the World Bank office in
+Washington DC.
+O
+U       b) Review of planning issues and planning tools: Reviewing the methodology, available planning
+tools, data requirements and training needs for comprehensive development of planning capacity in
+.2      TEIAS.
+c) Procurement of planning tool: Select and procure a new planning tool that best meets TEAIS's
+requirements.
+d) Training of TEIAS staff for using the new planning tools: Create capacity within TEIAS to handle
+the new planning tools as well as strengthen their capability to address the more complex planning
+aspects arising from the introduction of greater amounts of renewable energy, as well as private
+sector led capacity increase. The training activity would also support the use of the planning tool for
+the next planning cycle and design studies to develop a renewable energy integration strategy for the
+100 GW capacity augmentation plan. This design studies would be an in-house activity conducted by
+TEIAS staff. It would involve:
+(i) Development of planning datasets based on available and new data
+(ii) Specification of planning problem and scenarios
+(iii) Planning analysis for Renewable Energy Integration for 20 GW Wind Scenario and for Long
+Term Generation Augmentation in Turkey.
+Component-2: Capacity enhancement for SCADA based Smart grid system.
+Availability and performance of SCADA/EMS System have crucial importance for reliable operation
+of Turkish Power System. Upgrade of SCADA/EMS system at TEIAS has been taken-up under the
+APL-6 and REIP projects. It involves upgrade of the hardware and software of 11 existing control
+centers under the TEIAS SCADA/EMS System and addition of new functions to this system.
+Strengthening of the SCADA/EMS System as a result of this upgrade project shall also improve
+capability for integration of large amount of renewable energy resources to Turkish Power System.
+For effective use of the SCADA and EMS functionalities, TEIAS operators and engineers who are in
+a charge of operation of the Turkish Power System, especially new staff needs training. TEIAS
+engineers who are responsible for technical support to operational staff and first level maintenance of
+SCADA/EMS System hardware and software need training. Moreover, works related to extension of
+the system such as preparation of databases and displays for addition of new substations and power
+plants to this system as well as works related modifications of the databases and displays as well as
+in parallel with the changes and additions to the power system shall be responsibility of TEIAS
+engineers. Training courses shall also cover new functions such as functions related to Wind Energy
+Desk for wind energy resources to be implemented at NCC and ENCC within the scope of this
+project.
+D. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+The project would be conducted broadly at the TEIAS office in Ankara, Turkey.
+E. Borrower's Institutional Capacity for Safeguard Policies
+
+
+﻿F. Environmental and Social Safeguards Specialists on the Team
+Esra Arikan (GENDR)
+Zeynep Durnev Darendeliler (OPSOR)
+II. SAFEGUARD POLICIES THAT MIGHT APPLY
+Safeguard Policies            Triggered?    Explanation (Optional)
+Environmental Assessment OP/  No            The technical assistance actviity is focused on
+BP 4.01                                     improved planning capabilities to address power
+system security concerns arising from increased
+share of renewable energy (wind) in the
+generation mix. It involves the selection and
+procurement of new software tools for assessing
+different generation capacity scenarios and for
+transmission planning based on the same. It
+would involve traning on the software,
+including technical support to TEIAS staff
+during one exercise of assessing generation
+capacity scenarios and transmission planning
+analysis. While the direct linkages of this
+activity with environmental and social
+safeguards are limited, the safeguard specialists
+on the Bank team would engage with the TEIAS
+on the broader safeguards aspects involved in
+the transmission planning process.
+Natural Habitats OP/BP 4.04   No
+Forests OP/BP 4.36            No
+Pest Management OP 4.09       No
+Physical Cultural Resources OP/  No
+BP 4.11
+Indigenous Peoples OP/BP 4.10  No
+Involuntary Resettlement OP/BP  No
+4.12
+Safety of Dams OP/BP 4.37     No
+Projects on International     No
+Waterways OP/BP 7.50
+Projects in Disputed Areas OP/BP No
+7.60
+III. SAFEGUARD PREPARATION PLAN
+Appraisal stage ISDS required?: No
+IV. APPROVALS
+Team Leader(s):       Name: Mikul Bhatia
+
+
+﻿Approved By:
+Safeguards Advisor:       Name: Qays Hamad (SA)                                 Date: 30-May-2015
+Practice Manager/         Name: Ranjit J. Lamech (PMGR)                         Date: 01-Jun-2015
+U        Manager:
+S        1Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the
+InfoShop and (ii) in country, at publicly accessible locations and in a form and language that are accessible to potentially
+affected persons.
+U
+
+

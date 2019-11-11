@@ -1,0 +1,416 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+CONCEPT STAGE
+Report No.: ISDSC9818
+Date ISDS Prepared/Updated: 16-Dec-2014
+Date ISDS Approved/Disclosed: 16-Jan-2015
+I. BASIC INFORMATION
+A. Basic Project Data
+Country:         China                      Project ID:   P148599
+Project Name:    Hebei Clean Heating Project (P 148599)
+Task Team        Gailius J. Draugelis
+Leader(s):
+Estimated        21-Sep-2015                Estimated     25-Feb-2016
+Appraisal Date:                             Board Date:
+Managing Unit: GEEDR                        Lending       Investment Project Financing
+Instrument:
+Sector(s):       Energy efficiency in Heat and Power (100%)
+Theme(s):        Pollution management and environmental health (40%), Climate change (10%),
+Other urban development (50%)
+Financing (In USD Million)
+Total Project Cost:     188.70             Total Bank Financing:    91.00
+Financing Gap:            0.00
+Financing Source                                               Amount
+Borrower                                                         97.70
+International Bank for Reconstruction and Development            91.00
+Total                                                           188.70
+Environmental A - Full Assessment
+Category:
+Is this a        No
+Repeater
+project?
+B. Project Objectives
+9.     The proposed project development objective (PDO) is to improve the efficiency and
+environmental performance of heating services in project areas of selected municipalities of Hebei
+Province.
+C. Project Description
+The proposed project consists of two components: (A) District Heating Subprojects and (B) Project
+
+
+﻿Management Support and Technical Assistance. Currently, Component A includes physical
+investments in four subcomponents. The total estimated project costs are RMB 1.160 billion (US
+$188.7 million equivalent). The proposed indicative financing plan includes an IBRD loan of US$91
+million, about 48% of total currently estimated project costs, and counterpart funds comprising
+corporate loans and connection fees from new construction. As standard practice, the proposed
+IBRD loan will be onlent by the Ministry of Finance to Hebei Province, which will sign a Project
+Agreement with the Bank, taking primary responsibility for overall project implementation. The
+IBRD loan will be onlent by the Provincial Finance Bureau to the final administrative unit (i.e.
+county town) responsible for the project areas. The final administrative unit will onlend the proceeds
+to the final sub-borrowers, the heating companies, who will be responsible for implementing their
+subproj ects.
+Component A: District Heating Subprojects
+Subproject Al: Chengde District Heating Subproject (estimated cost RMB 282 million; indicative
+Bank financing $20 million, RMB 123 million equivalent)
+Chengde, a prefecture level city located northwest of Beijing and home of Qing dynasty's summer
+palace - a UNESCO world heritage site - plans to improve district heating services in the old
+downtown area. The DH system is supplied by a coal fired 2x330MW Combined Heat and Power
+(CHP) plant for base load heating and a 2x58MW coal fired peak load boiler. The project proposes to
+finance (a) DH network extension of about 6.7 km (channel length) new pipeline; (b) 23 group
+substations, and 153 building level substations; and (c) DH primary network and secondary network
+rehabilitation, replacement of 4.4 km primary and 57 km secondary pipelines, installation of 64 high
+quality valves in primary network and 753 balancing valves in secondary network. The investments
+will extend the district heating network by 2.9 million m2, including replacing small boilers that
+supply about 87,000 m2 of heating area. The total project heating area is 15.25 million m2. The
+proposed sub-borrower is the Chengde Heating Group Company, Ltd., a state-owned enterprise and
+the only major district heating company in Chengde.
+o
+Subproject A2. Zhangjiakou Qiaodong District Heating Subproject (estimated cost RMB 342
+million; indicative IBRD financing US$ 28 million, RMB 172 million equivalent)
+o      Zhangjiakou, a prefecture level city that is located northwest of Beijing plans to improve the
+environmental performance and energy efficiency of heating services in the Qiaodong District in the
+city center. The project heating area is supplied by one large 4x64MWth heat-only boiler (HOB)
+plant (3.5 million m2 heating area) and 99 small dispersed heating boilers (2.6 million m2). The
+project will replace use of these heating sources located in the city center with a district heating
+network supplied by the Datang Zhangjiakou coal fired Combined Heat and Power Plant located 15
+km away from the project area. It was previously a thermal power plant and has completed
+converting 2x300MW units into CHP (capable of supplying 24 million m2) and plans to convert its
+remaining 6x300MW units in future to supply other urban areas. The Dongyuan Heating Company
+plans to lease capacity from an existing transmission pipeline (about 12 km in channel length from
+the CHP) owned by another heating company. The subproject is proposed to include: (a) a pressure
+isolation station; (b) about 18 km additional primary network construction; (c) installation of about
+59 heat exchange substations (HEX), of which about 41 are to be installed in the existing boiler
+house areas; and (e) installation of a SCADA system in the pressure isolation station. The proposed
+sub-borrower is the Zhangjiakou Dongyuan Heating Company, a state owned enterprise.
+
+
+﻿In addition, conversion of the 4x64MW coal fired peak load boiler to gas might also be feasible as
+the gas pipeline from Ordos to Beijing will run through Hebei near Zhangjiakou and will be
+completed by 2016. Zhangjiakou has not yet decided on whether to pursue the gas boiler conversion
+as it is awaiting for assured gas supply
+0
+Subproject A3. Xingtai Xian (County) Heating Subproject (estimated cost RMB 390 million;
+indicative IBRD financing US$ 31 million, RMB 190 million equivalent)
+Xingtai, one of the most polluted counties in China, is a heavy industrial center (with significant iron,
+steel, and chemical industries). The purpose of the subproject is to meet significantly expanding
+heating demand by optimizing the energy mix for heating through expanded use of industrial waste
+heat for district heating. The heat sources will be supplied by China RISUN Coal Chemicals Group
+(RISUN). Based on its website, RISUN is the world's largest independent coke and coking chemicals
+producer (in terms of coke production volume). The optimization will reduce primary energy
+consumption, avoid or reduce related emissions and reduce the cost of delivered heating in the
+subproject area. The subproject would use industrial waste heat recovery from cooling water
+systems in RISUN and construct (a) about 8.5 km channel length of pipelines connecting four
+cooling water systems (1 main source and 3 backup) to the primary station in RISUN; (b) a primary
+station including a steam-driven absorption heat pump for heat recovery from industrial cooling
+water; (c) about 44 km channel length of primary district heating network; (d) 72 heat exchanger
+substations; (e) central automation and control system. The network is expected to be completed by
+2017.
+The proposed sub-borrower is the RISUN Anneng Heating Company, Ltd, a new joint venture (JV)
+company, established for this project. The JV is privately owned. 50% is owned by Shijiazhuang
+Anneng Co., Ltd., which is owned by three individuals (40%, 40%, 20%) and 50% is owned by
+China (Zhongmei) RISUN Xuyang Coking Company, Ltd., which itself is a private company. China
+Xuyang Coking Company, Ltd. shareholding comprises: 45% shares owned by China National Coal
+Group (Zhongmei) Corporation (a Central SOE, www.chinacoal.com), 45% owned by privately-held
+Xuyang Group (in English - China RISUN Coal Chemicals Group, Ltd., www.risuntj.com, www.
+risun.com), and 10% owned by Delong Holdings Ltd. (delong.listedcompany.com) a private
+(partially publicly listed) company.
+o      Subproject A4. Pingshan Xian (County) (estimated cost RMB 146 million; indicative IBRD
+financing US$ 12 million, RMB 74 million equivalent)
+Pingshan County, located some 30 km west of Shijiazhuang, the capital of Hebei Province, is also
+expanding its existing urban area to create opportunities for higher living standards and services for
+the surrounding rural population. The project heating area is 6.95 million m2, including 3 million m2
+of new buildings. The heating supply is provided by the Xibaipo Thermal Power Plant (4x330 MWp
+and 2x600MWp) which has converted 2x330MW units to CHP with supply capacity of about 7.2
+million m2. The subproject proposes to finance: (a) extension of primary network by 4 km channel
+length; (b) renovation of existing primary network of 3.2 km channel length (to improve reliability to
+allow the pipes to handle the increased pressure and temperature, eliminate corroded pipes); (c)
+installation of about 32 new consumer substations, including five BLS, (d) renovation and expansion
+of five existing substations, (e) heat metering for 1.92 million m2, (f) automatic control systems for
+existing substations (controls, frequency converters, meters, and data communication); and (g)
+installation of a SCADA and central monitoring and control system for the whole DH system. The
+proposed sub-borrower is Pingshan Heating Company, an existing state owned district heating
+
+
+﻿company.
+Component B: Project Management Support and Technical Assistance (indicative IBRD financing to
+be determined)
+0
+The details and cost of the Project Management Support and Technical Assistance Component would
+be discussed during preparation as the Hebei Province is cautious in borrowing for technical
+assistance. Some initial ideas for the component discussed at identification include:
+a.     Project Management Consultant: Project management support to the Provincial PMO with
+the implementation and monitoring of the project by hiring a Project Management Consultant. Hiring
+a Project Management Consultant to support procurement, contract management and other related
+operational functions is a common practice, especially for similar projects with many subprojects and
+entities with weak capacity or lack of experience with foreign capital utilization projects. The
+Provincial PMO confirmed interest in a Project Management Consultant to strengthen its capacity to
+supervise the proposed Project.
+b.     Provincial Long-Term Support Mechanism for Clean Heating: The ban on the construction
+of new coal fired boilers creates a need for well-planned and prepared alternative heating supply.
+This may be beyond the abilities of many municipalities and towns (such as some in the proposed
+Project)which have little or no experience with such work. During the pre-identification visitand at
+the id entification mission, the task team discussed with the Provincial DRC, Provincial Finance
+Department and Provincial Housing/Urban-Rural Construction Department how this project could
+help to develop a platform at the provincial level to help other municipalities, especially counties,
+plan and develop clean heating solutions. The Province could consider establishing a technical unit to
+advise cities, especially smaller ones, on developing appropriate clean heating solutions. The
+provincial-level technical team could review proposals from counties and guide preparation of
+feasibility studies to ensure good quality results. The unit could be established during project
+preparation to gain experience and test the viability of such a service, so that other cities outside the
+project can benefit.
+c.     Local Project Management and Operations Assistance: The project would involve one new
+company with nearly no experien ce in managing heating systems or other companies with limited
+a      knowledge of modern management approaches. These companies could consider using the loan for
+TA support to build capacity in operating and maintaining the subproject heating systems. One idea
+to consider might be to hire an experienced heating company from another city to provide
+management services of the heating network. Training in O&M of networks and possible workshops
+and study tours for the four project heating companies may also be considered. This could include
+visiting, for instance, Northern European systems that include multi-heat source dispatching, use of
+building level substations, integrated accounting and billing systems, etc.
+d.     Accounting and Billing System Improvement: Feasibility study consultants are expected to
+evaluate the accounting and billing systems of each subproject for readiness to implement
+consumption based billing. The outcomes of this assessment could include provision of technical
+assistance, equipment and software to integrate accounting and billing systems to help further
+automate billing, track payments and make accounting entries smoothly.
+D. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+
+
+﻿The proposed Project includes four subprojects, and they will be located in four different
+municipalities of Hebei Province. They include Shuangqiao District in Chengde Municipality,
+Qiaodong District in Zhangjiakou Municipality, Xingtai Municipality, and Pingshan County in
+Shijiazhuang Municipality. The four project counties amount to a total of 5,000 square kilometers of
+area and a population of 2.2 million. About one quarter of total population in these counties is urban.
+E. Borrowers Institutional Capacity for Safeguard Policies
+Even though the provincial PMO has some experience with World Bank financed projects, for the
+project cities and counties, it is their first engagement with Bank financed projects. Therefore, the
+clients lack experience with Bank funded projects and are unfamiliar with Bank's safeguards
+policies. However, they have exhibited strong commitment during project identification. The
+provincial PMO will guide and supervise the project preparation and implementation. For each
+project city or county, a Project Implementation Unit (PIU) will be set up to prepare and implement
+the project in the project city, which will be expanded to meet the Bank's requirements for technical
+works, environmental and social safeguards, financial management, procurement, as well as project
+management. With representatives from relevant government agencies and professionals, they will
+be responsible for preparing and implementing all the subcomponents. Their duties include the
+management of the feasibility study and engineering designs, social and environment safeguard
+preparation, monitoring and evaluation, as well as financial management and procurement in
+accordance with Bank guidelines.
+Safeguards documents such as the Environmental Assessment (EA) and the Resettlement Action
+Plan (RAP) will be prepared by professional institutions with required qualification and adequate
+experience with Bank projects in China. Further, the PMO will undertake a Social Assessment to
+assist with the design of relevant resettlement activities. To assist with the lack of capacity for Bank
+safeguards policies, substantial training will be provided to the provincial PMO and project city PIUs
+on all relevant safeguards in the early stage of project preparation. The timely interaction between the
+Bank's task team and the clients will help improve the clients' capacity to the acceptable level during
+project preparation and throughout implementation.
+0
+F. Environmental and Social Safeguards Specialists on the Team
+Shunong Hu (GWADR)
+Yiren Feng (GENDR)
+Yongli Wang (GSURR)
+Youxuan Zhu (GEDDR)
+II. SAFEGUARD POLICIES THAT MIGHT APPLY
+Safeguard Policies          Triggered? Explanation (Optional)
+Environmental Assessment    Yes         The project will have significant benefits in terms of
+OP/BP 4.01                              providing efficient district heating services.
+Investments under Component A include civil works
+for sub-stations, transmission pipelines, and
+household metering, depending on the scale and
+actual needs of each county.
+It is expected that environmental impacts during
+construction are mainly related to small-scale
+
+
+﻿construction of transmission pipelines and
+substations, e.g. disturbance to traffic and local
+communities along the sites for pipeline construction
+and near the sites for sub-stations, disposal of spoil,
+nuisance of dust and noise.The Proposed project is
+expected to replace the existing small coal-fired
+boilers by providing more energy efficient district
+heating, dismantle of the small boilers may generate
+the hazardous wastes (i.e. asbestos), a small boilers
+dismantle
+management plan will be developed as a part of the
+EMP to cope with the identification, dismantle
+operation, storage, transportation and disposal of the
+hazardous waste. Environmental impacts during
+operation mainly include (1)
+noise from the substations, building-level substations
+(2) air pollutants emission and noise of the peak
+boilers. The main adverse social impacts besides the
+OP 4.10 and OP 4.11 include the loss of employment
+of temporary workers due to the shutdown of small
+coal-fired boilers, however the overall social impact
+is positive as the project will improve the heating
+service quality and provide heating service to the
+communities not connected.
+It is expected that the project will overall increase the
+heating efficiency and reduce the air pollution loads
+in Hebei Province. The adverse impacts are
+localized, limited and can be readily managed with
+accepted measures of good environmental codes of
+practice (ECOP). And most mitigation measures will
+be included in engineering designs and construction
+specifications.
+The project was assigned as Category A project
+given the scale of works, the potential linked
+activities, the displacement of workers and social
+issues, and potential operating safety risks during the
+operation phase.
+An single EIA/EMP will be prepared for all the four
+subprojects. The EIA will include the due diligence
+review of the associated facilities that will (1) supply
+the heating source for the project; (2) provide the
+backup peak heating to the project. The EMP will
+include (i) Generic mitigation measures for
+contractors for inclusion in the bidding documents
+
+
+﻿and contracts. (ii) Site specific mitigations measures
+for potential adverse impacts during construction and
+operation; (iii)Institutional arrangement of
+Environmental supervision, monitoring plan and
+Reporting
+requirements and (iv) EMP implementation budget.
+For a Category A project, an EA Summary will be
+prepared based on the information from the EIA and
+EMP. In the EIA, cumulative impact assessment will
+be conducted focusing on the reduction of air
+pollutants of primary concern in project areas based
+on the provincial air quality clean up action plan.
+During preparation of the proposed instruments, the
+WBG's Environmental, Health and Safety Guideline
+will be referenced in the EIA. On asbestos from
+dismantling of coal-fired boilers, the project will
+refer to the WBG Asbestos Guidance Note. the EIA
+will also include the main results of the Social
+assessment conducted by the social team.
+Public consultation and information disclosure will
+follow OP4.01 requirements during EA preparation.
+At least two rounds of public consultation will be
+carried out with potentially affected persons and
+other relevant stakeholders through various methods,
+e.g., questionnaire surveys, interviews, and public
+meetings as needed. The full draft EA will be
+disclosed locally.
+Natural Habitats OP/BP 4.04   TBD          The project is mainly in the urban and periurban area
+of Hebei and the areas already disturbed by intensive
+human activities. The initial screening of the project
+indicated that it will not convert, degrade or restore
+any natural habitats or critical natural habitats, this
+will be further screened and confirmed once all the
+civil works determined during the project
+preparation.
+Forests OP/BP 4.36            No           The project will not finance activities that would
+involve significant conversion or degradation of
+critical forest areas or related critical natural habitats
+as defined under the policy. Hence this policy is not
+triggered.
+Pest Management OP 4.09       No           The Project will not lead to purchase nor use of any
+pesticides. This policy is not triggered.
+Physical Cultural Resources   TBD          Based on the available information and preliminary
+OP/BP 4.11                                 screening carried out by the Bank team, there are no
+physical cultural resources identified to be affected
+
+
+﻿by the project. It will be confirmed by a detail survey
+to be carried out during project preparation, The
+policy is marked as "TBD" at this stage.
+Chance-find procedures will be included in the EMP.
+Indigenous Peoples OP/BP     TBD         Among four project cities or counties, most project
+4.10                                     components are located in urban areas and it is
+unlikely ethnic minority communities defined by the
+Bank will be affected by the Project. A screening
+will be conducted during social assessment for all
+project cities to confirm whether there are any ethnic
+minority communities in the project areas and
+whether Bank IP policy will be applied for the
+Project.
+Involuntary Resettlement OP/  Yes        Under Component A, each city or county will
+BP 4.12                                  develop heating system to meet heating requirement.
+On Heating Source, two types will be involved.
+Chengde, Zhangjjiakou and Pingshan will use heat
+from existing CHPs; and Xingtai will use industrial
+waste heat from Coking Plant. In connecting with the
+heat sources, primary heating station, pressure
+isolation station or pumping station will be built in
+Xingtai and Zhangjiakou Cities. Among them,
+Xingtai primary heat station and pump station will be
+built on land areas (60 mu) obtained by the project
+sponsor last year. For Zhangjiakou Subproject,
+pressure isolation station will be built on the site
+used to be a chemical factory, which was closed
+down a few years ago and was allocated to project
+sponsor by local government. For the required sites
+for Zhangjiakou and Xingtai subprojects, due
+diligence review will be conducted to ensure no
+legacy issues involved. For existing CHPs and
+choking plant, all of them were constructed many
+years ago with no new land acquisition involved.
+On Heat Transmission and Distribution, they include
+2.4km of trunk heating pipeline in Zhangjiakou City,
+68.6 km of primary heating pipelines and 186 heat
+exchange stations will be constructed among all four
+cities. Most of heat transmission lines will be
+constructed along the urban roads with limited
+impacts. However, in some newly developed urban
+areas where urban roads have not yet been
+constructed, temporary occupation of farmland might
+be required. For heating transmission impacts, a brief
+resettlement plan will be prepared for each
+subproject. For those cities where heating pipeline
+
+
+﻿alignment could not be determined during project
+preparation, a resettlement policy framework should
+be prepared. In terms of heat exchange stations, they
+will be constructed either within the existing boiler
+houses or on the site provided by housing
+development companies with no land acquisition and
+resettlement.
+On Heat Service Area, they vary widely among four
+subprojects. For Zhangjiakou and Chengde
+subprojects, proposed heating area include large
+portion of existing housing stock which will be
+realized by replacing many small boilers. For Xingtai
+and Pingshan Subprojects, the heating area mainly
+covers part of new urban area, where all new housing
+are either completed or under construction. For those
+subprojects requiring closing down of small boilers,
+a reemployment plan is required as part of the
+resettlement action plan.
+Safety of Dams OP/BP 4.37    Yes          The proposed project will not finance the
+construction and rehabilitation of any dam. However,
+for the Xingtai Subproject, the sub-project will use
+industrial waste heat from Xingtai Risun Group. It is
+found that the cooling water of the Xingtai Risun
+Group comes from the existing reservoir upstream of
+the Risun Group. OP4.37 is therefore triggered for
+the subproject. A Dam Safety Report needs to be
+prepared in compliance with the policy.
+Projects on International    No           Not applicable.
+Waterways OP/BP 7.50
+Projects in Disputed Areas OP/ No         Not applicable.
+BP 7.60
+III. SAFEGUARD PREPARATION PLAN
+A. Tentative target date for preparing the PAD Stage ISDS: 31-Mar-2015
+B. Time frame for launching and completing the safeguard-related studies that may be needed.
+The specific studies and their timingi should be specified in the PAD-stage ISDS:
+For social safeguard document preparation, a TOR had been prepared in the middle of July 2014
+for both social assessment and resettlement preparation for all four subprojects. Following TOR,
+four project cities or counties have engage two qualified consulting teams in September 2014 for
+SA and RAP preparation. It was agreed that a draft resettlement plan or a resettlement policy
+framework as well as due diligence review will be prepared for each subproject, which will be
+completed and submitted to the Bank for review by end of November 2014.
+IV. APPROVALS
+1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+form and language that are accessible to potentially affected persons.
+
+
+﻿Task Team Leader(s): Name: Gailius J. Draugelis
+Approved By:
+Regional Safeguards   Name: Peter Leonard (RSA)                    Date: 15-Jan-2015
+Coordinator:
+Practice Manager/     Name: Julia M. Fraser (PMGR)                 Date: 16-Jan-2015
+Manager:
+
+

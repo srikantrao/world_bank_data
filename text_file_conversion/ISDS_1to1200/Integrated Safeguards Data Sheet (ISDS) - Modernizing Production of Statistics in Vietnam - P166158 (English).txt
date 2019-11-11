@@ -1,0 +1,339 @@
+                                  The World Bank
+                                  Modernizing Production of Statistics in Vietnam
+
+
+
+
+                                                     Integrated Safeguards Data Sheet
+                                                   Identification / Concept Stage (ISDS)
+Public Disclosure Copy
+
+
+
+
+                                                Concept Stage | Date ISDS Prepared/Updated: 28-Feb-2018 | Report No: ISDSC23678
+
+
+
+
+                         Feb 28, 2018                                                                                             Page 1 of 7
+                                  The World Bank
+                                  Modernizing Production of Statistics in Vietnam
+
+
+
+                          BASIC INFORMATION
+
+                           A. Basic Project Data
+
+                           Project ID                      Project Name                  Environmental Category      Country
+                                                           Modernizing Production of
+                           P166158                                                       C - Not Required            Vietnam
+                                                           Statistics in Vietnam
+                           Team Leader(s)                  Estimated Date of Approval    Managing Unit               Financing Instrument
+                                                                                                                     Investment Project
+                           Obert Pimhidzai                                               GPV02
+                                                                                                                     Financing
+Public Disclosure Copy
+
+
+
+
+                          Financing (in USD Million)
+
+                           SUMMARY             -NewFin1
+
+
+
+
+                           Total Project Cost                                                                                                    0.00
+                           Total Financing                                                                                                       0.00
+                           Financing Gap                                                                                                         0.00
+
+
+                           DETAILS  -NewFin2
+
+
+
+
+                           B. Project Development Objective(s)
+                           The overall development objective of this project is to enhance the capacity of the General Statistics Office to adopt
+                           advanced methods of data collection and processing. This will be achieved through building a framework and piloting
+                           use non-survey data to generate statistics and piloting use of CAPI in major surveys.
+
+                           C. Project Description
+                           Project Components
+
+                           The project will consist of three main components as follows:
+
+                           Component 1: Reviewing and updating the Vietnam Statistical Development Strategy 2011-2020 with vision
+                           to 2030.
+
+                           The Viet Nam Statistical Development Strategy 2011 - 2020 with vision to 2030 (VSDS) was approved by the
+                           Prime Minister in 2011. The mid-term review of the VSDS in 2015 has indicated the need to update the VSDS,
+                           thanks to changes in the external and domestic environment. Domestically, the biggest change is on legal
+                           environment. In 2015, the new Law on Statistics was approved containing some new regulations on the
+
+                         Feb 28, 2018                                                                                                       Page 2 of 7
+                                  The World Bank
+                                  Modernizing Production of Statistics in Vietnam
+
+
+
+
+                           production and use of statistics. The Law on Statistics 2015 may affect many activities in the current VSDS.
+                           Now the GSO now needs to update the VSDS to reflect those changes. Secondly, there are also important
+                           changes in the external environment, notably the introduction of the Sustainable Development Goals (SDGs)
+                           that Vietnam has committed to. The GSO has been actively involved in the development of a statistical
+                           indicator system for evaluating the implementation of SDGs and has integrated some SDG indicators into the
+                           national statistical indicator system in the Statistics Law 2015. The collection and compilation of SDG
+                           indicators will be an important task of Viet Nam statistical system. Therefore, the VSDS needs to be updated
+                           with additional activities related to SDGs.
+
+                           This Component will focus on the following main activities (i) update the VSDS 2011-20 to be consistent with
+                           the requirements of the new Law of Statistics passed in 2015 and new data requirements for monitoring the
+                           SDGs, (ii) update the implementation plan for the updated VSDS and (iii) revise the monitoring and
+                           evaluation system of the updated VSDS. Funding from this grant will pay for:
+Public Disclosure Copy
+
+
+
+
+                           National consultancies to review the impacts of changes in the legal framework and the introduction of SDGs
+                           on the VSDS and proposing updates to the VSDS, revise the implementation plan and monitoring and
+                           evaluation system for the updated VSDS and developing the proposed framework for the VSDS for the next
+                           period 2021-2030
+
+                           Workshops during consultations for updating the VSDS and developing a framework for the next VSDS 2021-
+                           30
+
+
+
+                           Component 2: Incorporation of administrative data into official national statistics.
+
+                           The project will assist the GSO to comprehensively review the current needs of national statistics, based on
+                           both the list of national indicators issued by the Prime Minister in 2010 and the SDG indicators that are
+                           developed. The project will review the current use of administrative data in compiling the indicators and will
+                           help improve the legal framework and the practice of incorporating administrative data.
+
+                           The project will bring to fruition existing efforts by the GSO towards using administrative data. From August
+                           2016 to April 2017, the GSO received support from UN-ESCAP to develop the software for extracting
+                           economic statistics from tax data, while the General Department of Taxation has invested approximately
+                           VDN 6 billion in the IT infrastructure for this purpose and a Memorandum of Understanding between the
+                           GSO and the General Department of Taxation is already in place (issued on 10 November 2015). The GSO also
+                           began working with the Statistics Denmark on the potential for using administrative data in education
+                           statistics since Vietnam is planning, developing and implementing IT solutions to manage students and
+                           student records. This started with a study visit by the GSO to Denmark, followed up by an initial situation
+                           analysis by Statistics Denmark on the potential for using administrative data in education statistics. This
+                           culminated in an agreement between the GSO and the Ministry of Education and Training (MoET) to
+                           collaborate in this area.
+
+
+                         Feb 28, 2018                                                                                             Page 3 of 7
+                                  The World Bank
+                                  Modernizing Production of Statistics in Vietnam
+
+
+
+
+                           A central population register currently being designed and implemented in Vietnam offers a “golden
+                           opportunity” for shifting certain types of statistics from surveys to administrative records. With advance
+                           planning, a consistent use of unique ID’s will allow the GSO to create longitudinal time series in the area of
+                           social statistics. In this process record keeping shifts from “paper and pen” to “bits and bytes” that can easily
+                           be turned into statistics. This project will build upon the work of the GSO to mainly provide proof of concept
+                           in the use of administrative data in generating economic and education statistics. The project will thus
+                           finance activities to (i) facilitate inter-agency dialogue to deepen collaboration between the GSO and other
+                           government agencies in the use of administrative data to produce statistics through workshops and study
+                           visits, (ii) develop frameworks and operation manuals to produce selected statistics using administrative data
+                           and (iii) produce pilot statistics using tax, customs and education administrative data.
+
+                           While not exhaustive, the following activities are expected as part of the Component 2:
+Public Disclosure Copy
+
+
+
+
+                           National consultancy in incorporating tax and custom data obtained by administrative system into the
+                           national statistics.
+
+                           International/national consultancy: reviewing experiences in utilizing and incorporating administrative data
+                           on education in official statistics and piloting the incorporation of administrative data on education into the
+                           national statistics system.
+
+                           Study visit on integrating administrative data into official statistics: A study visit will allow the GSO (and
+                           preferably representatives from MOET and other stakeholders) to meet with register authorities, involved
+                           line ministries, users of statistics and gain hands on experience with the relevant IT solutions.
+
+                           Technical workshops and dissemination workshops.
+
+                           In implementing this component, the GSO will partner with another statistical agency in a twining
+                           arrangement with defined TORs. In addition to building up existing collaboration, the twining arrangements
+                           allows the GSO to learn from the models widely seen as best practice models in the use of administrative
+                           data combined with data / information sourced from national civil registration authorities, which they have
+                           been using from the late 1960s.
+
+                           Component 3: Support the adoption of Computer-Assisted Personal Interview (CAPI) for surveys
+
+                           This component will finance activities to facilitate the adoption of a CAPI platform for survey data collection
+                           by the GSO. This includes running a CAPI pilot of the VHLSS instrument to overlap with implementation of
+                           the VHLSS 2018 in the last two quarters of the data collection period. That will allow both to assess the
+                           feasibility of using CAPI in a major survey like the VHLSS and to compare the quality of data from the CAPI
+                           pilot to the VHLSS data collected using paper and pen, as necessary to benchmark or analyze any
+                           incomparability introduced by the use of CAPI. This component will also support a review of the VHLSS to
+                           adopt to changing data demands. Without funding for the MICS survey, the GSO is currently reviewing the
+                           design and implementation of the VHLSS to incorporate new indicators and improve its implementation. The
+                           current VHLSS paper-based questionnaire is considered as too long and time-consuming. Using CAPI would
+
+                         Feb 28, 2018                                                                                                Page 4 of 7
+                                  The World Bank
+                                  Modernizing Production of Statistics in Vietnam
+
+
+
+
+                           greatly reduce the processing time and improve the accuracy of the data, alongside a careful review of the
+                           questionnaire to eliminate redundancies and information that could be produced using administrative data
+                           sources supported in the component 2 of this project.
+
+                           The GSO is very enthusiastic about the application of CAPI in the whole VHLSS questionnaire after
+                           experimenting with using CAPI as part of an extended module in 2016 VHLSS on Food Away from Home
+                           (FAFH) consumption pilot supported by the World Bank. This pilot used the Survey Solutions developed by
+                           the World Bank, but other departments have also experimented with different platforms for surveys they
+                           run. For example, the Price Statistics Department is using a locally-developed CAPI platform for its monthly
+                           price survey while another Department has been using a CSPro version in its survey. Thus, the GSO is looking
+                           at CAPI platforms that can be used across the institution for different surveys.
+
+                           The project will therefore finance activities to (i) develop a CAPI platform for use across different surveys,
+Public Disclosure Copy
+
+
+
+
+                           (ii) piloting data collection using CAPI using the VHLSS instrument and (iii) review the VHLSS questionnaire to
+                           meet the country’s data needs. The GSO will pay for the purchase of tablets. While not exhaustive, this
+                           project will cover the following expenses:
+
+                                 1. International consultancies to evaluate different platforms for CAPI and provide training and
+                                    online/offline support to the GSO in using CAPI in the VHLSS;
+                                 2. International/national consultancy in reviewing VHLSS sampling and VHLSS questionnaire to fit the
+                                    needs of SDGs;
+                                 3. Additional costs of piloting the use of CAPI in VHLSS in a sample of provinces;
+                                 4. Technical workshops and dissemination workshops.
+
+
+
+
+                           SAFEGUARDS
+
+
+                          D. Project location and salient physical characteristics relevant to the safeguard
+                          analysis (if known)
+                          The project will finance data collection nationally when piloting data collection of the VHLSS instrument using
+                          CAPI. It will also facilitate the use of individual level data already collected by other agencies, in particular the
+                          Ministry of Education and Training (education data) and Ministry of Finance (customs and tax data). These
+                          data are analyzed and reported at an aggregate level, thus maintaining confidentiality and anonymity of
+                          individual responses. By using data collected nationally, the project will necessarily gather data from or
+                          concerning vulnerable groups, including ethnic minorities and their communities. This enables closer
+                          monitoring of social-economic outcomes among ethnic minorities to assess progress in achieving social
+                          inclusion, challenges they face and opportunities to promote development. These are necessary inputs for
+                          improving both the design of interventions and policies targeting ethnic minorities, lagging areas and other
+                          vulnerable groups.
+
+
+
+                         Feb 28, 2018                                                                                                   Page 5 of 7
+                                  The World Bank
+                                  Modernizing Production of Statistics in Vietnam
+
+
+
+
+                          E. Borrower’s Institutional Capacity for Safeguard Policies
+                          The project will not trigger any safeguard policies.
+
+
+
+                          F. Environmental and Social Safeguards Specialists on the Team
+                          Giang Tam Nguyen, Social Safeguards Specialist
+                          Son Van Nguyen, Environmental Safeguards Specialist
+
+
+                          G. Policies that might apply
+                          Safeguard Policies Triggered by the Project               Triggered?             Explanation (Optional)
+Public Disclosure Copy
+
+
+
+
+                                                                                                 The main activities of the grant include: i)
+                                                                                                 reviewing and updating the Vietnam
+                                                                                                 Statistical Development Strategy 2011-
+                                                                                                 2020 with vision to 2030; ii) incorporation
+                                                                                                 of administrative data into official national
+                          Environmental Assessment OP/BP 4.01                No                  statistics; and iii) support the adoption of
+                                                                                                 Computer-Assisted Personal Interview for
+                                                                                                 surveys. These activities are to have
+                                                                                                 minimal or no potential environmental and
+                                                                                                 social implications, risks and impacts.
+                                                                                                 Therefore, OP 4.01 is not triggered.
+                          Natural Habitats OP/BP 4.04                        No
+                          Forests OP/BP 4.36                                 No
+                          Pest Management OP 4.09                            No
+                          Physical Cultural Resources OP/BP 4.11             No
+                          Indigenous Peoples OP/BP 4.10                      No                  Data collected in this project includes data
+                                                                                                 from ethnic minorities. However, as
+                                                                                                 standard practice (for example in the
+                                                                                                 VHLSS), only processed data is shared,
+                                                                                                 adhering to principles of data anonymity
+                                                                                                 and confidentiality. Therefore no negative
+                                                                                                 impact of ethnic minorities is anticipated,
+                                                                                                 on the contrary, they may benefit from
+                                                                                                 overall improvements in policy making and
+                                                                                                 monitoring of outcomes as a results of
+                                                                                                 timely and increased availability of data.
+                                                                                                 Given that the project will not adversely
+                                                                                                 affect and no any risk to ethnic minorities is
+                                                                                                 anticipated, hence the OP4.10 is not
+
+
+                         Feb 28, 2018                                                                                                   Page 6 of 7
+                                   The World Bank
+                                   Modernizing Production of Statistics in Vietnam
+
+
+
+                                                                                                                      triggered.
+                          Involuntary Resettlement OP/BP 4.12                           No
+                          Safety of Dams OP/BP 4.37                                     No
+                          Projects on International Waterways OP/BP 7.50                No
+                          Projects in Disputed Areas OP/BP 7.60                         No
+
+
+                          H. Safeguard Preparation Plan
+
+                          Appraisal stage ISDS required? No
+
+
+                              APPROVALS
+Public Disclosure Copy
+
+
+
+
+                              Team Leader(s):                                  Obert Pimhidzai
+
+                              Approved By
+
+                              Safeguards Advisor:                             Surhid P. Gautam                                  26-Feb-2018
+
+                              Practice Manager/Manager:                       Salman Zaidi                                      26-Feb-2018
+
+
+                          1Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) by the Bank and (ii) in country
+                          by the Borrower/Recipient, at publicly accessible locations and in a form and language that are accessible to potentially affected persons.
+
+
+
+
+                         Feb 28, 2018                                                                                                                              Page 7 of 7
+

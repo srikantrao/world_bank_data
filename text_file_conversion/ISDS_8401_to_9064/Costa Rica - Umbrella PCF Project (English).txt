@@ -1,0 +1,201 @@
+24961
+Draft Integrated Safeguards Data Sheet               August 6, 2002
+Section I - Basic Information
+Date ISDS Prepared/Updated: August 6, 2002
+A. Basic Project Data (from PDS)
+COUNTRY: Costa Rica                             PROJECT ID: 76421
+PROJECT: PCF Umbrella Project                   TTL: Guillermo Ruan
+APPRAISAL DATE: June 3, 2002                    IBRD AMOUNT ($m): [2.5 from PCF]
+BOARD DATE: n/a                                IDA AMOUNT ($m):
+MANAGING UNIT: LCSFP                            SECTOR:
+LENDING INSTRUMENTS: PCF                        STATUS:
+Project Objectives (From PDS)
+The objective of the Umbrella Project is to support development of the international market mechanism for
+the new commodity known as "Emission Reductions" (ER), developed in the framework of the Kyoto
+Protocol. In this particular case, the project will function as an umbrella to facilitate the implementation of
+several subprojects in Costa Rica of which three (two?) are presented for approval at this time. The
+subprojects produce reductions of C02 emissions through substituting electricity produced by thermal
+plants with electricity from renewable sources.
+
+
+
+Project Description (From PDS)
+The proposed Umbrella Project will allow the PCF to provide funding for renewable energy sub-projects..
+The following paragraphs contain are short descriptions of the initial sub-projects that will be included in
+the approval of the umbrella project.
+Cote Hydroelectric Project
+The Cote Hydroelectric Project (CHP) will generate 6.3 MW using water from the Cote Lake. It was
+developed by CNFL,;as part of an overall development plan to increase its installed generation capacity to a
+total of 140 MW over 10 years. CHP will be constructed for CNFL by a group of private firms, the
+Consorcio Brasilefio-Colombiano HidroCote, under a supervised turn-key contract. Consorcio HidroCote is
+a consortium of the Colombian firm, Gomez Cajiao y Asociados S.A. (design), and by the Brazilian firms
+Toshiba Do Brasil S.A. (electrical-mechanical equipment) and Termotecnica Coindustrial S.A.
+(construction).
+The CHP takes advantage of the infrastructure already installed to divert water from Cote Lake to the ICE
+Arenal Reserv6ir. In 1982, ICE constructed a dam on the Cote River (the natural drain from the lake)
+converting the lake into a regulation reservoir. The existing water intake structure, tunnel and dam will be
+used by the project, although some modifications will be undertaken. New structures include a cap on the
+dam to increase its height by I m, an open canal, an additional tunnel, a pressure pipe, a forebay, a
+powerhouse containing a 6.3 MW Francis turbine, a substation located next to the powerhouse and sluice
+leading to the Rugama Creek. The powerhouse and substation will occupy an area of 18.5 ha. on land
+already highly altered from the Arenal Hydroelectric project. Water from the power house will be returned
+to the Rugama Creek for its ultimate discharge into the Arenal Reservoir.
+The total emission reductions from Cote subproject for the maximum allowed crediting period of 21 years
+are estimated at 182,300 mtCO2e.
+Vara Blanca Wind Power Project
+The Vara Blanca Eolic Project (VBEP) is an initiative of ESPH and the Belgian company Turbowinds,
+which jointly will develop the project. The project includes within its scheme the construction of 16 aerial
+generators of Turbowinds technology T-600-48 of 600 KW for a total of 9.6 MW (between 20 ahd 22 GWh
+per year), with an area of influence of about 10 ha. A transmission line located along an existing public
+road which runs parallel to the existent distribution line, will allow the dispatch of the energy produced to
+the sub-station of ESPH in the center of the City of Heredia.
+The technical studies have been completed. The studies indicate that the average wind speed at the site is
+approximately 7.14 m/s; and that there are no seismic or geologic problems.
+The total emission reductions from Vara Blanca subproject for the maximum allowed crediting period of 21
+years are estimated at 328,800 mtCO2e.
+Chorotega Wind Power Project
+The Chorotega Eolic Project (CHEP) is an initiative of Coopeguanacaste and the Belgian company
+Turbowinds, which jointly will develop the project in order to supply the increasing demand of
+Coopeguanacaste's zone. The project includes within its scheme the construction of 14 aerial generators of
+Turbowinds technology T 600-48 of 600 KW for a total of 8.4 MW. Its area of influence is approximately
+35 hectares, to be accessed by 2.5 km of road.
+The construction of 3 km of transmission line will enable linking-the site to the a substation at Santa Cruz.
+The location was chosen after careful consideration of the economic, geophysical, environmental and
+settlement characteristics of the area. The 2-year mean wind speed is 6 m/s. The land owners (Finca
+Chorotega) will transfer the land to the project and the area will be put under a forestry management
+program.
+The total emission reductions from Chorotega subproject for the maximum allowed crediting period of 21
+years are estimated at 303,000 mtCO2e.
+
+
+
+Project Location: (Geographic location, information about the key environmental and social characteristics of the
+area and population likely to be affected, and proximity to any protected areas, or sites or critical natural habitats, or
+any other culturally or socially sensitive areas.)
+The subprojects will be located all over Costa Rica. Details of their environmental and social characteristics will be
+described in the environmental summary reports for each subproject, to be reviewed and cleared by the Bank.
+B. Check Environmental Classification A [ ], B [ x], C [ ], Fl [ ], TBD [ ]
+Comments: Whereas the environmental impacts of wind energy projects are expected to be minimal (e.g.,
+utilizing existing access roads, transmission lines, intervened lands), to address some of the environmental
+issues potentially associated with any potential sub-projects, especially run-of-river or hourly storage small
+hydropower, the following determinations were agreed with OCIC:
+(i) the project will not purchase ERs from renewable energy sub-projects located within national parks nor
+biological reserves; (ii) the project will not purchase ERs from renewable energy subprojects located within
+an indigenous reserve or from any renewable energy subprojects that adversely affect indigenous
+communities or their territories; (iii) given the potential impacts and special design complexities of dams
+that are 10 meters or more in height, the project will not purchase ERs from hydropower projects of this
+size; and (iv) the project will not purchase ERs from small hydropower projects which are between 5-10
+meters and have a reservoir volume of more than 3 million cubic meters. Consideri'ng that involuntary
+resettlement may cause severe long-term hardship, impoverishment, and environmental damage, any
+proposed project which involves involuntary resettlement as defined by World Bank Operational Policy
+4.12, will not be considered. Given these screening criteria, only category B subprojects will be
+considered.
+C. Applicability of Safeguard Policies (from PDS)
+Click on Policy name for brief summary of objectives, triggers and requirements
+Click on Policy reference number for full policy
+Yes     No      TBD
+Environmental Assessment (OP/BP/GP 4.01)                        [x]     [] [I    I
+Forestry (OP/GP 4.36)                                           []      [x] [I   I
+Natural Habitats (OP/BP 4.04)                                   [x     I[      [1 I
+Safety of Dams (OP/BP 4.37)                                     [       [x ]   [I 
+Pest Management (OP 4.09)                                       [ ]   L[x I    [ I
+Involuntary Resettlement (OD 4.30)                            [I]      [x I    [ I
+Indigenous Peoples (OD 4.20)                                    [       [x1]   I] 
+Cultural Property (OPN 11.03)                                   [        XI [x]  [ ]
+Projects in Disputed Areas (OP/BP/GP 7.60)                     []      [x I    [ ]
+Projects on International Waterways (OP/BP/GP 7.50)                     [x ]   [ ]
+By supporting the proposed project, the Bank does not intend to prejudice the final determination of the
+parties' claims on the disputed areas
+
+
+
+Section II - Key Safeguard Issues and Their Management
+D. Summary of Key Safeguard Issues. Please fill in all relevant questions. If information is not available, describe
+steps to be taken to obtain necessary data.
+1. Describe any safeguard issues and impacts associated with the proposed project
+In relation to the environmental issues associated with renewable energy sub-projects in Costa Rica,
+particularly small hydropower, the SEA has determined that: (i) MINAE, and in particularly the National
+Environmental Technical Secretariat (SETENA) has had difficulty to evaluate and monitor the
+implementation of hydropower projects, due to inadequate staffing and technical and financial capacity to
+properly analyze the Environmental Impact Assessments (EIAs) submitted for such projects, and to carry
+out field supervisions of project implementation after the license is given; (ii) there are currently no clear
+guidelines that could be used by private developers regarding the potential environmental impacts of such
+projects, especially small hydropower, both during construction and operation phases; and, (iii) the public
+consultation process in the context of preparation of EIAs is frequently not implemented nor enforced as
+established by Costa Rican EIA legislation.
+2. Identify and describe any potential large scale, significant and/or irreversible impacts. Describe any
+potential cumulative or long term impacts.
+None are expected.
+3. In light of I and 2, describe the proposed treatment of alternatives (if required)
+n/a
+4. Describe arrangement for the borrower to address safeguard issues
+The ElAs for hydropower must address the most pertinent issues as enumerated in the SEA, including
+impacts due to design, construction and operation: i) on river basin management, including impacts on
+hydrology, water rights, possible international water issues; ii) on aquatic vegetation; iii) on terrestrial
+ecosystems; and iv) cultural heritage. Further, the EIA should include: i) a vulnerability assessment
+(seismic and volcanic activity, landslides, soil liquification, earthquakes, etc.); ii) a description of public
+consultation and development of adequate compensation measures; and, iii) an Indigenous People's
+Development Plan, where appropriate.
+Each individual subproject has undertaken an environmental assessment, following both national guidelines
+and the above-outlined Bank-specific framework. The ElAs were submitted both to SETENA in order to
+get the environmental license, and to the Bank. Both SETENA and the Bank reviewed the ElAs and EMPs
+and made recommendations for inclusion in the final version. Future subprojects will follow a similar EIA
+approach.
+Each subproject has developed or will develop an EMP, addressing all environmental and social issues that
+came out of the SEA, SA and EIA processes. The activities in the EMP include design recommendations,
+mitigation and prevention activities during construction and operation, and roles, responsibilities and
+budget for monitoring.
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard
+policies, with an emphasis on potentially affected people.
+The overall project has been discussed with the government (MINAE, ICE) and well as NGOs (Center for
+Tropical Studies, Grupo Yiski) and local stakeholder groups in each project area. The stakeholder
+consultations for each subproject are described in the EIA summaries.
+E. Safeguards Classification (select one). Category is determined by the highest impact in any policy. Or on basis
+of cumulative impacts from multiple safeguards. Whenever an individual safeguard policy is triggeied the provisions of
+that policy apply.
+[ ] S,. - Significant, cumulative and/or irreversible impacts; or significant technical and institutional risks in
+management of one or more safeguard areas
+[x I S2. - One or more safeguard policies are triggered, but effects are limited in their impact and are
+technically and institutionally manageable
+[] S3. - No safeguard issues
+[ SF - Financial intermediary projects, social development funds, community driven development or
+similar projects which require a safeguard framework or programmatic approach to address safeguard
+issues.
+
+
+
+F. Disclosure Requirements
+Environmental Assessment/Analysis/Management Plan:
+Date of receipt by the Bank                   10/31/2001
+Date of "in-country" disclosure               different for each subproject
+Date of submission to InfoShop                5/15/2002
+For category A projects, date of distributing the Executive Summary of the EA to the Executive Directors
+N/A
+Resettlement Action Plan/Framework:
+Date of receipt by the Bank                   N/A
+Date of "in-country" disclosure
+Date of submission to InfoShop
+Indigenous Peoples Development Plan/Framework:
+Date of receipt by the Bank                   N/A
+Date of "in-country" disclosure
+Date of submission to InfoShop
+Pest Management Plan:
+Date of receipt by the Bank                   N/A
+Date of "in-country" disclosure
+Date of submission to InfoShop
+Dam Safety Management Plan:
+Date of receipt by the Bank                   N/A
+Date of "in-country" disclosure
+Date of submission to InfoShop
+If in-country disclosure of any of the above documents is not expected, please explain why.
+Signed and submitted by:                                      -2
+Task Team Leader:                             Eduardo Zolezz        ate: September 13, 2002
+Project Safeguards Specialist 1:              Kirsten Oleson        ate: August 6, 2002
+Project Safeguards Specialist 2:              Name          7        Date:
+Project Safeguards Specialist 3:              Name                   Date:
+Approved by:                                                                 - 3_
+Regional Safeguards Coordinator               Juan Quintero'&        Date
+Sector Manager                                Danny Leipziger        Date O -      6 ' 
+
+
+

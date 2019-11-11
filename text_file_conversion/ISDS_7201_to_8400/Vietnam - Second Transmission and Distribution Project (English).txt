@@ -1,0 +1,464 @@
+Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+I.  Basic Information
+ 
+Date prepared/updated:  07/13/2005 
+Report No.:  AC1296
+1. Project Statistics  
+ 
+Country:  Vietnam 
+Project ID:  P084871 
+Project Name:  VN-2nd Transmission & Distribution 
+Task Team Leader:  Richard Jeremy Spencer 
+Estimated Appraisal Date: April 28, 2005 
+Estimated Board Date: July 28, 2005 
+Managing Unit:  EASEG 
+Lending Instrument:  Specific Investment 
+Loan 
+Sector:  Power (100%) 
+Theme:  Infrastructure services for private sector development (P) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+200.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER/RECIPIENT 
+0.00 
+ SUB-BORROWER(S) 
+124.02
+124.02 
+Environmental Category: B - Partial Assessment 
+Simplified Processing 
+Simple [X] 
+Repeater [] 
+Is this project processed under OP 8.50 (Emergency Recovery) 
+Yes [ ] 
+No [X] 
+2. Project Objectives 
+The objective of the project is the efficient development of Vietnam's transmission and 
+distribution system.   
+ 
+3. Project Description 
+Component 1: Transmission and distribution systems expansion and reinforcement  
+ 
+This component will support investments in the 500 kilovolt (kV) and 220kV 
+transmission system and 110 kV distribution system to alleviate power shortages and 
+reduce equipment overloads, and improve system reliability and efficiency by upgrading 
+and modernizing the transmission and distribution system. At the 500kV level, about 567 
+km transmission lines and 1,950 MVA of new transformers will be built to enable the 
+evacuation of power from the planned major generation centers at O Mon in the South 
+and at Quan Ninh in the north, and around Ho Chi Minh City.  At the 110kV level, about 
+59 km of lines and 400 MVA to new transformer capacity will be built to improve 
+network capacity, remove bottlenecks and meet growing demand from smaller load 
+centers in central Vietnam.  
+ 
+Page  2
+The component is divided into two phases:  
+ 
+-
+The four sub-projects in the first phase have been appraised and safeguards issues 
+assessed; their details are summarized here. A 500 kV substation will be built at Doc Soi 
+to support increased load growth around Dung Quat. Substation reinforcements will be 
+made at 500 kV and 220 kV levels to meet increased demand in Ho Chi Minh city. 
+Additional measures will also be taken to strengthen transmission system control, 
+protection and reactive capability so as to improve the quality and stability of the bulk 
+power system.  At the 220 kV level, the Project consists of two GIS substation 
+constructed  in Southern Vietnam.  The capacity of the Binh Tan and Binh Trieu 220 kV 
+substations is 1,000 MVA.  
+ 
+-
+In the second phase, sub-projects are under preparation but not yet appraised.  For 
+these projects, environmental assessment, resettlement plans and ethnic minorities 
+development plans will be prepared according to frameworks and guidelines agreed 
+during appraisal.  The frameworks and guidelines have been adopted by the Government 
+of Vietnam, disclosed in the Vietnam Development Information Center in Hanoi and will 
+be disclosed at the World Bank Infoshop in Washington DC.  
+ 
+Component 2: Electricity market and system operations modernization  
+ 
+The component consists of (a) the supply and installation of a SCADA/EMS for the 
+NLDC with integral market and meter management systems and the supply and 
+installation of SCADA systems for each of the three RLDCs; (b) replacement of the 
+existing VietPool Interim Market System to a full-function market management system; 
+and (c) improving the telecommunications backbone to support the new systems.  Each 
+will include both hardware and software to support the system operator and market 
+operator responsibilities of NLDC.  
+ 
+Component 3: Market transition support  
+ 
+This component will enable EVN, and in particular the transmission company, to 
+manage the transition to fuller commercial operation.  In accordance with the Road Map 
+for Power Sector Reform, technical assistance will be provided for studies relating to 
+commercialization including developing optimal dispatch strategies, transmission system 
+pricing, contractual arrangements, and on the best way to set up financial settlements. In 
+addition a review of the staffing implications of reform will be carried out. EVN's 
+management capacity will be strengthened, particularly financial and technical, to 
+improve their ability to dispatch generation plant based on economic criteria and to 
+establish a financial settlements unit. Training in dispatch operations and accounting for 
+dispatch center, transmission and distribution staff will be provided, in support of the 
+hardware investments.   
+ 
+Page  3
+4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis 
+The 500kV sub projects in Phase 1 are at O Mon and, for the transmission line, in a 
+corridor from Cai Lay to Nha Be.  The 220 kV investments will be in the suburbs of Ho 
+Chi Minh City (HCMC).  
+ 
+The sub-projects identified for Phase 2 are expected to include: a 500 kV transmission 
+line from Quang Ninh to Soc Son and switch bay at Soc Son; an extension to the 500 kV 
+Doc Soi Substation; stringing of the second circuit of the O Mon - Cai Lay portion of the 
+500 kV O Mon - Nha Be transmission line; construction of the Long An to Phu Lam 
+section of the 500 kV O Mon - Phu Lam transmission line and 500 kV switchbay at Phu 
+Lam; and connection of the Phu My Power Generation Complex with the North-South 
+500kV transmission Line at Tan Dinh through three separate subprojects, namely:  (i) 
+construction of the Phu My ? Song May transmission line and installation of two 500kV 
+switchbays at the Phu My substation; (ii) construction of the Song May ? Tan Dinh 
+transmission line; and (iii) construction of the Song May 500/220kV substation.  The 
+three 110kV subprojects that have been identified and are under preparation for inclusion 
+in Phase 2 are: the 110 kV Binh Chanh substation and transmission line; the 110 kV Tam 
+Quan substation and transmission line and the 110 kV Kon Plong substation and 
+transmission line.Subprojects in Phase 2 may change, depending on priorities for 
+investment at time of subproject appraisal.  
+ 
+The topographical features vary from mountainous and hilly landscape in Kon Tum and 
+Quang Ninh, to coastal plains in the centre of Vietnam, from peri-urban to yellow-red 
+soils in the Northeast of Mekong and wetlands in the Mekong Delta.  The Mekong Delta 
+has extensive river systems and areas of acid sulfate and saline soils.  
+ 
+The proposed transmission lines and substations are mainly in peri-urban, agricultural, 
+and forest areas planted for production but would not cross protected areas with 
+significant biodiversity value or natural habitats. There is potential impact for (i) the 500 
+kV Soc Son to Quanh Ninh transmission line to affect one area of natural habitat, a forest 
+stand near Quang Ninh and (ii) the 110kV transmission line and Kon Plong sub-station in 
+Kon Tum province.  These will be further examined when the subprojects are appraised.    
+ 
+Construction in the Mekong Delta will require special care to avoid significant impacts 
+on the acid and saline soils with regard to temporary use of lands, as well as to minimize 
+the disturbance to the inland waterways navigation.  
+ 
+Social characteristics. Land acquisition and resettlement process including public 
+consultation and satisfactory compensation and livelihood restoration for the population 
+residing in the project areas is the main social issue in the Project. No specific impacts on 
+the ethnic minority communities is anticipated. Results of the social screening for phase 1 
+show that there are some ethnic minority groups in the project area of Kon Tum province 
+and some of them will be impacted on land acquisition. However, the impacts do not 
+cause community-wide or severe socio-economic effects.   
+ 
+Page  4
+5. Environmental and Social Safeguards Specialists 
+ 
+6. Safeguard Policies Triggered
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+X
+Natural Habitats (OP/BP 4.04) 
+ X 
+Forests (OP/BP 4.36) 
+ X 
+Pest Management (OP 4.09) 
+ X 
+Cultural Property (OPN 11.03) 
+ X 
+Indigenous Peoples (OD 4.20) 
+X
+Involuntary Resettlement (OP/BP 4.12) 
+X
+Safety of Dams (OP/BP 4.37) 
+ X 
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X 
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts: 
+Environmental issues:  
+ 
+Based on documentation furnished by Electricity of Vietnam (EVN) and their 
+environmental assessment (EA) consultants during pre-appraisal and in the draft final EA 
+reports, the Bank team has concluded that all of the proposed project investment 
+components are clearly within the definition of Category B projects, as defined by 
+paragraph 8(b) of OP 4.01 (i.e., they are of a type and scale whose potential adverse 
+environmental impacts are less than those of Category A projects).  A careful review of 
+these components by the environmental specialists on the project team found that these 
+impacts are likely to be site-specific, not sensitive, or irreversible, and in every case, 
+mitigation measures can be designed to reduce the negative impacts.  
+ 
+(1) Environmental Assessment:  
+ 
+Environmental Management Plan (EMP) reports for all subprojects were prepared by 
+the Borrower for each of the Phase 1 subprojects. The EMPs comprise a short project 
+description, environmental screening and EMP as guided by the Environmental 
+Assessment Template for Power Transmission and Distribution Projects (the 
+Environment Template) adopted by the government.  Due to the potentially more 
+significant impacts of the construction of high- voltage transmission lines and substations 
+more detailed EAs were prepared for the 500kV components.  
+ 
+The Template will be used for the Phase 2 subprojects and the documents subsequently 
+prepared will be included in the PIP as part of the project documents.  
+ 
+(2) Natural Habitats  
+Page  5
+No Phase 1 projects have identified impacts on natural habitats.  For Phase 2, potential 
+natural habitats will be assessed at subproject appraisal as set out in the Template  
+ 
+(3) Cultural resources  
+ 
+No cultural resources have been identified as impacted; chance find procedures, as set 
+out in the Borrower's regulations have been instituted for Phase 1 projects.  Similar 
+provisions will apply to Phase 2 projects.  
+ 
+(4) Resettlement  
+ 
+Phase 1 subprojects will impact 757 households comprising 3,179 people. Each of the 
+subprojects will have low-intensity impacts involving some temporary or permanent loss 
+of land to transmission tower foundations, substations and line stringing.  Rights of way 
+will have limitations on land use to ensure safety. Most of impacts on land will be 
+temporary.  In the rights of way land use will be limited to agricultural purposes; however 
+most of the displaced persons will be affected only temporarily. Crop compensation will 
+be delivered in cash at current market rates. Land and other assets will be compensated at 
+substitution cost. Particular attention will be paid in assuring that compensation amounts 
+indicated in government tariffs have been adjusted as to actually correspond to these 
+rates. Displaced persons who have to reconstruct their houses will receive a special 
+subsidy to cover livelihood losses in the house reconstruction period. All displaced 
+persons will also be assisted with allowances in order to restore their livelihood at least as 
+the same level of pre-project implementation. Impacts on houses will be mostly partial 
+and generally will not require the relocation of families outside their residential plots.  
+ 
+(5) Indigenous People  
+ 
+No specific impacts on the ethnic minority communities is anticipated in Phase 1. Phase 
+2
+projects will be prepared and appraised according to the ethnic minorities development 
+framework adopted by the government and appraised by IDA.  
+ 
+Linkages to other projects  
+ 
+IDA has also completed a due diligence review of safeguard procedures undertaken for 
+the gas/oil fired O Mon power plant, which will be interconnected with the IDA-financed 
+500 kV line in Phase 1.  It has also conducted a review of the coal-fired Quang Ninh 
+power plant, which would be interconnected with a prospective Phase 2 investment.  The 
+potential impacts include resettlement, construction impacts and environmental emissions 
+during operation.  The review determined that national and regional emissions standards 
+had been adhered to and that environmental and social impacts were being satisfactorily 
+addressed.   
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+The EA has shown that in general the potential impacts are minor, temporary and within 
+the national environmental standards. These impacts will be mitigated and monitored as 
+Page  6
+provided in the EMPs.  Several actions have been proposed in the EMPs/EIAs and these 
+include:  
+ 
+(i) 
+Construction of access roads, substations, and transmission/distribution lines, with 
+associated tree cutting  
+ 
+(ii) 
+Increased levels of dust and noise from the use and movement of equipment  
+ 
+(iii) 
+Road damages and other transport disturbance due to the transportation of 
+building materials.  
+ 
+(iv) 
+Impacts on forest, reserved land and biodiversity.  
+ 
+(v) 
+Soil erosion and landslide.  
+ 
+(vi) 
+Electromagnetic radiation and other health hazards.  
+ 
+(vii) 
+Unexploded ordnance.  
+ 
+(viii)  PCB leakage or disposal.  
+ 
+Successful appraisal of Phase 1 subprojects was conditional on preparation of EMPs and 
+EAs and their implementation is a project covenant to ensure that the mitigation measures 
+will be included in the technical design and bid specifications.  Phase 2 subprojects will 
+require EMPs and EAs to be appraised, and implemented.   
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts. 
+Alternatives have been analyzed in all individual EMPs/EIAs regarding the route 
+alignments as to minimize impacts mainly on resettlement and in some circumstances on 
+environment.   
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide 
+an assessment of borrower capacity to plan and implement the measures described. 
+The Borrower has provided EAs for the 500kV subprojects and EMPs and resettlement 
+plans (RPs) for the 500kV and 220kV subprojects undertaken as part of Phase 1.  The 
+Borrower has also prepared Environmental Guidelines, Resettlement Policy and Ethnic 
+Minority Development Frameworks which have been adopted by the Government and 
+Electricity of Vietnam.  For Phase 2 subprojects to be appraised successfully, EAs, EMPs 
+and RPs and ethnic minority development plans (EMDPs) must be prepared and 
+appraised by IDA.  The local Departments of Natural Resources and Environment 
+(DONREs) have been fully involved in the process by providing environmental 
+certificates for Phase 1 subprojects, as required by the Government. The 500 kV 
+subprojects are subject to EIA clearance by MONRE.  
+ 
+EVN has implemented a number of Bank credits (TD 1, SEIER, RE 1), and is 
+experienced with IDA?s requirements regarding the preparation of RAPs, EIAs, EMPs, 
+and EMDPs. However EVN capacity for implementing EMPs is limited. That includes 
+ensuring the incorporation of mitigation measures in construction bidding documents, 
+supervising the implementation of mitigation measures, as well as carrying out the 
+monitoring program.  Ongoing training and supervision is undertaken to mitigate this 
+risk.   
+ 
+Page  7
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+EA Disclosure and Consultation: For Phase 1 projects, public consultation has been 
+conducted effectively throughout the EIA process, including meetings with local 
+authorities, and public meetings with project affected households.  Project stakeholders' 
+concerns were incorporated into the project design and EMP. Draft EMP/EIA reports 
+were locally disclosed from Feb 15, 2005 in accordance with the Bank's requirement. The 
+EMP/EIA reports have been sent to the Infoshop on February 14, 2005.  
+ 
+RAP Disclosure and Consultation:  consultation has been conducted effectively 
+throughout the resettlement planning process, including inventory and socioeconomic 
+surveys, interviews , and public meetings. The local people's participation process are 
+provided in the RAPs.  All the RAPs have been locally disclosed in Vietnamese and 
+publicly announced in local newspapers. The consolidated RAP and summary report have 
+been sent to the Infoshop on February 14, 2005.   
+ 
+B. Disclosure Requirements Date
+ 
+Environmental Assessment/Audit/Management Plan/Other: 
+Date of receipt by the Bank 
+01/24/2005 
+ 
+Date of "in-country" disclosure 
+02/15/2005 
+ 
+Date of submission to InfoShop 
+02/15/2005 
+ 
+For category A projects, date of distributing the Executive 
+Summary of the EA to the Executive Directors 
+ 
+Resettlement Action Plan/Framework/Policy Process: 
+Date of receipt by the Bank 
+12/24/2004 
+ 
+Date of "in-country" disclosure 
+10/08/2004 
+ 
+Date of submission to InfoShop 
+02/15/2005 
+ 
+Indigenous Peoples Development Plan/Framework: 
+Date of receipt by the Bank 
+02/14/2005 
+ 
+Date of "in-country" disclosure 
+02/15/2005 
+ 
+Date of submission to InfoShop 
+02/28/2005 
+ 
+*
+If the project triggers the Pest Management, Cultural Property and/or the Safety 
+of Dams policies, the respective issues are to be addressed and disclosed as part of 
+the Environmental Assessment/Audit/or EMP. 
+If in-country disclosure of any of the above documents is not expected, please 
+explain why: 
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the 
+ISDS is finalized by the project decision meeting) 
+ 
+OP/BP/GP 4.01 - Environment Assessment 
+ 
+Does the project require a stand-alone EA (including EMP) report? 
+Yes 
+Page  8
+If yes, then did the Regional Environment Unit review and approve the EA 
+report? 
+Yes 
+Are the cost and the accountabilities for the EMP incorporated in the 
+credit/loan? 
+Yes 
+OD 4.20 - Indigenous Peoples 
+ 
+Has a separate indigenous people development plan been prepared in 
+consultation with the Indigenous People? 
+Yes 
+If yes, then did the Regional Social Development Unit review the plan? 
+Yes 
+If the whole project is designed to benefit IP, has the design been reviewed 
+and approved by the Regional Social Development Unit? 
+No 
+OP/BP 4.12 - Involuntary Resettlement 
+ 
+Has a resettlement plan, abbreviated plan, or process framework (as 
+appropriate) been prepared? 
+Yes 
+If yes, then did the Regional Social Development Unit review and approve 
+the plan / policy framework / policy process? 
+Yes 
+BP 17.50 - Public Disclosure 
+ 
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+Yes 
+Have relevant documents been disclosed in-country in a public place in a 
+form and language that are understandable and accessible to project-affected 
+groups and local NGOs? 
+Yes 
+All Safeguard Policies 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities 
+been prepared for the implementation of measures related to safeguard 
+policies? 
+Yes 
+Have costs related to safeguard policy measures been included in the project 
+cost? 
+Yes 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures related to safeguard policies? 
+Yes 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+Yes 
+Page  9
+D. Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Mr Richard Jeremy Spencer 
+07/08/2005 
+Environmental Specialist: 
+Mr Phillip Brylski 
+07/08/2005 
+Social Development Specialist 
+Mr Phillip Brylski 
+07/08/2005 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+ 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Glenn S. Morgan 
+ 
+Comments:   
+Sector Manager: 
+Ms Junhui Wu 
+07/08/2005 
+Comments:   

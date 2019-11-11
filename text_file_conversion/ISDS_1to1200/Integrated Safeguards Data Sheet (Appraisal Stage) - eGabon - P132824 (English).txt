@@ -1,0 +1,320 @@
+                                                INTEGRATED SAFEGUARDS DATA SHEET
+                                                        APPRAISAL STAGE
+                                                                                             Report No.: ISDSA16812
+Public Disclosure Copy
+
+
+
+
+                         Date ISDS Prepared/Updated: 29-Feb-2016
+                         Date ISDS Approved/Disclosed: 08-Mar-2016
+                         I. BASIC INFORMATION
+                            1. Basic Project Data
+
+                            Country:           Gabon                              Project ID:    P132824
+                            Project Name:      eGabon (P132824)
+                            Task Team          Michel Rogy,Dominic S. Haazen
+                            Leader(s):
+                            Estimated          02-Mar-2016                        Estimated   05-Jul-2016
+                            Appraisal Date:                                       Board Date:
+                            Managing Unit:     GTI11                              Lending     Investment Project Financing
+                                                                                  Instrument:
+                            Sector(s):        Public administration- Information and communications (20%), Information
+                                              technology (10%), Telecommunications (10%), General informa tion and
+                                              communications sector (10%), Health (50%)
+                            Theme(s):         e-Government (25%), Infrastructure services for private sector development
+                                              (25%), Micro, Small and Medium Enterprise support (25%), Health system
+                                              performance (25%)
+                            Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+Public Disclosure Copy
+
+
+
+
+                            8.00 (Rapid Response to Crises and Emergencies)?
+                            Financing (In USD Million)
+                            Total Project Cost:      57.65           Total Bank Financing:                   56.00
+                            Financing Gap:            0.15
+                              Financing Source                                                                           Amount
+                              Borrower                                                                                      1.50
+                              International Bank for Reconstruction and Development                                        56.00
+                              Total                                                                                        57.50
+                            Environmental B - Partial Assessment
+                            Category:
+                            Is this a          No
+                            Repeater
+                            project?
+
+                            2. Project Development Objective(s)
+                           The Project Development Objective (PDO) is to: (i) improve the timeliness and availability of
+                           information to support the delivery and management of public health services; and (ii) to foster the
+
+                                                                        Page 1 of 6
+                         development and roll-out of eHealth applications and services, and Information and Communication
+                         Technology (ICT) services more generally.
+Public Disclosure Copy
+
+
+
+
+                         The PDO would be achieved by developing and rolling out a new National Health Information
+                         System (NHIS), harnessing ICT to support the needs of both clinical staff and health system
+                         managers, and by advancing the promotion and growth of a local digital ecosystem in Gabon through
+                         opportunities arising from the development and roll-out of eHealth applications and services.
+
+                         Direct beneficiaries of the eGabon Project will be patients of the national health system and health
+                         workers, as well as private sector actors and entrepreneurs, with a specific focus on women and
+                         youth, seeking to conduct business in the digital economy. Indirect beneficiaries potentially include
+                         all of the country’s population, benefitting from increased availability and quality of affordable
+                         health services as well as mHealth and other useful applications tailored for local needs.
+                         3. Project Description
+                         The e-Gabon project will be executed over a five-year period with a total IBRD financing of US$ 56
+                         million and will follow an integrated solutions with three components : (1) strengthening the
+                         National Health Information System (NHIS) ; (2) advancing the development of a digital innovation
+                         ecosystem in Gabon; and (3) supporting project implementation.
+
+
+                         Component 1: Strengthening the National Health Information System (Estimated Cost US$ 40.24
+                         million IBRD and US$ 1.50 million GoG counterpart funding). The aim of this component is to
+                         improve the efficiency and effectiveness of health service delivery and management which will be
+                         critical to improving Gabon’s human development outcomes. It will also be leveraged to foster the
+                         development of the digital innovation ecosystem in Gabon by incentivizing local content, services,
+                         and applications development centered on health services and information (see Component 2 below).
+                         This component will support MSPSSN and ANINF in : (i) conducting studies to develop/agree upon
+                         appropriate standards to guide information systems development in the health sector, including on
+Public Disclosure Copy
+
+
+
+
+                         the required legal and regulatory framework; (ii) conducting detailed feasibility studies for the NHIS,
+                         including on financing the operating costs after closing date of the project ; (iii) developing the
+                         integrated NHIS; (iv) rolling out the NHIS, initially in a single geographic region and then
+                         throughout the whole country once the system is stable, including the setting up of a National Health
+                         Information Center (NHIC); (v) technical assistance to creating a detailed change management
+                         strategy for the MSPSSN in the broader context of an articulated e-health strategy implementation
+                         plan, including required process redesign/re-engineering to facilitate effective interfaces between the
+                         NHIS and the related manual processes and utilization of the NHIS capabilities; (vi) knowledge
+                         management, including providing study tours of for Gabonese counterparts in selected best practice
+                         countries, information and communications, and the development of a cadre of trainers in the new
+                         NHIS; (vii) strengthening capacity of technicians and information system capabilities administrators
+                         within the MSPSSN and related agencies; and, (viii) providing technical assistance to support to the
+                         new National Health Plan (Plan National de Santé (PNDS), and the preparation for a results-based
+                         financing (RBF) pilot. The counterpart funding is covering an increasing share of the operating costs
+                         of the NHIC and of the NHIS which is expected to be operational in the third year of implementation
+                         (0% in year 3, 25% in year 4 and 50% in year 5). This component will be implemented jointly with
+                         the Health, Nutrition, and Population Global Practice.
+
+                         Component 2: Advancing the development of a digital innovation ecosystem (Estimated Cost US$
+                         11.00 million all IBRD). The aim of this component is to contribute to economic diversification in
+
+
+                                                                      Page 2 of 6
+                         Gabon by fostering the emergence of a digital innovation ecosystem, including a digital incubator in
+                         Libreville and smaller-scale incubators in Port-Gentil and Franceville, with the side benefit of
+                         improving both private and public e-service delivery, which will be critical to stimulate the
+Public Disclosure Copy
+
+
+
+
+                         development generate job opportunities in particular for women and youth. This component will
+                         support, under the leadership of the MENP, public and private stakeholders of the digital economy in
+                         Gabon in: (i) conducting detailed feasibility studies for the incubators to finalize the concept and
+                         assisting in creating the governance structure of the incubators ; (ii) knowledge management,
+                         including providing study tours of for Gabonese counterparts in selected best practice countries and
+                         information and communications ; (iii) setting up the incubators including rental of office space,
+                         revamping of office space, IT and office equipment, other operating costs and the hiring of the
+                         managers of the 3 incubators and of an administrative assistant for the digital incubator in Libreville ;
+                         (iv) develop and implement a strategy to promote the development of local digital content,
+                         applications and services, including organizing hackathons and business plan competitions; and (v)
+                         strengthening the capacity of MENP to lead the digital economy agenda. The private sector involved
+                         in the governance of the incubators sector is expected to fund a minimum of US$ 0.15 million to
+                         cover the salaries of the managers of the 3 incubators and of the administrative assistant for the
+                         digital incubator in Libreville towards the end of the project; any other staff of the incubator is
+                         expected to be funded by the private sector [TBC]. This component will be implemented with
+                         technical support from the Trade and Competitiveness Global Practice
+
+                         Component 3: Supporting project implementation (Estimated Cost US$ 4.76 million IBRD and
+                         [TBC] GoG counterpart funding). The aim of this component is to provide fiduciary support to the e-
+                         Gabon project by the CN-TIPPEE , building upon the arrangements set up for the CAB4 project.
+                         This component will cover : (i) staff, training, office equipment, and operating costs ; (ii)
+                         environmental and social studies, their implementation and/or the monitoring of their
+                         implementation ; (iii) monitoring and evaluation (M&E) for component 1 ; (iv) M&E for component
+                         2 ; (v) midterm and completion reviews ; and [TBC](vi) front-end fees.
+                          4. Project location and salient physical characteristics relevant to the safeguard
+Public Disclosure Copy
+
+
+
+
+                         analysis (if known)
+                         The proposed cities for the business incubators are already connected via the national fiber optic
+                         backbone and are the three most populated cities in the country: Libreville (estimated 41% of the
+                         Gabon’s population), Port-Gentil (8%) and Franceville (3%). There will be no land acquisition, and
+                         no new construction of premises under the project. Potential adverse negative impacts and risks
+                         linked to revamping of office space in existing identified premises for the incubators are likely to be
+                         small-scale and site-specific and thus easily remediable and reversible with usual mitigation
+                         measures on the waste management and workers health surety and security measures in the
+                         contractor contracts.
+                          5. Environmental and Social Safeguards Specialists
+                         Antoine V. Lema (GSU01)
+                         Paul-Jean Feno (GEN07)
+
+                          6. Safeguard Policies       Triggered? Explanation (Optional)
+                          Environmental               Yes            The sites of the business incubators to be set up under
+                          Assessment OP/BP 4.01                      component 2 of the project will be in Libreville, Port-
+                                                                     Gentil and Franceville. There will be no land acquisition,
+                                                                     and no new construction of premises under the project.
+
+
+
+                                                                       Page 3 of 6
+                                                                       Potential adverse negative impacts and risks linked to
+                                                                       revamping of office space in existing identified premises
+                                                                       are likely to be small-scale and site-specific and thus
+Public Disclosure Copy
+
+
+
+
+                                                                       easily remediable and reversible with usual mitigation
+                                                                       measures on the waste management and workers health
+                                                                       surety and security measures in the contractor contracts.
+                            Natural Habitats OP/BP      No             The project will not affect natural habitats.
+                            4.04
+                            Forests OP/BP 4.36          No             The project will not affect natural habitats.
+
+                            Pest Management OP 4.09 No                 The project will not involve pest management.
+
+                            Physical Cultural           No             The project will not affect physical cultural ressources.
+                            Resources OP/BP 4.11
+                            Indigenous Peoples OP/      No             The project will not affect indigeneous peoples.
+                            BP 4.10
+                            Involuntary Resettlement    No             The project will not involve involuntary resettlement.
+                            OP/BP 4.12
+                            Safety of Dams OP/BP        No             The project will not construct or rely on dams.
+                            4.37
+                            Projects on International   No             The project will not affect international waterways.
+                            Waterways OP/BP 7.50
+                            Projects in Disputed        No             The project is not located in a disputed area.
+                            Areas OP/BP 7.60
+
+                         II. Key Safeguard Policy Issues and Their Management
+Public Disclosure Copy
+
+
+
+
+                             A. Summary of Key Safeguard Issues
+                            1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+                              and describe any potential large scale, significant and/or irreversible impacts:
+                              There will be no land acquisition, and no new construction of premises under the project. Potential
+                              adverse negative impacts and risks linked to revamping of office space in existing identified
+                              premises for the incubators are likely to be small-scale and site-specific.
+                            2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+                              in the project area:
+                              Not applicable
+                            3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+                              impacts.
+                              Not applicable
+                            4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+                              assessment of borrower capacity to plan and implement the measures described.
+                              Potential adverse negative impacts and risks linked to revamping of office space in existing
+                              identified premises for the incubators are easily remediable and reversible with usual mitigation
+                              measures on the waste management and workers health surety and security measures in the
+                              contractor contracts. Moreover, it doesn’t seem that the buildings visited present a risk of asbestos;
+
+
+                                                                         Page 4 of 6
+                           however, it is proposed that, as mitigation measure, a certificate of the absence of asbestos is
+                           submitted before signing the lease. The Environmental and Social Management Plan (ESMP)
+                           includes three (3) types of measures:     measures to be included in the bidding documents (RFP)
+Public Disclosure Copy
+
+
+
+
+                           and works contracts, whose costs will be taken into account by bidders when proposing their unit
+                           prices or turnkey prices (cf. measures to include in the unit price table) ; engineering measures
+                           included in the RFP and the works contract; and environmental measures (awareness raising,
+                           monitoring and evaluation, etc.).
+                         5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+                           on safeguard policies, with an emphasis on potentially affected people.
+                           Consultation took place in Libreville on February 6-10, in Port-Gentil on January 18-19, and in
+                           Franceville on January 22-23. Cleared safeguards documents have been published in country
+                           (March, 1st 2016) and in Infoshop (February 29, 2016). Arrangements for environmental
+                           safeguards supervision have been defined and agreed. Inputs from Bank’s environment and social
+                           specialists will be provided throughout project implementation, to support the PIU CN TIPPEE as
+                           well as the Line Ministry in charge of Ecology and Sustainable Development) in monitoring the
+                           effective implementation of safeguards. Relevant provisions of the safeguard documents will also
+                           be included in the Project Operation Manual.
+                         B. Disclosure Requirements
+                         Environmental Assessment/Audit/Management Plan/Other
+                           Date of receipt by the Bank                                      16-Feb-2016
+                           Date of submission to InfoShop                                   29-Feb-2016
+                           For category A projects, date of distributing the Executive
+                           Summary of the EA to the Executive Directors
+                         "In country" Disclosure
+                           Gabon                                                            01-Mar-2016
+                           Comments:
+Public Disclosure Copy
+
+
+
+
+                         If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+                         respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+                         Audit/or EMP.
+                         If in-country disclosure of any of the above documents is not expected, please explain why:
+
+
+                         C. Compliance Monitoring Indicators at the Corporate Level
+                         OP/BP/GP 4.01 - Environment Assessment
+                          Does the project require a stand-alone EA (including EMP)        Yes [   ]   No [   ]   NA [    ]
+                          report?
+                          If yes, then did the Regional Environment Unit or Practice       Yes [   ]   No [   ]   NA [    ]
+                          Manager (PM) review and approve the EA report?
+                          Are the cost and the accountabilities for the EMP incorporated   Yes [   ]   No [   ]   NA [    ]
+                          in the credit/loan?
+                         The World Bank Policy on Disclosure of Information
+                          Have relevant safeguard policies documents been sent to the      Yes [   ]   No [   ]   NA [    ]
+                          World Bank's Infoshop?
+
+
+
+                                                                    Page 5 of 6
+                             Have relevant documents been disclosed in-country in a public   Yes [   ]   No [   ]   NA [   ]
+                             place in a form and language that are understandable and
+Public Disclosure Copy
+
+
+
+
+                             accessible to project-affected groups and local NGOs?
+                            All Safeguard Policies
+                             Have satisfactory calendar, budget and clear institutional      Yes [   ]   No [   ]   NA [   ]
+                             responsibilities been prepared for the implementation of
+                             measures related to safeguard policies?
+                             Have costs related to safeguard policy measures been included   Yes [   ]   No [   ]   NA [   ]
+                             in the project cost?
+                             Does the Monitoring and Evaluation system of the project        Yes [   ]   No [   ]   NA [   ]
+                             include the monitoring of safeguard impacts and measures
+                             related to safeguard policies?
+                             Have satisfactory implementation arrangements been agreed       Yes [   ]   No [   ]   NA [   ]
+                             with the borrower and the same been adequately reflected in
+                             the project legal documents?
+
+                         III. APPROVALS
+                            Task Team Leader(s): Name: Michel Rogy,Dominic S. Haazen
+                            Approved By
+                            Safeguards Advisor: Name: Johanna van Tilburg (SA)                       Date: 07-Mar-2016
+                            Practice Manager/    Name: Boutheina Guermazi (PMGR)                     Date: 08-Mar-2016
+                            Manager:
+Public Disclosure Copy
+
+
+
+
+                                                                      Page 6 of 6
+

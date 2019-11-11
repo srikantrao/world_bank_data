@@ -1,0 +1,328 @@
+                                           INTEGRATED SAFEGUARDS DATA SHEET
+                                                    CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                                Report No.: ISDSC805
+
+                         Date ISDS Prepared/Updated: 19-Feb-2015
+                         Date ISDS Approved/Disclosed: 28-Feb-2015
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:            Samoa                            Project ID:       P128904
+                            Project Name:       WS: Pacific Regional Connectivity Program: Phase 3 - Samoa (P128904)
+                            Task Team           Natasha Beschorner
+                            Leader(s):
+                            Estimated           23-Apr-2015                      Estimated         19-Jun-2015
+                            Appraisal Date:                                      Board Date:
+                            Managing Unit:      GTIDR                            Lending           Adaptable Program Loan
+                                                                                 Instrument:
+                            Sector(s):          General information and communications sector (100%)
+                            Theme(s):           Infrastructure services for private sector development (50%), Rural services and
+                                                infrastructure (40%), Regulation and competition po licy (10%)
+                            Financing (In USD Million)
+                            Total Project Cost:     38.00                      Total Bank Financing:          15.50
+Public Disclosure Copy
+
+
+
+
+                            Financing Gap:           0.00
+                              Financing Source                                                              Amount
+                              BORROWER/RECIPIENT                                                              4.00
+                              IDA Grant                                                                      15.50
+                              Asian Development Bank                                                         18.50
+                              Total                                                                          38.00
+                            Environmental B - Partial Assessment
+                            Category:
+                            Is this a           No
+                            Repeater
+                            project?
+
+                           B. Project Objectives
+                           The development objective of the Project is to reduce the cost and increase the availability of ICT
+                           services to support social and economic development in Samoa.
+                           C. Project Description
+                           The Project is expected to finance a submarine fibre-optic cable linking Samoa to either Fiji (at the
+                         Southern Cross Cable Network at its landing station in Suva) or New Zealand (at the Spark cable
+                         landing facilities in Auckland. In addition, the project will finance a dedicated domestic cable from
+                         Apia, to Savai’i island.
+Public Disclosure Copy
+
+
+
+
+                         Project Components are as follows:
+
+                         Component 1. Submarine cable system (SCS) (US$14.0 million). IDA financing will be provided
+                         through on-lending or an equity contribution to the Government to finance its participation in SCC.
+                         SCC will be responsible for procuring and managing the proposed submarine cable system, including
+                         commercial arrangements for backhaul and interconnection, as appropriate.
+                         Component 2. Technical Assistance (US$1.0 million) for sector regulation and regulatory capacity
+                         development. This will finance medium-term technical assistance for the Office of the Regulator to
+                         review, develop and implement effective regulation for the sector with a particular focus on
+                         wholesale markets. Such assistance will include provision of legal and regulatory expertise,
+                         especially for: competition and market regulation activities; review of existing legal regulatory
+                         framework including drafting new instruments and reforms; and training and skills development.
+                         Additionally, funding will be provided for procurement of technical equipment that is needed to
+                         administer and plan effective arrangements for the sector.
+                         Component 3. Project management support ($0.50 million) for a Project management unit to be
+                         established in the Ministry of Finance, consistent with arrangements for other IDA-financed
+                         operations. This component will finance overall Project coordination, financial management, audit,
+                         communications and outreach, and reporting, monitoring and evaluation.
+                         D. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+                         The Project is not expected to have any major environmental impacts and would be proposed for
+                         consideration as a Category “B” Project. The international route currently proposed is from Samoa
+                         (Upolu) to either Suva, Fiji or Auckland, New Zealand. For the Samoa to Fiji direct option, the
+                         landing point will likely be the existing Vatuwaqa station in Laucala Bay, Suva operated by FinTel
+Public Disclosure Copy
+
+
+
+
+                         where the Southern Cross cable currently terminates. No new construction is required at this site,
+                         with connection enabled through a service agreement and provision of requisite space within existing
+                         facilities for the interconnection, shared provision of power, UPS, fire protection and security, etc.
+                         The Samoa to New Zealand option will terminate at existing cable landing facilities owned by Spark
+                         (formerly Telecom New Zealand) in Takapuna near Auckland. The domestic cable, if included in the
+                         final project scope would be constructed to the neighboring island of Savai’i, with the landing station
+                         to be built on government-owned land at Tuasivi landing. Both the international and domestic cables
+                         will originate at the Samoa/American Samoa (SAS) - American Samoa-Hawaii (ASH) cable landing
+                         site at Fagalii, Upolu (owned by BlueSky Samoa).
+                         The main construction-phase activities will be:
+                         (i)       a marine survey to characterize the route and avoid hazards and/or environmentally
+                         significant zones. Surveys include water depth and seabed topography, sediment type and thickness,
+                         marine faunal/floral communities, and potential natural or human-made hazards. A marine route
+                         survey for a SCS installation commonly assesses a seabed corridor from 1 to 10 km wide with repeat
+                         passes where necessary;
+                         (ii)      detailed design of the submerged infrastructure – the cable and repeaters. This will determine
+                         the cable route and cable types and quantities, and clarify the nature of its deployment on the seafloor
+                         – surface laying, or trenching and burial, supplementary protection, etc.
+                         (iii)     construction of a landing facility and cable station at Tuasivi landing on Savai’i comprising a
+                         small beach manhole and a shore end to the sea. The exact terrestrial arrangement is still to be
+                           defined but the station will likely be on government land associated with the adjacent hospital.
+                           (iv)     cable laying – the cable will likely be buried in the shallow water approaches to the landing
+                           sites and surface-laid along the deep water route. In sections where the cable is not buried it will lie
+Public Disclosure Copy
+
+
+
+
+                           directly on the seabed. Where burying is undertaken, the most effective method is by sea plough (i.e.
+                           as a cable approaches the seabed, it is fed through the plough, which inserts the cable into a narrow
+                           furrow). In near shore environments, cable burial may require other excavation methods (eg. backhoe
+                           trenching).
+
+                           Once the route option has been selected the exact cable route will be determined by a marine survey
+                           that will also map out the locations of all the sensitive ecosystems and the laying of the cables will be
+                           done by a specialized ship guided by sonar and other systems. The final cable route will be chosen to
+                           avoid sensitive deep ocean ecosystems such as hydrothermal vents and seamounts given that the
+                           geophysical conditions at these locations could also destroy the cable. Similarly, avoidance will be
+                           the key mitigation measure to avoid impacts in the near-shore environment (eg. coral-based
+                           ecological communities, seagrasses, fishing grounds etc.). The use of sonar may be a nuisance to
+                           cetacean communities but this risk will be mitigated by adoption of industry best practice protocols.
+                           Given these considerations, the Project is unlikely to significantly impact the marine environment
+                           and sensitive ecosystems and species during the laying of the cable (i.e., the construction phase).
+                           Therefore, any impacts that occur are likely to be short-term, and will not lead to induced and/or
+                           cumulative impacts.
+
+                           The Project will take into account the implementation experience of the recently-commissioned
+                           Tonga-Fiji cable, co-financed by the World Bank and Asian Development Bank. No adverse social
+                           or environmental impacts were experienced during marine operations or landing at Suva or
+                           Nuku'alofa.
+
+                           The Project will use the applicable safeguards policies of the World Bank and Asian Development
+                           Bank. The safeguards process will include a gap analysis to establish differences between World
+                           Bank and Asian Development Bank policies with the highest standards being adopted by the project.
+Public Disclosure Copy
+
+
+
+
+                           The World Bank, in consultation with the Asian Development Bank, will take primary responsibility
+                           for review and clearance of safeguards instruments.
+                           E. Borrowers Institutional Capacity for Safeguard Policies
+                           Samoa has an established Code of Environmental Practice (COEP) and a regulatory agency. The
+                           COEP of Samoa was developed through the assistance of the World Bank and consists of 14 codes
+                           which cover different activities such as road works, quarry operations, drainage works and
+                           telecommunications facilities among others. These codes generally cover the safeguards
+                           requirements of the 14 specific activities identified in the COEP.
+                           The Planning and Urban Management Agency (PUMA) as the environmental regulatory agency of
+                           Samoa will monitor the compliance with the applicable local regulations, which is the COEP.
+                           F. Environmental and Social Safeguards Specialists on the Team
+                           Nicholas John Valentine (GSURR)
+                           Ross James Butler (GSURR)
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+                           Safeguard Policies                Triggered? Explanation (Optional)
+                         Environmental Assessment      Yes   This Project will finance the laying of a submarine
+                         OP/BP 4.01                          fiber-optic cable system, with associated marine and
+                                                             land based infrastructure, between Samoa and Fiji/
+Public Disclosure Copy
+
+
+
+
+                                                             New Zealand and within Samoan territory (Savai’i
+                                                             Island). The project influence area (PIA) will include
+                                                             the terrestrial and marine environments in Samoa and
+                                                             Fiji or New Zealand. Potential adverse
+                                                             environmental impacts may include temporary site-
+                                                             specific disturbance of marine ecosystems (including
+                                                             habitats and species) and coastal areas and
+                                                             communities during installation and maintenance of
+                                                             the cable, and construction of the land and marine
+                                                             based infrastructure, which are expected to be
+                                                             temporary and/or short term and readily manageable.
+                                                             The Project has been initially assigned a category
+                                                             "B" consistent with the nature of these impacts and
+                                                             the requirements of OP4.01. An Environmental and
+                                                             Social Impact Assessment (ESIA) and corresponding
+                                                             Environmental and Social Management Plan (ESMP)
+                                                             will be prepared by the Project team to address these
+                                                             issues in Samoa and Fiji or New Zealand. As part of
+                                                             this process consultations will be undertaken with all
+                                                             stakeholder groups in the relevant countries
+                                                             (potentially affected communities, NGOs and
+                                                             research groups with interest and experience in the
+                                                             Pacific). The ESIA and ESMP will be prepared and
+                                                             disclosed locally in Samoa and in the destination
+                                                             country and also via the World Bank’s Infoshop.
+Public Disclosure Copy
+
+
+
+
+                         Natural Habitats OP/BP 4.04   Yes   The PIA may have designated marine protected areas
+                                                             and parks and important habitats and migratory
+                                                             routes for marine species, and significant flora (e.g.
+                                                             mangroves, seagrasses).The ESIA/ESMP process
+                                                             will determine, investigate and assess these issues
+                                                             and relevant and tangible management measures to
+                                                             ensure full compliance with this policy, and relevant
+                                                             national and international laws, treaties and other
+                                                             obligations. The key mitigation measure will be
+                                                             avoidance of natural habitats and there is sufficient
+                                                             design flexibility to allow this.
+                         Forests OP/BP 4.36            No    The project infrastructure will not impact on forests.
+
+                         Pest Management OP 4.09       No    The project will not include pest management.
+
+                         Physical Cultural Resources   TBD   The ESIA process will determine the presence of
+                         OP/BP 4.11                          Physical Cultural Resources (PCRs) in the PIA, and
+                                                             will propose measures to avoid impacts to PCRs or
+                                                              prepare acceptable plans to manage these impacts if
+                                                              PCRs are present in the project influence area. As
+                                                              two of the three landing sites are at existing facilities
+Public Disclosure Copy
+
+
+
+
+                                                              (and hence will not require new infrastructure) PCRs
+                                                              are unlikely to be relevant. Nevertheless, a Chance
+                                                              Find Procedures/Protocols will be included in all
+                                                              works contracts.
+                         Indigenous Peoples OP/BP       No    Based on prior country-level social analysis
+                         4.10                                 undertaken as part of preparation of the
+                                                              Environmental and Social Safeguard Procedures for
+                                                              the Pacific Island Countries, OP 4.10 is not typically
+                                                              triggered in Samoa. Indigenous Peoples are defined
+                                                              by four characteristics: self-identification as
+                                                              members of a cultural group, collective attachment to
+                                                              habitats/territories, customary institutions, and
+                                                              indigenous language. All four characteristics must be
+                                                              present to trigger the policy. In Samoa, virtually all
+                                                              of the population is ethnic Samoan and there are no
+                                                              significant ethnic cleavages among them; therefore,
+                                                              they do not self-identify as members of a distinct
+                                                              indigenous cultural group within their own country.
+                                                              Similarly there are no customary cultural, economic,
+                                                              social or political institutions that are separate from
+                                                              the dominant society and culture because they are the
+                                                              dominant society and culture. There also is no
+                                                              indigenous language different from the official
+                                                              language of the country.
+                         Involuntary Resettlement OP/   Yes   The proposed landing sites in Apia and Fiji are
+Public Disclosure Copy
+
+
+
+
+                         BP 4.12                              existing and no further land disturbance is required.
+                                                              Nevertheless, due diligence on land ownership will
+                                                              be undertaken. Due diligence will also be undertaken
+                                                              to determine whether or not there are legacy issues
+                                                              (such as involuntary displacement, grievances of lost
+                                                              assets etc) associated with the proposed landing site
+                                                              in Savai’i. The site proposed is understood to be a
+                                                              government-owned hospital site. Nevertheless, this
+                                                              will be confirmed through consultation with
+                                                              Government agencies and associated documentation.
+                                                              In the unlikely event of any legacy issues a strategy
+                                                              to address them will be prepared. This may include
+                                                              securing agreement with relevant parties to ensure
+                                                              appropriate compensation arrangements or other
+                                                              remedial measures agreeable to all parties are made.
+                                                              If involuntary land acquisition and/or resettlement
+                                                              are confirmed and specific Project areas are known
+                                                              prior to appraisal a Compensation and Resettlement
+                                                              Plan will be prepared. When land acquisition and/or
+                                                                                                                        involuntary resettlement are not confirmed or
+                                                                                                                        specific Project areas are unknown prior to appraisal,
+                                                                                                                        a Land Acquisition and Resettlement Framework
+Public Disclosure Copy
+
+
+
+
+                                                                                                                        will be prepared.
+                                                                                                                        Although any impacts are likely to be minimal/
+                                                                                                                        temporary, there is potential for the customary use
+                                                                                                                        right owners (land, fisheries) to be entitled to
+                                                                                                                        compensation payments due to any temporary
+                                                                                                                        interrupted access to their fishing grounds as a result
+                                                                                                                        of the laying of the cable. ). The issue of linkage will
+                                                                                                                        be investigated by the Task team to determine if
+                                                                                                                        there are linked activities as defined by the World
+                                                                                                                        Bank’s OP4.12, clause 4. If there are, the Task team
+                                                                                                                        and the Project Implementing Entity will agree on a
+                                                                                                                        due diligence approach and agree on how best to
+                                                                                                                        address any issues that might arise. These issues will
+                                                                                                                        all be clearly stated in all the Project documents.
+                                 Safety of Dams OP/BP 4.37                                   No                         The project scope does not include dams.
+
+                                 Projects on International                                   No                         The project entails construction of a submarine cable
+                                 Waterways OP/BP 7.50                                                                   between the territorial waters (ocean) of Samoa and
+                                                                                                                        Fiji or New Zealand. However, these water bodies do
+                                                                                                                        not form a boundary between countries.
+                                 Projects in Disputed Areas OP/ No                                                      There are no disputed areas within the scope of
+                                 BP 7.60                                                                                project implementation.
+
+                         III. SAFEGUARD PREPARATION PLAN
+Public Disclosure Copy
+
+
+
+
+                               A. Tentative target date for preparing the PAD Stage ISDS: 16-Mar-2015
+                               B. Time frame for launching and completing the safeguard-related studies that may be needed.
+                                  The specific studies and their timing1 should be specified in the PAD-stage ISDS:
+                                      Safeguards studies TOR were approved by December 2014.
+                         IV. APPROVALS
+                                 Task Team Leader(s): Name: Natasha Beschorner
+                                 Approved By:
+                                 Safeguards Advisor: Name:                                                                                                                         Date:
+                                 Practice Manager/    Name:                                                                                                                        Date:
+                                 Manager:
+
+
+
+
+                         1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+                          form and language that are accessible to potentially affected persons.
+The original had problem with text extraction. pdftotext Unable to extract text.

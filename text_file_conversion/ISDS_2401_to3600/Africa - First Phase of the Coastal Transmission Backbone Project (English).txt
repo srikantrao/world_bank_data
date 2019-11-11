@@ -1,0 +1,355 @@
+﻿                   INTEGRATED SAFEGUARDS DATASHEET
+                         RESTRUCTURING STAGE
+
+I. Basic Information
+Date prepared/updated: 07/16/2012                                  Report No.: AC5969
+1. Basic Project Data
+Country: Africa                              Project ID: P075994
+Project Name: WAPP APL 1 (1st Phase - COASTAL TRANSMISSION BACKBONE)
+Task Team Leader: Sunil W. Mathrani
+Estimated Appraisal Date: April 4, 2005      Estimated Board Date: June 30, 2005
+Managing Unit: AFTG1                         Lending Instrument: Adaptable Program
+                                             Loan
+Sector: Transmission and Distribution of Electricity (100%)
+Theme: Regional integration (67%);Infrastructure services for private sector
+development (33%)
+IBRD Amount (US$m.):             0
+IDA Amount (US$m.):             40
+GEF Amount (US$m.):              0
+PCF Amount (US$m.):              0
+Other financing amounts by source:
+         BORROWER/RECIPIENT                                             13.50
+         IDA Guarantee                                                   0.00
+         EC: European Investment Bank                                   12.00
+         KUWAIT: Kuwait Fund for Arab Economic Development              17.50
+                                                                        43.00
+Environmental Category: B - Partial Assessment
+Simplified Processing                        Simple []            Repeater []
+Is this project processed under OP 8.50 (Emergency Recovery)
+                                                                   Yes [ ]    No [X]
+or OP 8.00 (Rapid Response to Crises and Emergencies)
+
+2. Project Objectives
+There is no change in the project's development objective, which is to increase access of
+West Africa Power Pool (WAPP) Zone A coastal states (Benin, Cote d'Ivoire, Ghana,
+Nigeria, and Togo) to more stable and reliable electricity as a means to alleviate power
+supply deficits and/or to reduce their collective vulnerability to drought-induced power
+supply disruptions. The project responds to the 15-member Economic Community of
+West African States (ECOWAS) region wide demand for stable electricity since the
+region is confronted with serious energy challenges with their countries' demand
+expected to triple to 140,000 GWh (approximately 370 kWh per capita) between 2003
+and 2020. Faced with this power system expansion challenge, ECOWAS member states
+have acknowledged that past efforts to achieve national self-sufficiency in electricity
+supply have been uneconomical due to the high cost of establishing power generation and
+transmission infrastructure. Thus, WAPP is expected to meet some of the region's
+projected electricity requirements.
+3. Project Description
+The WAPP APL1 Phase 1 finances the construction of the 330 kV transmission line (T-
+Line) from Aboadze to Volta in Ghana in two investment tranches. The project
+components include: (i) development (supply of conductors and insulators and supply
+and installation of SCADA and communications systems) of the Aboadze-Volta segment
+of the WAPP 330 kV Coastal Transmission Backbone; (ii) upgrade of the Volta River
+Authority (VRA) system control center at Volta (Tema); (iii) upgrade of the switchyard
+(circuit breakers and relays) of the Akosombo generation station; (iv) engineering
+services in support of project implementation; and (v) technical assistance and consulting
+services for implementation of an "operational mitigation and security plan" for the
+coastal transmission backbone.
+
+ A new component is to be included in the scope of the Project in response to GoG's
+request for financing to cover compensation payments to some owners of bare lands
+along the transmission line right-of-way. This is necessitated by the financial difficulties
+of VRA that have prevented it from making these payments. The estimated amount of
+the financing sought is about US$2 million. Consequently funding for the outstanding
+compensation, as well as associated RAP activities (such as livelihood restoration) will
+be provided by IDA. No other project components will be affected and the necessary
+funding will be obtained from internal reallocation.
+
+  The WAPP institutional building component consists of: (i) support to the WAPP Task
+Force for development of an operational mitigation and security plan for the 330 kV
+coastal transmission backbone; (ii) upgrade of the Volta system control center (Tema) of
+VRA into a WAPP operational coordination center, fully equipped to coordinate the
+operational mitigation and security plan for the 33 kV coastal transmission backbone; and
+(iii) upgrade the ECOWAS energy observatory (Cotonou) into the WAPP secretariat and
+information coordination center, fully equipped to perform monitoring and evaluation
+(M&E) functions for the WAPP APL program.
+
+  Each WAPP APL project combines generation and transmission infrastructure
+development components with the introduction of common "rules of practice" covering
+the institutional, regulatory, technical and operational, and commercial prerequisites for
+promoting cross border electricity trade -- WAPP cooperation agreements. Although
+tailored to specific sub-regional power system configurations, each WAPP component
+agreement will reflect the core principles embodied in the ECOWAS Energy Protocol
+(EEP). Over time, the expectation is that three sub-regional power pooling mechanisms
+will converge into a unified, well functioning regional power pooling mechanism -- an
+important pre-condition for the future evolution of cross-border trading arrangements into
+a unified regional electricity market for West Africa.
+
+ The first (FY05) IDA credit tranche for the WAPP APL 1 project finances the
+construction of the 330 kV line segment from Aboadze to Volta in Ghana, in parallel with
+the Kuwait Fund for Arab Economic Development and the European Investment Bank.
+Ghana has already met the policy trigger for the first tranche. This particular 330 kV line
+segment became operational in September 2009.
+  The second (FY06) IDA credit tranche of the WAPP APL 1 project is part of a co-
+financing package for the remaining segments from the Volta substation in Tema, Ghana
+first to Lomé and then on to the Benin-Nigeria border. The African Development Bank
+and KfW are the financiers for the construction of these T- line segments.
+
+ The first tranche financed the procurement by VRA of the full complement of
+engineering services (engineering design, preparation of bidding documents, bid
+evaluation, supervision of contractors, monitoring of environmental management, and
+resettlement action plans, etc) required to implement all of VRA's contributions towards
+completion of the Coastal Transmission Backbone. IDA financing for CEB's
+requirements are being provided as part of the second tranche of the WAPP APL 1
+project.
+
+4. Project Location and salient physical characteristics relevant to the safeguard
+analysis
+The APL1 Phase 1 project is a one-country project located in Ghana. The project is a 330
+kV T-Line from Aboadze (Takoradi) to Volta (Tema) of about 215 km length with
+appropriate terminations at Aboadze and Volta. The transmission system consists of the
+T-Line (including about 430 towers of 40 m height, conductors, and their supports), its
+associated right-of-way (RoW), and 2 switching stations to provide a connection to the
+rest of the system. The total land area taken up by the RoW will be approximately 8.6 sq
+km, corresponding to a 40 m wide strip running along the entire route. In all, about 35
+communities are affected by the project.
+
+  Rerouting of the T-Line's RoW is crossing over some sacred groves and shrines
+(especially Guako Grove at Pokuase) and some environmentally sensitive sites like the
+Yenku Block "B" forest reserve, and the Apra Hills forest reserve. The T-Line segment
+overlaps with small sections of the forest grove at Pokuase forest reserve at Winneba
+Junction, and Biogas Factory at Pomadze. Corresponding mitigation measures for these
+forest reserves have already been incorporated into the Environment Management Plan
+(EMP) and approved by the Forestry Department (FD) and Environment Protection
+Agency (EPA). The 2009 Annual Environment Report (dated March 2010) recorded no
+issues with forested areas.
+
+5. Environmental and Social Safeguards Specialists
+   Ms Maria Concepcion J. Cruz (AFTCS)
+   Mr Moses Yao Duphey (AFTN1)
+   Ms Beatrix Allah-Mensah (AFTCS)
+6. Safeguard Policies Triggered                               Yes         No
+Environmental Assessment (OP/BP 4.01)                          X
+Natural Habitats (OP/BP 4.04)                                  X
+Forests (OP/BP 4.36)                                                       X
+Pest Management (OP 4.09)                                                  X
+Physical Cultural Resources (OP/BP 4.11)                                   X
+Indigenous Peoples (OP/BP 4.10)                                            X
+Involuntary Resettlement (OP/BP 4.12)                          X
+Safety of Dams (OP/BP 4.37)                                                X
+Projects on International Waterways (OP/BP 7.50)                           X
+Projects in Disputed Areas (OP/BP 7.60)                                    X
+
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project.
+Identify and describe any potential large scale, significant and/or irreversible impacts:
+1. Describe any safeguard issues and impacts associated with the proposed project.
+Identify and describe any potential large scale, significant and/or irreversible impacts:
+ Describe any safeguard issues and impacts associated with the proposed project.
+Identify and describe any potential large scale, significant and/or irreversible impacts:
+
+ The Environmental Assessment (EA) and Environment Management Plan (EMP) were
+approved by the Ghanaian EPA which issued an Environmental Permit on February 27,
+2004. The EA and EMP were disclosed in-country and at the Bank's InfoShop on
+February 24, 2005, after completion of consultations by the EPA. The EA and EMP were
+based on an assessment of the immediate environment and natural resources covered by
+the right-of-way for the 330 kV T-Line from Aboadze to Volta of 215 km length with
+appropriate terminations at Aboadze and Volta.
+
+  The T-Line traverses two forest reserves (Yenku "B" and the proposed Apra Hills). The
+Apra Hills forest reserve consists of natural trees in mixed stands while the Yenku "B"
+(close to the Muni-Pomadze Ramsar Site) is a fuel wood reserve earmarked for
+afforestation. The soil has an iron pan which is affecting the growth of trees. OP4.04 is
+triggered because of the proximity of the T-Line to protected areas and because the EA
+(2003, p. 3) states that 2 endangered species could be affected by downstream impact of
+the T-Line if encroachment increases. A Memorandum was issued in 2007 between the
+VRA and the Forestry Commission regarding conservation and sustainability issues of
+the forests. To this end, VRA paid for destroyed seedlings at the Yenku B Reserve. This
+memorandum is still in force and VRA is committed to this memorandum.
+
+ A Resettlement Action Plan (RAP), disclosed in 2005, identified 1,051 project affected
+persons (PAPs). Of these, 80% were compensated for loss of structures, crops and land.
+The remaining 20% had not come forward for compensation as these were bare lands.
+However, provision has been made for payment to them, should they subsequently show
+up and can establish ownership within a 12-year period from the start of project
+implementation .
+
+  In 2009, new PAPs were identified after the T-Line rerouting. The revised total number
+of PAPs is therefore 2736, broken down as follows: 1,454 famers who lost crops and
+trees, 577 households (representing 952 individual PAPs) whose buildings were
+destroyed, 303 bare land owners ( as at the time of the assessment), 22 stone quarry
+operators and one quarry land owner. These changes in PAPs numbers were reflected in
+a RAP Update that was completed in July 2010 and disclosed in country on April 1, 2011
+and in a recent status report on addendum RAP implementation submitted to the World
+Bank in November 2011. This RAP Update included informal workers and so-called
+"usufructs" (such as stone crackers), who became affected after the re-routing.
+Verification and consultations, especially of the PAPs in the Kwabenya segments of the
+T-Line explain the delays in getting the RAP Update cleared and disclosed by GoG and
+the Bank.
+
+ An initial 330 bareland owners have been paid by VRA. A further 200 bareland owners
+with a claim value of GHC4.1 million still need to be paid compensation.This amount
+and the basis of claims by PAPs have been vetted by VRA's Internal Audit Department
+and found to be bona fide. Payment will be effected by IDA Cr. 4092, following
+approval granted by the Bank's Land Committee to use such funds.
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future
+activities in the project area:
+The total land take comprises the RoW covering about 8.6 sq km along the Aboadze-
+Volta 330 kV T-Line. The impacts along the T-Line RoW are defined by the use and
+access for construction of T-Line towers and a vertical clearance of 7.5 m for human
+health and T-Line security purposes, as defined by the GoG/VRA. In addition, VRA
+enforces a policy of controlled land use under the T-Line to ensure that no trees or
+structures, for example, fall within this vertical clearance. VRA has proposed to allow
+cultivation by farmers under the T-Line provided that they are crops not exceeding 1.5 m
+in height. The original RAP was disclosed on February 28, 2005.
+
+ Impacts on loss of land, assets, and livelihoods were estimated and defined in the 2005
+RAP and 2010 RAP Update. Consultations with PAPs took place between 2004 and
+2005 and documented in the annexes to the RAP and subsequently, more consultations
+took place during the RAP Update between 2009 and 2010. Total payments effected so
+far (for full compensation due for crops and buildings plus part payment for bare lands)
+amounts to GHC 10.9million (US$6.2 million). These payments were made to PAPs in
+the Greater Accra Region and partially in the Central and Western Regions. vAn amount
+of GHC 4.1m (US$2.2m) is still due to 200 owners of bare lands. This is to be covered
+by IDA as indicated above.
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize
+adverse impacts.
+The T-Line rerouting, which was done in 2008 and 2009 took into consideration options
+to avoid high density areas and minimized crossing into forest reserves, etc. As a result, it
+crossed a planned landfill site in Kwabenya, affecting some disputed lands within the
+RoW and potential impacts on stone crackers' livelihoods. An evaluation of the RAP for
+this segment was done, including consultations with PAPs, and these were included in the
+RAP Addendum, which was completed and disclosed in country in 2010.
+
+  An EIA and socio-economic survey of PAPs were completed to ensure that baseline
+information were established. The EMP included occupational and health and safety
+procedures that are satisfactory in terms of noise, dust, air quality, turbidity, pH and O2
+levels monitoring. The contractors also followed the EMP guidelines.
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide
+an assessment of borrower capacity to plan and implement the measures described.
+The safeguards documents -- EA, EMP and RAPs for the Aboadze-Volta T-Line were
+reviewed and disclosed by the GoG agencies in charge of wastes, ruled for compliance
+with Forestry Division guidelines, traffic management, environmental and safety hazards,
+and environmental awareness and safety programs for workers. The environmental
+permit issued by the Ghana EPA allowed VRA to commence civil works and
+construction only until completion of these procedures.
+
+  Within VRA, there are separate units for handling environmental issues. At least 2 full
+time environmental specialists and 11 VRA on-site inspectors monitor the land use,
+health, and safety conditions along the RoW. On resettlement, VRA has a separate real
+estates and security department which prepared the RAPs. There is a corporate estates
+unit that coordinates with the Ghanaian Land Valuation Board (LVB). Selection of the
+RoW was done by an Inter-Ministerial Technical Committee composed of representatives
+from the LVB, Lands Commission, Surveys Department, Country Planning, and all the
+utilities such as water, highways, roads, electricity, public works, EPA and municipal and
+city assemblies. This Technical Committee has a sub-committee specifically for
+demarcating wayleaves for the T-Line RoW. The consulting group, EnviroSound, was
+contracted to carry out independent monitoring of the RoW in terms of implementation of
+the EMP and RAPs and submits progress reports to the Technical Committee.
+
+5. Identify the key stakeholders and describe the mechanisms for consultation and
+disclosure on safeguard policies, with an emphasis on potentially affected people.
+Key stakeholders in the Aboadze-Volta 330 kV T-Line are those living in the immediate
+vicinity of the network. VRA conducted consultations with these directly affected
+communities. Among government agencies, VRA coordinated closely with LVB and
+received from LVB the Property Impact Report which identified all the affected
+structures and land and provided estimated and prevailing market values.
+
+ The main beneficiaries of the project remain the same under the restructured project.
+These include the households and businesses which will receive reliable and satisfactory
+electricity. The 1993, 1998, and 2006 energy crises caused by the low water level of the
+Volta Dam at Akosombo had serious consequences in the region, which were epitomized
+by the closure of the largest off taker of electricity in Ghana in 2006, the Volta
+Aluminum Company. Other beneficiaries include independent power producers in Cote
+D'Ivoire and Ghana as they will be assured of more reliable transmission capacity to
+transfer electricity to load centers in eastern Ghana and/or Benin or Togo.
+
+
+
+B. Disclosure Requirements Date
+Environmental Assessment/Audit/Management Plan/Other:
+  Was the document disclosed prior to appraisal?                   Yes
+  Date of receipt by the Bank                                  01/11/2004
+  Date of "in-country" disclosure                              02/24/2005
+  Date of submission to InfoShop                               02/24/2005
+  For category A projects, date of distributing the Executive
+  Summary of the EA to the Executive Directors
+Resettlement Action Plan/Framework/Policy Process:
+  Was the document disclosed prior to appraisal?                   Yes
+  Date of receipt by the Bank                                  12/09/2010
+  Date of "in-country" disclosure                              01/04/2011
+  Date of submission to InfoShop                               06/23/2011
+Indigenous Peoples Plan/Planning Framework:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+Pest Management Plan:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+* If the project triggers the Pest Management and/or Physical Cultural Resources,
+the respective issues are to be addressed and disclosed as part of the Environmental
+Assessment/Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please
+explain why:
+NOTE:
+ The Addendum RAP was disclosed at the infoshop on June 23, 2011 and this covered
+the additional PAPs that were included when the T-Line was rerouted.
+
+
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the
+ISDS is finalized by the project decision meeting)
+
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) report?               Yes
+If yes, then did the Regional Environment Unit or Sector Manager (SM)           Yes
+review and approve the EA report?
+Are the cost and the accountabilities for the EMP incorporated in the           Yes
+credit/loan?
+OP/BP 4.04 - Natural Habitats
+Would the project result in any significant conversion or degradation of        Yes
+critical natural habitats?
+If the project would result in significant conversion or degradation of other   Yes
+(non-critical) natural habitats, does the project include mitigation measures
+acceptable to the Bank?
+OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy framework/process               Yes
+framework (as appropriate) been prepared?
+If yes, then did the Regional unit responsible for safeguards or Sector         Yes
+Manager review the plan?
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the World Bank's        Yes
+Infoshop?
+Have relevant documents been disclosed in-country in a public place in a        Yes
+form and language that are understandable and accessible to project-affected
+groups and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional responsibilities     Yes
+been prepared for the implementation of measures related to safeguard
+policies?
+Have costs related to safeguard policy measures been included in the project    Yes
+cost?
+Does the Monitoring and Evaluation system of the project include the            Yes
+monitoring of safeguard impacts and measures related to safeguard policies?
+Have satisfactory implementation arrangements been agreed with the              Yes
+borrower and the same been adequately reflected in the project legal
+documents?
+  D. Approvals
+
+Signed and submitted by:                              Name          Date
+Task Team Leader:                   Mr Sunil W. Mathrani          05/29/2012
+Environmental Specialist:           Mr Moses Yao Duphey           05/29/2011
+Social Development Specialist       Ms Beatrix Allah-Mensah       05/29/2012
+Additional Environmental and/or     Ms Maria Concepcion J. Cruz   12/13/2011
+Social Development Specialist(s):
+
+Approved by:
+Regional Safeguards Coordinator:    Ms Alexandra C. Bezeredi      07/12/2012
+  Comments:
+Sector Manager:                     Mr Lucio Monari               07/12/2012
+  Comments:
+

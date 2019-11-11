@@ -1,0 +1,813 @@
+Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+I.  Basic Information
+ 
+Date prepared/updated:  05/14/2009 
+Report No.:  AC4287
+1. Basic Project Data  
+ 
+Country:  China 
+Project ID:  P112359 
+Project Name:  NanGuang Railway Project 
+Task Team Leader:  John Carter Scales 
+Estimated Appraisal Date: April 14, 2009 
+Estimated Board Date: June 25, 2009 
+Managing Unit:  EASCS 
+Lending Instrument:  Specific Investment 
+Loan 
+Sector:  Railways (100%) 
+Theme:  Public expenditure, financial management and procurement (100%) 
+IBRD Amount (US$m.): 
+300.00 
+IDA Amount (US$m.): 
+0.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ Borrower 
+5,685.00
+5,685.00 
+Environmental Category: A - Full Assessment 
+Simplified Processing 
+Simple [] 
+Repeater [] 
+Is this project processed under OP 8.50 (Emergency Recovery) 
+or OP 8.00 (Rapid Response to Crises and Emergencies) 
+Yes [ ] 
+No [X] 
+2. Project Objectives 
+The objective of the project is to provide additional transport capacity and reduce 
+transport time between the less developed western region of southwest China and the 
+relatively more developed Pearl River Delta region.   
+ 
+3. Project Description 
+The project achieves its development objective by connecting the existing railway 
+network in the western region of southwest China and the existing railway network in the 
+Pearl River Delta region.  It will also connect to numerous network improvements 
+underway or planned which will directly contribute to optimizing the benefits to rail 
+transport provided by this project.  The construction being undertaken directly by the 
+project consists of about 400 km of double track electrified mixed use (passenger and 
+freight) railway from Litang West Station to New Zhaoqing Station; in addition, the 
+project will finance half the cost of the 62 km of four-track railway being constructed 
+between New Zhaoqing Station and Sanyanqiao Station by the GuiGuang project # 
+another World Bank financed project (following construction and once the companies are 
+incorporated, it is understood that, the two tracks financed by the NanGuang project will 
+be formally transferred to the NanGuang company but will be maintained and controlled 
+by the GuiGuang company for a yet to be determined fee). At the western end the project 
+Page  2
+connects to the existing rail network of southwest China near the city of Guigang and 
+again further west near the city of Litang (roughly 95 km northeast of Nanning), and then 
+connects with the planned LiuNan Dedicated Passenger Railway project (Liuzhou to 
+Nanning) at the Litang West station (just west of the city of Litang).  At the eastern end 
+the project connects to the existing railway network of the Pearl River delta at 
+Sanyanqiao Station.  
+ 
+The Bank loan will finance the procurement of goods associated with the portion of the 
+project between Litang West and New Zhaoqing including communications, signaling 
+and electrification equipment and maintenance vehicles.  In addition to the goods 
+financed by the Bank loan, there is related technical assistance.  The scope of the 
+technical assistance (consultant services#, training, and study tours) (if any) will be 
+identified during implementation.  
+ 
+The proposed project alignment is relatively direct connecting urban centers such as 
+Litang, Guigang, Wuzhou and Zhaoqing. The project passes through generally lightly-
+populated country and traverses a variety of terrains including flat alluvial terraces and 
+eroded basins and hilly river valley basins.  
+ 
+Although the track will be laid to technical standards that permit speeds of up to 250 
+km/h, passenger trains will operate at a maximum speed of 200 km/h and freight trains at 
+a
+maximum speed of 120 km/h.  In order to accommodate the design speed, it will have a 
+relatively straight alignment.  The project includes many bridges (approximately 33% of 
+the length) and tunnels (approximately 20% of the length).  
+ 
+Sixteen intermediate railway stations and four overtaking stations are planned to be built 
+or reconstructed as part of the project. The new track of the project will run parallel to the 
+existing track between Litang and Guigang (about 59 km). Between Litang and Guigang, 
+freight trains will operate on the existing track while the passenger trains will use the new 
+project track.  Power will be provided from the nearby city grid to the #traction 
+substation# (i.e. transformer house) in the railway station under an electricity purchase 
+contract and by the local power company. There will be connection lines between the 
+traction substation and the city grid.  These lines are parts of the city grid and not separate 
+dedicated electric transmission lines for the project.  
+ 
+The planned construction period is about 4 years.  Construction commenced in April 
+2009 and the project is proposed to be commissioned by 2014.  At the time of appraisal, 
+mid-April 2009, land acquisition had begun, though resettlement and construction had 
+not.  Nonetheless, construction, once begun, is expected to proceed rapidly.   
+ 
+4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis 
+The proposed project alignment is relatively direct connecting urban centers such as 
+Litang, Guigang, Wuzhou and Zhaoqing. The project passes through generally lightly-
+populated country and traverses a variety of terrains including flat alluvial terraces and 
+eroded basins and hilly river valley basins.   
+ 
+Page  3
+5. Environmental and Social Safeguards Specialists 
+Mr Juan D. Quintero (EASRE) 
+Mr Chaohua Zhang (SASDI) 
+Mr Songling Yao (EASCS) 
+Mr Peishen Wang (GEFEO) 
+Mr Ning Yang (EASCS) 
+ 
+6. Safeguard Policies Triggered
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+X
+Natural Habitats (OP/BP 4.04) 
+X
+Forests (OP/BP 4.36) 
+ X 
+Pest Management (OP 4.09) 
+ X 
+Physical Cultural Resources (OP/BP 4.11) 
+X
+Indigenous Peoples (OP/BP 4.10) 
+ X 
+Involuntary Resettlement (OP/BP 4.12) 
+X
+Safety of Dams (OP/BP 4.37) 
+ X 
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X 
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts: 
+The NanGuang Railway will have the potential to cause direct, indirect, or cumulative 
+impacts to the social and natural environment. The NanGuang Railway is anticipated to 
+have beneficial impacts related to increased mobility and the promotion of economic 
+development in impoverished regions of southern China. Manageable adverse impacts 
+are primarily related to (i) crossing a few sensitive sites such as nature reserves and forest 
+parks, areas of cultural value, and scenic areas; (ii) community impacts such as 
+resettlement in urban and rural areas, community severance, and noise and vibration; (iii) 
+induced and scenic impacts; and (iv) impacts during construction and operation.  
+ 
+Crossing Sensitive Areas. The most sensitive component of the proposed project will be 
+the construction and operation of the railway line through environmentally and socially 
+sensitive areas. There are more than 20 environmental sensitive sites identified along the 
+project corridor. Various alternatives were studied and the final proposed alignment 
+successfully avoided most of these environmental sensitive areas. However, due to the 
+distribution of economic hubs and special natural conditions along the line, there remain 
+about 7 environmental sensitive areas upon which the alignment may have potential 
+impact. The final alignment will pass through the edge of two nature reserves (all through 
+tunnels), edges of two forest parks (all through tunnels), and outskirt boundary of one 
+nature reserve and one scenic area (by tunnels), and edge of an ancient tombs area. These 
+include: (i) Tongledashan Nature Reserve, (ii) Jilongding Nature Reserve, (iii) Dalishan 
+Forest Park, (iv) Yapoji Forest Park, (v) Dinghushan Nature Reserve, (vi) Xinghu Scenic 
+Page  4
+Area, (vii) Guigang Ancient Tombs Group Area.  In addition it also avoids the core 
+protection sections of all water source protection areas.  
+ 
+Natural Habitats (OP4.04). By avoiding most ecologically sensitive areas, the project 
+has minimized impacts on natural habitats. However, construction activity in a localized 
+ecologically sensitive area could affect the ecological environment. Any impact will be 
+temporary during construction stage. The tunnel-bridge-tunnel scheme of the project 
+(more than 50% of the whole alignment) will minimize the loss of surface vegetation as 
+well as fragmentation of habitats for wildlife. It also avoids the main habitats where rich 
+wildlife biodiversity is present. The ecological survey through data collection, 
+consultation with local authority/research institutes and utilization of GIS/GPS/Remote 
+Sensing technology, confirmed that surface vegetation along the alignment (outside the 
+protected areas) are mostly secondary/planted trees of common species. Given the 
+intensive development and human activities along the project corridor, the project areas 
+are not valuable habitats in terms of biodiversity. Hence, the project will not lead to 
+significant loss of natural habitats, nor adversely affect any critical natural habitat.  
+ 
+Through screening against World Bank safeguards policies, it is noted that the OP4.04 
+Natural Habitats applied for this project. The application of this policy is due to the fact 
+that part of the alignment fall into the boundary of a number of natural reserves which 
+have legal protection status and compatible with the definition of #natural habitats# in 
+OP4.04. However, the alignment sections through these reserves are all tunnels, without 
+ecological footprint within the boundary of these reserves. Site specific analysis has been 
+conducted for each sensitive site. The construction arrangement is made to avoid any 
+physical activities within the reserve boundary. Close consultations with relevant 
+authorities have been conducted as per law requirement, and legal approvals have been 
+granted by these authorities. Therefore, though OP4.04 is triggered due to legal concept 
+reason, the analysis confirmed that there is very little potential impact envisioned.   Since 
+there will be no degradation or conversion of natural habitats, there is no need for offsets; 
+however, mitigation measures have been included in the EMP such as: (i) rules for 
+contractors; (ii) no disposal sites or new access roads inside sensitive areas; (iii) 
+ecological monitoring (specifically requested by the Ministry of Environmental 
+Protection); and (iv) greening programs.  
+ 
+Though some woodland will be taken during construction, the project will not lead to 
+loss of protected or old/valuable plants under Chinese laws. No any forest of scale will be 
+cleared or impacted during construction. The loss of vegetation will be common plants 
+species and farmland crops, which does not represent high value in terms of biodiversity. 
+Intensive soil erosion control and re-vegetation program is designed as per Chinese 
+laws/regulations upon completion of the project, which will further mitigate and 
+compensate the loss of surface vegetation. Therefore, the project#s impact on surface 
+vegetation will not be significant, and can be minimized to acceptable level. As a result, 
+OP 4.36 Forest is not triggered. It is also noted that there will be no use of herbicides 
+along the right-of-way to clear vegetation. Therefore, OP 4.09 Pest Management is not 
+triggered.  
+ 
+Page  5
+Physical Cultural Resources. (OP 4.11). A cultural resources survey was conducted for 
+all project sites, led by local archeological institutes, in combination with consultations 
+with local cultural property management authorities and the general public. This survey 
+was complemented by field surveys during EA preparation. One cultural property site 
+Guigang Ancient Tombs Group Area (ca. 3.08 km2) was identified. The alignment will 
+pass through one edge of the area. Though officially this area was named as Ancient 
+Tombs Group Area in 1963 for protection, it was observed during the field visit that the 
+area has become highly urbanized. There is little evidence of visible tombs. The 
+alignment is being fine-tuned to reduce the possibility of potential impact on the site. The 
+proposed project will include upgrading of an existing railway station and expansion of 
+existing railway lines by two new tracks. Another round of field surveys is being 
+conducted by licensed cultural relic institutes.  The licensed institute has been hired by 
+the NanGuang Project Office to conduct the detailed investigation and excavation 
+following process and technical procedures as per Chinese Cultural Property Law and 
+relevant regulations.  Chance-find procedures in line with domestic cultural property 
+laws/regulations are included in the EMP.  
+ 
+There is one church in the rural area in Nanhai, and five surname-based family temples 
+to be resettled in Sanshui and Nanhai region of Guangdong.  Due to their normal status of 
+building and common existence as public institutions, they are not listed as any level of 
+Cultural Property Protection unit. Consultation has been conducted with these local 
+communities, and their compensation and relocation have been discussed and agreed with 
+those families, and included in the RAP. There are also about 1320 graves to be relocated 
+along the alignment. All these graves are regular tombs for local communities and they 
+are individually scattered along the alignment, with this cumulative number. The project 
+is not affecting large cemeteries.  The approach is compensation for self-relocation with 
+compensation rates and implementation procedures covered in RAP.  
+ 
+Construction Impacts. Construction of the NanGuang Railway will cause temporary 
+impact to the surrounding environment. Typical short-term construction impacts include 
+noise, vibration, air quality, and water quality. If properly planned, the impact of 
+construction on neighborhoods, businesses, and the natural environment can be 
+minimized. Several aspects of construction have received special attention such as access 
+roads, disposal of excess materials from tunnel construction, and management of camps.  
+ 
+-
+Spoil disposal and Borrow Pits. Given the fairly larger portion of tunnels throughout 
+the line, proper handling of spoil material is a major environmental issue. 38 soil borrow 
+sites and 106 spoil disposal sites have been identified following a series of environmental 
+and social criteria. Restoration and reclamation plans have been developed for these sites, 
+including farmland reclamation of 440 ha, grass re-vegetation of 45 ha, and planting of 
+658,000 trees and bushes. Screening criteria and approval procedures were developed and 
+included in EMP for additional such sites proposed by contractors during the construction 
+period.  
+ 
+-
+Access Roads. Road network is fairly developed in the project corridor, hence the 
+demand for new access roads will be limited. However, the access roads, if not well 
+Page  6
+managed will create substantial environmental impact. Access roads in key sensitive 
+areas (nature reserve, forest park and scenic areas) were particularly assessed. Rural road 
+networks will be utilized as access roads with appropriate strengthening. As most of the 
+access roads will be identified by contractors during construction, a screening and 
+approval procedure was developed and included in the EMP to ensure that Environmental 
+Supervision Engineers review and approve the proposal from contractors. Upon project 
+completion, these access roads will be handed over to local communities if appropriate; 
+otherwise they will be ecologically restored.  
+ 
+-
+Tunnel Construction. There are a total of 106 tunnels in the project alignment, of 
+which large amount of spoil waste need proper management. All major tunnels are 
+specifically assessed in terms of geological condition, surrounding environment, potential 
+impact and key mitigation measures. Geological survey data indicated non-existence of 
+water-rich rock formation for these tunnels, hence minimal potential impact on 
+groundwater. Spoil material will be reused for the project and local construction demand 
+to the extent possible, and the waste spoil will be properly disposed of in pre-identified 
+disposal sites according to the Soil Erosion Control Plan. Safety and health issues related 
+to tunnel construction will follow the standard practice and technical norms in the sector.  
+ 
+-
+Water Pollution. The construction of bridge foundations and wastewater from 
+construction sites will have a potential impact on surface water. Such impact can be well 
+mitigated by good construction management practice, including cofferdam method for 
+bridge foundation construction and sedimentation tanks for slurry and for wastewater.  
+Wastewater is not allowed to be discharged directly into surface water bodies. 
+Construction wastewater will not be allowed to be discharged directly into irrigation 
+systems for farmland without proper treatment.  
+ 
+-
+Soil Erosion. Temporary retaining walls will be constructed to prevent earth/stone 
+falling into water body. Wastewater collection/interception ditches will be dug in the 
+material processing area. Spoil disposal sites will have proper drainage, retaining 
+structures and timely leveling and reclamation. A dedicated Soil Erosion Control Plan has 
+been developed, as per requirement by Chinese laws, as part of EA document package. 
+This plan includes design and mitigation measures for soil erosion control of all disturbed 
+sites, including subgrade, slope protection, borrow and disposal sites, access roads, 
+construction and camp site, etc.  
+ 
+-
+Social Disturbance. Construction activities will have an impact on local road traffic 
+and disturb people#s daily lives. Social impacts will be mitigated by proper selection of 
+access roads, avoidance of residential areas, well planned traffic management measures 
+(dedicated staff, installation of clear signage at sensitive sites, speed limit for material 
+hauling vehicles), provision of temporary access roads for local communities, integration 
+of community development into access road planning, timely restoration of irrigation 
+facilities, among others. Cultural education and sensitivity training of workers will be 
+provided with special attention to earth excavation, tomb relocation, local holidays or 
+festivals and local spiritual facilities. Health education will also be provided to workers 
+(including locally hired workers) on local epidemics, and HIV/AIDS.  
+Page  7
+-Dust and Noise. Construction activities will cause temporary impact of airborne dust. 
+The mitigation measures to be adopted include frequent water spraying on construction 
+sites and access roads to suppress dust; covering of trucks transporting bulk materials and 
+timely site clean up after construction; dust control facility for material processing and 
+mixing tower; personal protection wear (e.g. masks) will be provided to workers as 
+needed. Construction activities will also exert temporary noise impact on local 
+communities. Such impact will be properly mitigated by measures including use of low 
+noise equipment and proper maintenance; careful scheduling of construction activities 
+near sensitive sites; speed limits and signs prohibiting the use of vehicle warning devices 
+will be installed for access road sections near sensitive sites; and night-time material 
+hauling is to be restricted for roads near residential areas.  
+ 
+Impacts during operation. The main issues during operation of the NanGuang Railway 
+include noise and vibration, community safety and severance, and pollution aspects in 
+terminals.  
+ 
+-
+Noise and Vibration. Modeling results indicated that the noise level will exceed 
+applicable standards at 192 sensitive receptors (residential houses, schools and hospitals). 
+Accordingly, proper mitigation measures have been developed in the EMP to mitigate 
+noise impact, including noise barriers (139 places with total length of 54.8 km), 
+insulation windows (126 places with total area of 35,430 m2), relocation of 106 
+households, and use of track with dampening system. The modeling also concluded that 
+the vibration level will exceed applicable standards at 184 sensitive receptors. At these 
+locations special elastic track and vibration-absorption cushions will be adopted to 
+mitigate vibration impacts to an acceptable level. Intensive green belts have been 
+designed along both sides of alignment to help reduce noise impact.  
+ 
+-
+Community Severance and Safety. The entire line will be fenced to keep people off the 
+track. Bridges and underpasses to carry roads over or under the track are designed based 
+on consultation with local government and general public. There are a total of 292 
+passages (over-passes and underpasses) designed to facilitate safe movement of people 
+and animals across the railway right of way. More than 1157 culverts are designed, with 
+consideration of pedestrian and agricultural vehicles demand.  
+ 
+-
+Waste Management. Wastewater treatment facilities will be installed in the train 
+stations to ensure compliance of discharge. Solid waste will be properly collected and 
+disposed of in local municipal landfills.  
+ 
+-
+Electro-magnetic Frequency Impacts. Modeling and analog analysis concluded that 
+operation of electric trains may have a potential impact on nearby households who use 
+antennas for television signal receiving. This potential impact will be monitored during 
+the operation stage, and a total budget of RMB 2.59 million has been reserved for 
+provision of cable TV access for those villages that may subject to impact. The EMF 
+impact traction from power lines is known to be negligible, and the impact of power 
+transformer substations and GSM-R stations is within the applicable standards.  
+Page  8
+Resettlement  
+ 
+Resettlement planning includes an inventory survey of physical impacts and a census of 
+the affected population within the impact area as determined under the preliminary 
+technical design, as well as a socioeconomic survey and a social assessment conducted.  
+ 
+Despite the minimizing efforts which reduced project impacts, the project is expected to 
+affect 170 villages of 15 counties in Guangxi Region and Guangdong Province.  About 
+27,777 mu of land will be acquired, including 13,231 mu of cultivated land and another 
+12,780 mu of land is expected to be leased during the construction period.  About 19,059 
+people in 5,444 households will be affected through land acquisition.  About 6,931 
+people in 2,029 households, including 210 households with 650 persons from urban 
+areas, are to be relocated.  195 enterprises, 7 schools and 23 shops will be affected as 
+well.  The total affected population is expected to be 25,784 people, including people 
+losing land and/or houses; employees in affected factories and shops; and students in 
+affected schools. The project will also have impacts on local infrastructure and public 
+facilities.  The impact data will be updated for implementation with detailed engineering 
+designs that will finalize the precise project impact boundaries.  The updated impact data 
+and costs will be forwarded to the Bank.  
+ 
+Ethnic minority groups  
+ 
+An impact screening exercise was conducted in Sept 2008 to identify whether ethnic 
+minority groups are present in the impact zones. Only Zhuang ethnic minority groups 
+were found and they live in 22 villages together with Han villagers.  
+ 
+Further social assessment efforts reviewed the following aspects relating to Zhuang 
+ethnic minorities # government policies and definition of ethnic minorities, land tenure 
+and land resources utilization, livelihood patterns, social and cultural characteristics, 
+informal institutions, poverty status, project impacts and mitigation measures.  It 
+concludes that i) the Zhuang ethnic population identified in the 22 villages do not meet 
+the definition of the indigenous people under the World Bank OP 4.10, and ii) there is no 
+need for prepare a separate ethnic minority peoples# development plan.    The team has 
+reviewed the social assessment report and endorses its conclusions and recommendations.  
+The team social scientist confirms that IP communities meeting the characteristics 
+defined under OP 4.10 are absent in the project area.   
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+Induced Impacts. The railway will provide excellent opportunities for local development 
+such as local business trade, transportation and construction, especially around the 
+terminals. Without planning, these changes could bring about congestion, increased waste 
+and pollution, and threats to cultural resources. Impacts on large urban centers will be 
+less significant since they will easily absorb these changes. MOR has maintained 
+extensive dialogue with local governments. Alignment and location of terminals in urban 
+and scenic areas meet restrictions and objectives of urban land use, and consistent with 
+urban master plans. Therefore, the induced development impact will be fully incorporated 
+into the urban planning and management.  
+Page  9
+Aesthetic Impacts. The line will pass through a nature reserve, a scenic areas and two 
+forest parks which are considered to have special aesthetic value. In addition to 
+mitigation measures such as minimizing cutting and filling, an ambitious reclamation 
+plan has been designed (Soil Erosion Control Plan) for re-vegetation of embankment, 
+cutting slopes, tunnel portals, borrow pits and disposal sites to restore ecological 
+conditions. Aesthetic impacts and measures have been identified including: (i) special 
+design of terminals to ensure adequate greening and compatibility with local architecture 
+and landscape; (ii) tunnel portals with re-vegetation plans to minimize visual impacts; 
+(iii)  
+ 
+bridges will also be designed with consideration to landscape, and (iv) #green corridor# 
+development along the alignment.  
+ 
+Cumulative Impacts. There are two relatively large scale linear projects, Pingnan-
+Wuzhou Expressway and GuiGuang Railway, are/will be under construction within the 
+construction time frame of NanGuang railway project and partially within the same 
+corridor, and could potentially interact with NanGuang project in terms of cumulative 
+impacts. During feasibility study and EA preparation, close attention has been given to 
+mitigate negative impacts caused by simultaneous construction and operation, including 
+i) extensive consultation with local governments and among project owners; ii) 
+combination of transport corridors of two railway lines in the east end that are 66.4 km 
+long; iii) comprehensive mitigation plan as part of the EMP to be implemented during 
+construction and operation.   
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts. 
+Analysis of Alternatives. Alignment selection at the regional level was followed by site-
+specific analysis of alternatives.  
+ 
+-
+Regional Corridors. During the project proposal and feasibility study, three corridors at 
+the regional level were studied, namely Northern, Central and Southern line schemes. 
+Comparative analyses of these three corridors were carried out considering the current 
+situation and development planning of the regional railways. At this stage, the main 
+factors considered are regional economic and social development as well as financial and 
+technical aspects, as specific environmental concerns could not be meaningfully 
+examined at this macro-scale analysis. In summary, the Central line scheme is the most 
+efficient express passage connecting the southwest and northwest part of China and Pearl 
+River delta area. It can effectively expand regional railway network, and will bring 
+potential benefits to the region, alleviate poverty and improve socio-economic 
+development. These developments are consistent with the Ministry of Railways policies 
+and long-term planning and therefore, it was recommended for further feasibility studies.  
+ 
+-
+Alternative Alignment by Sections. The process of alignment selection has been an 
+important environmental impact mitigation tool for this project. Alternative alignments 
+for various sections have been extensively studied to choose the optimal scheme in terms 
+of environmental and social impacts technical feasibility, and financial and economic 
+benefits. Consultation with local governments and relevant authorities in charge of 
+environmental sensitive areas were conducted and fully incorporated into the alternative 
+Page  10
+selection process. Considerable effort has been made to avoid ecological sensitive areas, 
+geological unstable zones, floodplains and wetlands, relocation of houses, cultivated 
+lands, and cultural resources in order to ensure the environmental feasibility of the 
+alignment. The final alignment thus minimizes environmental and social impacts, avoids 
+natural hazards, and connects the economic hubs in the region. Section specific alignment 
+alternatives included:  
+ 
+o
+Litang Section at western end. Four alternative Litang station locations and alignments 
+were considered. The option of Litang West Station is chosen due to its consistency with 
+urban planning, less land acquisition and resettlement, convenient traffic management, 
+avoidance of drinking water protection area, and official agreement from local 
+government.  
+ 
+o
+Guigang City Section. Two alternative alignments were considered (using existing 
+Guigang station along existing railway line and, and new by-pass alignment and a new 
+Guigang station). The option using existing Guigang Station is selected due to its 
+consistency with urban development planning, convenient mobility connections, efficient 
+utilization of existing infrastructure such as station and freight facilities, and agreement 
+of local government.  
+ 
+o
+Pingnan # Zhaoqing Section. This section features topography of eroded plain and 
+low-hilly areas, where the alignment is generally parallel with Xijiang River, a major 
+tributary of Pearl River. Two alternatives were considered: north and south options. The 
+south option is selected due to avoidance of core drinking water protection areas, Fengkai 
+National Geological Park, Hezhou Scenic Area and Wuzhou ancient tomb areas, less 
+interference with urban development planning and agreement from local government. 
+The selected alignment will pass through the edges of one nature reserve and two forest 
+parks, all by tunnels to minimize ecological impact.  
+ 
+o
+Cangwu County Section. Three alternatives were considered: north, middle, south 
+options based on three station locations. The north option is selected because of its close 
+distance with urban areas and convenient mobility connection, compatibility with urban 
+planning and existing infrastructure, and agreement from local government.  
+ 
+o
+Yun#an Section. Two alignment options were considered: north option (close to city) 
+and south option (far from city). The north option is selected due to its less disturbance 
+with urban planning, avoidance of geological hazards, and agreement from local 
+government.  
+ 
+o
+Zhaoqing Section. Two alignment options were considered for Zhaoqing section, i.e. 
+through-city option and city by-pass option. The city by-pass option is selected because 
+of avoidance of significant amount of urban resettlement, minimized impact on 
+environmental sensitive areas (through tunnels), avoidance of large amount of urban 
+resettlement, and minimized disturbance with urban planning.   
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide 
+an assessment of borrower capacity to plan and implement the measures described. 
+The project has implemented a three-fold approach to minimize environmental and social 
+impacts. These are:  
+ 
+-
+Avoidance. Alternative analysis has been regarded as one of the most important 
+mitigation measures to minimize potential adverse environmental and social impact.  
+Page  11
+-
+Sound Engineering. The project has been designed with state-of-the art engineering. 
+Tunnel-bridge-tunnel schemes are adopted for more than 50% of the whole alignment 
+will avoid most sensitive issues and minimize ecological footprint.  
+ 
+-
+Comprehensive Mitigation Plans. Detailed environmental design plans (green 
+corridors and landscaping), environmental management plans, resettlement action plans 
+have been prepared in order to minimize and/or compensate unavoidable impacts from 
+the project.  
+ 
+Environmental Management Plan. A stand-alone Environmental Management Plan has 
+been developed based on the findings of the EIA report. The EMP details the 
+environmental management and supervision organizations and responsibilities, mitigation 
+measures, capacity training plan, monitoring plan, and budget estimates of EMP 
+implementation.  The Ministry of Railways is committed to ensure that the contractor 
+implements the relevant obligations within the EMP.  Bank supervision will monitor, 
+during supervision, environmental activities carried out under the project in order to 
+ensure compliance.  
+ 
+EMP implementation is managed by MOR (FCTIC) through the project office of the 
+Preparatory Group of the NanGuang Railway Company. An environmental management 
+unit will be established in the Project Office with dedicated environmental staff. 
+Qualified environmental staff will be required to be assigned in Contractor team, and 
+Environmental Supervision Engineer teams will be in place to ensure effective 
+implementation of the EMP. A separate Environmental Consultant will be engaged by 
+MOR to monitor the EMP performance of the Contractors and Supervision Engineers.  
+ 
+A
+two tier monitoring program has been developed for this project: daily and regular 
+monitoring is to be carried out by Contractors and Environmental Supervision Engineers 
+from the supervision companies, and periodical compliance monitoring by professional 
+monitoring institutes. The MOR, through the Project Office, will be responsible for 
+submitting progress reports on the EMP implementation to the Bank.  
+ 
+Resettlement  
+ 
+The MOR has completed its resettlement planning process.  Planning exercises include 
+i) an inventory survey of physical impacts, ii) a census of the affected population within 
+the impact area as determined under the preliminary technical design, and iii) a 
+socioeconomic survey on a sample basis, and iv) a social assessment carried out by the 
+National Ethnic Minority University.  
+ 
+A
+draft Resettlement Plan was completed in September 2008, and reviewed with World 
+Bank comments and finalized in April 2009.   The Resettlement Plan is prepared 
+following relevant local and World Bank policies.  It details the project impacts, legal 
+framework, resettlement and rehabilitation approach and program, cost estimates and 
+implementation arrangements, including organizations, schedule, grievance redress and 
+monitoring arrangements.  A Resettlement Policy Framework is developed to guide and 
+manage resettlement planning process to mitigate construction related impacts such as 
+access roads, construction camps, and spoil sites. It lays out principles, policies, planning 
+Page  12
+steps and institutional as well as management responsibilities for mitigating impacts 
+during construction.  
+ 
+A
+joint resettlement office has be established to implement the resettlement program on 
+behalf of MOR, and Guangxi Region and Guangdong Province. It will lead and 
+coordinate the resettlement implementation of the project.  Meanwhile the provinces of 
+Guangxi and Guangdong will establish their respective resettlement offices to take charge 
+of the RAP implementation within their province. The provincial resettlement office will 
+organize and coordinate various levels of government agencies for RAP implementation. 
+At the same time, resettlement offices will also be established at county and township 
+level.   The MOR has designed internal and external monitoring mechanisms for RAP 
+implementation. Internal monitoring will be conducted by the project management 
+offices.  An external monitoring agency is to be engaged to report on resettlement 
+implementation progress every three months until December 31, 2010 and every six-
+months thereafter. The MOR was in the process of hiring the external monitor. The RAP 
+provides details of the above.  
+ 
+Resettlement implementation started late March 2009.  Implementation activities mainly 
+include updating of the resettlement impacts based on detailed technical design, village 
+level consultation and meetings for livelihood planning, signing village agreements, and 
+completing land acquisition approval procedure under the China Land Administration 
+Law.  By the time of appraisal, physical taking of land for construction has not taken 
+place yet and relocation activities have not started yet.   Resettlement implementation is 
+expected to continue until mid-2011, lasting about two years.  This schedule corresponds 
+with the engineering construction schedule.   
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+A
+combination of opinion surveys and public meetings in the townships, village 
+committees and affected villagers# homes have been implemented during preparation of 
+the EA and Resettlement Action Plan. Each mitigation measure was determined by 
+suggestions from both experts and the public. Most of the concerns have been 
+incorporated either in project design, the environmental management plan, or the 
+resettlement plan.  
+ 
+A
+brief edition of the EA for this project was made accessible on the website of SSDI 
+(http://www.crssdi.com), to collect opinions, suggestions and concerns from communities 
+along the line and public in general. Suggestions were provided via telephone, fax and e-
+mail. After the first draft of Environmental Impact Report was completed, a summary 
+was published in website of SSDI (http://www.crssdi.com) on August 15, 2008.  
+ 
+The EIA has been reviewed and approved by Ministry of Environmental Protection 
+(EMP) in October of 2008. The content of the report is accessible to all interested parties 
+in the Environment Evaluation Unit, China Railway Eryuan Engineering Group Co., Ltd., 
+and the Environment Protection Bureaus of each province or city. Disclosure of final EA 
+have been done by MOR in middle March, 2009 on Guangxi Daily Newspaper and 
+Page  13
+Southern Daily Newspaper. Full version EIA and RAP are released on the websites of 
+Provincial DRCs of each province. They are easily accessible to general public.  
+ 
+Public consultations have been mainstreamed in the project planning process.  Active 
+public consultations started early 2008 by the three engineering design institutes over the 
+selection of railway alignment and location of railway stations.  The feedback of these 
+consultations helped optimize project design and reduce the project impacts.    Local 
+governments, community and village leaders, the affected households, and affected 
+enterprises and shops participated in the planning surveys of census and asset inventory    
+The socioeconomic survey continued the public consultation process through focus group 
+discussions, interviews and questionnaire survey.  It focused on compensation rates, 
+relocation arrangements and livelihood restoration approach and measures.  These 
+contributed to the formulation and finalization of the approach and package for livelihood 
+restoration.  
+ 
+Project information was shared with the affected villages and entities through 
+newspapers, TV, broadcasting, public bulletin boards and public meetings.  The RAP and 
+RPF have also been disclosed to the public at public libraries and government public 
+websites March 2009.  Their availability is also announced in local newspapers.  These 
+have also been disclosed at the Bank Public Information Center at the World Bank's 
+Beijing Office and the Bank Infoshop Washington DC.  The final RAP is being re-
+disclosed at the above locations.  A resettlement information booklet is being prepared as 
+a
+summary of the final approved RAP.  It will be distributed to the affected households in 
+affected villages and entities.   Public consultations are planned to continue through the 
+resettlement plan implementation. Further details on consultations are available in project 
+filet.   
+ 
+B. Disclosure Requirements Date
+ 
+Environmental Assessment/Audit/Management Plan/Other: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+ 
+Date of receipt by the Bank 
+03/17/2009 
+ 
+Date of "in-country" disclosure 
+03/17/2009 
+ 
+Date of submission to InfoShop 
+03/17/2009 
+ 
+For category A projects, date of distributing the Executive 
+Summary of the EA to the Executive Directors 
+ 
+Resettlement Action Plan/Framework/Policy Process: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+ 
+Date of receipt by the Bank 
+03/17/2009 
+ 
+Date of "in-country" disclosure 
+03/17/2009 
+ 
+Date of submission to InfoShop 
+03/17/2009 
+ 
+Indigenous Peoples Plan/Planning Framework: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Page  14
+Date of submission to InfoShop 
+ 
+ 
+Pest Management Plan: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+*
+If the project triggers the Pest Management and/or Physical Cultural Resources, 
+the respective issues are to be addressed and disclosed as part of the Environmental 
+Assessment/Audit/or EMP. 
+If in-country disclosure of any of the above documents is not expected, please 
+explain why: 
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the 
+ISDS is finalized by the project decision meeting) 
+ 
+OP/BP/GP 4.01 - Environment Assessment 
+ 
+Does the project require a stand-alone EA (including EMP) report? 
+Yes 
+If yes, then did the Regional Environment Unit or Sector Manager (SM) 
+review and approve the EA report? 
+N/A 
+Are the cost and the accountabilities for the EMP incorporated in the 
+credit/loan? 
+Yes 
+OP/BP 4.04 - Natural Habitats 
+ 
+Would the project result in any significant conversion or degradation of 
+critical natural habitats? 
+No 
+If the project would result in significant conversion or degradation of other 
+(non-critical) natural habitats, does the project include mitigation measures 
+acceptable to the Bank? 
+No 
+OP/BP 4.11 - Physical Cultural Resources 
+ 
+Does the EA include adequate measures related to cultural property? 
+Yes 
+Does the credit/loan incorporate mechanisms to mitigate the potential 
+adverse impacts on cultural property? 
+Yes 
+OP/BP 4.12 - Involuntary Resettlement 
+ 
+Has a resettlement plan/abbreviated plan/policy framework/process 
+framework (as appropriate) been prepared? 
+Yes 
+If yes, then did the Regional unit responsible for safeguards or Sector 
+Manager review the plan? 
+N/A 
+The World Bank Policy on Disclosure of Information 
+ 
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+No 
+Have relevant documents been disclosed in-country in a public place in a 
+form and language that are understandable and accessible to project-affected 
+groups and local NGOs? 
+Yes 
+All Safeguard Policies 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities 
+Yes 
+Page  15
+been prepared for the implementation of measures related to safeguard 
+policies? 
+Have costs related to safeguard policy measures been included in the project 
+cost? 
+Yes 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures related to safeguard policies? 
+Yes 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+No 
+D. Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Mr John Carter Scales 
+04/17/2009 
+Environmental Specialist: 
+Mr Ning Yang 
+04/16/2009 
+Social Development Specialist 
+Mr Songling Yao 
+04/16/2009 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+Mr Chaohua Zhang 
+04/16/2009 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Panneer Selvam Lakshminarayanan 
+05/14/2009 
+Comments:   
+Sector Manager: 
+Mr Ede Jorge Ijjasz-Vasquez 
+05/07/2009 
+Comments:   

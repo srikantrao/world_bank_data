@@ -1,0 +1,954 @@
+﻿The World Bank                                                                          RESTRUCTURING ISDS
+National Statistics and Data for Development (P162621)
+
+
+
+
+                       Integrated Safeguards Data Sheet
+                                   Restructuring Stage
+
+
+       Restructuring Stage | Date ISDS Prepared/Updated: 03-Jan-2018| Report No: ISDSR24020
+
+
+
+
+                       Regional Vice President:    Makhtar Diop
+                              Country Director:    Mark R. Lundell
+                Senior Global Practice Director:   Carolina Sanchez
+                   Practice Manager/Manager:       Pierella Paci
+                            Task Team Leader:      Javier Eduardo Baez Ramirez
+              The World Bank                                                                          RESTRUCTURING ISDS
+              National Statistics and Data for Development (P162621)
+
+
+
+
+    Note to Task Teams: The following sections are system generated and can only be edited online in the Portal.
+
+.
+
+    I. BASIC INFORMATION
+
+    1. BASIC PROJECT DATA
+
+    Project ID                                                    Project Name
+    P162621                                                       National Statistics and Data for Development
+    Task Team Leader(s)                                           Country
+    Javier Eduardo Baez Ramirez                                   Mozambique
+    Approval Date                                                 Environmental Category
+    06-Jul-2017                                                   Not Required (C)
+    Managing Unit                                                 Is this a Repeater project?
+    GPV01
+
+
+    PROJECT FINANCING DATA (US$, Millions)
+
+    SUMMARY               -NewFin1
+
+
+
+
+    Total Project Cost                                                                                             92.54
+    Total Financing                                                                                                92.54
+    Financing Gap                                                                                                   0.00
+
+
+    DETAILS -NewFinEnh1
+
+
+
+
+    World Bank Group Financing
+      International Development Association (IDA)                                                                  62.00
+         IDA Grant                                                                                                 62.00
+    Non-World Bank Group Financing
+      Counterpart Funding                                                                                          10.00
+         Borrower/Recipient                                                                                        10.00
+      Other Sources                                                                                                20.54
+         UK: British Department for International Development (DFID)                                                 3.80
+            The World Bank                                                                           RESTRUCTURING ISDS
+            National Statistics and Data for Development (P162621)
+
+
+
+         CANADA, Govt. of                                                                                            6.00
+         ITALY, Govt. of (Except for Dev. Coop. Dept. - MOFA)                                                        1.70
+         SWEDEN, Govt. of                                                                                            4.60
+         NORWAY, Gov. of (except for Ministry of Foreign Affairs)                                                    4.10
+         UN Fund for Population Activities                                                                           0.34
+
+
+    2. PROJECT INFORMATION
+
+    Current Project Development Objective
+    The project development objective is to improve the production and dissemination of quality socioeconomic statistics.
+    The project will also support the use of data in evidence-based policy making through improved capacity for spatial
+    development planning and aid data management.
+
+
+
+.
+
+
+    Note to Task Teams: End of system generated content, document is editable from here.
+
+
+    3. PROJECT DESCRIPTION
+
+1.     The project is structured into four components: (1) INE Institutional Strengthening and Capacity Building; (2)
+Data Collection, Analysis, and Dissemination; (3) Mainstreaming Spatial Development Planning; and (4) Aid Data
+Management for Enhanced Planning, Budgeting, Monitoring and Accountability. The following exposition focuses on the
+main activities for each component, including a more in-depth description of the main activities.
+
+Component 1: INE Institutional Strengthening and Capacity Building (Total of US$4.60 million equivalent)
+
+Subcomponent 1.1: NSS Strategy, Coordination, and Quality Assurance (US$0.50 million equivalent)
+
+2.      Mozambique’s NSS Strategic Plan 2013–2017 highlights the need for continued strategic planning and better
+coordination and quality assurance in the production of statistics. The project supports the evaluation of the current
+NSDS and the production of the strategic plan for statistical development (2020–2024). These two activities provide a
+comprehensive and unified framework to identify the priorities for the overall NSS moving forward and set out the
+strategies to meet these needs in a more coordinated and efficient manner. Coordination of statistical activities in the
+country is also important to avoid redundancies, create synergies, and ensure high-quality standards. INE is the lead
+agency with the responsibility of coordinating the NSS and providing technical and methodological guidance. However,
+intersectoral coordination is inadequate. This is also in light of the growing demand for statistical information, many of
+which rely on routine/administrative data. The project also supports other areas that are important for INE to fulfill its
+coordination and quality assurance roles: updating and implementing mechanisms for data production, harmonization,
+and quality control; increasing INE’s technical capacity on statistical quality assurance; and increasing communication,
+knowledge exchange, and coordination with key actors of the NSS and users of statistics.
+         The World Bank                                                                                RESTRUCTURING ISDS
+         National Statistics and Data for Development (P162621)
+
+
+
+3.      The main activities under this subcomponent include the following:
+
+        (a)   Undertake the final evaluation of the current NSDS and produce the new strategic plan
+
+        (b)   Provide TA to update existing quality standards and manuals for the NSS
+
+        (c)   Strengthen INE’s quality assurance professional services provided to other members of the NSS
+
+        (d)   Introduce support mechanisms such as workshops to facilitate communication, knowledge exchange,
+              coordination, and sensitization with actors of the NSS and users of statistics;
+
+        (e)   Support study tours and exchange visits between INE and more advanced NSSs both regionally and
+              internationally
+
+Subcomponent 1.2: INE Skills-Development and Technical Capacity (US$1.30 million equivalent)
+
+4.       A skilled workforce is a key element for the development of high-quality statistics and for the sustainability of
+the project outcomes. The project invests in updating a staff competence and training needs assessment as well as
+implementing a skill enhancement program for staff based on the gaps identified in the needs assessment. This
+subcomponent targets skill development in areas that are complementary to technical training inherent to the data
+collection and statistical production activities supported by the project. Priority areas identified for training programs,
+seminars, and manuals include basic statistical theory; ‘Statistics in Action’ (overview of all phases of a standard survey
+such as measurement methods, questionnaire design, interview techniques, data entry and editing, and preparation of
+tables and charts); Excel (basic and advanced), management, leadership, and motivation; and quality systems for statistics.
+
+5.       INE’s ENE is expected to be at the center of the activities to implement the skills development and technical
+capacity strategy. ENE was created to provide technical training on applied statistics to INE and other actors of the NSS.
+However, the few courses currently offered benefit mostly INE’s personnel at headquarters. ENE lacks staff with graduate
+degrees in statistics. The proposed project intends to fund a scholarship program (four or five scholarships) to train
+competitively selected staff abroad in accredited graduate programs in statistics. The scholarship program covers tuition
+fees, stipends, and book fees. The scholarship recipients sign binding contracts to return to INE after the completion of
+the degree program to teach at the statistics school for a minimum of four years. If a scholarship recipient leaves
+employment with INE or does not complete the four-year requirement, the recipient is required to reimburse INE for the
+total scholarship amount. The competitive selection process for scholarship recipients is detailed in the Operations
+Manual. With regards to physical infrastructure, ENE has two rooms (housed at INE’s headquarters) with 25 computers to
+carry out in-house training activities. Yet, the school needs minor physical renovations and lacks basic furniture and ICT
+equipment to enhance the delivery of face-to-face and remote training to provincial offices (ICT investments for ENE are
+described in the next subcomponent). INE also plans to build a language lab within ENE to improve the language skills of
+its technical staff, many of whom are unable to attend regional workshops and other training activities delivered in English
+and French and to interact with international consultants who are not fluent in Portuguese.
+
+6.      The main activities under this subcomponent include the following:
+
+        (a)   Update existing staff competence and training needs assessments
+
+        (b)   Develop training plan for staff of INE and the NSS
+         The World Bank                                                                                 RESTRUCTURING ISDS
+         National Statistics and Data for Development (P162621)
+
+
+
+        (c)   Train staff in relevant areas of statistics, information management, quality systems for statistics, and
+              leadership and motivation
+
+        (d)   Improve the human and physical infrastructure of ENE
+
+        (e)   Develop a language lab at ENE
+
+        (f)   Introduce a scholarship program
+
+Subcomponent 1.3: Investment in ICT (US$1.80 million equivalent)
+
+7.       The availability of timely and quality statistics requires an adequate technical set up to collect, process, and
+disseminate data. The project supports ICT infrastructure development at INE along two broad areas. The first of these
+areas focuses on ICT capacity building and includes the preparation of the strategic ICT plan. Another aspect of ICT capacity
+building to be supported by the project includes training in areas such as management, coordination, and maintenance of
+hardware, software, and network; computer programming; and help desk support services. The second area of
+engagement finances the needed upgrade of the ICT infrastructure at INE to ensure efficient workflows for data collection,
+processing, analysis and storage. This includes investments in the hardware and software to improve data connectivity
+and video conferencing between headquarters and the 10 regional offices; strengthening data exchange systems through
+a portal to be used by INE and other actors of the NSS, expanding the SIEE to include demographic and social data and
+indicators, and developing ICT inventory and support management systems. This subcomponent also supports the ICT
+infrastructure required (laptops, videoconferencing, language lab, hardware, and software) for in-house training activities
+at ENE.
+
+8.      The main activities under this subcomponent include the following:
+
+        (a)   Elaborate INE’s strategic ICT plan
+
+        (b)   Train relevant staff on ICT management, coordination, and maintenance; systems development; and client
+              support services
+
+        (c)   Upgrade ICT infrastructure at INE and regional statistics offices
+
+Subcomponent 1.4: INE Project Management (US$1.00 million equivalent)
+
+9.       This subcomponent supports INE’s capacity to plan, manage, and implement the nontechnical aspects of all
+project activities under Components 1 and 2. This subcomponent provides financing that enables INE to (a) prepare AWPs
+and budgets; (b) carry out all disbursements and any FM and procurement-related activities in accordance with World
+Bank-approved procedures; (c) prepare and consolidate periodic progress reports; and (d) monitor and evaluate project
+activities. The unit is supported by international consultants, when needed, with a focus on building the capacity of the
+unit over the initial phase of the project.
+
+Component 2: Data Collection, Analysis, and Dissemination (Total of US$69.94 million equivalent, of which IDA
+US$39.40 million equivalent)
+
+Subcomponent 2.1: Population and Housing Census (Total US$55.54 million equivalent, of which IDA US$25.00 million
+equivalent)
+           The World Bank                                                                                              RESTRUCTURING ISDS
+           National Statistics and Data for Development (P162621)
+
+
+
+10.     The enumeration of the 2017 Population and Housing Census was carried out as planned during the period of
+August 1-15. The post-enumeration survey to assess the coverage of the census was successfully undertaken in the second
+half of September 2017. INE released some preliminary results of the census (total population disaggregated across
+provinces and by gender) on December 2017. All the completed census questionnaires have been returned to the Data
+Processing Center (DPC), a warehouse located near Maputo, the capital city.
+
+11.      There is substantial progress in the processing of the census data. The Government paid an outstanding debt
+with Novabase, the firm hired to process the data, for work undertaken in 2017. Final census results will be released in
+April 29, 2019. All questionnaires have been digitalized/scanned and 67 percent were verified for character interpretation.
+Novabase is expected to finalize its tasks by the end of November. INE will be responsible for the finalization of the data
+processing. INE will need additional equipment and technical assistance to successfully finalize the data processing and
+avoid further delays. UNFPA and US Census Bureau have hired staff to provide technical assistance on the ground and the
+Bank contributed with the purchase of additional computers.
+
+12.      Another challenge is the reimbursement of expenses associated to the census field work. Expenditures of the
+field work (enumerators, controllers, guides, operational costs, etc.), were to be reimbursed with project funds given that
+project was declared affective only after the census enumeration. Following an audit performed by Tribunal
+Administrativo, the WB approved reimbursement of 94 percent of the $10m advanced by the Government. INE will visit
+its provincial offices to solve the issues identified during the audit.
+
+
+
+Subcomponent 2.2: Welfare Monitoring System (US$11.53 million equivalent)
+
+13.      The current welfare monitoring system in Mozambique collects data every six years, making it difficult to track
+the evolution of poverty and other social indicators on a regular basis. The Government’s goal to reduce poverty is
+articulated in its PQG, Action Plan for Poverty Reduction, and its long-term vision—the Agenda 2025. To assess progress
+against this action plan, INE has conducted four household budgetary surveys (IOFs) in the last two decades (1996/1997,
+2002/2003, 2008/2009, and the most recent in 2014/15). Although these surveys produce key poverty and social
+indicators, the long time elapsed between them does not allow for more frequent monitoring of these indicators.
+
+14.     Modern statistical systems are expected to update poverty numbers every three years. The project supports the
+setup of a welfare monitoring infrastructure by establishing a flexible, robust, and continuous survey system delivering
+poverty numbers every three years, in line with international standards.1 The backbone of this system will consist of two
+household budget surveys implemented in 2019/20 and 2022/23—the first and fourth year of the project—to produce
+updated poverty numbers every three years. Each of the surveys will interview a sample of about 12,000 households over
+12 months, nominating representatives at the province and urban/rural levels. The household budget surveys will be used
+to update the CPI weights. The sample for the 2019/20 survey will be based on a sampling frame, drawn upon the census
+2017. The sample for the 2021 survey will be drawn from the 2017 Population and Housing Census. Seasonality will be
+captured by stretching fieldwork over 12 months. The surveys will be implemented using computer-assisted personal
+interview systems and will follow the new global World Bank protocols on survey design and comparability. Anonymized
+datasets will be made freely available in a micro-data library.
+
+
+
+
+1
+ International standards refer to the ‘World Bank Shared Strategy for Household Surveys: Tracking the Twin Goals and Informing Investment and
+Policy Decisions’ and ‘Household Surveys at the World Bank: Protocol for Data Collection, Quality Assurance, and Standard Setting ’.
+         The World Bank                                                                                 RESTRUCTURING ISDS
+         National Statistics and Data for Development (P162621)
+
+
+
+15.     This subcomponent also supports a technical assessment to uncover the factors driving the under-reporting of
+expenditures in existing household welfare surveys. There are concerns that the IOFs may have a structural problem in
+capturing consumption, which has been apparently grossly under-reported. This has seriously compromised the potential
+for producing accurate estimates of monetary poverty. Another feature of the IOF-2014/15 that further undermined the
+use of the data for analysis is the panel aspect of the survey. High attrition rates among respondents in the poorest parts
+of the country are adversely affecting the comparability of data. The findings from this technical assessment would lead
+to improved data quality for more reliable poverty estimates.
+
+16.      The GoM is also interested in developing a mechanism to complement the standard budget surveys with shorter
+ones to measure poverty on a more regular basis. Collecting detailed, high-quality data on household incomes and
+expenditures is costly and time consuming and requires strong technical capacity. For that reason, the objective of this
+activity is to develop a lighter household survey in 2021 (without including income and expenditure data) to infer poverty
+based on household characteristics. At the same time, a shorter multipurpose survey could provide data to monitor other
+social and economic indicators. INE developed, in the past, a lighter survey with similar purposes but its design needs to
+be revisited to further reduce the length of the questionnaire, revise its geographical coverage, and strengthen its focus
+on variables that are strong determinants of household consumption.
+
+17.      There are gaps in technical capacity on poverty data, measurement, and diagnostics. The MEF, with TA from the
+University of Copenhagen and UNU-Wider, has the responsibility of producing poverty estimates and analysis. However,
+INE expressed an interest and willingness to develop the technical capacity of its own staff to take over this responsibility
+and generate these estimates on their own. This would align INE with practices followed in most national statistical
+institutions in other parts of the world. The implementation of the two surveys in 2019/20 and 2020/23 will give INE staff
+the opportunity to build capacity in generating poverty estimates.
+
+18.     The main activities under this subcomponent include the following:
+
+        (a)   Conduct IOF in 2019–2020
+
+        (b)   Conduct IOF in 2022-2023
+
+        (c)   Carry out a technical assessment on underreporting expenditures in IOFs
+
+        (d)   Implement a lighter household survey in 2021 and a high frequency poverty measurement system
+
+Subcomponent 2.3: National Accounts, Consumer Price Indicators, and Economic Statistics (US$2.41 million equivalent)
+
+19. The current system of national accounts and other economic statistics face several constraints that undermine their
+coverage and quality and therefore limit their ability to accurately reflect the structure and dynamics of the economy.
+The project provides TA for the rebasing and updating of the series as well as for helping close some data gaps to expand
+the accounts to additional economic sectors (for example, transportation and construction) and the informal economy
+and increasing their frequency and regional disaggregation. Thanks to project support, INE launched in November 2018
+the new base year for the national accounts (2014), bringing it up to international standards. INE will update the GDP
+series back to 1991 using the new base year. Preliminary results show that the rebasing resulted in a jump in 2017 nominal
+GDP figures by 7 percent.
+
+20.    INE is currently developing an online system to capture and analyze integrated economic statistics for
+measuring the country’s economic activity. In an effort to increase the quality and frequency of firm-level data and reduce
+         The World Bank                                                                                 RESTRUCTURING ISDS
+         National Statistics and Data for Development (P162621)
+
+
+
+the costs of collecting it, INE has been developing a portal called SIEE where firms are required to upload their data online.
+The platform automatically runs consistency and validation checks and produces key indicators. Given that some firms still
+do not have access to the Internet or prefer to fill out physical questionnaires, the online system will be run in parallel
+with the traditional paper-based data collection system to ensure high response rates and the statistical
+representativeness of the sample. Operationalizing the SIEE requires extensive training, both internally with staff from
+headquarters and the regional offices and externally with the firms.
+
+21.      The data and geographical coverage of the current CPI do not capture price dynamics in key urban markets and
+economic sectors. The national CPI currently covers only Maputo, Nampula, and Beira, excluding important urban centers
+in other provinces. INE plans to expand the coverage of the CPI to nine of the eleven provinces in the country by regularly
+collecting price data in the the cities of Quelimane, Tete, Chimoio, Inhambane, and Xai-xai. In addition, outdated data for
+the imputation of house rents and the use of nonconventional units to measure the consumption of several basic goods
+constrain the tracking of price changes over time and across regions. INE’s technical capacity on CPI measurement
+methodology and analysis also needs to be reinforced.
+
+22.     The main activities under this subcomponent include the following:
+
+        (a)   Provide technical support for the rebasing of the national accounts and updating of the series
+
+        (b)   Improve the availability (collection) and quality of economic statistics used for the national accounts
+
+        (c)   Improve the data and geographical coverage of the production of the CPI
+
+Subcomponent 2.4: Data Accessibility (US$0.47 million equivalent)
+
+23.      Open and timely access to anonymized data contributes to transparency, supports evidence-based policy
+making, and creates user demand for high-quality statistics. While INE and other actors of the NSS have made efforts to
+make data and statistics available to the public, several constraints remain. The Statistics Strategic Plan 2013–2017 noted
+that implementation of a publications plan is weak; there is absence of an effective marketing unit for services and
+products of the NSS; the multiplicity of databases is not based on a common platform or information architecture; and
+measures to fully protect micro-data (that is, data related to individual respondents) against improper disclosure are not
+in place. The project will support an update of INE’s current micro-data access and information policies and dissemination
+practices. In addition to this, the project will finance TA on statistical data anonymization techniques and solutions for
+protecting micro-data against identity and attribute disclosure. These activities are expected to take place by December
+2018. With regards to accessing the data, prospective users currently need to make a written request to INE, which can
+take a long time to be reviewed. Moreover, information readily accessible online is mostly about aggregate indicators
+rather than the actual micro-data. The project will support the development of an online platform to share aggregated
+information and micro-data from censuses, surveys and other sources.
+
+24.     The main activities under this subcomponent include the following:
+
+        (a)   Review and update the micro-data access and dissemination policy
+
+        (b)   Carry out TA and training on micro-data anonymization
+
+        (c)   Develop an online micro-data portal to make micro- and aggregated data publicly available.
+             The World Bank                                                                                           RESTRUCTURING ISDS
+             National Statistics and Data for Development (P162621)
+
+
+
+Component 3: Mainstreaming Spatial Development Planning (Total of US$10.00 million equivalent)2
+
+25.      Besides issues that constrain the production of statistics, there are also challenges to mainstreaming the use of
+available data for development planning across government agencies. National development planning across different
+government levels and sectors can contribute to increasing the effectiveness and efficiency of public policies and programs
+in Mozambique. As in many countries, it is particularly challenging for the Government to manage and maximize the
+impact of a large, diverse, and geographically spread portfolio of investments. With the absence of adequate cross-sectoral
+policy research, planning and portfolio management, there is a high risk of waste, misuse, or under-allocation of public
+resources. Lack of cross-sectoral integration and coordination also undermines the impact of investments as each project
+is developed and executed without taking into consideration synergies with the investments in other sectors.
+
+26.     Between 2011 and 2015, the GoM—with support from the World Bank3—conceptualized and developed the
+PDE. The PDE comprises an advanced multisectoral national GIS, a SDP Unit under the MTC, and an Inter-Ministerial
+Coordination Committee. The PDE is intended to foster cross-sectoral SDP by integrating, analyzing, and providing access
+to geo-referenced national statistics and sectoral data from national ministries and agencies. The GIS stores an extensive
+database and a large catalogue of high-definition satellite images, covering national and sectoral censuses and household
+surveys; geographic information (for example, administrative boundaries, hydrology, topography, geology, and so on);
+land use; ICT networks; and public infrastructure (such as roads, rails, health, and education facilities), among others. In
+the past, statistics, sectoral data, and satellite photos were fragmented and difficult to access as they were produced and
+managed by different agencies, using different systems and protocols. The GIS not only creates one point of access for all
+relevant spatial data, but also offers sophisticated analytical applications to facilitate cross-sectoral development planning.
+
+                                            Figure 1.1. SDP Platform Capabilities/March 20174
+                                      The SDP Cross-Sectoral Institutional Network
+
+
+
+
+2
+    The total US$10 million allocated to component three includes an unallocated amount of US$401,000.
+3 The World Bank assisted the GoM in implementing the SDP TA Project from 2011 to 2015. The project PDO was to provide financial and technical
+assistance to improve national social and economic development planning through the introduction, institutionalization, and mainstreaming of
+multisectoral SDP methodologies and practices.
+4
+    Source: Spatial Development Platform Project Implementation Unit, Ministry of Transport 2017
+The World Bank                                                        RESTRUCTURING ISDS
+National Statistics and Data for Development (P162621)
+
+
+
+
+                               SDP Platform Hardware
+
+       Part Number                         Description          QTY
+                       Blade Enclosure - SERVER CHASSI           1
+                 HP Suporte-anos Foundation care 24x7 service    1
+                                Blade Servers                    3
+                                 HP Suporte                      3
+                           Switch para Chassi Blade              2
+                                 HP Suporte                      2
+                                  Tor Switch                     2
+                                 HP Suporte                      2
+                                 core Switch                     1
+                                 HP Suporte                      1
+                 Amario e Fontes de Alimentacao-server Rack      1
+
+                               SDP Platform Software
+         The World Bank                                                                                  RESTRUCTURING ISDS
+         National Statistics and Data for Development (P162621)
+
+
+                            Product Name                               Version Available   Total
+                            Data Interoperability Server                     10.5    1       1
+                            Data Interoperability Server                     10.5    1       1
+                            ArcGIS Network Analyst for Server                10.5    1       1
+                            ArcGIS Network Analyst for Server                10.5    1       1
+                            ArcGIS GIS Server Advanced                       10.5    1       1
+                            ArcGIS GIS Server Advanced                       10.5    1       1
+                            Geostatistical Analyst for ArcGIS Server   10.1 - 10.4.1 0       1
+                            Geostatistical Analyst for ArcGIS Server   10.1 - 10.4.1 1       1
+                            Data Interoperability Server               10.1 - 10.4.1 0       1
+                            Data Interoperability Server               10.1 - 10.4.1 1       1
+                            ArcGIS Spatial Analyst for Server          10.1 - 10.4.1 0       1
+                            ArcGIS Spatial Analyst for Server          10.1 - 10.4.1 1       1
+                            ArcGIS Network Analyst for Server          10.1 - 10.4.1 0       1
+                            ArcGIS Network Analyst for Server          10.1 - 10.4.1 1       1
+                            ArcGIS for Server Advanced Enterprise      10.1 - 10.4.1 0       1
+                            ArcGIS for Server Advanced Enterprise      10.1 - 10.4.1 1       1
+                            ArcGIS 3D Analyst for Server               10.1 - 10.4.1 0       1
+                            ArcGIS 3D Analyst for Server               10.1 - 10.4.1 1       1
+                            SQL Server                                         12    0       1
+                            SQL Server                                         12    1       1
+
+
+
+
+27.     While a new SDP system was developed with TA from the World Bank, the system has not been mainstreamed
+into other sectors, and it remains to be effectively institutionalized. The Government invested significant resources in
+the conceptualization and development of the Inter-Agency National GIS. Even though the GIS was launched by President
+Nyusi in October 2016, the SDP TA closed in December 2015. The platform has not yet gained much traction in ministries
+and national agencies outside the MTC. Further efforts are required to build capacity in the utilization of the platform
+across the main ministries and national and subnational agencies and avoid fragmentation and inefficiencies in current
+SDP practices. Different governmental entities and private organizations will continue to develop their own GIS’ in an
+uncoordinated manner, wasting resources with multiple licenses and satellite images, and producing data without
+common protocols. It is important for the Government to formulate and implement a National SDI Strategy to expand the
+capabilities (data, services, and applications) of the GIS; build capacity on spatial development planning across key sectors
+(applying spatial planning in policy formulation, program design, planning, monitoring and evaluation); and strengthen
+the institutional framework (effective leadership, governance and management) underpinning national geospatial
+development planning.
+
+28.      The aim of this component is to (a) enhance SDP capacity across priority national government agencies; (b) ensure
+the sustainability and institutionalization of the PDE; and (c) enhance the development of skills in spatial planning in
+Mozambique’s public sector. The project finances primarily technical assistance (that is, consultancies), capacity building,
+and project management costs. The purchase of GIS equipment, software, and data gathering (high-resolution satellite
+imagery and sector data collection) is not the focus of this project. However, the project might provide limited financial
+support in these areas, if proven critical in the context of other activities. Several of the statistical products supported in
+this project (for instance, the Census 2017, the welfare household surveys, and AidData) are expected to provide key data
+to feed the spatial development-planning platform. This component comprises five subcomponents.
+
+Subcomponent 3.1: Cross-Sectoral Institutional Development on Spatial Development Planning (US$4.18 million
+equivalent)
+         The World Bank                                                                                  RESTRUCTURING ISDS
+         National Statistics and Data for Development (P162621)
+
+
+
+29.       This subcomponent also supports the mainstreaming of the spatial planning and the utilization of the SDP
+platform in priority national agencies where demand, ownership and impact have been identified. Several national
+agencies need TA to mainstream the use of available spatial data for the formulation of policies, programs, and plans, as
+well as for monitoring and evaluation. This component also supports the mainstreaming of the spatial planning and the
+utilization of the SDP platform in priority national agencies where demand, ownership, and impact have been identified.
+Memorandums of Understanding between the PDE and the agency describe the expected results from the TA, capacity-
+building activities, and time frame. Specific activities include (a) mainstreaming of spatial planning in relevant sectoral
+policy formulation, development planning, and monitoring and evaluation across the selected national institutions and (b)
+developing new tools, applications, and methodologies to integrate spatial data, analysis and planning in the national
+planning processes across the selected national institutions. Government agencies that have been preliminarily identified
+to benefit from this TA and the specific areas of support include the following:
+
+
+        (a)   National Agency for Roads (ANE). Project support for ANE would focus on (i) expanding the coverage of
+              ANE’s current spatial database, adding unclassified roads (under the responsibility of municipalities and
+              districts) to the already existing data on classified roads (under ANE’s responsibility) and (ii) developing an
+              application to calculate the Road Accessibility Index.
+
+        (b)   National Statistics Institute (INE). Project support to INE would focus on the production of maps and other
+              analytical tools using updated census and household survey data.
+
+        (c)   National Agency for Health (INS). Project support to INS would focus on (i) developing public health
+              applications with georeferenced data, including modelling cases of diarrhea, tuberculosis, and malaria,
+              identifying hot spots for road accidents, and tracking medical test samples; and (ii) prioritizing the allocation
+              of human resources and the expansion of health clinics based on population density, access to transport,
+              and epidemiology of diseases.
+
+        (d)   Bank of Mozambique (BoM). Project support to the BoM would focus on helping operationalize the BoM’s
+              Financial Inclusion Support Framework by using geo-referenced data on the location of financial providers
+              (ranging from brick-and-mortar commercial banks to mobile providers) to determine underserved areas.
+
+        (e)   National Institute for Disaster Management (INGC). Project support for INGC would focus on (i)
+              incorporating spatial analysis to enhance INGC’s capacity for risk management and prevention and (ii)
+              developing an application to assist INGC authorities in quickly determining the level of resources required
+              for disaster recovery and response in the event of catastrophic events.
+
+        (f)   Ministry of Land, Environment, and Rural Development (MITADER). Project support for MITADER would
+              focus on (i) producing a national territorial master plan using the analytical tools in the PDE platform and (ii)
+              integrating geospatial data from MITADER into the PDE platform to use for territorial planning and
+              environmental management purposes.
+
+        (g)   National Institute of Communications and Postal Service (INCM). Project support for the INCM would focus
+              on the geo-referencing of mailing addresses across the entire country as this is currently nonexistent.
+
+        (h)   Minister of Economy and Finance (MEF). Project support for the MEF focuses on piloting SDP in the
+              Government’s budget, five-year plan and medium-term fiscal scenario.
+          The World Bank                                                                                RESTRUCTURING ISDS
+          National Statistics and Data for Development (P162621)
+
+
+
+        (i)   Ministry of State Administration and Public Function (MAEFP). Project support for using spatial data and
+              analytical tools in the formulation of municipal territorial planning instruments (Municipal Urban Structure
+              Plans or PEUMs – Plano de Estructura Urbana Municipal, and Partial Urbanization Plan, or PPUs – Plano
+              Parcial de Urbanizacao); land management (cadaster and land regularization); and property taxation
+              (Imposto Predial Autárquico).
+
+Subcomponent 3.2: National Policy and Institutional Framework of Spatial Development Planning (US$1.99 million
+equivalent)
+
+30.     This subcomponent provides technical support to Mozambique’s authorities toward the permanent insertion
+of the PDE within the country’s public sector. While the PDE was developed under the MTC, the country still lacks a
+National Policy and Institutional Framework to guide, regulate, and ensure common protocols in spatial data and systems
+across sectors and government levels. Thus, this component provides technical support to Mozambique’s authorities
+toward the permanent insertion of the PDE within the country’s public sector. Specific activities include the following:
+
+        (a)   Formulation and initial implementation of a five- to 10-year national SDI strategy
+
+        (b)   Development of cross-sectoral norms and standards for GIS infrastructure and spatial data (for example,
+              data quality standards and validation, database integration, and security)
+
+        (c)   Development and implementation of a Business Plan for the SDP Unit, including governance, management,
+              institutional, legal, and financial arrangements to ensure the sustainability of the PDE system in the medium
+              and long term;
+
+        (d)   Designing and implementation of a communication strategy and annual plans to enhance awareness of SDP.
+
+31.      This group of activities will be under the oversight of the Inter-Sectoral Ministerial Committee, with representation
+from key sectoral agencies under the leadership of the MEF and the MTC. This committee will have two tiers: (a) a technical
+level, responsible for building consensus and making formal recommendations regarding the technical aspects underlying
+the functioning of the PDE and spatial data standards in general, as well as providing formal recommendations and (b) a
+policy level, responsible for overseeing the development and initial steps toward the implementation of national standards
+for spatial data, mechanisms to ensure the sustainability of the PDE, a national strategy, and plan for mainstreaming spatial
+planning throughout Mozambique’s public sector.
+
+Subcomponent 3.3: Spatial Development Planning Learning (US$0.53 million equivalent)
+
+32.     This subcomponent provides support to the selected academic institutions for the development of high-quality
+training programs on spatial planning and analysis. The country lacks people with capacity in the utilization of GIS and
+people with capacity to incorporate SDP in policy making, programming, planning, and monitoring and evaluation.
+Demand for qualified GIS experts and senior public officers with spatial planning knowledge and skill is expected to grow
+substantially with the mainstreaming of the SDP platform across sectors and government levels. This will include the
+following:
+
+        (a)   On the supply side, the project will provide support to strengthen the curricula of selected national academic
+              institutions (that is, the Faculty of Geography, and Faculty of Architecture and Physical Planning at the
+              Eduardo Mondlane University) to develop high-quality (accredited or tailor-made) training programs on
+              spatial planning and analysis (including the utilization of the PDE).
+         The World Bank                                                                             RESTRUCTURING ISDS
+         National Statistics and Data for Development (P162621)
+
+
+
+        (b)   On the demand side, the project will provide support to key technical, medium career, and senior
+              government staff at the selected national institutions to attend training programs of SDP in nationally and
+              internationally recognized institutions.
+
+Subcomponent 3.4: GIS Platform Management and Operation Costs (US$1.44 million equivalent)
+
+33.      This subcomponent provides support to the SDP Unit within the MTC, which has the overall responsibility for
+operating and managing the interagency GIS. The SDP Unit within the MTC has currently the overall responsible for
+managing the national interagency GIS platform. It currently has a team of GIS specialists and IT technicians responsible
+for the technical aspects of the GIS infrastructure and data management. The project supports the SDP Unit to manage
+and expand the operational capabilities of the GIS platform, including the following:
+
+        (a)   Overall management of the GIS platform and administration of institutional users
+
+        (b)   Technical coordination of the integration of the interagency platform with the other sectoral GIS
+              infrastructure
+
+        (c)   Technical oversight for reviewing new geographic data and maps
+
+        (d)   Overall technical support during implementation of MoUs with priority institution
+
+        (e)   Technical support to the Inter-Ministerial Coordination Committee and the Inter Agency Coordination Group
+
+        (f)   GIS licenses and operational costs
+
+Subcomponent 3.5: SDP Unit Management (US$1.47 million equivalent)
+
+34.    This subcomponent finances the core activities needed to manage Component 3. The SDP Unit has a core team
+responsible for managing all activities of Component 3, including the following:
+
+        (a) Overall coordination, planning, and management of Component 3
+
+        (b) Budget planning, FM, disbursement, and reporting
+
+        (c) Procurement planning, coordination of procurement processes, and administration of contracts
+
+        (d) Results Framework planning, monitoring of Component 3 indicators, and coordination of internal evaluation
+            for the midterm review and for the ICR.
+
+Component 4: Aid Data Management for Enhanced Planning, Budgeting, and Monitoring (Total of US$2.00 million
+equivalent)
+
+35.      Mainstreaming the use of aid data for enhanced planning and budgeting has been a challenge for the GoM.
+Tracking data on aid contributions from DPs is in the interest of the Government because it can enable more effective
+domestic resource allocation in the national planning and budgeting processes. An AIMS that is integrated into existing
+government systems for expenditure reporting and project management can strengthen national institutions and ensure
+the efficient use of national development resources. Government planning and budget officers can then review off-budget
+         The World Bank                                                                               RESTRUCTURING ISDS
+         National Statistics and Data for Development (P162621)
+
+
+
+data and combine it with data captured in the budgeting and treasury systems, allowing for greater efficiencies in domestic
+and foreign development resource spending.
+
+36.     Aligning and integrating data on aid contributions from DPs is also important as a critical first step to improving
+aid effectiveness. Monitoring aid flows through a country’s AIMS is important for three more key reasons:
+
+        (a)   It encourages improved aid cooperation, avoiding duplication of DP efforts and ensuring equitable support
+              across sectors and regions.  
+
+        (b)   It allows for monitoring and evaluating the implementation of national development strategies and
+              international development agendas, harmonizing DP projects with key policy priorities.
+
+        (c)   It facilitates greater transparency and accountability between governments and DPs, including increased
+              oversight by NSAs.
+
+
+37.    This component is a continuation of support from the World Bank to the GoM to improve its ability to capture,
+manage, and use aid data. The World Bank’s Governance Global Practice has been providing non-lending TA to DC since
+2015. The culmination of this assistance was a functional and technical assessment of ODAmoz, conducted by the World
+Bank and DC in 2016, the recommendations of which were used to design the activities proposed for this project’s
+component.
+
+38.       The assessment report found that the primary challenge hampering aid data management in Mozambique is
+that ODAmoz does not use national budget classification categories, complicating the integration of aid data with
+budget data. Secondary critical challenges include unnecessary complexity (there are currently more than 50 required
+fields), lack of flexibility (no updates to reflect annual changes to the country’s Chart of Accounts), and inability to
+accommodate multidonor projects and pooled funds (leading to double counting). Communication lines between the GoM
+and DPs are also limited, thus excluding the principal source of feedback on usability. These challenges have led to a
+negative cycle whereby more data is being lost, or being captured but not shared.
+
+39.     The report recommended several institutional changes, including allocating sufficient staff for directing and
+managing ODAmoz, improving communication by building on existing aid coordination mechanisms and collaborating
+better with line ministries, and restarting engagement with DPs. Most critically, the report also recommends that the
+GoM redesigns ODAmoz in a way such that aid data is recorded in a format that can easily be used in the national planning
+and budgeting process; this would entail the new platform being housed within the MEF and closely linked to e-SISTAFE.
+
+40.     The aim of this component is to enhance the GoM’s aid data management for improved planning, budgeting,
+and monitoring of overall development spending. This will be achieved through a combination of financial support for
+the design and development of a new AIMS, as well as sustained TA and capacity building for producers, managers, and
+users of aid data.
+
+41.     The main activities under this component are the following:
+
+        (a)   Development and maintenance of new AIMS. The World Bank and DC’s functional and technical assessment
+              clearly identified the need for a new aid data management platform that is directly linked to e-SISTAFE and
+              whose data structure uses Mozambique’s Chart of Accounts. A follow-up data mapping and technical and
+              data specifications analysis of Mozambique’s national PFM systems was conducted to determine the exact
+              manner in which the new system could interface with e-SISTAFE, as well as other PFM systems, and
+        The World Bank                                                                                      RESTRUCTURING ISDS
+        National Statistics and Data for Development (P162621)
+
+
+
+              automatically push and pull data. This activity consists of development of a Business Architecture document
+              that allows the GoM to understand and optimize the organizational structure, offering a clear vision of the
+              present and future state of the processes and resources of aid data management, and how change will be
+              achieved. It also involves a Process Architecture document that disaggregates the links of the value chain to
+              a level of detail to understand the following aspects: (i) scope of the processes and interdependencies
+              between existing PFM processes (including processes flowcharts); (ii) stakeholders and roles within the MEF;
+              (iii) inputs required; (iv) products-services generated by the processes; (v) recipients of the products or
+              services; and (vi) main concepts of the processes. To fully resolve the functional issues identified in the
+              functional and technical assessment, the GoM requires a newly designed AIMS. This activity involves
+              procurement of a new system and capacity building of the MEF to ensure that the GoM can manage and
+              maintain the system with limited resources. Possibilities include procuring an existing, off-the-shelf AIMS or
+              design of a customized AIMS. Table 1.1 highlights the trade-offs of both.
+
+              i)      Consulting services for information technological services
+              ii)     Design and development of new AIMS, including ongoing upkeep
+              iii)    Acquisition of relevant software and licenses
+
+                             Table 1.1. Procurement of an Off-the-Shelf AIMS Versus Customizing One
+             Option                         Licensing                        Hosting                  Capacity Requirement
+
+Commercial off-the-shelf          Vendor owns all the rights to   GoM or vendor-hosted            Negotiation and site
+AIMS (based on UNDP long-         the code                                                        administration, as these sites
+term agreement); no                                                                               are complex
+allowance for modifications
+based on specific needs
+
+Customized AIMS—designed          GoM owns source code and        GoM hosting, either in-house    Capacity to design and specify
+and built by a vendor to the      rights                          (preferably CEDSIF) or with a   AIMS—require significant aid
+GoM’s needs                                                       commercial service provider     management TA
+
+
+
+       (b)    Aid data collection, management, and dissemination. TA will be provided to DC on collecting, managing,
+              and disseminating aid data for the planning and budgeting process. This will involve consultancy and non-
+              consultancy services focusing on training manuals, regular trainings, institutionalizing data sharing, and
+              capacity building on data analytics.
+
+              i)      Consulting services to support project coordination and DC’s aid data management
+              ii)     Regular trainings and workshops for DPs and PIUs on data
+              iii)    Support for relaunching and oversight of AIMS Management Committee
+
+       (c)    Data use for planning, budgeting, monitoring, and accountability. TA will also be provided to the
+              Government, DPs, and NSAs on accessing and using aid data for monitoring and holding to account DPs and
+              their development projects, with a focus on demand-side capacity building.
+
+              i)      Consulting services to work directly with PFM institutions on using aid data management within
+                      existing PFM systems and processes
+              ii)     Regular trainings and workshops for MEF PFM institutions
+            The World Bank                                                                               RESTRUCTURING ISDS
+            National Statistics and Data for Development (P162621)
+
+
+
+                 iii)   Workshops for NSAs on the use of aid data for monitoring and accountability
+                 iv)    Analytical work and data visualizations combining external finance data with domestic development
+                        resource data
+
+          (d)    Capacity building of DC and the DNPO. Capacity building and training will be provided to staff at MEF
+                 Directorates involved in data collection, management, and use. Staff will also be offered skills enhancement
+                 activities based on diagnostics determining level of literacy around data management, manipulation,
+                 visualization, and analysis.
+
+                 i)     Training in data management, PFM, and information technology
+                ii)     Study tours and peer learnings to obtain international good practices (such as from Bangladesh,
+                        Colombia, and/or Rwanda)
+                iii)    Goods and services and operations costs
+
+
+
+    Note to Task Teams: The following sections are system generated and can only be edited online in the Portal.
+
+.
+
+    4. PROJECT LOCATION AND SALIENT PHYSICAL CHARACTERISTICS RELEVANT TO THE SAFEGUARD ANALYSIS (IF
+       KNOWN)
+    The project is national in scope, however, the renovations works proposed in this restructuring as part of
+    Component 1.2: "INE Skills Development and Technical Capacity" will take place at the National School of
+    Statistics (ENE) in Maputo.
+
+
+
+    5. ENVIRONMENTAL AND SOCIAL SAFEGUARDS SPECIALISTS ON THE TEAM
+
+
+    Bruno Alberto Nhancale, Environmental Specialist
+    Paulo Jorge Temba Sithoe, Environmental Specialist
+    Eden Gabriel Vieira Dava, Social Specialist
+    Maria Do Socorro Alves Da Cunha, Social Specialist
+    SAFEGUARD_TABLE
+    6. SAFEGUARD POLICIES TRIGGERED
+     Safeguard Policies                           Triggered             Explanation
+                                                                        The project restructuring will not cause large scale,
+                                                                        significant and/or irreversible impacts since the
+                                                                        focus continues to be on capacity building and
+                                                                        technical assistance activities. However, the
+     Environmental Assessment (OP) (BP 4.01) No                         addition of physical interventions in subcomponent
+                                                                        1.2 "INE Skills Development and Technical
+                                                                        Capacity" could potentially generate new
+                                                                        risks/impacts. Since the proposed renovation
+                                                                        works (i.e. reinforcement of the steel frame,
+           The World Bank                                                                                 RESTRUCTURING ISDS
+           National Statistics and Data for Development (P162621)
+
+
+
+                                                                       concrete coating, replacement of window frames,
+                                                                       door knobs, tile and wood floors) are simple in
+                                                                       nature, the risks/impacts more likely to arise relate
+                                                                       to dust, noise, vibration, waste, etc., which are
+                                                                       inherent to any physical interventions. These
+                                                                       risks/impacts are negligible, site specific, reversible.
+                                                                       Furthermore, best practice procedures and
+                                                                       national environmental legislations provisions will
+                                                                       be included in the Project Operations Manual to
+                                                                       assist the Borrower in managing said risks/impacts.
+
+                                                                       As such, the decision is not to trigger OP/BP 4.01
+                                                                       "Environmental Assessment", and to maintain the
+                                                                       project's environmental category as "C" and "Low
+                                                                       Risk" rate.
+ Performance Standards for Private Sector
+                                                No
+ Activities OP/BP 4.03
+ Natural Habitats (OP) (BP 4.04)                No
+
+ Forests (OP) (BP 4.36)                         No
+
+ Pest Management (OP 4.09)                      No
+
+ Physical Cultural Resources (OP) (BP 4.11) No
+
+ Indigenous Peoples (OP) (BP 4.10)              No
+
+ Involuntary Resettlement (OP) (BP 4.12)        No
+
+ Safety of Dams (OP) (BP 4.37)                  No
+ Projects on International Waterways (OP)
+                                                No
+ (BP 7.50)
+ Projects in Disputed Areas (OP) (BP 7.60)      No
+KEY_POLICY_TABLE
+II. KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT
+
+ A.     SUMMARY OF KEY SAFEGUARD ISSUES
+
+
+ 1. Describe any safeguard issues and impacts associated with the Restructured project. Identify and describe any
+      potential large scale, significant and/or irreversible impacts.
+      No potential large scale, significant and/or irreversible impacts have been identified with the proposed restructuring
+      of the project. The physical renovation works are minor with negligible environmental impacts. Hence, as a
+      precautionary measure, the Client proceeded to commission a report to evaluate the presence of asbestos in the
+      facilities that will be renovated with project funds.
+           The World Bank                                                                             RESTRUCTURING ISDS
+           National Statistics and Data for Development (P162621)
+
+
+
+
+      The main findings of the report are as follows:
+      1. There is no asbestos in the air. So, as it stands there are no health or environment risks.
+      2. There are minimal amounts of asbestos contained in a non-friable material of 3 small water tanks (approx. 500
+      liters each) which are in a restricted access area. Moreover, the water thanks material has not suffered any
+      noteworthy deterioration, so this poses no risk to health and environment through release of fibers containing
+      asbestos to the air or water.
+
+
+
+ 2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area.
+      No potential indirect and/or long term impacts due to anticipated future activities in the project area have been
+      identified.
+
+
+ 3. Describe any potential alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+
+      Due to the negligible risks/impacts generated by the renovations works, no project alternatives need to be considered
+
+
+ 4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower
+      capacity to plan and implement the measures described.
+      The environmental impacts of the proposed renovations are negligible and thus no such assessment of borrower
+      capacity has been undertaken.
+
+
+ 5. Identify the key stakeholders and describe the mechanism for consultation and disclosure on safeguard policies, with
+      an emphasis on potentially affected people.
+      No safeguards related consultations are warranted due to the negligible environmental impacts of the proposed
+      renovations.
+
+
+COMPLIANCE_TABLE
+ B.    COMPLIANCE MONITORING INDICATORS AT THE CORPORATE LEVEL
+
+PDI_TABLE
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the World Bank for
+                                                                                                       NA
+disclosure?
+
+Have relevant documents been disclosed in-country in a public place in a form
+and language that are understandable and accessible to project-affected groups                         NA
+and local NGOs?
+
+
+
+ALL_TABLE
+All Safeguard Policies
+            The World Bank                                                             RESTRUCTURING ISDS
+            National Statistics and Data for Development (P162621)
+
+
+
+    Have satisfactory calendar, budget and clear institutional responsibilities been
+                                                                                       NA
+    prepared for the implementation of measures related to safeguard policies?
+
+    Have costs related to safeguard policy measures been included in the project
+                                                                                       NA
+    cost?
+
+    Does the Monitoring and Evaluation system of the project include the monitoring
+                                                                                       NA
+    of safeguard impacts and measures related to safeguard policies?
+
+    Have satisfactory implementation arrangements been agreed with the borrower
+                                                                                       NA
+    and the same been adequately reflected in the project legal documents?
+
+
+
+
+III. APPROVALS
+
+
+                                             Javier Eduardo Baez Ramirez
+    Task Team Leader(s)                      Andre Herzog
+                                             Carlos Chadreque Penicela Da Maia
+
+    Approved By
+
+    Practice Manager/Manager
+
+.
+
+
+    Note to Task Teams: End of system generated content
+

@@ -1,0 +1,257 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+CONCEPT STAGE
+Report No.: ISDSCIO82
+Date ISDS Prepared/Updated: 25-Nov-2014
+Date ISDS Approved/Disclosed: 10-Dec-2014
+I. BASIC INFORMATION
+A. Basic Project Data
+Country:        Lao People's Democratic    Project ID:  P149599
+Republic
+Project Name:   Power Grid Improvement Project (P149599)
+Task Team       Rome Chavapricha
+Leader:
+Estimated       21-Apr-2015                Estimated    30-Jul-2015
+Appraisal Date:                            Board Date:
+Managing Unit: GEEDR                       Lending      Investment Project Financing
+Instrument:
+Sector(s):      Transmission and Distribution of Electricity (50%), Energy efficiency in Heat
+and Power (50%)
+Theme(s):       Other environment and natural resources management (100%)
+Financing (In USD Million)
+Total Project Cost:     30.00            Total Bank Financing:   30.00
+U       Financing Gap:           0.00
+Financing Source                                             Amount
+BORROWER/RECIPIENT                                              0.00
+o         IDA Grant                                                      15.00
+IDA recommitted as a Credit                                    15.00
+Total                                                          30.00
+Environmental B - Partial Assessment
+Category:
+Is this a       No
+Repeater
+project?
+B. Project Objectives
+The project development objective is to help improve efficiency and reliability of power distribution
+in the selected load areas served by EDL.
+C. Project Description
+
+
+﻿The main proposed project components include:
+a. Smart metering and reduction of distribution losses [US$ 18 million]: This component will
+introduce advanced metering technology in the project area to help reduce distribution losses and
+0
+improve metering, billing and collection system. In addition, this component will help improve
+reliability of power supply and reduce losses in selected parts of the distribution network through
+strengthening of power distribution infrastructure (upgrading of conductors, increasing transformer
+capacity, placement of capacitors for reactive power and voltage control, installing load break
+*       switches and reclosers, etc.). The upgrading of conductors involves the rehabilitation of an estimated
+366 km of power distribution lines, including about 127 km of medium voltage lines (22 kV).
+b. Management Information System [US$ 7 million]. There are three subcomponents: (i) Supply and
+installation of optical fiber communication links in the project area; (ii) Extension of Geographic
+Information System (GIS) to support power distribution operation and maintenance; and (iii) Supply
+and installation of an updated corporate financial management system. This sub-component will
+focus on the modernization of financial management in EDL, including through the improvement of
+billing and collection system and its integration with other functions in a modern corporate-wide
+financial management system
+c. Institutional capacity building and technical assistance (TA) [US$ 5 million], including: (i) expand
+testing and certification facility of distribution materials and equipment, (ii) applications of advanced
+metering infrastructure, (iii) applications of energy balancing and power flow software, and (iv)
+project implementation support.
+d. Contingent emergency response [US$ 0 million]. The objective of this "zero component" is to
+allow a rapid reallocation of IDA proceeds from other components to provide emergency recovery
+and reconstruction support following an adverse natural disaster event. This component would
+finance public and private sector expenditures on a positive list of goods and/or specific works,
+goods, services and emergency operation costs required for emergency recovery. A Contingency
+O
+U       Emergency Response Component (CERC) Operational Manual will apply to this component,
+detailing financial management, procurement, safeguard and any other necessary implementation
+arrangements.
+Status of the Project, Procurement, Financial Management and Disbursement
+EDL, supported by the Bank team, has prepared a preliminary cost estimate for the three components
+under the proposed IDA Credit and grant budget of US$ 30 million. The actual cost will be
+determined upon completion of procurement for each procurement package.
+The implementing agency EDL is expected to utilize its existing expertise in procurement, financial
+management, disbursement, and environmental and social management gained through the on-going
+REP II and the GMS Power Trade Project. The Bank team will carry out an updated assessment of
+EDL's fiduciary as well as safeguard capacity and provide the necessary training and support during
+preparation, appraisal and implementation.
+D. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+The geographical scope of the project is limited to the urban and suburban area of Vientiane.
+Specifically, the intended project area is located in Xaythany district of Vientiane capital, about 10
+
+
+﻿kilometers north of Vientiane city center, with a distribution loss of almost 25 percent at present. The
+Vientiane capital area accounts for about 40 percent of the country's demand for electricity. The
+Xaythany district comprises low- and high-income residential customers, commercial, and industrial
+customers. There are currently about 46,000 residential and 1,100 non-residential customers in
+O
+U       Xaythany.
+The number of kilometers of power lines to be rehabilitated is about 366 (of which 127 for medium-
+voltage). Small-scale works linked primarily to installation of meters, capacitors, upgraded medium-
+voltage transformers and conductors of low- and medium voltage lines are linked to the proposed
+rehabilitation of existing medium and low voltage distribution lines and reinforcement of selected
+electricity networks. The planned activities within the project do not include construction of new
+transmission or distribution electrical lines. The physical installations of meters, power distribution
+equipment, communication links, computing hardware, testing equipment are expected to be done on
+existing power poles, power lines, and buildings owned by EDL or by electricity customers. No land
+acquisition or physical relocation of existing residences is expected as construction work will be
+done on the existing power distribution infrastructure. However, a due diligence work is required to
+review in situ the power lines identified for rehabilitation, including access routes to associated
+facilities such as sub-stations, as relevant, for encroachments or other types of land use or informal
+land occupation which may hinder access to a safe working space or pose a safety risk to people
+living or working in the right-of-way. EDL will notify affected customers for any power cut
+requirements during project implementation in accordance with its established procedure.
+E. Borrowers Institutional Capacity for Safeguard Policies
+EDL has experience with Bank safeguard policies through the on-going Rural Electrification Phase II
+and GMS Power Trade Projects. This experience will be carried over to the proposed Power Grid
+Improvement Project.
+F. Environmental and Social Safeguards Specialists on the Team
+Juan Martinez (GSURR)
+Ruxandra Maria Floroiu (GENDR)
+Satoshi Ishihara (GSURR)
+O
+II. SAFEGUARD POLICIES THAT MIGHT APPLY
+Safeguard Policies          Triggered? Explanation (Optional)
+Environmental Assessment    Yes          Small scale installation works pertain to the
+OP/BP 4.01                              rehabilitation of distribution of medium voltage (MV
+22kV) and low-voltage (LV 0.4 kV) lines and the
+installation of electronic meters, replacement of
+capacitors (LV line), upgrading of conductors (on
+LV and MV lines) and replacement and upgrading of
+transformers (for MV). Given the nature of the
+rehabilitation works the project is proposed as
+category B as certain mitigation measures and
+monitoring actions will have to be implemented
+during the civil works in order to minimize, prevent
+and reduce possible temporary impacts on the
+environment. Temporary environmental impacts
+
+
+﻿during works may include noise and air pollution,
+soils and water surfaces pollution due to disposal of
+fuel oils and other chemicals related to works and
+disposal of waste materials from installations to be
+replaced, and physical hazards to workers. Special
+attention will be given to management of hazardous
+electrical waste (old transformers) including
+handling, transportation and final disposal of
+materials contaminated by PCBs, as well as to
+impacts from disconnection of power lines and
+interruption of service to beneficiaries during works.
+These potential impacts could be managed through
+clear environmental due diligence obligations of
+contractors (which will be stipulated in the EMP) and
+use of adequate technical construction standards. To
+ensure that the environmental issues are
+appropriately addressed, the Client will prepare a
+standardized EMP including ECoPs that will meet
+Bank safeguard policies and national applicable
+legislation. The WBG Environmental, Health and
+Safety (EHS) Guidelines for Power Transmission
+and Distribution will be followed during project
+implementation, including provisions for
+beneficiaries and worker health and safety. The
+ECoPs should include specifications for the proper
+disposal of excess/discarded electric materials,
+lubricants, etc. In addition, proper dissemination of
+service disruption, traffic management, etc. should
+be required of all contractors.
+Natural Habitats OP/BP 4.04   No           The works will take place in urban areas where there
+are no natural habitats.
+Forests OP/BP 4.36            No           No project activities are involved with forest
+management of affecting forests.
+Pest Management OP 4.09       No           The project does not involve the purchase or increase
+use of pesticides. EDL does not use toxic herbicides
+to prevent vegetation growth around poles.
+Physical Cultural Resources   Yes          The policy is triggered as precautionary measure to
+OP/BP 4.11                                 avoid impacts to stupas, pagodas or other cultural
+and historical resources. A rights-of-way survey
+undertaken before project appraisal may facilitate
+early identification and planning for physical cultural
+resources which may need special measures for their
+avoidance and protection. Work in proximity to
+physical cultural resources should be carefully
+planned and specifications for minimizing potential
+impacts on stupas, pagodas or other cultural and
+
+
+﻿historical resources should be included in the ECoPs.
+Special work schedules when working in these areas
+might also be needed.
+Indigenous Peoples OP/BP    No           The project will be implemented within the
+4.10                                     Xaythany district which is an urban district within
+Vientiane Capital. Indigenous Peoples communities
+(known as Ethnic Groups in Lao PDR) are not
+known to be present in the project areas. The absence
+of IP communities will be confirmed during the early
+phase of the project preparation. In the unlikely event
+that an ethnic group is known to be present in or
+have collective attachment to the project zone of
+influence, the policy will be triggered, free, prior and
+informed consultations will be conducted with them
+and an Ethnic Group Plan will be developed in line
+with the OP 4.10 requirements.
+Involuntary Resettlement OP/  TBD        The project will finance the physical installations of
+BP 4.12                                  meters, power distribution equipment,
+communication links, computing hardware, testing
+equipment which are expected to be done on existing
+power poles, power lines, and buildings owned by
+EDL or by electricity customers. No land acquisition
+or physical relocation of households or commercial
+entities is expected as construction work will be done
+on the existing power distribution infrastructure. At
+this stage ofproject design more field work is
+required to determine if the policy is triggered or not,
+specifically: (1) field surveys should be undertaken
+to check the power lines identified for rehabilitation,
+(including access routes to associated facilities such
+as sub-stations, as relevant,) for encroachments or
+other types of land use or informal land occupation
+which may hinder access to a safe working space or
+pose a safety risk to people living or working in the
+right-of-way; and, (2) review corporate safety
+standards and related operations criteria with respect
+to land use in the 22kV power line rights-of-way to
+determine if any displacement, (physical or
+economic; temporary or permanent) would be needed
+to ensure that: (i) safety standards and access
+requirements are met for the rehabilitation of the
+power lines; and (ii) if there is a future need to
+displace people or modify land use in order to
+comply with safety standards. As an outcome of this
+process, a due diligence report will be prepared. If
+needed, a specific management protocol will be
+developed prior to appraisal in line with OP4.12
+
+
+﻿requirements to manage and mitigate access-related
+displacement impacts on people living or using land
+in the MV line rights-of-way
+Safety of Dams OP/BP 4.37    No           The project will not support construction or
+rehabilitation of dams nor will support other
+investments that rely on the services of existing
+dams.
+Projects on International    No           No project activities are involved in international
+Waterways OP/BP 7.50                      waterways.
+Projects in Disputed Areas OP/ No         No project activities are involved in disputed areas.
+BP 7.60
+III. SAFEGUARD PREPARATION PLAN
+A. Tentative target date for preparing the PAD Stage ISDS: 31-Mar-2015
+B. Time frame for launching and completing the safeguard-related studies that may be needed.
+The specific studies and their timingi should be specified in the PAD-stage ISDS:
+For environmental category B rating, the implementing agency will be preparing an environmental
+and social management plan including Environmental Codes of Practice before project appraisal.
+One public consultation with relevant stakeholders including people affected will take place to
+discuss and disseminate the EMP timely to meet project appraisal conditions.
+IV. APPROVALS
+Task Team Leader:     Name: Rome Chavapricha
+Approved By:
+Regional Safeguards Name: Josefo Tuyor (RSA)                          Date: 09-Dec-2014
+Coordinator:
+Practice Manager/     Name: Julia M. Fraser (PMGR)                    Date: 10-Dec-2014
+Manager:
+1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+form and language that are accessible to potentially affected persons.
+
+

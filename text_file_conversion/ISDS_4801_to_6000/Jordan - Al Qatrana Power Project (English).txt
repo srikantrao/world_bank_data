@@ -1,0 +1,379 @@
+Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+I.  Basic Information
+ 
+Date prepared/updated:  07/13/2009 
+Report No.: 49497   
+ 
+1. Basic Project Data  
+ 
+Country:  Jordan 
+Project ID:  P108850 
+Project Name:  Al-Qatrana Power 
+Task Team Leader:  Vladislav Vucetic 
+Estimated Appraisal Date: March 25, 2009 
+Estimated Board Date: August 6, 2009 
+Managing Unit:  MNSSD 
+Lending Instrument:   
+Sector:  Power (100%) 
+Theme:  Infrastructure services for private sector development (67%);Regulation and 
+competition policy (33%) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+0.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ Borrower 
+10.00 
+ IBRD 
+Guarantee 
+50.00 
+ 
+Foreign Private Commercial Sources (unidentified) 
+406.00
+466.00 
+Environmental Category: A - Full Assessment 
+Simplified Processing 
+Simple [] 
+Repeater [] 
+Is this project processed under OP 8.50 (Emergency Recovery) 
+or OP 8.00 (Rapid Response to Crises and Emergencies) 
+Yes [ ] 
+No [X] 
+2. Project Objectives 
+The Al Qatrana project will provide a reliable, secure, and efficient electricity supply that 
+is critical to sustaining economic growth and social development in Jordan. Jordan 
+clearly needs the projects capacity as the existing generation capacity of about 2,500 MW 
+is at the level of the current (and growing) peak demand, leaving the system without 
+adequate reserve margin, which is normally required to be about 10-15 percent of peak 
+demand.   
+ 
+3. Project Description 
+The project includes development, construction, ownership, and operation and 
+maintenance of a new 373-MW combined-cycle gas turbine (CCGT) power plant by 
+Qatrana Electric Power Company, a single-purpose joint company owned by subsidiaries 
+of Korea Electric Power Corporation (KEPCO) and Xenel Industries Limited, a Saudi 
+Arabian investor. The power station will be constructed on a site located at Al Qatrana, 
+about 90 kilometers south of Amman and 250 km north of Aqaba. The plant will use as 
+primary fuel natural gas imported from Egypt through the Arab Gas Transmission 
+Pipeline (AGTP) and distillate fuel oil as a back-up. The National Electric Power 
+Page  2
+Company (NEPCO) will be responsible for purchasing and supplying natural gas and 
+distillate fuel oil to the power plant and will purchase all of its electrical output through a 
+25-year power purchase agreement. The plant will be of a traditional design with two gas 
+turbines (Siemens-supplied STG-2000E GT with rated capacity of 168 MW), two heat 
+recovery steam generators, one steam generator (130 MW, supplied by Skoda), an air-
+cooled condenser, and other associated equipment and structures. Operation of the plant 
+will be subcontracted to the Korea Southern Power Company, Ltd., a wholly owned 
+subsidiary of KEPCO. The maintenance services will be subcontracted for the first 6 
+years of operation to Korea Plant Services & Engineering Co., 80-percent owned 
+subsidiary of KEPCO. NEPCO will connect the plant to the power system through a 500-
+meters long 132-kV electrical transmission line. Two options are considered for 
+connecting the plant to the AGTP: (i) #hot-tapping# into the AGTP next to the power 
+plant site, which would involve installing a new valve in the AGTP and connecting the 
+power plant through a short  new pipeline of few hundred meters that would go through 
+government-owned land; or (ii) construction of a new 12-inch pipeline that would  run in 
+parallel to the AGTP to the already built-in AGTP connection station in Al Sultani area, 
+about 22 km south of the power plant site. Final decision on which option to choose is 
+expected to be made in the Summer 2009. NEPCO will finance gas connection, including 
+the cost of the 22-km gas pipeline, which # if that option is selected --  will be 
+constructed by Fajr, the gas company operating the AGTP in Jordan. Water will be 
+supplied by Water Authority of Jordan (WAJ), which will construct and own an 
+approximately two-kilometer long water pipeline from a pumping station on the water 
+main line to the delivery point at the project site.   
+ 
+4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis 
+The Al Qatrana project site enjoys a number of strategic advantages due to its proximity 
+to main road, substation, gas connection, water connection, and absence of any 
+encroacher/squatter on or near the site. The site is an uneven and a barren land with no 
+evidence of any past or current residential, agriculture, or commercial activities to 
+indicate any major environment contamination or social issue. The nearest habitation is 
+about two kilometers away which extends into the town of Al Qatrana, about three 
+kilometers from the site. The proposed power plant will not generate major quantities of 
+solid wastes. Small quantities of non-toxic solid waste, when generated, will be recycled, 
+reused, or disposed through a licensed contractor in a scientific manner in an authorized 
+landfill. The plant will be constructed in conformance with Jordanian building and 
+architectural codes. Given the site layout, the building structures are designed to 
+minimize adverse visual impacts. The site management will have an emergency 
+management plan, which will outline the preparedness and response in case of 
+environmental emergencies or fire accidents due to operation or site storage of flammable 
+material. There is no evidence of any cultural properties or structures of archeological 
+importance within 5 km of the site, or along the gas pipeline route, but project 
+implementation arrangements will include chance finds protocol.   
+ 
+5. Environmental and Social Safeguards Specialists 
+Ms Julie G. Viloria-Williams (SASDA) 
+Page  3
+Mr Sanjay Srivastava (SARDE) 
+ 
+6. Safeguard Policies Triggered
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+X
+Natural Habitats (OP/BP 4.04) 
+ X 
+Forests (OP/BP 4.36) 
+ X 
+Pest Management (OP 4.09) 
+ X 
+Physical Cultural Resources (OP/BP 4.11) 
+ X 
+Indigenous Peoples (OP/BP 4.10) 
+ X 
+Involuntary Resettlement (OP/BP 4.12) 
+X
+Safety of Dams (OP/BP 4.37) 
+ X 
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X 
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts: 
+The Environmental and Social Impact Assessment (ESIA) indicates that the project 
+activities are not likely to result in adverse impacts that are significant, cumulative, or 
+irreversible. The environment and social impacts due to power evacuation will be 
+minimal as the evacuation of electric power generated at the power station will be 
+through a 400/132 kV substation located adjacent to the site along the southern boundary, 
+owned and operated by NEPCO. The existing substation does not use transformer oil or 
+condensers containing polychlorinated biphenyl (PCB, a known carcinogen); does not 
+need to replace batteries or transformer oil; has a proper spill management and fire 
+emergency management system; and does not house non-operational staff at the site. The 
+environmental impact of construction of approximately 22-km gas pipeline -- if this gas 
+connection option is selected -- and 2-km water pipeline connections will be managed by 
+implementation of occupational health and safety measures outlined in the Environmental 
+Management Plan (EMP). The social impact resulting from the limited land acquisitions 
+for gas pipeline construction will be mitigated through implementation of an Abbreviated 
+Resettlement Action Plan (ARAP), to be prepared if the pipeline is to be built.  
+ 
+The dispersion modeling exercise shows that the emission levels will be within the 
+Jordanian and World Bank limits.  The maximum predicted NOx concentration (of 0.207 
+ppm with distillate fuel oil or 0.2058 ppm with gas) will be lower than Jordanian standard 
+(of 0.210 ppm). This also conforms to the World Bank ambient air quality standards. The 
+maximum predicted SO2 concentration (0.04012 ppm with gas) will be lower than 
+Jordanian standard (of 0.300 ppm) and the World Bank ambient air quality standards. 
+Monitoring results indicate that H2S levels exceeds Jordanian standards by 12.9 percent 
+(of 24-hour average) and by 1.2 percent (hourly average), indicating noncompliance with 
+the local laws. Since the project will not emit any H2S and the World Bank does not have 
+guidelines/standards on H2S levels in the ambient air, the city government will be 
+responsible to identify the source and prepare a plan to mitigate its adverse impact. 
+Page  4
+Relative to dust levels, TSP levels exceed the Jordanian limits (daily limit 260 ug/m3). 
+These higher levels of TSP and PM10 are reportedly due higher level of ambient dust in 
+the area, which is characterized by a desert like landscape and vulnerable to dust storms. 
+CO levels were observed to be below the Jordanian standards (9 ppm 8-hour average and 
+26 ppm 1-hour average). The noise model shows for a worst case scenario (with all 
+power turbines operational) that night time noise levels from the power plant could be 
+exceeded by about 1 dB(A).   
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+The project will not involve the displacement of local people. However, OP 4.12 
+Involuntary Resettlement is triggered due to the possible construction of a new twenty-
+two-kilometer underground gas connection pipeline linked to the gas delivery junction. A 
+Resettlement Policy Framework (RPF) has been prepared and disclosed that would guide 
+the preparation of an ARAP, once decision on gas connection option is made. A draft 
+Environmental and Social Impact Assessment for the prospective 22-km gas pipeline has 
+been completed, but some additional work will be needed to determine the exact routing 
+of the gas pipeline, which would allow ARAP to be finalized and disclosed if the pipeline 
+is to be constructed.   
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts. 
+The site selection was made on the basis of power system configuration considerations 
+(the need to add generation support between Aqaba and Amman), the vicinity of the 
+necessary infrastructure: electricity and gas networks, water supply, and road access, and 
+the limited environmental and social impacts.  The site does not have a history of any 
+past or current residential, agriculture, or commercial activities to indicate any major 
+environment contamination or social issue.   
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide 
+an assessment of borrower capacity to plan and implement the measures described. 
+The responsibility for implementing the mitigation measures for the power plant will be 
+with Qatrana Electric Power Company, while NEPCO will be responsible for the 
+electricity transmission, water, and gas connections. NEPCO will assign staff for this 
+purpose, including for implementation of an agreed RPF and ARAP. Qatrana Electric 
+Power Company, represented by its project manager, will be responsible for 
+implementation of EMP and RPF aspects through its contractors, consultants, and other 
+specialists during construction, operation, and decommissioning. NEPCO will coordinate 
+with other entities within Jordan, including Ministry of Energy and Mineral Resources, 
+the Ministry of Environment, the Water Authority of Jordan, and the gas company. 
+Overall coordination of project activities over the life of the project will be the 
+responsibility of a Joint Coordinating Committee, comprising Qatrana Electric Power 
+Company and NEPCO staff, as provided for in the Power Purchase Agreement. The 
+committees responsibilities will include ensuring that the EMPs, RPF, and ARAP for the 
+proposed project and the associated infrastructure are implemented in a coordinated 
+manner.   
+Page  5
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+The stakeholders consultation was held both during the project scoping and after 
+finalizing the key findings and EMP. The consultation endorsed that the key social 
+impacts of the project are likely to be positive and will include: (i) continued good quality 
+of electricity supply through the provision of adequate generation capacity from an 
+efficient source; (ii) increased jobs and employment opportunities to the communities 
+around the project area as well as skilled staff in other parts of the country, both during 
+the construction period and during operation; (iii) improved social services due to better 
+access to electricity leading, in turn, to better community education, health, and other 
+community facilities; and (iv) confirmed changes in the community and local government 
+attitude toward partnership and collaboration with Qatrana Electric Power Company 
+through carrying out a corporate social responsibility program, which should integrate 
+social and environmental concerns in their business and emphasize interaction with the 
+community.  
+ 
+The ESIA report has been disclosed locally on NEPCOs website and is easily 
+accessible.  It has also been disclosed through the World Bank InfoShop.   
+ 
+B. Disclosure Requirements Date
+ 
+Environmental Assessment/Audit/Management Plan/Other: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+ 
+Date of receipt by the Bank 
+03/19/2009 
+ 
+Date of "in-country" disclosure 
+03/19/2009 
+ 
+Date of submission to InfoShop 
+03/19/2009 
+ 
+For category A projects, date of distributing the Executive 
+Summary of the EA to the Executive Directors 
+03/19/2009  
+Resettlement Action Plan/Framework/Policy Process: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+ 
+Date of receipt by the Bank 
+03/19/2009 
+ 
+Date of "in-country" disclosure 
+03/19/2009 
+ 
+Date of submission to InfoShop 
+03/19/2009 
+ 
+Indigenous Peoples Plan/Planning Framework: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+Pest Management Plan: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+Page  6
+*
+If the project triggers the Pest Management and/or Physical Cultural Resources, 
+the respective issues are to be addressed and disclosed as part of the Environmental 
+Assessment/Audit/or EMP. 
+If in-country disclosure of any of the above documents is not expected, please 
+explain why: 
+N/A   
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the 
+ISDS is finalized by the project decision meeting) 
+ 
+OP/BP/GP 4.01 - Environment Assessment 
+ 
+Does the project require a stand-alone EA (including EMP) report? 
+Yes 
+If yes, then did the Regional Environment Unit or Sector Manager (SM) 
+review and approve the EA report? 
+Yes 
+Are the cost and the accountabilities for the EMP incorporated in the 
+credit/loan? 
+Yes 
+OP/BP 4.12 - Involuntary Resettlement 
+ 
+Has a resettlement plan/abbreviated plan/policy framework/process 
+framework (as appropriate) been prepared? 
+Yes 
+If yes, then did the Regional unit responsible for safeguards or Sector 
+Manager review the plan? 
+Yes 
+The World Bank Policy on Disclosure of Information 
+ 
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+Yes 
+Have relevant documents been disclosed in-country in a public place in a 
+form and language that are understandable and accessible to project-affected 
+groups and local NGOs? 
+Yes 
+All Safeguard Policies 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities 
+been prepared for the implementation of measures related to safeguard 
+policies? 
+Yes 
+Have costs related to safeguard policy measures been included in the project 
+cost? 
+Yes 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures related to safeguard policies? 
+Yes 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+Yes 
+Page  7
+D. Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Mr Vladislav Vucetic 
+07/09/2009 
+Environmental Specialist: 
+Mr Hocine Chalal 
+07/09/2009 
+Social Development Specialist 
+Mr Colin S. Scott 
+07/09/2009 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+ 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Hocine Chalal 
+07/09/2009 
+Comments:   
+Sector Manager: 
+Mr Jonathan D. Walters 
+07/09/2009 
+Comments:   

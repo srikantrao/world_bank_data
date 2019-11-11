@@ -1,0 +1,154 @@
+                                           INTEGRATED SAFEGUARDS DATA SHEET
+                                              IDENTIFICATION / CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                               Report No.: ISDSC15963
+
+                         Date ISDS Prepared/Updated: 04-Jan-2016
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:             Caribbean                      Project ID:       P158239
+                            Project Name:        SEMCAR Budget and Revenue Systems Enhancement Project
+                            Team Leader(s):      Ruxandra Burdescu,Davide Zucchini
+                            Estimated Date       29-Jan-2016
+                            of Approval:
+                            Managing Unit:       GGO16                          Lending           Lending Instrument
+                                                                                Instrument:
+                            Sector(s):           Central government administration (25%), Public administration- Information
+                                                 and communications (50%), Information technology (25%)
+                            Theme(s):            Public expenditure, financial management and procurement (50%), e-
+                                                 Government (50%)
+                            Financing (in USD Million)
+                            Total Project Cost: 4.806                          Total Bank Financing: 0
+                            Financing Gap:      0
+                              Financing Source                                                                          Amount
+Public Disclosure Copy
+
+
+
+
+                              MDTF for SEMCAR Phase 1                                                                     4.806
+                            Environment       C - Not Required
+                            Category:
+
+                           B. Project Development Objective(s)
+                           SEMCAR's overall objective is to improve economic management, regional integration and
+                           competitiveness in up to 12 Caribbean countries through more efficient, effective and accountable
+                           public institutions, policies, processes and ICT systems. This is being achieved through the provision
+                           of policy advice, technical assistance and selected ICT investments. The Project Development
+                           Objective (PDO) of the proposed operation is to strengthen and modernize selected ICT systems in
+                           Tax, Customs, and Public Financial Management used by targeted institutions in Antigua and
+                           Barbuda, Belize, Dominica, Grenada, St. Kitts and Nevis, St. Lucia, and St. Vincent and the
+                           Grenadines. The proposed operation is expected to contribute to SEMCAR’s key results through: (i)
+                           improved revenue collection due to more efficient processing and clearance procedures, (ii)
+                           enhanced investment climate and economic development due to efficiency gains, and (iii) greater
+                           access to crucial information that will allow for the formulation of more sound macro-economic and
+                           fiscal policies. Therefore, the ICT investments aimed for under the project will enable the Recipients
+                           to institutionalize and operationalize key policies and processes developed under SEMCAR, and
+                           thereby contribute to improved economic management in the region.
+                         C. Project Description
+                         The Project has the following three (3) main components:
+Public Disclosure Copy
+
+
+
+
+                         Component 1: Strengthening the SIGTAS Tax Administration System
+
+                         This component will contribute to establishing a common regionally consistent ICT application for
+                         use in revenue administration. Specifically, the beneficiaries’ use of SIGTAS will be enhanced with
+                         the introduction of a business intelligence (BI) tool and the implementation of a suite of performance
+                         management reports to support effective operational management, in addition to timely and effective
+                         decision making. The component will also support data quality improvement as well as effective
+                         registration and maintenance of a reliable taxpayer database. Activities to be supported will include:
+                         (1) acquisition and installation of necessary hardware components, software and licensing for
+                         selected SIGTAS components; (2) migration of SIGTAS to Oracle 11G in selected beneficiary
+                         countries; (3) purchase and installation of an updated BI solution and integrate it with SIGTAS in
+                         targeted beneficiary countries; (4) carrying out of data analysis and cleansing of taxpayer registration
+                         data; and (5) provision of training to technical staff on maintenance of SIGTAS and to business users
+                         on utilization of the BI solution.
+
+                         While the existing technical infrastructure will be replaced and a new system for BI will be
+                         implemented, existing core SIGTAS functionalities will remain unchanged. The BI solution to be
+                         implementation in all countries will be based on the solution that is already deployed in St. Kitts and
+                         Nevis. This solution will be extended with implementation functionalities for data analysis and
+                         quality improvement in SIGTAS.
+
+                         Component 2: Infrastructure Equipment for the ASYCUDA World Customs Administration System
+
+                         Component 2 will support Antigua and Barbuda in strengthening customs administration in its
+                         territory through the implementation of ASYCUDA World. Given the Government's fiscal
+Public Disclosure Copy
+
+
+
+
+                         constraints, Component 2 will aid Antigua and Barbuda by funding the procurement of requisite
+                         hardware and software that are needed for the successful implementation of ASYCUDA. To this end,
+                         the component will cater to the acquiring of (1) hardware and servers for production applications,
+                         databases, web and other ICT infrastructure; (2) software licenses for databases and associated
+                         servers; and (3) computers, notebooks and other related goods.
+
+                         Component 3: Strengthening the SmartStream Financial Management System
+
+                         Component 3 will support the Governments of Belize, Dominica, Grenada, St Lucia and St. Vincent
+                         and the Grenadines to enhance the technical comprehensiveness of their Financial Management
+                         Information Systems by upgrading select hardware and software modules. Activities supported will
+                         include: (1) a region-wide SmartStream Financial Application Review and other similar research; (2)
+                         procurement of hardware, servers and licenses for production applications, databases and other
+                         related ICT infrastructure; (3) migration of SmartStream to the present-day version in selected
+                         countries; (4) provision of training; and (5) acquisition of computers, notebooks and other related
+                         goods.
+                         D. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+                           E. Borrower’s Institutional Capacity for Safeguard Policies
+Public Disclosure Copy
+
+
+
+
+                           F. Environmental and Social Safeguards Specialists on the Team
+                           M. Yaa Pokua Afriyie Oppong (GSU04)
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+                           Safeguard Policies                           Triggered?           Explanation (Optional)
+                           Environmental Assessment OP/                 No
+                           BP 4.01
+                           Natural Habitats OP/BP 4.04                  No
+                           Forests OP/BP 4.36                           No
+                           Pest Management OP 4.09                      No
+                           Physical Cultural Resources OP/              No
+                           BP 4.11
+                           Indigenous Peoples OP/BP 4.10                No
+                           Involuntary Resettlement OP/BP               No
+                           4.12
+                           Safety of Dams OP/BP 4.37                    No
+                           Projects on International                    No
+                           Waterways OP/BP 7.50
+                           Projects in Disputed Areas OP/BP             No
+                           7.60
+
+                         III. SAFEGUARD PREPARATION PLAN
+Public Disclosure Copy
+
+
+
+
+                               Appraisal stage ISDS required?: No
+                         IV. APPROVALS
+                           Team Leader(s):                  Name: Ruxandra Burdescu,Davide Zucchini
+                           Approved By:
+                           Safeguards Advisor:              Name: Francis V. Fragano (SA)                                      Date: 21-Jan-2016
+                           Practice Manager/                Name: Arturo Herrera Gutierrez (PMGR)                              Date: 21-Jan-2016
+                           Manager:
+
+
+
+                           1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the
+                           InfoShop and (ii) in country, at publicly accessible locations and in a form and language that are accessible to potentially
+                           affected persons.
+

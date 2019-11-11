@@ -1,0 +1,305 @@
+                              Integrated Safeguards Data Sheet (Initial)
+
+Section I - Basic Information
+Date ISDS Prepared/Updated: 06/06/2003
+A. Basic Project Data (from PDS)
+I.A.1. Project Statistics
+Country: RUSSIAN FEDERATION                                    Project ID: P078420
+Project: LAND REGISTRATION & CADASTRE                          Task Team Leader: Edward C. Cook
+PROJECT - RU
+Authorized to Appraise Date: September 15, 2003                IBRD Amount ($m): 130.00
+Bank Approval: March 11, 2004                                  IDA Amount ($m):
+Managing Unit: ECSSD                                           Sector: General public administration sector (34%);
+Lending Instrument: Specific Investment Loan (SIL)             Law and justice (33%); Housing finance and real
+Status: Lending                                                estate markets (33%)
+                                                               Theme: Personal and property rights (P); Rural
+                                                               services and infrastructure (P); Legal institutions for
+                                                               a market economy (S); Municipal governance and
+                                                               institution building (S)
+
+
+I.A.2. Project Objectives (From PDS):
+The objective of the Project is to build efficient land administration systems with the purpose of
+contributing to the development of efficient markets for land and real estate. The basic thrust of the
+Project is to improve the functioning of the registration and cadastre systems, with a primary focus on
+their mutual cooperation. This will include linking databases, elaborating existing procedures, and
+addressing improved customer interface. As part of the customer interface improvement, the Project will
+be introducing means testing for improved access to services. The objectives are to reduce both the time
+and cost associated with transactions in land and real estate, to make those transactions more reliable,
+and to improve access for low income segments of the population to services. Improved coordination of
+the cadastre and registration systems, along with strengthening their linkages with other parties, will
+result in improved Government coordination of land and real estate administration.
+
+I.A.3. Project Description (From PDS):
+The Project will be composed of three components: (1) the unified cadastre and registration systems; (2)
+improved service delivery; and (3) project management.
+
+Unified cadastre and registration systems
+
+The goal of the first component will be to link the operation of the system for registration of rights in
+land and real estate with the cadastre system. The component will also upgrade both of these systems
+taken separately. The component will be broken into three sub-components. The registration
+sub-component will create a national information and technological infrastructure for managing a
+uniform national registration system of real property. The cadastre sub-component will allow the
+creation of a truly unified real property cadastre, linking land parcels structures attached to them, allow
+for a more rapid process of land inventory and valuation, and upgrade existing automated data systems.
+The linked systems sub-component will address improved information flows and institutional
+cooperation between the registration and cadastre systems.
+
+The component will put in place communication systems between the state land cadastral offices and
+real estate registration offices on the federal level, on the level of federal okrugs, subjects of the
+
+                                                        2
+                                                                                                          ISDS
+
+
+
+Federation, and on the rayon/municipal level. The system will be designed to provide potential users
+with improved access to land cadastral information and information on registered rights. This will
+require development of software and hardware packages, use of modern information technologies and
+information protection systems. It will be necessary to ensure compatibility of information systems.
+Software and hardware packages would include necessary hardware (servers, PCs), peripheral
+equipment (scanners, plotters, printers, copy machines), software for data processing and managing
+mapping and descriptive information, filing, data protection, and office software.
+
+Creating an automated system of state land cadastre and an automated system of a unified state registry
+of rights in real estate and transactions with it would allow to speed up the processing of registration
+requests and the issuance of land cadastral and real estate documents; it would ensure information
+exchange in real time with local administrations offices involved in issuing certificates to legal and
+private persons and to establish interagency information links. The automated system would allow
+exchange of land and cadastral information, to provide information regarding unregistered rights to the
+agencies responsible for managing the state urban development cadastre, forest cadastre, water cadastre,
+cadastre of subsurface resources and other cadastres and registries. The appropriate technology (or
+technologies) for linkage of the information systems will be examined carefully during project
+preparation. Emphasis will be on utilization of the internet, though our counterparts are concerned about
+the supporting infrastructure for internet use in some parts of the country.
+
+Our counterparts have indicated their intention of providing nationwide coverage under this Project. The
+task team views this as being highly ambitious, given the complexities that will be encountered in each
+location where the Project is implemented. The way forward will be to agree on a list of pre-conditions
+necessary for system implementation at the local level, a list of criteria for selection of regions to
+participate in the first phase of the Project, and a piloting of the work load at the local level.
+
+Improved Service Delivery
+
+This component would focus on further institutional capacity building for both the registration and
+cadastre systems with primary orientation to improving the quality of interface with the client. An
+important element will be improving access of low-income segments of the population to registration and
+cadastre services. This component will be composed of three sub-components: (1) legal/regulatory
+reform and implementation; (2) systems management; and (3) public awareness campaign.
+
+The first sub-component will identify and address needed changes and additions to the legal and
+regulatory basis for operation of the cadastral and registration systems, particularly with respect to their
+more efficient coordination with each other and in codifying means testing in providing cadastral and
+property registration services. Needed changes in institutional roles and relations for the purposes of
+simplifying, and reducing the costs of, transactions in immovable property will also be handled.
+
+The systems management sub-component will improve the efficiency of operation of the registration and
+cadastral offices by identifying weaknesses in the current operational procedures and business practices.
+A critical aspect of this will be improving the quality of services provided to clients. This
+sub-component will:
+
+    identify ways in which office operations can be made more efficient
+    provide a strategic plan for interaction with the client (optimization of the office design, steps for
+    improving practices of interactions with the population, aligning incentive structures with the goals
+    of servicing the client swiftly and efficiently)
+    develop a strategy for means testing for cadastral service provision
+
+                                                       3
+                                                                                                          ISDS
+
+
+
+    provide resources for re-equipping offices in selected sites as samples of client friendly spaces for
+    efficient service provision
+    provide training to the staff of the cadastral and property rights services in interactions with client
+    and service provision
+    create benchmarks for measuring staff performance in terms of service provision
+    create instruments for measuring client satisfaction.
+
+The public awareness sub-component will provide information to the population about the reasons and
+procedures for registration of land and real estate. The purposes of this will be to provide assistance to
+potential clients in understanding basic procedures and the institutions involved and to reduce the number
+of transactions that are occuring outside the official cadastral and registration of rights systems. This
+sub-component will develop an information strategy for the cadastral and property rights services,
+develop pilot media interventions (television, radio, newspapers), and develop and produce brochures
+and other printed materials for distribution throughout the country.
+
+The component will finance consultant services for legal and regulatory reform, business systems
+analysis, stakeholder analysis, and public information. It will finance training of staff of the cadastre and
+registration offices, and repair and refurbishment of a select number of offices. It will also finance the
+production of printed materials and other media interventions.
+
+Project Management
+
+A Project Implementation Group, staffed in accordance with Project needs, will be financed. This Group
+will be dually subordinate to the Ministry of Justice and Roszemkadastr and will be a direct continuation
+of the Project Preparation Group (PPG) now being established. (As noted below, the PPG is being
+established on the basis of the LARIS PIU). In addition there will be project implementation groups at
+the regional level and services provided by other regionally based organizations (see section 4, below).
+
+This component will finance consultant services and office operating costs. Office operating costs are to
+be financed by the Government.
+
+
+
+Components:
+
+
+
+Unified cadastre and registration systems
+Improved service delivery
+Project management
+
+                                                        4
+                                                                                                        ISDS
+
+
+
+
+I.A.4. Project Location: (Geographic location, information about the key environmental and social
+characteristics of the area and population likely to be affected, and proximity to any protected areas, or sites
+or critical natural habitats, or any other culturally or socially sensitive areas.)
+Geographic location of the Project remains undefined, though it is clear that our counterparts would like to
+cover a large number of oblasts.
+
+
+B. Check Environmental Classification: C (Not Required)
+
+Comments: The Project will improve the cadastral and registration databases, information flows among
+agencies, and office operation procedures. The Project will not be involved in adjudication of rights or in
+making decisions about land use. The Project will provide an improved basis for appropriate land and real
+estate administration.
+
+
+C. Safeguard Policies Triggered (from PDS)
+(click on    for a detailed desciption or click on the policy number for a brief description)
+                                     Policy                                           Triggered
+
+    Environmental Assessment (OP 4.01, BP 4.01, GP 4.01)                           Yes    No     TBD
+
+    Natural Habitats (OP 4.04, BP 4.04, GP 4.04)                                   Yes    No     TBD
+
+    Forestry (OP 4.36, GP 4.36)                                                    Yes    No     TBD
+
+    Pest Management (OP 4.09)                                                      Yes    No     TBD
+
+    Cultural Property (OPN 11.03)                                                  Yes    No     TBD
+
+    Indigenous Peoples (OD 4.20)                                                   Yes    No     TBD
+
+    Involuntary Resettlement (OP/BP 4.12)                                          Yes    No     TBD
+
+    Safety of Dams (OP 4.37, BP 4.37)                                              Yes    No     TBD
+
+    Projects in International Waters (OP 7.50, BP 7.50, GP 7.50)                   Yes    No     TBD
+
+    Projects in Disputed Areas (OP 7.60, BP 7.60, GP 7.60)*                        Yes    No     TBD
+
+
+
+Section II - Key Safeguard Issues and Their Management
+D. Summary of Key Safeguard Issues. Please fill in all relevant questions. If information is not available,
+describe steps to be taken to obtain necessary data.
+
+II.D.1a. Describe any safeguard issues and impacts associated with the proposed project. Identify and
+describe any potential large scale, significant and/or irreversible impacts.
+
+
+
+II.D.1b. Describe any potential cumulative impacts due to application of more than one safeguard policy or
+due to multiple project component.
+
+
+
+II.D.1c Describe any potential long term impacts due to anticipated future activities in the project area.
+In it's broader dialogue with the Government, the Bank should work to ensure that general policies on
+land use are consistent with the appropriate safeguard issues.
+
+II.D.2. In light of 1, describe the proposed treatment of alternatives (if required)
+
+                                                      5
+                                                                                                         ISDS
+
+
+
+
+II.D.3. Describe arrangement for the borrower to address safeguard issues
+
+
+
+
+II.D.4. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on
+safeguard policies, with an emphasis on potentially affected people.
+
+A detailed stakeholder analysis will be carried out at the beginning of Project implementation. To
+increase pro-client orientation of cadastral and registration offices and their individual employees,
+consultations with private individuals and legal entities will be carried out to determine needs, concerns,
+and expectations of the clients in terms of efficiency of cadastral and registration services. The result of
+these consultations will be incorporated into the social assessment of the Project as well as in the design
+and monitoring tools of its Service Delivery Component.
+
+
+
+E. Safeguards Classification (select in SAP). Category is determined by the highest impact in any policy.
+Or on basis of cumulative impacts from multiple safeguards. Whenever an individual safeguard policy is
+triggered the provisions of that policy apply.
+
+
+[ ] S1. ­ Significant, cumulative and/or irreversible impacts; or significant technical and institutional risks
+          in management of one or more safeguard areas
+[ ] S2. ­ One or more safeguard policies are triggered, but effects are limited in their impact and are
+          technically and institutionally manageable
+[X] S3. ­ No safeguard issues
+[ ] SF. ­ Financial intermediary projects, social development funds, community driven development or
+          similar projects which require a safeguard framework or programmatic approach to address
+          safeguard issues.
+
+F. Disclosure Requirements
+
+Environmental Assessment/Analysis/Management Plan:                         Expected         Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+Date of distributing the Exec. Summary of the EA to the Executive
+Directors (For category A projects)
+
+Resettlement Action Plan/Framework:                                        Expected         Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+
+Indigenous Peoples Development Plan/Framework:                             Expected         Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+
+Pest Management Plan:                                                      Expected         Actual
+Date of receipt by the Bank
+
+                                                   6
+                                                                                                  ISDS
+
+
+
+Date of "in-country" disclosure
+Date of submission to InfoShop
+
+Dam Safety Management Plan:                                             Expected        Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+
+If in-country disclosure of any of the above documents is not expected, please explain why.
+
+Signed and submitted by              Name                                               Date
+Task Team Leader:                    Edward C. Cook                                     05/30/2003
+Project Safeguards Specialists 1:
+Project Safeguards Specialists 2:
+Project Safeguards Specialists 3:
+
+
+Approved by:                         Name                                               Date
+Regional Safeguards Coordinator: Jane E. Holt                                           06/02/2003
+Sector Manager/Director              Joseph R. Goldberg                                 06/04/2003
+

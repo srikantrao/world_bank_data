@@ -1,0 +1,318 @@
+﻿                    INTEGRATED SAFEGUARDS DATASHEET
+                            APPRAISAL STAGE
+
+I. Basic Information
+Date prepared/updated: 03/05/2012                                     Report No.: AC6679
+1. Basic Project Data
+Country: Caribbean                            Project ID: P114963
+Project Name: Caribbean Regional Communications Infrastructure Program
+Task Team Leader: Mavis A. Ampah
+Estimated Appraisal Date: March 5, 2012       Estimated Board Date: May 1, 2012
+Managing Unit: TWICT                          Lending Instrument: Adaptable Program
+                                              Loan
+Sector: General information and communications sector (100%)
+Theme: Infrastructure services for private sector development (29%);Regional
+integration (29%);Regulation and competition policy (14%);Other public sector
+governance (14%);Education for the knowledge economy (14%)
+IBRD Amount (US$m.):            30
+IDA Amount (US$m.):             25
+GEF Amount (US$m.):              0
+PCF Amount (US$m.):              0
+Other financing amounts by source:
+         BORROWER/RECIPIENT                                            0.00
+                                                                       0.00
+Environmental Category: B - Partial Assessment
+Simplified Processing                         Simple []          Repeater []
+Is this project processed under OP 8.50 (Emergency Recovery)
+                                                                  Yes [ ]     No [X]
+or OP 8.00 (Rapid Response to Crises and Emergencies)
+
+2. Project Objectives
+The primary development objective of the proposed program is to increase access to
+regional broadband networks and advance the development of an ICT-enabled services
+industry in the Caribbean Region.
+
+ This would be achieved through a targeted set of strategic interventions harmonized at
+the regional level but tailored to the needs of the individual countries, including support
+for the development of regional ICT infrastructure and promotion of ICT-led innovation.
+
+ As a result of the program, it is expected that the whole Caribbean population would
+benefit by having access to new communications services, sources of information and
+knowledge, enhanced and diversified employment opportunities, improved delivery of
+public and private sector services, increased productivity and transparency of
+government, and more rapid and coordinated response to emergencies. Overall, the
+region would see a boost to its competitiveness, social inclusion, economic
+diversification and regional integration efforts.
+3. Project Description
+Lending Instrument
+
+ The proposed lending instrument is a Regional horizontal Adaptable Program Loan
+(APL). The proposed APL structure will allow countries substantial flexibility to join the
+program on a need and readiness basis, and to select the elements of the program that fit
+their immediate needs within an overall harmonized regional framework, while allowing
+for incremental incorporation of additional elements in the future. Triggers for countries
+joining the program include sector liberalization, country commitment, the explicit
+request from countries to participate in CARCIP, as well as confirmation from
+participants to ensure an open and non-discriminatory access to communications
+infrastructure, and further commitment to pursue Public Private Partnerships for projects
+funded under CARCIP.
+
+ Program components
+
+ The program will have different elements depending on the priority areas for each of the
+participating countries, and will be tailored to each country’s needs. However, the
+interventions for each of the participating countries will be structured along the same set
+of strategic priorities and will be closely coordinated and jointly implemented to the
+extent possible to ensure regional spillover effects are maximized.
+
+ It is expected that the first phase of the program will focus substantially on the
+connectivity component while allowing for selective inclusion of enabling environment
+to foster growth of a robust regional IT and ITES industry. A third cross-cutting
+institutional development and capacity building component will lend support to the
+national and regional institutional frameworks to implement and monitor the program.
+Details of the key components as follows:
+
+ Component 1: This component addresses the: (i) physical connectivity infrastructure,
+and (ii) enabling environment that would ensure Public Private Partnership in the
+ownership, management and competitive access to the infrastructure. Physical
+connectivity infrastructure activities will include support to develop missing
+infrastructure links such as submarine cable infrastructure, terrestrial broadband
+backbone fiber networks and cross-border links leveraging government networks as
+needed, and national and regional Internet Exchange Points (IXPs). Enabling
+environment activities will include (a) support to structure/promote public-private
+partnerships in the deployment of submarine cable infrastructure, including landing
+stations, (b) telecoms regulatory support to ensure appropriate governance structures and
+competitive access to connectivity infrastructure, (c) harmonization of policies, shared
+services and institutional capacity building, and (d) strategies and frameworks to promote
+effective use of ICT for productive activities.
+
+ Component 2: ICT-led innovation. This component will support activities that will
+leverage the regional broadband infrastructure to foster growth of regional IT and IT
+Enabled Services (ITES) industry. Activities will include: (i) development of regional
+network of IT and technology incubators, IT parks and technology centers, and
+investment promotion centers; (ii) targeted skills development and certification programs;
+(iii) creation of special financing vehicles, such as regional or national Venture Capital
+Funds for regional IT/ITES industry, as well as (iv) strategies, policies, regulatory and
+incentive structures to support a multi-lingual regional IT and ITES industry.
+
+ Component 3: Implementation Support. This component will support implementation,
+institutional and capacity building, knowledge-sharing activities, as well as monitoring
+and evaluation of the program to ensure that the program delivers results, both at the
+national and regional level.
+
+ A fourth component is included in the overall program design, but will not be triggered
+under Phase 1. This component will be aimed at improving government and private
+sector efficiency and transparency by leveraging the regional broadband infrastructure
+towards the delivery of a wide variety of e-services.
+
+ Implementation arrangements
+
+  The implementation arrangements will need to be fully worked out as project
+preparation progresses. It is proposed to link the program at the
+CARICOM/CARIFORUM level within an existing regional specialized agency. It is
+likely that the Caribbean Telecommunications Union (CTU) will play the role of overall
+program coordinator, as well as project implementation entity for selected aspects of the
+project, such as where implementation capacity at the national level is weak, or where
+splitting among national level implementation agencies may prove impractical. The CTU
+will be supported by other specialized regional agencies and national implementing
+agencies as required.
+
+4. Project Location and salient physical characteristics relevant to the safeguard
+analysis
+Caribbean wide
+
+ The implementing entities at both the national and regional levels are expected to
+include the addition of an environmental specialist/officer to implement and monitor
+compliance with safeguards policies.
+
+5. Environmental and Social Safeguards Specialists
+   Ms Anjali Acharya (LCSEN)
+   Mr Peter F. B. A. Lafere (LCSSO)
+6. Safeguard Policies Triggered                               Yes         No
+Environmental Assessment (OP/BP 4.01)                          X
+Natural Habitats (OP/BP 4.04)                                  X
+Forests (OP/BP 4.36)                                                       X
+Pest Management (OP 4.09)                                                  X
+Physical Cultural Resources (OP/BP 4.11)                       X
+Indigenous Peoples (OP/BP 4.10)                                            X
+Involuntary Resettlement (OP/BP 4.12)                          X
+Safety of Dams (OP/BP 4.37)                                                X
+Projects on International Waterways (OP/BP 7.50)                           X
+Projects in Disputed Areas (OP/BP 7.60)                                    X
+
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project.
+Identify and describe any potential large scale, significant and/or irreversible impacts:
+Under this project, the following safeguard policies are triggered:
+
+  Environmental Assessment (OP 4.01). The laying of submarine cables envisaged under
+the project could potentially have adverse impacts, though manageable and reversible, on
+coral reefs that are found along the coastlines of most of the potential participating
+countries and on other sensitive coastal ecosystems. The project also envisages the
+deployment of terrestrial broadband telecommunications infrastructure, which will have
+minimal environmental impact, due to the small footprint of the cable and the fact that it
+is expected to be laid alongside existing infrastructure (notably roads). Hence, the project
+is assigned to environmental category B under OP 4.01 Environmental Assessment. Since
+sites will not be identified during project preparation, an Environmental and Social
+Management Framework (ESMF) has been developed in which potential environmental
+impacts were identified, and mitigation measures put in place.
+
+ Natural Habitats (OP 4.04). In light of the fragile marine habitats through which some
+submarine cables may be laid, the Natural Habitats Policy (OP 4.04) is triggered.
+Activities to identify, minimize, mitigate, manage and offset the impacts of these works
+will be included in the ESMF. The project will also avoid any impacts on critical natural
+habitats, in particular, marine protected areas.
+
+ Physical Cultural Resources (OP 4.11). The project will not finance works in any
+culturally important areas of the participating countries. However, the ESMF will include
+"chance find" procedures that are translated into the bidding documents for contractors
+implementing works.
+
+ Involuntary Resettlement (OP 4.12). Land acquisition for terrestrial facilities, if
+required, would be done in accordance with OP 4.12 Involuntary Resettlement and
+according to the guidelines set out by the Involuntary Resettlement Framework.
+However, impacts are not anticipated given that facilities are expected to follow existing
+rights of way, especially roads.
+
+ OP 7.50 International Waterways is not triggered since the possible submarine cables to
+be financed under the project will not affect the territorial of third countries that are not
+beneficiaries of the project.
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future
+activities in the project area:
+None foreseen.
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize
+adverse impacts.
+None available.
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide
+an assessment of borrower capacity to plan and implement the measures described.
+An Environmental and Social Management Framework (ESMF) has been prepared to
+identify, minimize, mitigate, manage and offset potential environmental impacts from
+expected activities. This ESMF covers all four countries participating in this Project, and
+will be used for the environmental and social screening and assessment of activities
+relating to cable laying and construction of landing stations, as well as backbone and
+transmission telecommunications infrastructure development within the area.
+
+  A Resettlement Policy Framework (RPF) has been prepared to guide the preparation of
+Resettlement Action Plans, if during project implementation it is determined that
+involuntary taking of land may be required and whether this would result in relocation or
+loss of shelter, loss of assets or access to assets, loss of income sources or means of
+livelihood, whether or not the affected persons must move to another location, or whether
+the involuntary restriction of access to legally designated parks and protected areas
+resulting in adverse impacts on the livelihoods of the displaced persons. While unlikely,
+given that project activities will follow existing rights of way, the RPF describes the
+necessary contents and processes for the development, disclosure, consultation and
+monitoring of RAPs.
+
+  In each of the participating countries, borrower capacity to address safeguard policy
+issues on the basis of the ESMF and RPF is deemed adequate.
+
+5. Identify the key stakeholders and describe the mechanisms for consultation and
+disclosure on safeguard policies, with an emphasis on potentially affected people.
+Consultations on the ESMF and RPF for the three OECS countries (Grenada, Saint Lucia
+and St. Vincent and the Grenadines) have taken place following the initial World Bank
+review. The expanded versions of the ESMF and RPF which includes issues relating to
+the Dominican Republic are pending translation into Spanish, and will be disclosed and
+consulted on shortly. Additional consultations are expected to be completed prior to
+Board. Below are the links where the documents were disclosed in country:
+ Grenada:
+ http://www.gov.gd/ministries/opm.html#carcip
+
+ St. Lucia:
+ http://finance.gov.lc/
+
+ St. Vincent and the Grenadines:
+
+http://www.gov.vc/images/stories/pdf_documents/environmentalandsocialmanagementfra
+mework.pdf
+
+http://www.gov.vc/images/stories/pdf_documents/resettlementplanningframeworkdraft1.
+pdf
+
+
+
+B. Disclosure Requirements Date
+Environmental Assessment/Audit/Management Plan/Other:
+  Was the document disclosed prior to appraisal?                   Yes
+  Date of receipt by the Bank                                 02/28/2012
+  Date of "in-country" disclosure                             02/29/2012
+  Date of submission to InfoShop                              03/02/2012
+  For category A projects, date of distributing the Executive
+  Summary of the EA to the Executive Directors
+Resettlement Action Plan/Framework/Policy Process:
+  Was the document disclosed prior to appraisal?                   Yes
+  Date of receipt by the Bank                                 02/29/2012
+  Date of "in-country" disclosure                             03/01/2012
+  Date of submission to InfoShop                              03/02/2012
+Indigenous Peoples Plan/Planning Framework:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+Pest Management Plan:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+* If the project triggers the Pest Management and/or Physical Cultural Resources,
+the respective issues are to be addressed and disclosed as part of the Environmental
+Assessment/Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please
+explain why:
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the
+ISDS is finalized by the project decision meeting)
+
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) report?               Yes
+If yes, then did the Regional Environment Unit or Sector Manager (SM)           No
+review and approve the EA report?
+Are the cost and the accountabilities for the EMP incorporated in the           Yes
+credit/loan?
+OP/BP 4.04 - Natural Habitats
+Would the project result in any significant conversion or degradation of        No
+critical natural habitats?
+If the project would result in significant conversion or degradation of other   Yes
+(non-critical) natural habitats, does the project include mitigation measures
+acceptable to the Bank?
+OP/BP 4.11 - Physical Cultural Resources
+Does the EA include adequate measures related to cultural property?             Yes
+Does the credit/loan incorporate mechanisms to mitigate the potential           Yes
+adverse impacts on cultural property?
+OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy framework/process               Yes
+framework (as appropriate) been prepared?
+If yes, then did the Regional unit responsible for safeguards or Sector         Yes
+Manager review the plan?
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the World Bank's        Yes
+Infoshop?
+Have relevant documents been disclosed in-country in a public place in a        Yes
+form and language that are understandable and accessible to project-affected
+groups and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional responsibilities     Yes
+been prepared for the implementation of measures related to safeguard
+policies?
+Have costs related to safeguard policy measures been included in the project    Yes
+cost?
+Does the Monitoring and Evaluation system of the project include the            Yes
+monitoring of safeguard impacts and measures related to safeguard policies?
+Have satisfactory implementation arrangements been agreed with the              Yes
+borrower and the same been adequately reflected in the project legal
+documents?
+  D. Approvals
+
+Signed and submitted by:                               Name      Date
+Task Team Leader:                   Ms Mavis A. Ampah          03/01/2012
+Environmental Specialist:           Ms Anjali Acharya          03/01/2012
+Social Development Specialist       Mr Peter F. B. A. Lafere   03/05/2012
+Additional Environmental and/or
+Social Development Specialist(s):
+
+Approved by:
+Sector Manager:                     Mr Randeep Sudan           03/05/2012
+  Comments:
+

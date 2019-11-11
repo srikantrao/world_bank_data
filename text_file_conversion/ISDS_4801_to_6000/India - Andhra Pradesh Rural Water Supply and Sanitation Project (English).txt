@@ -1,0 +1,680 @@
+Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+I.  Basic Information
+ 
+Date prepared/updated:  03/26/2009 
+Report No.:  AC3903
+1. Basic Project Data  
+ 
+Country:  India 
+Project ID:  P101650 
+Project Name:  Andhra Pradesh Rural Water Supply & Sanitation Project 
+Task Team Leader:  Smita Misra 
+Estimated Appraisal Date: March 31, 2009 
+Estimated Board Date: May 28, 2009 
+Managing Unit:  SASDU 
+Lending Instrument:  Specific Investment 
+Loan 
+Sector:  Water supply (50%);Sanitation (50%) 
+Theme:  Rural services and infrastructure (P) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+150.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER/RECIPIENT 
+30.00
+30.00 
+Environmental Category: B - Partial Assessment 
+Simplified Processing 
+Simple [X] 
+Repeater [] 
+Is this project processed under OP 8.50 (Emergency Recovery) 
+or OP 8.00 (Rapid Response to Crises and Emergencies) 
+Yes [ ] 
+No [X] 
+2. Project Objectives 
+The Andhra Pradesh Rural Water Supply & Sanitation Project (hereafter called Project) 
+development objective is to assist the Government of Andhra Pradesh in improving rural 
+water supply and sanitation services through progressive decentralization, community 
+participation and enhanced accountability.   
+ 
+3. Project Description 
+The project comprises of the following three main components: (A) Capacity and Sector 
+Development; (B) Infrastructure Development; and (C) Project Implementation Support.  
+ 
+Component A: Capacity and Sector Development (US$12m): This component will 
+provide institutional capacity support to implement, manage and sustain the project 
+activities, along with sector development studies. The main sub-components include: (a) 
+Capacity Building and Training activities for state level institutions, PRIs and sector 
+stakeholders; (b) Communications Strategy and Information, Education and 
+Communications (IEC) Program; (c) Sector Development Studies to inform policy 
+decisions.  
+ 
+Component B: Infrastructure Development (US$153m): This component will support 
+investments for improving water supply and sanitation services in the project habitations, 
+including construction of new infrastructure or rehabilitation and augmentation of 
+Page  2
+existing schemes with safe disposal of waste-water. These investments would be made in 
+an integrated manner with source strengthening and catchment area protection activities; 
+soak-pits; construction of latrines for BPL households; community awareness programs 
+for improving sanitation and hygiene practices; and incentives for achieving ‘open 
+defecation free status’.  Solid waste management and surface drainage activities will be 
+taken up in major GPs.  Underground piped drainage will be supported in select Mandal 
+Headquarters.  About 80% habitations are expected to be served by SVS using local 
+groundwater sources. The MVSs, mainly relying on surface water sources, will be taken 
+up for habitations where the local source is either not sustainable or of not acceptable 
+quality.  
+ 
+Component C: Project Implementation Support (US$15m): A Program Support Unit 
+(PSU) under the SWSM, assisted by staff in the districts (D-PSUs), will implement and 
+manage the WB Project.  The main functions of the PSU will be to coordinate with 
+various stakeholders including the SWSM, DWSMs; procure external services (as 
+required) to support the implementation of the WB Project; and review and report the 
+progress of the WB Project.  This component includes establishing and operationalizing 
+the following activities: (i) Sector Information System (SIS) and Monitoring and 
+Evaluation System (M&E) for the Sector Program and WB Project; and (ii) financial 
+management system for administering funds and expenses for the WB Project.   
+ 
+4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis 
+The Project aims to implement water supply schemes in 1,600 Not Covered (NC) /No 
+Safe Source (NSS) habitations and 1000 Partially Covered (PC) habitations.  The project 
+will support RWSS District Programs in 6 self-selected districts and will benefit about 
+2.1million rural population.  
+ 
+The salient features of the state relevant to the safeguard analysis:  
+ 
+Water Quantity:  
+ 
+Of the 71710 habitations in the state, only about 46% are Fully Covered (FC) with 
+respect to water supply. About 45% of the habitations are Partially Covered. The rest of 
+the habitations fall in the Not Covered or No Safe Source categories .  
+ 
+The coverage of rural households with household water supply is 22%, while the 
+coverage of urban households is 57% .  
+ 
+The state’s average for ground water development stands at 45% .  
+ 
+Excessive ground water withdrawal is an issue in parts of the state. The districts of 
+Chittoor, Kadapa, Anantapur, Nizamabad, Medak and Ranga Reddy range between 70% 
+and >100% groundwater development . Of the 1108 mandals in the state, 15% (172) are 
+classified as over-exploited  and 5% (58) are classified as criticalwith respect to 
+groundwater status .  
+ 
+Water Quality:  
+ 
+About 80 percent of the rural water schemes are dependent on groundwater sources 
+while 20 percent are dependent on surface water sources .  
+Page  3
+About 4700 habitations (6.5% of the total 71710 habitations) are reportedly affected by 
+water contamination 
+–
+including chemical, physical and biological contamination. Of 
+these, about 1900 habitations (41% of total affected habitations) do not have access to a 
+safe source of water (classified as NSS).  
+ 
+The districts of East Godavari, West Godavari, Krishna, Guntur, Prakasam are affected 
+by high salinity of ground water .  
+ 
+High concentration of fluoride in ground water beyond the permissible limit of 1.5 mg/L 
+is a significant health problem in Andhra Pradesh. The groundwater in 3121 habitations 
+has high fluoride concentration . Of the affected districts Prakasam, Nalgonda, 
+Khammam, Karimnagar, Anantapur are more severely affected .  
+ 
+Physical and biological contamination of water is reported in 218 habitations.  
+ 
+Sanitation:  
+ 
+The rural sanitation coverage in the state is about 54%, while only 30% of these 
+households actually use toilets.  
+ 
+A
+large percentage of the rural population (about 80%) still practices open defecation. 
+The health implications of this are evident from the fact that about 20% of cases of 
+illnesses in the rural parts of the state are on account of water borne diseases .  
+ 
+Forests and Tribals:  
+ 
+Andhra Pradesh has over 5 million tribals accounting for about 7% of the total 
+population in the state. While 93% of them live in rural areas, highest concentrations are 
+found in 10 districts. Apart from undulating terrain, high rainfall and poor reach, majority 
+of these areas are in and around forests. Of the 11,540 tribal habitations located in this 
+area, 701 have NC status (Not Covered). Hence, interface with the forestry assumes 
+significance, from the view points of identifying water sources and developing the 
+facilities.  
+ 
+Lands:  
+ 
+In some cases, water may not be available locally or that the available watermay not be 
+potable. Then, water may have to be brought from far off sources which may entail 
+securing lands.   
+ 
+5. Environmental and Social Safeguards Specialists 
+Mr Suryanarayan Satish (SASDI) 
+Ms Priti Kumar (SASDI) 
+Ms Kalyani Kandula (SASDI) 
+ 
+Page  4
+6. Safeguard Policies Triggered
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+X
+Natural Habitats (OP/BP 4.04) 
+ X 
+Forests (OP/BP 4.36) 
+X
+Pest Management (OP 4.09) 
+ X 
+Physical Cultural Resources (OP/BP 4.11) 
+ X 
+Indigenous Peoples (OP/BP 4.10) 
+X
+Involuntary Resettlement (OP/BP 4.12) 
+X
+Safety of Dams (OP/BP 4.37) 
+ X 
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X 
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts: 
+ENVIRONMENT SAFEGUARD ISSUES  
+ 
+Environmental Assessment (OP/BP 4.01): The Project will include single and multi 
+village water supply schemes, sanitation schemes and, solid and liquid waste 
+management. While these interventions are expected to result in overall environmental 
+and public health improvements in the state, there is a risk of negative environmental 
+impact if the schemes are not properly designed, sited, implemented, and maintained. 
+Conducting an Environmental Analysis (EA) and developing an Environmental 
+Management Framework (EMF) is necessary for identifying the project’spotential 
+negative and positive environmental impacts and recommending measures to mitigate 
+adverse impacts. The framework approach will enable the environmental aspects to be 
+addressed with clarity and simplicity for the range of infrastructure development 
+activities that are planned to be supported by the project.  
+ 
+Forests (OP/BP 4.36): Some of the schemes taken up under the Project will be located in 
+forest areas. Mitigation measures have been appropriately included into the 
+Environmental Management Framework (EMF) to ensure that (a) to the extent possible, 
+new interventions in wildlife sanctuaries and national parks will be avoided (b) in cases 
+where this is inevitable (for example, if water sources are available only within the 
+sanctuaries/national parks), the minimum required construction activities will be planned 
+for with the approval of the Forest Department (c) in case of reserve forest areas the 
+approval of the Forest Department at the state level (for conversion of forest land up to 1 
+ha) or of the Ministry of Environment and Forests at the central level (for conversion of 
+forest land beyond 1 ha) will be taken as per the stipulated procedure under the Forest 
+Conservation Act, 1980 . Also, any required felling of trees in forest or non-forest areas 
+will be done with the permission of the Forest Department.  
+ 
+SOCIAL SAFEGUARD ISSUES  
+ 
+Page  5
+Lands
+–OP 4.12:  Land requirement arises for four purposes: (i) water source; (ii) water 
+treatment plants (WTPs); (iii) construction of ground level or overhead tanks (G/OHT) or 
+cisterns; and (iv) Water transmission and distribution pipelines as well as sullage/ storm 
+water drains.  Water sources could be either ground water or surface water source based. 
+The ground water sources do require ‘land’and so  is the case with WTPs. In the case of 
+tanks, if they are constructed in a place other than that of the ‘source, separate land will 
+be essential. Transmission and distribution lines are laid mostly in public land or along 
+public streets and no land needs are to be secured. In a few cases, pipelines  may have to 
+pass through private agriculture fields.  Since the pipelines are laid  at least 90 cms below 
+ground  elevation, no land acquisition is needed, but permission from the land owner is 
+taken. If such permission is not forthcoming, then alternative pipe routing is used, even if 
+it is  more expensive to do so. This means, lands are required for Sl No (i), (ii) and (iii). 
+But, nature and extent of lands required/ to be acquired varies substantially across the 
+schemes, and so will be the arrangements. While lands may not have to be acquired in a 
+majority of the cases, some acquisition is not ruled out. Hence, OP 4.12 is triggered.  
+ 
+Tribals-OP 4.10: The social assessment study discovered the presence of tribals  (in 
+World Bank’s parlance- Indigenous Peoples) in significant numbers in the state. The 
+scheduled tribes (STs) are a group with a distinct cultural identity and social and 
+economic disadvantages. These constitute one of the largest social groups in the State of 
+Andhra Pradesh with a population share of about 7%.  The social assessment study 
+brought out that some of the ST groups: (i) have a distinct cultural identity as compared 
+to other groups; (ii) are socially and economically disadvantaged in comparison to others. 
+(iii)  require special developmental needs especially their settlement pattern is not always 
+near the water source but their livelihood is organically linked to such sources; and  (iv) 
+are perpetually excluded from the decision making and have least representation in 
+formal and semi-formal village institutions. Further, the need for special developmental 
+attention for tribals arises for the following reasons: poor socio-economic conditions, 
+prolonged vulnerability and marginalization.  This has led to the national constitutional 
+provisions and safeguards for tribals. Keeping these in view, the OP 4.10 is triggered.   
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+Environment: The Project is likely to have an overall positive impact on environment by 
+yielding positive outcomes in drinking water quality, sanitation and waste management. 
+Among the various environmental risks, the following have potential for long term 
+negative impacts:  
+ 
+Saline water intrusion in coastal areas due to tapping over-exploited aquifers.  
+ 
+Quality deterioration (excess fluoride) in upland hard rock areas due to over-
+exploitation.  
+ 
+Drying up of drinking water wells due to over-extraction of groundwater for irrigation.  
+ 
+The mitigation measures specified in the Environmental Management Framework to 
+manage these impacts include selection of water sources with due regard to sustainability, 
+Page  6
+conservation of existing water resources (especially in case of critical and overexploited 
+aquifers) and promoting efficiency of use.  
+ 
+Social: No adverse/ negative impacts are likely to occur as a result of the program 
+intervention. Instead, positive benefits are likely to occur in the fields of local level 
+human and institutional development (in particular, strengthening of Gram Panchayats), 
+and improved health and hygiene.   
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts. 
+Environment: Due to the participatory nature of the schemes and framework approach 
+adopted for environmental management, the alternative options for villages would be 
+considered during the design and planning phase of each scheme.  
+ 
+Social: It is well recognized that the RWSS reforms are being attempted for the first 
+time in the state, and that it will be a difficult and challenging task for the government, 
+PRIs and communities. Hence, towards ensuring that potential positive benefits do 
+translate into reality,  program plans for trying alternative means of community 
+development support as well as human and institutional development efforts. This will be 
+complemented with an ample provision for ‘change management’ initiatives.   
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide 
+an assessment of borrower capacity to plan and implement the measures described. 
+Environment: The PSU, APRWSSP, with help from consultants, has carried out an 
+Environmental Analysis (EA) identifying key environmental issues for the project and 
+has prepared an Environmental Management Framework (EMF). The methodology 
+basically comprised collection and collation of secondary data on water availability, 
+water quality, sanitation coverage, health aspects, and problems in O&M of existing 
+water and sanitation systems. The study also included an analysis of policy and legal 
+framework related to water and sanitation with specific focus on Andhra Pradesh. An 
+analysis of this information led to defining the baseline environmental status and 
+provided the basis for identifying potential environmental impacts due to the proposed 
+project.  These have been considered for the preparation of the EMF for mitigating 
+adverse impacts and enhancing beneficial impacts.  
+ 
+The Environmental Management Framework (EMF) specifies a set of scheme-type 
+specific environmental codes of practice (ECOP) as well as tools for environmental 
+assessment. These include measures to help ensure that the project activities are in 
+compliance with the laws and regulations of the Government of Andhra Pradesh and of 
+the Government of India including water quality standards, effluent standards, waste 
+management guidelines, forest conservation, wildlife protection, etc. The EMF also 
+includes capacity building and institutional arrangements that would enable the project 
+functionaries and community institutions to monitor potential impacts and take proactive 
+mitigation measures.  
+ 
+Social  
+Page  7
+Lands: The SA study indicated that the project would require land for various facilities 
+such as: head works, treatment plants, summer storage tanks, transmission lines, 
+overhead or ground level storage tanks, distribution lines, etc. However, nature and extent 
+of land requirements,  vary substantially across the schemes. Water supply schemes can 
+be classified  into two broad categories -- Single Village Scheme (SVS) and Multi 
+Village Scheme (MVS). As the name suggests, SVS serves one or more villages within a 
+Gram Panchayat (GP) while MVS serves villages beyond a single GP. There are two 
+types of MVS: Small MVS and Large MVS. Generally a small MVS caters to about 5 to 
+10 villages and a large MVS caters to 10 to 50 villages and beyond.  Single Village 
+Ground Water Schemes would require about 0.03 Ha of land per scheme, SV-Surface 
+source based schemes would require 0.65 Ha of land. Similarly, small multi village 
+schemes would require 2 Ha of land per scheme or 0.2 Ha per village. Similar figures for 
+Large Multi Village schemes are 3- 14 Ha and 0.3 Ha per village respectively. Thus, land 
+requirements are substantial only in Large Multi Village Schemes which account for 5-10 
+%
+of
+the schemes in the project. Overall, about 480 Ha of land is required for about 3,800 
+schemes, and large MVS’s share would be 39 Ha . Given this background, two methods 
+are proposed for securing lands.  
+ 
+Small Schemes: APRWSSP envisages to cover about 3800 habitations. Of these, 80% 
+are likely to be single village schemes. Of the remaining 20% schemes, half would be 
+simple multi village schemes. Thus, securing land in about 90% of the cases is likely to 
+be quite simple, as public land is expected to be available in a majority of cases (about 
+60%). The discussions with the communities and experts as well as experiences from 
+previous project reveal that, (i) almost all villages do have an existing water supply 
+system and the project intervention will be restricted to 
+improving/rehabilitating/augmenting the existing supplies which would mean land 
+requirement will be limited; (ii) most villages do have sufficient public/Panchayat land; 
+and (iii) in case, it becomes inevitable, the local community will secure lands either 
+through voluntary donations or outright purchase.  
+ 
+Rules governing taking possession of land through donations and/ or purchases are 
+developed based on the experience of the Bank assisted projects: Kerala Rural Water 
+Supply and Sanitation Project, Karnataka/Maharashtra Rural Water Supply and 
+Sanitation Project; and UP Sodic Lands Reclamation Project.  These rules will be binding 
+on the part of GOAP, with the following major elements:  
+ 
+o
+All donations and purchases will be voluntary.  Mechanisms will be developed 
+not only to ensure the voluntariness but also that it will not involve any significant 
+adverse impact upon incomes or physical displacement.  
+ 
+o
+All voluntary land transactions will meet the following criteria:  (i) the land in 
+question will be free of squatters, encroachers or other claims of encumbrances; (ii) land 
+will be chosen by the community after ensuring that water will be available in that 
+particular piece of land; (iii) verification of the voluntary nature of land donations in each 
+case; (iii) due transparent measures will be in place; (iv) land transfers will be complete, 
+Page  8
+land title will be vested in the community; and (v) provision will be made for redressal of 
+grievances (ROG) if any.  
+ 
+o
+All voluntary transactions will be documented and signed by both the parties. 
+Agreements on above will be reached during appraisal and legal documents will include 
+the necessary clauses.  
+ 
+Large Schemes:  
+ 
+In the case of large schemes, donations and/ or purchase may not work as the scheme 
+would be spread over many villages and arriving at a consensus across the communities 
+will be difficult. So, land may have to be acquired, in case public lands are not available. 
+In addition, it could be the same situation in some small village schemes too. However, as 
+the project is fully demand driven, the list of project villages will become known as and 
+when the villagers come forward and express willingness. This demand driven selection 
+process will start once the project becomes effective and will occur over a period of 5 
+years. Thus, at this stage, the project do not have full details about the lands to be 
+acquired for the project. Hence, a generic frame work is prepared instead of a village 
+specific resettlement action plan.  RPF will be adopted by the project as and when a 
+village/ scheme is selected and the detailed project report preparation begins  
+ 
+The framework has been developed based on the following policies/ legislations 
+–
+•
+Andhra Pradesh Resettlement and Rehabilitation Policy 2005  
+ 
+•
+The Land Acquisition Act 1894  
+ 
+•
+R&R framework developed for the World Bank assisted Andhra Pradesh 
+Community Based Tanks Management Project  
+ 
+•
+RPF prepared recently for the World Bank assisted Orissa Community Tank 
+Management Project.  
+ 
+•
+Panchayat Extension to Scheduled Areas ( PESA) Act, 1996  
+ 
+The proposed framework comprises: (i) identification/definition of project affected 
+households; (ii) compensation in lieu of lands; (iii) resettlement/rehabilitation assistance; 
+and (iii) institutional and implementation arrangements. Entitlements proposed for the 
+affected families are provided in the Resettlement Policy Framework. The identification 
+of the affected people and preparation of a Resettlement Action Plan (RAP) will be done 
+by the VWSCs with technical assistance from non-government support organizations. 
+The identification of project affected persons (PAPs) will be vetted/ reviewed by the local 
+engineer as well as local revenue officials and finally approved by the District Collector.  
+The RAP will be integrated into the overall Village Water Supply and Sanitation Plan and 
+approved by the Institutional Development Specialist in the District Project Unit.  This 
+will also be monitored by the State Project Management Unit.  
+ 
+Tribals: Andhra Pradesh has 33 tribes out of which Gond, Koya, Sugali, Yenadi, 
+Yerukula Konda Dhora are the main tribes. Of these Sugali, Koya, Yenadi, Yerukula and 
+Gond constitute over 75% of tribal population of the state. The tribals normally live in 
+contiguous areas unlike other communities. Their lives are closely associated with the 
+Page  9
+nature as they eke out their livelihoods from the natural environ 
+–
+streams, trees, plants, 
+animals etc.  It is, therefore, recognized that maintaining their identities would invariably 
+mean keeping their environ intact with them. They also have contiguous inhabitations 
+which not only help in designing an area based approach but also protecting their cultural 
+identity and resources.   In order to protect the interests of the Scheduled tribes with 
+regard to land alienation and other social factors, provision of “Fifth Schedule” is 
+enshrined in the Constitution under article 244 (2). AP has Scheduled (or normally called 
+Tribal) Areas spread over 97 Mandals in 10 districts.  
+ 
+While the project interventions will not affect adversely the tribals, these groups do 
+require special attention from the viewpoint of ensuring inclusion and equity.  Hence, to 
+ensure their inclusion, specific targeting is essential.  Against this context, in accordance 
+with the Bank’s OP 4.10, a Tribal Development Plan (TDP) has been prepared with the 
+following objectives:  (i) ensuring inclusion through selective targeting/prioritization; (ii) 
+establishing anew/strengthening the existing tribal institutions to undertake RWSS 
+management; (iii) reducing the drudgery for tribal women and children by reducing time 
+spent in fetching water; and (iv) hygiene and behavioral changes.  The key elements 
+underpinning the tribal development plan (TDP) relate to: (i) discriminatory targeting – to 
+ensure inclusion and equity; (ii) governance – ensuring that the project’s implementation 
+arrangements are in accordance with existing government stipulations, particularly the 
+Panchayat Extension to Scheduled Areas Act which provides special functional powers 
+and responsibilities to ensure effective participation of tribals; (iii) implementation 
+arrangements – rules of engagement, including community contributions will be flexible 
+to accommodate the tribals; and (iv) capacity support/building – to enable tribals to 
+participate and derive full benefits. Separate budget provision too has been made for 
+implementing TDP.  
+ 
+Given the constitutional provision for Scheduled Areas, the TDP has been designed 
+exclusively for these areas.  Overall, about 400 habitations are expected to be taken up 
+under the project in the Scheduled Areas of AP.  It may be noted that initially, the project 
+had been designed for 3,800 schemes and the TDP for 600 schemes. As the scope of the 
+project got reduced to 2,600 schemes, the TDP has been reduced proportionately. Thus, 
+some 400 schemes will be taken up in the most needy Mandals in the Scheduled Areas.   
+ 
+Implementation Arrangements:  
+ 
+Roles and responsibilities for ensuring implementation of the environment and social 
+safeguards have been detailed out at state, district, mandal and village/scheme levels. At 
+the state level, the Program Support Unit (PSU) is being set-up within the RWSSD, with 
+a
+mandate to manage the proposed project. The PSU staff will include Environment and 
+Social Development Specialists charged with the overall responsibility of ensuring the 
+implementation of the environmental and social aspects. Similarly at the district level, 
+each of the  District PSU (D-PSU) will include an Environmental/ Social Development 
+Specialist in their staff, who will be responsible for ensuring social and environmental 
+capacity support to the project partners-PRIs and communities. At the village level, the 
+Page  10
+awareness and capacity for environmental management in the local GPWSC and SO 
+would be enhanced through a targeted training and capacity building program.  
+ 
+The social and environmental management will form an integral part of the overall 
+scheme cycle. Each detailed scheme report shall contain environmental/ social checklist 
+highlighting the issues and mitigation measures. Scheme appraisals will take due note of 
+this and shall guide in decision making. Grassroots/village level checklist preparation will 
+rest with the concerned Junior Engineer and the Support Organization. Implementation 
+monitoring will rest chiefly with the GPWSC who will be capacitated and supported for 
+this by RWSSD. The post implementation supervision (including water quality) would be 
+integrated with the overall monitoring of performance indictors. Training and 
+information, education, communication (IEC) activities are planned to build the capacity 
+of community institutions as well as project staff for effective integration of safeguards 
+measures into the scheme-based activities.   
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+Key program stakeholders were identified and consultations held to seek their views and 
+incorporate the same into designing of the program. Grassroots level stakeholders 
+include: (i) benefiting households (including women, poor, Scheduled Castes, and 
+Scheduled Tribes); (ii) Gram Panchayats (men and women elected representatives), (iii) 
+Junior Engineers of RWSSD, and (iv) other community based organizations. Block/ 
+district level stakeholders are: the respective Panchayat Raj Institutions; other concerned 
+line departments such as health, rural department, power, irrigation; district/ block 
+administration; the RWSSD; and non-governmental organizations, contractors/ suppliers 
+and consultants. Departments of Finance, Drinking Water Supply & Sanitation, Rural 
+Development and Panchayat Raj, Science and Technology, Irrigation, Health, Tribal 
+Welfare, political leaders, NGOs and consultants. There have been consultations 
+throughout the project preparation both by the Bank Missions as well as by the 
+Government of Andhra Pradesh.  
+ 
+The environmental and social assessment studies have been conducted with active 
+participation by relevant stakeholders Summaries of the assessments, in particular, EMF, 
+Resettlement Policy Framework, and Tribal Development Plan have been translated into 
+local language and disseminated throughout the state. Stakeholder consultation 
+workshops have been held at all levels 
+–
+grassroots, regional and state.   
+ 
+B. Disclosure Requirements Date
+ 
+Environmental Assessment/Audit/Management Plan/Other: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+ 
+Date of receipt by the Bank 
+11/19/2008 
+ 
+Date of "in-country" disclosure 
+06/30/2008 
+ 
+Date of submission to InfoShop 
+03/26/2009 
+ 
+For category A projects, date of distributing the Executive 
+ 
+ 
+Page  11
+Summary of the EA to the Executive Directors 
+Resettlement Action Plan/Framework/Policy Process: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+ 
+Date of receipt by the Bank 
+06/15/2008 
+ 
+Date of "in-country" disclosure 
+06/25/2008 
+ 
+Date of submission to InfoShop 
+03/26/2009 
+ 
+Indigenous Peoples Plan/Planning Framework: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+ 
+Date of receipt by the Bank 
+06/15/2008 
+ 
+Date of "in-country" disclosure 
+06/25/2008 
+ 
+Date of submission to InfoShop 
+03/26/2009 
+ 
+Pest Management Plan: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+*
+If the project triggers the Pest Management and/or Physical Cultural Resources, 
+the respective issues are to be addressed and disclosed as part of the Environmental 
+Assessment/Audit/or EMP. 
+If in-country disclosure of any of the above documents is not expected, please 
+explain why: 
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the 
+ISDS is finalized by the project decision meeting) 
+ 
+OP/BP/GP 4.01 - Environment Assessment 
+ 
+Does the project require a stand-alone EA (including EMP) report? 
+Yes 
+If yes, then did the Regional Environment Unit or Sector Manager (SM) 
+review and approve the EA report? 
+Yes 
+Are the cost and the accountabilities for the EMP incorporated in the 
+credit/loan? 
+Yes 
+OP/BP 4.10 - Indigenous Peoples 
+ 
+Has a separate Indigenous Peoples Plan/Planning Framework (as 
+appropriate) been prepared in consultation with affected Indigenous Peoples? 
+Yes 
+If yes, then did the Regional unit responsible for safeguards or Sector 
+Manager review the plan? 
+Yes 
+If the whole project is designed to benefit IP, has the design been reviewed 
+and approved by the Regional Social Development Unit or Sector Manager? 
+N/A 
+OP/BP 4.12 - Involuntary Resettlement 
+ 
+Has a resettlement plan/abbreviated plan/policy framework/process 
+framework (as appropriate) been prepared? 
+Yes 
+If yes, then did the Regional unit responsible for safeguards or Sector 
+Manager review the plan? 
+Yes 
+OP/BP 4.36 - Forests 
+ 
+Page  12
+Has the sector-wide analysis of policy and institutional issues and constraints 
+been carried out? 
+Yes 
+Does the project design include satisfactory measures to overcome these 
+constraints? 
+Yes 
+Does the project finance commercial harvesting, and if so, does it include 
+provisions for certification system? 
+No 
+The World Bank Policy on Disclosure of Information 
+ 
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+Yes 
+Have relevant documents been disclosed in-country in a public place in a 
+form and language that are understandable and accessible to project-affected 
+groups and local NGOs? 
+Yes 
+All Safeguard Policies 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities 
+been prepared for the implementation of measures related to safeguard 
+policies? 
+Yes 
+Have costs related to safeguard policy measures been included in the project 
+cost? 
+Yes 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures related to safeguard policies? 
+Yes 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+Yes 
+D. Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Ms Smita Misra 
+02/25/2009 
+Environmental Specialist: 
+Ms Priti Kumar 
+02/12/2009 
+Social Development Specialist 
+Mr Suryanarayan Satish 
+02/25/2009 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+Ms Kalyani Kandula 
+02/12/2009 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Frederick Edmund Brusberg 
+03/26/2009 
+Comments:  Cleared. Please see clearance memo. 
+Sector Manager: 
+Mr Oscar E. Alvarado 
+03/26/2009 
+Comments:  Oscar Alvarado, Acting SM, SASDU 

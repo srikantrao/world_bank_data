@@ -1,0 +1,508 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+APPRAISAL STAGE
+Report No.: ISDSA15015
+0
+Date ISDS Prepared/Updated: 08-Oct-2015
+o
+Date ISDS Approved/Disclosed: 15-Oct-2015
+I. BASIC INFORMATION
+1. Basic Project Data
+Country:        Dominican Republic         Project ID:  P147277
+Project Name: Distribution Grid Modernization and Loss Reduction Project (P 147277)
+Task Team       Sergio Augusto Gonzalez Coltrinari
+Leader(s):
+Estimated       10-Aug-2015                Estimated    16-Dec-2015
+Appraisal Date:                            Board Date:
+Managing Unit: GEE04                       Lending      Investment Project Financing
+Instrument:
+Sector(s):      Transmission and Distribution of Electricity (100%)
+Theme(s):       City-wide Infrastructure and Service Delivery (80%), Urban Economic
+Development (20%)
+Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+8.00 (Rapid Response to Crises and Emergencies)?
+Financing (In USD Million)
+Total Project Cost:     120.00            Total Bank Financing:  120.00
+Financing Gap:            0.00
+Financing Source                                                        Amount
+Borrower                                                                    0.00
+International Bank for Reconstruction and Development                     120.00
+Total                                                                     120.00
+Environmental B - Partial Assessment
+Category:
+Is this a       No
+Repeater
+project?
+2. Project Development Objective(s)
+The project development objective is to improve the financial viability of the electricity distribution
+companies (EDEs) by reducing energy losses and increasing revenue collections in the circuits
+rehabilitated under the project and consequently increase the supply of electricity. .
+3. Project Description
+Page 1 of 11
+
+
+﻿A.     Project Components as described in the PAD (after Decision Meeting)
+Component 1: Rehabilitation of Selected Distribution Circuits and Upgrading of Metering Systems -
+Implementation of Environmental Management System (US $103.63 million). This component will
+support investments to rehabilitate circuits selected by each EDE. Investments include: (i) the supply
+and installation of remote metering and remote switching (disconnection and reconnection) systems
+for end-users in low voltage residential and commercial circuits; (ii) the eradication of illegal
+connections by means of anti-theft MV and LV network, installation of high multiple meter boxes
+*         and individual meters with remote metering and switching to existing and newly regularized
+unmetered end-users through this project; (iii) the replacement of obsolete and overloaded MV and
+LV overhead power lines and transformers; and (iv) supply and installation of macro-metering
+equipment in mid-voltage branches and micro-metering in power transformers to better track and
+monitor power flows, overloads, energy balances, and commercial losses in the distribution grids,
+and (v) development of an environmental management system and upgraded monitoring and
+management of electrical residues sites, following international best practices for hazardous waste
+management.
+Component 2: Citizen Engagement and Community Participation. (US$ 4.56 million). This
+component will implement a Social Management Strategy (SMS) aiming at restoring the confidence
+between users and EDEs, increase cash collection levels, and use electricity efficiently and safely.
+Through the implementation of the (SMS), leaders and communities will be informed about the
+modernization of the networks, and will be organized to participate actively in the implementation of
+the project. Social Compacts will be signed between the EDEs and the communities to reflect
+agreements reached on the number of hours of electricity that the EDEs will deliver per day and the
+legalization of illegal users and payment of the electricity bills by the clients. Communities will be
+trained on the safe and efficient use of electricity, and their rights and duties as regular clients of the
+EDEs. All the activities of the SMS will be implemented with a differential approach based on
+gender and age. A detailed description of this component and the Social Management Strategy is in
+Annex 2. Each EDE has a Social Management Unit and a team to implement the Strategy in each
+O
+Q)       circuit to be rehabilitated. The component will finance the activities related and resources needed for
+the implementation and evaluation of the Strategy. This evaluation includes pre and post Customer
+Service Satisfaction Surveys
+Component 3: Commercial Management and Project Management, Monitoring and Evaluation of the
+Loss Reduction Program (US$ 11.16 million). This component will finance consulting services to
+improve the commercial management of the EDEs; integrate the corporate IT systems of CDEEE and
+the EDEs to improve corporate processes; and strengthen the coordination and monitoring of the
+rehabilitation projects. Significant potential for governance improvements recommended in the
+Governance Study conducted by the World Bank lies in the enhancement of management processes
+at CDEEE and EDEs, and more specifically enhancements that can be attained through investment in
+information systems. This project will include the integration of commercial, financial and
+accounting systems and standardization of reporting to help establish transparent processes for
+procurement of goods and services linked to the sector's planning goals, facilitate quality business
+data to top management and market regulator, and provide access to real time operational
+information.
+Component 4: Complementary Tariff Study (US$350,000). The Electricity Market Regulator (SIE) is
+currently undertaking a Tariff Study (a loan from IDB) to assess and update the levels of the current
+Page 2 of 11
+
+
+﻿electricity tariffs in terms of cost-recovery. This component will finance a complementary study (to
+be completed two years from project implementation) to weigh the social implications of the changes
+in the tariff rates and recommend mitigation measures and glide-path implementation of the tariff
+levels proposed in the ongoing Tariff Study supported by the IDB
+O
+4. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+The CDEEE and its three companies (EDEs) cover the entire country's power distribution sector.
+The energy generation in Dominican Republic is mainly thermal (86%) and only 13% of
+hydroelectricity, thus having an important footprint on green house gases. The forest land covers
+about 40% of the country.
+The project works will concentrate in specific provinces and municipalities served by each EDE such
+as Distrito Nacional, Santo Domingo, San Crist6bal, Santiago, La Vega, Puerto Plata, Duarte and San
+Pedro de Macori. The majority of the works will be performed along public streets and urban areas.
+The planned activities within the project do not include the construction of new transmission o
+distribution electrical lines. The project might include the construction or rehabilitation of storage
+sites for the electrical residues from the project woks which might be located close to streams and
+neighborhoods. About 2200 kilometers of power lines will be rehabilitated as part of Component 1
+activities. An additional 6760 km of power lines of will be rehabilitated as part of the energy loss
+program and potentially at the same time of this project through the implementation of similar
+projects financed by other Banks (IDB, European Bank, OPEC, OFID). The project areaa are about
+60% urban (poor neighbors in suburbs) and about 40% in rural areas.
+5. Environmental and Social Safeguards Specialists
+Ruth Tiffer-Sotomayor (GENDR)
+6. Safeguard Policies   Triggered? Explanation (Optional)
+Environmental           Yes         The proposed works to be completed under the Project
+Assessment OP/BP 4.01               pertain to the rehabilitation of medium (69kV;34.5kV;
+15kV; 12.47kV; 7.2kV; y 4.16kV) and low voltage lines
+(120/208V o 240/415V) and the installation of metering
+systems. The works will not involve construction of new
+facilities, or electrical lines but the rehabilitation
+(replacement of existing power lines and related
+equipment) and installation of new meter systems. Based
+on the project characteristics, a category B was proposed.
+Most works will be performed in along public urban and
+rural roads. Special attention have taken in the EIA to
+avoid impacts on forested and urban areas to reduce
+impacts to natural habitats and local inhabitants during
+construction.
+The project is expected to have positive impacts on urban
+and rural residents of the selected areas of intervention
+due to the rehabilitation of the distribution electrical grid,
+home connections to beneficiaries and the reduction of
+electricity interruptions which is a common issue in the
+country.
+Page 3 of 11
+
+
+﻿Potential environmental impacts of the project activities
+are related to the rehabilitation works of the distribution
+power lines and include:
+i) generation of a large quantity of electrical residues,
+such as: transformers, cables, meters, street lights, poles
+(of wood, concrete and metal). New poles financed by
+this project will be only concrete.
+ii) generation of hazardous electrical waste (old
+transformers) which might be contaminated with PCBs
+iii) interruption of electricity service to local
+communities during works.
+iv) changes in the normal transit in streets, sidewalks and
+public areas
+A recent rehabilitation distribution project by EDENorte
+and financed by IDB in the Municipality of Villa
+Gonzalez required the installation of 80.6 km of power
+cables of medium voltage, 65 km of low voltage cable,
+1978 concrete power poles, 205 transformers and 1,704
+street lights. As a result, a similar number of deployed
+equipment became residues and required additional space
+which is limited in each EDE.
+To ensure that any environmental issues by the project
+activities are appropriately addressed by the selected
+implementing agencies, CDEEE and all 3 EDEs, the
+client prepared an Environmental Impact Assessment in
+accordance with the OP 4.01 in order to meet the World
+Bank safeguards policies and the national applicable
+legislation. The EIA included a diagnostic of the project
+areas, potential environmental impacts, and capacities in
+each EDE to evaluate, supervise and manage the expected
+impacts.
+The EIA evaluated the impacts on natural resources (trees,
+birds, bats), community and workers health and safety (e.
+g. working at heights, electric shock, electromagnetic
+fields, etc). The prepared EMP for this project includes
+measures to reduce impacts in the project areas during the
+construction and operation. The EMP also includes
+actions to ensure communication, health and safety,
+grievance redress mechanisms, screening of voluntary
+land donations and checklist for screening; monitoring
+and supervision of works. Also the EMP includes
+Environmental Clauses for the bidding documents so
+contractors must comply with environmental legislation,
+Page 4 of 11
+
+
+﻿worker's occupational health, safety local labor
+regulations, the WB Safeguards Policies and the approved
+EIA.
+The project will cause cumulative impacts due to
+production of hazardous and electrical solid waste by all 3
+EDEs, by this project and the other projects financed by
+IDB, the European Bank, OFIC. The client agreed to
+include as part of Component 1.1 a budget of $2.4 to
+finance the development of an environmental
+management system to implement actions in all EDEs and
+the CDEEE to improve environmental management in the
+EDEs and to apply best international best practice,
+including handling, transportation, and final disposition of
+transformers contaminated by polychlorinated biphenyls
+(PCBs) and remediation of soil contaminated sites.
+The client has been informed of the WBG's
+Environmental, Health and Safety (EHS) Guidelines for
+Power Transmission projects and IFC guidelines.
+The EIA was disclosed on March 17 at the World Bank
+and CDEEE web sites on consulted with relevant
+stakeholders on March 25-27, 2015. The EIA was
+reviewed by the Bank team, updated and the final
+documents disclosed on August xx, 2015.
+Natural Habitats OP/BP  Yes         This policy is triggered to ensure proper management of
+4.04                                and disposal of project residues and in order to avoid
+impacts on natural or critical habitats.
+Forests OP/BP 4.36      No          No project activities are involved with forest
+management. Thus the Forest safeguard policy is not
+triggered.
+Pest Management OP 4.09 No          The Project does not involve the purchase or increased
+use of pesticides.. Thus the Pest Management s policy is
+not triggered.
+Physical Cultural       Yes         This policy is triggered as precautionary measure to avoid
+Resources OP/BP 4.11                impacts to the country's diverse cultural and historical
+resources.
+Indigenous Peoples OP/  No          This policy is not triggered as there are no Indigenous
+BP 4.10                             Peoples that meet the four criteria of OP/BP 4.10 within
+the project area that could potentially benefit or be
+adversely affected by the Project's investments.
+Involuntary Resettlement No         The Project does not involve land acquisition or
+OP/BP 4.12                          imposition of easements or rights of way. The planned
+works involve the rehabilitation of existing medium and
+low voltage power lines and the installation of metering
+Page 5 of 11
+
+
+﻿systems. The works do not involve construction of
+electrical lines. Most works will be performed in the right
+of ways of country roads and are not expected to cause
+physical or economic displacement.
+Safety of Dams OP/BP    No           This policy is not triggered given that the project will not
+4.37                                 support the construction or rehabilitation of dams nor will
+support other investments which rely on the services of
+existing dams.
+Projects on International  No        No project activities are involved in international
+Waterways OP/BP 7.50                 waterways as defined under OP/BP 7.50. Thus the
+International Waterways policy is not triggered.
+Projects in Disputed    No           No project activities are involved in disputed areas as
+Areas OP/BP 7.60                     defined under OP/BP 7.60. Thus the Disputed Areas
+policy is not triggered.
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+and describe any potential large scale, significant and/or irreversible impacts:
+1. Environmental Category and proposed works. Based on the proposed activities for this project,
+the project was classified as B and the Environmental Safeguards Policies triggered are OP 4.01,
+OP 4.11 and OP 4.04. Most of the environmental and social impacts are related to the activities to
+be financed by Component 1. The subprojects, named Circuits or Circuitos (in spanish), are
+sections of distributions lines which have been selected by the client to rehabilitate in order to
+improve electricity services.
+2. The civil works will be implemented by contractors supervised by the three EDEs and hired by
+O
+U           the CDEEE under Component 1 (US$103.7 million), and the main activities might include: i)
+rehabilitation of medium and low voltage distribution circuits in targeted areas (about 20 circuits
+for the three EDEs representing change of about 2300 km of cables, 3400 transformers, 15,000
+street lights) and the installation of metering systems (approximately 10,135 meters). The works
+will not involve construction of new electrical distribution or transmission lines but the
+rehabilitation (replacement of existing power lines and related equipment) and installation of new
+meter systems which will generate important volumes of discarded electrical residues.
+3. EDEs will have to manage this project together with other similar works financed by other
+Banks ( IDB, OPEC, OFID, and EIB) which will also generate large amounts of electrical residues
+(cables, lights, transformers). EDEs environmental teams estimated that the amount of residues
+that will be generated by the other subprojects will be about 4 times that of the Bank's project. The
+rehabilitation of the circuits might include, the changes of poles, cables, insulator's, street lamps,
+meters, transformers, etc. The EIA estimated that the CDEEE Loss Reduction program will
+generate as residues in the next 5 years about 38,000 poles, 9000 transformers, 20,000 street lights.
+As needed, EDEs might need to build storage sites for the new equipment that will be purchased
+and the old equipment that will be retired. Any construction needed for the project will be done on
+land owned by the EDEs or CDEEE or any other public institution.
+Page 6 of 11
+
+
+﻿4. Potential environmental impacts. During the EIA preparation, environmental and social impacts
+were identified for both construction and operation stages. Most of the impacts during construction
+can be prevented and mitigated by proper implementation of preventive and mitigation measures
+and increased on site supervision and coordination among the three EDEs and CDEEE. Potential
+O
+environmental and social impacts that can be the result of this project, might include: generation of
+electrical waste (e.g. old poles, transformers, insulators, cable lines, street lights, meters, and other
+related electrical equipment to be replaced), generation of hazardous electrical waste (e.g. old
+transformers, oils, cables, etc.), cutting of trees, perforations of sidewalks, interruption of
+electricity service to local communities during works, safety issues to manage contingencies
+(accidents, explosions), effect on normal traffic and access to homes and other public areas of the
+project sites, among others.
+5.Existing contamination issues of current storage sites in the EDEs have been addressed as per
+OP 4.01 (Annex C) in the EIA and the project has included as part of Component 1 the
+implementation of an environmental management system in order to improve current
+environmental practices in the EDEs, remediate some of the project storage contaminated sites,
+increase coordination among the EDEs and the CDEEE, hire additional environmental staff and
+standardize capacities and responses to health, safety and environmental issues that are involved in
+the typical activities and works that the project will finance. During preparation, 'pasivos
+ambientales' were identified in all three EDEs, mainly related to the large amounts of unmanaged
+old electrical residues (transformers, cables, lights, meters, etc) some resulting from previous Bank
+and IDB operations. The existing contamination issues of current storage sites in the EDEs have
+been addressed as per OP 4.01 (Annex C) in the EIA and the project has included as part of
+Component 1 the implementation of an environmental management system in order to remediate
+some of the project storage contaminated sites in order to have the necessary space to store the
+additional residues that this project will gen erate, increase environmental coordination among
+EDEs and CDEEE, hire additional environmental staff, standardize capacities and responses to
+health, safety and environmental issues that are involved in the typical activities of the works to be
+financed by the project and to improve the overall current environmental practices in the EDEs.
+6. The project has agreed to implement through Component 1, the development of an
+environmental management system which will allow CDEEE and the EDEs to improve
+management of environmental issues, health, and occupational safety aspects, associated with the
+type of works to be financed and also to a better management of hazardous electrical waste in
+order to reduce environmental and social impacts in the project areas. Some of the mitigation
+measures agreed are: i) construction of at least one additional deposit site per EDE to store and
+handle hazardous wastes (e.g. transformers) and other electrical waste that the project activities
+will generate (meters, cables, street lamps, etc); ii) training of the environmental and occupational
+safety teams of EDEs and CDEEE to improve experience and share knowledge to improve
+management and response to anticipated environmental issues, iii) development of a IT platform
+for an environmental monitory system, iv) increase supervision of contractors by EDEs, v)
+standardization of protocols among EDEs for management of environment, health and safety
+issues, supervision of works, among others.
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+in the project area:
+With the development of the project, the indirect impacts are related to the increase pollution of
+land as more electrical residues are accumulated as result of the operations. The EIA and EMP
+include measures to reduce current and future impacts of project activities following OP 4.01. OP
+Page 7 of 11
+
+
+﻿4.11 and OP 4.04 and national legislation. Component 1 includes the development of the
+environmental management system that will require EDEs to remediate some of the storage sites
+contaminated with old electrical residues, increase supervision of hazardous waste (transformers),
+among other activities to reduce long term impacts on the project areas.
+o
+Positive social impacts of the project interventions in poor and rural areas can be linked to increase
+opportunities for education, living and community security.
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+impacts.
+Since all subprojects have already been selected by the client and all are existing distribution lines,
+consideration of alternatives is not applicable. All impacts will occur in the selected areas and in
+order to reduce and mitigate these impacts, the client prepared the EIA and EMP to manage these
+impacts following application of the OP 4.01, OP 4.04 and OP 4.11, the WB guidelines, standards
+and national legislation.
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+assessment of borrower capacity to plan and implement the measures described.
+Assessment of Borrower capacities
+The project will be implemented by 4 agencies: i) the Dominican Corporation of State Electrical
+Utilities (Corporaci6n Dominicana de Empresas E16ctricas Estatales, CDEEE), ii) EDE-Norte, iii)
+EDE-Sur and iv) EDE-Este. All EDES are now 100% public owned (under CDEEE). All EDE's
+are in charge of distribution and commercialization of electricity in the country. The Bank has
+supported CDEEE and the three EDEs since 2007 through the Electricity Distribution
+Rehabilitation Project (PO89866) which closed in September 2013 and overall project and
+environmental safeguards rating of this project were ranked as satisfactory. However during the
+evaluation for this new project, it was found that each EDE had different frameworks to handle
+environmental and safety issues and different capacities in each EDE to handle the large amounts
+of electrical residues that these type of energy rehabilitation projects have generated. Previous
+Bank and other IF operations have left important amounts of electrical residues accumulated in
+open areas and close to streams.
+CDEEE has an environmental guideline in place for distribution electrical works dated from 2007
+which was accepted by the Bank in the previous project. However, compliance with this guideline
+was found to be limited in some of the EDEs. This guideline and other environmental instruments
+in place in the EDEs will be reviewed and updated during project implementation an according to
+the environmental management system to be developed under Component 1. During the
+preparation of this new project, the Bank environmental specialist worked with the CDEEE and
+EDEs to establish institutional arrangements for new staffing and improvement of environmental
+management for the proposed project activities and agreed in different environmental actions
+described in the EMP of this project which will be implemented as part of Component 1. CDEEE
+and the three EDEs will be responsible for overall project activities, including design,
+construction, operation and environmental and social management of the project.
+Measures Agreed
+For project implementation, it has been agreed that: i) at each EDE and environmental-safety unit
+will be created to be responsible of project overall environmental management and supervision; ii)
+EDEs will implement the agreed EMP prepared as result of the EIA; iii) implement an
+environmental management system as part of Component 1 which will include hiring of an
+Page 8 of 11
+
+
+﻿environmental specialist at the PIU to increase coordination among the three EDEs and CDEEE;
+hiring of one or two environmental specialists at each EDE to increase support for project
+implementation and supervision; construction or rehabilitation of electrical residues storage sites;
+diagnostics of land pollution in the current storage sites; final treatment of contaminated
+O
+transformers, purchase of screening tests for PCBs (Clor-N-Oil-50); v) prepare jointly EDEs
+safeguards reports and training, among other actions.
+Institutional arrangements for Environmental safeguards.
+During preparation, the CDEEE and the EDEs recognized the need to improve the arrangement of
+the environmental and safety units in all EDEs, and it was agreed that the PIU of the CDEEE, will
+hire an environmental specialist to support the PIU on supervising the overall performance of the
+environmental management of the Project in all EDEs. Also in each EDE, a PIU with an
+environmental-safety management unit have been created specially to handle the project.
+Additional consultants, supervisors ('fiscales') and auditors might be hired as needed during
+implementation to supervise contractors, prepare studies, remediate sites, etc.
+The PIU of the CDEEE will hire an environmental specialist financed by the project who will be
+responsible for monitoring and supervising compliance of EDEs with the EIA-EMP, activities of
+Component 1 and other agreements with the EDEs for project implementation. The CDEEE will
+prepare comprehensive safeguards reports each semester for all project implementing units in the
+EDEs and submit to the Bank in the agreed time frame. There are some environmental specialists
+at the CDEEE that could serve as technical advisers for the Environmental-Safety Unit at the
+CDEEE as needed.
+The Environmental-Safety Unit at each EDE will consist of a coordinator/manager and current
+and other environmental, health and safety staff and additional full time environmental/safety
+specialists (at least 1-2 for each EDE) to be financed by this project. These staff will be
+responsible for overall implementation of the EMP, activities of Component 1 development of the
+environmental management system, and supervision and monitoring of the project activities. They
+will also be responsible for field supervision of contractors and works to be financed by the
+project, preparation of reports, and other duties described in the EIA/EMP of the project. The
+Environmental-Safety Unit at each EDE will also contract consultants or auditors as needed to
+support supervision. The Environmental-Safety Unit will also coordinate with the coordinator of
+the Social Unit of each EDE on the implementation of communication plans and application of
+agreed grievance mechanisms. Bidding documents will include environmental clauses and works
+preparation and mitigation will follow procedures and arrangements described in the EIA and
+EMP prepared for the project. During implementation, as needed the Bank might request
+additional mitigation measures to prevent, mitigate or remediate potential impacts that can occur.
+The EIA and EMP of the project are an integral part of the project Operational Manual (POM) of
+this project.
+Supervision.
+The supervision of project compliance with the Bank safeguards policies during construction and
+operation will be done by the environmental-safety staff of the EDEs and supported by the
+Environmental Specialist of the UEP from CDEE and consultants as needed. EDEs will be
+responsible to the environmental management after subprojects construction and in the operation
+of the environmental management system and handling of solid waste. EDEs will also ensure that
+Page 9 of 11
+
+
+﻿bidding documents of projects have environmental clauses to ensure compliance of contractors
+with the project EMP and the environmental prevention, mitigation or compensation measures
+agreed in the EIA and required by the OP 4.01, OP 4.11 and OP 4.04 and the applicable national
+legislation.
+O
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+on safeguard policies, with an emphasis on potentially affected people.
+O
+The beneficiaries of the PRPMC are distributed in different locations at the EDEs geographical
+jurisdiction. However, the priority geographic areas are mainly located in the following provinces:
+Distrito Nacional, Santo Domingo, San Crist6bal, Santiago, La Vega,Puerto Plata, Duarte and San
+Pedro de Macori. Main stakeholders include: CDEEE, EDEs, contractors, communities,
+municipalities, residential, commercial and industrial beneficiaries.
+Consultation and Disclosure
+A draft of the EIA was published on March 17, 2015 on the websites of the three EDEs and
+CDEEE and in the Infoshop of the World Bank on March 18, 2015. Consultations were held on
+March 27, 2015 in two locations in the country. Invited stakeholders included: local communities
+within a proposed circuit to be rehabilitated within this project, representatives from the national
+environmental agency (Ministry of Environment), municipality, contractors, EDES, CDEEE.
+Representatives of the EDEs, and CDEEE explained the project scope, objectives, possible
+construction impacts, mitigation measures, monitoring protocols and grievance mechanisms.
+Subsequently, there was a question and answer session and the results of the consultation have
+been included in the EIA. Stakeholders support the project and no major issues were raised. The
+final EIA was revised by the Bank, found acceptable and it was published on September 9, 2015 at
+the website of CDEEE, EDEs and at the Infoshop of the World Bank.
+B. Disclosure Requirements
+Environmental Assessment/Audit/Management Plan/Other
+Date of receipt by the Bank                              16-Mar-2015
+Date of submission to InfoShop                           17-Mar-2015
+For category A projects, date of distributing the Executive  00000000
+Summary of the EA to the Executive Directors
+"In country" Disclosure
+Dominican Republic                                       17-Mar-2015
+Comments:
+If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please explain why:
+C. Compliance Monitoring Indicators at the Corporate Level
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP)  Yes [ X] No [  ]  NA [  ]
+report?
+If yes, then did the Regional Environment Unit or Practice  Yes [ X] No [  ]  NA [  ]
+Manager (PM) review and approve the EA report?
+Page 10 of 1I
+
+
+﻿Are the cost and the accountabilities for the EMP incorporated Yes [ X]  No[  ]  NA[  ]
+in the credit/loan?
+OP/BP 4.04 - Natural Habitats
+Would the project result in any significant conversion or  Yes [  ] No [X]  NA [  ]
+degradation of critical natural habitats?
+If the project would result in significant conversion or  Yes [ X] No [  ]  NA [  ]
+degradation of other (non-critical) natural habitats, does the
+project include mitigation measures acceptable to the Bank?
+OP/BP 4.11 - Physical Cultural Resources
+Does the EA include adequate measures related to cultural  Yes [ X] No [  ]  NA [  ]
+property?
+Does the credit/loan incorporate mechanisms to mitigate the Yes [ X] No [ ] NA [ ]
+potential adverse impacts on cultural property?
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the  Yes [X] No [  ]  NA [  ]
+World Bank's Infoshop?
+Have relevant documents been disclosed in-country in a public Yes [ X] No [ ] NA [ ]
+place in a form and language that are understandable and
+accessible to project-affected groups and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional  Yes [ X] No [  ]  NA [  ]
+responsibilities been prepared for the implementation of
+measures related to safeguard policies?
+Have costs related to safeguard policy measures been included Yes [X] No [  ]  NA [  ]
+in the project cost?
+O
+Does the Monitoring and Evaluation system of the project Yes [ X] No [ ] NA [ ]
+include the monitoring of safeguard impacts and measures
+related to safeguard policies?
+Have satisfactory implementation arrangements been agreed Yes [ X] No [ ] NA [ ]
+with the borrower and the same been adequately reflected in
+the project legal documents?
+III. APPROVALS
+Task Team Leader(s): Name: Sergio Augusto Gonzalez Coltrinari
+Approved By
+Practice Manager/     Name: Antonio Alexandre Rodrigues        Date: 15-Oct-2015
+Manager:                     Barbalho (PMGR)
+Page 11 of 11
+
+

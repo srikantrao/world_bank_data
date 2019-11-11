@@ -1,0 +1,285 @@
+Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+I.  Basic Information
+ 
+Date prepared/updated:  01/23/2008 
+Report No.:  AC3241
+1. Basic Project Data  
+ 
+Country:  Bangladesh 
+Project ID:  P095965 
+Project Name:  Siddhirganj Peaking Power Project 
+Task Team Leader:  Alan F. Townsend 
+Estimated Appraisal Date: January 25, 
+2008 
+Estimated Board Date: May 8, 2008 
+Managing Unit:  SASDE 
+Lending Instrument:  Specific Investment 
+Loan 
+Sector:  Power (100%) 
+Theme:  Other public sector governance (P);Infrastructure services for private sector 
+development (S) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+330.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER/RECIPIENT 
+70.00
+70.00 
+Environmental Category: A - Full Assessment 
+Simplified Processing 
+Simple [] 
+Repeater [] 
+Is this project processed under OP 8.50 (Emergency Recovery) 
+or OP 8.00 (Rapid Response to Crises and Emergencies) 
+Yes [ ] 
+No [X] 
+2. Project Objectives 
+The primary development objective is to support investments in peaking power supply 
+capability in Bangladesh such that unmet demand for energy is reduced by 1-billion kWh 
+per year. A secondary development objective is to build capacity in the implementing 
+agencies:  GTCL, PGCB, and EGCB.  Through the project, the companies will 
+implement best practice in procurement and implementation (supported by Owner�s 
+Engineers, and, in EGCB�s case, an O&M contractor); environmental andsocial impact 
+assessment and mitigation; and governance (through specific accountability reporting 
+and, in the case of GTCL and EGCB, investment in corporate management information 
+systems).   
+ 
+3. Project Description 
+The Project will have five components:  i) a 60 km natural gas pipeline from the gas 
+processing center at Bakhrabad to the power generation site at Siddhirganj, in South 
+Dhaka; ii) a 300 MW peaking power plant at Siddhirganj, composed of two simple-cycle 
+gas turbines of 150 MW each; iii) an 11 km, 230 kV transmission line from Siddhirganj 
+to the Maniknagar grid substation in South Dhaka, plus associated switchgear; iv) 
+Page  2
+technical assistance to support an O&M contractor for the power plant, and owner�s 
+engineers for the GTCL and PGCB components; and v) core management information 
+systems for GTCL and EGCB.   
+ 
+4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis 
+The project area will be a transmission corridor in central-eastern Bangladesh, and a 
+power plant location southeast of Dhaka.  A 60 km, 30-inch pipeline will be built linking 
+the gas processing facility at Bakhrabad to existing power generation sites at 
+Meghnaghat, Haripur, and Siddhirganj.  At Siddhirganj, gas will feed a new 300 MW 
+peaking facility, composed of two 150 MW turbines.  Power from the 300 MW peaking 
+plant will be evacuated via a new 230 kV line to Maniknagar, but transfer capability 
+between a new substation to be financed in the project, and the existing substation at 
+Siddhirganj, will also allow for evacuation into the main Dhaka transmission ring.  At 
+Maniknagar, the project will finance gas insulated switchgear (GIS) at an existing 
+substation.  
+ 
+While the transmission line will use much of an existing Right of Way over flat terrian, 
+the gas pipeline will cross five major rivers. The laying of the pipeline will need to take 
+into account the possible ecological impacts on acquatic flora and fauna. There may also 
+be some loss of trees, which may require statutory clearances. As for the generation 
+subproject, there is a wooden board making factory adjacent to it which is known for its 
+high emission of fine particles; on the south is a derelict jute mill that is being converted 
+to a Special Economic Zone; and on the north is a steel re-rolling mill, and then a couple 
+of brick kilns.   
+ 
+5. Environmental and Social Safeguards Specialists 
+Mr Sameer Akbar (SASDN) 
+Mr Fabio Pittaluga (SASDS) 
+ 
+6. Safeguard Policies Triggered
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+X
+Natural Habitats (OP/BP 4.04) 
+ X 
+Forests (OP/BP 4.36) 
+ X 
+Pest Management (OP 4.09) 
+ X 
+Physical Cultural Resources (OP/BP 4.11) 
+ X 
+Indigenous Peoples (OP/BP 4.10) 
+ X 
+Involuntary Resettlement (OP/BP 4.12) 
+X
+Safety of Dams (OP/BP 4.37) 
+ X 
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X 
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+Page  3
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts: 
+xx households will need to be re-settled, mainly in the urban areas close to Siddhirganj 
+and Haripur.  Otherwise there are no significant social safeguards issues.  The 
+transmission corridors for both gas and power have already been developed.  Laying the 
+gas pipeline will lead to a small, permanent loss of arable land, for which compensation 
+will be made.  The power plant will be built in an existing power generation site.  
+ 
+The key environmental safeguard issues relate to cumulative impacts of the project 
+activity at the generation site. As per the EA, air (including thermals effects) and noise 
+pollution are the likely major environmental impacts, primarily because of the fact that 
+the generation subproject is located in a populated area with a number of polluting 
+industries around it. An Environmental Management Plan (EMP) has been prepared to 
+address these issues to the extent possible.   
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+It is possible that additional power generation capacity will be added at Siddhirganj at a 
+later date.  This will also be gas-fired, so will have only a marginally negative impact on 
+local air quality. However, the project is likely to lead to further induced industrial 
+developments in the area, which may lead to long term adverse impacts. Though the 
+project cannot do anything about it, an area based development approach is 
+recommended to prevent worsening of cumulative environmental impacts in the area.   
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts. 
+In case of the transmission corridors for power evacuation and gas supply, alternative 
+routes were analysed, and the one with least environmental and social (resettlement) 
+impacts were chosen. The analysis of alternatives is documented in the EA documents.   
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide 
+an assessment of borrower capacity to plan and implement the measures described. 
+The implementing agencies have prepared environmental management plans and, in the 
+case of the transmission components, resettlement action plans.  The Bank project is 
+helping the implementing agencies move to a higher performance standard than has been 
+customary in Bangladesh on these issues, on-going assistance and supervision will be 
+necessary to help ensure timely and effective implementation of mitigation measures. 
+ 
+An Environment Management Unit (EMU) is to be set up at EGCB under the project. It 
+is proposed to be led by a Senior Environmental Engineer who will oversee 
+Environmental Managers responsible for individual generating units. The GTCL has an 
+existing Environment and Safety Management System (ESMS), while the PGCB has an 
+Environment Health and Safety (EHS) system. Both of these will be customized and 
+activated for each subproject.   
+Page  4
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+The key stakeholder populations are households in the transmission corridors that will be 
+impacted by construction and operation of the facilities.  Some of these households will 
+need to be permanently resettled. Consultations and disclosures are on-going. 
+Consultations were also held as part of the EA preparation, and are documented in the 
+reports along with the key issues raised.   
+ 
+B. Disclosure Requirements Date
+ 
+Environmental Assessment/Audit/Management Plan/Other: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+ 
+Date of receipt by the Bank 
+10/31/2007 
+ 
+Date of "in-country" disclosure 
+12/10/2007 
+ 
+Date of submission to InfoShop 
+11/12/2007 
+ 
+For category A projects, date of distributing the Executive 
+Summary of the EA to the Executive Directors 
+01/31/2008  
+Resettlement Action Plan/Framework/Policy Process: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+ 
+Date of receipt by the Bank 
+10/31/2007 
+ 
+Date of "in-country" disclosure 
+12/10/2007 
+ 
+Date of submission to InfoShop 
+11/12/2007 
+ 
+*
+If the project triggers the Pest Management and/or Physical Cultural Resources, 
+the respective issues are to be addressed and disclosed as part of the Environmental 
+Assessment/Audit/or EMP. 
+If in-country disclosure of any of the above documents is not expected, please 
+explain why: 
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the 
+ISDS is finalized by the project decision meeting) 
+ 
+OP/BP/GP 4.01 - Environment Assessment 
+ 
+Does the project require a stand-alone EA (including EMP) report? 
+Yes 
+If yes, then did the Regional Environment Unit or Sector Manager (SM) 
+review and approve the EA report? 
+Yes 
+Are the cost and the accountabilities for the EMP incorporated in the 
+credit/loan? 
+N/A 
+OP/BP 4.12 - Involuntary Resettlement 
+ 
+Has a resettlement plan/abbreviated plan/policy framework/process 
+framework (as appropriate) been prepared? 
+Yes 
+If yes, then did the Regional unit responsible for safeguards or Sector 
+Manager review the plan? 
+Yes 
+Page  5
+The World Bank Policy on Disclosure of Information 
+ 
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+No 
+Have relevant documents been disclosed in-country in a public place in a 
+form and language that are understandable and accessible to project-affected 
+groups and local NGOs? 
+No 
+All Safeguard Policies 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities 
+been prepared for the implementation of measures related to safeguard 
+policies? 
+Yes 
+Have costs related to safeguard policy measures been included in the project 
+cost? 
+Yes 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures related to safeguard policies? 
+Yes 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+Yes 
+D. Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Mr Alan F. Townsend 
+ 
+Environmental Specialist: 
+Mr Sameer Akbar 
+ 
+Social Development Specialist 
+Mr Fabio Pittaluga 
+ 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+ 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Frederick Edmund Brusberg 
+ 
+Comments:   
+Sector Manager: 
+Mr Salman Zaheer 
+ 
+Comments:   

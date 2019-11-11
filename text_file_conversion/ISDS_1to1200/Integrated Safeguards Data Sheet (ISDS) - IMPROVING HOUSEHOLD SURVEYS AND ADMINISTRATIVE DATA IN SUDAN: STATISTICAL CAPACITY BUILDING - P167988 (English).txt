@@ -1,0 +1,535 @@
+                                  The World Bank
+                                  IMPROVING HOUSEHOLD SURVEYS AND ADMINISTRATIVE DATA IN SUDAN: STATISTICAL CAPACITY BUILDING
+
+
+
+
+                                                  Integrated Safeguards Data Sheet
+                                                Identification / Concept Stage (ISDS)
+Public Disclosure Copy
+
+
+
+
+                                              Concept Stage | Date ISDS Prepared/Updated: 02-Oct-2018 | Report No: ISDSC25098
+
+
+
+
+                         Oct 02, 2018                                                                                           Page 1 of 10
+                                  The World Bank
+                                  IMPROVING HOUSEHOLD SURVEYS AND ADMINISTRATIVE DATA IN SUDAN: STATISTICAL CAPACITY BUILDING
+
+
+
+                          BASIC INFORMATION
+
+                           A. Basic Project Data
+
+                           Project ID                            Project Name                 Environmental Category   Country
+                                                                 IMPROVING HOUSEHOLD
+                                                                 SURVEYS AND
+                           P167988                               ADMINISTRATIVE DATA IN       C - Not Required (C)     Sudan
+                                                                 SUDAN: STATISTICAL
+                                                                 CAPACITY BUILDING
+                           Team Leader(s)                        Estimated Date of Approval   Managing Unit            Financing Instrument
+                                                                                                                       Investment Project
+                           Alvin Etang Ndip                                                   GPV01
+                                                                                                                       Financing
+Public Disclosure Copy
+
+
+
+
+                          PROJECT FINANCING DATA (US$, Millions)
+
+                           SUMMARY                    -NewFin1
+
+
+
+
+                           Total Project Cost                                                                                                         0.50
+                           Total Financing                                                                                                            0.50
+                           Financing Gap                                                                                                              0.00
+
+                           DETAILS      -NewFinEnh1
+
+
+
+
+                           Non-World Bank Group Financing
+                              Trust Funds                                                                                                         0.50
+                                  Trust Fund for Statistical Capacity Building                                                                    0.50
+
+
+                           B. Project Development Objective(s)
+                           The objective of the project is to strengthen the capacity of the Central Bureau of Statistics to improve the quality of
+                           household poverty survey data and availability of administrative data in education and health sectors by making
+                           existing administrative data more available.
+
+                           C. Project Description
+                                 1. Description
+
+                           Many developing countries are now benefiting from World Bank loans/grants to implement statistical
+                           development projects for strengthening their national statistical systems, with a long-term vision.
+                           Unfortunately, the economic sanctions and Sudan’s limited access to concessional development financing
+
+
+                         Oct 02, 2018                                                                                                        Page 2 of 10
+                                  The World Bank
+                                  IMPROVING HOUSEHOLD SURVEYS AND ADMINISTRATIVE DATA IN SUDAN: STATISTICAL CAPACITY BUILDING
+
+
+
+
+                           due to the external debt, makes it difficult to have such a project now. Hence, Sudan’s statistical work would
+                           rely on donor trust funds. Until Sudan can become eligible again for World Bank loans and set up a more
+                           comprehensive project to strengthen its statistical systems (as other countries), it is important to continue to
+                           provide support to Sudan through trust funds. This would ensure that Sudan is not be left behind in terms of
+                           producing good quality statistics that are fundamental for policy making and monitoring of progress towards
+                           national and international development goals (including SDGs, and poverty reduction goals). This fits in very
+                           well with the “leave no one behind” theme for this TFSCB Call for Proposals.
+
+
+
+                           The proposed project has three core components and a project management component to facilitate project
+                           implementation. The core components are designed to help strengthen the statistical capacity of Sudan
+                           Central Bureau of Statistics (CBS), thereby strengthening the national statistical systems in general. The
+Public Disclosure Copy
+
+
+
+
+                           project components are: (i) Household survey design; (ii) Data analysis and dissemination; (iii) Improving the
+                           availability of administrative data. A clear set of activities has been identified under each component which
+                           will strengthen the capacity of CBS to improve the quality of poverty and other socio-economic data through
+                           a series of trainings and technical assistance. The proposed project components will support these priority
+                           areas through building CBS capacity for using ICT in data collection and processing as well as for compiling
+                           the data into meaningful statistics to inform policy making.
+
+                           Component 1: Improving the quality of household poverty survey data
+
+                           The Household Budget Survey (HBS) is the official source of poverty and other social indicators in Sudan. CBS
+                           implemented HBS 2009 and 2014/15 with funding support by African Development Bank (AfDB). However,
+                           significant shortcomings have been identified in HBS 2014/15 that make it non-comparable with HBS 2009.
+                           These include the following. Seasonality: The 2009 survey was conducted in a different month than all of the
+                           rounds of the new survey. This can introduce a seasonal bias when comparing the 2009 estimates with new
+                           estimates. Food Recall: The 2014/15 survey has a food recall period of 10 days instead of 7 days. This implies
+                           that different weekdays are covered by the recall depending on the weekday of the interview. In Sudan,
+                           consumption is usually higher on Fridays. Thus, households interviewed between Wednesday and Friday are
+                           likely to have higher consumption than other households. Consumption Aggregate: The 2014/15 survey
+                           includes 49 additional food items and 71 additional non-food items compared to the 2009 survey. Even
+                           though the previous survey included ‘other’ items to capture consumption of any items not included, it can
+                           be assumed that those additional items were under-reported.
+
+                           While attempts can be made to address the quality and comparability issues between the last two surveys,
+                           CBS has requested the World Bank to support Sudan with designing and implementing a new household
+                           survey that is consistent with international best practices. Discussions are ongoing regarding implementing a
+                           new household survey in Sudan, which will become the benchmark survey that follows international best
+                           practices (as opposed to the 2014/15 survey). CBS is interested in working with the World Bank to prepare
+                           and implement a new survey. The World Bank is working to help secure funding for the survey, which will
+
+
+
+                         Oct 02, 2018                                                                                              Page 3 of 10
+                                  The World Bank
+                                  IMPROVING HOUSEHOLD SURVEYS AND ADMINISTRATIVE DATA IN SUDAN: STATISTICAL CAPACITY BUILDING
+
+
+
+
+                           provide updated poverty and welfare statistics. This will inform a new Economic Development Plan in 2020
+                           as well as World Bank engagements in Sudan.
+
+                           In preparation for a new survey, a clear set of activities have been identified which will strengthen household
+                           survey capacity of CBS. The support through the TFSCB funding will be focused on strengthening CBS capacity
+                           to prepare and implement the survey in a more cost-effective manner through a series of technical
+                           assistance engagement. The following areas of support have been identified:
+
+                                 1. Poverty survey and measurement methodology. The first step will be to hold discussions with CBS
+                                    and agree on the methodology for collecting poverty (consumption) data and measuring poverty in
+                                    Sudan. The agreed methodology will be documented and will be used for the next household survey,
+                                    serving as a benchmark going forward.
+                                 2. Training on multi-topic household survey design. This will involve training on the entire process of
+Public Disclosure Copy
+
+
+
+
+                                    conducting a survey, from preparation through implementation to dissemination. The project will
+                                    support CBS to design of a new survey that will be a benchmark survey going forward, following
+                                    recommended international best practices. For example, for the next survey information on food
+                                    consumption will be collected using a 7-day recall method rather than 10 days as was done in
+                                    2014/15. The survey will be designed to collect data on new indicators relevant to multiple sectors,
+                                    aimed at gaining a better understanding of the root causes of poverty as well as a better evaluation of
+                                    the progress towards the SDGs.
+                                 3. Training on sampling design: HBS 2014/15 included about twelve thousand households, but CBS
+                                    believes that there were some issues of representativeness at the State levels. Technical assistance
+                                    will be provided to improve the sampling design and representation at geographical levels.
+                                 4. Survey modernization using CAPI. CBS plans to move from paper to modernized surveys. One of the
+                                    envisaged aspects of modernization of the national systems of survey data collection is the
+                                    introduction of Computer Assisted Personal Interview (CAPI) system in Sudan. CAPI technology can
+                                    significantly reduce the time lag between data collection and data analysis, dramatically improve data
+                                    quality, and reduce survey costs. The ability to integrate household survey data with GPS coordinates,
+                                    sensor data, time stamps, audio/video recordings and more opens up new and greater possibilities of
+                                    tackling innovative, policy-relevant questions. CBS recently used CAPI (Survey Solutions) for the pilot
+                                    agricultural production survey, and they staff express satisfaction with Survey Solutions, requesting
+                                    comprehensive training on this application. However, the process of moving CBS to this new
+                                    technology, and ensuring sustainability at the level of CBS requires significant capacity building by
+                                    CAPI experts in addition to peer-to-peer learning opportunities. The proposed support on CAPI
+                                    consists of: (a) training and workshops; (b) working with the IT staff from CBS on setting up the survey
+                                    system infrastructure (c) helping in the design and testing of the CAPI household survey instruments -
+                                    including real-time consistency checks, supervisor and enumerator supervision, and new ways to deal
+                                    with measures and standards; (d) supervision in conducting survey pilot; (e) purchase of tablets; (f)
+                                    training on GIS.
+                                 5. Pilot household survey: A pilot survey will be implemented based on the new (benchmark)
+                                    methodology. This is to ensure that CBS staff put into practice the skills acquired from trainings
+                                    received on the various aspects of survey design and implementation using CAPI. The sample size and
+
+                         Oct 02, 2018                                                                                              Page 4 of 10
+                                  The World Bank
+                                  IMPROVING HOUSEHOLD SURVEYS AND ADMINISTRATIVE DATA IN SUDAN: STATISTICAL CAPACITY BUILDING
+
+
+
+
+                                        areas of coverage for the pilot study will be discussed during project appraisal. The preliminary idea is
+                                        to use a sample that includes both rural and urban areas to verify that the new techniques and
+                                        methodologies that will be introduced work throughout the country, particularly in rural settings.
+
+
+
+                           Component 2: Improving capacity for data analysis, report writing and dissemination
+
+                           This component comprises three sets of hands-on training activities related to data analysis and
+                           dissemination and an advanced training course in English.
+
+                                 1. Basic data analysis and reporting. Currently, CBS has limited capacity to analyze the data they collect
+                                    and prepare reports. This will include training in cleaning and compiling the survey data. The activities
+                                    will include the preparation of a standard approach for data cleaning and quality assurance and the
+Public Disclosure Copy
+
+
+
+
+                                    production of a fully documented and replicable procedure for data verification, error checking and
+                                    correction etc. This activity will require acquisition of statistical software (such as Stata and SPSS) and
+                                    relevant ICT equipment including computers. CBS staff will also be trained on using ADePT for
+                                    socioeconomic data analysis.
+                                 2. Poverty measurement. The project will train CBS in the poverty estimation methodology, including
+                                    the estimation of the consumption aggregates, price indicators, and poverty line.
+                                 3. Data Dissemination: Open access (open data) to anonymized data is key to enable evidence-based
+                                    policy making and social accountability. It also helps statistics producers to justify budget allocations,
+                                    which is essential for the sustainability of the project. The project will support the development of
+                                    data access and information policies and dissemination practices, especially the dissemination of
+                                    micro-data by financing: (i) the formulation and adoption of data dissemination and microdata access
+                                    policies and calendar; (ii) the maintenance of CBS website to include a micro-data portal access in line
+                                    with open-data principles; (iii) technical assistance and some trainings on micro-data anonymization;
+                                    (iv) the improvement and maintenance of CBS website; and (v) training on SQL (Structured Query
+                                    Language), one of the world's most popular databasing language, for mastering the basics of querying
+                                    databases.
+                                 4. Advanced English course for CBS staff. This would help to improve the writing skills of CBS staff,
+                                    which is useful for report writing. It would also facilitate work on World Bank projects, particularly for
+                                    staff using World Bank procurement and finance systems (STEP and Client Connection).
+
+
+
+                           Component 3: Improving statistical coordination and availability of administrative data in education and
+                           heath sectors
+
+
+
+                           CBS leads in the production and dissemination of national official statistics while it guides the sectoral
+                           statistical systems in producing high quality statistics in their domains through development of standards in
+
+                         Oct 02, 2018                                                                                                    Page 5 of 10
+                                  The World Bank
+                                  IMPROVING HOUSEHOLD SURVEYS AND ADMINISTRATIVE DATA IN SUDAN: STATISTICAL CAPACITY BUILDING
+
+
+
+
+                           concepts, definitions, classifications and methodologies. CBS focuses on surveys and censuses as sources to
+                           generate indicators while it supports government ministries, departments and agencies (MDAs) in
+                           developing and improving system of Administrative Statistics.
+
+
+
+                           Administrative registers are essential elements in the statistical production process. Administrative registers
+                           contain data records that have been created as a byproduct of an administrative process. While
+                           administrative data has not been created to serve statistical purposes per se, it can be of tremendous value
+                           in the statistical production process. Either to supplement the universe from which statistical samples can be
+                           drawn, or by using administrative data as proxies for the phenomena that would otherwise be examined
+                           through sample surveys. Some of the benefits of using administrative records include: reduced response
+                           burden, cost reductions compared to expensive field surveys, potentially shorter lag times from reference
+Public Disclosure Copy
+
+
+
+
+                           period to dissemination, wide coverage, etc.
+
+
+
+                           CBS needs assistance to help resolve the coordination problems between CBS and statistics-producing MDAs
+                           to produce relevant economic and social statistics (administrative data) and disseminate statistical products
+                           and services at the national and subnational levels, that could be used for tracking public programs’
+                           performance. These coordination problems may result in the duplication of efforts and low-quality statistics
+                           with contradictory estimates. This project aims to address these issues through the provision of trainings and
+                           technical assistance for CBS and MDAs, as well as modern communication and information technologies and
+                           support for CBS to ensure a better coordination among the different statistics producing entities.
+
+
+
+                           The key objective of this component is to improve the availability of administrative data on selected key
+                           indicators in education and health sectors, by making existing administrative data more available. The main
+                           activities and expected outputs include the following.
+
+
+
+                           Activities (and outputs)
+
+
+
+                                 1. The aim is to focus on two sectors of priority to allow to achieve some benefits quickly in the short
+                                    term. Discussions with CBS led to selection of education and health as focus sectors. Lessons learned
+                                    from this project could later be used to scale up this activity to include administrative data in other
+                                    sectors.
+
+
+
+
+                         Oct 02, 2018                                                                                               Page 6 of 10
+                                  The World Bank
+                                  IMPROVING HOUSEHOLD SURVEYS AND ADMINISTRATIVE DATA IN SUDAN: STATISTICAL CAPACITY BUILDING
+
+
+
+
+                                 2. Identify related public programs and associated indicators of interest. For example, indicators (based
+                                    on administrative data) that would allow to monitor progress towards achieving targets of the
+                                    poverty reduction strategy and Sustainable Development Goals.
+                                 3. Asses the availability and quality of existing administrative data (for selected indicators), and develop
+                                    a plan for improvement.
+                                 4. Document and disseminate administrative data. Selected administrative records will be improved
+                                    through the application of the DDI standard (already adopted by the CBS) for data documentation
+                                    (metadata), geographic reference, and the merging with other administrative records when feasible.
+                                    Basic monitoring tools will be developed to help the Ministries of Education and Health, and the
+                                    Central Government to track performance of selected public interventions. Tools includes quality
+                                    assessment of indicators and administrative records, as well as the development of basic score cards
+                                    systems. A workshop will be organized to share lessons learned from this activity with stakeholders.
+                                 5. Training for capacity building. Training sessions will be provided to CBS and MDAs staff to assess the
+Public Disclosure Copy
+
+
+
+
+                                    quality of administrative data and indicator and define improvements plans. Also, identified staff in
+                                    selected Ministries (and local consultants) will be trained to support this work.
+                                 6. A User satisfaction assessment will be undertaken, if possible, by conducting a user satisfaction
+                                    survey at the beginning and at the end of the project. Individual interviews (e.g. paper questionnaires
+                                    or online interviews with SurveyMonkey) and focus group discussions will be considered. This will
+                                    allow to access the impact of the activity.
+                                 7. Develop a strategy to scale up improvement in administrative data in the middle to long term.
+                                    Although this activity will focus on selected programs and/or public services, an expansion to other
+                                    public interventions may be done by the client through the development of specific guidelines and
+                                    didactic material, and trained civil servants.
+
+
+
+                           Upon completion of the activity, the project is expected to help improve the capacity of CBS to better
+                           coordinate administrative data among MDAs.
+
+
+
+                           Component 4: Project Management
+
+                           Importance of project management in attaining full project implementation. Careful project management is
+                           crucial to attain full project implementation. The success of the project depends on bringing together and
+                           coordinating of stakeholders comprising users and producers of official statistics. This component will include
+                           funds and activities related to project management. For example, the project will strengthen CBS fiduciary
+                           functions (procurement and financial management) and project management capabilities. The project will
+                           finance training of CBS project core team including the procurement officer, financial management officer.
+                           These officers will ensure compliance with procurement, disbursement, and financial management policies
+                           and procedures as well as agreed reporting requirements. This component will also finance operational costs
+                           related to project implementation (including the use of local consultants as necessary).
+
+
+                         Oct 02, 2018                                                                                                Page 7 of 10
+                                  The World Bank
+                                  IMPROVING HOUSEHOLD SURVEYS AND ADMINISTRATIVE DATA IN SUDAN: STATISTICAL CAPACITY BUILDING
+
+
+
+
+                           Project Financing
+
+                           The project will be financed with a grant of US$ 500,000 under the umbrella of Trust Fund for Statistical
+                           Capacity Building, TFSCB. The Grant Funding Request (GFR) is being submitted together with the AIS/IN for
+                           approval for a period of two years. The Government has strongly committed to support the activities that
+                           will be financed by the grant.
+
+
+
+                           The project costs by component are as follows:
+Public Disclosure Copy
+
+
+
+
+                           Project Components                                                                  Total cost (USD)
+                           Component 1: Improving the quality of household poverty survey data                 210,000
+                           Component 2: Improving capacity for data analysis, report writing and
+                                                                                                               130,000
+                           dissemination
+                           Component 3: Improving statistical coordination and availability of
+                                                                                                               114,000
+                           administrative data in education and heath sectors
+                           Component 4: Project Management                                                     46,000
+                           Total Project Costs                                                                 500,000
+
+
+                           SAFEGUARDS
+
+
+                          D. Project location and salient physical characteristics relevant to the safeguard
+                          analysis (if known)
+                          Sudan. Safeguards responsibility transferred
+
+
+
+                          E. Borrower’s Institutional Capacity for Safeguard Policies
+                          The Recipient has safeguard measures in place. But this is not relevant for this project since safeguards
+                          policies are not triggered.
+
+
+
+                          F. Environmental and Social Safeguards Specialists on the Team
+
+
+                         Oct 02, 2018                                                                                             Page 8 of 10
+                                  The World Bank
+                                  IMPROVING HOUSEHOLD SURVEYS AND ADMINISTRATIVE DATA IN SUDAN: STATISTICAL CAPACITY BUILDING
+
+
+
+                          Tracy Hart, Environmental Specialist
+                          Samuel Lule Demsash, Social Specialist
+
+
+                          G. Policies that might apply
+                          Safeguard Policies Triggered by the Project        Triggered?              Explanation (Optional)
+                                                                                           There is no need for an environmental
+                                                                                           assessment: the work entails desk work (to
+                          Environmental Assessment OP/BP 4.01           No                 design new survey; data collection
+                                                                                           methodologies and analysis) and data
+                                                                                           collection using field enumerators.
+                                                                                           There is no need for an assessment of the
+                                                                                           effect
+Public Disclosure Copy
+
+
+
+
+                                                                                           of this project on natural habitats: the work
+                                                                                           entails desk work (to design new survey;
+                          Natural Habitats OP/BP 4.04                   No
+                                                                                           data
+                                                                                           collection methodologies and analysis) and
+                                                                                           data
+                                                                                           collection using field enumerators.
+                                                                                           There is no need for an assessment of the
+                                                                                           effect of this project on forests: the work
+                                                                                           entails desk work (to design new survey;
+                          Forests OP/BP 4.36                            No
+                                                                                           data collection methodologies and analysis)
+                                                                                           and data collection
+                                                                                           using field enumerators.
+                                                                                           There is no need for an assessment of the
+                                                                                           effect of this project on pest management:
+                                                                                           the work entails desk work (to design new
+                          Pest Management OP 4.09                       No
+                                                                                           survey; data
+                                                                                           collection methodologies and analysis) and
+                                                                                           data collection using field enumerators.
+                                                                                           There is no need for an assessment of the
+                                                                                           effect of this project on physical cultural
+                                                                                           resources: the work entails desk work (to
+                          Physical Cultural Resources OP/BP 4.11        No
+                                                                                           design new survey; data collection
+                                                                                           methodologies and analysis) and data
+                                                                                           collection using field enumerators.
+                                                                                           There is no need for an assessment of the
+                                                                                           effect of this project on indigenous people:
+                                                                                           the work entails desk work (to design new
+                          Indigenous Peoples OP/BP 4.10                 No
+                                                                                           survey; data collection methodologies and
+                                                                                           analysis) and data
+                                                                                           collection using field enumerators.
+                          Involuntary Resettlement OP/BP 4.12           No                 There is no need for an assessment of
+                                                                                           involuntary resettlement: the work entails
+
+                         Oct 02, 2018                                                                                           Page 9 of 10
+                                   The World Bank
+                                   IMPROVING HOUSEHOLD SURVEYS AND ADMINISTRATIVE DATA IN SUDAN: STATISTICAL CAPACITY BUILDING
+
+
+
+                                                                                                                      desk work (to design new survey; data
+                                                                                                                      collection methodologies and analysis) and
+                                                                                                                      data collection
+                                                                                                                      using field enumerators.
+                                                                                                                      There is no need for an assessment of the
+                                                                                                                      effect of this project on the safety of dams:
+                                                                                                                      the work entails desk work (to design new
+                          Safety of Dams OP/BP 4.37                                     No
+                                                                                                                      survey; data collection methodologies and
+                                                                                                                      analysis) and data
+                                                                                                                      collection using field enumerators.
+                                                                                                                      There is no need for an assessment of
+                                                                                                                      projects on international waterways: the
+                                                                                                                      work entails desk work (to design new
+                          Projects on International Waterways OP/BP 7.50                No
+                                                                                                                      survey; data collection methodologies and
+Public Disclosure Copy
+
+
+
+
+                                                                                                                      analysis) and data collection using field
+                                                                                                                      enumerators.
+                                                                                                                      There is no need for an assessment of
+                                                                                                                      projects in
+                                                                                                                      disputed areas: the work entails desk work
+                                                                                                                      (to
+                          Projects in Disputed Areas OP/BP 7.60                         No
+                                                                                                                      design new survey; data collection
+                                                                                                                      methodologies and analysis) and data
+                                                                                                                      collection
+                                                                                                                      using field enumerators.
+
+
+                          H. Safeguard Preparation Plan
+
+                          Appraisal stage ISDS required? No
+
+
+                              APPROVALS
+
+                              Team Leader(s):                                  Alvin Etang Ndip
+
+                              Approved By
+
+                              Safeguards Advisor:                             Nathalie S. Munzberg                              01-Oct-2018
+
+                              Practice Manager/Manager:                       Pierella Paci                                     01-Oct-2018
+
+
+                          1Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) by the Bank and (ii) in country
+                          by the Borrower/Recipient, at publicly accessible locations and in a form and language that are accessible to potentially affected persons.
+
+
+
+
+                         Oct 02, 2018                                                                                                                            Page 10 of 10
+

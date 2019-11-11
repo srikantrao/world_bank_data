@@ -1,0 +1,171 @@
+                                           INTEGRATED SAFEGUARDS DATA SHEET
+                                              IDENTIFICATION / CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                               Report No.: ISDSC16612
+
+                         Date ISDS Prepared/Updated: 22-Apr-2016
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:        Malawi                              Project ID:       P158864
+                            Project Name:
+                            Team Leader(s): Talip Kilic
+                            Estimated Date 06-May-2016
+                            of Approval:
+                            Managing Unit:                                      Lending           IPF
+                                                                                Instrument:
+                            Financing (in USD Million)
+                            Total Project Cost: 1.942082                       Total Bank Financing: 0
+                            Financing Gap:      0
+                              Financing Source                                                                          Amount
+                              Free-standing Single Purpose Trust Fund                                                   1.942082
+                            Environment         C - Not Required
+                            Category:
+Public Disclosure Copy
+
+
+
+
+                           B. Project Development Objective(s)
+                           This project will support the Malawi Integrated Household Survey (IHS) Program over the period
+                           2015-2020 for increasing the availability, quality, timeliness and relevance of household survey data.
+                           The support will cover the partial costs of implementing the Fourth Integrated Household Survey
+                           (IHS4) in 2016/17 and the Fifth Integrated Household Survey (IHS5) in 2019/20.
+                           C. Project Description
+                           The core objective of this work is to survey households in 2016/17 for the Fourth Integrated
+                           Household Survey (IHS4) and in 2019/20 for the Fifth Integrated Household Survey (IHS5). Both
+                           the IHS4 and the IHS5 samples will be comprised of a cross-sectional sample and a panel sample.
+                           The cross-sectional sample will be composed of 12,480 households in each round and will be the
+                           source of official poverty and all other statistics for which the IHS is designated by the NSO as the
+                           primary source. The cross-sectional interviews will be spread over a 12-month period, in line with
+                           the historical practice, in order to take into account seasonality in food and non-food consumption.
+                           The panel households will come from the sample that were initially interviewed in 2010 as part of
+                           IHS3 and were re-surveyed in 2013 during the Integrated Household Panel Survey (IHPS). The IHPS
+                           attempted to track all tracking-eligible individuals associated with 3,246 households that were
+                           previously surveyed by the IHS3. At the end, by tracking split-off individuals and bringing into the
+                           sample the new households that they had formed between the IHS3 and the IHPS, the IHPS sample
+                         grew to 4,000 households.
+
+                         The panel components for the IHS4 and the IHS5 will survey a sub-sample of the original 3,246
+Public Disclosure Copy
+
+
+
+
+                         IHS3 households selected for the IHPS as well as the descendants of this sub-sample that were
+                         interviewed by the IHPS in 2013. More specifically, the original households and their descendants
+                         tied to 102 out of 204 IHPS enumeration areas (EAs) will be targeted starting with the IHS4,
+                         translating into an initial panel sample of approximately 2,000 households. This sample can still
+                         expand in IHS5 by tracking split-off individuals and bringing into the sample the households that
+                         they will have formed between the IHS4 and IHS5. The IHS4 and IHS5 panel components will build
+                         on the impressive tracking success achieved during the IHPS, and will work towards building a long-
+                         term panel of households and individuals.
+
+                         The panel data will (i) ultimately span a period of 9 years between the IHS3 and the IHS5, (ii)
+                         include data from 4 points in time and (iii) be instrumental in understanding poverty and nutrition
+                         dynamics, livelihood transitions, structural changes in the rural economy, internal migration patterns,
+                         household formation and dissolution dynamics, idiosyncratic and covariate shocks, and inter-linkages
+                         among these changes. The panel components of the IHS4 and the IHS5 will be smaller in size than
+                         the past panel rounds and the reduced sample size is in line with the approach to building long-term
+                         panels in other countries supported by the LSMS-ISA (including Tanzania and Uganda) and provides
+                         the minimum sample size for analysis at the national level, and urban/rural levels. Given the nature
+                         of panel surveys, it is expected that the attrition rate will increase (due to increased opportunities for
+                         household dissolution, household formation and individual migration) as the panel ages. With the
+                         reduced sample size greater attention can be also given towards improving quality control over the
+                         individual tracking process and limiting attrition. The continued panel data platform will also help
+                         address impact evaluation and targeting assessment needs of large-scale development programs in
+                         the country, such as the Farm Input Subsidy Program.
+
+                         The IHS4 and the IHS5 will be implemented using a computer-assisted personal interviewing (CAPI
+                         platform designed using the World Bank Survey Solutions CAPI software. Methodological survey
+Public Disclosure Copy
+
+
+
+
+                         experiments may be built into the IHS4 and the IHS5 to validate key survey methods and measures
+                         to improve the quality of survey data. The methodological experimentation that may be conducted
+                         under the IHS4 and IHS5 umbrella will be in line with the priorities set forth by the Research
+                         Component of the Global Strategy to Improve Agricultural and Rural Statistics, and will be vetted
+                         through the IHS4/5 Technical Working Group.
+
+                         Lastly, the project emphasizes capacity building both during and between survey rounds and
+                         developing sustainable systems for the production of accurate and timely information on rural
+                         households in Malawi. All data generated will be made publicly available within twelve months of
+                         completion of each wave of data collection to preserve the value of the data. This requirement will be
+                         an integral part of the Grant Agreement that will be signed between the World Bank and the
+                         Government of Malawi. The public availability of the data is already consistent with data access
+                         policies of the NSO, including ensuring confidentiality of the unit-record data and requiring requests
+                         for the data from all other institutions and individual researchers to provide a brief description of the
+                         proposed analysis. These procedures also meet the public data requirements of completeness and
+                         timeliness set by the United States Government’s Open Data Policy – Managing Information as an
+                         Asset policy. Furthermore, the unit-record, anonymized data will be made available in multiple
+                         formats, namely CSV, STATA and SPSS, and will be described fully in the accompanying basic
+                         information document. Following the data release, a point of contact will be designated on the LSMS
+                           team to receive all queries from data users and pass the questions along to the appropriate LSMS and
+                           NSO management members.
+                           D. Project location and salient physical characteristics relevant to the safeguard
+Public Disclosure Copy
+
+
+
+
+                           analysis (if known)
+
+
+                           E. Borrower’s Institutional Capacity for Safeguard Policies
+
+
+                           F. Environmental and Social Safeguards Specialists on the Team
+
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+                           Safeguard Policies                  Triggered?      Explanation (Optional)
+                           Environmental Assessment OP/        No              The project is considered an environmental risk
+                           BP 4.01                                             Category C because there are no civil works or
+                                                                               other investments which would have any
+                                                                               environmental or social impacts. Likewise, no
+                                                                               safeguard policies are triggered since there are
+                                                                               no aspects of the project which will have
+                                                                               implications for these policies.
+                           Natural Habitats OP/BP 4.04         No
+                           Forests OP/BP 4.36                  No
+                           Pest Management OP 4.09             No
+                           Physical Cultural Resources OP/     No
+                           BP 4.11
+Public Disclosure Copy
+
+
+
+
+                           Indigenous Peoples OP/BP 4.10       No
+                           Involuntary Resettlement OP/BP      No
+                           4.12
+                           Safety of Dams OP/BP 4.37           No
+                           Projects on International           No
+                           Waterways OP/BP 7.50
+                           Projects in Disputed Areas OP/BP    No
+                           7.60
+
+                         III. SAFEGUARD PREPARATION PLAN
+                              Appraisal stage ISDS required?: No
+                         IV. APPROVALS
+                           Team Leader(s):           Name: Talip Kilic
+                           Approved By:
+                           Safeguards Advisor:       Name: Johanna van Tilburg (SA)                       Date: 21-Apr-2016
+                           Practice Manager/         Name: Michael M. Lokshin (PMGR)                      Date: 22-Apr-2016
+                           Manager:
+                         1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the
+Public Disclosure Copy
+
+
+
+
+                         InfoShop and (ii) in country, at publicly accessible locations and in a form and language that are accessible to potentially
+                         affected persons.
+Public Disclosure Copy
+

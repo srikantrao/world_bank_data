@@ -1,0 +1,603 @@
+                    INTEGRATED SAFEGUARDS DATASHEET
+                            APPRAISAL STAGE
+
+I. Basic Information
+Date prepared/updated: 06/20/2011                                    Report No.: AC6401
+1. Basic Project Data
+Country: Mozambique                           Project ID: P107350
+Project Name: Water Resources Development
+Task Team Leader: Marcus J. Wishart
+Estimated Appraisal Date: May 16, 2011        Estimated Board Date: September 15, 2011
+Managing Unit: AFTWR                          Lending Instrument: Specific Investment
+                                              Loan
+Sector: General water, sanitation and flood protection sector (80%);Flood protection
+(20%)
+Theme: Water resource management (75%);Other urban development (25%)
+IBRD Amount (US$m.):             0.00
+IDA Amount (US$m.):             70.00
+GEF Amount (US$m.):              0.00
+PCF Amount (US$m.):              0.00
+Other financing amounts by source:
+         BORROWER/RECIPIENT                                              3.00
+         Climate Investment Funds                                       10.00
+         Japan Policy and Human Resources Development Fund               0.75
+         Financing Gap                                                   0.00
+                                                                        13.75
+Environmental Category: A - Full Assessment
+Repeater []
+Is this project processed under OP 8.50 (Emergency Recovery)
+                                                                    Yes [ ]     No [X]
+or OP 8.00 (Rapid Response to Crises and Emergencies)
+
+2. Project Objectives
+The Project Development Objective is to strengthen the development and management of
+national water resources and increase the yield from Corumana Dam to augment water
+supply for the Greater Maputo Metropolitan Area (GMMA).
+
+ The direct project beneficiaries are persons benefitting from improved water
+management systems, water supply and distribution in target towns and communities as
+well as livelihood improvement programs and employment opportunities.
+
+ The expected results of the project primarily include: (i) % of the river basins covered
+by water resources management plans; (ii) % of hydro-climatic stations operational and
+reporting; and (iii) incremental reservoir yield available from Corumana Dam for the
+GMMA.
+3. Project Description
+Component A: Water Resources Management. The objective of this component is to
+enhance capacity at the national and regional level to address the challenges of water
+resources management in Mozambique and strengthen the framework for water resources
+development.
+
+ Component B: Completion of the Corumana Dam: Civil and Hydro-Mechanical Works.
+The objective of this component is to ensure the completion of the Corumana Dam,
+including installation of spillway gates with repair works of concrete pillars/abutments, a
+saddle dam with a fuse plug emergency spillway, a monitoring system and equipment,
+along with other safety measures.
+
+ Component C: Completion of the Corumana Dam: Environmental and Social. The
+objective of this component is to ensure that completion of the Corumana Dam is
+compliant with the project safeguard instruments prepared by the Borrower and cleared
+by the Bank. The component includes implementation of the Environmental Management
+Plan (EMP) and the Resettlement Action Plan, including a Community Livelihood Plan.
+
+ Component D: Water Resources Development. The objective of this component is to
+address the infrastructure deficit and assist in the development of river basin plans and a
+pipeline of future water resource investments. Activities to be supported include the
+development of feasibility studies, tender designs, strategic assessments and river basin
+plans, along with preparation of environmental and social assessments for potential
+investments.
+
+4. Project Location and salient physical characteristics relevant to the safeguard
+analysis
+The project will support the Government’s National Water Resources Development
+Program. Components B and C will be directed toward completion of the Corumana
+Dam. Built between 1983 and 1989, the Corumana Dam is located in Mozambique,
+approximately 90 km north-west of the capital Maputo, on the Sabíe River which flows
+from South Africa into Mozambique and is a tributary to the Incomati River. The
+Incomati River is an international waterway shared by South Africa, Swaziland and
+Mozambique, which is the downstream riparian.
+
+  The Corumana Dam is situated within the Lebombo Mountains in southern
+Mozambique. It lies in the Moamba District of Maputo Province (25°13'10.10''S;
+32°8'2.31''E) and immediately downstream of the border with South Africa's Kruger
+National Park. Completion of the Corumana Dam will restore the full supply level (FSL)
+from the current operating level of 111 mASL to the original design of a level of 117
+mASL. This will increase the surface area of the reservoir by 23 percent (adding an
+estimated 1,607 ha).
+
+ The Project Affected Zone corresponds to areas notified by the National Directorate of
+Water to that effect and will include areas affected by the (i) expanded reservoir
+inundation area and adjacent buffer zone; (ii) areas directly affected by project civil
+works (saddle dam, borrow pits, construction camp, lands for resettlement, etc.) and (iii)
+the areas affected by a 1 in 1,000 year return period flood event, if the reservoir reached
+120 mASL which would activate the saddle dam’s fuse plug emergency spillway and
+excess water flow through the diversion channel to the Sabíe River downstream from the
+main dam.
+
+5. Environmental and Social Safeguards Specialists
+   Mr George Campos Ledec (AFTEN)
+   Ms Yasmin Tayyab (AFTCS)
+
+6. Safeguard Policies Triggered                              Yes         No
+Environmental Assessment (OP/BP 4.01)                         X
+Natural Habitats (OP/BP 4.04)                                 X
+Forests (OP/BP 4.36)                                                      X
+Pest Management (OP 4.09)                                                 X
+Physical Cultural Resources (OP/BP 4.11)                      X
+Indigenous Peoples (OP/BP 4.10)                                           X
+Involuntary Resettlement (OP/BP 4.12)                         X
+Safety of Dams (OP/BP 4.37)                                   X
+Projects on International Waterways (OP/BP 7.50)              X
+Projects in Disputed Areas (OP/BP 7.60)                                   X
+
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project.
+Identify and describe any potential large scale, significant and/or irreversible impacts:
+Environmental Issues: The Sabíe River, on which the Corumana Dam is situated, flows
+through South Africa's world-famous Kruger National Park (KNP) and enters
+Mozambique immediately upstream of the existing Corumana Reservoir. Within the
+extensive KNP (encompassing some 2 million ha), the only area to be affected by raising
+of the Corumana Reservoir would be a section of the Sabíe River that cuts through the
+Lembobo Mountains, just upstream of the South Africa-Mozambique border.
+
+  Hydrological analyses and detailed topographic LiDAR surveys carried out during
+preparation indicate that at a full supply level of 117 mASL (10 percent expected
+frequency), the backwater effect would be confined to the river channel in the Sabíe
+River gorge, and reach 730 m into KNP in South Africa. At an operating level of 115
+mASL, the backwater effect is estimated at 430 m. In the case of a 1 in 200 year return
+period flood event at the 117 mASL operating level, and if the dam's gates were closed,
+the backwater effect would be confined to the river channel and reach an estimated 1,195
+m into South Africa. For a 115 mASL operating level, the same scenario is estimated to
+reach 1,050 m into South Africa. All of this incremental inundated area would be within
+the existing channel in the Sabíe River gorge, which comprises braided rapids.
+  Accounting for increased sediment deposition due to slower river flow near the reservoir
+tail, as well as inundation, this riverine ecosystem could be ecologically altered for up to
+about 1,080 m into South Africa at the 117 mASL operating level (935 m at the 115
+mASL operating level). However, since this ecosystem type extends for nearly 8 km
+along the Sabíe River into the KNP, the EIA indicates that only up to 15 percent of the
+riverine ecosystem could be somewhat affected by the completion of Corumana Dam.
+The magnitude and frequency of the impacts associated with potential back-flooding
+would be further reduced if, as planned, the dam's main gates are left open above 117
+masl. Cooperative disaster management measures being developed under the tri-partite
+arrangements for the Incomati River basin under the Progressive Realisation of the
+IncoMaputo Agreement (PRIMA) program will facilitate joint operations, so as to keep
+the reservoir at or below 117 masl during all except sudden, extraordinarily large flood
+events.
+
+  Aside from relatively small portions of the Sabíe River channel within KNP, the
+terrestrial natural habitats to be affected by raising the Corumana Reservoir level are
+primarily within Mozambican territory and outside of designated protected areas.
+
+  The boundaries of the Sabíe Game Park (SGP), an existing private conservation area, do
+not extend below 117 mASL, the FSL of the expanded future Corumana Reservoir. The
+Corumana Dam EIA indicates that at the FSL of 117 mASL, the following area of
+terrestrial natural habitats would be affected: (i) 888 ha of Sclerocarya birrea-Acacia
+nigrescens Savanna; (ii) 445 ha of Lebombo South Landscape, a small portion of which
+includes the riverine vegetation within the Sabíe River channel of KNP; and (iii) 274 ha
+of existing Floodplain Grassland. The natural habitats comprising the Sclerocarya birrea-
+Acacia nigrescens Savanna and Lebombo South Landscape are still relatively extensive,
+occurring within the KNP as well as the existing Sabíe and proposed Ingwe game parks,
+both privately owned and fully on Mozambican territory. The expected loss of these
+habitats within the expanded reservoir inundation zone is therefore not considered to be
+significant.
+
+ The Floodplain Grassland ecosystem type is not an original natural habitat, but has
+developed in response to the fluctuating shoreline of the Corumana Reservoir. These
+grasslands currently provide a valuable grazing area for livestock along the portions of
+the Corumana Reservoir shoreline with a resident human population, as well as for
+wildlife from the KNP and Sabie Game Park (SGP). Hippopotamus, African Buffalo, and
+various antelope species regularly graze within this ecosystem type, which provides
+suitable forage throughout the year. As the Corumana Reservoir level rises, the existing
+Floodplain Grassland area will disappear under the rising waters. However, a roughly
+comparable area of this habitat type is expected to re-establish itself along the fluctuating
+shoreline of the future reservoir. To ensure that an adequate Floodplain Grassland area is
+maintained while the reservoir level is initially raised and thereafter, the future Operating
+Rules for water releases from the Corumana Dam will be adjusted accordingly.
+
+ Downstream of Corumana Dam, the Sabíe River ecosystem is much more modified by
+human activities than is the case upstream within KNP. Since the existing Corumana
+Dam first began operating in 1989, downstream flows in the Sabíe River differ
+significantly from the natural (pre-dam) pattern, until its confluence with the Incomati
+River. In particular, current water releases are made to generate peaking power from the
+dam's two turbines (with 16 MW installed capacity); over much of the year, the dam
+releases twice-daily peak flows that are very different from the seasonal peak flows that
+predominated before the Corumana Dam was first built. The fish and other aquatic
+species that still remain within the Sabíe River between Corumana Dam and its
+confluence with the Incomati River have adapted to this un-natural flow pattern.
+Completing the Corumana Dam and raising the reservoir FSL from 111 to 117 masl is
+expected to reduce annual downstream flows in the Sabíe River by about 5.1%, due to (i)
+reduced spillage (of water that the enlarged reservoir will be able to store) and (ii)
+increased evaporation from the enlarged reservoir, due to its greater surface area.
+
+  The water quality of the existing Corumana Reservoir is generally good, with high
+levels of dissolved oxygen and relatively low turbidity. The EIA confirms that this
+situation is not expected to change appreciably with the planned increase of the FSL from
+111 to 117 mASL. Thermal stratification does not occur in the present reservoir, nor is it
+considered likely at the increased FSL. Reservoir as well as downstream water quality
+will be systematically monitored as part of the EMP. A diversity of native fish species
+have adapted to the Corumana Reservoir, including the economically valuable Tigerfish
+Hydriocynus vittatus. According to the EIA, raising the FSL from 111 to 117 mASL is
+expected to increase the reservoir's surface area by 23%, and net fishery output by 2%.
+
+ Social Issues: An Environmental and Social Impact Assessment (ESIA) has been
+completed, including a Resettlement Action Plan (RAP) and Community Livelihood Plan
+for the completion of the Corumana Dam. These have been reviewed by the Bank, the
+executive summary translated into Portuguese and disclosed in country and through the
+Bank's InfoShop.
+
+ The SIA concluded that completion of the Corumana Dam is likely to affect 186
+households with 338 assets as follows:
+
+ * 77 households will be relocated as follows:
+ - 31 houses have residential units that are located within the 250 m bufferzone along the
+maximum water level (i.e., 120 masl);
+ - 46 households have residential units that are located within the 500 m bufferzone
+along the saddle dam;
+
+ * 230 recession farm plots will be relocated as follows:
+ - 185 recession farm plots are located within 250 m bufferzone along the maximum
+water level (i.e., 120 masl), belonging to 25 also affected households;
+ - 45 recession farm plots are located within the 500 m buffer zone along the saddle dam,
+belonging to 4 also affected households (armed attacks were more intense in the villages
+of Jone and Matunganhana, which were closest to the border with South Africa. After the
+conflict a considerable number of those who escaped to Chavane did not return. The
+populated area of Jone is much smaller than it was before the war and most of
+Matunganhana has been transformed into the Sabíe Game Park);
+
+ * 25 family graves are located within the bufferzones of the maximum water level (i.e.,
+120 masl) will need to be relocated, belonging to 4 also affected households;
+
+ * 1 Church is located within the bufferzone along the saddle dam (i.e., 500 m) and will
+need to be relocated, belonging to one also affected household;
+
+ * 4 high Voltage Electricity Towers are located within the bufferzone of the the
+maximum water level, (e.g. 120 masl) and will need to be relocated (or additional studies
+will be required to identify technical solutions for the foundation and the isolation of the
+towers);
+
+ * 1 ARA-Sul former military headquarter, no longer at use; and
+
+ * There are no infrastructures or human settlements identified in the impacted area in
+the Republic of South Africa's Kruger National Park.
+
+  Given that the dam has been operational since 1989, existing water level fluctuations
+have prevented large permanent settlements within the reservoir area. However, people
+do establish temporary structures during the planting season and there will be impacts in
+terms of changes to the availability and extent of recession agriculture. The SIA and RAP
+detail the number of Project Affected People, both temporary and permanent assets and
+livelihoods that will be affected. The RAP (and the EMP) will be implemented by an
+Environmental and Social Management Team with assistance from a well-qualified
+consulting firm that will be contracted to assist with the implementation of Project
+Component C.
+
+ A Resettlement Action Plan identifies Project Affected People and outlines the
+processes and procedures to facilitate the resettlement process. While the reservoir level
+will continue to fluctuate and access to agricultural areas will be permitted, all
+infrastructure and 25 identified graves will be relocated above the full supply level. An
+area downstream of the emergency spillway will be cleared from any permanent
+infrastructure. Based on the findings of the SIA, most of the affected population will be
+relocated within the same areas of residence. Appropriate grievance mechanisms have
+been established building on the local administrative and traditional structures as well as
+the Basin Committees used by ARA-Sul to engage local stakeholders. A Community
+Livelihood Plan will be implemented as part of the RAP to ensure benefits accrue at the
+local level to the relocated and host communities and also to the household displaced
+when the Dam was originally constructed in 1983 and 1989. Provisions have been
+included under Component C for socioeconomic monitoring during and after
+implementation of the works associated with completion of the Corumana Dam, to
+evaluate and respond to any emerging impacts associated with the project.
+  The original construction of the dam took place between 1983 and 1989 during the post-
+independence conflict (1976-1992). The Sabíe Administrative Post, and particularly the
+Corumana Dam, suffered from numerous armed attacks from late 1982 up to the Peace
+Agreement in October 1992. During this period most of the communities around the dam
+migrated to Chavane seeking security and gradually returned to their homelands after the
+Peace Agreement. The Matunganhane locality was initially settled along the Sabíe River
+in the reservoir area upstream of the dam and was relocated to the northern area of the
+reservoir. This population continues to inhabit the surrounding areas and is mainly
+dedicated to subsistence or cash crop agriculture and livestock, with no experience of
+fishing. The Magonela community was affected by the establishment of the Sabíe Game
+Park in 2005 and the Chavane community, especially Jone, is expected to be affected by
+the proposed Ingwe Game Park to the south of the reservoir. While the World Bank was
+not involved in the original construction or establishment of the parks, and there is no
+record of the resettlement process of the original construction, the Community Livelihood
+Plan makes deliberate effort to ensure benefits accrue to the wider hosting communities.
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future
+activities in the project area:
+Potential Indirect Impacts: During consultations with Impacted and Affected Parties
+(I&APs), concerns were raised that the higher water levels of Corumana reservoir might
+enable improved access by boat to wildlife poachers coming to the Kruger National Park
+and Sabie Game Park, since the reservoir shoreline would be physically closer to both
+protected areas.
+
+ To mitigate this impact, the Environmental Management Plan provides for development
+and implementation of a Reservoir Management Plan during project implementation.
+This will include zoning of the reservoir, including those adjacent to the KNP and SGP.
+The roles and responsibilities, along with estimated recurrent costs of routine patrols for
+these sections of the reservoir, are outlined in the EMP.
+
+ Long-term Impacts: Although the completion of Corumana Dam is intended to provide
+a more secure water supply for the GMMA, it is possible that additional water stored by
+the dam and not needed by Maputo would be used to expand irrigated agriculture on
+suitable lands below the reservoir. Any such new or expanded irrigation project would be
+separate from this one, and subject to the Environmental Impact Assessment (EIA)
+requirements of MICOA, Mozambique's Ministry for Coordination of Environmental
+Affairs.
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize
+adverse impacts.
+The Corumana Dam is an existing dam built between 1983 and 1989. The completion is
+intended to augment bulk water supply for the Greater Maputo Metropolitan Area
+(GMMA). Projections are that the GMMA will experience severe shortages of water
+from 2015 if no new infrastructure is built. In response to this challenge, the Government
+of Mozambique has undertaken a number of studies to identify the next source of supply
+for the GMMA.
+ A study by Mozambique, South Africa and Swaziland under the auspices of the
+"Tripartite Interim Agreement for Co-operation on the Protection and Sustainable
+Utilization of the Incomati and Maputo Watercourses (IIMA)" on the Augmentation of
+Water Supply to the City of Maputo and its Metropolitan Area (October 2009) identified
+completion of the Corumana Dam as one of the priority interventions. The Master Plan
+for the Greater Maputo Water Supply System (February 2011) has also confirmed that
+completion of the Corumana Dam must be regarded as the first choice for the next step in
+water resources development, given the lower risk in time and cost and the more
+immediate possibility of implementation.
+
+  The Environmental Impact Assessment (EIA) and a Technical Services and Dam Safety
+assignment undertaken during preparation have both undertaken hydrological analyses to
+determine the potential impacts of the increased reservoir and the extent of possible back
+flooding. Alternative operating full supply levels at 117 mASL and 115 mASL for the
+reservoir were assessed.
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide
+an assessment of borrower capacity to plan and implement the measures described.
+The Corumana Dam is owned by the Government of the Republic of Mozambique
+through the National Directorate of Water in the Ministry of Public Works and Housing
+and operated by ARA-Sul. The dam operator, ARA-Sul, has experience in the
+implementation of large infrastructure projects and the associated environmental and
+social issues associated with their operation. The Project will provide additional support
+to ARA-Sul during the construction phase to consolidate capacity and support the
+increased scope of required environmental and social management measures.
+
+ The Environmental and Social Impact Assessment (ESIA) has been completed to assess
+the potential impacts associated with completion of the Corumana Dam. The ESIA
+includes the Environmental Management Plan (EMP) and the Resettlement Action Plan
+(RAP). As part of the RAP, a Community Livelihood Plan (CLP) has also been
+developed to improve local development conditions and paying particular attention to
+previous displacement in the project affected area.
+
+ A qualified firm, independent of the civil works contractor, will be contracted to support
+the Environmental and Social Management Team of DNA and ARA-Sul in development
+and implementation of the measures required under the EMP and RAP (Component C).
+
+ The EMP and RAP include implementation schedules for the EMP and RAP activities,
+the timing of which will be carefully coordinated in relation to the schedule for civil
+works construction and reservoir filling, and a full budget for which sufficient Project
+funding has been allocated.
+
+ To mitigate the potential adverse environmental impacts of completing the Corumana
+Dam and to enhance the positive impacts, the EMP includes support to the following
+programs during implementation:
+ - A Construction and Workers Camp Management Plan, to minimize the potential
+negative impacts of construction activities and outline the contractors’ responsibilities in
+relation to environmental management, along with environmental supervision by the
+Supervising Engineer, as part of their independent contract. The EMP is to be included in
+the tender documentation to ensure that all contractors and sub-contractors comply with
+the requirements of the EMP. Based on the EMP, the contractor(s) will prepare and
+implement as part of their contractual arrangement their own EMP, called the
+Construction EMP (CEMP). More complex environmental management issues will be
+handled through the preparation and implementation of Method Statements, which will
+need to be approved by the Supervising Engineer and the ARA-Sul and DNA’s
+Environmental and Social Management Team.
+
+ - An Inundation Preparation Plan, prepared during the first year of project
+implementation and implemented prior to impoundment. This would include the
+following: a) identification and removal of potential sources of water contamination, such
+as garbage dumps and latrines in order to protect water quality; ii) limited biomass
+clearing within carefully selected portions of the area to be inundated to facilitate fishing
+and navigation on portions of the reservoir. The areas which would be cleared will be
+discussed with key stakeholders; iii) survey and transplant of threatened plant species if
+found within the area to be inundated; iv) survey and salvage of any physical cultural
+resources, including potential archaeological sites and fossils; v) baseline survey on
+waterborne diseases in the wider project area with a focus on intestinal and urinary
+bilharzias and malaria; and vi) finalisation of the framework Emergency Preparedness
+Plan (EPP) in order to warn the population around the reservoir and downstream of the
+dam in case of severe flooding around the reservoir and downstream of the dam, large
+operational flood releases, or other emergency situations. A draft EPP has been prepared
+under a separate contract during preparation. The final EPP will be approved 12 months
+before reservoir inundation.
+
+ - A Reservoir Management Program that would be prepared during the first two years of
+implementation and include the following: i) Environmental Zoning of the reservoir (e.g.
+for fishing and controlled hunting) and the area around the reservoir through a
+consultative process with all major stakeholders in order to protect wildlife resources,
+biodiversity, and water quality; ii) Patrolling designated sections of the Corumana
+Reservoir to reduce wildlife poaching risks, in collaboration with the conservation area
+managers and local fishing communities; iii) Management of the catchment area around
+the reservoir in Mozambique in order to protect the reservoir from excessive
+sedimentation, and euthropication in order to protect water quality, particularly since the
+Corumana reservoir is a drinking water reservoir; iv) Reservoir fisheries development
+and management for the development and management of the reservoir fisheries, based
+on sustainable harvests of native fish species; and v) Invasive Aquatic Plant Management
+to monitor the spread of non-native aquatic plant species (such as water hyacinth, salvinia
+and azolla) and outline control options in the event that infestation becomes problematic.
+  - An Environmental Water Releases Program that would take into account
+considerations such as: i) limiting backwater flooding within the Kruger National Park;
+ii) ensuring an adequate area of floodplain grasslands along the reservoir shoreline, to
+provide grazing for wildlife and livestock; iii) reducing impacts to downstream channel
+morphology, including river bank erosion; and iv) enhancing downstream water quality,
+along with the conditions for fish and other aquatic life. This program will recommend
+technical criteria and decision-making procedures for environmental water releases and
+these recommendations will serve as a key input to the revised Operating Rules for the
+Corumana Dam. The new Operating Rules will be approved by ARA-Sul prior to any
+raising of the reservoir’s full supply level above the current 111 mASL. This program will
+include long-term monitoring of water quality, fish species, macroinvertebrates, and other
+environmental quality parameters, to provide a feedback mechanism for future
+adjustments to environmental water releases from the Corumana Dam.
+
+ - An Environmental Monitoring Plan for the monitoring of primarily water quality in the
+reservoir and downstream of the dam, sedimentation deposition upstream of the dam,
+downstream river morphology and impacts on wildlife, and the effectiveness of control
+poaching measures.
+
+ To mitigate the potential adverse social impacts of completing the Corumana Dam and
+to enhance the positive impacts, the RAP includes provision for compensating those
+directly affected by the project. The RAP also includes a Community Livelihood Plan to
+extend the potential development benefits of the project at the local level and to address
+any potential legacy issues. Regular socio-economic monitoring is intended to help
+evaluate project impacts and the efficacy of the planned interventions, providing a
+mechanism to respond to any emerging issues during implementation.
+
+ The GoM has presented its intention to proceed with the completion of the Corumana
+Dam within the regular meetings of the Tripartite Permanent Technical Committee
+(TPTC), established under the IIMA. The GoM provided its formal written riparian
+notification of these proposed activities on January 12, 2009 and received letters of no
+objection from both the Republic of South Africa (January 29, 2010) and the Kingdom of
+Swaziland (July 15, 2009). The request from South Africa for constant feedback and
+regular consultation with the respective bodies, namely the Department of Water Affairs,
+the South African National Parks and the affected municipalities’ has been addressed by
+the GoM during project preparation and will continue to be addressed during project
+implementation through the TPTC. With reference to the proposed preparation for the
+Ressano Garcia weir also to be located in the Incomati River basin (Component D), the
+no objection has also been given as reflected in the minutes of the TPTC’s 38th meeting
+on March 04, 2008.
+
+ Under Project Component A (Water Resources Management), environmental
+considerations will be mainstreamed within the water resources management and
+planning functions of the National Water Directorate (DNA) and the Regional Water
+Administrations (ARAs). This will include (i) ensuring that key environmental data -
+including protected areas, major wetlands and other natural habitats, and environmental
+flow requirements are included in the information systems developed for the Rapid Water
+Resource Assessments of major Mozambican river basins; (ii) ensuring that adequate
+environmental expertise is available to the Project Administration and Monitoring Team
+that will support DNA in overall project implementation, coordination, and management;
+and (iii) providing environmental training and other capacity building to the staff of DNA
+and the ARAs.
+
+5. Identify the key stakeholders and describe the mechanisms for consultation and
+disclosure on safeguard policies, with an emphasis on potentially affected people.
+Key groups of stakeholders of the project include, but are not exclusive to:
+
+ - Communities in project area: affected households, smallholder farms, fishery
+association, previously resettled communities, the existing Sabie Game Park and the
+proposed Ingwe Game Park (private conservation areas), and downstream irrigators.
+
+ - Water supply, including water users in Maputo and the surrounding metropolitan
+areas, and FIPAG.
+
+ - Stakeholders in South Africa: Department for Water, the Kruger National Park, the
+Inkomati Catchment Management Authority.
+
+ A Public Consultation Process was undertaken in order to identify key issues of concern
+and possible solutions, as well as accessing relevant local or traditional knowledge. The
+process embarked with public consultations on the Terms of Reference in 2009 and has
+since included meetings, public hearings and workshops with government officials in
+Mozambique and South Africa, interested and affected parties, project affected
+communities and representatives from the Kruger National Park.
+
+  Overall, most of the responses from the various consultations were on socio-economic
+issues and are described in detail in the ESIA. The issues raised included inquiry on the
+impacts of increased inundation and sedimentation, any changes to biodiversity and water
+quality as well as socio-economic benefits from the project. The key issue raised by the
+PAPs is on improvement in their standard of living. In general all seven communities
+around the reservoir are living under the poverty line with limited access to social
+infrastructure.
+
+ Access to social infrastructure in affected communities is very low compared with the
+district levels, and much lower than national standards. The project is responding to the
+needs of the affected communities through provision of these basic services, such as
+access to schools, health services and water supply and sanitation. In addition the
+communities will be provided permanent agriculture land, upgraded housing, improved
+agriculture, fishing, livestock raising and other income generating activities. A
+comprehensive description of the Community Livelihood Plan is detailed in the RAP.
+ All final safeguards-related documents were disclosed publicly by the Borrower and the
+Bank in Mozambique on May 16, 2011 as well as through the Bank’s InfoShop. In line
+with national law, continuous public consultations have been undertaken as part of the
+preparatory process.
+
+ During project implementation, Component C will focus substantially on the structures,
+processes, and principles for continued engagement and collaboration with stakeholder
+groups.
+
+
+
+B. Disclosure Requirements Date
+Environmental Assessment/Audit/Management Plan/Other:
+  Was the document disclosed prior to appraisal?                   Yes
+  Date of receipt by the Bank                                 02/01/2011
+  Date of "in-country" disclosure                             04/11/2011
+  Date of submission to InfoShop                              04/11/2011
+  For category A projects, date of distributing the Executive
+  Summary of the EA to the Executive Directors
+Resettlement Action Plan/Framework/Policy Process:
+  Was the document disclosed prior to appraisal?                   Yes
+  Date of receipt by the Bank                                 04/01/2011
+  Date of "in-country" disclosure                             05/16/2011
+  Date of submission to InfoShop                              05/16/2011
+Indigenous Peoples Plan/Planning Framework:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+Pest Management Plan:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+* If the project triggers the Pest Management and/or Physical Cultural Resources,
+the respective issues are to be addressed and disclosed as part of the Environmental
+Assessment/Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please
+explain why:
+
+
+
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the
+ISDS is finalized by the project decision meeting)
+
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) report?              Yes
+If yes, then did the Regional Environment Unit or Sector Manager (SM)          Yes
+review and approve the EA report?
+Are the cost and the accountabilities for the EMP incorporated in the           Yes
+credit/loan?
+OP/BP 4.04 - Natural Habitats
+Would the project result in any significant conversion or degradation of        No
+critical natural habitats?
+If the project would result in significant conversion or degradation of other   N/A
+(non-critical) natural habitats, does the project include mitigation measures
+acceptable to the Bank?
+OP/BP 4.11 - Physical Cultural Resources
+Does the EA include adequate measures related to cultural property?             Yes
+Does the credit/loan incorporate mechanisms to mitigate the potential           Yes
+adverse impacts on cultural property?
+OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy framework/process               Yes
+framework (as appropriate) been prepared?
+If yes, then did the Regional unit responsible for safeguards or Sector         Yes
+Manager review the plan?
+OP/BP 4.37 - Safety of Dams
+Have dam safety plans been prepared?                                            Yes
+Have the TORs as well as composition for the independent Panel of Experts       Yes
+(POE) been reviewed and approved by the Bank?
+Has an Emergency Preparedness Plan (EPP) been prepared and arrangements         Yes
+been made for public awareness and training?
+OP 7.50 - Projects on International Waterways
+Have the other riparians been notified of the project?                          Yes
+If the project falls under one of the exceptions to the notification            N/A
+requirement, has this been cleared with the Legal Department, and the memo
+to the RVP prepared and sent?
+Has the RVP approved such an exception?                                         N/A
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the World Bank’s        No
+Infoshop?
+Have relevant documents been disclosed in-country in a public place in a        No
+form and language that are understandable and accessible to project-affected
+groups and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional responsibilities     Yes
+been prepared for the implementation of measures related to safeguard
+policies?
+Have costs related to safeguard policy measures been included in the project    Yes
+cost?
+Does the Monitoring and Evaluation system of the project include the            Yes
+monitoring of safeguard impacts and measures related to safeguard policies?
+Have satisfactory implementation arrangements been agreed with the              Yes
+borrower and the same been adequately reflected in the project legal
+  documents?
+
+
+  D. Approvals
+
+Signed and submitted by:                             Name         Date
+Task Team Leader:                   Mr Marcus J. Wishart        06/08/2011
+Environmental Specialist:           Mr George Campos Ledec      06/17/2011
+Social Development Specialist       Ms Yasmin Tayyab            06/17/2011
+Additional Environmental and/or
+Social Development Specialist(s):
+
+Approved by:
+Regional Safeguards Coordinator:    Ms Alexandra C. Bezeredi    06/17/2011
+  Comments:
+Sector Manager:                     Mr Jonathan S. Kamkwalala   06/08/2011
+  Comments:
+

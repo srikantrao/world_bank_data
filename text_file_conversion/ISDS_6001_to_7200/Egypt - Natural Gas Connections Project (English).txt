@@ -1,0 +1,473 @@
+                                                                                                                                                                                                        43672
+
+
+Authorized
+                                                                                                                                 INTEGRATED SAFEGUARDS DATASHEET
+                                                                                                                                                APPRAISAL STAGE
+
+          Disclosure                                                                                        I. Basic Information
+                                                                                                            Date prepared/updated: 10/26/2007                                      Report No.: AC2576
+                    Public
+                                                                                                            1. Basic Project Data
+                                                                                                            Country: Egypt, Arab Republic of                 Project ID: P095392
+                                                                                                            Project Name: EGYPT-NATURAL GAS CONNECTIONS PROJECT
+                                                                                                            Task Team Leader: Anna Maria Bjerde
+                                                                                                            Estimated Appraisal Date: November 5,            Estimated Board Date: January 24, 2008
+                                                                                                            2007
+                          Authorized
+                                                                                                            Managing Unit: MNSSD                             Lending Instrument: Specific Investment
+                                                                                                                                                             Loan
+                                                                                                            Sector: Oil and gas (100%)
+                                    Disclosure                                                              Theme: Access to urban services and housing (P);Other economic management (P)
+                                                                                                            IBRD Amount (US$m.):              75.00
+
+                                              Public                                                        IDA Amount (US$m.):                0.00
+                                                                                                            GEF Amount (US$m.):                0.00
+                                                                                                            PCF Amount (US$m.):                0.00
+                                                                                                            Other financing amounts by source:
+                                                                                                                    Borrower                                                           78.70
+                                                                                                                                                                                       78.70
+                                                    Authorized                                              Environmental Category: A - Full Assessment
+                                                                                                            Simplified Processing                            Simple []           Repeater []
+                                                                                                            Is this project processed under OP 8.50 (Emergency Recovery)
+                                                                                                                                                                                   Yes [ ]       No [X]
+                                                                                                            or OP 8.00 (Rapid Response to Crises and Emergencies)
+                                                              Disclosure
+
+                                                                                                            2. Project Objectives
+                                                                        Public                              The project development objective is to (i) contribute to GOE?s goal of reducing
+                                                                                                            subsidies in the energy sector by switching consumption of LPG for natural gas through
+                                                                                                            investment in new connections; and (ii) exploit the scale economies in transportation of
+                                                                                                            natural gas relative to LPG in very densely populated areas, thereby reducing the cost of
+                                                                                                            gas provision. The cost reduction makes it feasible to reduce overall gas subsidies.
+
+                                                                                                            3. Project Description
+                                                                              Authorized                    The Project will support the Government?s on-going program to expand the access to
+                                                                                                            piped natural gas in the Greater Cairo area where the feasibility study prepared by Town
+                                                                                                            Gas has estimated that approximately 2 million households can be connected to the
+                                                                                                            network within the six year program period. This number has been determined based on
+                                                                                        Disclosure
+                                                                                                            criteria established for suitability of connections taking into account issues related to
+                                                                                                            safety and structural integrity of buildings. Given that the works included in the program
+                                                                                                  Public    are part of the annual investments planned by the existing local distribution
+                                                                                                            concessionaire (Town Gas), the World Bank support would focus on contributing
+                                                                                                            towards a share of the investments targeted to connect about 300,000 households within
+                                                                                                            Greater Cairo. The project will include two components:
+
+ (a) Gas Transmission aiming at extending the existing gas transmission system by
+adding 37 km of pipelines and 4 pressure reduction stations (PRSs) in the Cairo area to
+provide additional supply points and to improve reliability of supply for the expansion of
+the distribution network.
+
+ (b) Gas Distribution and Connection aiming at expansion of the gas distribution system
+for the connection of about 300,000 new customers, including the conversion of the
+customers appliances to natural gas. The Distribution and Connection component would
+allow transport of gas at the points of delivery from the transmission network to housing
+areas, interconnect and control pressure in IP/MP/LP mains and to deliver gas to each
+individual house. The component would also include the connection of new appliances
+and the conversion of existing appliances in the customer household for the safe use of
+natural gas.
+
+4. Project Location and salient physical characteristics relevant to the safeguard
+analysis
+The overall program aims to provide gas to around 2 million households, of which Bank
+financing will connect around 300,000 households. The project will cover 28 districts in
+Cairo and Giza Governorates and will focus on extending services to areas which are
+currently partially covered as well as new areas. The network design and roll-out plan
+has been designed by Town Gas as part of its planning activities and a summary of the
+results and details of the material required for the program are presented in the detailed
+feasibility study in the project files. Town Gas uses the Advantica Stoner SynerGEE Gas
+Network Analysis software for network design which is Industry standard software and is
+probably the widest used set of software for gas transmission and distribution analysis
+and design world wide.
+
+ EGAS/Town Gas categorizes properties into three different properties for the purpose of
+screening out properties not suitable for gas connections:
+
+ 1) Category "I" Good condition and easily accessible single storey dwellings and flats:
+comprising Villas ranging in consumption from 1m3/hr to 40m3/hr, depending on the
+existence of swimming pools, boilers, in addition to the conventional types (cooker), etc.
+E.g., New Cairo.
+
+ 2) Category "II" Flats and other dwellings of a reasonable standard in areas with
+reasonable access: Rate of consumption from 0.1 to 0.4 m3/hr. Areas: El Maadi, Masr El
+Gededa, Down Town, Nasr City, Faisal, El Haram, El Abbasia.
+
+ 3) Category III" Poor housing with possible access problems and likelihood of structural
+problems: Rate of consumption from 0.1 to 0.25 m3/hr. Areas: El Wayly, El Zawya El
+Hammra, El Matria, Ein Shams, Dar El Sallam, Basateen, El Sharabia, Omrania, El
+Moneeb, Sakyet Meky, Bolak, Embaba, El Waraak.
+
+ It is worth noting that areas where weak structures exist are classified by Town Gas as
+"no gas area" to avoid possible structural problems associated with establishing the
+network.
+
+ EGAS and Town Gas have established Environmental Departments that follow rigorous
+environmental practices. For construction and maintenance, standards used by British
+Gas are applied. These standards are today contained in the Recommendations of the
+Institutions of Gas Engineers and Managers (IGEM).
+
+ For environmental and social safeguards, the environment department of EGAS and
+Town Gas has strict criteria for construction of gas distribution infrastructure with an aim
+to ensure safety and to avoid any disturbance to cultural and archeological properties. To
+mitigate this, the entities have developed capacity in collecting maps and undertake site
+tracing and they use trial pits before major construction. They also work closely with the
+Governorate?s Information Center to anticipate potential issues.
+
+ Although the exact location of the new PRSs have not been agreed to, it has been
+confirmed that they will be located in the El Haram, New Cairo, El Mokatam and El
+Shorouk districts. All of the PRSs will be located on land owned by the Governorate
+and/or on property owned by the Ministry of Petroleum. As such, no land expropriation
+is anticipated. However, a Resettlement Policy Framework has been prepared in case the
+Operational Policy on Involuntary Resettlement (OP/BP 4.12) is triggered during project
+implementation.
+
+5. Environmental and Social Safeguards Specialists
+   Mr Knut Opsal (MNSSD)
+   Mr Maged Mahmoud Hamed (MNSSD)
+
+
+6. Safeguard Policies Triggered                                Yes         No
+Environmental Assessment (OP/BP 4.01)                          X
+Natural Habitats (OP/BP 4.04)                                              X
+Forests (OP/BP 4.36)                                                       X
+Pest Management (OP 4.09)                                                  X
+Physical Cultural Resources (OP/BP 4.11)                       X
+Indigenous Peoples (OP/BP 4.10)                                            X
+Involuntary Resettlement (OP/BP 4.12)                          X
+Safety of Dams (OP/BP 4.37)                                                X
+Projects on International Waterways (OP/BP 7.50)                           X
+Projects in Disputed Areas (OP/BP 7.60)                                    X
+
+II. Key Safeguard Policy Issues and Their Management
+
+A. Summary of Key Safeguard Issues
+
+1. Describe any safeguard issues and impacts associated with the proposed project.
+Identify and describe any potential large scale, significant and/or irreversible impacts:
+1. Describe any safeguard issues and impacts associated with the proposed project.
+Identify and describe any potential large scale, significant and/or irreversible impacts:
+
+ The proposed project falls under the World Bank environmental Category A
+classification due to its size, geographic location and potential environmental impacts.
+Of the World Bank?s ten environmental and social safeguard policies, Operational Policy
+4.01 on Environmental Assessment is triggered. Of the four planned pressure reducing
+stations in Greater Cairo, all will be located on land owned by the Governorate and/or on
+property owned by the Ministry of Petroleum. As such, no land expropriation is
+anticipated. However, the Operational Policy on Involuntary Resettlement (OP/BP 4.12)
+is included, and a Resettlement Policy Framework was prepared to ensure that proper
+compensation is administered in case access to amenities or sources of income is
+restricted.
+
+ It has also been deemed that the Operational Policy on Cultural Property (OPN 11.03,
+being revised as OP 4.11) may be triggered, but only during construction in areas where
+cultural relics may be found during the construction phase.
+
+ To ensure proper attention to the safeguards, an Environmental and Social Impact
+Assessment Framework (ESIAF) and a Resettlement Policy Framework (RPF) have been
+prepared, including a Chance Find procedure related to OP 4.11. The ESIAF/RPF was
+carried out by a leading environmental consulting firm, EcoConserve and individual
+consultants with risk assessment expertise as well as expertise in preparing ESIAFs for
+large complex infrastructure projects according to the Terms of Reference approved by
+the World Bank.
+
+ The ESIAF has identified the following most significant potential negative impacts
+during the construction phase:
+
+ Traffic Flow: The installation of the natural gas network is bound to affect the traffic
+operations during construction. The construction will entail narrowing major roads by
+longitudinal and/or lateral excavation. Either method will produce different levels of
+impact on the major road network. The narrowing of the road will reduce the number of
+traffic lanes available for traffic movement and will also entail the prohibition of on-
+street parking along the length of the road works. The narrowing may reduce the right-
+lane either partially or totally. In either case, traffic may avoid the construction side and
+encroach with traffic in the adjacent lanes.
+
+ Air Emissions: Air emissions during construction will arise from: (i)
+excavation/backfilling operations which generates suspended particles; (ii) dispersion
+from stockpiles of waste or sand used for filling trenches; and (iii) exhaust from
+excavation vehicles (excavators, trenchers, loaders, trucks) containing SOx, NOx, CO,
+
+VOCs, etc. The effects of such impacts are expected to be local and short term;
+especially that soil stockpiling is normally minimal at the site, and is normally filled
+within the same day. Another indirect source of air emissions is the traffic congestions
+that may occur. Air emissions from vehicles are usually affected by different modes of
+traffic, including traffic congestions.
+
+ Noise: Construction activities will increase noise levels caused by excavation.
+Construction noise varies from increase of noise intensity due to engine operation, and
+intermittent impacts which may take place during demolition of asphalt, either by
+trencher or jack hammer. The effects on construction labor are considered more
+significant, because they are exposed to high levels of noise for relatively longer periods.
+Residents of neighboring areas are the second-level recipients of elevated noise levels, as
+the noise intensity will be relatively dissipated at their locations. In addition, traffic
+congestions, which could be caused by excavation works, will also affect noise levels in
+the area, which may increase ambient average noise intensity levels.
+
+ Risk to infrastructure: Most of underground pipeline infrastructure (such as water,
+sewerage and telecommunication) in Greater Cairo has been established a long time ago,
+without accurate documentation for its routes and depths. Therefore, the risk of breaking
+infrastructure lines is relatively high. Normally the contractor applies manual excavation
+to avoid such situations since the contractor is obliged to pay for the damage. The most
+important environmental impact will arise in the case of breaking a sewerage pipe, where
+wastewater accumulates in the trench and, possibly, floods onto the streets causing
+significant nuisance to the surrounding environment. The breakage of a water supply
+pipe may result in cutting the supply to a number of residential units, which may, if it is
+not repaired for a long period, direct residents to use other sources of water which may
+either be expensive or unsafe. The effects of cutting telecommunication cables during
+excavation are mainly socioeconomic, due to cutting possible business communications.
+
+ Effects on some structures: Weak and old structures are very sensitive to differential
+settlements, which could be caused, mainly, by dewatering. Excavation for natural gas
+pipelines is usually shallow and does not exceed 1.0 meter depth. In very few areas in
+Greater Cairo, ground water depth may be less than that.
+
+ Effects on culturally valuable sites: The effects on culturally valuable sites could occur
+due to the following reasons: (i) structural damage to a monument due to possible
+dewatering during excavation; (ii) effects to a monument's foundations due to excavation
+works; (iii) damage to the monument due to vibration from machinery; (iv) reduction in
+the aesthetic value of the site; and (v) improper management of discovered antiquities
+during excavation.
+
+ Waste disposal: Wastes that are generated during the construction phase include: (i)
+excavated soil and excess sand, (ii) concrete and bricks waste; (iii) demolished asphalt,
+(iv) containers of chemicals and lubricant oils used for construction machinery; (v)
+possibly damaged asbestos water pipes during excavation; and (vi) dewatered water from
+trenches
+
+ During the operation phase, the following have been identified as potential negative
+impacts:
+
+ Improper handling of odorant: The odorant containing Tertiobutylmercaptin (80%) and
+Methylehylsulphide (20%) is classified as a hazardous substance. Improper handling of
+the odorant could come from (i) storage in unsafe conditions, in terms of occupational
+health and safety; and (ii) leakage to the environment causing different types of hazards
+related to its high reactivity and possible production of pollutants. This release to the
+environment could take many forms such as discharge of remaining odorants in
+containers, after use, in land or sewers, disposal of used containers with domestic waste,
+or by open disposal; and recycling of used containers for other materials.
+
+ Noise of PRSs. The pressure reduction stations cause noise generated from the
+reducers'pipes. Noise levels are normally increased by a few decibels in and around their
+location. The generated noise is constant (not intermittent) and normally dissipates
+beyond a few meters.
+
+ Safety aspects of PRSs operation: The safety risks associated with the operation of
+PRSs have been assessed for the workers and the public at large using Quantitative Risk
+Assessment (QRA) modeling and the results have been compared with international risk
+acceptance criteria "As Low As Reasonably Practical ? ALARP".
+
+ The risks have been assessed for the industrial workers and general public representing
+the two types of risk namely the "Individual Risk" and "Social Risk" within each PRS.
+For the general public, the simulation assumed that the station is surrounded by busy
+roads, as well as public buildings. The conclusion drawn from the QRA is that the risk is
+within the acceptable limits provided safety precautions are considered and strictly
+followed in the design, operation and maintenance of such facilities.
+
+ To mitigate the potential impacts, an Environmental and Social Management and
+Monitoring Framework (ESMMF) has been formulated. The implementation of the
+ESMMF is estimated to cost US$850,000, and will be financed by EGAS. Annex 10 of
+the Project Appraisal Document presents the detailed mitigation measures and the
+institutional arrangements.
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future
+activities in the project area:
+No potential indirect and/or long term impacts are expected.
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize
+adverse impacts.
+The ESIAF considered several alternatives, including not undertaking the project. Not
+undertaking the project would undermine the Government?s Energy Strategy to expand
+natural gas connections among households to reduce the energy subsidies and the fiscal
+deficit, as well as to achieve social benefits brought by piped gas over LPG. Social
+
+benefits include: the provision of clean and stable energy, improved house cleanliness, as
+LPG cylinders usually contains dirt and insects, reduced noise caused by LPG
+distributors, reduced price of LPG cylinders due to reduced demand, reduced child labor,
+who commonly work in LPG distribution; and reduced inconvenience to handicapped
+people, in delivering LPG cylinders to their houses.
+
+ Alternatives to the sequencing of construction activities were also considered.
+Construction of the gas network within the city comprise two main components, the first
+being the distribution network in the direction of longitudinal roads, and the second being
+the connection network to the residential units perpendicular to road direction on both
+sides. Two alternatives were considered:
+
+ Alternative 1: Complete the construction of the distribution network and then start the
+connection network at a later stage.
+
+ Alternative 2: Complete both networks simultaneously in one stage.
+ The ESIAF considered several alternatives, including not undertaking the project. Not
+undertaking the project would undermine the Government?s Energy Strategy to expand
+natural gas connections among households to reduce the energy subsidies and the fiscal
+deficit, as well as to achieve social benefits brought by piped gas over LPG. Social
+benefits include: the provision of clean and stable energy, improved house cleanliness, as
+LPG cylinders usually contains dirt and insects, reduced noise caused by LPG
+distributors, reduced price of LPG cylinders due to reduced demand, reduced child labor,
+who commonly work in LPG distribution; and reduced inconvenience to handicapped
+people, in delivering LPG cylinders to their houses.
+
+ Alternatives to the sequencing of construction activities were also considered.
+Construction of the gas network within the city comprise two main components, the first
+being the distribution network in the direction of longitudinal roads, and the second being
+the connection network to the residential units perpendicular to road direction on both
+sides. Two alternatives were considered:
+
+ Alternative 1: Complete the construction of the distribution network and then start the
+connection network at a later stage.
+
+ Alternative 2: Complete both networks simultaneously in one stage.
+
+ The advantages of Alternative 1 over Alternative 2 are: (i) technical problems during
+line testing could be avoided, as detecting leaks in the main pipe will be much easier if no
+connections are placed; (ii) phasing of connections could be done corresponding with
+signed contracts for new customers; (iii) lower risks for re-excavating parts of the line
+including leaks; and (iv) shorter traffic disturbance time for the first excavation stage
+because there are no lateral intersections with the traffic flow.
+
+ The advantages of Alternative 2 over Alternative 1 are: (i) amount of excavation/filling
+works slightly less, because intersections between mains and connection trenches are
+
+excavated only once; (ii) enabled mobilization of equipment and areas of storage
+occupied only once; and (iii) traffic disturbance occurs only once.
+
+ The amount of excavations in the two alternatives are approximately the same, however,
+the second alternative has a clear advantage of causing disturbance only once for the
+same street, in addition to less air emissions and traffic disturbance caused during
+equipment mobilizations. Therefore alternative 2 will be pursued as much as possible,
+but the phasing of connection works depend mainly on developing contracts with new
+customers, and therefore there may be occasions where also Alternative 1 is used.
+
+ Routing alternatives apply to transmission mains, distribution mains and connection
+mains. For transmission mains alternatives, the selected project alternative is to provide
+reinforcements to the existing mains using the same route. The main advantage of this
+selection is the benefit from the design of the existing route which forms a ring around
+Greater Cairo. This facilitates access to different geographic locations with a minimum
+length of pipelines required. Forming another route for the required new mains would
+achieve the same technical objective but at a greater cost. Therefore the reinforcement
+alternative is preferred.
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide
+an assessment of borrower capacity to plan and implement the measures described.
+EGAS/Town Gas contracted with the ESIAF/RPF to be carried out by a leading
+environmental consulting firm, EcoConserve and individual consultants with risk
+assessment expertise as well as expertise in preparing ESIAFs for large complex
+infrastructure projects according to the Terms of Reference approved by the World Bank.
+They assigned the Head of the Environment and Safety Department in EGAS along with
+a team to supervise the consultants.
+
+ Furthermore, the Egyptian Environmental Affairs Agency has already approved the
+ESIAF.
+
+ Finally, MOP/EGAS has a very good track record in paying due attention to safety
+measures in the development of the gas sector and use standards and procedures used by
+British Gas. Robust and rigorous attention is paid to environmental and social aspects,
+supported by the environmental departments that have been created since long ago in
+EGAS and Town Gas.
+
+5. Identify the key stakeholders and describe the mechanisms for consultation and
+disclosure on safeguard policies, with an emphasis on potentially affected people.
+Consultations were carried out with key stakeholders. The ESIAF held two consultation
+sessions as required for Category A projects. These were very well advertised and
+attended.
+
+ Furthermore, during project preparation, a willingness to pay (WTP) study to assess
+lower-income household?s ability to pay was carried out during the course of preparation.
+According to the WTP study, the lowest income groups are not likely to be able to
+
+connect to the network if it results in a substantial increase in monthly payments
+compared to the current spending on LPG (currently ranging from LE 8-LE 24 depending
+on distributor).
+
+ Given the financing options currently available to consumers, it is likely that the poorest
+sections of the population will choose a 10 year repayment plan, which translates into a
+monthly payment of about LE 21 at the prevailing interest rate (11.5%). The total cost,
+including taxes and natural gas consumption is likely to be around LE 26 to LE 30 per
+month. The provision of a targeted subsidy to eligible low income consumers through
+the removal of the interest charge on installments is being discussed with EGAS to bring
+the monthly payments for natural gas connection and consumption closer to the average
+spending on LPG. Final agreement of how to implement this measure will be reached
+during the Appraisal mission. This would reduce the monthly payment of the connection
+charge from about LE 21 to about LE 12.5.
+
+
+
+B. Disclosure Requirements Date
+
+Environmental Assessment/Audit/Management Plan/Other:
+  Was the document disclosed prior to appraisal?                       Yes
+  Date of receipt by the Bank                                       12/04/2006
+  Date of "in-country" disclosure                                   11/29/2006
+  Date of submission to InfoShop                                    12/04/2006
+  For category A projects, date of distributing the Executive
+                                                                    12/05/2006
+  Summary of the EA to the Executive Directors
+Resettlement Action Plan/Framework/Policy Process:
+  Was the document disclosed prior to appraisal?                       Yes
+  Date of receipt by the Bank                                       12/04/2006
+  Date of "in-country" disclosure                                   11/29/2006
+  Date of submission to InfoShop                                    12/04/2006
+* If the project triggers the Pest Management and/or Physical Cultural Resources,
+the respective issues are to be addressed and disclosed as part of the Environmental
+Assessment/Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please
+explain why:
+Not applicable
+
+
+
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the
+ISDS is finalized by the project decision meeting)
+
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) report?                 Yes
+If yes, then did the Regional Environment Unit or Sector Manager (SM)             Yes
+review and approve the EA report?
+Are the cost and the accountabilities for the EMP incorporated in the             No
+
+  credit/loan?
+  OP/BP 4.11 - Physical Cultural Resources
+  Does the EA include adequate measures related to cultural property?           Yes
+  Does the credit/loan incorporate mechanisms to mitigate the potential         Yes
+  adverse impacts on cultural property?
+  OP/BP 4.12 - Involuntary Resettlement
+  Has a resettlement plan/abbreviated plan/policy framework/process             Yes
+  framework (as appropriate) been prepared?
+  If yes, then did the Regional unit responsible for safeguards or Sector       Yes
+  Manager review the plan?
+  The World Bank Policy on Disclosure of Information
+  Have relevant safeguard policies documents been sent to the World Bank's      Yes
+  Infoshop?
+  Have relevant documents been disclosed in-country in a public place in a      Yes
+  form and language that are understandable and accessible to project-affected
+  groups and local NGOs?
+  All Safeguard Policies
+  Have satisfactory calendar, budget and clear institutional responsibilities   Yes
+  been prepared for the implementation of measures related to safeguard
+  policies?
+  Have costs related to safeguard policy measures been included in the project  Yes
+  cost?
+  Does the Monitoring and Evaluation system of the project include the          Yes
+  monitoring of safeguard impacts and measures related to safeguard policies?
+  Have satisfactory implementation arrangements been agreed with the            Yes
+  borrower and the same been adequately reflected in the project legal
+  documents?
+
+
+
+  D. Approvals
+
+
+Signed and submitted by:                               Name                       Date
+Task Team Leader:                   Ms Anna Maria Bjerde                        10/19/2007
+Environmental Specialist:           Mr Maged Mahmoud Hamed                      10/19/2007
+Social Development Specialist       Mr Knut Opsal                               10/19/2007
+Additional Environmental and/or
+Social Development Specialist(s):
+
+Approved by:
+Regional Safeguards Coordinator:    Mr Hocine Chalal                            10/19/2007
+ Comments:
+Sector Manager:                     Mr Jonathan D. Walters                      10/19/2007
+ Comments:
+

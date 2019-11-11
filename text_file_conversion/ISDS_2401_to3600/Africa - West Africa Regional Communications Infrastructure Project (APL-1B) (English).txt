@@ -1,0 +1,307 @@
+                   INTEGRATED SAFEGUARDS DATASHEET
+                           APPRAISAL STAGE
+
+I. Basic Information
+Date prepared/updated: 05/25/2011                                  Report No.: AC6274
+1. Basic Project Data
+Country: Africa                              Project ID: P122402
+Project Name: West Africa Regional Communications Infrastructure Project - APL-1B
+Task Team Leader: Boutheina Guermazi
+Estimated Appraisal Date: May 5, 2011        Estimated Board Date: June 21, 2011
+Managing Unit: TWICT                         Lending Instrument: Adaptable Program
+                                             Loan
+Sector: Telecommunications (50%);General information and communications sector
+(50%)
+Theme: Regional integration (40%);Infrastructure services for private sector
+development (40%);Regulation and competition policy (20%)
+IBRD Amount (US$m.):             0.00
+IDA Amount (US$m.):             92.00
+GEF Amount (US$m.):              0.00
+PCF Amount (US$m.):              0.00
+Other financing amounts by source:
+         BORROWER/RECIPIENT                                              0.00
+                                                                         0.00
+Environmental Category: B - Partial Assessment
+Repeater []
+Is this project processed under OP 8.50 (Emergency Recovery)
+                                                                   Yes [ ]    No [ ]
+or OP 8.00 (Rapid Response to Crises and Emergencies)
+
+2. Project Objectives
+The program development objective for WARCIP 1-B is to contribute to increasing the
+geographical reach of broadband networks and reducing costs of communications
+services in The Gambia, Guinea and in Burkina Faso.
+
+3. Project Description
+Component 1: Supporting Connectivity
+ The connectivity component will focus on (i) support to provide access to The Gambia
+and Guinea to international submarine cable connectivity via coastal landing stations to
+the Africa Coast to Europe (ACE) submarine cable, and (ii) support Burkina Faso to have
+access to submarine capacity through virtual landing point (VLP). In addition to
+international connectivity, this component will include financing additional links to
+national infrastructure and landing points, and the establishment of national Internet
+Exchange Points (IXPs).
+
+ Component 2 - Creating an enabling environment for connectivity: This component will
+focus on (i) the transaction design and operating model for ownership and management
+of international, regional and national infrastructure, (ii) related open access principles to
+create an enabling environment for improved connectivity and (iii) strengthening of
+policymaking and regulatory functions in the three countries.
+
+ Component 3: Project Implementation: This activity will provide support needed to
+strengthen the capacity of the Governments to implement the connectivity project,
+including setting up and strengthening very small Project Implementation Units (PIUs)
+which will be mainstreamed into the respective Executing Agencies. The core PIUs
+consist of a project coordinator, procurement specialist, finance specialist, accountant and
+an office assistant as required. Technical specialists may also be hired if required for
+implementation of the project. The component will also cover office equipment,
+incremental operating costs, audits and communications. The component will also cover
+M&E, environmental and social studies and related settlements, their implementation
+and/or the monitoring of their implementation.
+
+4. Project Location and salient physical characteristics relevant to the safeguard
+analysis
+Burkina Faso, The Gambia, and Guinea
+
+ Both Guinea and the Gambia will be part of the ACE submarine cable. The cable is
+17,000 Km connecting 23 countries with a proposed landing station in Banjul and
+Conakry.
+
+ For Burkina Faso there will the 4 connectivity components of the project that will be
+contracted out to different suppliers:
+ (i)   supply of international bandwidth capacity;
+ (ii) establishment of VLP;
+ (iii) build out of the missing connectivity links from VLP to border; and
+ (iv) equipment and installation of high speed government virtual private network.
+
+ The project is a Category B
+
+5. Environmental and Social Safeguards Specialists
+   Mr Yves Andre Prevost (AFTEN)
+   Mr Harvey D. Van Veldhuizen (MIGEP)
+   Ms Lucienne M. M’Baipor (AFTCS)
+   Mr Bienvenu Rajaonson (AFTEN)
+   Mr Amadou Konare (AFTEN)
+   Ms Beatrix Allah-Mensah (AFTCS)
+6. Safeguard Policies Triggered                               Yes         No
+Environmental Assessment (OP/BP 4.01)                          X
+Natural Habitats (OP/BP 4.04)                                  X
+Forests (OP/BP 4.36)                                                       X
+Pest Management (OP 4.09)                                                  X
+Physical Cultural Resources (OP/BP 4.11)                       X
+Indigenous Peoples (OP/BP 4.10)                                            X
+Involuntary Resettlement (OP/BP 4.12)                          X
+Safety of Dams (OP/BP 4.37)                                                X
+Projects on International Waterways (OP/BP 7.50)                           X
+Projects in Disputed Areas (OP/BP 7.60)                                    X
+
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project.
+Identify and describe any potential large scale, significant and/or irreversible impacts:
+In the cases of Guinea and the Gambia
+
+  No major negative impact of the ACE cable is expected: The cable system is likely to
+have a submerged or "wet plant" part, and a "dry plant" part which interfaces at proposed
+Landing Stations. The Landing Station is the location where a submarine or other
+underwater cable makes landfall. The landing (or termination) station can also be the
+point at which the submarine cable connects into the land-based infrastructure or
+network. Sections of the cable (particularly both wet and dry plants of each country#s
+lateral connection to the main cable) lie within the territorial waters of the landing
+partieswhile remaining sections lie in international waters, normally in deep seas. Deep
+ocean fiber optic cables are no larger than 17-21 mm diameter - about the size of a
+domestic garden hose and are laid mainly upon the surface of the ocean floor. The
+general experience is that the section of the cable that lies in the deep sea has minimal
+impact on marine mammals and fish. Throughout the entire length of the deep sea
+submarine cable and all lateral connections to shore, a detailed Cable Route Survey will
+be conducted to avoid laying the cable on sensitive or high risk benthic features such as
+deep water coral gardens and rocky or coral reefs.
+
+  As the cable gets closer to the shores in water depths shallower than 1,500m, the cable#s
+diameter may increase to about 40-50 mm due to the need to add protective wire
+armouring. The small environmental disturbances caused by laying connecting cable
+from the shore in The Gambia and Guinea to a deep sea submarine fiber optic cable are
+not expected to have any perceptible effect on the quality of the coastal waters of the
+Atlantic Ocean or on marine species or habitat. For the cable and associated equipment
+onshore, there may be some temporary, low to moderate environmental and social
+impacts including localized impacts to nearshore marine life and local fishermen access.
+
+ In the case of Guinea where the project is prepared under OP 8.0, the Government
+prepared an Environmental and Social Screening and Assessment Framework (ESSAF).
+During project implementation an Environmental and Social Impacts Assessment
+(ESIA)/Environmental and Social Management Plan (ESMP) and/or Resettlement Action
+Plan (RAP) will prepared, consulted upon, and disclosed. The results of the ESSAF
+confirm that environmental and social impacts are minimal. The landing station will be
+built on Government owned property and will not cause any permanent or temporary
+structure to be demolished. It will only create temporary inconveniences during the
+construction phase and limited economic disadvantages to business concerns. The
+landing station is approximately 700 meters from the beach man hole at the beach.
+
+  In the Case of The Gambia, the site selected for cable landing or Terminal Station is at
+Brusubi Phase III Institutional Area and currently lies fallow. It is approximately 3km
+from the Beach Man hole at the beach. The land currently has no permanent structures
+and borders the Brufut-Sukuta Coastal road. The site is about 2,800m2 (40m x 70m) and
+has the following coordinates N13o24.785# and W16o43.126#. The major
+facilities/infrastructure to be installed at the beach and the Brusubi sites include the
+Landing Station building, Zero manhole, BMH, connections conduits and ducts,
+generators, fuel tanks, transformer, switch board and cable drums. The cable station is
+expected to take about 45m x 25m land space with approximately half of this space for
+equipment and the balance for maintenance, training, and office spaces.
+
+ The Gambia has prepared and disclosed an Environmental and Social Impact
+Assessment (ESIA) and Environmental and Social Management Plan (ESMP) (consistent
+with national laws, any applicable treaty concerning international waters, and a
+Resettlement and Rehabilitation Plan (RRP) for the lateral cables and any associated
+equipment that will be laid from the junction with the main cable through territorial
+waters and onto the national shores, and also for the fiber on transmission lines, as
+required. The reports clearly show that the cable system is not expected to have a large
+environmental nor social impact. The project will affect 27 persons and will not cause
+any permanent or temporary structure to be demolished. It will only create temporary
+inconveniences during the construction phase and limited economic disadvantages to
+business concerns. There is no land acquisition issue as the site for the Landing Station is
+vacant state property which has been allocated to the project for the purpose.
+
+
+ In the case of Burkina
+
+ The terrestrial connectivity is expected to follow the major roads already in place
+between Ouagadougou and neighboring countries. As the precise route and civil works
+are still to be determined, an Environmental and Social Management Framework (ESMF)
+and Resettlement Policy Framework (RPF) has been prepared, consulted upon and
+disclosed before appraisal in Burkina Faso. The environmental and social impact of
+laying the additional fiber optic cable along these routes will be very minimal, as the
+cable is expected to follow Rights of Way for existing roads and/or transmission lines.
+Involuntary resettlement is also expected to be minimal, though temporary displacement
+in urban areas may involve larger numbers of Project-affected People (PAPs). In addition
+to OP 4.01 (Environmental Assessment) and OP 4.12 (Involuntary Resettlement), the
+Project triggers OP 4.04 (Natural Habitats) and OP 4.11 (Cultural Heritage). The ESMF
+addresses both impacts and proposed mitigation measures for critical natural habitats and
+physical cultural resources, as the cable is being laid along a road that goes through a
+national park and other areas, and there is a possibility that the cable may be laid in areas
+where cultural assets exist. An ESMP and/or RAP will be prepared as and when
+necessary during project implementation. It should be noted that the project connection at
+the border with Ghana will not lead to social conflicts because the borders between the
+two countries have been clearly delineated and materialized.
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future
+activities in the project area:
+There are no perceived long term impacts. An indirect impact may be lack of access
+during the construction time for tourism or local fishermen, and potential disruption in
+some shipping activities during the marine survey and cable construction.
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize
+adverse impacts.
+n/a
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide
+an assessment of borrower capacity to plan and implement the measures described.
+The implementing units in the three countries are committed to ensuring that
+environmentally conscious practices are carried out during construction and operation of
+the submarine and landing stations in Guinea and The Gambia and the VLP in Burkina
+Faso. Measures that will be taken during implementation include: (a)incorporating
+environmental considerations into its planning, management and operational activities;
+(b) having an Environmental and Safety Coordinator/consultant to be directly responsible
+for environmental and safety issues during construction and operation; (c) allocating and
+maintain resources for the effective implementation of the ESIA/ ESMP; and, d)
+including relevant safeguard mitigation measures in the tender documents for the
+connectivity components.
+
+5. Identify the key stakeholders and describe the mechanisms for consultation and
+disclosure on safeguard policies, with an emphasis on potentially affected people.
+Key stakeholders for consultation will include current inhabitants (where applicable) of
+landing sites, the Environmental Protection Agencies of the client countries, businesses
+and civil society. Issues raised in the consultations to date have focused on local
+involvement in the environmental and social management of the project and ensuring
+there is adequate capacity to supervise safeguards implementation.
+
+
+
+B. Disclosure Requirements Date
+Environmental Assessment/Audit/Management Plan/Other:
+ Was the document disclosed prior to appraisal?           No
+ Date of receipt by the Bank                          05/11/2011
+  Date of "in-country" disclosure                             05/13/2011
+  Date of submission to InfoShop                              05/12/2011
+  For category A projects, date of distributing the Executive
+  Summary of the EA to the Executive Directors
+Resettlement Action Plan/Framework/Policy Process:
+  Was the document disclosed prior to appraisal?                   No
+  Date of receipt by the Bank                                 05/11/2011
+  Date of "in-country" disclosure                             05/13/2011
+  Date of submission to InfoShop                              05/13/2011
+Indigenous Peoples Plan/Planning Framework:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+Pest Management Plan:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+* If the project triggers the Pest Management and/or Physical Cultural Resources,
+the respective issues are to be addressed and disclosed as part of the Environmental
+Assessment/Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please
+explain why:
+
+
+
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the
+ISDS is finalized by the project decision meeting)
+
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) report?               Yes
+If yes, then did the Regional Environment Unit or Sector Manager (SM)           Yes
+review and approve the EA report?
+Are the cost and the accountabilities for the EMP incorporated in the           Yes
+credit/loan?
+OP/BP 4.04 - Natural Habitats
+Would the project result in any significant conversion or degradation of        No
+critical natural habitats?
+If the project would result in significant conversion or degradation of other   No
+(non-critical) natural habitats, does the project include mitigation measures
+acceptable to the Bank?
+OP/BP 4.11 - Physical Cultural Resources
+Does the EA include adequate measures related to cultural property?             No
+Does the credit/loan incorporate mechanisms to mitigate the potential           No
+adverse impacts on cultural property?
+  OP/BP 4.12 - Involuntary Resettlement
+  Has a resettlement plan/abbreviated plan/policy framework/process              Yes
+  framework (as appropriate) been prepared?
+  If yes, then did the Regional unit responsible for safeguards or Sector        Yes
+  Manager review the plan?
+  The World Bank Policy on Disclosure of Information
+  Have relevant safeguard policies documents been sent to the World Bank’s       Yes
+  Infoshop?
+  Have relevant documents been disclosed in-country in a public place in a       Yes
+  form and language that are understandable and accessible to project-affected
+  groups and local NGOs?
+  All Safeguard Policies
+  Have satisfactory calendar, budget and clear institutional responsibilities    Yes
+  been prepared for the implementation of measures related to safeguard
+  policies?
+  Have costs related to safeguard policy measures been included in the project   Yes
+  cost?
+  Does the Monitoring and Evaluation system of the project include the           Yes
+  monitoring of safeguard impacts and measures related to safeguard policies?
+  Have satisfactory implementation arrangements been agreed with the             Yes
+  borrower and the same been adequately reflected in the project legal
+  documents?
+
+
+  D. Approvals
+
+Signed and submitted by:                             Name                          Date
+Task Team Leader:                   Ms Boutheina Guermazi                        05/25/2011
+Environmental Specialist:           Mr Yves Andre Prevost                        05/25/2011
+Social Development Specialist       Ms Lucienne M. M’Baipor                      05/25/2011
+Additional Environmental and/or     Mr Harvey D. Van Veldhuizen                  05/25/2011
+Social Development Specialist(s):   Mr Bienvenu Rajaonson                        05/25/2011
+                                    Ms Beatrix Allah-Mensah                      05/25/2011
+                                    Mr Abdoul-Wahab Seyni                        05/25/2011
+
+Approved by:
+Sector Manager:                     Mr Philippe Dongier                          05/25/2011
+  Comments:
+

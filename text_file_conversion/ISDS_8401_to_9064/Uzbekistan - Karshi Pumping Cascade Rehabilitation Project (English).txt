@@ -1,0 +1,409 @@
+Report No. 23529
+Report No: I057903 <--Please check for duplicates!
+Integrated Safeguards Data Sheet (Initial)
+Date ISDS Prepared/Updated: 01/08/2002
+Section I - Basic Information
+A. Basic Project Data
+Country: UZBEKISTAN      Project ID: P057903
+Project: KARSHI PUMPING CASCADE REHABILITATION PHASE-I PROJECT Task Team
+Leader: Masood Ahmad
+Appraisal Date: January 15, 2002         IBRD Amount ($m): 25.00
+Bank Approval: May 30, 2002      IDA Amount ($m): 30.00
+Managing Unit: ECSSD     Sector: AI - Irrigation & Drainage
+Lending Instrument: Specific Investment Loan (SIL)        Status: Lending
+I.A.2. Project Objectives:
+The main development objective of this rehabilitation project of emergency
+nature is to increase the reliability, efficiency and sustainability of
+the pumped water supply from the Amu Darya to the Karshi irrigation
+command area (400,000 ha) in the Kashkadarya Oblast on which the
+livelihood, employment, and incomes of more than 2 million people depend,
+thereby, to avoid a potential social catastrophe in case of complete or
+partial breakdown of the Karshi Pumping Cascade (KPC).
+This objective would be achieved through: (a) rehabilitation of, and
+improvements in the efficiency of the most critical components of the KPC
+and its overall management; and (b) initiating the development of water
+management institutions in the Karshi irrigation command area for
+improving operation and maintenance (O&M) and water management, and for
+promoting sustainable irrigated agriculture through participatory
+irrigation management. The project would constitute the first phase of a
+long-term program for the rehabilitation of the KPC and     irrigation and
+drainage (I&D) system in the Karshi command area.
+I.A.3. Project Description:
+The Karshi Pumping Cascade Rehabilitation Phase-I project (KPCRP-I) would
+constitute the first phase of a longer-term program for the rehabilitation
+of the KPC, establishment of viable water management organizations
+including Water Users' Associations (WUAs) to operate the main I&D
+infrastructure, and the rehabilitation of the I&D systems within the
+former sovkhozes and kolkhozes (FSKs). The subsequent phase would cover
+the expansion of WUAs and rehabilitation of I&D, institutional reforms to
+improve management at the upper tiers of the system, and possibly
+rehabilitation of additional pumping units. The project includes the
+following main components:
+Component A: Rehabilitation of the Pumping Stations (cost US$91 million).
+For the individual pump units three alternative rehabilitation options are
+proposed: (a) unit with new pump and new motor; (b) unit with new motor
+but rehabilitated pump (Rehabilitation Type A or RT-A). This option is
+very close to the installation of a new pumping unit but with a change in
+the type of pump: from axial flow to mixed flow.
+Depending on the financing available and actual costs, it is expected that
+out of the 36 pump units in PS1-6, the project would provide at least two
+new pump units and rehabilitate 20 units. In PS1, two pump units (each
+
+
+
+consisting of motor and pump) would be replaced by new mixed flow pumps
+and lower speed motors; the pump impellors would have adjustable pitch to
+have better control over varying discharges approaching the PS1. Two
+units in PS1 would be rehabilitated under option RT-A. In PS2, PS3 and
+PS4 two units in each station would undergo RT-A and two units in each
+station RT-B. In PS5 and PS6 two units would undergo RT-A and one unit
+RT-B. In PS7 pumps and motors are newer, but about half pump units require
+rehabilitation to bring the reliability of this station up to the same
+level as for PS5-6. In addition to rehabilitation of the pumping units
+all switchboards and circuit breakers would be replaced by new switch
+boards and a Supervisory Control and Data Acquisition (SCADA) system would
+be installed.   All   discharge pipelines (of PS1-PS7) would be covered
+with protective coating both inside and outside for providing protection
+against corrosion/erosion.
+The Talimarjan workshop would be refurbished/modernized and spare parts
+for electrical and mechanical equipment in the KPC provided. Relatively
+minor repairs to the buildings for the pumping stations would be
+undertaken. Cranes and lifting equipment would be refurbished, and new
+equipment to be provided includes new trash racks; siphon breakers and
+filters for cleaning the water supplied to the bearings for cooling.
+Component B: Sediment Control/Management, and Hydraulic Improvements (Cost
+US$36 M). The configuration of the river intake would be widened and
+improved and a gated regulator would be constructed at the river intake to
+reduce the amounts of sediment entering into the KMC, particularly during
+the summer months. The reach from the river intake to this regulator would
+be widened and deepened in order to create a desilting basin for the
+coarser materials entering this channel. A short distance downstream of
+the new regulator a second desilting basin would be created at a suitable
+location. Downstream of this desilting basin and up to PS1, dredging would
+be carried out to restore the canal profile. A number of existing
+dredgers would be rehabilitated and ancillary equipment provided.
+The damaged canal lining between PS1 and PS2 would be repaired by
+restoring collapsed embankments, cleaning pieces of broken lining and
+replacement of broken lining with suitable material. The rehabilitation
+works at Talimarjan reservoir would consist of repairing the concrete
+sections originally installed for the embankment protection, the
+installation of piezometers, repairing the seals of the outlet gates, and
+repairs to the dam's drainage system. Assistance would be provided for
+carrying out periodic reservoir sedimentation surveys. The first phase of
+an environmental enhancement plan for Talimarjan would also be
+implemented, i.e. a bio-physical revetment to stabilize water erosion
+patterns on the north-west shore of the reservoir.
+Component C: Irrigation and Drainage Systems Improvements in the Karshi
+Command Area (Cost US$6.6 million). This component would support the
+following activities:
+(i) development of about fourteen Water Users Associations (WUAs), two in
+each rayon (Karshi command consists of seven raions); each WUA in average
+covering an irrigated area of 2,000 ha that is about 28,000 ha in total;
+(ii) rehabilitation of key I&D infrastructure within the jurisdiction of
+these WUAs; and
+-2-
+
+
+
+(iii) technical assistance for the preparation of detailed designs and
+tender documents for the rehabilitation works and construction
+supervision, and equipment for precision land leveling.
+The WUAs would be formed in areas consisting of private farms. The WUAs
+are likely to be two-tiered organizations consisting of (a) Water Users
+Groups (WUGs) at the tertiary canal units, ranging in size from 200 ha to
+500 ha; and (b) WUAs, comprised of several WUGs and covering a
+hydrological unit (on average about 2,000 ha) on a secondary canal system.
+The cost of the rehabilitation works would be limited to US$200 per ha.
+Component D: Project Management, Monitoring and Evaluation, and
+Institutional Development (cost US$6 million). This sub-component would
+enable the Government to implement the project. The project would support
+the operation of the Project Implementation Unit (PIU) and would
+specifically finance an international consulting firm to (i) assist with
+the procurement of goods and services for Components A and B and take
+responsibility for contract management, including supervision of
+construction, installation of equipment and commissioning of this
+equipment after installation; (ii) assist the PIU with the preparation of
+interim O&M plans for the project implementation period; (iii) assist the
+PIU with the design, bidding and contract management for the works under
+Component C and the establishment of WUAs in the 14 pilot areas (cost of
+these services is included in Component C); (iv) assist with monitoring
+and evaluation (M&E); and (v) establish an Environmental Management Unit
+(EMU) within the PIU to implement Environmental Management Plan (EMP) for
+the project.
+Institutional Development. The objective of this sub-component is to
+enhance performance capacity of: (a) the PIU in project preparation and
+implementation; (b) the three organizations involved in the operation of
+the KPC and the I&D infrastructure in the Karshi command area: (i) the
+Dostlik Construction Department of Hydromechanisation, which is
+responsible for the dredging operations; (ii) the Operating Directorate of
+the KPC (ODKPC) which is responsible for the operation of the KPC,
+including the pumping stations, intake, the main canal until a point
+downstream of Talimarjan; Talimarjan reservoir; and Talimarjan workshop
+for repairs and maintenance of the cascade; and (iii) the Kashkadarya
+Oblast Irrigation Department (Oblselvodkhoz/KOID) which, together with its
+raion (district) level organizations, is responsible for the O&M of the
+irrigation distribution system within the Karshi command area up to the
+boundaries of the FSKs; and (c) preparation of the follow-up project.
+I.A.4. Project Location: (Geographic location, information about the key
+environmental and social characteristics of the area and population likely
+to be affected, and proximity to any protected areas, or sites or critical
+natural habitats, or any other culturally or socially sensitive areas.)
+The Karshi project area is located in western part of the Kashkadarya
+Oblast of Uzbekistan and lies between latitudes 38o 00 and 39o 34' North
+and longitudes 64o 23' and 67o 41' East. The area is situated on a
+plateau on the right bank of Amu Darya. The KPC lifts water from the Amu
+Darya in Turkmenistan to essentially irrigate some 400,000 ha of the
+Karshi Steppe in the Kashkadarya oblast. The area is inhabited by more
+than 2 million people who largely depend on this source of water for their
+- 3-
+
+
+
+livelihood. The project area slopes gently to the west, from an elevation
+of 400 meters above mean sea level to 350 meters. The area has distinct
+continental climate, with hot dry summers, with maximum temperatures of
+well over 40o C and cold dry winters, with minimum temperatures below
+-250 C. Rainfall is mainly in winter and spring. The mean annual
+rainfall is 240 mm, while evaporation is more than 1,700 mm, making
+irrigation essential for any cropping.
+There are no protected areas, or sites or critical natural habitats, or
+any culturally or socially sensitive areas within or close to the project
+area. The area around Talimarjan reservoir has developed into an
+environmentally valuable area and ecologically important site. The
+Talimarjan reservoir was developed as part of the KPC to store the water
+pumped by the cascade and release it for irrigation use when needed.
+B. Check Environmental Classification: B (Partial Assessment)
+Comments: The project is classified a Category B project in accordance
+with the World Bank Operational Policies (OP 4.01) as, in general,
+rehabilitation works of existing infrastructure are considered to generate
+limited negative environmental impacts. This has indeed been confirmed by
+the environmental assessment.
+C. Safeguard Policies Triggered
+Policy Applicability
+Environmental Assessment (OP/BP/GP 4.01)         Yes
+Forestry (OP/GP 4.36)    No
+Natural Habitats (OP/BP 4.04)    No
+Safety of Dams (OP/BP 4.37)      No
+Pest Management (OP 4.09)        No
+Involuntary Resettlement (OP/BP 4.12)    No
+Indigenous Peoples (OD 4.20)     No
+Cultural Property (OP 4.11)      Yes
+Projects in Disputed Territories (OP/BP/GP 7.60)*         Yes
+Projects in International Waterways (OP/BP/GP 7.50)       No
+*By supporting the proposed project, the Bank does not intend to prejudice
+the final determination of the parties' claims on the disputed areas
+Section II - Key Safeguard Issues and Their Management
+D. Summary of Key Safeguard Issues. Please fill in all relevant questions.
+If information is not available, describe steps to be taken to obtain
+necessary data.
+II.D.1a. Describe any safeguard issues and impacts associated with the
+proposed project. Identify and describe any potential large scale,
+significant and/or irreversible impacts.
+No major safeguard issues under the project are expected.
+Environmental Assessment. The project is essential for to ensure the
+reliable supply of water to about 400,000 ha of agricultural land and for
+the livelihood of more than 2 million people. Environmental impacts of
+the Phase I project are considered limited and generally positive. The EA
+confirms that the project has indeed no significant negative environmental
+impacts, except for certain environmental hazards quite normal during
+construction, which will be mitigated under the proposed environmental
+management plan (EMP). The two main issues concern:
+n Disposal of dredged material: the quantities are reduced as a result of
+- 4 -
+
+
+
+the project; in addition operation of the disposal basins will be improved
+and the disposal plan requires disposal areas to be covered with
+sandy-loam and planted with vegetation to prevent wind erosion; storage
+space is sufficient for 30 years of operation;
+n The environmental hazards during rehabilitation/construction works in
+case these are not properly managed by the contractors and/or not properly
+supervised.
+Proper implementation and monitoring of these measure are included in EPM
+and would be implemented by the EMU in PIU and independent international
+team of consultants.
+Dam Safety.   Talimarjan reservoir is an off-stream storage reservoir with
+two embankments. Its main embankment is 9,745 m long and has a maximum
+height of 35 m; the second embankment is 1,000 m long and has a maximum
+height of 36 m. A start has been made under the GEF-funded Water and
+Environmental Project with the safety assessment of two dams in each of
+the five Aral Sea Basin countries. As the reservoir is off-stream and has
+no catchment area, it would not be affected by failure of any other dam in
+the Amu Darya basin and, therefore, it has received a low priority for
+inclusion in this dam safety review program. Accordingly, no formal dam
+safety review has therefore been carried out for the Talimarjan
+embankments. International consultants' have nevertheless carried out a
+field inspection of the Talimarjan embankments and a review of available
+reports. The Bank Dams Specialist has confirmed that there are no dam
+safety issues involved in Talimarjan reservoir. Some problems, unrelated
+to the safety of the dam, were identified and the necessary remedial works
+would be implemented under the project (these are included in Component
+B).
+International Waters.    The project is situated on the Amu Darya, which is
+an international waterway. The project would not change the quantity or
+quality of the water in the river basin because it is strictly a
+rehabilitation intervention. On request of the Government of Uzbekistan,
+the Bank notified the riparian states, Turkmenistan and Tajikistan about
+the project by letter of January 9, 2001. No response has been received
+from these Governments.
+There are no issues related to the international waterways. For the Amu
+Darya, the present arrangements are that Uzbekistan and Turkmenistan are
+to equally share the Amu Darya flows measured at Kerki (just below
+Tajikistan). The share of Karshi project is 5 Bcm and the annual
+diversions have averaged 4.7 Bcm over the last 10 years. The Talimarjan
+reservoir located in the project area has a storage capacity of about 1.5
+Bcm. The water pumped by KPC during the non-vegetation period or when the
+water requirements are low is stored in the reservoir and used to meet the
+requirements during the peak period. Therefore, fluctuations in the river
+flows have relatively little affect on water deliveries to the project
+area. Under the project limited rehabilitation of the pumping cascade
+would be carried out which would not result in increase in pumping
+capacity of KPC or in extraction of flows from Amu Darya.
+A related issue is the location of part of Uzbekistan's water
+infrastructure in Turkmenistan, including the intake and the major part of
+the KPC that would be rehabilitated under the proposed project. To
+- 5 -
+
+
+
+operate the water intake and 6 of the 7 pumping stations on Turkmen
+territory, Uzbekistan and Turkmenistan maintain an agreement that covers
+Turkmenistan lands under the Karshi cascade, Amu-Bukhara systems and
+Tuyamayun reservoir. Based on this agreement Uzbekistan is to operate the
+cascade in return for: (a) a yearly payment of about US$12 million for
+leasing a narrow strip of land on which the cascade has been built (amount
+also includes lease for lands for Amu-Bukhara and Tumayun reservoir); and
+(b) diversion of about 10t of the pumped water for the irrigation of some
+25,000 ha of irrigated lands on Turkmen territory, free of cost to
+Turkmenistan. The easy passage of personnel and equipment (especially of
+consultants and contractors) during project implementation is a concern,
+however, to date no major impediment has been observed to Uzbekistan
+operating and maintaining the canal, the pump stations, and dredging
+operations at the intake.
+II.D.lb. Describe any potential cumulative impacts due to application of
+more than one safeguard policy or due to multiple project component.
+No cumulative impact is expected.
+II.D.lc Describe any potential long term impacts due to anticipated future
+activities in the project area.
+The long-term impacts are included:
+(i) full implementation of institutional and agricultural policy reforms
+and full recovery of the cost of water from beneficiaries, some anticipate
+that in future (15-20 years) agriculture on some highly salinized plots in
+the project may no longer be viable and that such plots may have to be
+abandoned; (ii) It is expected that the project will increase efficiency
+of water use in the proposed area, and therefore will reduce overall water
+need; and (iii) the institutional reforms can be expected to result in
+staff reductions in the existing organizations and the associated social
+impacts which would need to be mitigated. These issues are common to
+countries in transition to a market economy and institutional reform
+programs, and methods to deal with such issues are known. However, these
+events would not take place during the proposed project period, they are
+beyond the scope of the project, and would be dealt with when and if they
+arise under an appropriate framework possibly during preparation and
+implementation of the future phases of the Karshi rehabilitation program.
+II.D.2. In light of 1, describe the proposed treatment of alternatives (if
+required)
+The rehabilitation of the KPC is the only viable alternative and is the
+most suitable one economically, socially and environmentally. Without the
+project, a full or partial breakdown of KPC would have catastrophic
+social, and economic consequences and create a flux of environmental
+refugees.
+II.D.3. Describe arrangement for the borrower to address safeguard issues
+As the institutional supervision capacity of the local environmental
+agencies are limited, the project will; (i) establish EMU within the PIU,
+which with the help of an independent team of international consultants
+- 6 -
+
+
+
+implement the EMP.; (ii) provide training to the local agencies to enhance
+institutional capacity and (iii) implement the EMP that addresses all
+issues and will mitigate potential environmental impact of the
+construction phase as well as the overall operations.
+II.D.4. Identify the key stakeholders and describe the mechanisms for
+consultation and disclosure on safeguard policies, with an emphasis on
+potentially affected people.
+The key stakeholders are the Ministry of Agriculture and Water Resources,
+Operations Directorate for KPC, Kashkadarya Oblast Irrigation Department
+(Obselvodkhoz), District Level Irrigation Organizations (Raionvodkhoz),
+Collector Drainage Network Directorate, Dostlik Construction Department
+(DCD) water management organizations within the Former State and Communal
+Farms (FSKs), water users' associations, farmers and other water users.
+Extensive public consultation were carried out during the Social
+Assessment process under which two stakeholder workshops were held to
+share the results of the SA and discuss other project/program issues
+relating directly to the project's long-term goals, including: readiness
+of the population for the introduction of charges for water and mechanisms
+of payments for water; the possibility and relevancy of establishing Water
+User Associations (WUA); the functions, goals, and possible operational
+risks of WUA; and public participation in project implementation. The
+first stakeholder seminar was held in Karshi on October 19, 2001 and
+second in Tashkent on October 23, 2001.
+In addition, in July 2001, scoping sessions on the environmental aspects,
+with participation of all major stakeholders, were organized in Tashkent
+and Karshi by the EA consultants. Upon completion of the draft final EA
+Report, workshops were held in Tashkent, Karshi, Talimarjan and Dustlik on
+December 19 and 20 2001 to discuss the main findings and recommendations
+contained in the report. The Government, through its MAWR and PIU would
+maintain an open and continuous channel of communication with the WUAs,
+farmers, water users and other stakeholders. The WUAs formed under the
+project would provide a good link for communications with the major
+stakeholders. The WUAs representatives would also participate in the
+Oblast Steering Committee meetings for reviewing the overall project
+implementation and institutional program.
+E. Safeguards Classification. Category is determined by the highest impact
+in any policy. Or on basis of cumulative impacts from multiple safeguards.
+Whenever an individual safeguard policy is triggered the provisions of
+that policy apply.
+I S1. - Significant, cumulative and/or irreversible impacts; or
+significant technical and institutional risks in management of one or more
+safeguard areas
+[XI S2. - One or more safeguard policies are triggered, but effects are
+limited in their impact and are technically and institutionally manageable
+I S3. - No safeguard issues
+I SF. - Financial intermediary projects, social development funds,
+community driven development or similar projects which require a safeguard
+framework or programmatic approach to address safeguard issues.
+F. Disclosure Requirements Environmental Assessment/Analysis/Management
+- 7 -
+
+
+
+Plan:   Expected         Actual
+Date of receipt by the Bank      1/19/2002        12/17/2001
+Date of "in-country" disclosure 1/22/2002
+Date of submission to InfoShop   1/22/2002
+Date of distributing the Exec. Summary of the EA to the ED
+(For category A projects)        1/31/2002
+Resettlement Action Plan/Framework:      Expected         Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+Indigenous Peoples Development Plan/Framework:   Expected         Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+Pest Management Plan:    Expected        Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+Dam Safety Management Plan:      Expected        Actual
+Date of receipt by the Bank
+Date of "in-country" disclosure
+Date of submission to InfoShop
+If in-country disclosure of any of the above documents is not expected,
+please explain why.
+Signed and submitted by          Name    Date
+Task Team Leader:        Masood Ahmad
+Project Safeguards Specialists 1:
+Project Safeguards Specialists 2:
+Project Safeguards Specialists 3:
+Approved by:     Name    Date
+Regional Safeguards Coordinator:         Stan Peabody     01/22/2002
+Sector Manager/Director:         Joseph Goldberg 01/16/2002
+For a list of World Bank news releases on projects and reports, click here
+- 8 -
+
+
+

@@ -1,0 +1,369 @@
+                                           INTEGRATED SAFEGUARDS DATA SHEET
+                                                    CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                             Report No.: ISDSC1031
+
+                         Date ISDS Prepared/Updated: 12-Sep-2014
+                         Date ISDS Approved/Disclosed: 12-Sep-2014
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:           Armenia                         Project ID:      P149913
+                            Project Name:      Public Sector Modernization Project III (P149913)
+                            Task Team          K. Migara O. De Silva
+                            Leader:
+                            Estimated          16-Dec-2014                     Estimated        16-Mar-2015
+                            Appraisal Date:                                    Board Date:
+                            Managing Unit:     GGODR                           Lending          Investment Project Financing
+                                                                               Instrument:
+                            Sector(s):         Central government administration (55%), Public administration- Information
+                                               and communications (45%)
+                            Theme(s):          Administrative and civil service reform (15%), Other public sector governance
+                                               (10%), Other accountability/anti-corruption (35%), Man aging for development
+                                               results (10%), Public expenditure, financial management and procurement
+                                               (30%)
+Public Disclosure Copy
+
+
+
+
+                            Financing (In USD Million)
+                            Total Project Cost:     26.00                    Total Bank Financing:         20.50
+                            Financing Gap:           0.00
+                              Financing Source                                                           Amount
+                              Borrower                                                                     5.50
+                              International Bank for Reconstruction and Development                       20.50
+                              Total                                                                       26.00
+                            Environmental C - Not Required
+                            Category:
+                            Is this a          Yes
+                            Repeater
+                            project?
+
+                           B. Project Objectives
+                           The project development objective (PDO) of the operation is to enhance, deepen, and sustain the
+                           performance of public sector management (PSM) for better public service delivery through
+                         (a) institutionalizing and advancing e-government in the country, and
+                         (b) modernizing public financial management.
+                         C. Project Description
+Public Disclosure Copy
+
+
+
+
+                         The Third Public Sector Modernization Project (PSMP III) for Armenia will be financed by a
+                         Specific Investment Loan (SIL) in the amount of US$ 20.5 million IBRD with implementation over a
+                         five year period. This third project benefits from the building blocks of PSMP I and PSMP IIPSMP
+                         III continues the emphasis of the PSMP with the following seven components:
+
+                         Component 1: Institutionalizing e-Government in Armenia (US$ 5.0 million)
+
+                         Sub-component 1.1: Unified management and service center for e-government systems in the
+                         Republic of Armenia
+
+                         An E-Government Center will be created to improve governance by ensuring the application of
+                         unified standards/requirements toward the operation of both state and community electronic
+                         management systems (EMS) currently operating in Armenia and those to be designed in the future.
+                         The Center will ensure the implementation of the policy developed on behalf of a corresponding
+                         body in electronic management field. The center will be housed in premises provided and refurbished
+                         under state budget funding.
+
+                         Sub-component 1.2: Data exchange tool ensuring interoperability and integration of electronic
+                         management systems (Data exchange Layer, X-Road, Enterprise Service Bus)
+
+                         To enhance efficiency of data exchange between electronic management systems, a proper technical
+                         and organizational environment/layer of data exchange will be developed, which enables secure
+                         Internet-based data exchange between the information systems. This tool will facilitate the exchange
+                         of data with the databases belonging to state information system and between the databases
+                         belonging to the state information system through data exchange layer of the state information
+Public Disclosure Copy
+
+
+
+
+                         system.
+
+                         Component 2: Government Finance Management Information System (US$ 7.0 million)
+
+                         The Government Finance Management Information System (GFMIS) will be developed and
+                         introduced to cover areas which include budget formulation, management of spending units,
+                         commitment controls, payables and receivables, general ledger and accounting, cash recording, cash
+                         management, reports and other modules. The system will be integrated with electronic procurement
+                         and other interlinked systems.
+
+                         Component 3: Service Delivery by the Government to Citizens (G2C) (US$5,66 million)
+
+                         Sub-component 3.1: Е-transport
+
+                         A website/portal related to transport in Armenia (Interstate, inter-district, municipal, metro, railroad),
+                         which be created to provide a complete information about passenger transportation means, stops,
+                         routes, hours, tariffs and other data. Information about parking lots (including free parking lots),
+                         traffic jams, schedules of street cleaning and reconstruction will also be placed on the site, which will
+                         comprise an interactive map, route planning tool, FAQ and other sections. It is expected that the
+                         system will provide opportunities for online booking, purchase of tickets, payments, etc.
+                         Sub-component 3.2: E-consulate
+Public Disclosure Copy
+
+
+
+
+                         In 2012, the Ministry of Foreign Affairs (MFA) launched an e-consular system which merged all
+                         consular offices of Armenia in a single unified system. However establishment of an e-consular
+                         system addressed only some of the issues and there is still a need for a large-scale development in
+                         this area. On June 21, 2014 the National Assembly adopted “Legislative package on Consular
+                         Registration” This package envisages creation of a new consular registration system that would allow
+                         consular registration by visiting the related diplomatic representative office or through a special
+                         online system. This sub-component will help to enhance the e-consular system in order to cover all
+                         activities and rendered services on behalf of the consuls, and also to ensure its interoperability with
+                         other e-government systems and/or databases.
+
+                         Sub-component 3.3: Phone ID
+
+                         After introduction of Electronic ID cards, the governments need to move ahead and provide full
+                         flexibility on using electronic identification means. While ID plastic cards are restricting the usage
+                         of on line identification only to computers with ID card readers, the use of phone ID (one of the best
+                         experience is in Estonia) enables transfer of ID card information to SIM card of the mobile phone
+                         and enables application of digital signatures and digital authentication right from mobile devices,
+                         which significantly will extend the uptake of ID cards in Armenia. This approach is especially
+                         important in rural areas of Armenia where computer penetration is still low but the internet and
+                         mobile penetration is almost 100 percent. In such case identification of individuals will be done via
+                         mobile phones instead of the ID cards and card readers in computers.
+
+                         The introduction, availability, areas of application of the Phone ID will provide broad possibilities
+                         for the private sector to both increase the scope of business and of the services rendered and to gain
+                         new markets for their businesses. In addition, other mobile options for person identification will be
+                         considered (by means of standard computers, without special technical devices/means) and given the
+Public Disclosure Copy
+
+
+
+
+                         implementation feasibility; corresponding activities will be initiated in this direction.
+
+                         Sub-component 3.4: “Public services” unified portal and operation of 24/7 hotline (Services.am)
+
+                         A unified “Public Services” portal will be created to provide complete online information and
+                         consultation on public services to the citizens.
+                         The website of the Government of Armenia will comprise full-fledged information on all public
+                         services, including healthcare, education, justice (including registration of civil status acts), benefits
+                         and other social services, business services (company registration, licenses), land possession
+                         registration and construction permits, on local self-government bodies, etc. Also, the website will
+                         provide answers to different possible questions and other required consultations.
+
+                         A 24/7 hotline will be functioning within the portal. The objective is to quickly respond to questions,
+                         complaints, issues of the citizens in a twenty-four-hour format, at that the operator will be able to
+                         provide an online solution making simultaneous calls and online assignments at the same time. The
+                         concept of Knowledge Base will be applied in the activities of the Center and hotline.
+
+                         Sub-comp onent 3.5: Upgrade of the state business registry system
+
+                         In 2012 the Doing Business study of the World Bank rated the business register of Armenia as 10th
+                         fastest business registration in the world. Significant developments have taken place since April 2011
+                         when electronic business register was deployed. This sub-component will support further upgrade of
+                         the State business registry system that would further simplify procedures, decrease risk of corruption,
+Public Disclosure Copy
+
+
+
+
+                         and remove administrative barriers for the business development.
+
+                         Sub-component 3.6: Upgrade the electronic system for issuing licenses
+
+                         This sub-component is to upgrade the electronic system for issuing licenses, including automation of
+                         the simplified procedure of license issue on behalf of the Ministry of Finance, electronic data
+                         processing and issue of licenses, management of electronic license registry, receipt of reports,
+                         notifications, etc.
+                         Sub-component 3.7: “Intranet” system for public servants
+
+                         Under PSMP I and PSMP II the electronic document management system (EDMS) was introduced in
+                         some 23 governmental institutions of Armenia over 2008-2009. Later the system has been extended
+                         to over 60 government institutions. PSMP III will help to create an ‘’Intranet’’ system for public
+                         servants, which will include the following modules:
+
+                         •        “Mulberry” electronic document management system (normative acts, applications,
+                         instructions, etc.)
+                         •        Service center /Help Desk/ (for providing solutions to computer/software issues)
+                         •        HR system (staff related issues, vacations, appraisal system, notifications, trainings)
+                         •        Announcements/news system (briefdaily newsreel, various announcements)
+                         •        Knowledge center (library, research, presentations, FAQ)
+                         •        Department for legal acts (legal acts related to an agency, legal acts of general nature and
+                         acts often used)
+                         •        Suggestions for reforms (any employee can submit his/her suggestion, idea in this section)
+                         •        Organization structure section
+                         •        Issues related to property/affair management
+Public Disclosure Copy
+
+
+
+
+                         •        Information center (inquiries/survey)
+                         •        Other
+
+                         Sub-component 3.8: Digitization of normative legal acts, including electronic state registration of
+                         normative legal acts
+
+                         This component will finance moving to electronic registration of normative legal. Gradually, a shift
+                         will be made from storing normative legal acts in paper versions towards electronic versions, by
+                         simultaneously carrying out corresponding activities aimed at electronic backup of the normative
+                         legal acts.
+                         As a result, the management, storage and backup of normative legal acts will be done electronically,
+                         and also the “RA Official Bulletin” will be published electronically.
+
+                         Sub-component 3.9: Upgrading the e-police system
+
+                         Under this sub-component, projects ongoing and envisaged for implementation generally in police,
+                         and especially in the traffic police, will be studied and projects will be implemented that contain
+                         explicit elements of fight against corruption by application of portable computers, GPRS and other
+                         required technical means/computers. The idea of introducing and implementing international
+                         standards for creation of a data exchange platform between traffic police and insurance companies,
+                         for registration of road traffic accidents and standards for collecting source data on accident
+                         circumstances (including minimal requirements for photographing the scene of the accident,
+                         standards of registering conditions defining the accident) and defining and allocating the fault in
+Public Disclosure Copy
+
+
+
+
+                         insured vehicle accidents will be explored. The standards will be unified for all structures using the
+                         said data.
+
+                         Sub-component 3.10: Enhancing feedback mechanism between government and citizens for more
+                         effective public service delivery
+
+                         This sub-component will build on the services provided by the current and planned electronic
+                         management systems to introduce a citizens’ feedback mechanism which will help to gather
+                         information on the quality of services provided. The feedback mechanism to be supported under this
+                         sub-component will be integrated into all other sub-components of the Component 3.
+
+                         Component 4: Electronic Management System for Pre-Court Proceedings (US$ 1.5 million)
+
+                         This component will finance creation of an electronic management system for criminal cases to
+                         enable electronic handling of criminal cases where investigators, defense lawyers, judges, forensic
+                         experts, etc. working for various agencies. The component will ensure at least the same level of
+                         automation related to pre-court investigative stage of judicial cases that are available to clients once
+                         the trials begin.
+
+                         Component 5: Building Capacity of the Training of Public Servants (US$490,000)
+
+                         PSMP III will support training of public servants in cooperation with the Armenian Academy of
+                         Public Administration (AAPA) and RA Civil Service Council. This component will also finance on-
+                         the-job training of public servants through their temporary placement in related institutions of foreign
+                         countries.
+Public Disclosure Copy
+
+
+
+
+                         Component 6: Ad hoc Activities (US$ 750,000)
+
+                         This component will support funding new or ad hoc activities proposed by Public Sector Reform
+                         Commission. Some of such activities may be planned and endorsed shortly after effectiveness of
+                         PSMP and may include, inter alia, development of virtual maps for electronic construction permitting
+                         system and provision of technical assistance to the Ethics Commission for the High Level Officials.
+                         Additional activities will be identified at the Mid-Term Review of the project.
+
+                         Component 7: Project Management (US$ 600,000)
+
+                         Sub-component 7. 1: Project management and administration arrangements.
+
+                         This sub-component will support the Foreign Financial Project Management Center (FFPMC-PIU)
+                         of the Ministry of Finance in performing the financial management and procurement under PSMP
+                         III. Administrative costs of the Project Management Group and of the Public Sector Reform
+                         Commission (PSRC) that will operate as a Steering Committee for the project will also be supported.
+
+                         Sub-component 7.2: Technical assistance and operational expenses
+
+                         This sub-component will finance monitoring and evaluation of the project progress, impact and
+                           fiduciary controls. It will also support the mid-term review and continuously engage internal and
+                           external stakeholders. Funds will also be provided for periodic user surveys, organization of focus
+                           groups and other arrangements to further enhance periodic feedback, public dissemination of the
+Public Disclosure Copy
+
+
+
+
+                           survey results, as well as a communication campaign to provide a comprehensive description of
+                           project objectives and activities to managers, staff, and all key stakeholders at the center and regions.
+                           These include, among others, NGOs, other relevant public organizations, think-tanks, and
+                           universities.
+                           D. Project location and salient physical characteristics relevant to the safeguard
+                           analysis (if known)
+                           The project will be implemented in the public institutions of Armenia, predominantly in the capital
+                           city of Yerevan with possible interventions in some provincial administrative centers.
+                           E. Borrowers Institutional Capacity for Safeguard Policies
+                           The Borrower will not need to apply safeguard policies during project implementation.
+
+                           F. Environmental and Social Safeguards Specialists on the Team
+                           Darejan Kapanadze (GENDR)
+                           Sarah G. Michael (GURDR)
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+                           Safeguard Policies                    Triggered?       Explanation (Optional)
+                           Environmental Assessment OP/          No              The project is to provide technical assistance to
+                           BP 4.01                                               the Government of Armenia. The technical
+                                                                                 assistance provided under the project does not
+                                                                                 include support for design or preparation of any
+                                                                                 physical investment that will trigger safeguard
+                                                                                 policies. The only type of physical activity that
+Public Disclosure Copy
+
+
+
+
+                                                                                 may be performed under the project is the
+                                                                                 installation of IT equipment, which carries no
+                                                                                 environmental risks. Workers' safety shall be
+                                                                                 ensured through the deployment of personnel
+                                                                                 qualified for working with electric devices.
+                                                                                 Installation and operation instructions for IT
+                                                                                 equipment should also be strictly observed.
+                           Natural Habitats OP/BP 4.04           No
+
+                           Forests OP/BP 4.36                    No
+
+                           Pest Management OP 4.09               No
+
+                           Physical Cultural Resources OP/       No
+                           BP 4.11
+                           Indigenous Peoples OP/BP 4.10         No
+
+                           Involuntary Resettlement OP/BP        No              No civil works or land use/acquisition will be
+                           4.12                                                  undertaken under the project.
+                                 Safety of Dams OP/BP 4.37                                         No
+
+                                 Projects on International        No
+Public Disclosure Copy
+
+
+
+
+                                 Waterways OP/BP 7.50
+                                 Projects in Disputed Areas OP/BP No
+                                 7.60
+
+                         III. SAFEGUARD PREPARATION PLAN
+                               A. Tentative target date for preparing the PAD Stage ISDS: 30-Nov-2014
+                               B. Time frame for launching and completing the safeguard-related studies that may be needed.
+                                  The specific studies and their timing1 should be specified in the PAD-stage ISDS:
+                                      No safeguard-related studies are needed for the project preparation.
+                         IV. APPROVALS
+                                 Task Team Leader:                            Name: K. Migara O. De Silva
+
+                                 Approved By:
+                                 Regional Safeguards Name: Agnes I. Kiss (RSA)                                                                                                  Date: 12-Sep-2014
+                                 Coordinator:
+                                 Practice Manager/   Name: Adrian Fozzard (PMGR)                                                                                                Date: 12-Sep-2014
+                                 Manager:
+Public Disclosure Copy
+
+
+
+
+                         1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+                          form and language that are accessible to potentially affected persons.
+

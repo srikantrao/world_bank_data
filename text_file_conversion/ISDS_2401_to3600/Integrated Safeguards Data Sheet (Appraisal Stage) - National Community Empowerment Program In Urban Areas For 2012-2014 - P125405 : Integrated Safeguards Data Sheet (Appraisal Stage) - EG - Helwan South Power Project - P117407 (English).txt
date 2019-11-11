@@ -1,0 +1,733 @@
+﻿                                               INTEGRATED SAFEGUARDS DATA SHEET
+                                                       APPRAISAL STAGE
+                                                                                               Report No.: ISDSA780
+Public Disclosure Copy
+
+
+
+
+                         Date ISDS Prepared/Updated: 23-Apr-2013
+                         Date ISDS Approved/Disclosed: 24-Apr-2013
+                         I. BASIC INFORMATION
+                            1. Basic Project Data
+
+                            Country:           Egypt, Arab Republic of           Project ID:    P117407
+                            Project Name:      EG - Helwan South Power Project (P117407)
+                            Task Team          Waleed Saleh I. Alsuraih
+                            Leader:
+                            Estimated          12-Sep-2012                       Estimated   18-Jun-2013
+                            Appraisal Date:                                      Board Date:
+                            Managing Unit:     MNSEG                             Lending     Specific Investment Loan
+                                                                                 Instrument:
+                            Sector(s):        General energy sector (100%)
+                            Theme(s):         Infrastructure services for private sector development (100%)
+                            Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+                            8.00 (Rapid Response to Crises and Emergencies)?
+                            Financing (In USD Million)
+                            Total Project Cost:       2404.40                  Total Bank Financing:      585.40
+Public Disclosure Copy
+
+
+
+
+                            Total Cofinancing:                                 Financing Gap:               0.00
+                              Financing Source                                                                     Amount
+                              Borrower                                                                              921.80
+                              International Bank for Reconstruction and Development                                 585.40
+                              Arab Fund for Economic and Social Development                                         193.50
+                              Islamic Development Bank                                                              449.90
+                              KUWAIT Kuwait Fund for Arab Economic Development                                      213.80
+                              OPEC FUND                                                                              40.00
+                              Total                                                                                2404.40
+                            Environmental A - Full Assessment
+                            Category:
+                            Is this a          No
+                            Repeater
+                            project?
+
+                            2. Project Objectives
+
+
+
+                                                                      Page 1 of 13
+                         The project development objective is to increase power generation capacity in an efficient manner
+                         within the Borrower’s territory.
+                          3. Project Description
+Public Disclosure Copy
+
+
+
+
+                         The project includes the following main components: (a) power plant; and (b) gas pipelines, as
+                         described below.
+
+                         Part A: Power plant (US$503.8 million): This component includes a 3x650-MW supercritical steam
+                         technology power plant, fired by natural gas as the primary fuel and heavy fuel oil as a backup. The
+                         plant comprises three identical units, each of 650 MW gross capacities. The plant will be cooled by
+                         once-through cooling system using water from the Nile River. Each of the three units will include
+                         the standard set of equipment: a 650-MW steam generator, a steam turbine, a condenser, and an
+                         electricity generator; process and cooling water supply systems; an air and flue gas system; a fuel
+                         supply system; and a number of auxiliary systems (condensate treatment; hydrogen generation;
+                         compressed air; fire protection; emergency diesel generator; start-up power system; medium and low
+                         voltage system; direct current power system for control and relays; and uninterruptible power
+                         system). The plant will also include a distributed control system and a switchyard with step-up
+                         transformers. Engineering and project management services for the power plant, as well as the
+                         associated environmental and social impact mitigation plan will also be included in the project.
+
+                         Part B: Gas pipelines (US$81.6 million): two gas pipelines capable of supplying about 12.5 million
+                         cubic meters of gas per day. One pipeline, 36-inch in diameter and with length of 93 kilometres
+                         (km), will connect the Helwan South power plant site, which is near the town of Atfeeh, to the
+                         existing gas pipeline network at the compressor station at Dahshour. The other pipeline, 32-inch in
+                         diameter 65 km in length, will strengthen the gas transmission network by eliminating a bottleneck
+                         that would otherwise prevent normal gas supply to the Helwan South power plant. The pipeline will
+                         run from Abu Hommos compressor station to El Nubaria compressor station. Both pipelines will be
+                         designed for a maximum pressure of 32 bars. Pipeline inspection and cleaning facilities suitable for
+                         use with on-line inspection vehicles and appropriate Supervisory Control and Data Acquisition
+Public Disclosure Copy
+
+
+
+
+                         (SCADA) facilities will also be included. The two gas pipelines will enable transmission of gas
+                         produced by Burullus, Rashid (Rosetta), and Western Desert gas fields to the Helwan South power
+                         plant. The associated environmental and social impact mitigation plan will also be included in the
+                         project.
+                          4. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+                         The site of the proposed power project is located on the east side of the Nile, about 8 km south of the
+                         Kureimat power plant complex. The site which covers about 90 feddans (378,000 m2) is owned by
+                         the Upper Egypt Electricity Production Company (UEEPC), and has the shape of a trapezoid with the
+                         shorter side (800 m) facing the Nile and the longer side (1 km) facing east. It is located on desert land
+                         between the river and the main road. The distance from the west side of the site to the Nile ranges
+                         from 150 to 300 meters, and the land in this area is farmed. The Upper Egypt Electricity Production
+                         Company, which will implement the power plant component of the project, is negotiating voluntary
+                         acquisition of this land -- about 35 fedans, 1quirat and 9 sahms (136,000 m2) -- owned or used by 32
+                         families, for the water intake and discharge facilities. (Twenty nine plots, with total size of 29
+                         fedans, 13 quirats, and 8 sahms are owned by the respective 29 families. Two plots, one 20 quirats in
+                         size and the other 1 fedan and 17 quirats large, have been traditionally used by two families, but the
+                         families have not been able to present proofs of ownership, so the plots are for the time being listed
+                         as government-owned. One plot of 2 fedans 23 quirats and 1 sahm in size was given to a family
+
+
+                                                                      Page 2 of 13
+                         under the “agrarian reform". One fedan has 24 quirats, and one quirat has 24 sahms.).
+Public Disclosure Copy
+
+
+
+
+                         One of the two gas pipelines, 93 kilometers (km) long, will connect the Helwan South power plant to
+                         the existing gas pipeline network at the compressor station at Dahshour. The other pipeline, 65 km in
+                         length, will strengthen the gas transmission network by eliminating a bottleneck that would otherwise
+                         prevent normal gas supply to the Helwan South power plant. The pipeline will run from Abous
+                         Hommos compressor station to El Nubaria.
+
+                         The 93 kilometers (km) long gas pipeline which will connect the Helwan South power plant to the
+                         existing gas pipeline network runs mainly through a desert land, except for the areas closer to the
+                         power plant and the Nile River. The other 65 km pipeline (Abous Hommos -- Nubaria) runs through
+                         agricultural land in the Nile Delta.
+                         5. Environmental and Social Safeguards Specialists
+                         Nina Bhatt (MNSSO)
+                         Zia Al Jalaly (SARDE)
+                         Sanjay Srivastava (AFTN3)
+                         Africa Eshogba Olojoba (MNSEN)
+
+                         6. Safeguard Policies               Triggered? Explanation (Optional)
+                         Environmental Assessment OP/        Yes              An Environmental and Social Impact
+                         BP 4.01                                             Assessment (ESIA) has been prepared.
+                         Natural Habitats OP/BP 4.04         No
+
+                         Forests OP/BP 4.36                  No
+Public Disclosure Copy
+
+
+
+
+                         Pest Management OP 4.09             No
+
+                         Physical Cultural Resources OP/     No
+                         BP 4.11
+                         Indigenous Peoples OP/BP 4.10       No
+
+                         Involuntary Resettlement OP/BP      Yes               The project triggered the Bank’s social
+                         4.12                                                safeguard policy on Involuntary Resettlement
+                                                                             (OP 4.12). The land acquisition needs for the
+                                                                             project do not require relocation of housing and
+                                                                             OP 4.12-related impacts are not major, as
+                                                                             presented in more details below.
+                                                                             Land Acquisition Impacts – The Power Plant:
+                                                                             The largest land requirement is for the power
+                                                                             plant itself, about 90 feddan (1 feddan = 1.03
+                                                                             acres), or about 38 hectares, located on barren
+                                                                             desert land, which was government owned and
+                                                                             transferred to UEEPC through a Presidential
+                                                                             Decree No. 43 of February 14, 2010 for the
+
+
+
+                                                                     Page 3 of 13
+                                 purpose of building the power plant. The site
+                                 extends to the main road and thus there is no need
+                                 to construct access roads to reach the site.
+Public Disclosure Copy
+
+
+
+
+                                 However, there is a strip of farm land – about 35
+                                 feddans -- 1quirat and 9 sahms (136,000 m2) --
+                                 owned or used by 32 families, for the water
+                                 intake and discharge facilities. UEEPC is in the
+                                 process of acquiring this land, owned or used by
+                                 about 32 families, on a "willing-buyer/willing-
+                                 seller" basis. The Bank’s social safeguards
+                                 specialist met on the site with five such
+                                 landowners to confirm the nature of the
+                                 transaction, including specifically their
+                                 willingness to sell and to understand the reasons
+                                 for doing so. The reasons are related to the
+                                 generous land price offered by UEEPC and the
+                                 agreement with UEEPC that the company will
+                                 offer one permanent job for each 4 kirat (24 kirat
+                                 = 1 feddan) of land.
+                                 Land Acquisition Impacts – The Gas Pipelines.
+                                 GASCO, which is the implementing agency for
+                                 the two gas pipelines that are part of the project –
+                                 the Dahshour-Atfeeh and the Abu Homos-
+                                 Nubaria -- has prepared ESIAs and RPFs for the
+                                 pipelines and will prepare corresponding RAPs
+                                 closer to the start of the construction. Permanent
+                                 land acquisition for the pipelines includes eight
+                                 plots of land for eight valve rooms for each
+Public Disclosure Copy
+
+
+
+
+                                 pipeline (16 in total for both pipelines), which are
+                                 spaced along the routes. Each valve room
+                                 requires a plot of size of about 25 m x 45 m
+                                 which GASCO hopes to acquire through willing
+                                 buyer-willing seller transactions. There is also
+                                 temporary land acquisition, during construction.
+                                 Compensation for temporary land acquisition,
+                                 including the permanent restrictions (easement
+                                 along the Right-of Way (ROW), is negotiated and
+                                 GASCO appears flexible enough on
+                                 compensation rates to minimize the number of
+                                 farmers that appeal the compensation amounts. A
+                                 RAP instrument will be developed to cover all
+                                 impacts associated with the gas pipeline.
+                                 Land Acquisition Impacts –The Electricity
+                                 Transmission Lines. The transmission lines will
+                                 be implemented under a different project by
+                                 EETC, and corresponding ESIA and RPFs have
+                                 been prepared [satisfactory to the Bank].
+
+
+
+                         Page 4 of 13
+                                                                              Permanent land acquisition will be limited only
+                                                                              for the foundations of the towers (four concrete
+                                                                              foundations for each tower, each foundation
+Public Disclosure Copy
+
+
+
+
+                                                                              requiring about 4-16 m2 of land, depending on
+                                                                              the tower type). Similarly as for the gas pipelines,
+                                                                              compensation for the temporary land acquisition
+                                                                              during construction and for the ROW will be
+                                                                              made using the Egyptian crop compensation
+                                                                              system administered by the Ministry of
+                                                                              Agriculture. A RAP, which will cover both the
+                                                                              permanent and the temporary impacts, will be
+                                                                              prepared closer to the construction of the lines.
+                            Safety of Dams OP/BP 4.37         No
+
+                            Projects on International         Yes              The project triggers the policy on Projects on
+                            Waterways OP/BP 7.50                              International Waterways (OP 7.50). The Bank
+                                                                              notified the Nile River riparian states of the
+                                                                              Helwan South project on October 13, 2011 and
+                                                                              requested that their comments, if any, be provided
+                                                                              to the Bank by November 14, 2011. No
+                                                                              comments were received from any of the riparian
+                                                                              states during the notification period or since.
+                                                                              Pursuant to the requirements of OP 7.50 and on
+                                                                              the basis of the Bank team’s assessment that the
+                                                                              project activities will not cause appreciable harm
+                                                                              to the other riparian states, the MNA regional
+                                                                              Vice President gave approval on February 3,
+                                                                              2012 to proceed with preparation of the project
+Public Disclosure Copy
+
+
+
+
+                                                                              for Bank financing.
+                            Projects in Disputed Areas OP/BP No
+                            7.60
+
+                         II. Key Safeguard Policy Issues and Their Management
+                             A. Summary of Key Safeguard Issues
+                            1. Describe any safeguard issues and impacts associated with the Restructured project.
+                              Identify and describe any potential large scale, significant and/or irreversible impacts:
+                               In accordance with the requirement of a Category A project, a comprehensive ESIA was carried
+                              for the Helwan South Power Plant. The site belongs to Upper Egypt Electricity Production
+                              Company (UEEPC), which has been allocated to the UEEPC by a Presidential Decree dated 14
+                              February 2010 for the development of the Helwan South power plant. The proposed power plant
+                              will consist of three supercritical thermal steam units, with a nominal electricity generating
+                              capacity of 650 megawatts (MWe) each. The overall generating capacity of the power plant will be
+                              1950MWe. The power plant will utilize natural gas as its primary fuel, and also have the
+                              capability to operate using mazout (heavy fuel oil).
+
+                             The site is located within a bare sandy area of uncultivated land and is owned by the Upper Egypt
+                             Electricity Production Company (UEEPC). Two physiographic zones occupy this area: a
+
+                                                                      Page 5 of 13
+                         floodplain adjacent to the Nile, and a rocky desert plateau east of the floodplain. The overall
+                         proposed site area is approximately 378,000 m2. The site is predominantly desert with some
+                         agricultural land adjacent to it located between the planned plant and the Nile river. There are no
+Public Disclosure Copy
+
+
+
+
+                         human settlements within two kilometer of the power plant site and no evidence of past industrial
+                         or commercial activity. The field surveys have indicated that there are no floral and faunal
+                         communities and/or species are of conservation value (rare or threatened), including natural
+                         habitats or cultural properties within the project's area of influence.
+
+                         The ESIA of power plant indicates that environment and social impacts will not be significant or
+                         irreversible, which will be mitigated by effective implementation of an Environment and Social
+                         mitigation and monitoring plan. Most impacts will be construction related, which will include dust
+                         from construction activities, noise and vibration from construction activities and traffic disruptions
+                         to road users.
+
+                         The land acquisition needs for this project do not require relocation of anyone (no housing) and
+                         OP 4.12 related impacts are minor. The project triggers the Bank’s social safeguard policy, OP
+                         4.12 on Involuntary Resettlement, and the implementing agencies (EEHC/UEEPC and GASCO)
+                         have prepared two Resettlement Policy Frameworks (RPFs), covering their respective project
+                         components with RAP preparation underway. The largest land requirement is about 90 feddan (1
+                         feddan = 1.03 acres) for the power plant itself. There is no need for permanent land acquisition for
+                         the gas pipeline that supplies the power plant with fuel (except for 16 small plots for valve rooms)
+                         or for the electric transmission line carrying away the electricity generated by the plant to the
+                         national electric grid. There is a strip of farm land – 35 fedans, 1 quirat, and 9 sahm in size --
+                         between the plant site and the Nile river, owned or used by 32 families . UEEPC is in the process
+                         of acquiring this land on a “willing-buyer/willing-seller�? basis. If for some reason UEEPC is
+                         unable to acquire the land through “willing-buyer/willing-seller�? transactions, it will resort (to the
+                         extent necessary) to the process of involuntary acquisition and will prepare a RAP, consistent with
+                         the RPF which has already been prepared. (One fedan has 24 quirats, and one quirat has 24
+                         sahms. Twenty nine plots, with total size of 29 fedans, 13 quirats, and 8 sahms are owned by the
+Public Disclosure Copy
+
+
+
+
+                         respective 29 families. Two plots, one 20 quirats in size and the other 1 fedan and 17 quirats large,
+                         have been traditionally used by two families, but the families have not been able to present proofs
+                         of ownership, so the plots are for the time being listed as government-owned. One plot of 2 fedans
+                         23 quirats and 1 sahm in size was given to a family under the “agrarian reform�?).
+
+                         The environmental impacts of associated infrastructure such as gas pipeline, transmission lines,
+                         potable water connections and access road are expected to be localized, short lived, and reversible.
+                         Mitigation measures have been provided by adequate institutional arrangements and budget for
+                         effective implementation, supervision and monitoring. Mitigation, monitoring and management
+                         measures proposed to be adopted by UEEPC are detailed in the tables in ESIA report. These
+                         requirements will be included as conditions of contract on the contractor and any sub-contractors
+                         employed to build or operate any part of the power plant.
+
+                         The ESIA indicates availability of sufficient quantity of water from the Nile river for the proposed
+                         project, as well as the existing power projects upstream and downstream of the Helwan South
+                         power plant. The ESIA indicates that the water requirement is 82,861 m3/hr out of which cooling
+                         water for the Helwan South power plant will be abstracted from the Nile River at the rate of 23
+                         m3/sec per unit, i.e. 82,800 m3/hr. From 82,800 m3/hr amount of cooling water, 57.96 m3/hr is
+                         consumed while the res t will be returned to the Nile river. This means that actual water
+                         consumption is around 0.07% of the abstracted water. The flow in Nile river varies between
+
+                                                                    Page 6 of 13
+                         60-250 million m3/day with average seasonal flow of water in the Nile River is as follows:
+                         Minimum flow (Winter time): 60 million m3/day at a MSL of 21.28m (6.63% of the Nile total).
+                         Dominant flow (Average time): 90 million m3/day at a MSL of 23.63m (4.42% of the Nile total).
+Public Disclosure Copy
+
+
+
+
+                         Maximum flow (Summer time): 250 million m3/day at a MSL of 24.36m (1.59% of the Nile total).
+                         The ESIA indicates that water requirements (for both service and cooling) at Helwan South are not
+                         expected to cause significant adverse environmental impacts or affect the capacity of other
+                         downstream users
+
+                         Potable water will be supplied to the power plant via the power plant water supply system.
+                         Cooling water will be returned to the Nile River via a discharge structure whilst waste process
+                         water will be disposed of after treatment via discharge system, which includes two pathways:
+                         plantation irrigation network and Circulating Water Discharge System (CWDS). Sanitary waste
+                         water will be disposed of after treatment via plantation irrigation network and the residual sludge
+                         will be transported by trucks to the sewer treatment plant of El-Saff town. No ground water or
+                         other surface water will be used during power plant construction and operation. The contractors
+                         will be responsible for relevant water/toilet facilities during construction and the need to provide
+                         appropriate services will be specified in their contracts. The key potential impacts of the power
+                         plant on the aquatic environment will therefore be impacts to the aquatic flora and fauna during
+                         power plant construction and operation.
+
+                         During operation, exhaust gases, will be emitted into the atmosphere from the boilers’ stacks as a
+                         result of fuel combustion. The EA indicates that the emissions from the combustion of natural gas
+                         will include carbon dioxide (CO2), water vapor, carbon monoxide (CO) and nitrogen oxides
+                         (NOx). Sulfur dioxide (SO2) and particulates which are typically associated with coal and oil
+                         combustion, will only be produced in trace quantities during natural gas firing. In emergencies
+                         when heavy fuel oil (mazout) is used instead of gas, SO2 and particulates will however be key
+                         emissions from the power plant. These emissions will be within the emissions norms stipulated
+                         under the World Bank guidelines, as well as the Egyptian environmental regulations. Heated
+                         cooling water will be discharged into the River Nile via the cooling water discharge structure at a
+Public Disclosure Copy
+
+
+
+
+                         temperature within 3oC at the edge of mixing zone. Process waste water will be treated before
+                         being discharged. Any oil and residual solids will be removed before discharge and the pH of
+                         discharged water maintained at between 6 and 9. Chlorine will be added to the cooling water
+                         system to control bacterial and algal growth on various surfaces and in the cooling water intake.
+                         The cooling water discharge will contain residual quantities of chlorine at concentrations below
+                         the World Bank standard for free chlorine of 0.2 mg/l. Small volumes of solid wastes will be
+                         segregated, collected and disposed of by licensed waste disposal contractors. The power plant will
+                         incorporate a range of measures to eliminate or reduce operational releases within its design and
+                         layout, such as adoption of low NOx burners in the boilers, oil interceptors fitted to the site
+                         drainage system and effluent treatment facilities to treat wastewater prior to discharge. As a result,
+                         the power plant will be designed to meet international environmental standards and comply with
+                         the emission limits of the Arab Republic of Egypt and the World Bank
+
+                         The construction of the Helwan South power plant is expected to generate a maximum noise level
+                         of 55 dB(A) during the day at the fence of the power plant and 50 dB(A) at night. These worst-
+                         case construction noise levels are both within Egyptian and World Bank guidelines, and for most
+                         of the construction periods, the noise levels will be lower than these values. No vibration impacts
+                         are expected beyond 100 meters of the site.
+
+                         The transmission lines will be implemented under a different project by the Egyptian Electricity
+
+                                                                    Page 7 of 13
+                         Transmission Company (EETC) and corresponding ESIA and RPFs have been prepared. These
+                         have been reviewed and cleared for disclosure prior to appraisal of Helwan South Project in
+                         September, 2012 and after incorporation of comments, will be re-disclosed. Permanent land
+Public Disclosure Copy
+
+
+
+
+                         acquisition will be limited only for the land needed for the towers (tower base). The largest tower
+                         requires a parcel of land 25mx25m in size for its base. EETC practice is not to buy the land but to
+                         enter into a long-term lease for tower bases. Each tower has four concrete foundations, with each
+                         foundation requiring a piece of land at most 4mx4m in size; the rest of the tower base can be used
+                         by the owners. A RAP will be prepared to cover all impacts ( both permanent and temporary),
+                         translated and disclosed and compensations paid prior to the start of construction work.
+
+                         Separate ESIAs for the two underground gas pipelines have been completed. The gas pipeline
+                         from the Dahshour compression station to the power plant site will run generally parallel to the
+                         existing 36'' Dahshour-El Koreimat pipeline and along an existing road. For a large section of the
+                         pipeline that is expected to run through desert land, the ESIA does not indicate evidence of any
+                         sensitive habitats; cultural properties, settlements or environmental receptors; or industrial or
+                         commercial activities that may potentially get adversely affected due to construction or operation
+                         of the gas pipeline. Construction of the gas pipeline will reportedly require 20 meter right-of-way
+                         during construction, which may result in temporary inconvenience for farmers and residents in
+                         such areas. The environmental and social impacts are expected to be limited to construction stage,
+                         and may in certain areas include loss of top soil due to excavation, debris disposal, use and
+                         disposal of concrete and brick waste, use and disposal of lubricants and waste oil, dust and noise
+                         generation during construction, and potential damage to existing community/village roads due to
+                         transportation of heavy machinery. The pipeline will be buried below the ground level at a depth
+                         of 2-3 meters. After completion of works, the land will be fully restored to original condition, and
+                         farmers will be allowed to cultivate. There will be some restriction within the right of way with
+                         respect to any future construction of structures that may have potential to damage the pipeline. All
+                         river and water body crossings for the pipeline will use horizontal directional drilling technique to
+                         pass under the river bed, which is an internationally accepted standard practice to minimize
+                         environmental obstruction to water course. The farmers would be compensated in line with
+Public Disclosure Copy
+
+
+
+
+                         established practice in Egypt, prior to initiating any construction works for any temporary loss of
+                         agriculture, in case the losses are unavoidable. The exact alignment of the pipeline is not yet
+                         finalized but communities have been consulted, and are reportedly supportive of the project. The
+                         ESIA for the gas pipeline indicated that most of the impacts will be construction related, which
+                         will be mitigated by implementing Environment and Social Management Plan (ESMP), including
+                         Environment, Health and Safety requirement in conformance with the World Bank/IFC guidelines.
+
+                         The ESIA for the other pipeline which runs from Abu Hommos compressor station to El Nubaria
+                         was carried following the World Bank guidelines. The chosen alignment based on an analyses of
+                         alternatives indicate that the pipeline will start from the outlet of a gas collection unit at Abo
+                         Homos, and runs approximately southeast, parallel to an existing road going through the town of
+                         Basantawy, intersecting El-Mahmoudiya canal, Cairo- Alexandria railway, and Cairo-Alexandria
+                         road near the El-Azmaly estate. The pipeline will cross few roads, railways and canals, which will
+                         be done using horizontal directional drilling techniques to pass under the river bed, which is an
+                         internationally accepted standard practice to minimize environmental obstruction to water course.
+                         As with the Dahshour-Atfeeh pipeline, the ESIA for Abu Hommos-El Nuberai pipeline does not
+                         indicate evidence of any sensitive habitats; cultural properties, settlements or environmental
+                         receptors; or industrial or commercial activities that may potentially get adversely affected due to
+                         construction or operation of the gas pipeline. Following a similar construction practice, the
+                         anticipated environmental and social impacts will be mitigated by implementing an Environment
+
+                                                                   Page 8 of 13
+                           and Social Management Plan, including Environment, Health and Safety requirement in
+                           conformance with the World Bank/IFC guidelines. The farmers would be compensated in line
+                           with established practice for crop compensation in Egypt, prior to initiating any construction
+Public Disclosure Copy
+
+
+
+
+                           works for any temporary loss of agriculture, in case the losses are unavoidable.
+                         2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+                           in the project area:
+                            No long-term or irreversible indirect impacts are anticipated from the project activities, provided
+                           that the mitigation measures proposed in the ESMP are implemented.
+                         3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+                           impacts.
+                            The “no-action�? alternative was considered, which indicated that this option will result in the
+                           huge increase in demand for electricity exceeding supply, with an increasing deficit as demand
+                           increases in future years. A lack of a secure and reliable electricity generation and supply system
+                           has significant social and economic implications, since it will: constrain existing and future
+                           economic development and investment through lack of energy resources to meet industrial
+                           demand; restrict socio-economic development through lack of electricity supply, or poor reliability
+                           and shortages in electricity supply for domestic users, community and other public facilities and
+                           public services; inhibit provision of social services, including public health and poverty
+                           eradication. As a result, the "no action" option is not a viable or acceptable alternative to the
+                           proposed project.
+
+                          Before selecting gas/oil-fired combined cycle technological option for Helwan South Plant, the
+                          ESIA analyzed various alternatives of fuel, (gas, oil etc); technology (such as gas/oil-fired steam
+                          units; gas/oil-fired combined cycle units; gas/oil-fired simple cycle combustion turbine units;
+                          pumped storage; nuclear generation; wind farms; and integrated solar-thermal generating units
+                          etc). The ESIA also considered three alternative sites: Safaga, Sharm esh-Sheikh, and Helwan
+                          South. The Helwan South was selected as the best compromise, considering various economic and
+                          non-economic factors, including – inter alia – the scale and scope of environment and social
+Public Disclosure Copy
+
+
+
+
+                          impacts and overall infrastructure requirements and cost.
+
+                           Other alternative technologies and fuels were considered in addition to other possible options such
+                           as importing electricity: renewable energy; rehabilitation of existing power plants; transmission
+                           and distribution investments; BOOTs/IPPs. It was determined that the optimal option would be the
+                           gas/oil-fired supercritical steam units of a net 3x650 MWe generating capacity at Helwan South.
+                         4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+                           assessment of borrower capacity to plan and implement the measures described.
+                            The Project Management Units of the respective implementing agencies will have the overall
+                           responsibility for implementation of Environment and Social Management Plan and the RPF.
+
+                          During construction of the power plant, Project Management Unit/Environmental Management
+                          Staff (PMU/EMS) and the Assistant Plant Manager in collaboration with the Consultant Site
+                          Manager will ensure that all contracts with Contractors and sub-contractors stipulate all
+                          construction management measures (as given in this ESMP), operational design criteria and
+                          environment, health and safety standards which must be implemented at the project site.
+
+                          During operation, direct responsibility for environmental compliance and the implementation of
+                          the mitigation, management and monitoring measures will continue to be with the Plant
+
+
+                                                                     Page 9 of 13
+                           Environmental Staff under direct supervision of the Assistant Plant Manager. This position, will
+                           report directly to the Chairman/General Manager of UEEPC/HPP. All staff employed at the plant
+                           will be trained in general operation of the power plant; occupational health and safety; and
+Public Disclosure Copy
+
+
+
+
+                           contingency plans and emergency procedures.
+
+                           The gas pipeline part shall be implemented by the Egyptian Natural Gas Company (GASCO), an
+                           affiliate of the Egyptian Natural Gas Holding Company (EGAS), which owns a majority share.
+                           The company has developed capacity at corporate level on Environment Management as part of its
+                           long term involvement in the sector. The responsibility for environmental management falls under
+                           a senior officer designated as Assistant Chairman for Safety and Environment, who supervises a
+                           General Manager for Environmental Protection and five environmental specialists. The company
+                           also has an Environmental Policy, which focus on continual improvement in EHS performance of
+                           all activities of their business. The company will follow its corporate policy that requires regular
+                           environmental audits and inspections to ensure that an Environmental Management System is
+                           implemented according to set objectives and targets, as well as monthly and quarterly reporting on
+                           environmental performance. As part of the project, GASCO will be responsible for
+                           implementation and monitoring of environmental and social management plan, including
+                           Resettlement Action Plan (as required) of the natural gas pipeline. The Environmental Department
+                           of GASCO is staffed by 5 qualified environment specialists who are trained in environmental
+                           auditing, environmental impact assessments for industrial establishments and environmental
+                           legislation. These specialists will be responsible for ensuring effective implementation,
+                           monitoring, reporting and consultation during each step of project designs, tenders evaluation,
+                           phasing of implementation and construction of the project component.
+                         5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+                           on safeguard policies, with an emphasis on potentially affected people.
+                             In order to ensure that the views and interests of all project stakeholders are taken into account,
+                           public consultation was carried out according to the Egyptian guidelines, which require
+                           coordination with other government agencies involved in the ESIA as well as obtaining views of
+Public Disclosure Copy
+
+
+
+
+                           local people and affected groups. The adopted methodology for the public consultation, which
+                           conforms to Egyptian guidelines and World Bank requirements, comprises of:
+
+                           (a) Consultation undertaken by ECG, EEHC and UEEPC with a variety of organizations to assist
+                           them in the identification of environmental and social concerns and the overall development of the
+                           project. The purpose of these consultations was primarily to provide information regarding the
+                           project, identify published and non-published sources of relevant data and information relating to
+                           the site and surrounding area, obtain views on the scope of the project, and open channels for
+                           ongoing discussions.
+
+                            (b)     Consultation during the ESIA Process: A scoping session for this ESIA undertaken by
+                           ECG in collaboration with the EEHC and UEEPC, took place on Wednesday, 24 November 2010
+                           during which a wide selection of personnel from different orientations contributed actively to its
+                           activities. The key objectives of these consultations were to identify primary and secondary
+                           stakeholders, ensure that they had received sufficient information about the project during earlier
+                           consultation activities and to identify their immediate concerns.
+
+                            (c)    Mini-meetings with Affected Stakeholders: Several mini-meetings were held with
+                           different groups of affected stakeholders in order to take their viewpoints into consideration. Such
+                           stakeholders included part-time fishermen along the Nile River at about 7-8 km downstream of the
+
+
+                                                                     Page 10 of 13
+                           proposed site, the Atfieh and El-Kureimat area representatives, Atfieh and other Associations for
+                           Services, Local District Administration, General Authority for Fishery Development and three
+                           active NGOs in the Helwan zone, Es-Saff town, and Es-Saff area. The objectives of these
+Public Disclosure Copy
+
+
+
+
+                           meetings were to: (i) inform interested groups and individuals about the proposed development, its
+                           potential impacts, and measures which will be implemented to reduce adverse environmental and
+                           social impacts. (ii) provide opportunities for timely feedback; (iii) clarify any misunderstandings
+                           about the scope and impacts of the project and increase public confidence in the proposed
+                           development; and (iv) contribute to an increased awareness and understanding of project plans and
+                           activities.
+
+                           A three-stage phase public consultations process was followed for the power plant to ensure that
+                           all stakeholders and interested parties, have been fully informed of the proposed project, and to
+                           give stakeholders the opportunity to voice their concerns. The first phase mentioned above,
+                           focused on getting public inputs during the during scoping and preparation of this ESIA report,
+                           including the organization of a Public Scoping Meeting on 24 November 2010, in the Helwan
+                           Governorate. This was followed by continuous consultation including a series of mini-meetings
+                           (see below) during the preparation of ESIA and the RPF. A final stage consultation was organized
+                           on 16 March 2011, at the Kureimat Power Plant site, which was publicized through a press
+                           advertisement in Al-Ahram Newspaper (on 7 March 2011) describing the project and inviting
+                           interested parties to attend the public meeting and review the draft final ESIA Report. A Non
+                           Technical Summary (in Arabic) was distributed along with an invitation letter prior to consultation
+                           meeting. The ESIA was finally revised incorporating comments and suggestion received during
+                           the consultation meeting. For Abu Hommos Nubaria pipeline a public consultation meeting was
+                           held on Wednesday, May 25th, 2011 in the town of Damanhour. The meeting provided broad
+                           support to the pipeline and the power project, including mitigation measures as outlined in the
+                           ESIA report. A non-technical summary of the ESIA report was presented to a large group of
+                           stakeholders, and questions and comments were received at the meeting were incorporated in the
+                           revised ESIA. Finally, the draft ESIA Report and the Executive Summary, including ESMP and
+                           the RPF were publicly disclosed locally and via the Bank Infoshop.
+Public Disclosure Copy
+
+
+
+
+                           For Abu Hommos Nubaria gas pipeline a public consultation meeting was held on Wednesday,
+                           May 25th, 2011 in the town of Damanhour, and for Dahshour Atfeeh pipeline on Saturday, April
+                           9, 2011 in Maymoun village, Beni Suef. The meetings provided broad support to the pipelines and
+                           the power project, including mitigation measures as outlined in the ESIA report. Non-technical
+                           summaries of the ESIA reports were presented to a large group of stakeholders, and questions and
+                           comments were received at the meeting were incorporated to revise and disclose the ESIA reports.
+
+                           The construction and implementation of this power plant triggers a World Bank Safeguards policy
+                           on Projects on International Waterways (OP 7.50). Therefore, the Bank on October 13, 2011
+                           notified the riparian states (Burundi, Democratic Republic of Congo, Ethiopia, Eritrea, Kenya,
+                           Rwanda, Southern Sudan, Sudan, Tanzania, and Uganda) that the Government of Egypt is
+                           currently preparing a power project in Helwan South and requested that their comments, if any, be
+                           provided to the Bank by November 14, 2011. No comments were received during the notification.
+                           Pursuant to the requirements of OP 7.50 and on the basis of the Bank team’s assessment that the
+                           project activities will not cause appreciable harm to the other riparian states, the MNA regional
+                           Vice President gave approval on February 3, 2012 to proceed with preparation of the project for
+                           Bank financing.
+                         B. Disclosure Requirements
+
+
+                                                                    Page 11 of 13
+                         Environmental Assessment/Audit/Management Plan/Other
+                           Date of receipt by the Bank                                      17-Aug-2011
+                           Date of submission to InfoShop                                   17-Aug-2011
+Public Disclosure Copy
+
+
+
+
+                           For category A projects, date of distributing the Executive      29-Aug-2011
+                           Summary of the EA to the Executive Directors
+                         "In country" Disclosure
+                           Egypt, Arab Republic of                                          20-Jul-2011
+                           Comments:
+                          Resettlement Action Plan/Framework/Policy Process
+                           Date of receipt by the Bank                                      17-Aug-2011
+                           Date of submission to InfoShop                                   17-Aug-2011
+                         "In country" Disclosure
+                           Egypt, Arab Republic of                                          20-Jul-2011
+                           Comments:
+                         If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+                         respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+                         Audit/or EMP.
+                         If in-country disclosure of any of the above documents is not expected, please explain why:
+
+
+                         C. Compliance Monitoring Indicators at the Corporate Level
+                         OP/BP/GP 4.01 - Environment Assessment
+                          Are the cost and the accountabilities for the EMP incorporated     Yes [   ]   No [   ]   NA [   ]
+                          in the credit/loan?
+                         OP/BP 4.12 - Involuntary Resettlement
+Public Disclosure Copy
+
+
+
+
+                          If yes, then did the Regional unit responsible for safeguards or   Yes [   ]   No [   ]   NA [   ]
+                          Sector Manager review the plan?
+                         OP 7.50 - Projects on International Waterways
+                          Has the RVP approved such an exception?                            Yes [   ]   No [   ]   NA [   ]
+                         The World Bank Policy on Disclosure of Information
+                          Have relevant safeguard policies documents been sent to the        Yes [   ]   No [   ]   NA [   ]
+                          World Bank's Infoshop?
+                          Have relevant documents been disclosed in-country in a public      Yes [   ]   No [   ]   NA [   ]
+                          place in a form and language that are understandable and
+                          accessible to project-affected groups and local NGOs?
+                         All Safeguard Policies
+                          Have satisfactory calendar, budget and clear institutional         Yes [   ]   No [   ]   NA [   ]
+                          responsibilities been prepared for the implementation of
+                          measures related to safeguard policies?
+                          Have costs related to safeguard policy measures been included      Yes [   ]   No [   ]   NA [   ]
+                          in the project cost?
+
+
+
+
+                                                                    Page 12 of 13
+                             Does the Monitoring and Evaluation system of the project      Yes [    ]   No [   ]   NA [   ]
+                             include the monitoring of safeguard impacts and measures
+Public Disclosure Copy
+
+
+
+
+                             related to safeguard policies?
+                             Have satisfactory implementation arrangements been agreed     Yes [    ]   No [   ]   NA [   ]
+                             with the borrower and the same been adequately reflected in
+                             the project legal documents?
+
+                         III. APPROVALS
+                            Task Team Leader: Waleed Saleh I. Alsuraih
+                            Approved By
+                            Regional Safeguards Name: Maged Mahmoud Hamed (RSA)                    Date: 15-Aug-2012
+                            Coordinator:
+                            Sector Manager:     Name: Charles Joseph Cormier (SM)                  Date: 24-Apr-2013
+Public Disclosure Copy
+
+
+
+
+                                                                     Page 13 of 13
+

@@ -1,0 +1,267 @@
+                                  The World Bank
+                                  SUPPORT TO PREPARATION AND IMPLEMENTATION OF THE 2019 POPULATION CENSUS IN BELARUS
+
+
+
+
+                                                  Integrated Safeguards Data Sheet
+                                                Identification / Concept Stage (ISDS)
+Public Disclosure Copy
+
+
+
+
+                                              Concept Stage | Date ISDS Prepared/Updated: 18-Jun-2018 | Report No: ISDSC24822
+
+
+
+
+                         Jun 19, 2018                                                                                           Page 1 of 6
+                                  The World Bank
+                                  SUPPORT TO PREPARATION AND IMPLEMENTATION OF THE 2019 POPULATION CENSUS IN BELARUS
+
+
+
+                          BASIC INFORMATION
+
+                           A. Basic Project Data
+
+                           Project ID                        Project Name                   Environmental Category       Country
+                                                             SUPPORT TO
+                                                             PREPARATION AND
+                           P167583                           IMPLEMENTATION OF THE          C - Not Required (C)         Belarus
+                                                             2019 POPULATION CENSUS
+                                                             IN BELARUS
+                           Team Leader(s)                    Estimated Date of Approval     Managing Unit                Financing Instrument
+                                                                                                                         Investment Project
+                           Alexandru Cojocaru                                               GPV03
+                                                                                                                         Financing
+Public Disclosure Copy
+
+
+
+
+                          PROJECT FINANCING DATA (US$, Millions)
+
+                           SUMMARY                -NewFin1
+
+
+
+
+                           Total Project Cost                                                                                                        1.90
+                           Total Financing                                                                                                           1.90
+                           Financing Gap                                                                                                             0.00
+
+                           DETAILS  -NewFinEnh1
+
+
+
+
+                           Non-World Bank Group Financing
+                              Trust Funds                                                                                                           1.90
+                                  Program to Support Statistical Capacity Building in ECA                                                           1.90
+
+
+                           B. Project Development Objective(s)
+                           The project supports methodological and technological innovations for the 2019 Population Census, including (i)
+                           transition to computer assisted personal interviewing (CAPI); (ii) exploring the feasibility of internet self-interviewing;
+                           and (iii) enhancing the usability of spatial information from the Population Census through modern GIS technologies.
+
+                           C. Project Description
+                           The project has two main components: (i) preparing the national statistical system for the Population Census;
+                           and (ii) ensuring access to the non-confidential Population Census data and indicators. Activities for each of
+                           the 2 project components are described below.
+
+                           Component 1: Preparing the national statistical system for the Population Census
+
+
+                         Jun 19, 2018                                                                                                           Page 2 of 6
+                                  The World Bank
+                                  SUPPORT TO PREPARATION AND IMPLEMENTATION OF THE 2019 POPULATION CENSUS IN BELARUS
+
+
+
+
+                           Outcome 1.1 Methodological support to population census is improved.
+
+                           Activities
+
+                           1.1.1 Provision of international expertise on the methodology of collection, transmission and processing of
+                           the census data (including questions on agricultural activities), use of administrative sources at pre-
+                           enumeration and data processing stages; use of GIS technology for preparing cartographic materials.
+
+                           1.1.2 Visits of the Demographic Statistics and Population Census Department staff to the Central European
+                           countries to study the experience of preparation for and conducting of the population census.
+
+                           1.1.3 Elaboration of a census evaluation program based on the recommendations of a relevant international
+                           expert and taking into account financial and human resources available at Belstat and WB funds allocated for
+                           the census evaluation according to the project budget. The census evaluation program can include quality
+Public Disclosure Copy
+
+
+
+
+                           analysis of collected information and the process of its collection on the basis of monitoring of the census
+                           operation, data from administrative sources, demographic analysis (comparison of the current and previous
+                           census results in the context of demographic processes).
+
+                           1.1.4 Post-enumeration survey, demographic analysis.
+
+                           Outcome 1.2 Technical/technological support of the population census is improved.
+
+                           Activities
+
+                           1.2.1 Provision of expertise on technical and technological aspects:
+
+                           (i) collection, transmission and processing of census data, including assessment of capabilities of national and
+                           international institutes and companies for the development of AIS “Census 2019”; drafting a terms of
+                           reference for the development of AIS “Census 2019”; formulating tender conditions for selecting a contractor
+                           for the development of AIS “Census 2019”;
+
+                           (ii) use of GIS in the process of census preparation, collection and processing of census data, and
+                           development of information products for potential users of the census results (geostatistical portal);
+
+                           (iii) self-enumeration using the Internet.
+
+                           1.2.2 Development of subsystem for storage and processing of census data.
+
+                           1.2.3. Purchase of ORACLe DBMS products required for data storage and processing subsystem functioning.
+
+                           1.2.4. Acquisition of the necessary equipment for collection, transmission and processing of the census data.
+                           This will be performed on the basis of Belstat’s request after specifying the needs for equipment.
+
+
+
+
+                         Jun 19, 2018                                                                                               Page 3 of 6
+                                  The World Bank
+                                  SUPPORT TO PREPARATION AND IMPLEMENTATION OF THE 2019 POPULATION CENSUS IN BELARUS
+
+
+
+
+                           1.2.5. Development of software application for self-enumeration via the Internet.
+
+                           Outcome 1.3 Population census promotion and outreach strategy is developed.
+
+                           Activities
+
+                           1.3.1 Public awareness campaign, including the following components:
+
+                           (i) organization of press conferences, “round tables”, briefings, scientific conferences;
+
+                           (ii) public addresses of persons involved in the census preparation and operation in the mass media or
+                           personally;
+
+                           (iii) informing the population by means of efficient advertising and active information distribution programs
+Public Disclosure Copy
+
+
+
+
+                           about the population census in the mass media;
+
+                           (iv) organizing and advertising support of special projects for individual target groups;
+
+                           (v) distribution of information messages, leaflets, posters, promo videos, etc.
+
+                           Component 2: Ensuring access to the non-confidential Population Census data and indicators
+
+                           Outcome 2.1 Final census results are prepared for publication and dissemination at the national and
+                           international levels.
+
+                           Activities
+
+                           2.1.1 Evolving of the automated information system “System of access to the 2009 population census results
+                           via the Internet” by complementing it with the 2019 population census data.
+
+                           2.1.2 Development of a geostatistical portal for integrating census data with digital maps, statistical analysis
+                           and modeling.
+
+
+
+
+                           SAFEGUARDS
+
+
+                          D. Project location and salient physical characteristics relevant to the safeguard
+                          analysis (if known)
+
+
+
+                          E. Borrower’s Institutional Capacity for Safeguard Policies
+
+
+
+                         Jun 19, 2018                                                                                                Page 4 of 6
+                                  The World Bank
+                                  SUPPORT TO PREPARATION AND IMPLEMENTATION OF THE 2019 POPULATION CENSUS IN BELARUS
+
+
+
+
+                          No safeguards policies triggered
+
+
+
+                          F. Environmental and Social Safeguards Specialists on the Team
+                          Arcadii Capcelea, Environmental Safeguards Specialist
+                          Aimonchok Tashieva, Social Safeguards Specialist
+
+
+                          G. Policies that might apply
+                          Safeguard Policies Triggered by the Project             Triggered?             Explanation (Optional)
+                                                                                               The grant will not finance any activities,
+                                                                                               including any civil works, that might
+Public Disclosure Copy
+
+
+
+
+                          Environmental Assessment OP/BP 4.01               No
+                                                                                               generate direct or indirect environmental
+                                                                                               and social impacts.
+                          Natural Habitats OP/BP 4.04                       No
+                          Forests OP/BP 4.36                                No
+                          Pest Management OP 4.09                           No
+                          Physical Cultural Resources OP/BP 4.11            No
+                          Indigenous Peoples OP/BP 4.10                     No
+                          Involuntary Resettlement OP/BP 4.12               No
+                          Safety of Dams OP/BP 4.37                         No
+                          Projects on International Waterways OP/BP 7.50    No
+                          Projects in Disputed Areas OP/BP 7.60             No
+
+
+                          H. Safeguard Preparation Plan
+
+                          Appraisal stage ISDS required? No
+
+
+                           APPROVALS
+
+                            Team Leader(s):                         Alexandru Cojocaru
+
+                           Approved By
+
+                            Safeguards Advisor:                     Brandon Enrique Carter             18-Jun-2018
+
+                            Practice Manager/Manager:               Luis-Felipe Lopez-Calva            18-Jun-2018
+
+
+
+                         Jun 19, 2018                                                                                               Page 5 of 6
+                                  The World Bank
+                                  SUPPORT TO PREPARATION AND IMPLEMENTATION OF THE 2019 POPULATION CENSUS IN BELARUS
+
+
+
+
+                          1Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) by the Bank and (ii) in country
+                          by the Borrower/Recipient, at publicly accessible locations and in a form and language that are accessible to potentially affected persons.
+Public Disclosure Copy
+
+
+
+
+                         Jun 19, 2018                                                                                                                              Page 6 of 6
+

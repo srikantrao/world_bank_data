@@ -1,0 +1,205 @@
+                                           INTEGRATED SAFEGUARDS DATA SHEET
+                                              IDENTIFICATION / CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                              Report No.: ISDSC19865
+
+                         Date ISDS Prepared/Updated: 09-Sep-2016
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:             Uzbekistan                     Project ID:      P161618
+                            Project Name:   Support to the Land Administration and Geospatial System Modernization
+                                            Project
+                            Team Leader(s): Anna Corsi
+                            Estimated Date 01-Nov-2016
+                            of Approval:
+                            Managing Unit:       GSULN                          Lending          IPF
+                                                                                Instrument:
+                            Financing (in USD Million)
+                            Total Project Cost: 1.557                         Total Bank Financing: 0
+                            Financing Gap:      0
+                              Financing Source                                                                          Amount
+                              Korea WB Partnership Facility                                                               1.557
+                            Environment       C - Not Required
+                            Category:
+Public Disclosure Copy
+
+
+
+
+                           B. Project Development Objective(s)
+                           The proposed Development Objective is to build the capacity of the State Committee for Land
+                           Resources, Geodesy, Cartography and State Cadastre (GKZGDK) to manage the development and
+                           maintenance of the computerized systems for land administration and geospatial information
+                           management.
+
+                           The TA project would accomplish this through the training of GKZGDK staff in the digitization of
+                           land administration records and the adoption of modern fit-for-purpose ICT and geospatial
+                           technologies.
+                           C. Project Description
+                           The proposed TA project would finance the delivery of a comprehensive capacity building program
+                           that will allow Uzbekistan to develop the necessary skills and knowledge to establish a digital
+                           geospatial information system, in particular through the MRPRC Project, according to the country's
+                           needs. More importantly, such support will ensure the sustainability of the new electronic system,
+                           including maintenance, management, expansion and upgrade. It will also be critical to enable the
+                           country to take the lead on parallel or subsequent reforms in support of eGovernment initiatives and
+                           private sector development that are based on the use of digital land and geospatial information and
+                           for which reliance only on foreign technology transfer is not realistic.
+                         The core elements of the capacity building program will be: (i) provision of continuous, on the
+                         ground technical assistance to support GKZGDK in the implementation of the MRPRC project
+Public Disclosure Copy
+
+
+
+
+                         components; and (ii) design and implementation of a targeted training program.
+
+                         Component 1: Technical Assistance
+
+                         1.A Real Property Registration and Cadastre System Development. This sub-component would
+                         support GKZGDK in managing the incremental development and roll-out of a new ICT-based
+                         Integrated Information System for Real Property Registration and Cadastre (IISRPRC), including the
+                         development of IISRPRC's infrastructure and improved operational environment, procedures, service
+                         standards and applications. In particular, the TA will provide advice and transfer of knowledge on:
+                         (i) the development and maintenance of a reliable e-system for the management of geospatial data
+                         and property rights, including the development of technical specifications; (ii) quality control over
+                         the products delivered by the contractors, as per technical specifications, including technical support
+                         for auditing, evaluating, and testing of the e-system and ensuring quality technical documentation;
+                         (iii) the establishment of an ICT Competence Center (domain and system analysts, software
+                         developers, database and Geographic Information System (GIS) specialists, system and network
+                         administrators), including a mechanism for the continuous knowledge transfer from the ICT system
+                         developer to the Center.
+
+                         Expected outputs:
+                         In-country technical assistance including:
+                          -      Business process review manual;
+                            -    Technical specifications for IISRPRC system development and upgrade guidance;
+                          -      Quality Control manuals;
+                            -    ICT training and knowledge transfer;
+                            -    ICT Competence Center business plan; and
+                         -       Identification of legal changes for the operationalization of the new web-based IISRPRC.
+Public Disclosure Copy
+
+
+
+
+                         1.B Real Property Registration and Cadastre Data Development. This sub-component would support
+                         GKZGDK in the digitization of current manual property registration and cadastre records (including
+                         both attribute and geospatial data) for the new IISRPRC. The TA will focus on (i) supporting the
+                         planning, management, monitoring, and implementation of the mass digitization process. In
+                         particular, the TA will provide advice and recommendation on the development of technical
+                         specifications and the methodology for the digitization process, as well as quality control and
+                         acceptance activities for the digitization of geospatial data. It will also support GKZGDK's in-house
+                         campaign for integration and conversion of digital textual and graphic data into IISRPRC, and the
+                         migration, harmonization and population of the uniform IISRPRC database.
+
+                         Expected outputs:
+
+                         -       Data assessment guidelines;
+                         -       Mass digitization methodology development and manual;
+                         -       Quality Control development and manual;
+                         -       Mass digitization training.
+
+                         1.C Use of Real Property Registry and Cadastre Data. The TA would provide support for enhancing
+                         public on-line use of IISRPRC data and the development of a modern framework and technological
+                           platform in compliance with the country's eGovernment Master Plan. In particular, the TA would
+                           support: (i) the preparation of a strategy that will define the infrastructure, data formats, standards
+                           and initial services to provide on-line access and sharing of geospatial data for authorities, business
+Public Disclosure Copy
+
+
+
+
+                           entities, organizations and citizens; and (ii) the development of necessary legislation, institutional
+                           agreements and guidelines for the establishment of a National Spatial Data Infrastructure (NSDI),
+                           including a national Geoportal to access land and spatial information.
+
+                           Expected outputs:
+
+                           -       Input into and revision of the draft spatial data sharing strategy, standards, specifications,
+                           guidelines, services, and interaction and data sharing arrangements;
+                           -       Input into the preparation and revision of the technical specifications for the development of
+                           a national Geoportal.
+
+                           Component 2: Training.
+
+                           This component would focus on the design of a targeted training and knowledge transfer program for
+                           the benefit of both institutional and private sector stakeholders. This program would include, among
+                           other, training on:
+
+                           -       ICT project and contract management;
+                           -       Development and maintenance of the electronic integrated registry and cadastre system;
+                           -       Project management;
+                           -       Raising the awareness on advantages of the digital work;
+                           -       Customer-orientation;
+                           -       Use of the new registration system by staff, surveyors, and notaries;
+                           -       Strategic and business planning;
+                           -       Digitization, quality control of spatial and land administration data.
+Public Disclosure Copy
+
+
+
+
+                           Expected outputs:
+
+                           -       Training needs assessment;
+                           -       Training plan; and
+                           -       Study tours.
+                           D. Project location and salient physical characteristics relevant to the safeguard
+                           analysis (if known)
+                           The proposed TA project is only funding capacity building work of a State institution with no works
+                           on the ground. The project does not trigger any environmental or social safeguards, as there is no
+                           land acquisition involved or other activities resulting in changes to land ownership, access or tenure.
+                           E. Borrower’s Institutional Capacity for Safeguard Policies
+                           Not applicable
+
+                           F. Environmental and Social Safeguards Specialists on the Team
+
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+                           Safeguard Policies                           Triggered?           Explanation (Optional)
+                           Environmental Assessment OP/                 No
+Public Disclosure Copy
+
+
+
+
+                           BP 4.01
+                           Natural Habitats OP/BP 4.04                  No
+                           Forests OP/BP 4.36                           No
+                           Pest Management OP 4.09                      No
+                           Physical Cultural Resources OP/              No
+                           BP 4.11
+                           Indigenous Peoples OP/BP 4.10                No
+                           Involuntary Resettlement OP/BP               No
+                           4.12
+                           Safety of Dams OP/BP 4.37                    No
+                           Projects on International                    No
+                           Waterways OP/BP 7.50
+                           Projects in Disputed Areas OP/BP             No
+                           7.60
+
+                         III. SAFEGUARD PREPARATION PLAN
+                               Appraisal stage ISDS required?: No
+                         IV. APPROVALS
+                           Team Leader(s):                  Name: Anna Corsi
+                           Approved By:
+                           Safeguards Advisor:              Name: Nina Chee (SA)                                               Date: 19-Sep-2016
+Public Disclosure Copy
+
+
+
+
+                           Practice Manager/                Name: Jorge A. Munoz (PMGR)                                        Date: 19-Sep-2016
+                           Manager:
+
+
+
+                           1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the
+                           InfoShop and (ii) in country, at publicly accessible locations and in a form and language that are accessible to potentially
+                           affected persons.
+

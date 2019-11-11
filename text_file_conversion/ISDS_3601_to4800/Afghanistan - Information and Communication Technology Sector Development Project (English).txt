@@ -1,0 +1,359 @@
+Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+I.  Basic Information
+ 
+Date prepared/updated:  02/23/2011 
+Report No.:  AC6099
+1. Basic Project Data  
+ 
+Country:  Afghanistan 
+Project ID:  P121755 
+Project Name:  Afghanistan ICT sector development 
+Task Team Leader:  Tenzin Dolma Norbhu 
+Estimated Appraisal Date: February 26, 
+2011 
+Estimated Board Date: April 26, 2011 
+Managing Unit:  TWICT 
+Lending Instrument:  Emergency Recovery 
+Loan 
+Sector:  Telecommunications (40%);Information technology (25%);General information 
+and communications sector (25%);Public administration- Other social services (10%) 
+Theme:  Infrastructure services for private sector development (35%);Regulation and 
+competition policy (25%);Other rural development (25%);Small and medium enterprise 
+support (15%) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+50.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER/RECIPIENT 
+0.00
+0.00 
+Environmental Category: B - Partial Assessment 
+Repeater [] 
+ 
+ 
+Is this project processed under OP 8.50 (Emergency Recovery) 
+or OP 8.00 (Rapid Response to Crises and Emergencies) 
+Yes [ ] 
+No [ ] 
+2. Project Objectives 
+The Project Development Objective is to expand connectivity, mainstream the use of 
+mobile applications across the Government, and support the development of the local IT 
+industry.   
+ 
+3. Project Description 
+The Project takes an integrated approach to the development of the ICT sector in 
+Afghanistan. It is composed of four components.  
+ 
+Component 1: Expanding connectivity  
+ 
+This component will finance: (a) technical assistance to MCIT and ATRA to support 
+policy and regulatory reforms that create an enabling environment for rapid broadband 
+network deployment and for even wider access to high quality mobile telephone services; 
+(b) the extension of the national backbone network to central, northeast, and southern 
+provinces of Afghanistan, totalling about 1,000 km, to support the expansion of 
+Page  2
+telephony and Internet services in the central provinces, the northeast, and in the south 
+and allow redundancy for the national backbone network; and (c) capacity building 
+activities for MCIT and ATRA.  
+ 
+Component 2: Mainstreaming mobile applications in Government  
+ 
+This component will finance activities to build on the wide reach and use of mobile 
+telephones in Afghanistan to mainstream the use of mobile telephone-based applications 
+(mobile applications or m-apps) across Government ministries, agencies, and programs. 
+Specifically, the component will finance: (a) technical assistance for the creation of an 
+mGovernment strategy and roadmap, the development of required policy or regulatory 
+instruments to enable the m-apps ecosystem, and capacity building activities; (b) the 
+creation of shared services and infrastructure for use by various ministries, agencies, and 
+programs that will enable less expensive and faster design, testing, deploying, and 
+operation of mGovernment services, including the creation of a service delivery platform 
+(SDP) for mGovernment; and (c) an innovation support program to fund the most 
+innovative ideas selected through competition that address specific development 
+challenges in priority areas identified by various ministries and agencies of the 
+Government.  
+ 
+Component 3: IT industry development  
+ 
+This component will finance: (a) technical assistance for development of an IT sector 
+development strategy and required legal, regulatory, and investment instruments to 
+capture growth opportunities; (b) a skills development program aimed at developing a 
+pool of skilled and qualified IT professionals as a key building block for IT sector 
+development in Afghanistan; (c) consultancy services to develop a business plan for the 
+ICT Village being developed by MCIT; (d) shared services and facilities such as high-
+capacity telecommunications connectivity and backup power supply that will help make 
+the ICT Village an attractive location for Afghan ICT firms; and (e) the setting up of an 
+incubator for ICT firms in the ICT Village and operational support, including rental 
+charges for the incubator space, the acquisition of furniture and some communications 
+facilities for the incubator, and the hiring of an incubator manager.  
+ 
+Component 4: Project management support  
+ 
+This component will finance the creation and functioning of the Project Management 
+Office (PMO) that will become part of the MCIT#s PICU and support MCIT in Project 
+implementation. Responding to the need to build capacity within MCIT#s finance, 
+procurement, and administration departments, this component will also finance training 
+and capacity building activities as well as incentives for high-performing MCIT staff.   
+ 
+4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis 
+The proposal for the fiber optic network construction includes some possible routes for 
+the project (under component 1). MCIT plans to use existing rights of way of the 
+Government including roads and power transmission networks to link-up the following 
+towns with the main OFC Ring:  Shinwari, Siyagard, Shikh Ali, Shibar, Bamyan, 
+Page  3
+Yakolang, Panjab, Lal Sarjangal, Dowlat Yar, Chagcharan, Daikundi, Kunduz, Takhar, 
+Kishm and  Faizabad.   
+ 
+5. Environmental and Social Safeguards Specialists 
+Mr Mohammad Arif Rasuli (SASDI) 
+Mr Abdul Mohammad Durani (SASDI) 
+ 
+6. Safeguard Policies Triggered
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+X
+Natural Habitats (OP/BP 4.04) 
+ X 
+Forests (OP/BP 4.36) 
+ X 
+Pest Management (OP 4.09) 
+ X 
+Physical Cultural Resources (OP/BP 4.11) 
+ X 
+Indigenous Peoples (OP/BP 4.10) 
+ X 
+Involuntary Resettlement (OP/BP 4.12) 
+ X 
+Safety of Dams (OP/BP 4.37) 
+ X 
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X 
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts: 
+NA   
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+There is no land acquisition or resettlement involved in the project. The project will 
+support the development of the fiber optic backbone.  The backbone will be buried along 
+the existing roads using the existing right of way and those being built out in the next 2 
+years, along the Kabul - Bamyan - Chagcharan route; and along the Kunduz - Fayzabad 
+route.  No towers will be built and no land acquired.  The MCIT has implemented 2400 
+km of a fiber optic network and has always coordinated with the Ministry of Public 
+Works, and with the Urban authorities (Municipality Corporations).  All fiber is buried . 
+The backbone will be developed under a turnkey project. The contractor will be required 
+to adhere to all requisite environmental and social safeguards.  The ESMP prepared for 
+the project has an Environment and Social screening and Mitigation Plan to be strictly 
+followed, and implementation monitored. The screening check list and mitigation plan 
+will also be a part of bidding documents and the Bank#s safeguards team will approve the 
+bidding documents for the turnkey contract.  
+ 
+The project will not support any civil works or physical development of the ICT village.  
+The project will not finance any civil works and/or construction.  World Bank will 
+provide: (i) technical assistance support to develop the business plan for establishing the 
+ICT village on a public private partnership basis; (ii) investment support for shared 
+Page  4
+infrastructure in the ICT village (high speed connectivity; back up power facilities 
+(generators); office equipment and facilities for the IT business incubator to be set up in 
+the ICT village.   The ICT village will be accommodated within the limits of the land 
+owned by MCIT at  Yakatoot.    The land for the ICT village is on the Kabul- Jalalabad 
+road.  It already has access to roads and commercial power.  A few families have leased 
+the land for agriculture purposes.  The lease agreement clearly indicates that the families 
+will voluntarily move when MCIT#s private partner commences construction of the ICT 
+village.   
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts. 
+None foreseen at this time.   
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide 
+an assessment of borrower capacity to plan and implement the measures described. 
+A
+simple Environmental and Social Management Plan (ESMP) was prepared which can 
+be used as a checklist to mitigate Environment, Health and Safety aspects of small 
+construction. This ESMP will also be used in the bidding document of the backbone 
+contractor. The Contractor who will be awarded the contract will be responsible for 
+preparation of the site specific ESMP either through a consultant or Environmental 
+Specialist with sufficient knowledge of the environmental and social issues related to the 
+telecommunications sector. Ideally, the consultant should have a strong understanding of 
+the legislative structure of Afghanistan.  
+ 
+An appropriate environmental supervision plan will be developed with clear objectives 
+to ensure the successful implementation of ESMP. The responsibility for monitoring the 
+implementation of the ESMP will be by the environmental specialist engaged by MCIT. 
+Contractors and MCIT staff should be provided with awareness-raising, environmental, 
+and training on site. These should focus on the construction phase of the subcomponents.  
+ 
+A
+Project Management Office (PMO) dedicated to this Project will employ a few 
+international and national consultants and will also include support for safeguards.   
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+The Contractor will be required to consult the Project-affected public (if any) during the 
+preparation of site specific ESMPs. For this, the ESMP prepared for the fiber optic 
+backbone component will be disclosed to the public.  Copies of the ESMP should be 
+made available to relevant communities and interested parties in accessible locations 
+through local government authorities, (e.g., local councils, district offices).  Copies of the 
+ESMP should also be provided to the MCIT and submitted to the World Bank.  This will 
+ensure record keeping and ensure that third-party audits have adequate information when 
+undertaking annual social and environmental audits.  
+ 
+The Project has been identified and is being prepared due to the confluence of demand 
+from a range of stakeholders and programs. The Project has been developed through 
+discussions with the MCIT, ATRA, other ministries and agencies, donors, as well as 
+private sector stakeholders. Officials of MCIT and ATRA have played a central role in 
+defining the scope of and activities included in this Project.  
+Page  5
+Private sector stakeholders and especially the mobile telephone network companies and 
+Internet service providers have also indicated their support for the overall Project 
+concept. Consultation with non-government stakeholders on Project objectives and 
+components has been conducted though the National ICT Alliance of Afghanistan 
+(NICTAA) and with Government stakeholders through the Government CIO training 
+program that was funded by USAID.   
+ 
+B. Disclosure Requirements Date
+ 
+Environmental Assessment/Audit/Management Plan/Other: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+ 
+Date of receipt by the Bank 
+02/22/2011 
+ 
+Date of "in-country" disclosure 
+02/25/2011 
+ 
+Date of submission to InfoShop 
+02/23/2011 
+ 
+For category A projects, date of distributing the Executive 
+Summary of the EA to the Executive Directors 
+ 
+Resettlement Action Plan/Framework/Policy Process: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+Indigenous Peoples Plan/Planning Framework: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+Pest Management Plan: 
+Was the document disclosed 
+prior to appraisal?
+ 
+Date of receipt by the Bank 
+ 
+ 
+Date of "in-country" disclosure 
+ 
+ 
+Date of submission to InfoShop 
+ 
+ 
+*
+If the project triggers the Pest Management and/or Physical Cultural Resources, 
+the respective issues are to be addressed and disclosed as part of the Environmental 
+Assessment/Audit/or EMP. 
+If in-country disclosure of any of the above documents is not expected, please 
+explain why: 
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the 
+ISDS is finalized by the project decision meeting) 
+ 
+OP/BP/GP 4.01 - Environment Assessment 
+ 
+Does the project require a stand-alone EA (including EMP) report? 
+Yes 
+If yes, then did the Regional Environment Unit or Sector Manager (SM) 
+Yes 
+Page  6
+review and approve the EA report? 
+Are the cost and the accountabilities for the EMP incorporated in the 
+credit/loan? 
+Yes 
+The World Bank Policy on Disclosure of Information 
+ 
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+Yes 
+Have relevant documents been disclosed in-country in a public place in a 
+form and language that are understandable and accessible to project-affected 
+groups and local NGOs? 
+No 
+All Safeguard Policies 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities 
+been prepared for the implementation of measures related to safeguard 
+policies? 
+Yes 
+Have costs related to safeguard policy measures been included in the project 
+cost? 
+Yes 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures related to safeguard policies? 
+Yes 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+Yes 
+D. Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Ms Tenzin Dolma Norbhu 
+02/22/2011 
+Environmental Specialist: 
+Mr Mohammad Arif Rasuli 
+02/22/2011 
+Social Development Specialist 
+Mr Abdul Mohammad Durani 
+02/22/2011 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+ 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Sanjay Srivastava 
+02/22/2011 
+Comments:  Cleared. Please refer email of Feb. 17, 2011 for details. 
+Sector Manager: 
+Mr Philippe Dongier 
+02/23/2011 
+Comments:  Cleared. 

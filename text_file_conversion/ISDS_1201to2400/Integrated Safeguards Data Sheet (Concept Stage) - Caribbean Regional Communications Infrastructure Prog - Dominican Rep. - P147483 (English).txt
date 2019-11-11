@@ -1,0 +1,332 @@
+                                           INTEGRATED SAFEGUARDS DATA SHEET
+                                                    CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                             Report No.: ISDSC8542
+
+                         Date ISDS Prepared/Updated: 27-May-2014
+                         Date ISDS Approved/Disclosed: 29-May-2014
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:           Dominican Republic              Project ID:     P147483
+                            Project Name:      Caribbean Regional Communications Infrastructure Prog - Dominican Rep.
+                                               (P147483)
+                            Task Team          Elena Gasol Ramos
+                            Leader:
+                            Estimated       19-May-2014                        Estimated       24-Jul-2014
+                            Appraisal Date:                                    Board Date:
+                            Managing Unit: TWICT                               Lending         Investment Project Financing
+                                                                               Instrument:
+                            Sector(s):         Telecommunications (50%), Information technology (50%)
+                            Theme(s):          Regional integration (10%), Regulation and competition policy (30%),
+                                               Infrastructure services for private sector development (60%)
+                            Financing (In USD Million)
+                            Total Project Cost:     30.00                    Total Bank Financing:        30.00
+Public Disclosure Copy
+
+
+
+
+                            Financing Gap:           0.00
+                              Financing Source                                                          Amount
+                              Borrower                                                                    0.00
+                              International Bank for Reconstruction and Development                      30.00
+                              Total                                                                      30.00
+                            Environmental B - Partial Assessment
+                            Category:
+                            Is this a          No
+                            Repeater
+                            project?
+
+                           B. Project Objectives
+                           The project development objective (PDO) of the Dominican Republic CARCIP seeks to increase
+                           access to regional broadband networks and advance the development of ICT-enabled services in the
+                           Caribbean Region.
+
+                           CARCIP’s objective is expected to be achieved through: (a) targeted investments in ICT
+                         infrastructure that fill the gaps at the national and municipal level, preferably in partnership with the
+                         private sector; (b) creating an open innovation ecosystem that fosters the development of ICT skills
+                         and ICT enabled services; and (c) strengthening institutional capacity/arrangements to ensure
+Public Disclosure Copy
+
+
+
+
+                         effective program implementation and outcomes.
+                         C. Project Description
+                         The program is being implemented in phases, based on country demand and readiness. Phase 1 of
+                         CARCIP includes four countries (Grenada, Saint Lucia and Saint Vincent and the Grenadines under
+                         sub-Phase APL 1A, joined by the Dominican Republic under sub-Phase SOP 1B), and initiated in
+                         FY13. Other eligible CARIFORUM countries may join in subsequent phases, and would be targeted
+                         for development in FY13-14. The components for SOP 1B will be as follows:
+
+                         1. Component 1: Regional Connectivity Infrastructure ($25 million). This component will support
+                         the reduction of connectivity gaps between rural and urban, and poor and developed areas in the
+                         Dominican Republic, through the deployment of a National Fiber Optic Network. This network will
+                         provide high-speed fiber optic connectivity to several municipalities in the country. The
+                         infrastructure will contribute to increase access to more affordable high-speed connectivity in the
+                         Dominican Republic. The fiber optic network will reach interconnection points with regional and
+                         global backbone networks, as part of CARCIP’s regional strategy.
+                         There are two subcomponents: (A) Enabling Environment (US$1million); and (B) Broadband
+                         Backbone Network (US$24million). Subcomponent 1A will provide technical support to ensure that
+                         the legal and regulatory framework is aligned with the project, as well as design the PPP bidding
+                         process to leverage the project funds with private sector investment. Subcomponent 1B will roll out
+                         the connectivity infrastructure according to the proposal awarded in the competitive bidding process.
+
+                         2. Component 2: Open Innovation Hub ($3.5 million). This component will provide targeted support
+                         for human capacity and business development, while facilitating the creation of a culture of use and
+                         adoption of ICTs throughout the general public. Funds under this component would also contribute
+                         to collaboration with the private sector for targeted skills development, building on top of
+Public Disclosure Copy
+
+
+
+
+                         INDOTEL’s social programs (e.g. telecenters).
+
+                         3. Component 3 ($1.5 million): Implementation Support. This component will provide resources for
+                         the establishment and logistic support for a core PCU staff to administer and coordinate the project’s
+                         implementation and conduct monitoring and evaluation. It will also support oversight arrangements
+                         and capacity building for key Policy and Regulatory institutions.
+                         D. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+                         The physical components of terrestrial connectivity to be financed under the Program will likely
+                         include construction of ducts, poles and deployment of earthed and unearthed cables, to form
+                         networks at the national, governmental, and rural levels. The most cost-effective option identified
+                         for the land-based National Optical Fiber Backbone Infrastructure is the adaptation of existing
+                         capacity, such as in the country's national electricity transmission company, ETED (Empresa de
+                         Transmisión Eléctrica Dominicana). Use of the existing land network would also minimize
+                         environmental and social impacts by reducing the need for excavation and construction of new cable
+                         segments; however, emplacement of new buried cables would still be necessary where the existing
+                         infrastructure does not extend. Most of the cables would be located along existing rights-of-way and/
+                         or roadways, which again would serve to minimize environmental and social effects. There are
+                         existing cables across the island, reaching the western border of the Dominican Republic with Haiti
+                         at several points. Expansion of the system to reach new areas may occur in future phases of the
+                         project. Trenching activities will require environmental management for runoff control, traffic
+                         safety, dust control, vegetation clearing, laydown areas and access points, and other standard
+Public Disclosure Copy
+
+
+
+
+                         environmental provisions. Additional construction or rehabilitation works may include
+                         communications centers or other buildings, landing stations, and towers.
+
+                         Several existing submarine cables extend from Landing Stations on the north, east, and south coasts,
+                         near Puerto Plata, Punta Cana, and Santo Domingo respectively, and reach landing points which are
+                         already existing and in operation, therefore any civil works in coastal areas will be excluded. The
+                         cost of new submarine cables is considerable, therefore existing cable capacity will be utilized and
+                         no new submarine cables will be constructed
+
+                         Given the nature of the planned investments (new construction and rehabilitation) small-scale land
+                         acquisition is anticipated in the project. OP/BP 4.12 (Involuntary Resettlement) is therefore
+                         triggered. The exact nature and extent of acquisition is unknown during project preparation since the
+                         specific project sites have not yet been determined. A Resettlement Policy Framework (RPF) will be
+                         prepared to guide the implementation of land acquisition during the lifetime of the project. During
+                         implementation, land acquisition will be assessed on a sub-project specific basis. When involuntary
+                         land acquisition and/or resettlement is confirmed, and specific program areas are known, Land
+                         Acquisition and Resettlement Plans will be prepared, according to the guidelines set out by the
+                         Involuntary Resettlement Framework, and submitted to the Bank for no objection prior to sub-project
+                         financing. Major impacts are not anticipated given that facilities are expected to follow existing
+                         rights of way, especially roads; however, irregularities in land titling or rights-of-way may require
+                         land acquisition and/or title regularization, particularly along rural roads
+
+                         The Program is not expected to impact indigenous peoples in any negative way, however, since the
+                         actual lay out of the network will come only after the contract to build the infrastructure is
+                         determined, it is still to be determined whether OP/BP 4.10 is triggered.
+Public Disclosure Copy
+
+
+
+
+                         The Program is expected to have positive social impacts by improving access to communications; the
+                         development of ICT enabled services, and improved government decentralized service delivery.
+                         Particularly, the program is expected to: (i) enable ICT to become a driver for sustainable economic
+                         growth; (ii) increase employment opportunities through the development of ICT-based services; (iii)
+                         enable the government to use ICT to provide decentralized services; (iv) improved access and quality
+                         of ICT services for the population, business, and government; (v) reduce isolation and enhance
+                         economic activities in rural areas; and (vi) create additional opportunities for women entrepreneurs to
+                         develop ICT-related careers.
+                         E. Borrowers Institutional Capacity for Safeguard Policies
+                         A PCU will be established in INDOTEL and will be in charge of the day-to-day management of the
+                         project technical and logistical aspects, including the work program and coordinating with the
+                         relevant ministries and departments, procurement, financial management and monitoring and
+                         evaluation. INDOTEL previously managed a co-financed 7-year telecommunications Project for a
+                         total amount of US$33.3 million, US$12.3 million financed with Bank proceeds and US$20.0
+                         provided as counterpart contribution. INDOTEL was awarded a US$250,000 grant under the Spanish
+                         Trust Fund for LAC (SFLAC) for feasibilities studies for the broadband backbone network for DR as
+                         part of the Preparation of the CARCIP Program.
+
+                         To ensure the program has a strong local implementation oversight over borrowed resources, and to
+                           ensure adequate coordination with the various groups and initiatives being implemented at the
+                           national level, a Project Coordinator will be recruited and located at INDOTEL. The Project
+                           Coordinator will be responsible for the effective and flexible coordination, management, and
+Public Disclosure Copy
+
+
+
+
+                           implementation of the project, liaise effectively with selected Dominican Republic focal points, and
+                           with all public and private stakeholders involved in the implementation of the project.
+                           The capacity of the PCU will be augmented under the project to accommodate the additional
+                           environmental and social management and supervision work to be undertaken. During the project
+                           preparation process, consideration was given to establishing an Environmental Unit within
+                           INDOTEL to manage the permitting and environmental management aspects, but the environmental
+                           and social management functions may also be accomplished by an at least part time environmental
+                           and social safeguards and additional specialists as needed, depending on the tasks being undertaken
+                           by INDOTEL. Environmental specialists at ETED may also support INDOTEL if electric lines are
+                           used. Liason with the federal environmental authority (the Ministerio de Medio Ambiente y
+                           Recursos Naturales, MIMARENA) will be required to fulfill permitting requirements, to receive and
+                           implement additional permit conditions (including a Plan de Manejo y Adecuación Ambiental
+                           (PMAA), if required by MIMARENA), and to coordinate field supervision of project works with
+                           provincial MIMARENA offices. Coordination with municipal authorities will also be required to
+                           ensure local permitting and environmental management concerns are addressed.
+
+                           Additional support will be provided through periodic supervision by World Bank specialists and by
+                           periodic reporting by the Project Coordinator on environmental and social management aspects.
+                           F. Environmental and Social Safeguards Specialists on the Team
+                           M. Yaa Pokua Afriyie Oppong (LCSSO)
+                           Michael J. Darr (LCSEN)
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+                           Safeguard Policies                  Triggered?      Explanation (Optional)
+Public Disclosure Copy
+
+
+
+
+                           Environmental Assessment OP/        Yes             Deployment of terrestrial broadband
+                           BP 4.01                                             telecommunications infrastructure will not have
+                                                                               significant adverse environmental impacts due
+                                                                               to the use of existing cable systems when
+                                                                               possible, as well as the small footprint of the
+                                                                               cable and its positioning along existing
+                                                                               roadways where possible. New sections of
+                                                                               cable will require environmental management of
+                                                                               trenching activities. Construction or upgrading
+                                                                               of towers could create impacts from road
+                                                                               improvements and/or associated civil works.
+                                                                               The project will connect to existing landing
+                                                                               points on shoreand will install no submarine
+                                                                               cables or landing stations. The project is
+                                                                               assigned to environmental category B, and an
+                                                                               Environmental and Social Management
+                                                                               Framework (ESMF) laying out the applicable
+                                                                               policies and guidelines will be prepared and
+                                                                               disclosed in the Dominican Republic. The
+                                                                 ESMF will be based on the existing CARCIP
+                                                                 regional ESMF but adapted to the context of the
+                                                                 Dominican Republic and this project. The
+Public Disclosure Copy
+
+
+
+
+                                                                 ESMF willalso contain environmental
+                                                                 management plans (EMPs) to identify, mitigate,
+                                                                 manage and offset potential environmental
+                                                                 impacts from the expected trenching activities
+                                                                 and civil works.
+                         Natural Habitats OP/BP 4.04       Yes   Most project activities are not expected to affect
+                                                                 natural habitats, especially those involving
+                                                                 cables along existing roadways and
+                                                                 rehabilitation of towers and structures.
+                                                                 However, since the exact scope of the network
+                                                                 will only be decided through the network’s
+                                                                 bidding process a screening criterion to avoid
+                                                                 negative impacts in Natural Habitats and avoid
+                                                                 critical natural habitats will be included in the
+                                                                 ESMF.
+                         Forests OP/BP 4.36                No    This policy is not triggered given that project
+                                                                 activities will not include forest management
+                                                                 and that any impacts are likely to be of small
+                                                                 scale due to the small foot print of the cable and
+                                                                 its positioning along existing roadways where
+                                                                 possible. In addition,. Nevertheless, the ESMF
+                                                                 will contain screening mechanisms to ensure
+                                                                 that any potential small scale impacts on forests
+                                                                 be mitigated through measures defined as part
+                                                                 of the broader approach on environmental
+Public Disclosure Copy
+
+
+
+
+                                                                 management.
+                         Pest Management OP 4.09           No    Any incidental pesticide use for building
+                                                                 maintenance may be managed by including it in
+                                                                 the appropriate EMPs. This will include non-
+                                                                 chemical measures for pest management and
+                                                                 guidelines for proper selection, application,
+                                                                 storage, handling, transport and disposal of
+                                                                 pesticides.
+                         Physical Cultural Resources OP/   Yes   This policy is triggered given that some physical
+                         BP 4.11                                 interventions would result in earthworks
+                                                                 involving the chance finds of physical cultural
+                                                                 resources. The ESMF will include specific
+                                                                 screening provisions for evaluating potential
+                                                                 impacts on cultural resources and provide
+                                                                 specific guidance on the chance finds
+                                                                 procedures within the EMP/contracting
+                                                                 documents.
+                                 Indigenous Peoples OP/BP 4.10                                     TBD                           Since the actual lay out of the network will
+                                                                                                                                 come only after the contract to build the
+                                                                                                                                 infrastructure is determined, it is still to be
+Public Disclosure Copy
+
+
+
+
+                                                                                                                                 determined whether OP/BP 4.10 policy is
+                                                                                                                                 triggered.
+                                 Involuntary Resettlement OP/BP                                    Yes                           Small-scale land acquisition is anticipated in the
+                                 4.12                                                                                            project, therefore OP/BP 4.12 (Involuntary
+                                                                                                                                 Resettlement) is triggered and a Resettlement
+                                                                                                                                 Policy Framework (RPF) has been prepared.
+                                                                                                                                 Major impacts are not anticipated given that
+                                                                                                                                 facilities are expected to follow existing rights
+                                                                                                                                 of way, especially roads; however, irregularities
+                                                                                                                                 in land titling or rights-of-way may require land
+                                                                                                                                 acquisition and/or title regularization,
+                                                                                                                                 particularly along rural roads. When involuntary
+                                                                                                                                 land acquisition and/or resettlement is
+                                                                                                                                 confirmed, Resettlement Plans will be prepared,
+                                                                                                                                 prior to sub-project financing
+                                 Safety of Dams OP/BP 4.37                                         No                            This policy is not triggered as the project will
+                                                                                                                                 neither support the construction or rehabilitation
+                                                                                                                                 of dams nor will it support other investments
+                                                                                                                                 which rely on services of existing dams.
+                                 Projects on International        No                                                             OP 7.50 is not triggered since the project will
+                                 Waterways OP/BP 7.50                                                                            not build any submarine cables.
+                                 Projects in Disputed Areas OP/BP No                                                             This policy is not triggered as the project will
+                                 7.60                                                                                            not work in such areas as defined under the
+                                                                                                                                 policy.
+Public Disclosure Copy
+
+
+
+
+                         III. SAFEGUARD PREPARATION PLAN
+                               A. Tentative target date for preparing the PAD Stage ISDS: 22-May-2014
+                               B. Time frame for launching and completing the safeguard-related studies that may be needed.
+                                  The specific studies and their timing1 should be specified in the PAD-stage ISDS:
+                                      Draft versions of the ESMF and RFP will be prepared and disclosed prior to appraisal. Comments
+                                      from consultation will be incorporated into the Final version.
+                         IV. APPROVALS
+                                 Task Team Leader:                            Name: Elena Gasol Ramos
+
+                                 Approved By:
+                                 Regional Safeguards Name: Glenn S. Morgan (RSA)                                                                                                Date: 29-May-2014
+                                 Coordinator:
+                                 Sector Manager:     Name: Randeep Sudan (SM)                                                                                                   Date: 29-May-2014
+
+
+
+
+                         1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+                          form and language that are accessible to potentially affected persons.
+

@@ -1,0 +1,166 @@
+                                           INTEGRATED SAFEGUARDS DATA SHEET
+                                              IDENTIFICATION / CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                               Report No.: ISDSC16955
+
+                         Date ISDS Prepared/Updated: 25-Mar-2016
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:             Chad                           Project ID:      P159189
+                            Project Name:        Data Production and Capacity Building in Chad
+                            Team Leader(s):      Kristen Himelein
+                            Estimated Date       01-Jul-2016
+                            of Approval:
+                            Managing Unit:       GPV01                          Lending          Lending Instrument
+                                                                                Instrument:
+                            Sector(s):           Public administration- Agriculture, fishing and forestry (20%), Public
+                                                 administration- Education (20%), Public administration- Health (20%), Public
+                                                 administration- Other social services (20%), Public administration- Water,
+                                                 sanitation and flood protection (20%)
+                            Theme(s):            Economic statistics, modeling and forecasting (5%), Poverty strategy, analysis
+                                                 and monitoring (80%), Conflict prevention and post-conflict reconstruction
+                                                 (5%), Gender (5%), Climate change (5%)
+                            Financing (in USD Million)
+Public Disclosure Copy
+
+
+
+
+                            Total Project Cost: 4                              Total Bank Financing: 0
+                            Financing Gap:      2.5
+                              Financing Source                                                                          Amount
+                              Trust Fund for Statistical Capacity Building                                                 1.5
+                            Environment         C - Not Required
+                            Category:
+
+                           B. Project Development Objective(s)
+                           The overall development objective of this project is to support the Government of Chad in improving
+                           the availability and quality of poverty and other socioeconomic data to inform policy monitoring and
+                           planning through the implementation of a new consumption-based household survey in 2017, and
+                           associated capacity building activities.
+                           C. Project Description
+                           The project includes the following activities, all of which will be conducted by INSEED as part of
+                           the survey implementation. These activities will take place in the context of the WAEMU project,
+                           with harmonization across the countries. Substantial technical assistance from the World Bank will
+                           be provided through a series of regional workshops for technical staff and meetings for the Directors
+                           General. Though subject to finalization, the start date planned for the survey is February 2017.
+                         Questionnaire Revision – Analysis of the 2011 Enquête sur la consommation et le secteur informel
+                         au Tchad (ECOSIT) showed a number of short-comings in the instrument design. These issues will
+Public Disclosure Copy
+
+
+
+
+                         be addressed by moving to the best practice methodology developed as part of the WAEMU project.
+                         As this will represent a substantial departure from the previous ECOSIT methodology, either survey-
+                         to-survey imputation or other similar econometric technique will be necessary to have a comparable
+                         national poverty series in addition to comparability between WAEMU countries. For the 2017
+                         survey, the pilot questionnaire was developed as part of a regional workshop in Ouagadougou in
+                         December 2015, which included participants from INSEED, and will be pilot tested in March or
+                         April 2016. A week-long national questionnaire review workshop for major government
+                         stakeholders took place from February 24 to 29, 2016. The main decision from that meeting was,
+                         aside from small modifications to the wording and answer choices to match the Chadian context, no
+                         major modifications are envisioned for the questionnaire. Supplementary topics that had been
+                         proposed included climate change and insecurity, but though it is agreed that issues are important,
+                         the current questionnaire is already long. To avoid overburdening respondents, these topics will be
+                         covered by later data collection efforts.
+
+                         Sample Selection – Sample design is particularly challenging as Chad currently has 25 level-1
+                         administrative divisions, which would in most cases necessitate a sample of over 10,000 households.
+                         An informed sample design will be based on variance and clustering information from household
+                         consumption variable in the 2011 ECOSIT to produce the most efficient sample design possible at
+                         the national level while still maintaining representative estimates at the regional level. Cluster size,
+                         which was 21 in the previous round, will be substantially reduced, to the WAEMU guideline of
+                         approximately 12 households per cluster, and cluster selection will use the current estimated cluster
+                         sizes from the 2009 census. The sample design process will take place at a regional workshop in
+                         Dakar with the WAEMU participants during the week of March 28, 2016.
+
+                         Fieldwork – Fieldwork will be conducted over approximately a 2-month period during a period
+                         similar to the other WAEMU countries. This is a longer period than the previous ECOSIT, which
+Public Disclosure Copy
+
+
+
+
+                         collected data in less than one month, necessitating large numbers of enumerators and supervisors.
+                         The longer fieldwork calendar will allow for higher standards in hiring and a longer, more
+                         centralized, training process.
+
+                         Data Capture – Questionnaire administrative and data capture will be done simultaneously using
+                         Computer Assisted Personal Interviewing (CAPI) with Survey Solutions software. CAPI
+                         questionnaire administration integrates data checking into the interview process, allowing outlier
+                         values to be confirmed while the interviewer is still within the household. This reduces the amount
+                         of cleaning that will be necessary and speeds the pace at which results can be made available.
+
+                         Weight Calculations – The weights will be calculated using the probabilities generated by the sample
+                         design, cluster-level non-response, and post-stratification using the current estimated population
+                         totals based on the 2009 census.
+
+                         Production of a Statistical Abstract – The project, along with the companion World Bank technical
+                         assistance project and in conjunction with the WAEMU countries, will ensure the timely production
+                         of updated poverty numbers, and tables of major correlates of poverty.
+
+                         Dissemination – In addition to printed copies of the statistical abstract, the data will be properly
+                           archived and anonymized datasets will be released publicly within 12 months of the completion of
+                           data collection through the INSEED website or other appropriate data sharing platform.
+                           D. Project location and salient physical characteristics relevant to the safeguard
+Public Disclosure Copy
+
+
+
+
+                           analysis (if known)
+
+
+                           E. Borrower’s Institutional Capacity for Safeguard Policies
+
+
+                           F. Environmental and Social Safeguards Specialists on the Team
+
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+                           Safeguard Policies                 Triggered?      Explanation (Optional)
+                           Environmental Assessment OP/       No
+                           BP 4.01
+                           Natural Habitats OP/BP 4.04        No
+                           Forests OP/BP 4.36                 No
+                           Pest Management OP 4.09            No
+                           Physical Cultural Resources OP/    No
+                           BP 4.11
+                           Indigenous Peoples OP/BP 4.10      No
+                           Involuntary Resettlement OP/BP     No
+                           4.12
+                           Safety of Dams OP/BP 4.37          No
+Public Disclosure Copy
+
+
+
+
+                           Projects on International          No
+                           Waterways OP/BP 7.50
+                           Projects in Disputed Areas OP/BP   No
+                           7.60
+
+                         III. SAFEGUARD PREPARATION PLAN
+                              Appraisal stage ISDS required?: No
+                         IV. APPROVALS
+                           Team Leader(s):           Name: Kristen Himelein
+                           Approved By:
+                           Safeguards Advisor:       Name: Johanna van Tilburg (SA)                     Date: 07-Mar-2016
+                           Practice Manager/         Name: Pablo Fajnzylber (PMGR)                      Date: 07-Mar-2016
+                           Manager:
+                         1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the
+Public Disclosure Copy
+
+
+
+
+                         InfoShop and (ii) in country, at publicly accessible locations and in a form and language that are accessible to potentially
+                         affected persons.
+Public Disclosure Copy
+

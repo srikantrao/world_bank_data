@@ -1,0 +1,535 @@
+﻿The World Bank                                                                          RESTRUCTURING ISDS
+Eskom Investment Support Project (P116410)
+
+
+
+
+                      Integrated Safeguards Data Sheet
+                                   Restructuring Stage
+
+
+       Restructuring Stage | Date ISDS Prepared/Updated: 14-May-2018| Report No: ISDSR24882
+
+
+
+
+                       Regional Vice President:    Hafez M. H. Ghanem
+                              Country Director:    Paul Noumba Um
+                Senior Global Practice Director:   Riccardo Puliti
+                   Practice Manager/Manager:       Wendy E. Hughes
+                            Task Team Leader:      Reynold Duncan
+              The World Bank                                                                         RESTRUCTURING ISDS
+              Eskom Investment Support Project (P116410)
+
+
+
+
+    Note to Task Teams: The following sections are system generated and can only be edited online in the Portal.
+
+.
+
+    I. BASIC INFORMATION
+
+    1. BASIC PROJECT DATA
+
+    Project ID                                                  Project Name
+    P116410                                                     Eskom Investment Support Project
+    Task Team Leader(s)                                         Country
+    Reynold Duncan                                              South Africa
+    Approval Date                                               Environmental Category
+    08-Apr-2010                                                 Full Assessment (A)
+    Managing Unit                                               Is this a Repeater project?
+    GEE08
+
+
+    PROJECT FINANCING DATA (US$, Millions)
+
+    SUMMARY               -NewFin1
+
+
+
+
+    Total Project Cost                                                                                        23,701.28
+    Total Financing                                                                                           23,701.28
+    Financing Gap                                                                                                     0.00
+
+
+    DETAILS -NewFinEnh1
+
+
+
+
+    World Bank Group Financing
+      International Bank for Reconstruction and Development (IBRD)                                                 3,750.00
+    Non-World Bank Group Financing
+      Counterpart Funding                                                                                      16,338.83
+         Borrower                                                                                              16,338.83
+      Other Sources                                                                                                3,262.45
+         African Development Bank                                                                                   865.71
+         Foreign Multilateral Institutions (unidentified)                                                           930.00
+            The World Bank                                                                             RESTRUCTURING ISDS
+            Eskom Investment Support Project (P116410)
+
+
+
+         Foreign Private Commercial Sources (identified)                                                             63.74
+         Foreign Private Commercial Sources (unidentified)                                                         1,403.00
+
+
+    2. PROJECT INFORMATION
+
+    Current Project Development Objective
+    The project development objective (PDO) of the Eskom Investment Support Project for South Africa is to enhance its power
+    supply andenergy security in an efficient and sustainable manner so as to support both economic growth objectives and
+    South Africa's longterm carbon mitigation strategy.
+
+
+
+.
+
+
+    Note to Task Teams: End of system generated content, document is editable from here.
+
+
+ 3. PROJECT DESCRIPTION
+The project consists of the following components under implemented and one proposed components. All component
+are/ will be implemented by Eskom:
+Component A consists of Medupi coal-fired power station (4800 MW, based on supercritical technology) and is expected
+to cost about US$ 14 billion, of which IBRD will provide financing of about US$ 1.9 billion. This loan is being provided
+against supply and install and civil construction contracts for the power plant and associated facilities (including
+transmission lines).
+Component B consists of investments in renewable energy (100 MW Sere Wind project and 100 MW Concentrating
+Solar Power project, later changed to Kiwano CSP). The component was estimated to cost US$1.198 billion). Sere Wind is
+now operational but Eskom has decided not to continue with Kiwano CSP and replace it with Battery Storage (of energy
+from Variable Renewable Energy (VRE) sources like solar and wind. The estimated total of the Battery Storage Program,
+excluding generation (already provided through REIPPP) is US$764 million, compared to about US$800 million for
+Kiwano CSP. BSP costs and results will be as shown in the table below:
+    Scope of Work                 Distributed battery           Distributed Battery           Cost (US$ million)
+                                  storage -December 2019        storage with distributed
+                                                                PV- December 2021
+
+    Capacity                      40MW at Sere (160MWh) –       60MW of distributed PV
+                                  existing wind
+
+    Energy storage per annum      800 MWh                       640 MWh
+    Location                      Sere wind farm in Western     Several distribution sites
+                                  Cape                                                        764 million
+                                  Several distribution
+                                  substations in Northern,
+           The World Bank                                                                            RESTRUCTURING ISDS
+           Eskom Investment Support Project (P116410)
+
+
+
+                                 Eastern, Western Cape and
+                                 KZN
+
+
+
+Component C consists of both sector investments and technical assistance to support lowering of Eskom’s carbon
+intensity through energy efficiency. The Majuba Rail project (shift in transportation of coal from road to rail) and
+technical assistance for assessing opportunities for coal-fired power plant efficiency improvements were envisaged
+under this component. The Majuba Rail project is progressing well and nearing completion. Eskom funded studies for
+improving power plant efficiency from internal resources. Eskom would now like to use the loan amount for studies on
+the creation of collector stations for energy generated by renewable energy plant under the REIPP program for
+distribution locally in South Africa and well as regionally to neighboring countries. The studies would also consider
+stability issues arising from the increase of VRE on the network. This component is estimated to cost US$ 538 million of
+which US$440 million will be financed by IBRD.
+
+
+    Note to Task Teams: The following sections are system generated and can only be edited online in the Portal.
+
+.
+
+    4. PROJECT LOCATION AND SALIENT PHYSICAL CHARACTERISTICS RELEVANT TO THE SAFEGUARD ANALYSIS (IF
+       KNOWN)
+    The Medupi Power Plant is located in Lephalale town which is sparsely populated and characterized by the
+    presence of another similar power plant and coal mines. Majuba railway line is in Majuba district of
+    Mpumalanga, which is also sparsely populated. Eskom power investments under the Renewable Energy
+    component include wind and Battery Storage, which is the subject of the restructuring. Sere Wind Power
+    Station is north of Western Cape in an area that is sparsely populated. Battery Storage will support
+    installation of container-encased battery storage facilities at forty-two sites located adjacent or within
+    existing electrical sub-stations in Northern, Eastern and Western Cape Provinces. These sites and
+    surrounding areas are sparsely populated and characterized by semi-arid or arid landscapes that are
+    predominantly used for grazing sheep or cattle. In determining the appropriate sites for the battery storage
+    facilities, a high level environmental screening was carried out to ensure that the selected sites are not close
+    to water bodies or critical biological areas. The Battery Storage project sites in the Northern Cape Province
+    are largely characterized by flat, sparsely vegetated land in proximity to the Kalahari Desert. None of the
+    sites is within sensitive/critical ecosystems, and the site are already disturbed by livestock grazing and the
+    construction and operation of the existing electrical sub-stations. The social assessment will establish the
+    nature and extent of social impacts. The SDR confirmed that Eskom, and the environmental regulatory
+    agencies, had the institutional capacity, requisite procedures and track record to meet the acceptability
+    criteria of OP 4.00 with respect to all applicable Bank safeguard policies. At the time it was not anticipated
+    that Indigenous Peoples would be present in, or have collective attachment to a project location and
+    therefore no due diligence regarding Indigenous communities, or reviews of South African laws pertaining to
+    IPs, was conducted as part of the SDR. The proposed restructuring, to include the Battery Storage
+    component, includes a project site identified as Rietfontein in the town of Andriesvale in a relatively remote
+    Kalahari location in the Northern Cape province of South Africa. The site is home to the Khomani San who
+        The World Bank                                                                         RESTRUCTURING ISDS
+        Eskom Investment Support Project (P116410)
+
+
+
+are considered an Indigenous people. In order to proceed with the restructuring, the project is required to
+comply with comply with OP4.10 in light of the presence of IPs.
+
+
+
+5. ENVIRONMENTAL AND SOCIAL SAFEGUARDS SPECIALISTS ON THE TEAM
+
+
+Kisa Mfalila, Environmental Specialist
+Abdelaziz Lagnaoui, Environmental Specialist
+M. Yaa Pokua Afriyie Oppong, Social Specialist
+Gina Cosentino, Social Specialist
+SAFEGUARD_TABLE
+6. SAFEGUARD POLICIES TRIGGERED
+ Safeguard Policies                          Triggered        Explanation
+                                                              OP 4.00 on the Use of Borrower Systems to Address
+                                                              Environmental and Social Safeguard Issues applies
+                                                              to the project. A Safeguards Diagnostics Review
+ Environmental Assessment (OP) (BP 4.01) No                   (SDR) was carried out in 2008 and found the South
+                                                              Africa environmental and social management
+                                                              system to be equivalent and acceptable to the
+                                                              requirements of OP 4.01.
+ Performance Standards for Private Sector
+                                             No
+ Activities OP/BP 4.03
+                                                              OP 4.00 on the Use of Borrower Systems to Address
+                                                              Environmental and Social Safeguard Issues applies
+                                                              to the project. A Safeguards Diagnostics Review
+ Natural Habitats (OP) (BP 4.04)             No               (SDR) was carried out in 2008 and found the South
+                                                              Africa environmental and social management
+                                                              system to be equivalent and acceptable to the
+                                                              requirements of OP 4.04.
+ Forests (OP) (BP 4.36)                      No
+
+ Pest Management (OP 4.09)                   No
+                                                              OP 4.00 on the Use of Borrower Systems to Address
+                                                              Environmental and Social Safeguard Issues applies
+                                                              to the project. A Safeguards Diagnostics Review
+ Physical Cultural Resources (OP) (BP 4.11) No                (SDR) was carried out in 2008 and found the South
+                                                              Africa environmental and social management
+                                                              system to be equivalent and acceptable to the
+                                                              requirements of OP 4.11.
+                                                              As part of the project restructuring, OP4.10 is
+                                                              triggered, and financing for the Rietfontein site will
+ Indigenous Peoples (OP) (BP 4.10)           Yes
+                                                              be provided once the IPP and SIA are finalized and
+                                                              approved by the Bank. Prior to that, and as part of
+           The World Bank                                                                              RESTRUCTURING ISDS
+           Eskom Investment Support Project (P116410)
+
+
+
+                                                                       the restructuring, the Bank has requested receipt of
+                                                                       a satisfactory ToR for the IPP and the SIA
+                                                                       OP 4.00 on the Use of Borrower Systems to Address
+                                                                       Environmental and Social Safeguard Issues applies
+                                                                       to the project. A Safeguards Diagnostics Review
+ Involuntary Resettlement (OP) (BP 4.12)        No                     (SDR) was carried out in 2008 and found the South
+                                                                       Africa environmental and social management
+                                                                       system to be equivalent and acceptable to the
+                                                                       requirements of OP 4.12.
+ Safety of Dams (OP) (BP 4.37)                  No
+                                                                       Water for operating the Medupi Power Plant is
+ Projects on International Waterways (OP)                              sourced from the Mokolo and Crocodile Rivers
+                                                Yes
+ (BP 7.50)                                                             which are tributaries to an International Waterway
+                                                                       - the Limpopo River.
+ Projects in Disputed Areas (OP) (BP 7.60)      No
+KEY_POLICY_TABLE
+II. KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT
+
+ A.     SUMMARY OF KEY SAFEGUARD ISSUES
+
+
+ 1. Describe any safeguard issues and impacts associated with the Restructured project. Identify and describe any
+      potential large scale, significant and/or irreversible impacts.
+      The proposed level 2 restructuring will involve changing one of the Renewable Energy sub-components from
+      Concentrated Solar Power technology to Battery Storage Facilities.
+
+      The project was approved by the Board in 2008 for the "Use of Borrower Systems to Address Environmental and
+      Social Safeguard Issues" according to OP 4.00. However, at the time of carrying out the Safeguards Diagnostic Review,
+      Indigenous Peoples were not anticipated to be present in any of project sites. Consequently, OP 4.10 was not included
+      in the review. One of the new sites under the restructured project is Rietfotein, located in the town of Andriesvale,
+      and home to a Khomani San community. The community meets the OP4.10 definition of Indigenous Peoples. As part
+      of the project restructuring, OP4.10 is triggered and financing for the Rietfontein site will be provided once the
+      Indigenous Peoples Plan (IPP) and the Social Assessment are finalized and approved by the Bank. Prior to that, and as
+      part of the restructuring, the Bank has requested receipt of a satisfactory Terms of Reference (TORs) for the IPP and
+      the Social Assessment.
+
+      Recent census data is unavailable, however, today the population is estimated at approximately 800 individuals with
+      approximately 400 to 500 residing in the Andriesvale area. The Khomani San community is marginalized, underserved,
+      and has high rates of poverty and food scarcity. In addition, the community has low levels of formal educational
+      participation and attainment due to lack of access to education; low access to basic services including water, health,
+      electricity, and limited employment and traditional livelihood opportunities. They are also dependent on Government
+      handouts to supplement their income.
+
+      Informal consultations with some community members revealed that the provisioning of electricity is welcome;
+      however the community is uncertain if electricity will be affordable and what are additional project benefits and the
+       The World Bank                                                                                  RESTRUCTURING ISDS
+       Eskom Investment Support Project (P116410)
+
+
+
+  social and environmental impacts. As per OP4.10, Eskom financing for this sub-project is contingent upon Eskom
+  engaging in a process of free, prior and informed consultations resulting in broad community support to the project.
+
+  Eskom has continued to satisfactorily follow the South African legislation to regularly ensure compliance and
+  management of various environment and social aspects of the Project. Eskom also has substantial capacity to conduct
+  Environmental Assessment (EA), through independent consultants (as required by the Environmental Impact
+  Assessment (EIA) regulations); to prepare and implement Environmental Management Plans; and to pro-actively
+  engage the affected public and NGOs in informed consultation through transparent public disclosure of projects and
+  alternative siting and mitigation strategies. However, a lack of familiarity with social issues and aspects as they relate
+  to Indigenous Peoples and a lack of familiarity with OP 4.10 require continued diligence and capacity assistance by
+  the Bank.
+
+  The Battery Storage component entails installation of container-encased battery storage facilities (approximately 8m
+  high) consisting of grid-scale electrochemical batteries on 42 project sites along the power grids and within the vicinity
+  of renewable energy power plants (wind or solar) sites. The facilities will store electricity from the power plants and
+  evacuate the power when needed. Potential negative impacts of electricity storage depend on the type and efficiency
+  of storage technology. If not disposed of or recycled property, the raw material used in the battery will likely lead to
+  generation of hazardous waste with negative impacts to the environment. Initial environmental assessment carrying
+  out by Eskom, concluded that likely hazardous waste to be generated from the technology will not be or exceed 500
+  cubic meters to require a full Environmental Impact Assessment in line with the South Africa EIA laws and regulations.
+
+  Other potential negative environmental impacts from the Restructured Project are low to moderate, limited to the
+  sites where the containers housing the batteries will be installed, largely occurring from clearing vegetation during
+  site preparation, construction of access/haul roads, undertaking of excavation works for anchoring the containers,
+  maneuvering and operating cranes for unloading and installation of equipment. Decommissioning activities may
+  include removal of the temporary project infrastructure and site rehabilitation.
+
+
+
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area.
+  Among critical environmental issue for the Medupi current being handled at the stage of restructuring is a delay in
+  implementing Flue Gas Desulphurization (FGD) and non-compliance with new air emission standards, especially
+  relating to spiking of Sulphur Dioxide emissions above the stipulated standard. These issues are being resolved in
+  consultation with the Bank team and in accordance with South Africa's Country Systems.
+
+  The battery storage systems will be containerized and the containers installed in already disturbed areas within
+  existing electrical sub-stations, generating low environmental impacts. Additionally, the operation and maintenance
+  of the facilities will be carried out remotely. Therefore, no potential indirect or long term environmental impacts are
+  expected from the project. However, the ESIA for the Rietfontein site at Andriesvale site has not yet been completed
+  so it is unknown if there are enduring social and environmental impacts. However, should access to electricity services
+  be improved in the project areas, the Project will have a multiplier effect on the local economy through development
+  of small businesses and tourism.
+
+  The battery storage technology is currently being piloted in South Africa. Should the technology prove successful,
+  there is a potential of scaling up similar technology to allow increased capacity in energy storage from future wind
+       The World Bank                                                                                  RESTRUCTURING ISDS
+       Eskom Investment Support Project (P116410)
+
+
+
+  and solar powered projects. This, in turn, will lead to increased access to energy in other geographical areas of South
+  Africa. Electricity storage can also be used to help integrate more renewable energy into the electricity grid. Electricity
+  storage can also help generation facilities operate at optimal levels, and reduce use of less efficient generating units
+  that would otherwise run only at peak times. Further, the added capacity provided by electricity storage can delay or
+  avoid the need to build additional power plants or transmission and distribution infrastructure.
+
+  Other long-term impacts include reduction in Greenhouse Gas (GHG) emissions with increased adoption of solar and
+  wind powered electricity generation.
+
+
+3. Describe any potential alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+  The only additional risk that comes with the new component regards the application of OP4.10, on Indigenous
+  Peoples, as this is a requirement outside Use of Country Systems. Eskom is in the process of preparing an Indigenous
+  Peoples Plan as is required under the policy.
+
+  Eskom follows due diligence procedures including an analyses of alternatives to avoid and minimize any adverse
+  environmental and social impacts, as part of their corporate procedures while establishing techno-economic
+  feasibility.
+
+  Alternative sites were examined during planning of the battery storage facilities to ensure that the selected project
+  sites are not within the proximity to sensitive ecosystems such as water bodies and critical habitats.
+
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower
+  capacity to plan and implement the measures described.
+  The Department of Environment Affairs (DEA) is the lead agency for all issues involving environmental management,
+  including approval of EIAs; drafting of legislation and issuance of regulations affecting the environment; and
+  monitoring environmental impacts, emissions and effluents from point sources, including electrical generation and
+  transmission facilities. Eskom has a corporate department which along with the environmental units at the sub project
+  locations has developed very good capacity and a robust system to address all critical environment and social risks
+  and impacts. Eskom undertakes regular monitoring of environmental performance including an independent
+  assessment of compliance with the local environmental laws by a third party.
+
+  Since 2016, Eskom has tested thoroughly the main battery system technologies, in its Research center in Pretoria.
+  These tests included security and environment aspects during operation in South Africa's conditions. Testing results
+  have been extrapolated to estimate the expected lifetime of the future battery systems, and follow up discussions
+  with manufacturers included safeguards for the construction and recycling conditions. The Technical Advisor hired by
+  Eskom will refine specifications in tender documents, to include requirements for suppliers to provide adequate offers
+  in terms of training of Eskom technical staff, maintenance and disposal of the battery systems.
+
+  Eskom has adequate technical capacity and knowledgeable on the operation and maintenance of battery storage
+  technology including management of environmental aspects associated with battery storage system. OP 4.00 applies
+  to the project. As such, Eskom is using "Borrower Systems in Addressing Environmental and Social Safeguard Issues"
+  in the project. Fourty-two (42) sites have been selected for the installation of the battery storage facilities. According
+  to the South Africa EIA law, a full EIA is required if the volume of hazardous waste generate from a facility is above
+  500 liters. Based on a high-level environmental analysis carried out by the Eskom environmental team, each battery
+  storage facility will not generate hazardous waste at a volume greater that 500 liters. As such, a Basic Environmental
+       The World Bank                                                                                  RESTRUCTURING ISDS
+       Eskom Investment Support Project (P116410)
+
+
+
+  Impact Assessment is currently being carried out for each individual site by third party international consultants
+  overseen by four (4) Eskom Environmental managers located at the provincial level and reporting to Environmental
+  Manager located at the Headquarters. Given that most the project sites are located in the Western Cape province,
+  six (6) EIA consultants have been appointed for the sites in this province while one (1) EIA consultant has been
+  appointed for the project sites located in the Eastern, Northern Cape and Kwazulu Natal provinces. The Department
+  of Environment Affairs (DEA), as the competent authority, will review and issue EIA licenses for each individual sites
+  before construction commences.
+
+  Overall, Eskom anticipates that the entire environmental approvals process timeframe is 6 months per site (which
+  will be carried out in parallel). A full EIA will also be carried out for Eskom financed distributed solar PV sites (which
+  could take up to 18 months, but will include the battery storage component).
+
+  Eskom does not have experience in the application of OP4.10. As a result the company does not have the requisite
+  in-house capacity for interpreting and implementing the policy and will need to rely on outside expertise. A consultant
+  has been hired to prepare the SIA and one will be hired for the IPP for the project site. The Bank has review and clear
+  the ToR’s for the IPP and SIA. In addition, the Bank will clear the finalized IPP and the SIA prior to the commencement
+  of works and will closely support and supervise the IP aspects.
+
+
+
+5. Identify the key stakeholders and describe the mechanism for consultation and disclosure on safeguard policies, with
+  an emphasis on potentially affected people.
+  Eskom set up an Environmental Monitoring Committee (EMC) in 2012 with an independent Chairperson to monitor
+  compliance with various environmental and social requirements for the Medupi project, as well as to provide a
+  platform for interested and affected parties to regularly raise their concerns. The EMC’s role with its 12 members has
+  evolved to facilitate communication and cooperation among local stakeholders, Eskom, local municipal authority,
+  Department of Environment Affairs, Department of Water and Sanitation and other local government agencies
+  represented through local counsellor and village chief.
+
+  For the battery storage systems, key stakeholders include (i) national institutions that will provide authorization to
+  build and operate the battery storage systems (DEA, NERSA); (ii) the private operators who will own and operate the
+  wind and solar plants linked with the Eskom storage systems; and (iii) the local communities in the decentralized areas
+  where Eskom plans to install energy storage along with its decentralized photovoltaic new generation capacity.
+
+  OP 4.10 will apply for the Rietfontein site. Eskom held one consultation with the community (September 28, 2018).
+  Prior to this time, Eskom has only met with the Community Property Association whose membership consists of some
+  members of the community. The Community Property Associations are landholding institutions established under the
+  Communal Property Associations Act No. 28 of 1996 (the CPA Act) for use of communities who have received
+  restituted land. The CPA Act provides for government registration of CPAs and also government oversight. Going
+  forward, the main mechanism for consultation with the community will be through community consultation meetings
+  to ensure that free, prior and informed consultations leading to broad community support is obtained and the
+  community is inclusively engaged           throughout this project. Additional stakeholders include traditional
+  representatives, women and youth who will be part of the broader consultation meeting but will have additional
+  focus group discussions to ensure their views are reflected in the project. As the ESIA is not yet complete, it is unclear
+  what the extent of labor influx will be.
+                            The World Bank                                                                      RESTRUCTURING ISDS
+                            Eskom Investment Support Project (P116410)
+
+
+
+DISCLOSURE_TABLE
+B.                    DISCLOSURE REQUIREMENTS
+INDIG ENOUS_TA BLE
+
+
+
+
+Indigenous Peoples Development Plan/Framework
+
+Date of receipt by the Bank                                                 Date of submission for disclosure
+26-Nov-2018                                                                 22-Nov-2018
+“In country�? Disclosure
+
+            Country                                                         Date of Disclosure
+            South Africa                                                    22-Nov-2018
+            Comments
+            TOR acceptable to the Bank received on for the IPP and SIA have been received on 27-Nov-2018
+
+
+
+       COMPLIANCE_TABLE
+                     C.   COMPLIANCE MONITORING INDICATORS AT THE CORPORATE LEVEL
+
+           IP_TABLE
+           OP/BP 4.10 - Indigenous Peoples
+           Has a separate Indigenous Peoples Plan/Planning Framework (as appropriate)
+                                                                                                                Yes
+           been prepared in consultation with affected Indigenous Peoples?
+
+            If yes, then did the Regional unit responsible for safeguards or Practice Manager
+                                                                                                                Yes
+            review the plan?
+
+            If the whole project is designed to benefit IP, has the design been reviewed and
+                                                                                                                Yes
+            approved by the Regional Social Development Unit or Practice Manager?
+
+
+
+           PIW_TABLE
+           OP 7.50 - Projects on International Waterways
+           Have the other riparians been notified of the project?                                               NA
+
+            If the project falls under one of the exceptions to the notification requirement,
+            has this been cleared with the Legal Department, and the memo to the RVP                            NA
+            prepared and sent?
+
+            Has the RVP approved such an exception?                                                             NA
+
+
+
+           PDI_TABLE
+            The World Bank                                                             RESTRUCTURING ISDS
+            Eskom Investment Support Project (P116410)
+
+
+
+    The World Bank Policy on Disclosure of Information
+    Have relevant safeguard policies documents been sent to the World Bank for
+                                                                                       Yes
+    disclosure?
+
+    Have relevant documents been disclosed in-country in a public place in a form
+    and language that are understandable and accessible to project-affected groups     Yes
+    and local NGOs?
+
+
+
+    ALL_TABLE
+    All Safeguard Policies
+    Have satisfactory calendar, budget and clear institutional responsibilities been
+                                                                                       Yes
+    prepared for the implementation of measures related to safeguard policies?
+
+    Have costs related to safeguard policy measures been included in the project
+                                                                                       Yes
+    cost?
+
+    Does the Monitoring and Evaluation system of the project include the monitoring
+                                                                                       Yes
+    of safeguard impacts and measures related to safeguard policies?
+
+    Have satisfactory implementation arrangements been agreed with the borrower
+                                                                                       Yes
+    and the same been adequately reflected in the project legal documents?
+
+
+
+
+III. APPROVALS
+
+
+                                             Reynold Duncan
+    Task Team Leader(s)
+                                             Frederic Verdol
+
+    Approved By
+
+    Safeguards Advisor
+
+    Practice Manager/Manager
+
+.
+
+
+    Note to Task Teams: End of system generated content
+

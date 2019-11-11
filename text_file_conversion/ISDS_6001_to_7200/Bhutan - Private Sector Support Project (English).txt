@@ -1,0 +1,471 @@
+Page  1
+INTEGRATED SAFEGUARDS DATA SHEET 
+CONCEPT STAGE 
+Report No.:  AC2648 
+ 
+Date ISDS Prepared/Updated: 01/25/2007 
+ 
+I.  BASIC INFORMATION 
+ 
+A.  Basic Project Data 
+ 
+Country: Bhutan 
+Project ID: P073458 
+Project Name: Private Sector Support Project 
+Task Team Leader: Asya Akhlaque 
+Estimated Appraisal Date: March 29, 2007 
+Estimated Board Date: May 29, 2007 
+Managing Unit: SASFP 
+Lending Instrument: Specific Investment 
+Loan 
+Sector: General industry and trade sector (70%);Information technology (15%);Other 
+industry (10%);Payment systems, securities clearance and settlement (5%) 
+Theme: Infrastructure services for private sector development (P) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+8.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER/RECIPIENT 
+0.00
+0.00 
+B.  Project Objectives [from section 2 of PCN] 
+The objective of the project is to support the efforts of the RGoB to encourage:  
+ 
+(i) 
+increased role and development of the private sector in Bhutan  
+ 
+(ii) 
+help generate employment opportunities.  
+ 
+These objectives shall be pursued by supporting interventions in two complementary areas - i.e. 
+the establishment of an IT Park; and strengthening financial sector through the use of IT.  
+ 
+Suggested key performance indicators include:  
+ 
+-
+increase in the number of private sector IT related companies through the development of 
+IT Park and IT applications in financial sector  
+ 
+-
+increase in the number of jobs created in IT sector  
+ 
+-
+the amount of private sector investment in ICT Park;  
+ 
+-
+increase in the number of trained IT manpower; and  
+ 
+-
+increase in the number of ATMs and credit/debit card usage.   
+ 
+C.  Project Description [from section 3 of PCN] 
+Page  2
+(i) Component 1 - Establishment of IT Park (USD7.0 million)  
+ 
+(a) Development of the IT Park  
+ 
+The feasibility study for the IT Park/Distance Learning Center while principally endorsing  the 
+IT Park development in Bhutan recommended that it be preceded by establishing IT centers 
+along the Phuentsholing-Thimphu-Paro fiber-optic corridor. Based on follow-on consultation 
+with stakeholders and potential investors, the project team felt that any strategy for developing a 
+sustainable IT sector in Bhutan would necessarily have to include a focus on external markets 
+given the small size of the domestic market.  Any strategy for developing the IT sector must 
+build Bhutan's capacity to address external markets. The RGoB?s ultimate goal in "ICT Master 
+Plan in Bhutan" also supports the development of ICT industry that could export IT services 
+abroad, similar to the Indian model. At the same time, it is envisaged that the development of IT 
+Park would lead to expansion of IT applications in other local industries, particularly the 
+financial sector. Use of ICT development in the financial sector is still at a rudimentary stage 
+leading to operational inefficiencies that further hamper PSD in the country. The second 
+component of the project addresses this gap.  
+ 
+Bhutan's stable and secure environment provides an opportune location for attracting IT 
+business continuity ventures, including possibly data centers for secure databases. The 
+experience in the South Asian region has shown how high speed telecommunication links can be 
+used for offshoring of services from developed countries to developing countries. India alone has 
+a
+market share of 65% of global IT services off-shored and 46% of BPO . The BPO sector 
+globally has been growing at 49% year on year over the period 2001 to 2005. Given this steep 
+growth it is estimated that even India with its large labor pool would have a shortage of 0.5 
+million skilled workers by 2010 . Given that Bhutan has an increasingly well educated and 
+English-literate workforce along with improved telecommunications infrastructure including a 
+fiber-optic link along the Phuentsholing-Thimphu-Paro corridor connecting with Indian 
+networks, the potential exists for the country to benefit from offshoring of IT enabled services.  
+ 
+To capitalize on these opportunities, nevertheless, more concerted efforts are needed to 
+strengthen telecom and establish "plug and play" infrastructure for IT/BPO firms in the country. 
+Bhutan should begin exploring the prospect of attracting foreign investors into establishing such 
+infrastructure without further loss of time. Based on discussions with various stakeholders, it was 
+felt that an IT Park could be successfully set up in Bhutan provided the following pre-requisites 
+were met:  
+ 
+(a) identify a local Bhutanese partner to team up with one of the reputed IT infrastructure 
+developers, given the fact that a successful Park would require a good understanding of local 
+conditions;  
+ 
+(b) since the private sector will invest only if there is a clear business case for the investment, it 
+will be necessary to ensure that there is an anchor tenant to occupy the facility;  
+ 
+(c) government support in terms of speedy clearances will be critical;  
+ 
+(d) develop a minimum supply of trained manpower to sustain the industry and justify 
+investments  
+ 
+(e) availability of high quality connectivity at a reasonable cost for attracting international 
+IT/ITES players to Bhutan;  
+Page  3
+(f) location of the IT Park be easily accessible by road and the cost of providing ancillary 
+infrastructure e.g. electricity, water, sewage and broadband connectivity be minimal.  
+ 
+The project proposes to help RGoB to attract private sector investments into the development of 
+the IT Park. The private sector is expected to bring in greater speed and efficiency in designing, 
+constructing and managing the Park to suit requirements of IT/BPO companies. The private 
+sector is also likely to be more active in marketing the Park to prospective tenants, in case it 
+makes the initial investments. It is therefore felt that involvement of the private sector will be a 
+better option for attracting IT/BPO firms to Bhutan as compared to a purely public-sector 
+investment led initiative.  
+ 
+Given the nascent stage of Bhutan's IT industry and the challenges and constraints in attracting 
+IT firms to locate in Bhutan, it will be difficult to persuade the private sector to make 
+investments in the IT Park without government sharing part of the risks. The RGoB will share 
+some of the risks of the Project by (i) providing land as equity, (ii) investing in ancillary 
+infrastructure for the Park e.g. roads, power, water/sewage etc. and (iii) offering a minimum 
+revenue stream for the private sector, by leasing in part of the space available in the Park.  
+ 
+The IT Park will have the following elements:  
+ 
+1. 
+Plug and play space for IT/BPO companies.  
+ 
+2.
+Common facilities e.g. training and conference rooms for tenants.  
+ 
+3.
+Incubation facility for local IT companies.  
+ 
+4.
+Shared technology center.  
+ 
+5.
+Data center.  
+ 
+The RGoB will take space on lease from the Park for establishing an incubation facility, a 
+shared technology center and a data center. The lease amount that the government will be 
+required to pay for this space will be determined through a competitive bidding process as part of 
+selecting the private sector developer for the Park.  
+ 
+The RGoB will lease in shell space for the purposes mentioned above for a period of about 5 
+years and for a lease amount not exceeding $2 million. The RGoB will invest in developing the 
+leased shell space and providing ancillary infrastructure like power, water/sewage and 
+connectivity to the Park for an amount of $1 million. In addition it will invest in developing a 
+shared technology center with an investment of about $1 million. This investment may for 
+purposes of illustration be in the shape of software testing tools and/or a render farm. The exact 
+nature of the investment in technology infrastructure will be determined in consultation with the 
+Park developer and other stakeholders.  
+ 
+The above investments by RGoB will take place only after the IT Park infrastructure is ready 
+and therefore are expected to commence only in FY08/FY09.  
+ 
+(b) Skills Development in IT  
+Page  4
+Availability of a stream of trained IT manpower is a pre-requisite for the success and 
+sustainability of the IT Park in Bhutan. The project would focus on development of skills, 
+through collaboration with international institutions, at the following three levels:   
+ 
+(a) Skills for IT enabled services: This level of program would focus on improving skills in 
+English language - i.e. listening and speaking - analytical ability, mathematical ability, computer 
+skills and inter-personal skills.  
+ 
+(b) IT courses would aim at developing a pool of skilled IT professionals in Bhutan with strong 
+linkage with leading global institutions of IT excellence.  
+ 
+(c) IT entrepreneurship program: There is a need to foster entrepreneurship in Bhutan in the 
+field of IT.  A program could possibly be designed with a leading international management 
+institute for fostering entrepreneurship.  
+ 
+The project would provide for investments in development of training infrastructure, course 
+curriculum design, faculty training, and institutional fees for the different programs mentioned 
+above. These investments are expected to be in the range of $2 million.   
+ 
+(c) Building organizational capacity for e-government applications  
+ 
+In order to encourage the development of local IT companies in Bhutan it will be important to 
+leverage government expenditure on e-government applications as also IT expenditure of state-
+owned enterprises. At present there is no single coordinating agency that can help different 
+government departments to develop their IT applications. A possible approach would be to 
+establish a joint venture between the Department of Information Technology (MoIC), the Royal 
+University of Bhutan, the Bhutan Chamber of Commerce and Industry and one or more existing 
+banks in Bhutan.  This joint venture company could then help in the development of technical 
+specifications for IT applications in different government departments, ensure adherence to 
+interoperability standards, encourage use of shared infrastructure and services, provide 
+opportunities for hands-on experience to students on live e-government projects, structure 
+innovative financial mechanisms for funding of e-government applications and provide support 
+to government agencies and state-owned enterprises embarking on the use of IT.  
+ 
+An amount of $50,000 is contemplated for consulting services and initial staff training for the 
+above component. It is proposed to redeploy existing staff to the new organization in order to 
+minimize costs.  
+ 
+(d)  Investment Promotion  
+ 
+In order to manage the entire process of identifying a suitable developer for the IT Park project 
+as also to market Bhutan as a destination for IT companies it will be a necessary to have an 
+empowered investment promotion agency.  This agency could initially be an extremely lean 
+organization that can use consultants, academic institutions, private sector personnel and 
+government resources to aggressively reach out to IT investors and present Bhutan's value 
+proposition.  Ideally the agency should be empowered to be a one-stop shop for providing all 
+government clearances to IT companies locating in Bhutan and should be plugged into the 
+highest decision-making levels in the government.  
+ 
+Page  5
+An amount of $0.95 million is proposed to be allocated for this component. The amount will be 
+used for meeting the costs of consultancy support, staff training and IT infrastructure and 
+applications for the agency.  
+ 
+(ii)  Component 2 - Strengthening Financial Sector through IT Use (USD1.0 million)  
+ 
+A
+strong financial sector is critical for the growth of private sector in Bhutan. The second 
+component of the project supports strengthening of financial sector through the use of IT. The 
+two components of the project i.e. the establishment of the IT Park and the IT development in the 
+financial sector are linked with strong synergies in both IT and financial industry. In addition the 
+physical investment will be complimented by TA support for institutional strengthening, along 
+with regulatory and legal policy framework.  
+ 
+(a) IT development in financial sector at the national and individual FIs level  
+ 
+Given that nationwide financial sector IT infrastructure cannot be efficiently built up without 
+balanced IT development among FIs, IT-led financial development in Bhutan needs to be 
+approached simultaneously in two dimensions:  
+ 
+-
+Development of national level financial IT infrastructures will include the creation of the 
+IT framework for the national payment system with main focuses on developing electronic retail 
+payment system such as credit/debit card, ATM and mobile banking to better serve the needs of 
+the corporate sector, bank customers and the government; and  
+ 
+-
+PSD Project will also support physical IT system upgrade at the selected FIs - RMA, 
+BOB and BDFC- in which RGoB has majority shares, by use of a matching grant scheme. The 
+matching grant scheme is envisaged to catalyze IT development in these FIs, and to create strong 
+ownership of IT system for FIs.  
+ 
+(b) Institutional support for sustainable IT development in financial sector  
+ 
+Given the rapid changes and growth in IT industry, IT development in Bhutan needs to be 
+carried out in a more holistic way and an innovative manner from the inception stage. Among 
+other things, it involves enhancement of IT human skills, development of regulatory and legal 
+framework for financial IT infrastructure:  
+ 
+-
+Develop "Financial sector IT development strategic plan": This strategic plan (the 'Plan') 
+will set out a comprehensive and detailed IT development strategy and action plan, which 
+includes the creation of a national payment system framework, with a clear vision and blueprint 
+to be implemented within 5 years. The assessment of the current IT system and up-gradation 
+proposals, at both national and institutional level, shall be accompanied by year wise 
+implementation action plan;  
+ 
+-
+Set up "Financial Sector IT Task Force" (T/F): Main roles of the T/F are to assist and 
+review the preparation of the Plan, and to be actively involved in the implementation. The T/F 
+will be supported by 'IT Technical working group', which will consist of Manager level IT staff 
+from RMA, FIs, MOIC and private sector. The T/F can be further developed into a permanent 
+financial IT committee;  
+ 
+?
+Create "IT & Payment supervisory unit in RMA": IT & Payment supervisory function is 
+required in order to secure safety and soundness of electronic payment activities by minimizing  
+Page  6
+payment-related risks to protect customers from the misuse of electronic transaction and personal 
+information, and to ensure IT development quality assurance among FIs; and  
+ 
+-
+Build a concrete legal framework for electronic financial activities: There needs to be a 
+so-called 'Regulation on electric financial activities of financial institutions' in Bhutan. This 
+regulation will govern all electronic payment activities i.e. large-value and retail payment 
+system, usages of which are expected to be gradually expanded in the near future.   
+ 
+D.  Project location (if known) 
+The location of the IT Park will be a key determinant of its success. Ideally it should be located 
+close to Thimphu or Paro, with good ancillary infrastructure and at a minimum, five acres of 
+government-owned land. Although the specific site of the project has not been finalized, during 
+the project re-design mission in October 2006, the team was shown three possible government-
+owned sites that could be considered for the IT Park.  These sites are:  
+ 
+-
+Bhutan Agro site at Wangchutaba: has an area of 5 acres and adjoins an existing road, 
+close to the power grid, and commands an excellent view of the valley;  
+ 
+-
+A
+site along the Paro-Thimphu express way:  located within Thimphu city boundary with 
+an area of 3 acres; and  
+ 
+-
+A
+government land at Paro: located in Paro with an area of 120 acres, a part of which 
+could be made readily available for an IT Park.  
+ 
+The final choice of the site shall be determined through an in-depth consultation among RGoB, 
+the private investors and the World Bank. The physical development of the Park is envisaged 
+starting from year 2 of implementation of the project.   
+ 
+E.  Borrower’s Institutional Capacity for Safeguard Policies [from PCN] 
+The Environmental Assessment (EA) Act of Bhutan 2000 establishes procedures for the 
+assessment of potential effects of strategic plans, policies, programs, and projects on the 
+environment. It also stipulates the process for the determination of measures to reduce potential 
+adverse effects and to promote environmental benefits. According to the EA Act, an 
+Environmental Clearance (EC) shall be a prerequisite for the issuance of a Development Consent 
+(DC) from a Competent Authority or National Environment Commission (NEC).  In addition, 
+RGoB is required to ensure that environmental concerns are fully taken into account when 
+formulating, renewing, modifying and implementing any policy or program as per regulations 
+that may be adopted within the appropriate provision of the Act. The Act outlines: the 
+information required to be publicly disclosed in the EA during and after the EA process; the 
+functions and powers of agencies charged with implementing the EA; monitoring and control of 
+offenses and penalties; and appeals and dispute resolution procedures under the Act.  
+ 
+The existing EA clearance process, which is centralized under NEC Secretariat (NECS), is 
+increasingly robust and efficient since the enactment of the Environmental Assessment Act 
+(EAA) in 2000 and in particular, since the issuance of the Regulation for the Environmental 
+Clearance of Projects (RECP) in 2002 clarifying NECS' roles and responsibilities for EA review 
+and clearance. NECS, which has a number of qualified environmental specialists for each major 
+sector, has been able to carry out its internal screening and review processes generally within the 
+time frames set forth in the RECP. Based on a review of previous Bank and RGoB funded 
+Page  7
+projects, NEC has effectively met its regulatory responsibilities with respect to the procedural 
+and substantive requirements of the EAA and the RECP including the requirements for public 
+consultation as part of the EA process.  
+ 
+Given the short period of time since its establishment in July 2003, MoIC, the key ministry of 
+IT Park development, seems to have relatively limited capacity for addressing safeguard policies.  
+However, until capacity is developed within MoIC, it is anticipated that NEC will provide 
+technical support to MoIC to undertake the Environmental Screening, EA and other related 
+activities.   
+ 
+F.  Environmental and Social Safeguards Specialists 
+Mr Malcolm A. B. Jansen (SASES) 
+Ms Zarafshan H. Khawaja (SASES) 
+ 
+II.  SAFEGUARD POLICIES THAT MIGHT APPLY 
+Safeguard Policies Triggered
+ 
+Yes No TBD 
+Environmental Assessment (OP/BP 4.01) 
+X
+.
+Natural Habitats (OP/BP 4.04) 
+ 
+X
+.
+Forests (OP/BP 4.36) 
+ 
+X
+.
+Pest Management (OP 4.09) 
+ X  
+Physical Cultural Resources (OP/BP 4.11) 
+ X  
+Indigenous Peoples (OP/BP 4.10) 
+ 
+X
+.
+Involuntary Resettlement (OP/BP 4.12) 
+ 
+X
+.
+Safety of Dams (OP/BP 4.37) 
+ X  
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X  
+Projects in Disputed Areas (OP/BP 7.60) 
+ X  
+Environmental Category:
+ 
+B
+-
+Partial Assessment 
+ 
+III.  SAFEGUARD PREPARATION PLAN 
+ 
+A.  Target date for the Quality Enhancement Review (QER), at which time the PAD-stage ISDS 
+would be prepared:  N/A 
+ 
+B.  For simple projects that will not require a QER, the target date for preparing the PAD-stage 
+ISDS:  04/16/2007 
+ 
+Page  8
+C.  Time frame for launching and completing the safeguard-related studies that may be needed.  
+The specific studies and their timing
+1
+should be specified in the PAD-stage ISDS. 
+Environmental safeguard  
+ 
+The specific location of the IT Park has not yet been determined. However, given that the 
+project supports the development of an IT Park, access roads and associated infrastructure by 
+private sector developers, the potential for the environmental impacts exists. During project 
+preparation, an environmental screening (ES) of the every potential site will be carried out. 
+The ES will be based on a simple questionnaire rather than a full scale assessment.  The ES 
+will identify specific environmental issues in each of the potential sites and identify broad 
+mitigation measures for the identified environmental issues.  This will then form the basis for 
+the preparation of an Environmental Assessment and Management Framework (EAMF), 
+prior to appraisal of the project that will guide the identification, assessment and mitigation 
+of any potential environmental impacts on the site that would be eventually selected for 
+location of the IT Park.  
+ 
+Once the site for the IT Park has been identified, a detailed EA will be undertaken and an 
+Environmental Management Plan (EMP) will be developed for mitigation of any potential 
+adverse impacts on the environment during the construction and operation phases of the IT 
+Park. The preparation of the EA and EMP will be guided by the existing RGoB 
+Environmental Assessment policies and procedures as outlined in the EA Act of Bhutan, 
+2000 and its Regulations that require all projects to obtain environmental clearances before 
+their commencement. The Bank has confirmed equivalence and acceptability of Bhutan's EA 
+policies and procedures. The private sector developer will be responsible for implementation 
+of the EMP, the conditions of which will be inscribed as part of its contractual obligations to 
+the RGoB.  
+ 
+Social safeguard  
+ 
+The specific location of the IT Park has not yet been determined. However, given that the 
+project supports the development of an IT Park, access roads and associated infrastructure, 
+by private sector developers, the potential for the acquisition of privately owned land, loss of 
+livelihoods and/or the displacement of people is a possibility as is the probability of  
+triggering the Bank?s OP 4.12 on Involuntary Resettlement.  As part of project preparation 
+an initial social screening will be carried out for each of the proposed IT Park sites to identify 
+the nature and magnitude of any adverse social impacts. Final site selection will take into 
+account the findings of the social screening and be made with a view to minimizing social 
+impacts and the displacement of people. If OP 4.12 is triggered, a Resettlement Action Plan 
+(RAP) based on RGoB's relevant legislation and the Bank's policy on involuntary 
+Resettlement will be prepared by the responsible government agency. The RAP will define 
+the legal, institutional and implementation arrangements to guide compensation and 
+entitlements for people affected by adverse social impacts/losses.   
+ 
+1
+Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the 
+InfoShop and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to potentially affected 
+persons.
+ 
+Page  9
+IV.  APPROVALS 
+ 
+Signed and submitted by: 
+ 
+Task Team Leader: 
+Ms Asya Akhlaque 
+01/12/2007 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Frederick Edmund Brusberg 
+01/16/2007 
+Comments:  Cleared but decision to transfer project to SASFP will be made when policies marked 
+'TBD' are confirmed as being triggered or not. 
+Sector Manager: 
+Mr Simon C. Bell 
+01/19/2007 
+Comments:  Cleared 

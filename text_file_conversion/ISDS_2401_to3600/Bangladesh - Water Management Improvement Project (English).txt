@@ -1,0 +1,397 @@
+                    INTEGRATED SAFEGUARDS DATASHEET
+                          RESTRUCTURING STAGE
+
+I. Basic Information
+Date prepared/updated: 06/28/2011                                     Report No.: AC6408
+1. Basic Project Data
+Country: Bangladesh                          Project ID: P040712
+Project Name: Water Management Improvement Project
+Task Team Leader: Winston Yu
+Estimated Appraisal Date: February 10,       Estimated Board Date: September 18, 2007
+2004
+Managing Unit: SASDA                         Lending Instrument: Specific Investment
+                                             Loan
+Sector: Flood protection (64%);Irrigation and drainage (27%);Central government
+administration (9%)
+Theme: Water resource management (50%);Natural disaster management
+(25%);Participation and civic engagement (25%)
+IBRD Amount (US$m.):             0.00
+IDA Amount (US$m.):            102.26
+GEF Amount (US$m.):              0.00
+PCF Amount (US$m.):              0.00
+Other financing amounts by source:
+         BORROWER/RECIPIENT                                            1.00
+         Local Communities                                             0.00
+         NETHERLANDS: Min. of Foreign Affairs / Min. of Dev. Coop. 20.00
+         Financing Gap                                                13.44
+                                                                      34.44
+Environmental Category: B - Partial Assessment
+Repeater []
+Is this project processed under OP 8.50 (Emergency Recovery)
+                                                                  Yes [ ]     No [X]
+or OP 8.00 (Rapid Response to Crises and Emergencies)
+
+2. Project Objectives
+Given the shift of focus to emergency rehabilitation works during the initial
+implementation years and the agreed plan of action to take participatory scheme
+management on a pilot-scale basis, the original Project Development Objective (PDO)
+has been slightly modified. The restructuring PDO is to improve water resources
+management by improving infrastructure and institutions through rehabilitating damaged
+water infrastructure, piloting the role of local communities and enhancing the institutional
+performance of the Country#s principal water institutions, particularly BWDB and
+WARPO. It may be noted that the original project focused on an expanded role for local
+communities in all stages of participatory cycle management. Given the lack of country
+experience with the participatory aspects of the project, these have been scaled-back
+accordingly to reflect the current operating environment since the time of project
+appraisal.
+3. Project Description
+The original Project Description is mainly unchanged and thus the various resettlement,
+social and environment issues are unchanged. The original project appraisal document
+highlights the world-wide view of the importance of participatory approaches in the water
+sector. However, successful approaches to such decentralized reforms require both
+commitments from nascent local community institutions and traditional government
+departments. Since many of these local institutions (e.g. water management
+organizations) are relatively new and the BWDB has not fully operationalized the
+supporting guidelines on PSM amongst its own staff, a full-scale implementation
+program is not realistic. This is evidenced by the experience with PSM throughout
+Bangladesh which is limited to only a few donor-supported programs. Thus, under the
+restructuring fewer schemes will be taken up under components 1 and 2 to allow for
+greater focus on the participatory and community mobilization aspects of system
+management transfer and the involvement of communities in operations and maintenance
+(O&M) management. Component 1 is reduced to cover an initial 32 schemes (25
+medium schemes and 7 large schemes) for rehabilitation and Component 2 is reduced to
+cover an initial 35 schemes (26 medium schemes and 9 large schemes) with routine
+O&M. Medium schemes are those defined to cover on average 2500 ha while large
+schemes are those defined to cover on average 8400 ha. Component 1 will also include
+the provision of civil works for the construction of training centers to support the PSM
+process and water management organization (WMO) mobilization.
+
+  Finally, the project shifted its focus toward emergency repairs to damaged BWDB flood
+control and drainage infrastructure (FCDI) schemes following the unforeseen floods of
+2007. According to the BWDB, damages from these floods (see World Bank 2007
+Damage and Needs Assessment Report) occurred to several flood control and irrigation
+structures, comprising 1,592 km of embankments (147 km fully damaged), 140 km of
+irrigation-drainage systems (1 km fully damaged), 282 km of riverbank protection works
+(18 km fully damaged), and 279 water control structures (16 fully damaged).
+Embankment and riverbank protection works account for almost 90 percent of the
+damage; the remaining 10 percent comprise water control structures and irrigation-
+drainage systems. In response to this, a fourth component for FDR works was added to
+the WMIP and about US$32 million re-allocated (from Components 1 and 2) to
+undertake critical repairs to this identified damaged infrastructure. Moreover, about
+US$8.0 million equivalent was cancelled from the IDA Credit to support emergency
+repairs to non-embankment infrastructure (e.g. roads, schools). An additional re-
+allocation was also made to the FDR component after the 2009 Cyclone (Aila) (US$6.4
+million) to address similar additional damaged infrastructure. These reallocations at the
+time were deemed a priority for the Government of Bangladesh given the emergency
+nature of these works.
+
+ In summary, the types of rehabilitation works for the flood damage rehabilitation will be
+similar to components 1 and 2 and since the nature of the civil works remain the same (all
+improvements to existing water infrastructure and so land acquisition is not likely), the
+various resettlement, social and environment issues are unchanged. That is, the existing
+resettlement policy framework and environment and social management framework
+remain operationally relevant and do not require any alteration for the restructuring.
+Please refer to the original ISDS for more details about the remaining project
+components.
+
+4. Project Location and salient physical characteristics relevant to the safeguard
+analysis
+The locations and salient physical characteristics of the schemes taken up under the
+restructuring are the same as in the original project design. Please refer to the original
+ISDS for more details about the nature of these works.
+
+5. Environmental and Social Safeguards Specialists
+   Mr Shakil Ahmed Ferdausi (SASDI)
+   Ms Sabah Moyeen (SASDS)
+   Mr Md. Akhtaruzzaman (SASDT)
+
+6. Safeguard Policies Triggered                               Yes          No
+Environmental Assessment (OP/BP 4.01)                          X
+Natural Habitats (OP/BP 4.04)                                  X
+Forests (OP/BP 4.36)                                                        X
+Pest Management (OP 4.09)                                       X
+Physical Cultural Resources (OP/BP 4.11)                                    X
+Indigenous Peoples (OP/BP 4.10)                                             X
+Involuntary Resettlement (OP/BP 4.12)                           X
+Safety of Dams (OP/BP 4.37)                                                 X
+Projects on International Waterways (OP/BP 7.50)                X
+Projects in Disputed Areas (OP/BP 7.60)                                     X
+
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project.
+Identify and describe any potential large scale, significant and/or irreversible impacts:
+The key safeguard policies triggered are unchanged by the restructuring. In the original
+project, an Environmental Management Framework (EMF) was prepared which requires
+an Environmental Impact Assessment (EIA) and Environment Management Plan (EMP)
+for the large-scale subprojects and environmental screening and initial environmental
+examination for small FCD/FCDI schemes with participatory mitigation planning and
+implementation. The environmental management is an integral part of the participatory
+scheme cycle management (PSM) to ensure that the principles will be addressed
+throughout the implementation process and not as a separate exercise. The Center for
+Environmental and Geographic Information Services (CEGIS) is working as the
+consultant to the Borrower to provide an environmental audit and screening of schemes
+under the project. At present, CEGIS has conducted environmental screenings for 333
+schemes and prioritized 133 of these for implementation. CEGIS has also developed an
+Environmental Impact Assessment (EIA) report template which includes an
+Environmental Management Plan (EMP) for each scheme which would be used for
+obtaining environmental clearance from the Department of Environment (DOE) for each
+batch of works. No EMPs have yet to be completed for Component 1 and 2 schemes
+which have yet to be finalized. Emergency Flood Damage Rehabilitation (FDR) schemes
+were selected on the basis of having no major environmental and social issues. In the
+proposed restructuring, since the types and nature of rehabilitation works for Components
+1 and 2 and the Flood Damage Rehabilitation Works (FDR) remain the same (all
+improvements to existing water infrastructure and so land acquisition is not likely), the
+environment issues are unchanged and the original EMF will still be operationally valid.
+
+  A Resettlement Policy Framework (RPF) was prepared to deal with the potential
+adverse impacts of land acquisition and displacement of people for rehabilitation and
+improvement of the selected schemes. According to the RPF, social impact assessment
+and screening of rehabilitation works (Components 1 and 2 and FDR) will be designed
+and conducted to assess project impacts including benefits and adverse impacts (e.g. land
+acquisition or displacement of people). If any such adverse impacts are identified, the
+Borrower will conduct a Social Impact Assessment and prepare a Resettlement Action
+Plan (RAP) where requirements are scaled to the magnitude and extent of impacts. This
+will include surveys of affected people, establishment of the replacement/market value
+for the affected lands/property and disturbances and livelihood impacts (permanent and
+temporary), following the RPF, which will be consulted and reconciled with the Water
+Management Organizations (WMOs). The RAPs where relevant will include, among
+other things, the scope of land acquisition and resettlement, details of impacts and
+mitigation measures and budget and implementation arrangements. The design approach
+is supposed to be such that land acquisition and displacement of people are avoided or
+minimized. A number of participatory rapid appraisals (PRAs) have been completed so
+far for components 1 & 2 which provide preliminary information on social aspects as part
+of the initial screening for potential schemes. Since land acquisition or any major adverse
+impacts have been avoided for FDF works, no resettlement action plans (RAPs) were
+prepared or implemented. Due diligence will be taken on social safeguards for all
+schemes under civil works construction as per the RPF. For Components 1 and 2, social
+impact assessments will be furthered during feasibility study, design and planning. If
+social safeguards compliance issues are identified, mitigation measures will be put in
+place through preparing and implementing RAPs for work packages. Because the types
+of works included in the restructuring are unchanged (i.e. rehabilitation of existing
+FCD/FCDI schemes) the RPF remains unaffected and operationally valid.
+
+ Please see the original ISDS for more details concerning the safeguard issues associated
+with these project works.
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future
+activities in the project area:
+This is the same as the original ISDS. Original ISDS reads:
+ The project is likely to have potentially positive impacts since it is designed to mitigate
+past adverse environmental impacts as well as enhance the role of local communities in
+the rehabilitation and O&M of FCD/FCDI schemes.
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize
+adverse impacts.
+An Environmental Management Framework (EMF) has been prepared to guide scheme
+(sub-project) screening, assessment (where required) and participatory mitigation
+planning and implementation. The Environmental Impact Assessment (EIA) along with
+Environmental Management Plan (EMP) for larger scale sub-project and Initial
+Environmental Examination with participatory mitigation planning for medium scale sub-
+projects include alternative analysis during planning phase. The EA and EMP have been
+made an integral part of the participatory scheme cycle management (PSM) to ensure that
+the principles will be addressed throughout the implementation process and not as a
+separate exercise.
+
+  Rehabilitation and improvement works in some of the existing FCD/FCDI schemes may
+require a moderate amount of private land and cause displacement of squatters, if any,
+from the embankments. Although the impact details will not be known until the specific
+schemes are selected, a Resettlement Policy Framework (RPF) has been prepared to deal
+with the potential adverse impacts of land acquisition and displacement, by following the
+Bank’s OP 4.12 on Involuntary Resettlement. While the RPF will apply to the entire
+project, separate Resettlement Action Plan (RAP) will be prepared for each yearly civil
+works program as the selection of FCD/FCDI schemes and design of the rehabilitation
+and improvements proceed. In preparing the RAPs, alternative designs will be considered
+to minimize requirements for additional land and physical relocation by taking into
+account direct inputs from WMOs, landowners and other stakeholders, which will be
+generated through the PSM cycle.
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide
+an assessment of borrower capacity to plan and implement the measures described.
+This is the same as the original ISDS. Original ISDS reads:
+
+  An overall EMF has been prepared and fully integrated into the entire participatory
+scheme cycle management process (PSM) both at the Government and community levels.
+This will include a screening and mitigation framework and corresponding institutional
+framework, to be in place during selection, implementation and monitoring and
+evaluation of the diverse investments.
+
+ The EIA guidelines prepared by WARPO for large FCDI schemes will be applied for
+the rehabilitation of schemes between 5000 ha to 15,000 ha in size. EA will be conducted
+for each medium sized sub-project by the WMO and BWDB and the mitigation activities
+agreed upon in a MOU. Based on the EA, an EMP will be prepared and customized for
+each type, location and scale of activity. The guidelines of community level EA have
+been prepared by IUCN and already field tested.
+ Monitoring of the impacts during the project will be conducted by a "monitoring team"
+comprising of selected WMO members, officials from BWDB, DAE, DOF, DOE and
+LGI. A record of the EAs will be kept in BWDB and WARPO. Training will be given to
+the monitoring team members and appropriate members of their agencies to ensure the
+proper implementation of the EMF, EIA and EMP. BWDB has made provisions to
+increase the number of environmental staff in BWDB to ensure sustainability of the
+environmental capacity of BWDB.
+
+ With respect to actions to address specific environmental safeguard issues, any potential
+cumulative impact will be addressed at the initial screening of the schemes, and any
+scheme that may cause adverse impacts will not be included in the project. The potential
+impact to natural habitat will be mitigated through appropriate design of the sluice gates
+and management of related water infrastructure. The potential use of pesticides will be
+mitigated through the already on-going Government IPM program which will also be
+implemented through the PSM program.
+
+ The Resettlement Policy Framework (RPF), contains a legal framework outlining the
+principles and guidelines for land acquisition; impact mitigation principles and measures;
+implementation mechanisms; monitoring and evaluation arrangements; and others to
+provide the bases to plan and implement activities required to mitigate the project’s
+adverse impacts. The RPF draws substantially on the resettlement programs executed by
+BWDB under the Bank-supported River Bank Protection Project (RBPP: Cr. 2791-BD),
+Coastal Embankment Rehabilitation Project (CERP: Cr.2783-BD), and several other
+projects in Bangladesh. With this RPF in place and progress in design of the
+rehabilitation/improvements on the selected FCD schemes, separate Resettlement Action
+Plans (RAPs) will be prepared for the yearly physical works program, and will generally
+contain needs for any additional land; other impact details under each scheme undertaken
+for rehabilitation and improvement; implementation budget and time-schedule.
+
+ A notification exemption has been approved by the Regional Vice President for OP/BP
+7.50.
+
+5. Identify the key stakeholders and describe the mechanisms for consultation and
+disclosure on safeguard policies, with an emphasis on potentially affected people.
+This is the same as the original ISDS. Original ISDS reads:
+
+  Key project objectives and activities are to increase stakeholder participation in water
+resources management, including transfer of selected water management functions to
+local communities. The ’Guidelines for Participatory Water Management’ provides the
+operational framework to include local stakeholders in water resources management.
+These Guidelines provide for participation of various categories of stakeholders (farmers,
+fishermen, small traders, craftsmen, boatmen, landless people, destitute women, NGOs,
+etc), including their mobilization and organization into WMOs and their constituent
+management associations and groups. The focus of the Guidelines is on stakeholder
+participation in the entire water management cycle (identification, planning, design,
+rehabilitation/improvement of FCDs/FCDIs, O&M, and monitoring and evaluation). The
+project would support implementation of participatory water management using these
+Guidelines as also using the experience of several similar projects implemented by
+BWDB and other GOB agencies with support from other donors, such as CIDA, ADB
+and the Government of Netherlands.
+
+ During project preparation, scoping sessions were carried out with various stakeholder
+groups to better understand the users’ perspective on rehabilitation/improvement needs,
+problems and potential solutions, and arrangements for project implementation, and
+operation and maintenance. Consultation and discussion sessions were held during the
+Environmental Assessment/Environmental Management Plan preparation process
+wherein safeguard policies of the Bank relevant to the project were explicitly elaborated.
+A workshop was also held to provide information to, understand views of, and discuss
+collaboration arrangements with, various stakeholders on the project.
+
+ The TOR for the EMF and EA/EMP guidelines was formulated after consultation with
+various parties involved in environmental issues in Bangladesh. Extensive consultations
+with stakeholders, who may be either adversely or positively impacted from an
+environmental viewpoint, were held during the preparation of the EMF and EA/EMP
+guidelines.
+
+ In line with the provisions of PSM cycle, the RPF requires direct involvement of
+WMOs, affected landowners and other stakeholders in all aspects of the land acquisition
+and resettlement processes, including compensation, grievance redress, implementation,
+and monitoring and evaluation. Yearly RAPs will likewise be prepared with direct
+participation of WMOs and landowners in process tasks like census, determination of
+replacement value/market prices of affected assets, and implementation and monitoring
+of the mitigation measures.
+
+
+
+B. Disclosure Requirements Date
+Environmental Assessment/Audit/Management Plan/Other:
+  Was the document disclosed prior to appraisal?                     Yes
+  Date of receipt by the Bank                                     02/07/2004
+  Date of "in-country" disclosure                                 02/08/2004
+  Date of submission to InfoShop                                  02/09/2004
+  For category A projects, date of distributing the Executive
+  Summary of the EA to the Executive Directors
+Resettlement Action Plan/Framework/Policy Process:
+  Was the document disclosed prior to appraisal?                     Yes
+  Date of receipt by the Bank                                     02/07/2004
+  Date of "in-country" disclosure                                 02/08/2004
+  Date of submission to InfoShop                                  02/09/2004
+Indigenous Peoples Plan/Planning Framework:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+Pest Management Plan:
+  Was the document disclosed prior to appraisal?                  N/A
+  Date of receipt by the Bank                                                  N/A
+  Date of "in-country" disclosure                                              N/A
+  Date of submission to InfoShop                                               N/A
+* If the project triggers the Pest Management and/or Physical Cultural Resources,
+the respective issues are to be addressed and disclosed as part of the Environmental
+Assessment/Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please
+explain why:
+
+
+
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the
+ISDS is finalized by the project decision meeting)
+
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) report?               Yes
+If yes, then did the Regional Environment Unit or Sector Manager (SM)           Yes
+review and approve the EA report?
+Are the cost and the accountabilities for the EMP incorporated in the           Yes
+credit/loan?
+OP/BP 4.04 - Natural Habitats
+Would the project result in any significant conversion or degradation of        No
+critical natural habitats?
+If the project would result in significant conversion or degradation of other   N/A
+(non-critical) natural habitats, does the project include mitigation measures
+acceptable to the Bank?
+OP 4.09 - Pest Management
+Does the EA adequately address the pest management issues?                      Yes
+Is a separate PMP required?                                                     N/A
+If yes, has the PMP been reviewed and approved by a safeguards specialist or    N/A
+SM? Are PMP requirements included in project design? If yes, does the
+project team include a Pest Management Specialist?
+OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy framework/process               Yes
+framework (as appropriate) been prepared?
+If yes, then did the Regional unit responsible for safeguards or Sector         Yes
+Manager review the plan?
+OP 7.50 - Projects on International Waterways
+Have the other riparians been notified of the project?                          No
+If the project falls under one of the exceptions to the notification            Yes
+requirement, has this been cleared with the Legal Department, and the memo
+to the RVP prepared and sent?
+  Has the RVP approved such an exception?                                        Yes
+  The World Bank Policy on Disclosure of Information
+  Have relevant safeguard policies documents been sent to the World Bank’s       Yes
+  Infoshop?
+  Have relevant documents been disclosed in-country in a public place in a       Yes
+  form and language that are understandable and accessible to project-affected
+  groups and local NGOs?
+  All Safeguard Policies
+  Have satisfactory calendar, budget and clear institutional responsibilities    Yes
+  been prepared for the implementation of measures related to safeguard
+  policies?
+  Have costs related to safeguard policy measures been included in the project   Yes
+  cost?
+  Does the Monitoring and Evaluation system of the project include the           Yes
+  monitoring of safeguard impacts and measures related to safeguard policies?
+  Have satisfactory implementation arrangements been agreed with the             Yes
+  borrower and the same been adequately reflected in the project legal
+  documents?
+
+
+  D. Approvals
+
+Signed and submitted by:                              Name                         Date
+Task Team Leader:                   Mr Winston Yu                                06/28/2011
+Environmental Specialist:           Mr Shakil Ahmed Ferdausi                     06/28/2011
+Social Development Specialist       Ms Sabah Moyeen                              06/28/2011
+Additional Environmental and/or     Mr Md. Akhtaruzzaman                         06/28/2011
+Social Development Specialist(s):
+
+Approved by:
+Regional Safeguards Coordinator:    Mr Sanjay Srivastava                         06/28/2011
+  Comments:
+Sector Manager:                     Mr Simeon Kacou Ehui                         06/28/2011
+  Comments:
+

@@ -1,0 +1,466 @@
+Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+I.  Basic Information
+ 
+Date prepared/updated:  12/14/2007 
+Report No.:  43498
+1. Basic Project Data  
+ 
+Country:  Bolivia 
+Project ID:  P101206 
+Project Name:  Health Sector Reform - Third Phase Adaptable Lending Program 
+Task Team Leader:  Carlos Marcelo Bortman 
+Estimated Appraisal Date: December 10, 
+2007 
+Estimated Board Date: January 24, 2008 
+Managing Unit:  LCSHH 
+Lending Instrument:  Adaptable Program 
+Loan 
+Sector:  Health (80%);Sub-national government administration (20%) 
+Theme:  Health system performance (P);Child health (P) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+18.50 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER/RECIPIENT 
+6.00
+6.00 
+Environmental Category: B - Partial Assessment 
+Simplified Processing 
+Simple [X] 
+Repeater [] 
+Is this project processed under OP 8.50 (Emergency Recovery) 
+or OP 8.00 (Rapid Response to Crises and Emergencies) 
+Yes [ ] 
+No [ ] 
+2. Project Objectives 
+1. 
+The original purpose of the Health Sector Reform Program was to help reduce the 
+infant mortality rate and the maternal mortality ratio by introducing several key sector 
+reforms, including: i) the design and implementation of a basic health insurance program 
+targeting the poor (SBS) that later was upgraded to become the SUMI program; ii) 
+strengthening the immunization program and introducing new vaccines in the national 
+schedule of vaccines that are being fully financed by the Government; iii) introducing 
+new management and implementation instruments such as performance agreements, 
+investment mechanisms to promote maternal and child interventions, an equitable system 
+to finance municipal investments, and treatment protocols for mothers and babies and for 
+children under five years old;  iv) a National Program for the Expansion of Coverage of 
+the SBS/SUMI (EXTENSA); and many other sector interventions.  In parallel, the Health 
+Sector Reform Program was designed to be complemented by many other interventions 
+in education, rural productivity, and water and sanitation included in the equity pillar of 
+the Bolivia 1998 CAS, and later in the 2001 CAS Update, and Bolivia's Poverty 
+Reduction Strategy.  
+ 
+Page  2
+2. 
+As in the previous two phases, the activities of APL III would have two primary 
+goals:  a) to increase coverage and quality of health services and related programs that 
+would improve the health of the population (specifically, mothers and children) and to 
+empower communities to improve their health status; and b) to strengthen national, 
+regional and local capacities to respond to health needs.  In addition, this phase would 
+introduce a multi-
+actor targeting strategy to focus critical interventions on Bolivia’s most 
+vulnerable populations.  
+ 
+3. 
+As a medium-term objective, the APL series pursued the reduction of the infant 
+and maternal mortality rates by one-third, as per the proposed indicators for the Program.   
+Progress is being made, as indicated in the table below:  
+ 
+APL Series Goals for Reducing Infant, Child and Maternal Mortality  
+ 
+Baseline:  
+ 
+Before  
+ 
+APL I  
+Progress at End of  
+ 
+APL I ** 
+Progress at End of  
+ 
+APL II 
+Goal: End of  
+ 
+APL III  
+ 
+Year 1998 
+Year 2001 
+Year 2006 
+Year 2011  
+ 
+Infant 
+mortality 
+rate 
+(IMR) 
+67 54 52 39 
+ 
+ 
+Under five mortality rate (U5MR) 
+92 
+75 
+72 
+57  
+ 
+Maternal Mortality ratio (MMR) 
+390* 
+230 
+218 
+164  
+ 
+Sources: (*)   ENDSA 1994; (**) ENDSA 2003, MSD  
+ 
+4. 
+While the use of IMR/U5MR/MMR as PDOs seems the rational way to measure 
+the final impact of any health program focusing on maternal and child health, later 
+analysis identified a critical problem.  These indicators are affected by a number of issues 
+which are outside the control and scope of the project, making it nearly impossible to 
+attribute changes in the indicators directly to project activities.  This is compounded in 
+Bolivia by the lack of accurate vital statistics systems (or difficulties obtaining precise 
+and timely data from DHS/surveys) which would make it easier to identify precise 
+origins of change.  Finally, focusing on IMR/U5MR/MMR can distract stakeholders from 
+focusing on mid-level indicators and goals that are very much within their control.  
+ 
+5. 
+Accordingly, the Project Development Objectives for APL III are five: i) to 
+reduce occurrence of critical risk factors affecting maternal and infant health in the 
+targeted areas so that current gaps between regions are reduced; ii) to reduce chronic 
+malnutrition among children under 2 years of age in the targeted areas; iii) to increase 
+health insurance coverage in the targeted areas; iv) to implement a new incentive 
+environment for providers and provider networks focused on changes in health 
+indicators; and v) to upgrade the National Health Information System (Sistema Nacional 
+de InformaciÃ³n en Salud –SNIS) so that it will be integrated with Bolivia’s new health 
+insurance program.  
+ 
+Page  3
+6. 
+The following indicators will be used as key performance indicators (for 
+quantitative targets and definitions, see Annex 3 of the PAD):  
+ 
+•
+Ratio between the percentage of pregnant women receiving four pre-natal care 
+check-ups in the target areas and the rest of the country  
+ 
+•
+Ratio between the percentage of institutional deliveries in the target areas and the 
+rest of the country  
+ 
+•
+Percentage of children receiving exclusive breast feeding at 6 months in the target 
+areas  
+ 
+•
+Percentage of children 2 years old taller than -2Z scores in the target areas 
+ 
+•
+Percentage of population enrolled in health insurance in target areas  
+ 
+•
+Percentage of providers successfully achieving goals to trigger maximum 
+capitation payments  
+ 
+•
+Health insurance reports generated by software system include information about 
+production of services   
+ 
+3. Project Description 
+7. 
+This APL III is being designed and proposed as the last phase of a 12-year Health 
+Sector Reform Program.  This third phase would have two scopes of intervention: first, 
+nation-wide; and second, targeted on 166 of the most vulnerable municipalities and 6 
+peri-urban areas surrounding three cities.  APL III would include the following four 
+components:  
+ 
+Component 1. Stewardship Role of Health Authorities - Essential Functions in Public 
+Health  
+ 
+8. 
+This component would strengthen the capacity of national, regional and local 
+health authorities so all can effectively perform the critical EFPH.  Component One will 
+focus on the need for robust information systems to improve the health sector’s response, 
+the need to increase disease prevention and good health promotion as key elements of 
+reducing the disease burden among the poor, the need to strengthen capacity, regulation 
+and monitoring to improve the quality of the health services, and measures to promote 
+accountability of both providers (accountability for quality services) and users (awareness 
+of their right to receive services) of the health system.  
+ 
+9. 
+Activities under this component would focus on making the SNIS more robust, 
+efficient and relevant.  On the human resources side, management tools and processes 
+would be upgraded, including extensive management training for health authorities at 
+central, regional and local institutions.  Donor coordination will also be a priority, as well 
+as public outreach to local populations regarding health issues.  Two new concepts would 
+be launched under this component: a national program of quality for the health sector, 
+and an environmental health unit within the MSD.  
+ 
+Component 2. Family, Community and Intercultural Health  
+ 
+Page  4
+10. 
+This component would improve access to maternal and infant health services in 
+the project’s target areas. Activities would support the development of Intercultural 
+Maternal and Infant Health Referral Networks, complementing the existing EXTENSA 
+health brigade program.  These networks would promote the demand for maternal and 
+infant health care by focusing on the following three goals: 1) increasing the number of 
+safe institutional childbirths; 2) increasing the numbers of referral of obstetric 
+emergencies directly from the community; and 3) providing access to a referral system 
+for children with acute respiratory and digestive diseases.  The health challenges 
+addressed by these goals disproportionately affect vulnerable communities.  The 
+component’s activities would also focus on increasing community participation in health 
+issues, and on increasing the management capacity of departmental and local health 
+institutions.  
+ 
+11. 
+Activities under this component would also focus on strengthening the referral 
+networks that already exist in the project’s target areas.  Activities wouldbuild human 
+resource capacities and physical infrastructure in the networks’ institutions, including 
+upgrading or purchasing equipment.  Community participation in health issues would be 
+encouraged under this component, via solicitation of participation in the planning phase 
+of local activities, and via a coordinated public awareness campaign on disease 
+prevention and good health practices.  
+ 
+Component 3. Health Insurance  
+ 
+12. 
+Component Three would support the GOB’s implementation of the new SU 
+SALUD health insurance program through four project subcomponents. The three 
+components would focus on strengthening implementation capacity: a) Strengthening of 
+the enrollment system; b) Strengthening management practices; and c) Development of 
+SU SALUD’s monitoring and evaluation system.  
+ 
+Component 4. Project Administration (US$1.04 million)  
+ 
+The fourth component would support project administration with equipment, technical 
+assistance, training, and operating costs to finance the administration of the project, and 
+financial and procurement audits.   
+ 
+4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis 
+The activities of component I and III will be carried out in the whole country while the 
+activities of component II, which is the only component that envisioned rehabilitation 
+civil works, will be carried out in 82 highly vulnerable municipalities and three peri-
+urban areas El Alto, Santa Cruz, Cochabamba.   
+ 
+5. Environmental and Social Safeguards Specialists 
+Ms Ximena B. Traa-Valarezo (LCSHH) 
+ 
+Page  5
+6. Safeguard Policies Triggered
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+X
+Natural Habitats (OP/BP 4.04) 
+ X 
+Forests (OP/BP 4.36) 
+ X 
+Pest Management (OP 4.09) 
+ X 
+Physical Cultural Resources (OP/BP 4.11) 
+ X 
+Indigenous Peoples (OP/BP 4.10) 
+X
+Involuntary Resettlement (OP/BP 4.12) 
+ X 
+Safety of Dams (OP/BP 4.37) 
+ X 
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X 
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts: 
+The two most relevant environmental issues resulting from the implementation of this 
+project would be an increase in the production of Health Care Waste (HCW), and the 
+impacts associated with the physical rehabilitation of health centers and other 
+construction activities.  As a part of the supervision of the APL II Project and the design 
+process of this Project, an environmental assessment was undertaken to review and 
+analyze: (i) Bolivia’s public health policies associated with the environment; and (ii) the 
+policies and specific standards related to HCW and its environmental impact.  The 
+assessment identified  needs and recommendations, reflected on Annex 10.   
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+We do not anticipate any long term environmental impact due to the activities of the 
+project.  The Government already has norms and guidelines in place to manage the 
+disposal of hospital waste and to avoid environmental impact of civil works on hospital 
+rehabilitation.   
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts. 
+In order to avoid or minimize adverse impacts the project has prepared and 
+Environmental Assessment and a Social Assessment.   
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide 
+an assessment of borrower capacity to plan and implement the measures described. 
+Upon request of the Ministry of Health of Bolivia, and consistent with the WB 
+Operational Policy 4.10, the Health Reform Project III will be treated as an Indigenous 
+Project because (a) The targeted population is mostly Originary/Indigenous in the 17 
+health networks of the 82 municipalities and 3 peri-urban areas of El Alto, Santa Cruz 
+and Cochabamba selected for intervention; and (b) The project is designed to deliver a 
+culturally-appropriate health model.  
+Page  6
+The project uses an ‘intercultural health’ approach which requires that both bio-
+medicine and traditional medicine be practiced in an articulated, parallel but 
+complementary manner to obtain best results on targeted population.  
+ 
+The Vice-Ministry of Traditional Medicine and Intercultural Health is the institution 
+providing the norms of intercultural health. This institution is in the process of 
+reorganization and strengthening, to be able to provide guidance and assistance to the 
+units responsible for implementation.   
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+Key stakeholders are the Vice-Minister of Traditional Medicine and Intercultural Health 
+at the MSD. Also, the medical SAFCI teams, the traditional health networks (including 
+traditional authorities) existing in all rural contexts, the medical staff who speak the 
+indigenous languages of their patients and carry on their traditions, and the indigenous 
+communities themselves, particularly their health committees.  
+ 
+The borrower carried out free and informed consultations by means of the local multi-
+disciplinary firm Centro de Estudios y Proyectos (CEP). The assessment included 
+consultations on a sample of 40 rural communities showing low health indicators in the 
+Western highlands, Eastern lowlands and Chaco regions. The objectives of the 
+consultations were to (a) provide a diagnosis of the present state of health care services 
+(preventative and curative) offered to Indigenous and Afro-descendant peoples; (b) assess 
+the use of intercultural approaches to health at primary, secondary and tertiary levels of 
+care; (c) assess the cultural access of users to health units and hospitals, assess cultural 
+barriers and preferences; (d) assess good practices (traditional and non-traditional); and 
+(e) assess the relationship between the official health services and traditional therapists. 
+The results of the social assessment provided lessons learned and recommendations to be 
+used in the project design and implementation. Annex 10 articulates the intercultural 
+health approach of the project in each one of the components. A separate assessment of 
+the outreach program EXTENSA is being carried out by the MSD at this time with the 
+purpose of improving the program during implementation.   
+ 
+B. Disclosure Requirements Date
+ 
+Environmental Assessment/Audit/Management Plan/Other: 
+Was the document disclosed 
+prior to appraisal?
+ Yes 
+ 
+Date of receipt by the Bank 
+12/06/2007 
+ 
+Date of "in-country" disclosure 
+12/10/2007 
+ 
+Date of submission to InfoShop 
+12/10/2007 
+ 
+For category A projects, date of distributing the Executive 
+Summary of the EA to the Executive Directors 
+ 
+Indigenous Peoples Plan/Planning Framework: 
+Was the document disclosed 
+prior to appraisal?
+ N/A 
+ 
+Page  7
+Date of receipt by the Bank 
+12/07/2007 
+ 
+Date of "in-country" disclosure 
+12/07/2007 
+ 
+Date of submission to InfoShop 
+12/07/2007 
+ 
+*
+If the project triggers the Pest Management and/or Physical Cultural Resources, 
+the respective issues are to be addressed and disclosed as part of the Environmental 
+Assessment/Audit/or EMP. 
+If in-country disclosure of any of the above documents is not expected, please 
+explain why: 
+Considering that the entire project is classified as an Indigenous Peoples Project and 
+complies with O.P./B.P. 4.10, no separate Indigenous Peoples Development Plan (IPDP) 
+is required.   
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the 
+ISDS is finalized by the project decision meeting) 
+ 
+OP/BP/GP 4.01 - Environment Assessment 
+ 
+Does the project require a stand-alone EA (including EMP) report? 
+No 
+If yes, then did the Regional Environment Unit or Sector Manager (SM) 
+review and approve the EA report? 
+N/A 
+Are the cost and the accountabilities for the EMP incorporated in the 
+credit/loan? 
+Yes 
+OP/BP 4.10 - Indigenous Peoples 
+ 
+Has a separate Indigenous Peoples Plan/Planning Framework (as 
+appropriate) been prepared in consultation with affected Indigenous Peoples? 
+N/A 
+If yes, then did the Regional unit responsible for safeguards or Sector 
+Manager review the plan? 
+N/A 
+If the whole project is designed to benefit IP, has the design been reviewed 
+and approved by the Regional Social Development Unit or Sector Manager? 
+Yes 
+The World Bank Policy on Disclosure of Information 
+ 
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+Yes 
+Have relevant documents been disclosed in-country in a public place in a 
+form and language that are understandable and accessible to project-affected 
+groups and local NGOs? 
+Yes 
+All Safeguard Policies 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities 
+been prepared for the implementation of measures related to safeguard 
+policies? 
+Yes 
+Have costs related to safeguard policy measures been included in the project 
+cost? 
+Yes 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures related to safeguard policies? 
+Yes 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+Yes 
+Page  8
+D. Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Mr Carlos Marcelo Bortman 
+12/07/2007 
+Environmental Specialist: 
+Ms Sarah Drew 
+12/07/2007 
+Social Development Specialist 
+Ms Ximena B. Traa-Valarezo 
+12/07/2007 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+ 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Reidar Kvam 
+09/29/2007 
+Comments:   
+Sector Manager: 
+Mr Keith E. Hansen 
+12/10/2007 
+Comments:   

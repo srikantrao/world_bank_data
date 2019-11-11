@@ -1,0 +1,208 @@
+Page  1
+INTEGRATED SAFEGUARDS DATA SHEET 
+CONCEPT STAGE 
+Report No.:  AC4412 
+ 
+Date ISDS Prepared/Updated: 05/13/2009 
+ 
+I.  BASIC INFORMATION 
+ 
+A.  Basic Project Data 
+ 
+Country: OECS Countries 
+Project ID: P117087 
+Project Name: OECS E-Government for Regional Integration - St. Vincent & the 
+Grenadines (APL 2) 
+Task Team Leader: Juan Navas-Sabater 
+Estimated Appraisal Date: April 27, 2009 
+Estimated Board Date: July 2, 2009 
+Managing Unit: CITPO 
+Lending Instrument: Adaptable Program 
+Loan 
+Sector: Information technology (60%);Central government administration (40%) 
+Theme: Regional integration (25%);Administrative and civil service reform (25%);Public 
+expenditure, financial management and procurement (24%);Tax policy and 
+administration (13%);Trade facilitation and market access (13%) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+2.25 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER/RECIPIENT 
+0.00
+0.00 
+B.  Project Objectives [from section 2 of PCN] 
+The project's development objective is to promote the delivery of high quality key e-government 
+services, which will contribute to the countries' higher level objectives of increased 
+competitiveness, efficiency and transparency of the public sector and regional integration.   
+ 
+C.  Project Description [from section 3 of PCN] 
+6. The proposed project emerges from increasingly strongly articulated political will and 
+determination for regional cooperation and in particular the realization that regional cooperation 
+in the area of e-government, understood broadly as the application of ICT for public sector 
+modernization, can produce important outcomes in reducing the cost of doing business, 
+improving public sector efficiency, transparency and accountability, as well as lead to more 
+regional harmonization and integration. The proposed project wishes to follow in the footsteps of 
+the widely successful regional cooperation in the area of telecommunications, and aims at 
+expanding that cooperation to the broader ICT field.  
+ 
+Page  2
+7. The proposed project, stemming from strong client demand as confirmed directly by the 
+participating countries’ Prime Ministers, should be seen as a complementary initiative aimed at 
+reinforcing the efforts on the ground in implementing various public sector reform and e-
+government initiatives across the region. By harvesting the “low hanging fruit” in key priority 
+areas as identified by our client countries, and achieving early results, the project expects to 
+create additional momentum to achieve further benefits from highly desired reforms and more 
+robust e-government implementation. It can therefore be considered as a first stage of what could 
+become a wider e-government implementation program across the region.  
+ 
+8. It is expected that the project could entail IDA credits of around $2 million per participating 
+country (IBRD loan in the case of St. Kitts & Nevis), adding up to a total in the range of $8-10 
+million. Insofar as possible, the team will strive to mobilize donor funding to complement the 
+proposed lending operation.  
+ 
+9. The exact scope of the project is currently under discussion with the various counterparts, but 
+it is expected to include a subset extracted from the long list of candidate activities mentioned 
+below. A stakeholder workshop took place on May 9 and 10, as part of the preparation mission. 
+During this workshop, the priorities of the participating countries were discussed and the key 
+areas for inclusion in the project were agreed in principle, on the basis of a number of selection 
+criteria, such as: (i) the expressed level of priority and alignment with existing national policies; 
+(ii) the likely developmental impact and contribution to the public sector modernization agenda; 
+(iii) the extent of contribution to or impact on policy harmonization and regional integration; (iv) 
+likelihood of achieving early results or “quick wins”; (v) cost of implementation within available 
+budget; and (vi) local capacity for adoption and sustainable use.  
+ 
+10. The project’s preliminary design is structured along three broad components or groups of 
+activities, complementary with other support already being provided by other donors and with 
+the participating governments’ own initiatives:  
+ 
+(a) Key horizontal e-government activities. This component will involve technical assistance, 
+capacity building and some investment support for critical horizontal e-government activities at 
+the regional level, in a subset of the following candidate areas: (i) implementation of the legal 
+and regulatory framework for e-government; (ii) evaluation, updating and regional 
+harmonization of ICT strategies; (iii) definition of information systems standards and common 
+architecture for interoperability and integration of Web portals; (iv) definition of security 
+standards and protocols, in particular for payments portals; (v) connectivity support through 
+integration of intranets or implementation of Government Wide Area Networks with sub-offices; 
+(vi) creation of integrated public service access centers to facilitate delivery of services to 
+citizens and businesses; (vii) technical support and capacity building. This component will be 
+closely coordinated with donor assistance already being provided, notably through EU funding. 
+The stakeholder workshop identified the areas in (i), (ii) and (vii), as well as to some extent (iii), 
+as high priority for the project.  
+ 
+(b) Selected vertical applications. This component will involve mostly investment support for 
+the implementation and/or upgrading of a small number of key e-government applications drawn 
+from among the following candidate areas: public financial management (treasury, budget); 
+public procurement; inland revenue; customs; immigration; civil registries and identification; 
+Page  3
+business registries; land and property registries; judicial enforcement; agriculture; tourism; 
+health; education; environment. It must be noted that, given the focus on “low hanging fruit” no 
+specialized system development is envisaged under this component. However, it is expected that 
+the activities included in this component could involve the following aspects for each of the 
+selected applications: (i) pooled procurement of software application upgrades and licenses (and 
+generic off the shelf packages, if required); (ii) outsourcing the creation of a regional Support 
+Center to provide assistance and training for selected e-government applications; (iii) training 
+and capacity building in the key areas identified. The stakeholder workshop identified the area of 
+public finance (including treasury, budget, customs and taxation) as the core for this component, 
+as well as the area of identification systems (with linkages to registries), as a key input to any e-
+government application. In addition, procurement, agriculture and tourism, and health, were 
+retained for eventual inclusion as pilot projects under component 3.  
+ 
+(c) Pilots and feasibility studies for longer term e-government implementation. It is expected 
+that a number of e-government applications of high priority for the participating governments 
+will have a complexity and long term implementation profile that would not make them suitable 
+for full implementation under the current proposed project. This component will therefore 
+support the definition of feasibility studies and implementation of pilot projects for eventual 
+implementation of these more complex applications in a subsequent phase. Donor assistance will 
+be actively explored particularly for the feasibility studies under this component.  
+ 
+11. Project implementation arrangements were discussed with the participating countries at the 
+stakeholder workshop, as well as with the OECS Secretariat, which agreed to play a critical role 
+in project coordination and implementation, at least in the initial stages. The Secretariat will be 
+assisted by a Steering Committee or similar regional structure comprised of local e-government 
+champions from each of the participating countries. It is also expected that CARICAD will play 
+an important role in project implementation, given their e-government mandate at the broader 
+CARICOM level and their capacity to implement similarly complex projects.   
+ 
+D.  Project location (if known) 
+OECS countries.   
+ 
+E.  Borrower’s Institutional Capacity for Safeguard Policies [from PCN] 
+N/A   
+ 
+F.  Environmental and Social Safeguards Specialists 
+ 
+Page  4
+II.  SAFEGUARD POLICIES THAT MIGHT APPLY 
+Safeguard Policies Triggered
+ 
+Yes No TBD 
+Environmental Assessment (OP/BP 4.01) 
+ X  
+Natural Habitats (OP/BP 4.04) 
+ X  
+Forests (OP/BP 4.36) 
+ X  
+Pest Management (OP 4.09) 
+ X  
+Physical Cultural Resources (OP/BP 4.11) 
+ X  
+Indigenous Peoples (OP/BP 4.10) 
+ X  
+Involuntary Resettlement (OP/BP 4.12) 
+ X  
+Safety of Dams (OP/BP 4.37) 
+ X  
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X  
+Projects in Disputed Areas (OP/BP 7.60) 
+ X  
+Environmental Category:
+ 
+C
+-
+Not Required 
+ 
+III.  SAFEGUARD PREPARATION PLAN 
+ 
+A.  Target date for the Quality Enhancement Review (QER), at which time the PAD-stage ISDS 
+would be prepared:  10/15/2007 
+ 
+B.  For simple projects that will not require a QER, the target date for preparing the PAD-stage 
+ISDS:  10/15/2007 
+ 
+C.  Time frame for launching and completing the safeguard-related studies that may be needed.  
+The specific studies and their timing
+1
+should be specified in the PAD-stage ISDS. 
+Not required.   
+ 
+IV.  APPROVALS 
+ 
+Signed and submitted by: 
+ 
+Task Team Leader: 
+Mr Juan Navas-Sabater 
+05/21/2007 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Reidar Kvam 
+05/22/2007 
+Comments:   
+Sector Manager: 
+Mr Philippe Dongier 
+05/22/2007 
+Comments:   
+1
+Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the 
+InfoShop and (ii) in-country, at publicly accessible locations and in a form and language that are accessible to potentially affected 
+persons.
+ 
+Page  5

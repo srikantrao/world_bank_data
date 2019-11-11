@@ -1,0 +1,333 @@
+                              INTEGRATED SAFEGUARDS DATA SHEET
+                                               CONCEPT STAGE
+.
+
+
+
+
+                                                                                      Report No.:ISDSC16828
+Date ISDS Prepared/Updated: 19-Jan-2016
+Date ISDS Approved/Disclosed 11-Feb-2015
+I. BASIC INFORMATION
+    A. Basic Project Data
+    Country:                      Bangladesh                   Project ID:              P150220
+    Project Name:                 Bangladesh Weather and Climate Services Regional Project (P150220)
+    Task Team Leader(s):          Poonam Pillai,Nadia Sharmin,Shahpar Selim
+    Estimated Appraisal           07-Dec-2015                  Estimated Board          03-Jun-2016
+    Date:                                                      Date:
+    Managing Unit:                GSU18                        Financing                Investment Project
+                                                               Instrument:              Financing
+    Financing (In USD Million)
+    Total Project Cost:       127.80                         Total Bank Financing: 113.00
+    Financing Gap:            0.00
+      Financing Source                                                                                   Amount
+      BORROWER/RECIPIENT                                                                                     14.80
+      International Development Association (IDA)                                                          113.00
+      Total                                                                                                127.80
+    Environmental Category:       B - Partial Assessment
+    Is this a Repeater project? No
+
+    B. Project Objectives
+    The main objective of the proposed project is to strengthen the capacity of the Government of Bangladesh to
+    deliver weather and climate information in priority sectors and to prepare for climate variability and hydro-
+    meteorological disasters.
+    C. Project Description
+    The project interventions are expected to encompass improved meteorological information services,
+    improved hydrological information services, strengthened forecasting and early warning systems, and
+    improved dissemination of agro-meteorological information. It will be implemented over a period of 5 years.
+
+    The project has the following main components:
+
+    Component A. Strengthening Meteorological Information and Services (USD 40 million)
+
+    The main objective of this component is to strengthen lead time and accuracy of weather forecasting and
+
+
+                                               Page 1 of 7
+Multi-hazard early warning systems. This component will be implemented by the BMD and include the
+following:
+
+Sub-Component A1: Strengthening Meteorological Monitoring, Forecasting and Disaster Related Early
+Warning Systems (28 million): This sub-component aims to support modernization of BMD?s
+meteorological observation network over land, air and ocean, weather forecasting capacity and strengthening
+public weather and climate services. Modernization will be national in scope including critical habitats such
+as the Sunderbans. It will finance installation of new Automatic Weather Station netowrks, real time rain
+gauges with telemetry, upper air soundings and strength marine meteorology. The telecommunication
+system at BMD and its divisional offices, database management, will be upgraded. The sub-component will
+support access to high performance computers; state-of-the-art numerical weather prediction tools, and
+improved hardware and software for BMD and divisional offices. Modernization of BMD?s information
+system will help it to improve its capacity for handling data from international and national observation
+networks, and observations from satellites and radar network. The weather forecasting system is expected to
+be upgraded from 24 hours to 7 days forecast with verification of reliability. This sub-component will also
+support strengthening public weather services, development and implementation of a National Framework
+for Climate services, development of climate information products and services, support for urban weather
+services, and design of end-to-end early warning systems for severe weather phenomenon (such as
+thunderstorms) in targeted areas.
+
+Sub-Component A2: Institutional Capacity Strengthening, Project Management, Monitoring and Evaluation
+(USD 7 million): This sub-component will provide strategic support for enhancing institutional capacity for
+weather and climate service delivery at the national and divisional levels. It will support strengthening policy
+and regulatory framework for BMD operations. The capacity strengthening of BMD will be improved
+through modern equipment, training and capacity building and collaboration with international
+meteorological institutions. This sub-component will also support successful project management, targeted
+analytic studies, and monitoring and evaluation.
+
+Sub-Component A3: Regional Collaboration: (USD 5 million) This sub-component will support expanding
+GTS bandwidth to improve exchange of meteorological data to and from regional centers, scaling up
+ongoing regional pilot mechanisms such as Bangladesh?s contribution and participation in the South Asia
+Climate Outlook Forum (SASCOF), support to scaling up SAARC- Severe Thunderstorm Observation and
+Regional Modelling (STORM) program; participation by BMD officials in regional workshops; twinning
+arrangements with regional and international hydrometeorological agencies; regional technical studies;
+establishment of climate portal for accessing and sharing regional weather and climate information products;
+and regional consultations and workshops to support disaster resilience.
+
+Component B: Strengthening Water and Flood Information Services (USD 27 million)
+
+The main objective of this component is to improve lead time and accuracy of hydrological forecasting, risk
+information and strengthen early warning systems. The component would be implemented by the BWDB
+and includes the following:
+
+Sub-Component B1: Strengthening Hydrological Monitoring, Forecasting (USD 15 million): This sub-
+component will support design and modernization of the country?s hydrological observation network and
+forecasting, including installation of automated hydrological stations, strengthening groundwater monitoring
+network, sediment monitoring and measurement of river morphology. BWDB?s existing equipment repair
+and calibration facility will be upgraded and a centralized Data Center will be established. Multipurpose
+communication technologies for transmission and processing data to enable higher quality forecast and
+increase flood warning lead times. This sub-component will also support acquisition of hardware and
+
+
+                                            Page 2 of 7
+software for improving hydrological and flood (flash floods, urban, riverine, coastal floods) forecasting. This
+would include a flood prediction model capable of assimilating river flow routing information and
+generating inundation maps. The model would be developed, calibrated and validated for basins/rivers in
+Bangladesh.
+
+Sub-Component B2: Early Warning Systems and Disaster Risk Management in Priority Areas (USD 7
+million): The objective of this sub-component is to improve Early Warning Systems (EWS) and Disaster
+Risk Management in priority areas. Building on existing risk assessments, this sub-component will support
+development of end-to end flood related early warning systems, including identification of risk through
+multi-hazard risk assessments leading to generation of credible risk information for informing mitigation
+actions at policy, planning and community levels; establish decision support tools for flood risk management
+including software, hardware; installation of a now-casting system for flash floods and strengthen
+community based early warning systems. This sub-component will be implemented in close coordination
+with sub-component B1. While forecasting and procurement of systems and equipment related to forecasting
+would be covered under sub-component B1, this has an intrinsic relationship with dissemination of early
+warnings as a critical input.Priority areas will be identified during preparation.
+
+Sub-Component B3: Institutional Capacity Strengthening, Project Management, Monitoring and Evaluation
+( USD 5 million): This sub-component would support institutional strengthening of the Hydrology Division
+of the BWDB. This would focus on strengthening the capacity of central, divisional and sectional offices of
+BWDB; establishment of a knowledge center that would serve as a repository of all water and flood
+forecasting related data and information, technical studies and project management. This sub-component
+will also support M&E activities to track implementation progress.
+
+Component C: Agro-Met Information Systems Development and Use (USD 8 million)
+
+The main objective of this component is to provide appropriate agro-meteorological services to farmers in
+priority districts. The main implementing agency for this component will be the DAE and has the following
+sub-components:
+
+Sub-component C1: Development of a Decision Support System for Agro-Meteorological Information (USD
+4 million): This sub-component will support the development and operationalization of a Decision Support
+System for processing agro-meteorological information. Activities to be funded include setting up a web-
+based portal for agromet services; support for hardware and software; development of agricultural
+monitoring products; risk mapping of climate vulnerable communities; and development of agricultural
+information products.
+
+Sub-component C2: Dissemination of Agrometeorological products to farming communities in different
+agro-ecological zones (USD 2 million): This sub-component would support outreach and dissemination of
+agrometeorological information services to farmers in priority districts; and development of mobile
+applications and use of new technologies. The sub-component will also support capacity building and
+training at the farm level for improved use of weather and climate information.
+
+Sub-component C3: Institutional Capacity Strengthening, Project Management, Monitoring and Evaluation
+(USD 2 million): This sub-component would support technical capacity strengthening of DAE staff,
+technical studies, participation in regional fora on agromet service delivery, training visits, project
+management and monitoring and evaluation. The use and impact of disseminated information would be
+monitored and assessed at the community level through this sub-component.
+
+Component D: Contingent Emergency Response Component (USD 0)
+
+
+                                            Page 3 of 7
+Following an adverse natural or man-made event or that causes a major disaster, the Government may
+request the Bank to re-allocate project funds to this component (which presently carries a zero allocation) to
+s upport response and reconstruction. This component would allow the Government to request the Bank to
+reallocate project funds and designate them as IRM funds to be engaged to partially cover emergency
+response and recovery costs. This component could also beused to channel additional funds should they
+become available as a result of the emergency.
+D. Project location and Salient physical characteristics                relevant to the safeguard
+analysis (if known)
+Nationwide; including the Bay of Bengal. Specific locations are not known at this time.
+E. Borrowers Institutional Capacity for Safeguard Policies
+Bangladesh Meteorological Department (BMD) under Ministry of Defense (MoD), Bangladesh Water
+Development Board (BWDB) under Ministry of Water Resources (MoWR) and the Department of
+Agriculture Extension (DAE) are the implementing agencies.
+
+Bangladesh Meteorological Department (BMD) is a government organization under the administrative
+control of the Ministry of Defense. BMD falls under the non-military category of the MoD. The staffs are
+hired through the Public Service Commission. BMD does not have any prior experience in working with the
+World Bank though it has experience working with other donor agencies particularly JICA. During
+preparation, it will be ensured that BMD?s administrative location under the MoD will not hinder in any
+respect the World Bank?s ability to carry out its project supervision, oversight, operational and fiduciary
+responsibilities. Prior to negotiations stage, BDM will prepare an O&M plan to ensure long terms
+sustainability. Further, BWDB and DAE have previous experience in implementing IDA funded projects,
+though BWDB?s Hydrology Division has not been involved in any of those projects. The capacity of this
+Division including for safeguards will need to be strengthened.
+
+The MoD will be the nodal ministry; it will create the Project Steering Committee (PSC) with
+representatives from other ministries. The PSC will be responsible for overall project oversight. Each
+implementing agency will have its own Project Management Unit (PMU). There will be one Project
+Coordination Unit (PCU) under MoD which will coordinate with all three PMUs and will operate under the
+overall guidance of the PSC. The implementing Ministries will have the overall responsibility for the project
+implementation including, but not limited to, reporting, monitoring and evaluation, procurement control,
+financial management, audit and disbursements, compliance with environmental and social assessments, as
+well as coordination with the line agencies and the World Bank. It will be necessary to strengthen each
+implementing agency with PMUs housing professional, technical, procurement, financial management,
+social, and environment staff that would use appropriate procurement and financial management systems,
+and procedures with adequate internal control arrangements. These would be complemented by a
+Governance and Accountability Action Plan (GAAP) for BMD. For BWDB and DAE, GAAPs for other
+IDA projects will be updated and incorporated as needed.
+F. Environmental and Social Safeguards Specialists on the                    Team
+ Md Istiak Sobhan( GEN06 )
+ Sabah Moyeen( GSU06 )
+ Shakil Ahmed Ferdausi( GEN06 )
+II. SAFEGUARD POLICIES THAT MIGHT APPLY
+Safeguard Policies                         Triggered?     Explanation (Optional)
+
+
+                                            Page 4 of 7
+Environmental Assessment OP/BP 4.01 Yes             The proposed project is not expected to create any
+                                                    significant environmental impact since it is targeted
+                                                    to develop institutional capacity for transmission
+                                                    and processing data to enable higher quality
+                                                    forecast and increase flood warning lead times.
+                                                    However, the project will support both (i)
+                                                    Strengthening Meteorological Monitoring,
+                                                    Forecasting and Disaster related Early Warning
+                                                    System and (ii) Strengthening Hydrological
+                                                    Monitoring and Forecasting. These will include
+                                                    acquisition of hardware and software. Installation of
+                                                    some hardware may require physical infrastructure
+                                                    development at the field. Details of the hardware
+                                                    support and associated infrastructure are not known
+                                                    at this stage and the project is classified as Category
+                                                    ?B?. An Environmental and Social Management
+                                                    Framework will be prepared for the project to
+                                                    describe the procedure for environmental and social
+                                                    management in the proposed project.
+Natural Habitats OP/BP 4.04          TBD            The project physical activities are not expected to
+                                                    lead any conversion or degradation of critical or
+                                                    other natural habitats. However, the modernization
+                                                    of the network includes Sundarbans, which is an
+                                                    UNESCO heritage site and the single largest
+                                                    mangrove forest. In addition, there will be some
+                                                    installations in natural water bodies. Accordingly,
+                                                    the policy has been triggered as TBD. No separate
+                                                    instrument is required for natural habitats. It will be
+                                                    covered under ESMF.
+Forests OP/BP 4.36                   No             The proposed project is not expected to have any
+                                                    impact on the health and quality of forests, the
+                                                    rights and welfare of people and their level of
+                                                    dependence upon or interaction with forests; and
+                                                    the management, protection, or utilization of natural
+                                                    forests or plantations. As such, the policy has not
+                                                    been triggered.
+Pest Management OP 4.09              No             The project will not finance procurement of
+                                                    fertilizers and pesticides. Also the project will not
+                                                    influence on the increased use of fertilizers and
+                                                    pesticides. Accordingly, the policy has not been
+                                                    triggered.
+Physical Cultural Resources OP/BP 4.11 TBD          Some of the project locations may have cultural
+                                                    property associated with them that may be impacted
+                                                    by infrastructure development work. A Cultural
+                                                    Property Action Framework may need to be
+                                                    prepared as part of ESMF.
+Indigenous Peoples OP/BP 4.10        Yes            The project is expected to be implemented
+                                                    nationwide including in the Southern part of the
+
+                                      Page 5 of 7
+                                                          country where Indigenous People may live. The
+                                                          specific locations for project interventions are not
+                                                          known at this stage and so an Indigenous Peoples
+                                                          Development Framework (IPDF) or Small, Ethnic
+                                                          and other Vulnerable Communities Development
+                                                          Framework (SEVCDF). The latter will be included
+                                                          as part of the Social Management Framework (part
+                                                          of Environmental and Social Management
+                                                          Framework) discussed below, and will include
+                                                          consultation and communication strategies and
+                                                          measures to enhance the positive impacts of the
+                                                          project for the communities.
+    Involuntary Resettlement OP/BP 4.12     Yes           Under Component A and B the project will upgrade
+                                                          and modernize equipment, install new equipment
+                                                          and weather stations, as well as update
+                                                          communication and data generation/dissemination
+                                                          processes. While it is understood that the scale of
+                                                          these activities will be relatively small in terms of
+                                                          land and space usage, and that the activities will be
+                                                          mainly carried out within the existing premises of
+                                                          the implementing agencies, it cannot be guaranteed
+                                                          that no land acquisition will be required or that
+                                                          people and livelihoods on private and/or public
+                                                          lands will not be impacted by the project. Since the
+                                                          project?s scope is nationwide and the specific
+                                                          locations for the various interventions has not been
+                                                          determined a Social Management Framework will
+                                                          be prepared for the project to include a
+                                                          Resettlement Policy Framework (RPF), a
+                                                          Consultation and Communication Strategy (CCS)
+                                                          focused on ongoing information and feedback
+                                                          which can lend itself to participatory project design.
+                                                          Component C would support outreach and
+                                                          dissemination of agromet information services to
+                                                          farmers in priority districts, development of mobile
+                                                          applications and use of new technologies. The
+                                                          views and needs of communities in terms weather
+                                                          and climactic situations they face and the
+                                                          type/frequency of forecasts which would be locally
+                                                          useful, needs to be captured and analyzed via a
+                                                          Social Assessment and the CCS. The CCS will have
+                                                          a gender focus as well to address the needs of
+                                                          women specifically relevant to the project activities
+                                                          and outcomes.
+    Safety of Dams OP/BP 4.37               No            Not relevant to the project
+    Projects on International Waterways     TBD
+    OP/BP 7.50
+    Projects in Disputed Areas OP/BP 7.60   No
+.
+
+
+
+
+                                            Page 6 of 7
+III. SAFEGUARD PREPARATION PLAN
+.
+
+
+
+
+    A. Tentative target date for preparing the PAD Stage ISDS:
+        30-Jun-2015
+    B. Time frame for launching and completing the         safeguard-related studies that may be needed.
+       The specific      studies and their timing should be specified in the PAD-stage       ISDS.
+        May, 30, 2015
+
+
+V. Approval
+    Task Team Leader(s):                      Name: Poonam Pillai,Nadia Sharmin,Shahpar Selim
+    Approved By:
+    Safeguards Advisor:                       Name: Maged Mahmoud Hamed (SA) Date: 20-Jan-2016
+    Practice Manager/Manager:                 Name: Bernice K. Van Bronkhorst                    Date: 08-May-2017
+                                              (PMGR)
+
+
+    1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the
+    InfoShop and (ii) in country, at publicly accessible locations and in a form and language that are accessible to potentially affected
+    persons.
+
+
+
+
+                                                         Page 7 of 7
+

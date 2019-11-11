@@ -1,0 +1,502 @@
+Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+I.  Basic Information
+ 
+Date prepared/updated:  05/26/2005 
+Report No.:  43490
+1. Project Statistics  
+ 
+Country:  Pakistan 
+Project ID:  P076872 
+Project Name:  Second Improvement to Financial Reporting and Auditing Project 
+Task Team Leader:  Anthony Graeme Lee 
+Estimated Appraisal Date: December 20, 
+2004 
+Estimated Board Date: July 28, 2005 
+Managing Unit:  SARFM 
+Lending Instrument:  Specific Investment 
+Loan 
+Sector:  General finance sector (100%) 
+Theme:  Standards and financial reporting (P) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+84.00 
+GEF Amount (US$m.): 
+0.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER/RECIPIENT 
+9.00
+9.00 
+Environmental Category: C - Not Required 
+Simplified Processing 
+Simple [] 
+Repeater [] 
+Is this project processed under OP 8.50 (Emergency Recovery) 
+Yes [ ] 
+No [X] 
+2. Project Objectives 
+The project will build capacity to improve the accuracy, comprehensiveness, reliability, 
+and timeliness of intra-year and year-end government financial reports, at Federal and 
+Provincial levels, and initiate the process at District and sub-District levels, thereby 
+strengthening the financial accountability cycle.  It would therefore directly support the 
+Government of Pakistan's commitment to improved public financial management, 
+accountability, and transparency, and enhance the capacity of public sector managers to 
+use credible financial information for better and informed decision making.  It will 
+facilitate public oversight of the use of public monies, and increase the national and 
+international credibility of Governments' financial statements and assurance processes.   
+ 
+3. Project Description 
+PIFRA II has four core components: i) financial accounting and budgeting system 
+(FABS); ii) capacity building and upgrading of the Office of the Auditor General of 
+Pakistan (OAGP); iii) capacity building and upgrading of the Office of the Controller 
+General of Accounts (OCGA); and, iv) Project Management.  Operational and 
+Maintenance costs arising from PIFRA I and II investments, such as hardware and 
+software maintenance and computer stationery, constitute an expenditure category in 
+Page  2
+each of the components that would be financed wholly by the GOP as part of its 
+counterpart contributions to the project  
+ 
+The Government has proposed that it would finance about 10% of the total cost.The 
+IDA contribution (including contingencies) would therefore be US$84 million equivalent.  
+The financing plan proposed is that IDA finances all expenditure categories of the four 
+components except the operational and maintenance costs, at a rate of 100%, while 
+Government finances all operational and maintenance costs.  The components, which 
+group activities according to function, are described below. More details can be found in 
+Annex 6 of PAD.  
+ 
+i) 
+Financial Accounting and Budgeting Systems (FABS) - US$ 48.739 million 
+(including contingencies): This component's objective is to follow up and extend the 
+work done under PIFRA I in implementing policies, systems and procedures that support 
+overall project objectives of improving the accuracy, completeness, reliability and 
+timeliness of intra-year and year-end government financial reports in Pakistan at the 
+Federal and Provincial, and some District and Tehsil Governments.  Successful 
+completion of this component would be instrumental to achieving full government 
+financial accountability and transparency in the new automated environment.  The 
+component consists of three phases:  
+ 
+(a) 
+The first phase includes extending the FABS designed under PIFRA I: to the 
+balance of District Accounts Offices (DAOs); to the headquarters of some departments 
+currently responsible for their own accounting; and to key sites in Azad Jammu and 
+Kashmir.  
+ 
+(b) 
+The second phase includes further extension of PIFRA systems to: 140 central 
+line ministries and provincial line departments to support budget preparation and 
+execution, and 30 district government finance offices, to enable them to connect 
+electronically with Finance during budget preparation and to directly access information 
+on the status of their accounts during the year; plus the design and pilot implementation 
+in 15 Tehsils of a simpler financial management system for Tehsil local governments, in 
+the immediate term, with the option to extend the application to a total of all 105 TMAs 
+at the District headquarters around the country.  The form of architecture and application 
+platform will be defined and fine-tuned during the implementation process of FABS at 
+the DAO sites.  (PIFRA's work in local government will be closely coordinated with 
+Governments' other initiatives in this area, including those supported by ADB.)  
+ 
+(c) 
+A phase implemented in parallel would provide for:  
+ 
+i. 
+a comprehensive end user training program, the training of finance managers and 
+building accounting capacity through training on financial management, the New 
+Accounting Model, and the new chart of accounts;  
+ 
+Page  3
+ii. 
+design of an interface between PIFRA systems and the National Bank of Pakistan 
+(NBP) and State Bank of Pakistan (SBP), the Central Board of Revenue (CBR) and the 
+Planning Commission (PC), to allow for timely reconciliation of accounts;  
+ 
+iii. 
+accommodating MTBF provisions in system configuration;  
+ 
+iv. 
+the development of an overall systems and data architecture and capacity to 
+ensure compatible information flows and summarization among national, provincial, 
+district, and tehsil governments, and between PIFRA and non-PIFRA systems for whole 
+of government reporting;  
+ 
+v. 
+upgrading of DAOs and other infrastructure as may be necessary;  
+ 
+vi. 
+determining the feasibility, benefits and costs of extending FABS systems to the 
+Ministry of Defense and the Railways; and,  
+ 
+vii. 
+the establishment of a data warehousing capability and system.  
+ 
+ii) 
+Capacity Building and Upgrading of the Office of the Auditor General of Pakistan 
+-
+US$ 19.345 million (including contingencies):  The objective of the OAGP component 
+is to adopt modernized government audit procedures and internationally accepted 
+auditing standards that will contribute to eradicating deficiencies in program and 
+evaluation capabilities in a timely and effective manner.  There is also an urgent need to 
+upgrade the organization and administrative support for OAGP to support plans to meet 
+its extended audit mandate.  This is to be achieved through four sub-components:  
+ 
+(a) 
+reorganization and support technical assistance for audit management and 
+development activities to implement new methodologies, and significant expansions of 
+office space and equipment to meet the needs of expanded professional audit functions 
+directed at improving the central capacity to report publicly on the full regularity and 
+performance audit mandate including adequate audit of revenue, and the certification of 
+annual accounts of corporate entities, and national, provincial and district levels of 
+government;  
+ 
+(b) 
+physical upgrading and IT support for field audit - poor conditions and equipment 
+will be upgraded to enable more efficient implementation of audit methods designed 
+during PIFRA I;  
+ 
+(c) 
+implementation of an integrated audit management information system (AMIS)- 
+to improve audit control, reporting and follow up through better communications and 
+planning between Islamabad and the decentralized audit directorates; and,  
+ 
+(d) 
+upgraded training facilities and programs to develop staff to internationally 
+accepted professional standards - deficiencies identified by a training needs analysis 
+conducted during PIFRA I will be corrected through the implementation of a 
+comprehensive training program conducted in upgraded training facilities.  
+Page  4
+iii) 
+Capacity Building and Up-gradation of the Offices of the Controller General of 
+Accounts - US$ 18.470 million (including contingencies):  The CGA ordinance 
+conceives a broad role for the CGA.  Accountant General (AG) offices at Federal and 
+provincial levels have been made his responsibility as well as the departmentalized 
+accounting entities.  This has considerably enhanced the policy formulation, 
+coordination, and administration responsibilities of the CGA.  The CGA is also expected 
+to play the lead role in developing an integrated accounting and financial reporting 
+environment.  The systems that the CGA inherited in a real sense are undergoing 
+comprehensive change and will be very different from the legacy systems.  The objective 
+of the CGA component is to assist the CGA's Office and the AGs to professionally and 
+adequately manage, and also to maximize the benefits from, the computerized accounting 
+environment.  This objective is to be achieved through two categories of assistance:  
+ 
+(a) 
+Strengthening Government Financial Management Policy and Capacity by:  
+ 
+i. 
+strengthening the CGA's administrative and management powers through capacity 
+building of CGA staff; and recruitment of senior staff with qualifications and experience 
+required to take over, manage and maintain the new system;  
+ 
+ii. 
+building a skilled internal audit complement via training and recruitment, and 
+developing a comprehensive set of internal controls, internal audit work programs, and 
+reporting regime, of international standards of the Institute of Internal Auditors (IIA);  
+ 
+iii. 
+revising/developing government accounting, budgeting, financial, and internal 
+control manuals, taking into consideration the long-term vision of eventual transition to 
+full international accounting and internal auditing standards;  
+ 
+iv. 
+creating a SAP Competency Center, including help desks, to provide reliable 
+technical and maintenance support for SAP applications; building IT capacity through 
+recruitment of technical professionals and providing technical training opportunities 
+(local and foreign) for the staff responsible for the systems. The MOF has recognized the 
+necessity for supporting the recruitment of well qualified counterpart staff by the CGA 
+for the IT function;  
+ 
+(b) 
+Strengthening of the CGA's facilities and systems to take maximum benefit from 
+the IT-based environment by:  
+ 
+i. 
+renovation of CGA headquarters - the HQ building would be upgraded to 
+adequate standards to support a computerized environment;  
+ 
+ii. 
+construction and renovation of Accountant Generals offices in Balochistan & 
+Sindh (and others and required) to adequate standards and to support a computerized 
+environment;  
+ 
+Page  5
+iii. 
+the conversion of Balochistan Treasury Offices to DAOs, including logistical 
+support for the more remote sites, and new budgeted posts;  
+ 
+iv. 
+improved internal controls, specified by the CGA in consultation with the Auditor 
+General and MOF/Finance Departments, for use by the Chief Financial Officers, and 
+pilot implementation in 10 sites; and  
+ 
+v. 
+improved records management needed to improve financial reports to assist 
+accountability and management.  A contractor will help set up archival policies and 
+arrangements, supervise equipment procurement, train internal resources and transfer the 
+systems to the department.  
+ 
+The project also includes provision for training of officers: (a)to develop staff to 
+internationally accepted professional standards through degree courses in accounting, 
+financial management and IT; (b) to familiarize them with the concepts, techniques and 
+methods of internal audit; and, (c) for training of officers for the implementation of the 
+Internal Audit Manual.  
+ 
+iv) 
+Project Management - US$ 6.446 million (including contingencies):  The 
+framework for Project Management comprises:  
+ 
+(a) 
+A Steering Committee, chaired by the Auditor General, with general powers to 
+oversee project policies, implementation, and responsible for reviewing proposals for 
+capacity development and for post completion activities shall be established.  Its 
+functions will include receiving quarterly reports on the project's progress, assisting 
+coordination, approving activities and helping mitigate risks, within the project's general 
+framework.  The Steering Committee's core membership will include Audit, CGA, 
+Finance (Federal and Provincial), Planning, Local Government, SBP, NBP and CBR; 
+others may be co-opted from time-to-time as necessary.  
+ 
+(b) 
+A Project Director with adequate devolved powers to ensure that project 
+implementation runs smoothly and is coordinated (between components, between 
+provinces, etc.), and not held up by administrative bottlenecks.  The Project Director's 
+Terms of Reference, powers and responsibilities, as contained in Annex 6, shall be 
+reviewed and agreed at negotiations.  
+ 
+(c) 
+The Project Director would head a Project Directorate.  The Directorate would 
+comprise a team based in Islamabad and a Sub Directorate in each Province. The 
+Islamabad team would deal with overall coordination of implementation, change 
+management and communication, and back-office functions such as project accounting, 
+reporting and procurement including, through its MIS Wing, running a project 
+implementation tracking model.  Incremental staff (including consultants as required) 
+would strengthen the existing core team. Provincial sub Directorates would play the 
+pivotal role for local implementation, with each client nominating an officer to be solely 
+responsible for managing project work within his/her business unit. The Chart showing 
+the Service Delivery relationships with these arrangements is provided in Annex 11.  
+Page  6
+(d) 
+Project-oriented personnel in the project management team have a major positive 
+impact of the pace of implementation.  An attempt to attract such staff and to limit staff 
+turnover shall be made by adopting incentives such as special and project allowances, 
+honoraria, and provision of good office facilities and transport.  The Project makes 
+provision for contract hiring, among others, of the Director for the FABS Component, 
+Director of the Auditing Component, the Director of the Training Component and other 
+consultants for appropriate support at market rates during the 5-year project 
+implementation period to minimize critical staff turnover during the crucial 
+implementation phase.  
+ 
+(e) 
+The Project Director would have PAO responsibilities for project finances. This 
+will help to ensure that project implementation and coordination are integrated with 
+project finances.  
+ 
+(f) 
+Communication and change management will be the responsibility of a 
+designated senior officer, who will determine strategy, oversee implementation and report 
+results achieved.  Change management related to project implementation shall be 
+managed through the Sub Directorates, and tailored to the needs of particular activities.  
+Consultancy services and technical assistance will be secured to support the Government 
+in implementing the change management activities (See Annex 7 for further details).  
+ 
+(g) 
+Adequate space for the Project Directorate at Islamabad and Sub Directorates at 
+Provincial HQs shall be needed.  In Islamabad, space sufficient to house the complete 
+Project Management Directorate at one site would be acquired.  Provincial Governments 
+would be requested to accommodate their respective Sub Directorates.  
+ 
+(h) 
+As part of the project's unallocated category provided under the Project 
+Management component, a sum of US$2 Million has been provisioned for utilization for 
+activities under the aegeis of the Federal and 4 Provincial Finance Departments in order 
+to reinforce the effective delivery of the fiscal management capacity part of the project 
+through those offices.   
+ 
+4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis 
+The project Directorate will be headquartered in Islamabad with sub-Directorates in all 
+the four provinces.  The project would also extend to DAOs in AJK.  Since AJK is a 
+disputed territory, the standard disclaimer has been included in the project 
+documentation. The project involves some construction, but new building will be on 
+Government-owned land held free of encroachments, and the balance shall be 
+refurbishment of existing office space by items such as installing electrical and 
+communication wiring, general repair, and maintenance.  There is no land acquisition 
+anticipated; however, small piece(s) of land, if required, for construction of new offices, 
+will be purchased by the Government through commercial means.  There is no 
+involuntary resettlement envisaged.  
+ 
+Page  7
+B. Check Environmental Category A [ ], B [ ], C [X], FI [ ]  
+ 
+C. Safeguard Policies Triggered  
+ 
+Yes No 
+ 
+ 
+Environmental Assessment (OP/BP/GP 4.01) 
+[ ] 
+[ X ]  
+ 
+Natural Habitats (OP/BP 4.04) 
+[ ] 
+[ X]  
+ 
+Pest Management (OP 4.09) [ ] 
+[ X]  
+ 
+Cultural Property (draft OP 4.11 - OPN 11.03-) 
+[ ] 
+[ X]  
+ 
+Involuntary Resettlement (OP/BP 4.12) 
+[ ] 
+[ X]  
+ 
+Indigenous Peoples (OD 4.20) 
+[ ] 
+[ X]  
+ 
+Forests (OP/BP 4.36) 
+[ ] 
+[ X]  
+ 
+Safety of Dams (OP/BP 4.37) 
+[ ] 
+[ X]  
+ 
+Projects in Disputed Areas (OP/BP/GP 7.60) 
+[X ] 
+[ ]  
+ 
+Projects on International Waterways (OP/BP/GP 7.50) 
+[ ] 
+[ X]  
+ 
+Disclaimer: "A part of the proposed project will be carried out in Azad Jammu Kashmir, 
+an area over which Pakistan and India have been in dispute since 1947. By financing the 
+credit, IDA does not intend to make any judgement as to the legal or other status of the 
+disputed territory or to prejudice the final determination of the parties claim."   
+ 
+5. Environmental and Social Specialists on the Team 
+ 
+6. Safeguard Policies Triggered
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+ X 
+Natural Habitats (OP/BP 4.04) 
+ X 
+Forests (OP/BP 4.36) 
+ X 
+Pest Management (OP 4.09) 
+ X 
+Cultural Property (OPN 11.03) 
+ X 
+Indigenous Peoples (OD 4.20) 
+ X 
+Involuntary Resettlement (OP/BP 4.12) 
+ X 
+Safety of Dams (OP/BP 4.37) 
+ X 
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X 
+Projects in Disputed Areas (OP/BP 7.60) 
+X
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts: 
+None.   
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+None.   
+ 
+Page  8
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts. 
+Not applicable.   
+ 
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide 
+an assessment of borrower capacity to plan and implement the measures described. 
+Not applicable.   
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+Not applicable.   
+ 
+B. Disclosure Requirements Date
+ 
+*
+If the project triggers the Pest Management, Cultural Property and/or the Safety 
+of Dams policies, the respective issues are to be addressed and disclosed as part of 
+the Environmental Assessment/Audit/or EMP. 
+If in-country disclosure of any of the above documents is not expected, please 
+explain why: 
+Not applicable.   
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the 
+ISDS is finalized by the project decision meeting) 
+ 
+OP 7.60 - Projects in Disputed Areas 
+ 
+Has the memo conveying all pertinent information on the international 
+aspects of the project, including the procedures to be followed, and the 
+recommendations for dealing with the issue, been prepared 
+Yes 
+Does the PAD/MOP include the standard disclaimer referred to in the OP? 
+Yes 
+BP 17.50 - Public Disclosure 
+ 
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+No 
+Have relevant documents been disclosed in-country in a public place in a 
+form and language that are understandable and accessible to project-affected 
+groups and local NGOs? 
+No 
+All Safeguard Policies 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities 
+been prepared for the implementation of measures related to safeguard 
+policies? 
+No 
+Have costs related to safeguard policy measures been included in the project 
+cost? 
+No 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures related to safeguard policies? 
+No 
+Have satisfactory implementation arrangements been agreed with the 
+No 
+Page  9
+borrower and the same been adequately reflected in the project legal 
+documents? 
+D. Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Mr Anthony Graeme Lee 
+04/27/2005 
+Environmental Specialist: 
+Mr Paul Jonathan Martin 
+04/27/2005 
+Social Development Specialist 
+Mr Paul Jonathan Martin 
+ 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+ 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Frederick Edmund Brusberg 
+04/27/2005 
+Comments:   
+Sector Manager: 
+Mr Robert J. Saum 
+04/27/2005 
+Comments:   

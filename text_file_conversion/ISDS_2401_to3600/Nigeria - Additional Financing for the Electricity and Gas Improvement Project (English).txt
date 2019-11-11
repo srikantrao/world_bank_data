@@ -1,0 +1,335 @@
+﻿                    INTEGRATED SAFEGUARDS DATASHEET
+                            APPRAISAL STAGE
+
+I. Basic Information
+Date prepared/updated: 02/16/2012                                     Report No.: AC6652
+1. Basic Project Data
+Original Project ID: P106172                  Original Project Name: Nigeria Electricity
+                                              and Gas Improvement Project (NEGIP)
+Country: Nigeria                              Project ID: P126182
+Project Name: Nigeria Electricity and Gas Improvement Project (add. financing)
+Task Team Leader: Erik Magnus Fernstrom
+Estimated Appraisal Date: February 7,         Estimated Board Date: March 29, 2012
+2012
+Managing Unit: AFTEG                          Lending Instrument: Specific Investment
+                                              Loan
+Sector: General energy sector (90%);Oil and gas (10%)
+Theme: Infrastructure services for private sector development (100%)
+IBRD Amount (US$m.):             0
+IDA Amount (US$m.):            100
+GEF Amount (US$m.):              0
+PCF Amount (US$m.):              0
+Other financing amounts by source:
+         BORROWER/RECIPIENT                                             0.00
+                                                                        0.00
+Environmental Category: B - Partial Assessment
+Simplified Processing                         Simple []           Repeater []
+Is this project processed under OP 8.50 (Emergency Recovery)
+                                                                   Yes [ ]     No [X]
+or OP 8.00 (Rapid Response to Crises and Emergencies)
+
+2. Project Objectives
+The development objectives of the Project are to: (i) improve the availability and
+reliability of gas supply to increase power generation in existing public sector power
+plants; and (ii) improve the power network’s capacity and efficiency to transmit and
+distribute quality electricity to the consumer.
+
+3. Project Description
+The following is a brief description of the activities targeted by the project. The proposed
+Additional Financing would extend the PRG series developed and proven under NEGIP
+to up to three National Integrated Power Project (NIPP) plants newly constructed by
+Niger Delta Power Holding Company (NDPHC) to facilitate availability of adequate
+volumes of high quality gas required to operate these assets at their design capacity. It
+would also provide short-term investment funding to relieve bottlenecks in the
+transmission system (increased transformer capacity, etc) to enhance the transmission
+system’s ability to “wheel�? the increas power supply to population centers, and to
+improve revenue recovery and service delivery in distribution (pre-paid meters paired
+with energy saving light bulbs - CFLs, distribution system upgrading, etc.). The
+Additional Financing further proposes to scale-up TA and capacity building packages to
+support the longer term reform agenda and develop the skills and capacities of key sector
+institutions such as the Nigeria Bulk Electricity Trading company (NBET) and NERC,
+among others. The Additional Financing design consists of the same four components
+approved under NEGIP.
+
+ Component 1: PRGs for gas suppliers (original cost: US$ 400 million, revised cost:
+US$ 600 million). These PRGs would replicate the PRG structure designed under
+NEGIP,
+
+ Component 2: Investments in complementary transmission and distribution
+infrastructure (original cost: US$180 million – revised cost: US$ 260 million). The
+investments will target network upgrades to remove transmission bottlenecks and
+improve electricity distribution to end–users,
+
+ Component 3: Technical Assistance (original cost: US$16.00 million – revised cost:
+US$ 34 million). The proposed Additional Financing will provide US$ 18 million to
+complement interventions through reform measures and the contractual frameworks
+supported by the PRGs. In particular, the scaling up of the technical assistance
+component will ensure that the relevant institutions are adequately equipped to deliver
+optimal results in terms of implementation and outcomes of the proposed investments and
+sector reform.
+
+ Component 4: The proposed Additional Financing also includes funding for PHCN’s
+Project Management Unit (PMU) to cover the costs of its Project management and
+contract supervision activities.
+
+4. Project Location and salient physical characteristics relevant to the safeguard
+analysis
+The project is national in scope. The PRGs will cover payments for gas that is being
+supplied to NDPHC primarily using existing infrastructure. Gas will be sourced from the
+oil and gas fields in the Niger River Delta. The NIPP plants nominated for the contracts
+to be covered by PRGs for gas delivery are Alaoji, Olorunsogo, and Sapele. In the cases
+of Olorunsogo and Sapele, the gas will be transmitted from the Escravos-Lagos Pipeline
+System (ELPS) through existing spur lines (for Sapele) and a new spur line (for
+Olorunsogo).
+
+5. Environmental and Social Safeguards Specialists
+   Mr Thomas E. Walton (EASIS)
+   Ms Paula F. Lytle (AFTCS)
+   Mr Amos Abu (AFTEN)
+6. Safeguard Policies Triggered                               Yes         No
+Environmental Assessment (OP/BP 4.01)                          X
+Natural Habitats (OP/BP 4.04)                                              X
+Forests (OP/BP 4.36)                                                       X
+Pest Management (OP 4.09)                                                  X
+Physical Cultural Resources (OP/BP 4.11)                                   X
+Indigenous Peoples (OP/BP 4.10)                                            X
+Involuntary Resettlement (OP/BP 4.12)                          X
+Safety of Dams (OP/BP 4.37)                                                X
+Projects on International Waterways (OP/BP 7.50)                           X
+Projects in Disputed Areas (OP/BP 7.60)                                    X
+
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project.
+Identify and describe any potential large scale, significant and/or irreversible impacts:
+The additional financing has been classified in EA Category B, like the parent project.
+There are no large-scale, significant or irreversible impacts. Potential environmental
+impacts consist of those associated with (i) the public health and safety risks involved in
+transporting gas through existing pipelines and (ii) the rehabilitation and upgrading of
+electric transmission and distribution substations and distribution lines.
+
+ Safeguards for Component 1 are being addressed through preparation of pipeline
+integrity studies for the existing pipelines and EIAs for new pipelines that will supply gas
+to the NIPP power plants under PRGs. The first integrity study has been completed in
+the form of an update for the ELPS Integrity Study that was prepared for West African
+Gas Pipeline in 2000. NGC is in the process of implementing the study’s recommended
+remedial actions, many of which has been completed. Those that are delayed are
+primarily repair of pigging facilities, reinstatement of cathodic protection for certain
+pipeline segments, and installation of a new SCADA system. These actions are
+incorporated in a revised action plan agreed with NGC and monitored by the Bank.
+Additional studies will be carried out in accordance with the Environment and Social
+Management Framework (ESMF) as required before PRGs involving different existing
+pipelines are executed. When a new pipeline is involved, the EIA prepared for the
+pipeline according to Nigerian law must also be acceptable to the Bank. EIAs are
+disclosed in-country under Nigerian procedures and will be disclosed in the InfoShop.
+Integrity studies are not disclosed for reasons of security. The Borrower’s commitment
+to a time-bound program for completion of recommended actions in integrity studies will
+be a covenant in the legal documents.
+
+  Safeguards for Component 2 are being handled according to the project’s ESMF
+described below. In addition, a Resettlement Polic Framework (RPF) originally
+prepared but not needed for the parent project is being disclosed for the additional
+financing. Land acquisition or resettlement are not anticipated, but OP 4.12 is being
+triggered as a precautionary measure in case additional land has to be acquired at a
+substation.
+
+  It is possible that OCs / gas companies delivering gas to PHCN or NDPHC power plants
+with the backing of Bank PRGs will see new market opportunities not only for export and
+for firm domestic consumption (facilitated by this project), but also possible future
+growth in domestic consumption thanks to a demonstration of reliable supply of good
+quality gas. If so, OCs may decide to drill new gas wells or construct extensions to gas
+collection systems. Because of the nature of the production system, gas transport system,
+and market, it would be very unusual to know whether any, or which, new wells or
+extended collection systems would be directly attributable to gas deliveries under Bank-
+guaranteed contracts. Once produced, collected, and processed, gas transported by
+pipeline becomes fungible and potentially delivered to any one of a wide variety of end
+users. Under these circumstances, it is unrealistic for the Bank to try to reach further
+�?upstream“ in direct project safeguards work than the integrity studies it is requiring for
+the existing pipelines through which the OCs will deliver the gas. The Bank does not
+have leverage to apply its policies to such upstream developments. The more realistic
+approach is to rely on existing Nigerian regulations and to use Bank resources through
+Technical Assistance to help the Government to improve, evaluate and assess their
+application to gas production facilities. PRG Project Agreements have an undertaking
+from the relevant OCs to the effect that any new wells would be developed in full
+compliance with Nigerian law, including requirements for environmental assessment,
+public consultation, and disclosure. The OCs that are parties to the Gas Supply and
+Aggregation Agreements supported by the Bank’s PRG, would notify the Bank about
+their permit applications to the Ministry of Environment and the DPR and confirm to the
+Bank that the necessary permits and approvals have been received. In the event of non-
+compliance the Bank would have the right to suspend the PRG until such time as the
+default is remedied. OCs that have signed PRG Project Agreements have accepted the
+notification requirements, but as the PRGs are not yet effective, no notifications have yet
+been required. The capacity-building for FME in implementing and enforcing provisions
+of Nigerian law with respect to OC gas wells and gas gathering systems is being
+strengthened during the parent project through technical assistance that has been fully
+implemented. The stakeholder forum that has been constituted under the Project (see
+II.A.5 below for its description) will facilitate articulation of any concerns that arise
+regarding upstream developments.
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future
+activities in the project area:
+The increases in availability of electric power and in the reliability of its delivery should
+contribute to economic development and improved quality of life nationally and
+regionally. On the other hand, the type, extent and location of future developments near
+the power stations and elsewhere is unknown, and therefore their impacts cannot be
+predicted specifically. Because unplanned, poorly planned, or badly executed
+development can have significant adverse social and environmental impacts, reinforcing
+the ability of local and state governments to plan and administer land development and to
+monitor and enforce compliance with environmental standards should be a long-term
+goal for Nigeria.
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize
+adverse impacts.
+Alternatives are not relevant in the case of many of the proposed investments, since they
+involve correction of specific problems at existing transmission and distribution facilities.
+The same is true for most of the PRGs, since they will apply to gas being supplied
+primarily through existing lines. To the extent that there are alternatives, they will be
+considered in the course of design and assessment of the individual investments.
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide
+an assessment of borrower capacity to plan and implement the measures described.
+The Environment, Resettlement and Social Unit (ERSU) resident in the PMU prepared
+the ESMF and has prepared the ESMPs for the investments being financed in the parent
+project under Component 2. ERSU will prepare the ESMPs for the additional
+investments in Component 2, ERSU has engaged a specialized consultant to conduct
+integrity studies and review EIAs for relevant pipelines other than ELPS.Implementation
+of the action plan resulting from those integrity studies will be a covenant in the legal
+agreements , following the same template as in the PRGs for PHCN plants in the parent
+project, for presentation to the Board for approval. RAPs will also be prepared as and
+when necessary.
+
+  The ERSU already has demonstrated satisfactory capacity to address impacts of electric
+transmission and distribution projects. TDP, NEDP and NEGIP supervision has shown
+that the ERSU#s capacity to implement the ESMF properly for those projects is fully
+adequate. ERSU has overseen audits of the substations, prepared ESMPs and RAPs, and
+supervised implementation of ESMPs for substation and distribution line improvements.
+
+5. Identify the key stakeholders and describe the mechanisms for consultation and
+disclosure on safeguard policies, with an emphasis on potentially affected people.
+Key stakeholders are Nigerian citizens and businesses that are or would like to be
+consumers of electric power, local and regional governments, communities in affected
+states, Niger Delta communities and civil society organizations active there,
+environmental NGOs, environmental and social development professionals and
+institutions. They were first briefed on the parent project and consulted in a stakeholder
+workshop that was held jointly by PMU and the Bank at the Bank's country office on
+May 2, 2008. Additional workshops have been held at intervals during parent project
+implementation (see next paragraph). Consultations specific to individual investments
+will be conducted according to procedures defined in the ESMF.
+
+ A Stakeholder Forum chaired by the Minister of Power and including FME, DPR and
+other relevant federal and state government agencies, civil society organizations and
+industry representatives was constituted before the parent project became effective and
+continues to function during the implementation period, to discuss project
+implementation issues, give expert opinion, and provide a platform to articulate and
+address concerns about social and environmental aspects of project implementation. The
+forum has met at least every six months, to coincide with Bank supervision missions, and
+may schedule additional meetings if it finds this to be useful or necessary.
+
+ The final draft of the ESMF was disclosed in Nigeria under the auspices of the Federal
+Ministry for Environment, Housing and Urban Development on October 21, 2008 and
+has been redisclosed for the additional financing at (i) Power Holding Company of
+Nigeria- Project Management Unit, 7 Kampala Street, Wuse II, Abuja; (ii) PHCN HQ
+Library, Plot 441 Zambezi Crescent, Abuja; (iii) Transmission Company of Nigeria
+(TCN) Headquarters, Maitama, Abuja. and the Regional offices at Ijora -Lagos, Kaduna,
+Bauchi, Enugu, Port Harcourt, Benin.; (iv) PHCN Distribution Zones, Zone 4 Abuja,
+Benin, Ikeja - Lagos, Port Harcourt, Enugu, Kaduna, Jos and Yola. (v) Thermal
+Generation Stations Afam; Egbin; Sapele, Omotosho, Olorunsogo; and (vi) Federal
+Ministry of Environment and Housing, Plot 444 Aguiyi Ironsi Street, Maitama, Abuja.
+ on January 31, 2012 . Disclosure at the InfoShop occurred on October 23, 2008 with
+redisclosure on January 30, 2012.
+
+ The RPF had already been reviewed and disclosed along with the ESMF for the parent
+project and, though it was not applied in NEGIP, it is being redisclosed with the ESMF in
+case it is needed in the additional financing.
+
+ ERSU prepared a generic ESMP for the investments in electric transmission and
+distribution under the parent project, and it has been disclosed in country on PHCN's
+website and at its regional transmission offices (April 17, 2009) and in the InfoShop
+(April 14, 2009). It includes in an annex the information on the environmental issues at
+each of the work locations. Individual ESMPs are prepared for each site prior to
+clearance to begin work, by incorporating the site-specific information in the text
+provided in the generic template. ESMPs for the investments in the additional financing
+will be prepared by ERSU, reviewed, and disclosed in country and in the Infoshop prior
+to approval for financing.
+
+
+
+B. Disclosure Requirements Date
+Environmental Assessment/Audit/Management Plan/Other:
+ Was the document disclosed prior to appraisal?                    Yes
+ Date of receipt by the Bank                                    09/01/2008
+ Date of "in-country" disclosure                                01/31/2012
+ Date of submission to InfoShop                                 01/30/2012
+ For category A projects, date of distributing the Executive
+ Summary of the EA to the Executive Directors
+Resettlement Action Plan/Framework/Policy Process:
+ Was the document disclosed prior to appraisal?                    Yes
+ Date of receipt by the Bank                                    09/01/2008
+ Date of "in-country" disclosure                                01/31/2012
+ Date of submission to InfoShop                                 01/31/2012
+Indigenous Peoples Plan/Planning Framework:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+Pest Management Plan:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+* If the project triggers the Pest Management and/or Physical Cultural Resources,
+the respective issues are to be addressed and disclosed as part of the Environmental
+Assessment/Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please
+explain why:
+
+
+
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the
+ISDS is finalized by the project decision meeting)
+
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) report?              Yes
+If yes, then did the Regional Environment Unit or Sector Manager (SM)          Yes
+review and approve the EA report?
+Are the cost and the accountabilities for the EMP incorporated in the          Yes
+credit/loan?
+OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy framework/process              Yes
+framework (as appropriate) been prepared?
+If yes, then did the Regional unit responsible for safeguards or Sector        Yes
+Manager review the plan?
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the World Bank's       Yes
+Infoshop?
+Have relevant documents been disclosed in-country in a public place in a       Yes
+form and language that are understandable and accessible to project-affected
+groups and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional responsibilities    Yes
+been prepared for the implementation of measures related to safeguard
+policies?
+Have costs related to safeguard policy measures been included in the project   Yes
+cost?
+Does the Monitoring and Evaluation system of the project include the           Yes
+monitoring of safeguard impacts and measures related to safeguard policies?
+  Have satisfactory implementation arrangements been agreed with the     Yes
+  borrower and the same been adequately reflected in the project legal
+  documents?
+
+
+  D. Approvals
+
+Signed and submitted by:                              Name                 Date
+Task Team Leader:                   Mr Erik Magnus Fernstrom             02/06/2012
+Environmental Specialist:           Mr Thomas E. Walton                  02/06/2012
+Social Development Specialist       Ms Paula F. Lytle                    02/06/2012
+Additional Environmental and/or     Mr Amos Abu                          02/06/2012
+Social Development Specialist(s):
+
+Approved by:
+Regional Safeguards Coordinator:    Ms Alexandra C. Bezeredi             02/14/2012
+  Comments:
+Sector Manager:                     Mr Lucio Monari                      02/14/2012
+  Comments:
+

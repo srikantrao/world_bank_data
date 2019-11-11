@@ -1,0 +1,560 @@
+                                               INTEGRATED SAFEGUARDS DATA SHEET
+                                                       APPRAISAL STAGE
+                                                                                               Report No.: ISDSA6598
+Public Disclosure Copy
+
+
+
+
+                         Date ISDS Prepared/Updated: 27-Nov-2013
+                         Date ISDS Approved/Disclosed: 03-Dec-2013
+                         I. BASIC INFORMATION
+                            1. Basic Project Data
+
+                            Country:          Bangladesh                         Project ID:    P129920
+                            Project Name:     Bangladesh: Rural Electricity Transmission and Distribution Project (P129920)
+                            Task Team         Zubair K.M. Sadeque
+                            Leader:
+                            Estimated         29-Nov-2013                        Estimated   27-Feb-2014
+                            Appraisal Date:                                      Board Date:
+                            Managing Unit:    SASDE                              Lending     Investment Project Financing
+                                                                                 Instrument:
+                            Sector(s):        Transmission and Distribution of Electricity (100%)
+                            Theme(s):         Rural services and infrastructure (100%)
+                            Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+                            8.00 (Rapid Response to Crises and Emergencies)?
+                            Financing (In USD Million)
+                            Total Project Cost:        829.00                 Total Bank Financing: 600.00
+Public Disclosure Copy
+
+
+
+
+                            Financing Gap:                0.00
+                              Financing Source                                                                        Amount
+                              BORROWER/RECIPIENT                                                                       229.00
+                              International Development Association (IDA)                                              600.00
+                              Total                                                                                    829.00
+                            Environmental B - Partial Assessment
+                            Category:
+                            Is this a         No
+                            Repeater
+                            project?
+
+                            2. Project Development Objective(s)
+                           The proposed project development objectives are to reduce system losses and enhance capacity in the
+                           rural distribution network of the eastern part of Bangladesh.
+                            3. Project Description
+                           The Project has been designed to address the investment gap in: a) the medium-voltage rural primary
+                           distribution network (33kV) and main 11 kV lines; b) high-voltage (132kV) transmission network.
+
+                                                                      Page 1 of 10
+                         The proposed investments in the rural primary distribution network include construction of new
+                         lines, rehabilitation/upgrading of lines, and construction of substations to complement the rapid
+                         expansion of the lower-voltage network that occurred over the last decade. With the expansion in the
+Public Disclosure Copy
+
+
+
+
+                         network operated by the rural electric cooperatives (PBSs) under the Rural Electrification Board
+                         (REB) over the years, many distribution lines were extended long distances away from the
+                         substations resulting in high loading, poor voltage profiles, and high technical losses. PBSs are
+                         finding it difficult to serve some of the outlying areas due to the long distances from grid substations
+                         and increased loading on the small sized conductors. To address these problems, a 33/11 kV network
+                         development study was undertaken by an international consultant with support from local consultants
+                         under the IDA-financed Rural Electrification and Renewable Energy Development (RERED) project.
+                         The study analyzed the status of the medium-voltage network and identified the requirements for
+                         new 33/11 kV lines and substations. The study also developed a low-cost design for 132/33 kV
+                         substations to be operated by the Ppower Grid Company of Bangladesh (PGCB) to supply rural
+                         grids. PGCB also conducted in-house study for the transmission system (132kV) as part of the
+                         master plan updates that identified the requirements for the transmission network.
+
+                         The primary focus of the Project is to reduce technical losses in the system in order to effectively
+                         make available more energy to the consumers, thus improving quality of supply and increasing sales.
+                         The investments envisaged will also increase the capacity of the distribution system to supply and
+                         distribute additional power to consumers as additional generation becomes available. The Project is
+                         expected to implement the 33/11 kV system designs that were identified in the 33/11 kV study
+                         including rehabilitation requirements identified by REB. The Project will also include transmission
+                         investments by PGCB to address critical bottlenecks in the 132 kV network supplying PBS areas.
+                         This includes construction, rehabilitation and upgrading of transmission lines as well as construction
+                         and upgrading of grid substations (132/33 kV). A low-cost grid substation is also expected to be
+                         supported under the Project as a pilot.
+
+                         The following components are proposed:
+Public Disclosure Copy
+
+
+
+
+                         Component A: Rural Grid Augmentation and Rehabilitation (US$658 million, IDA US$475 million):
+                         The component will support the augmentation and rehabilitation needs of 37 PBSs in the eastern part
+                         of Bangladesh (Dhaka, Chittagong, and Sylhet Divisions). This will include construction of new
+                         lines and substations as well as upgrading lines (including re-conductoring and replacing poles). The
+                         proposed investment will reduce systems losses and enhance the capacity of the 33/11kV network of
+                         the Project PBSs. The proposed physical targets under the component are summarized below.
+
+                         33 kV new line - 2,653 Kilometers
+                         11 kV new line - 2,634 Kilometers
+                         33 kV Line Upgradation - 863 Kilometers
+                         New Substations - 110 Nos
+                         River Crossing Towers- 32
+                         Switching Stations - 31
+
+                         Component B: Transmission Enhancement (US$160 million, IDA US$115 million): The 33/11 kV
+                         network development study identified 13 grid (230/132/33 kV) substations that will be needed for the
+                         rural distribution network in the Project areas. Out of these substations, six are included in the
+                         Project to be implemented by PGCB. Four of these are conventional substations and two are gas
+                         insulated substations (GIS). One of these substations will be piloted as per the low-cost design
+                         suggested under the study. In addition, five substations will be rehabilitated with 10 new large size
+
+                                                                      Page 2 of 10
+                         transformers. PGCB has also identified a few priority investments in the 132 kV line network to
+                         remove the bottlenecks and cater to the growing load in the PBS areas, which will be supported
+                         under the proposed Project. This includes both new lines and line upgrading (conductors, insulators,
+Public Disclosure Copy
+
+
+
+
+                         and towers). The proposed physical targets under the component are summarized below.
+
+                         132 kV new line - 170 Kilometers
+                         132 KV second-stringing - 51 Kilometers
+                         132 kV Re-conductoring - 458 Kilometers
+                         New Substations - 6 Nos.
+
+                         Component C: Institutional strengthening (US$10 million): Various institutional strengthening needs
+                         are expected to be supported under the component as when needs arise. The expected support would
+                         include, among others: a) implementation support for REB/PBS reform action plan; b) tariff study
+                         for ensuring financial sustainability of the PBSs; c) energy audit, updating of REB master plan; d)
+                         data management systems improvement including support to REB to improve the capturing and
+                         reporting of system reliability and quality indicators (SAIDI, SAIFI etc); e) identifying the scope of
+                         implementation of the Geographic Information System (GIS); f) upgrading MIS system (including
+                         inventory management, computerization of accounting systems in REB); g) training on e-GP and
+                         other training and capacity building activities for REB and PGCB etc. The component will include
+                         provisions for implementing the Governance and Accountability Action Plan (GAAP) (Annex 6).
+                         The technical assistance design is expected to allow for flexibility so that various needs can be
+                         supported as and when they arise during implementation. US$6 million is allocated for institutional
+                         strengthening component implemented by REB and US$4 million for PGCB.
+                          4. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+                         The proposed Project is expected to cover the PBSs in the eastern part of Bangladesh (Dhaka,
+                         Chittagong, and Sylhet divisions). The exact line routes and substations locations are not identified at
+                         this stage. An Environmental and Social Management Framework (ESMF) has been adopted by REB
+Public Disclosure Copy
+
+
+
+
+                         and PGCB that lays out the requirements and procedure for the environmental and social impact
+                         assessment once the line routes and substation locations are identified. The ESMF also describes the
+                         process for alternative site selection and environmental and social baselines of the proposed
+                         subproject.
+                          5. Environmental and Social Safeguards Specialists
+                         Shakil Ahmed Ferdausi (SASDI)
+                         Sabah Moyeen (SASDS)
+                         Iqbal Ahmed (SASDI)
+
+                          6. Safeguard Policies               Triggered? Explanation (Optional)
+                          Environmental Assessment OP/        Yes              Transmission and distribution schemes are
+                          BP 4.01                                             generally considered as environmentally clean
+                                                                              and non-polluting in nature. Their impacts on
+                                                                              environment are normally restricted to rights of
+                                                                              way (ROW). New construction/upgradation of
+                                                                              substation may require rehabilitationof the old
+                                                                              substations and the key related environmental
+                                                                              management issue would be the collection and
+
+
+                                                                      Page 3 of 10
+                                                                         disposal of old transformers and capacitors. In
+                                                                         view of subprojects nature, the overall project is
+                                                                         classified as a Category ‘B’ and the safeguard
+Public Disclosure Copy
+
+
+
+
+                                                                         policy OP/BP 4.01 has been triggered to ensure
+                                                                         that the sub project design and implementation
+                                                                         will be focused on reducing adverse impacts and
+                                                                         enhancing positive impacts. The environmental
+                                                                         and social management framework (ESMF) has
+                                                                         defined the procedure for environmental and
+                                                                         social screening/assessment for each subproject
+                                                                         (exact routes and locations of the transmission/
+                                                                         distribution lines and substations). Before
+                                                                         approval of each subproject, environmental and
+                                                                         social screening and assessment will be carried
+                                                                         out with environmental management plan (EMP)
+                                                                         and social management plan (SMP) that will
+                                                                         include subproject specific mitigation and
+                                                                         monitoring measures. In addition, 22 (twenty
+                                                                         two) Environment Code of Practice (ECoP) have
+                                                                         been prepared and included in the ESMF. EMP
+                                                                         and ECoP with cost will be incorporated in the
+                                                                         tender documents of work contracts. Site specific
+                                                                         EMP and RAP will be prepared for any line
+                                                                         routes and substation locations before the bid
+                                                                         process in accordance with the ESMF.
+                         Natural Habitats OP/BP 4.04       Yes             It is highly unlikely that any natural habitant
+                                                                         formed largely by native plant and animal species
+                                                                         will be affected or modified during the
+Public Disclosure Copy
+
+
+
+
+                                                                         construction phase of power transmission and
+                                                                         distribution lines. However, the possible impact
+                                                                         on natural habitats will be addressed through
+                                                                         subproject specific EMP. In addition, the ESMF
+                                                                         includes the code of practice on natural habitat as
+                                                                         advance precautionary measures and the policy
+                                                                         has been triggered.
+                         Forests OP/BP 4.36                Yes             The transmission and distribution lines may
+                                                                         cross planted forest area. The ESMF has
+                                                                         provision to screening the alternative routes and
+                                                                         exclude the forest area. However, this policy has
+                                                                         been triggered also as advance precautionary
+                                                                         measures.
+                         Pest Management OP 4.09           No
+
+                         Physical Cultural Resources OP/   Yes             Since the routes are unknown at this stage, there
+                         BP 4.11                                         is possibility that the transmission and
+                                                                         distribution lines may pass through areas with
+                                                                         physical cultural resources. The ESMF provides
+
+
+                                                                 Page 4 of 10
+                                                                           criteria for screening and assessment of physical
+                                                                           cultural resources. In addition, ‘Chance find’
+                                                                           procedures conforming to local legislation on
+Public Disclosure Copy
+
+
+
+
+                                                                           heritage would be evaluated.
+                            Indigenous Peoples OP/BP 4.10    Yes             The transmission and distribution lines and
+                                                                           substations may intervene in areas where
+                                                                           indigenous people live (specific subproject
+                                                                           locations will be determined during
+                                                                           implementation). As such OP 4.10 has been
+                                                                           triggered for the project. The ESMF includes a
+                                                                           Tribal Peoples Development Framework, based
+                                                                           on which site specific Tribal Peoples Plan (TPP)
+                                                                           will be developed as and when required. The
+                                                                           Framework describes the screening/social
+                                                                           assessment to be conducted for this purpose and
+                                                                           include a screening template. The TPP will be
+                                                                           part of the Social Management Plan developed
+                                                                           for each subproject, if the screening shows that it
+                                                                           is required for that particular subproject.
+                            Involuntary Resettlement OP/BP   Yes             The addition of lines and establishment of new
+                            4.12                                           sub-stations will require land; this may be public
+                                                                           or private land depending on the routing of the
+                                                                           lines and requirements of the substation location.
+                                                                           Thus OP 4.12 has been triggered for the project.
+                                                                           The ESMF includes a Resettlement Policy
+                                                                           Framework (RPF), based on which site specific
+                                                                           Resettlement Actions Plans (RAPs) or
+                                                                           Abbreviated RAPs will be developed for any
+Public Disclosure Copy
+
+
+
+
+                                                                           subproject triggering private land acquisition,
+                                                                           causing physical or economic displacement of
+                                                                           people from public or private lands, affecting the
+                                                                           livelihood of people/communities regardless of
+                                                                           title. The RAP will be included in the SMP done
+                                                                           for site specific subprojects where it is required.
+                                                                           The ESMF includes a framework for grievance
+                                                                           redress, institutional arrangements, disclosure
+                                                                           process for the SMF and SMPs.
+                            Safety of Dams OP/BP 4.37        No
+
+                            Projects on International        No
+                            Waterways OP/BP 7.50
+                            Projects in Disputed Areas OP/BP No
+                            7.60
+
+                         II. Key Safeguard Policy Issues and Their Management
+                             A. Summary of Key Safeguard Issues
+
+
+                                                                   Page 5 of 10
+                         1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+                           and describe any potential large scale, significant and/or irreversible impacts:
+                           The Project is expected to finance the augmentation and rehabilitation of distribution network of
+Public Disclosure Copy
+
+
+
+
+                           the Rural Electrification Board (REB) and transmission network of the Power Grid Company of
+                           Bangladesh (PGCB). The project is classified as a Category B project and the Environment
+                           Assessment (OP/BP 4.01) safeguard policy has been triggered to ensure that the project
+                           investment are environmentally sound, sustainable and thus help to improve decision making. No
+                           large-scale infrastructure investment or major expansion will be implemented under the proposed
+                           Project. The environmental impacts of the project are expected to be mostly construction related
+                           and limited within the project boundaries. These impacts can be mitigated through implementation
+                           of appropriate environmental code of practice and environmental management plan. The
+                           environmental safeguard policies Natural Habitats (OP/BP 4.04), Forests (OP/BP 4.36) and
+                           Physical Cultural Resources (OP/BP 4.11) have also been triggered as advance precautionary
+                           measures.
+
+                           Since the line routes, exact locations of substations, size and extent of the sub-projects remains
+                           unknown at the project appraisal stage, a framework approach has been adopted for the Project.
+                           An Environmental and Social Management Framework (ESMF) has been prepared based on
+                           preliminary studies of few possible locations of proposed substations and surveys of proposed
+                           routes of new /rehabilitation of transmission/distribution lines.
+
+                           Land acquisition will be required for the purposes of the project and that tribal people will be
+                           affected on the Right of Way (ROW). Therefore, both World Bank OP 4.12 Involuntary
+                           Resettlement and OP 4.10 Indigenous People have been triggered for the Project.
+                         2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+                           in the project area:
+                           The subprojects to be financed under the Project will be finalized during the project
+                           implementation phase and as such the exact locations, size and extent and the degree of impact of
+Public Disclosure Copy
+
+
+
+
+                           the subprojects to be funded under the projects are not known. Based on the types of subprojects to
+                           be financed under the Project, it is expected that the Project activities are not expected to cause any
+                           long term or irreversible environmental impact. The long-term indirect impact is the development
+                           of rural areas with better electricity connection. This may convert some agricultural and/or non-
+                           productive land into commercial/industrial purposes.
+                         3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+                           impacts.
+                           As mentioned earlier, the details of subprojects and their actual locations are not known at this
+                           stage. The ESMF has the provisions for subproject specific alternative analysis. In general, for any
+                           sub-project, the analysis of alternative should focus on: Alternative location (for substation) or
+                           route (for power line); Alternative design and technology; Costs of alternatives; and No sub-
+                           project scenario. The REB-PBS/PGCB authority will carry out screening at all proposed
+                           alternative routes of the power line based on the screening form. Then the environment and social
+                           details of these alternatives will be analyzed as per guidance provided in the ESMF. Important
+                           considerations include avoiding homestead areas, as much as possible; avoiding crossing of rivers/
+                           forests/natural habitats/hills/bamboo groves/cash-in trees, as much as possible. If the homestead
+                           areas (or other sensitive infrastructure) are not avoidable in any of the options, the REB-PBS/
+                           PGCB will consult with the owner/respective authority and collect their no objection for the
+                           construction of transmission and distribution lines in written. On the other hand, use of a
+
+
+                                                                      Page 6 of 10
+                           government-owned land for construction of substation would significantly reduce adverse socio-
+                           economic impacts. If that is not possible, efforts should be made to avoid ecologically or socially
+                           critical areas for construction of substation.
+Public Disclosure Copy
+
+
+
+
+                         4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+                           assessment of borrower capacity to plan and implement the measures described.
+                           REB has prior experience in implementing IDA-funded RERED project where construction and
+                           rehabilitation of lines and substations were supported. To institutionalize the environment and
+                           social safeguards, REB agreed to set-up a formal Environment and Social Management Unit/Cell
+                           with qualified regular staff. Since the establishment of the Unit/Cell would require several
+                           administrative clearances, as an interim measure, REB will set-up a Project specific Environment
+                           and Social Management Unit under the Project Management Unit (PMU). PGCB has been
+                           implementing the Siddhirganj-Maniknagar 230kV Transmission Line component under IDA-
+                           financed Siddhirganj Peaking Power Project (SPPP). PGCB is in the process of creating an
+                           Environment and Social Management Unit (ESMU) in the regular organogram and the ESMU is
+                           expected to be set-up after all necessary clearances by December 31, 2013. The institutional
+                           strengthening component of the Project includes provisions for short and long-term training
+                           courses of their concerned officials on environmental and social management.
+
+                          The substations under the REB part (component A) are mostly smaller gas insulated substations
+                          requiring 0.5 decimals of land. However, some larger air insulated substations may be needed
+                          which require approximately 2 acres of land each. REB will set up small towers and poles carrying
+                          33KV/11KV lines. The substations will mostly require private lands, in areas which vary from
+                          peri-urban to rural areas. Land availability, acquisition and compensation at replacement values
+                          will be challenging issues for REB/PBSs. The PBSs have Land Purchase Committees (LPCs)
+                          having representation of PBS Board, management, and local leaders/community representatives.
+                          These committees are mandated to purchase land for development purposes on a willing-buyer
+                          willing-seller basis, and as far as possible REB will try to follow this approach for making land
+                          available for the substations. A benchmark price per decimal will be established to reflect
+Public Disclosure Copy
+
+
+
+
+                          prevailing market prices in the relevant areas. The methodology for assessing market price will be
+                          included in the ESMF and will be discussed and validated by the Bank in order to ensure that
+                          replacement value/current market prices are truly reflected in the benchmark values for the various
+                          areas. The LPCs will negotiate with sellers using this figure as a benchmark after undertaking
+                          adequate consultation processes. All transactions will be transparent and will comply fully with
+                          Bank documentation, consultation, reporting and disclosure guidelines. REB will also assess the
+                          availability of public lands which can be utilized for the substations.
+
+                          For the components under PGCB part (component B), data collected by the ESMF consultants
+                          show that the substations to be constructed will require approximately 2 acres of land each. The
+                          areas being considered for the substation are a mix of public and private lands. Most of the towers
+                          required for the project already exist, but a few more will be constructed. The ESMF study shows
+                          that squatters and tribal people will be affected in the alternative routes being considered. There
+                          will be temporary and permanent impacts on land, crops and livelihoods. The ESMF provides for
+                          the Resettlement Policy Framework (RPF) and Tribal Peoples Planning Framework. Based on
+                          these, site specific Resettlement Action Plans (RAPs) and Tribal Peoples Plans (TPPs) will be
+                          prepared once the exact line routes and substation locations are identified. REB and PGCB will be
+                          responsible for preparing and implementing the Plans in accordance with the requirements of OP
+                          4.12.
+
+
+
+                                                                     Page 7 of 10
+                           Through the institutional strengthening component, efforts will be made to strengthen the overall
+                           institutional capacity of REB, PBS and PGCB for environmental and social management. The
+                           institutional environmental and social management strategy and guidelines will also be supported
+Public Disclosure Copy
+
+
+
+
+                           to mainstream environment and social consideration in all REB, PBS and PGCB operations.
+
+                           Bank missions will supervise environmental/social compliance as part of regular implementation
+                           support missions.
+                         5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+                           on safeguard policies, with an emphasis on potentially affected people.
+                           The ESMF presented a guideline for carrying out consultation, including guidelines on nature
+                           (FGD/ informal meetings) and number of consultations, location, and type of participants. Several
+                           field level consultations with the key stakeholders including the PGCB and REB field level staffs,
+                           and communities have been carried out during the preparation of the ESMF. As a part of
+                           disclosure, summary of the ESMF report has been translated into Bangla and disseminated locally.
+                           Copies of the full report (in English) and the summary (in Bengali) will be sent to concerned
+                           offices of PGCB and REB and will be made available to the public. In accordance with WB access
+                           to information policy, the ESMF report has also been uploaded in the website of PGCB/REB and
+                           in the Bank InfoShop. The draft ESMF will be presented in a national workshop in mid-December,
+                           2013.
+                         B. Disclosure Requirements
+                         Environmental Assessment/Audit/Management Plan/Other
+                           Date of receipt by the Bank                                      14-Nov-2013
+                           Date of submission to InfoShop                                   26-Nov-2013
+                           For category A projects, date of distributing the Executive
+                           Summary of the EA to the Executive Directors
+                         "In country" Disclosure
+Public Disclosure Copy
+
+
+
+
+                           Bangladesh                                                       26-Nov-2013
+                           Comments:
+                          Resettlement Action Plan/Framework/Policy Process
+                           Date of receipt by the Bank                                      14-Nov-2013
+                           Date of submission to InfoShop                                   26-Nov-2013
+                         "In country" Disclosure
+                           Bangladesh                                                       26-Nov-2013
+                           Comments:
+                          Indigenous Peoples Development Plan/Framework
+                           Date of receipt by the Bank                                      14-Nov-2013
+                           Date of submission to InfoShop                                   26-Nov-2013
+                         "In country" Disclosure
+                           Bangladesh                                                       26-Nov-2013
+                           Comments:
+                         If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+                         respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+                         Audit/or EMP.
+
+
+                                                                    Page 8 of 10
+                         If in-country disclosure of any of the above documents is not expected, please explain why:
+
+
+                         C. Compliance Monitoring Indicators at the Corporate Level
+Public Disclosure Copy
+
+
+
+
+                         OP/BP/GP 4.01 - Environment Assessment
+                          Does the project require a stand-alone EA (including EMP)          Yes [   ]   No [   ]   NA [   ]
+                          report?
+                          If yes, then did the Regional Environment Unit or Sector           Yes [   ]   No [   ]   NA [   ]
+                          Manager (SM) review and approve the EA report?
+                          Are the cost and the accountabilities for the EMP incorporated     Yes [   ]   No [   ]   NA [   ]
+                          in the credit/loan?
+                         OP/BP 4.04 - Natural Habitats
+                          Would the project result in any significant conversion or          Yes [   ]   No [   ]   NA [   ]
+                          degradation of critical natural habitats?
+                          If the project would result in significant conversion or           Yes [   ]   No [   ]   NA [   ]
+                          degradation of other (non-critical) natural habitats, does the
+                          project include mitigation measures acceptable to the Bank?
+                         OP/BP 4.11 - Physical Cultural Resources
+                          Does the EA include adequate measures related to cultural          Yes [   ]   No [   ]   NA [   ]
+                          property?
+                          Does the credit/loan incorporate mechanisms to mitigate the        Yes [   ]   No [   ]   NA [   ]
+                          potential adverse impacts on cultural property?
+                         OP/BP 4.10 - Indigenous Peoples
+                          Has a separate Indigenous Peoples Plan/Planning Framework          Yes [   ]   No [   ]   NA [   ]
+                          (as appropriate) been prepared in consultation with affected
+                          Indigenous Peoples?
+Public Disclosure Copy
+
+
+
+
+                          If yes, then did the Regional unit responsible for safeguards or   Yes [   ]   No [   ]   NA [   ]
+                          Sector Manager review the plan?
+                          If the whole project is designed to benefit IP, has the design     Yes [   ]   No [   ]   NA [   ]
+                          been reviewed and approved by the Regional Social
+                          Development Unit or Sector Manager?
+                         OP/BP 4.12 - Involuntary Resettlement
+                          Has a resettlement plan/abbreviated plan/policy framework/         Yes [   ]   No [   ]   NA [   ]
+                          process framework (as appropriate) been prepared?
+                          If yes, then did the Regional unit responsible for safeguards or   Yes [   ]   No [   ]   NA [   ]
+                          Sector Manager review the plan?
+                         OP/BP 4.36 - Forests
+                          Has the sector-wide analysis of policy and institutional issues    Yes [   ]   No [   ]   NA [   ]
+                          and constraints been carried out?
+                          Does the project design include satisfactory measures to           Yes [   ]   No [   ]   NA [   ]
+                          overcome these constraints?
+                          Does the project finance commercial harvesting, and if so,         Yes [   ]   No [   ]   NA [   ]
+                          does it include provisions for certification system?
+
+
+
+                                                                     Page 9 of 10
+                            The World Bank Policy on Disclosure of Information
+                             Have relevant safeguard policies documents been sent to the     Yes [    ]   No [   ]   NA [   ]
+                             World Bank's Infoshop?
+Public Disclosure Copy
+
+
+
+
+                             Have relevant documents been disclosed in-country in a public   Yes [    ]   No [   ]   NA [   ]
+                             place in a form and language that are understandable and
+                             accessible to project-affected groups and local NGOs?
+                            All Safeguard Policies
+                             Have satisfactory calendar, budget and clear institutional      Yes [    ]   No [   ]   NA [   ]
+                             responsibilities been prepared for the implementation of
+                             measures related to safeguard policies?
+                             Have costs related to safeguard policy measures been included   Yes [    ]   No [   ]   NA [   ]
+                             in the project cost?
+                             Does the Monitoring and Evaluation system of the project        Yes [    ]   No [   ]   NA [   ]
+                             include the monitoring of safeguard impacts and measures
+                             related to safeguard policies?
+                             Have satisfactory implementation arrangements been agreed       Yes [    ]   No [   ]   NA [   ]
+                             with the borrower and the same been adequately reflected in
+                             the project legal documents?
+
+                         III. APPROVALS
+                            Task Team Leader: Name: Zubair K.M. Sadeque
+                            Approved By
+                            Regional Safeguards Name: Francis V. Fragano (RSA)                       Date: 02-Dec-2013
+                            Advisor:
+                            Sector Manager:     Name: Julia Bucknall (SM)                            Date: 03-Dec-2013
+Public Disclosure Copy
+
+
+
+
+                                                                     Page 10 of 10
+

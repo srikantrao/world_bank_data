@@ -1,0 +1,177 @@
+                                                                       82629
+                      INTEGRATEDSAFEGUARDSDATASHEET
+                               CONCEPT STAGE
+
+Report No.:
+
+Date ISDS Updated: November 7, 2013
+
+I. BASIC INFORMATION
+
+A. Basic Project Data
+
+Country: Lebanon                              Project ID: P146202
+                                              Additional Project ID (if any):
+Project Name: Floating Storage and Regasification Unit Project
+Task Team Leader: Simon J. Stolp
+Estimated Appraisal Date: April 2014          Estimated Board Date: Ju!Y_ 2014
+Managing Unit: MNSEE                          Lending Instrument: PRG
+Sector: Oil and Gas (I 00%)
+Theme: Infrastructure Services for Private Sector Development (100%)
+IBRD Amount (US$m.):          $60M Partial Risk Guarantee
+IDA Amount (US$m.):
+GEF Amount (US$m.):
+PCF Amount (US$m. ):
+Other financing amounts by source:
+Environmental Category: A
+Simplified Processing                Simple ]                 R~eaterlX]
+Is this a transferred project        Yes []                   No [X]
+
+B. Project Objectives [from section 2 of PCN]:
+
+       The project development objective is "to provide natural gas to the power sector as
+replacement fuel for more expensive and environmentally detrimental liquid fuel oils".
+
+C. Project Description [from section 3 ofPCN]:
+
+        The proposed operation consists of providing a credit enhancement mechanism to address
+the low credit worthiness of the Lebanese power sector to support the development of a Floating
+Storage and Regasification Unit (FSRU) to enable the import of Liquefied Natural Gas (LNG).
+The proposed instrument will be a Partial Risk Guarantee (PRG) back-stopping liquidity
+payments under a TUA entered between the Government of Lebanon (GoL) and the FSRU
+project developer/owner/operator. A number of potential developers have already indicated to
+Ministry of Energy and Water (MoEW) that a PRG would support their decision to enter into a
+TUA with the GoL, MoEW or a government owned entity such as EdL. The viability of this
+project will be contingent upon whether the PRG option is taken by the first ranked bidder for
+the LNG development.
+The Lebanon LNG import facility is a 3.5 mtpa (4.8 BCM), floating storage and regasification
+facility to be located 1.7 km off-shore, 2.4 km east of the Tripoli harbor and 3.2 km west of an
+the existing 435 MW power station at Deir Amar. The site is to be located within an existing oil
+product import port operated by the Ministry of Energy and Water. Specifically, the
+regasification terminal will include:
+    • 1 x Floating Storage and Regasification Unit (FSRU)
+    • Offshore ship berthing and LNG unloading facilities
+    • High pressure gas send-out connection and sub-sea pipeline to shore
+    • Power and control system connections from FSRU to the unloading ship
+    • Buried pressure gas pipeline from shore landing to connection point for the Lebanon gas
+         transmission pipeline system
+    • Shore transfer boat jetty for terminal operations crew transfers to/from offshore facilities
+
+The FSRU will be designed to offload and store LNG delivered in bulk by ship and re-gasify
+product to meet local power generation fuel requirements of the Deir Amar power plant. A
+FSRU design was selected as the lowest cost, quickest construction time option. The FSRU
+technology is relatively new, _but has been successfully demonstrated to be reliable in many
+offshore areas throughout the world. The preferred site was selected due to existing petroleum
+import operations, preferred met-ocean conditions and proximity to demand.
+
+The FSRU and associated facilities are anticipated to cost between $150M and $290M to
+construct, dependent on the technology adopted. The project will be privately developed under a
+BOO arrangement with the GoL, who will purchase LNG supply under separate agreement(s)
+and will contract for the long-term use of the FSRU through a terminal use agreement. The TUA
+will include both capacity and use charges.
+
+D. Project location and salient physical characteristics relevant to the analysis of
+environmental and social risks and impacts (if known):
+
+The LNG Terminal (FSRU and associated structures), will be located 1.7 km off-shore at Deir
+Amar, just north of Tripoli in northern Lebanon. The terminal will consist of the FSRU (a
+converted LNG tanker), moored to either a single point mooring or island jetty, and a sub-sea gas
+pipeline to the shore where it will connect directly with e?Cisting gas facilities. The civil works
+supported by the PRO will be 2.5 km of high pressure gas pipeline. Most part of the pipeline will
+be built subsea. The small section onshore will be built on the land owned by the GoL. Therefore
+the project supported by the PRO will not involve in any land acquisition and economic
+displacement. Other environmental risks will however need to be managed - including marine
+and coastal risks associated with the facility.
+
+E. Borrower's Institutional Capacity for Effective Social & Environmental Management
+Systems (SEMS):
+
+        These are likely to be recognized international oil companies, LNG operators or
+industrial companies with strong experience in international LNG operations. The Request for
+Proposals sent by the GoL states that it will evaluate the bidders against technical criteria, which
+include environmental and social management indicators (e.g. demonstration of appropriate
+management systems including safety, environment and security). It also indicates that the
+awarded developer will be responsible to obtain all required permits, licenses, consents, and approvals
+required for project.    The developer is therefore likely to have capacity for effective
+implementation of environmental and social management systems, and of developing the
+environmental and impact assessment (EIA) for which they will be responsible following the
+guidelines of the Request for Proposals. Their institutional capacity will be assessed as a part of
+the PRG due diligence and summarized in the Environmental and Social Review Summary
+(ESRS).
+
+The beneficiary companies will operate under the established Lebanese institutional, legal and
+regulatory framework for environmental and social management. MoEW's authority to govern
+the gas industry in Lebanon, through Lebanon Oil Installations (LOI), is based on Decree Law#
+79/77 dated June 2, 1977 which entrusted the MoEW with the management of all the oil
+installations on Lebanese territory and the administration of all financial, economic and
+regulatory matters relating thereto.
+
+The Bank is currently closely engaged with the involved sector agencies (Ministry of Energy and
+Water - LOI, and Ministry of Finance) through policy dialogue, and under ongoing technical
+assistance projects. These agencies have experience working with Bank projects. The Bank will
+be able to guide MoEW and MoF through the PRG arrangements (e.g. procurement of the LIC
+Bank, etc).
+
+F. Environmental and Social Safeguards Specialists on the Team:
+
+   Zeyad Abu-Hassanein, MNSWA
+   Chaogang Wang, MNSSO
+
+II. PERFORMANCE STANDARDS THAT MIGHT APPLY
+
+Performance Standards (please explain why)                         Yes         No          TBD
+PS 1: Assessment and Management of Environmental                    X
+and Social Risks and Impacts
+    Given the marine location of the FSRU and the associated facility and their likely impacts,
+this proje-ct is classified as a category "A" project. Assessing this PS will include all possible
+impacts of the construction and operation of the offshore facility on the marine environment and
+the onshore power plant associated with the project. It will also examine any potential aspects of
+trans-boundary Issues and the triggering of OP 7.50 will be determined (TBD).
+Decommissioning plans will also be included in the event that the FSRU operator terminates and
+relocates the facility.
+
+    By appraisal, all necessary ESIAs will have been developed, reviewed by the Bank, and
+disclosed. The client will produce an environmental audit of the existing Deir Amar power plant
+and its expansion underway to assess its performance against the WB performance standards
+and, if needed, propose necessary measures to rectify any issues coming out of the audit. The
+developer will produce the ESIA of the offshore facility.
+Performance Standards (please-explain why)                         Yes          No          TBD
+PS 2: Labor and Working Conditions                                  X
+
+PS 3: Resource Efficiency and Pollution Prevention                  X
+
+PS 4: Community Health, Safety, and Security                        X
+
+PS 5: Land Acquisition and Involuntary Resettlement                                       X
+The civil works supported by the PRG will be 2.5 krn of high pressure gas pipeline. Most part of
+the pipeline will be built subsea. The small section onshore will be built on the land owned by
+the Government of Lebanon.
+PS 6: Biodiversity Conservation and Sustainable                   X
+Management of Living Natural Resources
+
+PS 7: Indigenous Peoples                                                         X
+
+PS 8: Cultural Heritage                                                                      X
+
+
+III. SAFEGUARD PREPARATION PLAN
+
+The LNG FSRU is a private sector project that will be designed, constructed, owned and
+operated by a private entity. Since the definition of this operator is in accordance with paragraphs
+3 and 4 of OP 4.03 and that the client has no objection to it, Bank Performance Standards for
+Private Sector Activities will apply to the project.
+
+If the option for a PRG is exercised by the first ranked bidder for the LNG development, the
+Bank would commence due diligence on safeguards and appraisal of the project. By project
+appraisal, all instruments will be prepared by the client or the private entity, and the Bank will
+examine the environmental and social management system (ESMS), including the ESIA for the
+FSRU, the audit of the existing Deir Amar Power Plant, the ESIA of the Deir Amar Power Plant
+expansion, and the capacity of the developer and the MoEW to implement, monitor, and enforce
+the ESMS. According to the current project preparation timeline, the summary of the E&S
+impacts ofthe project will be included in the ESRS and ISDS early 2014.
+
+IV. APPROVALS
+
+Si ned and submitted h :
+Task Team Leader:                                                                Date: ll/07/2013
+

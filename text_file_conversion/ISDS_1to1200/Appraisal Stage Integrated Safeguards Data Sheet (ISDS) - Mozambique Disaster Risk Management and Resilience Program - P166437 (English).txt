@@ -1,0 +1,598 @@
+﻿          The World Bank
+          Mozambique Disaster Risk Management and Resilience Program (P166437)
+
+
+
+
+                      Integrated Safeguards Data Sheet (ISDS)
+                   Appraisal Stage | Date Prepared/Updated: 29-Jan-2019 | Report No: PIDISDSA26489
+
+
+
+
+Dec 03, 2018                                                                                         Page 1 of 12
+          The World Bank
+          Mozambique Disaster Risk Management and Resilience Program (P166437)
+
+
+
+   I.      BASIC INFORMATION
+
+OPS_TABLE_BASIC_DATA
+ A. Basic Program Data
+
+ Country                            Project ID                   Additional Project ID (if any)   Program Name
+ Mozambique                         P166437                                                       Mozambique Disaster
+                                                                                                  Risk Management and
+                                                                                                  Resilience Program
+ Region                             Estimated Appraisal Date     Estimated Board Date             Task Team Leader
+ AFRICA                             14-Jan-2019                  19-Mar-2019                      Michel Matera
+                                                                                                  Barry Patrick Maher
+                                                                                                  Bontje Marie
+                                                                                                  Zaengerling
+ Financing Instrument               Managing Unit                 Sector                          Theme
+ Program-for-Results Financing      GSU13 (9348)                  Other Public
+                                                                  Administration(%), Social
+                                                                  Protection(%)
+ Is this project processed under OP 8.00 (Rapid Response to Crisis and Emergencies)?
+
+
+
+
+ COST & FINANCING
+
+ SUMMARY (USD Millions)
+
+ Government program Cost                                                                                       122.27
+ Total Operation Cost                                                                                          122.27
+        Total Program Cost                                                                                     115.27
+        IPF Component                                                                                             7.00
+ Total Financing                                                                                               122.27
+ Financing Gap                                                                                                   0.00
+
+
+
+ FINANCING (USD Millions)
+
+
+Total World Bank Group Financing                                                                                80.00
+
+   World Bank Lending                                                                                           80.00
+
+
+
+
+Dec 03, 2018                                                                                                    Page 2 of 12
+         The World Bank
+         Mozambique Disaster Risk Management and Resilience Program (P166437)
+
+
+
+
+Total Government Contribution                                                                                         36.27
+
+Total Non-World Bank Group and Non-Client Government Financing                                                          6.00
+
+      Trust Funds                                                                                                       6.00
+
+
+ Environmental Assessment Category (IPF Component)
+ B-Partial Assessment
+
+
+
+
+ B. Program Development Objective(s)
+
+Program Development Objective(s)
+
+The Program Development Objective is to strengthen the Government of Mozambique's program to finance and
+prepare for disaster response and to increase the climate resilience of vulnerable education infrastructure in risk-prone
+areas.
+
+
+ C. Program Description
+
+ The proposed operation will support the implementation of key areas of Mozambique’s disaster risk
+ management (DRM) program as constituted by its National Disaster Risk Reduction Master Plan 2017-2030. The
+ government’s program aims to reduce disaster risk, the loss of human life and critical infrastructures, as well as
+ avoid the emergence of new disaster risks by increasing the resilience of people and infrastructure to climate,
+ other natural and man-made hazards. To this end, it has five strategic results areas: (i) Improving the
+ understanding of risk at all levels; (ii) Strengthening DRM governance and public and private participation in
+ disaster risk reduction; (iii) Mainstreaming DRM in public investment and territorial planning, and consolidating
+ financial protection against disaster; (iv) Strengthening disaster preparedness, response and recovery; and (v)
+ Building partnerships and international cooperation.
+
+ The overall operation will be financed through the Program-for-Results (PforR) instrument complemented by a
+ small Investment Project Financing (IPF) component to provide technical assistance needed to achieve the
+ desired outcomes under the government’s DRM program. This ISDS only covers the potential safeguards
+ implications of the capacity building and technical assistance activities financed under the IPF component. As
+ part of the preparation, the World Bank conducted a system assessment of the proposed PforR Program against
+ OP/BP 9.00 core principles, including the formulation of measures for inclusion in the overall Program Action
+ Plan to enhance environmental and social management and outcomes. The assessment and action plan are
+ consolidated in the Environmental and Social System Assessment (ESSA), which is available on the Bank’s
+
+Dec 03, 2018                                                                                                          Page 3 of 12
+         The World Bank
+         Mozambique Disaster Risk Management and Resilience Program (P166437)
+
+
+ website. The ESSA also identified the key areas for capacity and regulatory improvements to be supported under
+ the technical assisstance component.
+
+ The boundaries of the proposed PforR Program (US$ 73 million equivalent from the International Development
+ Association and US$ 6 million from the Global Risk Financing Facility) are defined in terms of: (i) the Program
+ duration/timeframe; and (ii) the results and activities supported. In terms of timeframe, the PforR Program will
+ be implemented over a period of five years (2019-2024), supporting the initial phases of the overall government
+ program (13 years). In terms of results and activities, the PforR Program will support a subset of results identified
+ under strategic objectives two, three, and four of the government program. These have been prioritized with the
+ Government of Mozambique based on the most urgent challenges for which they requested support, considering
+ readiness for implementation, building on previous World Bank support to DRM and results from recent
+ analytical work, and aiming to complement other donor-financed projects in Mozambique. Specifically, the PforR
+ instrument will support the government program along the following three results areas:
+
+ •    Results Area 1: Improving Financial Protection against Disasters. This results area will focus on improving
+      financial preparedness for disasters, i.e. increasing the availability, predictability, and efficiency of ex-ante
+      resources for disaster preparedness and response. This will be achieved through: (i) the operationalization
+      of the DMF; (ii) the recurrent capitalization of the DMF and implementation of audit recommendations; and
+      (iii) developing the capacity of GoM to enable the placement of sovereign parametric catastrophe insurance
+      coverage for cyclones and/or drought with capital or insurance markets. The operationalization of the DMF
+      requires, first, the adoption of comprehensive regulations that will govern the operations of the DMF, and
+      which the GoM has been developing with technical assistance from the World Bank. Per the regulations of
+      the DMF, the Fund can only support immediate disaster preparedness and response activities1. The
+      regulations cover financial management and resource access procedures, rules for the execution and
+      accounting of funds, external audits, and provision for replenishment of the fund. The Results Area will also
+      include the preparation and adoption of a National Disaster Risk Finance Strategy (NDRFS), detailing the
+      strategic priorities of the MEF for financing disaster response, and the subsequent placement of sovereign
+      parametric catastrophe insurance product by the GoM in accordance with the NDRFS.
+
+ •    Results Area 2: Strengthening Capacity for Disaster Preparedness and Response. This results area will support
+      the GoM, particularly the National Institute for Disaster Management (INGC), to improve capacity, systems,
+      standards, and procedures for emergency management at the national and local levels, focusing on making
+      local DRM committees and early warning systems for flood and cyclone functional in risk-prone communities.
+      Results expected to be achieved relate to the number of functioning local DRM committees in hazard-prone
+      areas and the strengthening of flood and cyclone early warning systems (especially last mile connectivity).
+
+ •    Results Area 3: Building Climate Resilience of Vulnerable Education Infrastructure. This results area will
+      support the Ministry of Education and Human Development (MINEDH) to increase resilience of the school
+      infrastructure in cyclone and windstorm-prone areas in Mozambique, which are often damaged, destroyed,
+      or rendered temporally inoperable due to adverse hydro-meteorological events. The education sector has
+      been prioritized as it is the social sector most affected by disasters in Mozambique and has already piloted
+      the use of new climate-resilient approaches to retrofit and rehabilitate vulnerable classrooms.
+
+
+
+
+          1   For the Fund to support other activites in the future, complementary regulations would need to be adopted by the GoM.
+
+Dec 03, 2018                                                                                                                          Page 4 of 12
+         The World Bank
+         Mozambique Disaster Risk Management and Resilience Program (P166437)
+
+
+ The Technical Assistance (TA) IPF component (US$ 7 million equivalent IDA) will complement the PforR Program
+ by financing specialized technical assistance and targeted capacity building required to support the achievement
+ of anticipated results under the PforR Program and support institutional strengthening of the implementing
+ agencies and other government institutions that may contribute to disaster risk management.
+
+ Specifically, it will finance highly specialized consulting services to support the following: (i) technical assistance
+ to advise MINEDH in the preparation and implementation of their new resilient classroom retrofitting program,
+ including on technical aspects, safeguards, and monitoring and evaluation, and to provide training to engineers
+ and contractors; (ii) technical assistance to advise INGC in the development and improvement of methodologies,
+ regulations/practices, and tools for disaster preparedness and response, including the consideration of
+ differentiated needs of vulnerable subgroups such as the elderly, women, single parent households, and people
+ with disabilities, and monitoring and evaluation aspects; (iii) technical assistance to advise INGC, the National
+ Meteorology Institute (INAM), and the National Directorate of Water Resources Management (DNGRH) on the
+ development and implementation of integrated early warning systems; (iv) technical assistance to advise INGC
+ on development and use of geospatial tools for disaster preparedness and response; and (v) technical assistance
+ to advise INGC and MINEDH on social and environmental management issues and procedures, including
+ mainstreaming considerations related to gender-based violence (GBV)/ sexual abuse and exploitation (SAE) in
+ emergency response situations (such as temporary evacuation camps), persons with special needs and other
+ vulnerable groups, and monitoring and evaluation aspects.
+
+ In addition, the IPF Component will finance: (i) the independent verification agents for results area 2 and 3; (ii)
+ key consultants for the Program Management Secretariat, including a Coordinator, a Financial Management
+ Specialist, a Procurement Specialist, and an Environmental and Social Safeguard Specialist, who will be
+ responsible for the implementation of the IPF TA Component and for providing technical advice and training in
+ their respective areas of expertise to INGC and MINEDH staff involved in Program implementation; (iii) the
+ preparation of a Scoping Paper to assess the potential social and environmental downstream impacts of the TA
+ activities financed under the IPF Component; (iv) the preparation of a Project Implementation Manual (PIM) for
+ the IPF Component and a Program Operations Manual (POM) for the whole Program; and (v) domestic and
+ international training and experience exchange around risk financing, early warning systems, and school
+ retrofitting.
+
+
+ D. Project location and salient physical characteristics relevant to the safeguard analysis (if known)
+
+
+ In addition to institutional capacity building, the TA IPF will support the preparation and/or revision of regulations,
+ guidelines, strategies, plans, or methodologies that would guide disaster response (e.g. emergency evacuation,
+ temporary shelter), disaster preparedness (e.g. community simulation exercises, early warning systems,
+ preventive evacuation), and disaster prevention and mitigation (e.g. building regulations) applicable to the whole
+ country. Consequently, it is necessary to consider the main physical characteristics of the entire Mozambican
+ territory, comprising almost 800,000 square kilometers. Mozambique is divided into two topographical regions:
+ To the north of the Zambezi river, a narrow coastline and bordering plateau slope upward into hills and a series of
+ rugged highlands punctuated by scattered mountains. South of the Zambezi River, the lowlands are much wider
+ with scattered hills and mountains along its borders with South Africa, Swaziland and Zambia. The country is
+ drained by several significant rivers, with the Zambezi being the largest and most important.
+
+
+Dec 03, 2018                                                                                                               Page 5 of 12
+          The World Bank
+          Mozambique Disaster Risk Management and Resilience Program (P166437)
+
+
+    Mozambique is among the countries most vulnerable to climate change and ranks third among African countries
+    in exposure to risks resulting from climate variability. Major natural disasters have struck the country at least every
+    five years. Flooding, tropical cyclones, and droughts are the most frequent cause of disasters in Mozambique, but
+    it also faces seismic risk. The frequency and intensity of climate-related shocks have intensified over the past four
+    decades and multiple studies predict that climate change will have important implications for the country.
+
+    Most parts of the country are in the subequatorial zone with a rainy tropical climate and dry winter. There are two
+    typical seasons: hot and rainy from November to April; and cool and dry from May to October. The annual
+    precipitation reaches 1,500mm, with a maximum in January and a minimum in September. Over half of the
+    country’s population is vulnerable to climate-related shocks. The Government estimates that 122,000 people are
+    affected by flooding every year; the costs of the 2000 floods were estimated at almost US$ 450 million and in 2013
+    the sum exceeded US$ 517 million. In the last years, Mozambique has also been facing severe droughts in its
+    Southern and Central regions, affecting approximately 1.5 million people and resulting in average annual losses in
+    the range of US$ 20 million, compromising agricultural production. Due to the seriousness of the situation, the
+    Government activated the institutional red alert in diverse provinces, including Tete, Sofala, Gaza, Inhambane, and
+    Maputo.
+
+    With over 2000 km of maritime coast and many coastal cities, sea level rise due to climate change has significant
+    implications for Mozambique’s low-lying coastal areas and beyond, including its major direct impacts - inundation
+    of low-lying areas, loss of coastal wetlands, increased rates of shoreline erosion, saltwater intrusion, higher water
+    tables, and higher extreme water levels, which lead to coastal flooding.
+
+    Extreme flooding events (floods capable of inundating vast areas) are also recurrent in major river deltas, such as
+    the Zambezi and the Limpopo river deltas, causing tremendous hardship for floodplain communities —displacing
+    people from their homes, destroying food supplies, drowning livestock— but also depositing nutrient-rich
+    sediments, flushing accumulated salts, and recharging groundwater supplies that maintain agricultural systems in
+    the long-run. Additionally, heavy rains and flooding in rural areas can result in the destruction of the transport
+    infrastructure, limiting the access of low-income communities to water, markets, schools, and health centers.
+
+    Around two-thirds of Mozambique’s population live in rural areas, but urbanization has increased in the last years.
+    The urban population is expected to more than double in the next 25 years, adding more than 11 million people
+    to Mozambique’s cities. The rural population is affected by both droughts and flooding, especially river flooding as
+    many settle in floodplains given its higher agricultural potential. Most river flooding events require the temporary
+    relocation (evacuation) of these floodplain communities, until the floodwaters receed and basic infrastructure has
+    been restored. Seventy percent of the Mozambique population has access to water, but the coverage in some
+    provinces, districts, and municipalities are much lower. For example, coverage of water supply in the province of
+    Zambezia is only around 42% on average, and only 29% in Lichinga. While the urban population has not been as
+    affected by droughts, they also suffer the consequences of recurrent flooding events, especially in coastal cities.
+    Most of the urban population resides in informal neighborhoods and peri-urban areas, lacking proper
+    infrastructure, sanitation, drainage, and basic services. Flooding events in urban areas can demand temporary
+    evacuation of affected people and may result in severe limitations to public services.
+
+
+
+
+.
+
+
+Dec 03, 2018                                                                                                              Page 6 of 12
+         The World Bank
+         Mozambique Disaster Risk Management and Resilience Program (P166437)
+
+
+
+
+ E. Environmental and Social Safeguards Specialists on the Team
+
+ Augusto Ferreira Mendonca,Paulo Jorge Temba Sithoe,Maria Do Socorro Alves Da Cunha,Mario
+ Rizzolio,Erminio Inacio Jocitala
+
+
+
+
+  II.      SAFEGUARD POLICIES THAT MIGHT APPLY
+
+ SAFEGUARDS
+
+ Safeguard Policies                         Triggered?            Explanation (Optional)
+                                                                  None of the activities of the TA component are
+ Projects on International Waterways
+                                            No                    expected to have any impacts on international
+ OP/BP 7.50
+                                                                  waterways.
+                                                                  Activities of the TA component will not be
+ Projects in Disputed Areas OP/BP 7.60      No
+                                                                  implemented in disputed areas.
+                                                                  Some activities supported by the technical
+                                                                  assistance (TA), such as advice on strategies,
+                                                                  guidelines, and/or regulations, and capacity building
+                                                                  to support institutions in carrying out DRM related
+                                                                  activities, may have induced impacts over a longer
+                                                                  term. A Scoping Paper will be prepared by the client
+                                                                  at the beginning of project implementation to fully
+                                                                  assess the potential social and environmental
+                                                                  downstream impacts of specific TA activities and
+                                                                  ensure that adequate considerations will be included
+                                                                  in the TORs for the TA activities. The draft TOR for
+                                                                  this Scoping Paper was prepared for Appraisal.
+ Environmental Assessment OP/BP 4.01        Yes
+                                                                  Technical assistance to MINEDH will include the
+                                                                  process and timing of preparing relevant safeguard
+                                                                  instruments for school rehabilitation works during
+                                                                  program implementation, specifying the
+                                                                  requirements for consultation and disclosure of
+                                                                  these instruments, and setting forth the institutional
+                                                                  arrangements.
+                                                                  Proposed EA Category – Based on the assessment of
+                                                                  potential impacts (including restrictions to exclude
+                                                                  support for activities with significant environmental
+                                                                  and social impacts), Category B is proposed for the
+                                                                  Project.
+ Performance Standards for Private Sector
+                                            No
+ Activities OP/BP 4.03
+
+
+
+Dec 03, 2018                                                                                                      Page 7 of 12
+         The World Bank
+         Mozambique Disaster Risk Management and Resilience Program (P166437)
+
+
+                                                             Activities supported under the TA component would
+                                                             not involve conversion or degradation of critical or
+                                                             other natural habitats. Thus, this policy is not
+ Natural Habitats OP/BP 4.04               No                triggered. However, the TA Scoping Paper will assess
+                                                             potential indirect effects to ensure that any relevant
+                                                             aspects of this policy are included in the TOR for the
+                                                             TA activities where pertinent.
+                                                             This policy is not triggered because the TA
+                                                             component is not expected to have negative impacts
+                                                             on forest resources. However, the TA Scoping Paper
+ Forests OP/BP 4.36                        No
+                                                             will contain provisions to incorporate any
+                                                             appropriate considerations related to this policy in
+                                                             the TOR for the TA activities where pertinent.
+                                                             This policy is not triggered because the TA
+                                                             component will not support the purchase or
+                                                             increased use of pesticides and other agrochemicals
+                                                             as defined under the policy. The Project will not
+                                                             include any support for forest plantation or other
+                                                             agricultural land use that would promote pest
+ Pest Management OP 4.09                   No                management. However, the TA Scoping Paper will
+                                                             identify any requirements of this policy that need to
+                                                             be included in the TOR for the TA activities that
+                                                             would provide support to the development of
+                                                             regulations, guidelines, etc. for disaster response,
+                                                             preparedness, and prevention/mitigation, including
+                                                             methods for control of disease vectors.
+                                                             This policy is not triggered because the TA
+                                                             component will not have negative impacts on
+                                                             physical cultural resources. However, the TA Scoping
+                                                             Paper will contain provisions to incorporate
+ Physical Cultural Resources OP/BP 4.11    No                appropriate considerations related to potential
+                                                             downstream interference with physical cultural
+                                                             resources in the TOR for TA activities that will advise
+                                                             on regulations, guidelines, etc., for disaster
+                                                             response, preparedness, and prevention/mitigation.
+ Indigenous Peoples OP/BP 4.10             No
+                                                             The formulation of regulations, guidelines, etc.
+                                                             relates to disaster response activities that may
+                                                             demand temporary (evacuation) or permanent
+                                                             resettlement activities. The advisory support
+                                                             provided by the TA Component related to the
+ Involuntary Resettlement OP/BP 4.12       Yes
+                                                             displacement and relocation aspects of disaster
+                                                             response activities will incorporate the principles of
+                                                             OP4.12. The TA component will also support the
+                                                             preparation of any instruments related to school
+                                                             retrofitting or management of evacuation sites
+
+
+Dec 03, 2018                                                                                                  Page 8 of 12
+            The World Bank
+            Mozambique Disaster Risk Management and Resilience Program (P166437)
+
+
+                                                                    prepared during project implementation to ensure
+                                                                    that they apply any relevant principles and
+                                                                    requirements of OP4.12.
+                                                                    The TA component will not support the construction
+                                                                    or rehabilitation of dams, nor will it support other
+                                                                    investments related to the services of existing dams.
+ Safety of Dams OP/BP 4.37                        No
+                                                                    However, if any related issues are identified in the
+                                                                    TA Scoping Paper, the TOR for the TA activities will
+                                                                    include the relevant aspects of this policy.
+.
+
+
+     III.       KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT
+
+    A. Summary of Key Safeguard Issues
+
+        1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any
+           potential large scale, significant and/or irreversible impacts:
+
+ The IPF Component of this operation will focus on straight forward institutional capacity building activities, including
+ among others: (i) advice to INGC and MINEDH on the implementation of their environmental and social management
+ systems, so they are better prepared to identify and manage environmental and social issues, and (ii) support for the
+ preparation of instruments for mitigating the main environmental and social risks of the PforR program identified by
+ the ESSA. The IPF Component will not finance activities such as the preparation of feasibility studies, technical,
+ engineering design studies, and bid documents that may result in the construction of physical infrastructure2. Therefore,
+ no potential large scale, significant and/or direct impact is associated with the TA Component of this operation.
+ Advice provided under the TA Component on policies, strategies, methodologies, and/or regulations, as well as capacity
+ building activities associated with the PforR Program are not expected to cause adverse direct environmental or social
+ impacts. The potential impacts are expected to be induced over the long term, demanding the consideration of the
+ Environmental Assessment Policy (OP/BP 4.01) and the Involuntary Resettlement Policy (OP/BP 4.12) in the advice
+ provided. In the preparation of the respective TOR, the activities to be supported by the TA will be assessed to identify
+ the related environmental and social issues and to include the necessary safeguards considerations, including
+ stakeholder engagement, in the TOR of each activity as applicable.
+ Moreover, the environmental and social impacts associated to the overall PforR Program to be supported by the IPF TA
+ Component are low and/or moderate. The risk of activities to be developed by the client under the PforR Program was
+ considered as moderate, mainly due to the resilience building activities (school rehabilitation) and the lack of previous
+ experience of INGC with the principles of socio-environmental management of the World Bank. Preparedness and
+ response activities are mostly low risk (usually location-specific and temporary impacts), requiring specific measures for
+ environmental and social impact management, which can be effective in minimizing and mitigating potential impacts.
+ Some recovery and reconstruction actions (not covered by the PforR Program but within the overall scope of action of
+ the implementing agencies and the systems being supported) may require larger works, which may cause more
+ significant environmental damage. As a precautionary measure, the capacity of the implementing agencies to manage
+ these impacts was assessed and an action plan is included in the ESSA and will be implemented as part of the PforR
+
+            2
+                Which may or may not be financed by the Bank.
+
+
+
+Dec 03, 2018                                                                                                         Page 9 of 12
+          The World Bank
+          Mozambique Disaster Risk Management and Resilience Program (P166437)
+
+
+ Program.
+ Based on these consierations, Category B is proposed for the Project (TA component).
+
+ 2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area:
+
+    The IPF Component will not finance activities such as feasibility studies, technical, engineering design studies and the
+    preparation of bid documents that may result in the construction of physical infrastructure. Consequently, no potential
+    indirect and long-term impact due to anticipated future activities is expected. However, advice on the drafting of
+    strategies, methodologies, and/ or regulations, as well as capacity building activities associated to the PforR Program,
+    may have down-stream impacts, such as induced resettlements and restriction for accessing natural resources. OP 4.01
+    and OP 4.12 were triggered to ensure that any studies or advisory services supported by the TA are conducted in
+    accordance with the Bank Safeguard Policies.
+
+ 3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+ Not applicable.
+
+ 4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower
+ capacity to plan and implement the measures described.
+ The Government of Mozambique has experience in implementing Bank-financed projects and although most national
+ agencies have prior experience with the Bank’s Safeguards Policies, INGC does not and both INGC and MINEDH have
+ weak environemental and social management systems. Government agencies, including INGC and MINEDH, are
+ commonly under-staffed and lack funds to adequatly handle more complex environmental and social issues. The
+ Environmental and Social Systems Assessment (ESSA) conducted for the PforR found that both implementing agencies,
+ INGC and MINEDH, will require support to improve their environmental and social management systems to achieve
+ environmental and social objectives against the range of environmental and social impacts that may be associated with
+ the overall PforR Program. The ESSA includes a detailed action plan for improving the capacity of both agencies,
+ including adjustments in the institutional arrangements, policies, as well as staff training.
+
+
+ 5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies,
+ with an emphasis on potentially affected people.
+
+The main stakeholders are the governmental agencies related to disaster risk management and building resilience in
+Mozambique, including INGC, MINEDH, MITADER and the agencies subordinated to the Ministry of Public Works and
+Water Resources. The communities and local branches of the government in the provinces are also relevant stakeholders.
+The consultation process on the ESSA was conducted in two provinces prone to natural disasters (Gaza, Zambezia) and in
+Maputo to receive the feedback of the local communities and representatives of the local branches of the government.
+TA activities will aim to be participatory and include stakeholder engagement in the respective TOR wherever relevant.
+
+.
+
+
+
+
+Dec 03, 2018                                                                                                         Page 10 of 12
+         The World Bank
+         Mozambique Disaster Risk Management and Resilience Program (P166437)
+
+
+ B. Disclosure Requirements
+
+ OPS_EA_DISCLOSURE_TABLE
+ Environmental Assessment/Audit/Management Plan/Other:
+   Date of receipt by the Bank                                                   18-Jan-2019
+   Date of "in-country" disclosure                                               29-Jan-2019
+   Date of Disclosure by the Bank                                                29-Jan-2019
+   For category A projects, date of distributing the Executive Summary of
+   the EA to the Executive Directors
+ OPS_RA_DISCLOSURE_TABLE
+ Resettlement Action Plan/Framework/Policy Process:
+   Date of receipt by the Bank                                                   18-Jan-2019
+   Date of "in-country" disclosure                                               29-Jan-2019
+   Date of Disclosure by the Bank                                                29-Jan-2019
+
+
+
+ C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is finalized by the project
+ decision meeting)
+ OPS_EA_COMP_TABLE
+ OP/BP/GP 4.01 - Environment Assessment
+  Does the project require a stand-alone EA (including EMP) report?                    Yes [ ]     No [ ]     N/A [✔ ]
+OPS_IR_COMP_TABLE_FINAL
+OP/BP 4.12 - Involuntary Resettlement
+ Has a resettlement plan/abbreviated plan/policy framework/process
+                                                                                       Yes [ ]      No [ ]    N/A [✔ ]
+ framework (as appropriate) been prepared?
+ If yes, then did the Regional unit responsible for safeguards or Practice
+                                                                                       Yes [ ]      No [ ]    N/A [✔ ]
+ Manager review the plan?
+ OPS_PDI_COMP_TABLE
+ The World Bank Policy on Disclosure of Information
+   Have relevant safeguard policies documents been sent to the World Bank
+                                                                                      Yes [✔ ]     No [ ]      N/A [ ]
+   for disclosure?
+   Have relevant documents been disclosed in-country in a public place in a
+   form and language that are understandable and accessible to project-               Yes [✔ ]     No [ ]      N/A [ ]
+   affected groups and local NGOs?
+ All Safeguard Policies
+   Have satisfactory calendar, budget and clear institutional responsibilities
+   been prepared for the implementation of measures related to safeguard              Yes [✔ ]     No [ ]      N/A [ ]
+   policies?
+   Have costs related to safeguard policy measures been included in the
+                                                                                      Yes [✔ ]     No [ ]      N/A [ ]
+   project cost?
+
+
+
+Dec 03, 2018                                                                                                    Page 11 of 12
+         The World Bank
+         Mozambique Disaster Risk Management and Resilience Program (P166437)
+
+
+
+   Does the Monitoring and Evaluation system of the project include the
+   monitoring of safeguard impacts and measures related to safeguard        Yes [✔ ]     No [ ]   N/A [ ]
+   policies?
+   Have satisfactory implementation arrangements been agreed with the
+   borrower and the same been adequately reflected in the project legal     Yes [✔ ]     No [ ]   N/A [ ]
+   documents?
+
+
+ FOR MORE INFORMATION CONTACT
+
+
+ The World Bank
+ 1818 H Street, NW
+ Washington, D.C. 20433
+ Telephone: (202) 473-1000
+ Web: http://www.worldbank.org/projects
+
+
+
+ APPROVAL
+
+
+ Signed and Submitted by
+
+                                       Name                                Date
+                                       Michel Matera
+ Task Team Leader(s):                  Barry Patrick Maher
+                                       Bontje Marie Zaengerling
+ Environmental Specialist:             Paulo Jorge Temba Sithoe
+
+ Social Development Specialist         Maria Do Socorro Alves Da Cunha
+                                       Augusto Ferreira Mendonca
+ Additional Environmental and/or
+                                       Erminio Inacio Jocitala
+ Social Development Specialist(s)
+                                       Mario Rizzolio
+
+
+ Approved by
+
+ Safeguards Advisor:                    Nathalie S. Munzberg               29-Jan-2019
+
+ Practice Manager/Manager:              Meskerem Brhane                    29-Jan-2019
+
+
+
+
+Dec 03, 2018                                                                                       Page 12 of 12
+

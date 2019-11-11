@@ -1,0 +1,2 @@
+66168
+The original had problem with text extraction. pdftotext Unable to extract text.

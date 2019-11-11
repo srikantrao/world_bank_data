@@ -1,0 +1,196 @@
+                                           INTEGRATED SAFEGUARDS DATA SHEET
+                                              IDENTIFICATION / CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                               Report No.: ISDSC16436
+
+                         Date ISDS Prepared/Updated: 26-Apr-2016
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:             Turkmenistan                    Project ID:      P158751
+                            Project Name:        Development of a National Welfare Monitoring System
+                            Team Leader(s):      Sarosh Sattar
+                            Estimated Date       21-Mar-2016
+                            of Approval:
+                            Managing Unit:       GPV03                           Lending          IPF
+                                                                                 Instrument:
+                            Sector(s):          General public administration sector (100%)
+                            Theme(s):           Poverty strategy, analysis and monitoring (100%)
+                            Financing (in USD Million)
+                            Total Project Cost:    0.35321                    Total Bank Financing: 0
+                            Financing Gap:         0
+                              Financing Source                                                                           Amount
+                              Trust Fund for Statistical Capacity Building                                               0.35321
+Public Disclosure Copy
+
+
+
+
+                            Environment         C - Not Required
+                            Category:
+
+                           B. Project Development Objective(s)
+                           10.       The primary objective of the proposed task is to support the Government of Turkmenistan in
+                           developing a modern national welfare monitoring system. This will require assisting the SSC to
+                           improve their household survey questionnaire, collect consumption and income data, and adopt
+                           international good practice in measuring poverty and the middle class (including non-monetary
+                           aspects such as access to services and employment). By working on the main aspects of welfare
+                           statistics, the aim is to ensure that the SSC upgrades its current household survey instrument and uses
+                           it more effectively to help inform government policy. Currently, little is known to what degree
+                           growth is translating into better living standards in the country.
+
+                           11.      The Bank support was requested to support the efforts in improving the welfare
+                           measurement system. More specifically, the project will build on the activities started by previous
+                           TF to strengthen SSC’s capacity to timely collect high quality household surveys, introduce new
+                           tools to quickly analyze household data and promote the use of micro data for distributional impact
+                           analysis. The TF will be used for the introduction of new systems of conducting surveys to monitor
+                           welfare and social indicators more frequently and cost effectively such as through Computer Assisted
+                           Personal Interviewing (CAPI).
+                         C. Project Description
+                         13.     The proposed project would provide technical assistance to the State Committee of Statistics
+                         (SCS) of Turkmenistan, especially the departments conducting the household survey, and transfer
+Public Disclosure Copy
+
+
+
+
+                         knowledge on best practices of welfare measurement and monitoring, including introduction to CAPI
+                         (Computer Assisted Personal Interviewing) methodology based on Survey Solutions software. The
+                         technical assistance is comprised of two main stages. The first stage will require a review of the
+                         existing steps involved in measuring welfare such as sample design, survey questionnaire, and survey
+                         implementation. The second stage will provide training to the Statistics Committee on CAPI
+                         implementation with Survey Solutions software, welfare measurement and methodology including
+                         the consumption aggregate, estimation of welfare lines, vulnerability and middle class measurement,
+                         and non-monetary welfare index.
+
+                         Stage 1: Household Survey Review
+
+                         14.     The objective of this stage is to understand the existing official system for monitoring
+                         monetary and non-monetary welfare (if any) and capacity of SCS in implementing CAPI in order to
+                         ensure that the technical advice provided at later stages builds upon existing systems. This stage will
+                         consist of workshops, consultations/interviews, technical review, and study tour.
+
+                         15.      Based on review of baseline status of the welfare measurement system in SSC the project
+                         consultant will conduct analysis and provide a high-level report and advice on the Turkmenistan
+                         household survey on the following key survey aspects:
+                         •        The sample design review and advice will cover the SCS’s sampling approach, sample
+                         selection, sampling frame, sample size, and survey weights.
+                         •        The review of the survey questionnaire will focus on issues of whether it collects relevant
+                         and sufficient information for measuring monetary and non-monetary welfare in Turkmenistan.
+                         •        The survey implementation review will aim to document the SCS’s activities that take place
+                         before the fielding of the survey (for example, manuals, training, data entry), activities while the
+Public Disclosure Copy
+
+
+
+
+                         survey is in the field (such as supervision, transportation, communication, and data management),
+                         data entry and processing, and activities required after the survey is complete (debriefing, preparation
+                         of the final data set and documentation), and data analysis. Also, the capacity of the SCS staff to
+                         implement CAPI for official household survey data collection will be evaluated.
+
+                         16.     A review of the welfare measurement approach currently used for both monetary and non-
+                         monetary poverty. The purpose of this review is to provide a common in-depth understanding of the
+                         instrument used to measure welfare in Turkmenistan. The depth of the discussion will depend upon
+                         the level of detail shared by the SCS officials. This phase will deliver one report which: (i) describes
+                         the SCS’s sample design, survey questionnaire, survey implementation process, and welfare
+                         measurement methodology and (ii) provides high priority recommendations for improving the
+                         household survey in order to better measure welfare.A study tour of selected SCS officials to 3-4
+                         countries [possibly, Moldova, Kazakhstan, Kyrgyzstan and Armenia] will be suggested in order to
+                         see how different statistics departments approach collection and analysis of household survey data,
+                         including in CAPI.
+
+                         Stage 2: Welfare Measurement and New Technologies in Data Collection
+
+                         17.    The objective of Stage 2 would be to provide practical training to the SCS on how to
+                         measure monetary and non-monetary welfare including the size of the middle class (since poverty is
+                           a sensitive issue), CAPI. This stage builds upon the knowledge gained from the review stage and
+                           focuses on knowledge sharing.
+Public Disclosure Copy
+
+
+
+
+                           18.     The workshop on measuring monetary welfare will provide training on computing the
+                           consumption aggregate, establishing/estimating a welfare lines, a middle class line, and measuring
+                           the level/rate of vulnerability and the middle class. The data used for the training should be the
+                           government’s existing official household survey data and this should be provided in confidence and
+                           specifically for the purposes of this training.
+
+                           19.     The workshop on non-monetary welfare will introduce the concept and techniques of
+                           measuring welfare from multidimensional perspective. The workshop will provide an overview of
+                           approaches used to measure multidimensional welfare and the methodology for estimating the index,
+                           covering selection of dimensions, indicators, cut-offs and then decomposing the dynamics of the
+                           index overtime.
+
+                           20.      The workshop on CAPI will provide hands–on training on fundamentals of implementing
+                           CAPI for official household survey. It starts with focused training on implementation of “Survey
+                           Solutions”- a Bank software that is used to design, structure and implement the household
+                           questionnaire in electronic (tablet) format. The workshop will cover topics relevant for setting up a
+                           first survey in CAPI format: technical requirements for servers, wireless/transmission networks,
+                           tablets and operation systems. Depending on capacity and interest of SCS the workshop can be
+                           followed up by pilot field test of selected module of official household survey.
+
+                           21.     An Operational Manual on all methodological aspects of measuring monetary and non-
+                           monetary welfare will be produced to ensure sustainability of the methodology. Currently there is no
+                           practice and methodology in place to construct a national welfare line in Turkmenistan. The team
+                           will provide all the required methodological materials with international experience in welfare
+                           measurement.
+Public Disclosure Copy
+
+
+
+
+                           D. Project location and salient physical characteristics relevant to the safeguard
+                           analysis (if known)
+
+
+                           E. Borrower’s Institutional Capacity for Safeguard Policies
+
+
+                           F. Environmental and Social Safeguards Specialists on the Team
+
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+                           Safeguard Policies                   Triggered?      Explanation (Optional)
+                           Environmental Assessment OP/         No
+                           BP 4.01
+                           Natural Habitats OP/BP 4.04          No
+                           Forests OP/BP 4.36                   No
+                           Pest Management OP 4.09              No
+                           Physical Cultural Resources OP/              No
+                           BP 4.11
+Public Disclosure Copy
+
+
+
+
+                           Indigenous Peoples OP/BP 4.10                No
+                           Involuntary Resettlement OP/BP               No
+                           4.12
+                           Safety of Dams OP/BP 4.37                    No
+                           Projects on International                    No
+                           Waterways OP/BP 7.50
+                           Projects in Disputed Areas OP/BP             No
+                           7.60
+
+                         III. SAFEGUARD PREPARATION PLAN
+                               Appraisal stage ISDS required?: No
+                         IV. APPROVALS
+                           Team Leader(s):                  Name: Sarosh Sattar
+                           Approved By:
+                           Safeguards Advisor:              Name: Zeynep Durnev Darendeliler (SA)                              Date: 29-Apr-2016
+                           Practice Manager/                Name: Carolina Sanchez (PMGR)                                      Date: 29-Apr-2016
+                           Manager:
+
+
+
+                           1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the
+                           InfoShop and (ii) in country, at publicly accessible locations and in a form and language that are accessible to potentially
+                           affected persons.
+Public Disclosure Copy
+

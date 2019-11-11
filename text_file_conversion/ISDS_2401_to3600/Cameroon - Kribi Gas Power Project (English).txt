@@ -1,0 +1,623 @@
+﻿                    INTEGRATED SAFEGUARDS DATASHEET
+                            APPRAISAL STAGE
+
+I. Basic Information
+Date prepared/updated: 11/02/2011                                     Report No.: AC6518
+1. Basic Project Data
+Country: Cameroon                                Project ID: P110177
+Project Name: Cameroon - Kribi Gas Power Project
+Task Team Leader: Astrid Manroth
+Estimated Appraisal Date: September 27,          Estimated Board Date: November 10, 2011
+2011
+Managing Unit: AFTEG                             Lending Instrument:
+Sector: Thermal Power Generation (80%);General energy sector (20%)
+Theme: Infrastructure services for private sector development (67%);Regulation and
+competition policy (33%)
+IBRD Amount (US$m.):               0.00
+IDA Amount (US$m.):                0.00
+GEF Amount (US$m.):                0.00
+PCF Amount (US$m.):                0.00
+Other financing amounts by source:
+         Borrower                                                        86.00
+         IDA Guarantee                                                   82.00
+         International Finance Corporation (IFC)                         86.00
+         Bilateral Agencies (unidentified)                               30.00
+         Foreign Multilateral Institutions (unidentified)                66.00
+         Financing Gap                                                    0.00
+                                                                        350.00
+Environmental Category: A - Full Assessment
+Repeater []
+Is this project processed under OP 8.50 (Emergency Recovery)
+                                                                     Yes [ ]    No [X]
+or OP 8.00 (Rapid Response to Crises and Emergencies)
+
+2. Project Objectives
+The project development objective is to (i) increase the capacity of electricity generation
+from the Kribi Gas Power Project and (ii) improve access to private finance for the
+development of the Kribi Gas Power Project, including local currency financing.
+
+3. Project Description
+The Kribi Gas Power Project, which benefits from financing facilitated by the proposed
+IDA Guarantee and the proposed IFC A Loan, consists of the development, construction,
+and operation of a new 216 MW (nameplate) natural gas-fired power plant located near
+the Mpolongwe village, 9 km north of the coastal city of Kribi in South Province of
+Cameroon, and the development and construction of a new 100-km 225-kV double-
+circuit transmission line between the Kribi power plant and the existing Mangombe
+225/90-kV substation at Edéa in Littoral Province, including substations and
+transformers. Electricity generated under the Project will be transmitted into Cameroon's
+Southern Interconnected Grid. The Kribi power plant will run on natural gas using light
+fuel oil (LFO) as backup fuel. Natural gas will be supplied from the offshore Sanaga
+South gas field in Cameroon. Following construction, the transmission line will be
+transferred to the Government of Cameroon (GOC) and operated by AES SONEL or a
+successor transmission company.
+
+  Associated infrastructure facilities required for the proper functioning of the power plant
+include (i) the transmission line (including substations and transformers) after
+construction completion and transfer to the GOC, (ii) the development of the Sanaga
+South gas field by a joint venture between the National Hydrocarbon Company (SNH)
+and Perenco Cameroon under a production sharing agreement and financed by Perenco
+Cameroon; (iii) a Central Gas Processing Facility (CPF) being developed by Perenco
+Cameroon; (iv) the marine and terrestrial gas pipelines, including a 14-km offshore gas
+pipeline from the Sanaga South gas field to the CPF, a 14-km offshore glycol injection
+pipeline between the gas field and the CPF and a 21-km offshore condensate/process
+water pipeline from the CPF to the existing KB-4 well from where it will be connected to
+the existing Ebome storing platform for exports, all financed by Perenco Cameroon; and
+(v) an 18-km onshore gas pipeline from the CPF to the Kribi power plant at Mpolongwe,
+financed by SNH.
+
+4. Project Location and salient physical characteristics relevant to the safeguard
+analysis
+The Kribi Gas Power Project is a 216 MW nameplate capacity power plant using 13
+reciprocating engines, located on a 16-hectare site near the Mpolongwe village, 9 km
+north of the coastal city of Kribi in South Province of Cameroon, and a 100 km
+transmission line in a 30-meter right-of-way between the Kribi power plant and the
+Mangombe substation in Edea, Littoral Province. Associated facilities include the
+offshore Sanaga South gas field, offshore pipelines (natural gas pipeline, a glycol
+injection pipeline, and a condensate/process water pipeline), the CPF at Bipaga, and the
+gas pipeline from the CPF to the Kribi power plant.
+
+5. Environmental and Social Safeguards Specialists
+   Mr Mohamed Arbi Ben-Achour (AFTEG)
+   Mr Robert A. Robelus (AFTWR)
+   Ms Lucienne M. M'Baipor (AFTCS)
+6. Safeguard Policies Triggered                             Yes         No
+Environmental Assessment (OP/BP 4.01)                        X
+Natural Habitats (OP/BP 4.04)                                X
+Forests (OP/BP 4.36)                                                    X
+Pest Management (OP 4.09)                                               X
+Physical Cultural Resources (OP/BP 4.11)                     X
+Indigenous Peoples (OP/BP 4.10)                              X
+Involuntary Resettlement (OP/BP 4.12)                        X
+Safety of Dams (OP/BP 4.37)                                             X
+Projects on International Waterways (OP/BP 7.50)                        X
+Projects in Disputed Areas (OP/BP 7.60)                                 X
+
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project.
+Identify and describe any potential large scale, significant and/or irreversible impacts:
+Biophysical impacts, pollution prevention and abatement (OP/BP 4.01, OP/BP 4.04, PS1,
+3, and 6):
+
+ Power plant site: The 16-hectare power plant site is located close to the main Edéa-Kribi
+road. 150 meters of a new access road will be built to access the Mpolongwe site from the
+main road. Direct land take for the construction of the power plant will be approximately
+7.5 hectares and a total area of 16 hectares will be fenced off during plant operation. An
+independent study for plant site alternatives by Power Planning Associates (2005)
+confirmed the power plant site in Mpolongwe as the best alternative out of five potential
+sites in the Kribi area, with respect to size, flatness, quality of soil, access roads,
+availability of fresh water, land use. At the power plant site, the frequent transport of
+material during the construction period may disturb the normal traffic and increase the
+noise for nearby residents. To address this issue, measures have been taken to ensure
+maximum utilization of the route during the evening and non-peak hours. Moreover,
+special precautions including safety campaigns have been taken during construction in
+order to prevent road accidents. In addition, well designed precautions have been taken to
+prevent pollution of community water resources during construction. The contractors
+have also been required to apply applicable World Bank Group EHS Guidelines.
+
+ The plant during its operation will produce NOx and SOx from the combustion of
+hydrocarbons. The Stack Height Assessment dated November 2009 concluded that, with
+a stack height of 32 meters, both World Bank and World Health Organization guidelines
+requirement for one-hour concentration of nitrogen dioxide (NO2) would be met,
+furthermore, the annual mean sulfur dioxide (SO2), NO2, and particulate (PM10)
+emissions would also satisfy World Bank requirements. The plant design will ensure that
+emission levels are within international standards and in compliance with World Bank
+EHS Guidelines. The impact with regard to water quality is not considered to be
+significant. The project company, Kribi Power Development Company (KPDC), will
+ensure that the EPC Contractor disposes of any construction effluents in a responsible
+manner. The plant design is aiming to avoid the adverse impacts of oil and other
+substances from plant equipment on water quality. The overall environmental impact at
+the power plant site has been assessed as low due to the relatively small area of land take,
+the low conservation status of the area affected and the current level of disturbance within
+this area. KPDC and the power plant EPC contractor will establish systems to implement
+the respective ESMP under KPDC's overall control to ensure proper management of
+impacts. This management plan is based on final Project design specifications and was
+developed by KPDC prior to starting construction and operation. The plant will employ a
+maintenance program that consists of preventive, predictive, and planned maintenance.
+The maintenance program will be managed using specialized software developed by the
+EPC Contractor. Preventive maintenance plans are established based on standard industry
+practice coupled with equipment history and overhaul schedules. KPDC has developed,
+in coordination with the EPC Contractor, the site emergency preparedness and response
+plans, including typical measures for reciprocating engine gas-fired thermal power plant,
+and to effectively respond to emergency situations to minimize risks and impacts to the
+environment and the surrounding communities.
+
+  Transmission line: The route of the 100-km transmission line was chosen to minimize
+environmental and social impacts. Several alternatives of the route were considered with
+reference to existing houses, plantations, farmlands, and forest areas. The new
+transmission line will be constructed within a corridor of 30 meters wide and will follow
+the existing 90-kV Edéa-Kribi transmission line for approximately 90% of the distance.
+As the existing and new line also follow the main road Edéa-Kribi, access to the
+transmission line corridor will only require construction of a few, short access tracks to
+the high voltage towers. Due to the level of existing disturbance it was concluded that the
+overall environmental impacts of the transmission line corridor are low. KPDC and the
+transmission line EPC contractor will establish systems to implement their respective
+ESMP under KPDC's overall control to ensure proper management of impacts.
+
+  Offshore gas infrastructure: The marine ecosystems affected by Perenco's offshore gas
+infrastructure are part of the coastal fishery of Cameroon. The main identified risks to
+marine biodiversity (such as marine turtles) and local marine ecosystem services
+(especially fishing resources) arise from potential hydrocarbon leaks from the 21-km
+condensate pipeline. According to international best practice, Perenco Cameroon has
+prepared management plans to address health, safety, and environmental impacts of
+offshore gas infrastructure. Perenco Cameroon's ESMP, as well as Perenco's
+Environmental Policy, includes a requirement to prepare an Emergency Response Plan.
+The Oil Spill Response Plan for the Ebomé Platform will be adapted to include the rights-
+of-way for the offshore and terrestrial parts of the gas and condensate pipelines.
+Significant minimization of the magnitude of the marine impacts for both biodiversity
+itself and livelihoods is also possible through management of impacts and sensitive
+timing of construction. Perenco's Environmental Policy includes a requirement to
+establish a baseline on terrestrial and aquatic biodiversity, including fisheries, and to
+monitor future changes against this biodiversity baseline during construction and
+operation. Perenco Cameroon's ESMP also specifies actions to minimize impacts on
+marine biodiversity and fisheries. In order to implement these mitigation measures more
+knowledge will be required (biodiversity surveys) with regard to the presence,
+reproduction and migratory behavior of protected marine turtles, whales and dolphins.
+The Bank will work with Perenco Cameroon to make sure that this due diligence with
+regard to the protection of the marine and terrestrial biodiversity will be undertaken as
+part of the implementation of the ESMP.
+
+  Central Gas Processing Facility: The environmental, health and safety impacts of the
+CPF and their management are in included in the EIA/ESMP prepared by Perenco for the
+Sanaga South Gas Field (see paragraph 12). The CPF will be located on a 3 ha plot which
+is not being used nor occupied by people, so that no RAP is needed. The main
+environmental, health and safety impacts during construction are: soil, groundwater and
+surface water pollution in case of accidental spills, impacts on terrestrial biodiversity,
+including on mangroves, public health impacts (i.e., HIV/AIDS) as a consequence of the
+presence of a foreign workforce. Other construction impacts are similar to the impacts of
+the Kribi power plant and are manageable. The environmental, health and safety impacts
+during operation are: risk of gas explosion at the CPF, air pollution from gas flaring at the
+CPF, increase in poaching of wildlife in the area surrounding the CPF. Perenco has
+prepared management plans to address these environmental, health and safety impacts.
+
+ Onshore gas pipeline: The environmental assessment undertaken for the 18-km onshore
+gas pipeline between Bipaga 1 and Mpolongwe identified the following main
+environmental and social impacts: risks of soil erosion, potential pollution of soil and
+water bodies, noise, and impacts on health and security of local population with a
+potential need for relocation. Benefits for local commercial activities are expected.
+Appropriate mitigation measures to reduce those impacts to an acceptable level were
+specified by SNH in the pipeline ESMP, including the optimization of construction
+period and technology, awareness raising campaign with local authorities at the
+beginning of the construction work, and the implementation of appropriate management
+plans for resettlement/land acquisition and compensation, health, safety and
+environmental management. The analysis of the different options of the route for the
+onshore pipeline is ongoing and expected to be finalized soon.
+
+  Natural habitats: The Project EIA states that the plant site and the transmission line
+corridor are both situated within the disturbed habitats along the corridor of the Edéa-
+Kribi highway and the existing 90-kV transmission line. The EIA for the Sanaga South
+gas project, on the other hand, observes that protected species are present among the
+terrestrial fauna and flora of the project areas, i.e., in the 25 hectares of forest land
+allocated to develop the CPF (the CPF itself uses 3 ha), and also, that protected marine
+species (marine turtles, dolphins and whales) may be present in the project area. The
+additional Rapid Biodiversity Assessment financed by the IFC showed four habitats (near
+shore pelagic waters, sandy shoreline, coastal humid forest, mangrove lagoon) of the
+Sanaga South gas field project area harbor IUCN-listed species which inhabit, migrate,
+and/or breed in these habitats. However, these natural habitats are not deemed to be
+critical to the widespread survival of these specifies because (i) all the recognized IUCN-
+listed species are of a relatively or very wide distribution and therefore the magnitude of
+the impacts within the project area is comparatively small and could not be said to be of
+global significance, and (ii) many of those species will probably continue to exist
+alongside the planned developments if appropriate mitigation measures are put in place.
+For example, careful forest management can reduce deforestation, and careful
+hydrocarbon leak mitigation and anti-poaching programs can minimize impacts on
+marine turtles. Based on this analysis, the habitats are not considered as critical natural
+habitat under the World Bank Natural Habitat Policy OP 4.04 and IFC's PS6. Careful
+mitigation measures and environmental management, as proposed in the Sanaga South
+gas field project EIA, are essential to limit biodiversity impacts, particularly risks
+concerning hydrocarbon leaks (see paragraph 12 above).
+
+  The Regional Environmental Assessment (REA), which was done based on the Bank's
+guidelines for cumulative environmental and socials impact assessments, has been
+prepared to assess the magnitude of the cumulative development initiatives on the region.
+The REA concluded that the impact of project activities is limited compared to the
+regional industrial development plans. Regarding the follow-up on the REA, the Bank is
+engaged in a dialogue with the GOC on including the Douala-Edéa nature reserve in the
+list of protected areas which benefit from World Bank support under ongoing Forest and
+Environment Policy Development Grant (PFSE). The GOC has initiated the process to
+classify the Douala-Edéa reserve, including its marine part, as a National Park.
+
+ Cultural Resources (OP/BP 4.11): Archeological sites including a diverse human
+settlement exist in the surface area of the Mpolongwe gas power plant site. An
+archeological study (Physical Cultural Resources Assessment) was conducted for the site.
+Archaeologists were consulted during construction works and a "chance find procedure"
+has been included in both ESMPs and EPC Contracts. Articrafts were identified and
+safely removed from the site by an archeological team.
+
+  Indigenous Peoples (OP/BP 4.10): The Project area affects the livelihood of Indigenous
+Peoples in particular pygmies in the Bankola and Bantou communities. The Community
+and Indigenous Peoples Plan (CIPP) was developed to ensure that Indigenous Peoples are
+involved in the project (both in terms of being consulted about and benefitting from the
+project) and any adverse impacts on them are mitigated. Key issues in the CIPP include:
+  . Defining the roles and responsibilities of KPDC staff, government, local authorities,
+traditional community leadership, civil society and other stakeholders in relation to
+implementing the CIPP;
+  . Establishing legal recognition of ownership and usage of Bakola Land, developing a
+strategy for continued interaction, consultation and sustainable livelihoods for the Bakola,
+and preparing a Livelihood Development Strategy for the Bakola;
+  . Promoting sustainable social and economic development in the Bakola and Bantu
+Communities through community mobilization and training, microenterprise and micro
+credit scheme, and social infrastructure microprojects;
+  . Providing an overall framework and guidance to KPDC (and other stakeholders) on
+how best to take a proactive and consistent stance on community development initiatives
+that are linked to the project; and
+  . Describing how the CIPP will be monitored, evaluated, and integrated into the social
+and environmental management system of KPDC.
+ Given that (i) that the Project will follow the road and thus affect the secondary forest
+next to the road; (ii) there are only thirty households of the Kola group in the Project
+area; and (iii) that only 78 hectares over a 65-km distance will be affected it is believed
+that this impact is not very significant and is well localized to ensure mitigation in line
+with World Bank Safeguard Policies and IFC Performance Standards.
+
+ Involuntary Resettlement (OP/BP 4.12):
+ To mitigate the social impacts identified, KPDC has prepared a RAP consistent with
+national and World Bank Group standards and is in the process of finalization its
+implementation. The construction of the power plant and transmission line affects 682
+people, whereof a majority of 647 people will be compensated for crops. Physical
+resettlement due to the construction of the power plant and transmission line will be
+required for 85 households. An independent valuation has been carried out and provided
+a database that has determined the amount of compensation to be paid either in cash or in
+kind. The valuation was conducted based on the "Fair Market Value" process for crop,
+property, land, and other properties such as houses. The compensation of economically
+affected people and the resettlement has been carried out before start of construction. The
+cost for compensation and resettlement of affected people is estimated at US$9 million
+and is included in the Project budget. Following World Bank Group policy, people have
+been encouraged to take replacement land (land for land) rather than compensation. For
+households who have to move as a result of the Project, KPDC offered to build a new
+house of better quality or larger size within the same community. People may also choose
+cash compensation at full replacement cost for the loss of their buildings. Out of 85
+households to be physically resettled, only 22 accepted in-kind compensation, while the
+other 63 preferred compensation in cash. KPDC recruited a witness NGO for oversight of
+RAP execution who has confirmed the regularity of compensation payments. The
+relocation of the 22 households that have opted for physical resettlement is planned for
+October 2011. KPDC is facilitating access to new land for project-affected people. Where
+the transmission line passes through a densely populated area before entering the
+substation in Edéa, local residents expressed concerns about being able to find new land
+for crops and housing. KPDC is ensuring access to land in this area.
+
+ A Resettlement Policy Framework (RPF) for the associated 18-km onshore gas pipeline
+between the CPF at Bibaga and the power plant at Mpolongwe has been prepared and
+disclosed in country and in the InfoShop on March 8, 2010. An inventory of project-
+affected people related to the construction of the 18-km onshore gas pipeline between the
+CPF and Kribi power plant is being finalized. Following the final identification of the
+onshore gas pipeline routing between the CPF and Kribi power plant, a RAP will be
+prepared, consulted upon, and disclosed in-country and in the InfoShop. SNH and the
+Government of Cameroon will finance and manage the compensation and eventual
+resettlement, which will be carried out before construction of associated infrastructure
+can start. The Government has confirmed, through a letter dated October 11, 2011, that
+compensation will be paid in accordance with the Bank's applicable policies.
+2. Describe any potential indirect and/or long term impacts due to anticipated future
+activities in the project area:
+The wider Kribi area is one of the biodiversity hotspots in the world and an important
+potential area for tourism development. The Cameroonian Government has selected the
+Kribi area for industrial development based on the availability gas resources, a good site
+for a new deep sea port, construction of new railways to export mining products, etc. The
+cumulative environmental impacts on terrestrial and marine biodiversity and on potential
+tourism development will be significant. Better regional planning could have minimized
+these impacts, but is not being pursued by the Government of Cameroon. The
+recommendations of the Regional Environmental Assessment (REA) to reconsider the
+relocation of some of the associated project components will not be followed, since
+investments had already been made on the Bipaga 1 site where the CPF will be located.
+Social impacts of anticipated future activities in the project area are expected to be
+positive through significant job creation.
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize
+adverse impacts.
+
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide
+an assessment of borrower capacity to plan and implement the measures described.
+Environmental Assessment (OP/BP 4.01): Environmental and Social Impact Assessments
+(ESIAs) have been conducted for the power plant, transmission line, substation, marine
+gas field, pipelines and CPF site. The ESIAs have been undertaken to both Cameroonian
+legislation and internationally recognized guidance and standards adopted by the World
+Bank and the International Finance Corporation (IFC). In addition, a Regional
+Environmental Assessment (REA) was conducted to gauge the cumulative environmental
+and social impacts of existing projects and projects under development in the Kribi
+region. The REA has been publicly discussed in the Kribi area on February 14, 2008. The
+above mentioned studies have received the certificate of conformity by the Ministry of
+Environment and Protection of Nature and have been disclosed in the World Bank
+Infoshop and in country on February 25, 2008. A supplementary EIA for the 18 km
+onshore gas pipeline between the CPF site and the power plant has been prepared and an
+acceptable final draft report has been published on March 8, 2010.
+
+ KPDC developed a detailed Environmental and Social Management Plan (ESMP) for
+the power plant, the transmission line and the substation in February 2009 building on the
+draft EMP and SMP outlined in the ESIA as well as the subsequent environmental and
+social reporting. The ESMP includes all aspects of mitigation, environmental and social
+management and addresses health and safety concerns; monitoring and institutional
+measures that will be undertaken by KPDC to ensure conformity with best practice
+international standards and World Bank safeguard policies and Environmental, Health
+and Safety Guidelines (2007). This management plan is based on final project design
+specifications and was developed by KPDC prior to starting construction and operation.
+The plant will employ a maintenance program that consists of preventive, predictive, and
+planned maintenance. The maintenance program will be managed using specialized
+software developed by the EPC contractor. Preventive maintenance plans are established
+based on standard industry practice coupled with equipment history and overhaul
+schedules. KPDC has developed, in coordination with the EPC contractor, the site
+emergency preparedness and response plans, including typical measures for reciprocating
+engine gas-fired thermal power plant, and to effectively respond to emergency situations
+to minimize risks and impacts to the environment and the surrounding communities.
+
+ KPDC is committed to ensure a timely and transparent consultation process going
+forward. KPDC is also committed to involve local people in the Project as much as
+possible. All required technological and safety checks will be carried out and monitored.
+Water and electricity provision are outside of the scope of the Project and would be
+addressed through national programs, such as the Rural Electrification Fund established
+in 2009.
+
+ Grievances involving project-affected people and KPDC will be addressed through a
+designated KPDC contact point to ensure that the grievance will be addressed within a
+fourteen-day period. If not, the EIA and RAP Coordination Unit of KPDC will take
+responsibility for the grievance and ensure that is resolved within fourteen days. People
+will still be able to take grievances to court if they are not satisfied with KPDC's
+grievance process. The RAP establishes a monitoring and evaluation framework for
+ensuring that the RAP activities are carried out as agreed.
+
+ Consultation will be ongoing throughout the Project and in line with both Cameroonian
+legislation and World Bank Group Safeguard Policies and Performance Standards.
+Regarding the broader issue of addressing the Project's potential environmental risks and
+impacts in its area of influence, i.e., all ancillary aspects of the Project in accordance with
+OP 4.01, the team has engaged in a comprehensive dialogue with the GOC on managing
+the environmental and social impacts of energy sector projects.
+
+  The World Bank acknowledges that the geographic reach of the associated facilities of
+the Project is wider than the Bank's immediate area of influence, since the proposed IDA
+Guarantee is limited to the financing of the Kribi power plant, substation, and
+transmission line. The Bank will use its existing dialogue with the GOC on
+environmental issues as platform to monitor compliance with the World Bank Safeguard
+Policies. In particular, the ongoing PRECESSE is providing TA to responsible line
+ministries to ensure adequate supervision of safeguards aspects of the Project and other
+large-scale energy projects.
+
+ Natural Habitats (OP/BP 4.04): A REA has been prepared to assess the magnitude of the
+cumulative development initiatives on the region. A Rapid Terrestrial Biodiversity
+Assessment for the Sanaga Gas Project area was carried out in January 2008 and was
+disclosed in country and in the Infoshop on February 11, 2010.
+
+ Physical Cultural Resources (OP/BP 4.11): An archeological study was conducted for
+the site and disclosed in the World Bank Infoshop and in country on February 25, 2008.
+ Indigenous Peoples (OP/BP 4.10): A Community and Indigenous Peoples Plan (CIPP)
+have been disclosed in the World Bank Infoshop and in country on February 25, 2008.
+
+ Involuntary Resettlement (OP/BP 4.12): Resettlement Action Plans (RAPs) for the
+power plant and the transmission line were prepared and have been disclosed in the
+World Bank Infoshop and in country on February 25, 2008. KPDC is being assisted by
+experienced NGOs in the management of compensation payments and oversight of the
+RAP implementation. A Resettlement Policy Framework (RPF) for the associated 18-km
+onshore gas pipeline between the CPF at Bibaga and the power plant at Mpolongwe has
+been prepared and disclosed in country and in the InfoShop on March 8, 2010. An
+inventory of project-affected people related to the construction of the 18-km onshore gas
+pipeline between the CPF and Kribi power plant is being finalized. Following the final
+identification of the onshore gas pipeline routing between the CPF and Kribi power plant,
+a RAP will be prepared, consulted upon, and disclosed in-country and in the InfoShop.
+SNH and the Government of Cameroon will finance and manage the compensation and
+eventual resettlement, which will be carried out before construction of associated
+infrastructure can start. The Government has confirmed, through a letter dated October
+11, 2011, that compensation will be paid in accordance with the Bank's applicable
+policies.
+
+  KPDC will be responsible for ensuring safeguards compliance for the power house and
+the transmission line during construction. KPDC appointed a management team with
+significant experience in the development of power plants, including international AES
+SONEL staff and trained local employees, to ensure sound construction management and
+supervision of the project in compliance with applicable national legislation as well as
+World Bank safeguard policies, IFC Performance Standards, and the applicable World
+Bank Group Environmental, Health, and Safety (EHS) Guidelines. The applicable EHS
+Guidelines are: General EHS Guidelines, Pollution Prevention and Abatement Handbook,
+EHS Guidelines for Electric Power Transmission and Distribution, EHS Guidelines for
+Onshore Oil and Gas Development, and EHS Guidelines for Offshore Oil and Gas
+Development. A technical service agreement will allow KPDC to benefit from AES
+Corporation's global, extensive experience in power plant operations, including
+compliance with international best practice environmental and social standards. In
+addition, technical and services agreements will allow KPDC to benefit from services
+from AES SONEL and other AES affiliates, such as the provision of specialized staff and
+IT services. KPDC is requiring the EPC contractors to implement the approved
+environmental and social management plans in line with WGB safeguard policies.
+KPDC will also facilitate coordination between sector actors as required and also be a
+focal point for the World Bank supervision of the project. Following completion of the
+transmission line construction, the transmission line will be transferred to the GOC and
+operated by AES SONEL, at which time responsibility for compliance with the
+transmission line ESMP will pass to AES SONEL, while the responsibility for
+implementing the transmission line RAP and CIPP will remain with KPDC. AES
+SONEL, of which The AES Corporation is the majority shareholder, has benefited from
+IFI financing in the past and is therefore familiar with WBG safeguard policies on a
+global level and in Cameroon.
+ Perenco Cameroun is responsible for management and oversight of the environmental
+and social management plan related to the Sanaga South gas field development, the
+marine pipelines and the CPF. Perenco Cameroun is an international oil and gas
+company with a track record of sustainable development of oil and gas fields in the
+region. SNH will be responsible for the management and oversight of the environmental
+and social management plan related to the gas pipeline between the CPF and power plant.
+SNH through its environmental arm, the Comite de Pilotage et de Suivi des Pipelines
+(CPSP) has gathered comprehensive experience in the environmental and social
+management of large scale infrastructure projects in the context of the Chad-Cameroon
+pipeline and has benefited from capacity building under previous World Bank projects.
+
+ Regarding the broader issue of addressing the project's potential environmental risks and
+social impacts in its area of influence, the team has engaged in a comprehensive dialogue
+with the Government of Cameroon on managing the environmental and social impacts of
+energy sector projects. The capacity of all governmental agencies responsible for
+implementing the Cameroonian environmental legislation and supervising the
+enforcement of environmental management plans is being strengthened by the US$20
+million World Bank financed Environmental and Social Capacity Building Project in the
+Energy Sector (PRECESSE). The Bank is also engaged in a dialogue with the GOC on
+including the Douala-Edea nature reserve in the list of protected areas which benefit from
+World Bank support through its lending. The GOC has initiated the process to classify
+the reserve, including its marine part, as a National Park.
+
+5. Identify the key stakeholders and describe the mechanisms for consultation and
+disclosure on safeguard policies, with an emphasis on potentially affected people.
+Consultations: All the actions included in the management program (ESMP, SMP, RAP
+and CIPP) are disclosed to the affected communities. The status of RAP will go through
+an independent and post implementation audit to ensure that residual concerns /
+grievances are appropriately handled. Consultations were carried out through a series of
+focus groups. A summary of the RAP in French and English is available to local
+communities, and the Company will carry out further consultations on the contents of the
+RAP and CIPP.
+
+ All the actions included in the management program (EIAs/ESMPs, RAPs, and CIPP)
+have been disclosed to the affected communities. Consultations were carried out through
+a series of focus groups.
+
+ A summary of the RAPs in French and English has been made available to local
+communities, and KPDC has been carrying out further consultations on the contents of
+the RAP and CIPP to clarify impacts, the project implementation process, entitlements,
+and community benefits. The RAPs will go through an independent and post
+implementation audit to ensure that residual concerns/grievances are appropriately
+handled.
+ Consultation for the EIAs has also been undertaken in accordance with the requirements
+of the Decree of Cameroon 2005/0577, which requires:
+
+ . The determination of the acceptability of the EIA, which involves consultation and
+public hearings and which will also include meetings undertaken during the studies.
+ . The proponent to provide thirty days notification prior to the first consultation meeting.
+ . Minutes of meetings to be included in the EIA report.
+ . After confirmation of acceptability of the EIA report, public consultation to be
+undertaken. Following thirty days, a report of the findings is presented to the Minister.
+
+  The preparation of the EIAs has involved identification of stakeholders through formal
+and informal public meetings, document review, household surveys and unscheduled
+informal discussions. Public consultation meetings were conducted with the twenty-five
+affected villages. Subsequent formal public meetings have been held to update
+stakeholders on the Project plans. These have been conducted primarily in French with
+translation into other local languages where necessary. The following parties were
+consulted:
+
+ . Government Agencies, including the Kribi and Edéa Divisional Officers, ARSEL and
+the Ministry of Environment and Protection of Nature; and
+ . The affected villages in the Project area, namely Bebambwe 1 and 2, Londji, Bipaga,
+Ebea, Pama, Bivouba, Mbebe, Elogbatindi, Bonguen, Dehane, Appouh Koukoue,
+Malimba Farm, Ekite Pilote, Malimba Urbain, Ekite 1 village, Ekite 3 village, Londji
+Health Centre staff, and Mpolongwe 1.
+
+ Key issues raised during village consultations included:
+ . requests for electricity and potable water supply;
+ . assurance that consultation would be carried properly, with written explanation about
+the Project;
+ . clarification on resettlement and compensation;
+ . land and security of tenure cultural protections for indigenous peoples;
+ . requests to receive relevant training opportunities to enable PAPs to compete for
+Project jobs; and,
+ . lack of access to health care and, in particular, concern about the effects of possible
+radiation from the transmission lines on human health.
+
+
+
+B. Disclosure Requirements Date
+Environmental Assessment/Audit/Management Plan/Other:
+ Was the document disclosed prior to appraisal?                       Yes
+ Date of receipt by the Bank                                       02/25/2008
+ Date of "in-country" disclosure                                   02/25/2008
+ Date of submission to InfoShop                                    02/25/2008
+ For category A projects, date of distributing the Executive
+                                                                   11/02/2011
+ Summary of the EA to the Executive Directors
+Resettlement Action Plan/Framework/Policy Process:
+  Was the document disclosed prior to appraisal?                   Yes
+  Date of receipt by the Bank                                 02/25/2008
+  Date of "in-country" disclosure                             02/25/2008
+  Date of submission to InfoShop                              02/25/2008
+Indigenous Peoples Plan/Planning Framework:
+  Was the document disclosed prior to appraisal?                   Yes
+  Date of receipt by the Bank                                 02/25/2008
+  Date of "in-country" disclosure                             02/25/2008
+  Date of submission to InfoShop                              02/25/2008
+Pest Management Plan:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+* If the project triggers the Pest Management and/or Physical Cultural Resources,
+the respective issues are to be addressed and disclosed as part of the Environmental
+Assessment/Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please
+explain why:
+
+
+
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the
+ISDS is finalized by the project decision meeting)
+
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) report?               Yes
+If yes, then did the Regional Environment Unit or Sector Manager (SM)           Yes
+review and approve the EA report?
+Are the cost and the accountabilities for the EMP incorporated in the           Yes
+credit/loan?
+OP/BP 4.04 - Natural Habitats
+Would the project result in any significant conversion or degradation of        No
+critical natural habitats?
+If the project would result in significant conversion or degradation of other   Yes
+(non-critical) natural habitats, does the project include mitigation measures
+acceptable to the Bank?
+OP/BP 4.11 - Physical Cultural Resources
+Does the EA include adequate measures related to cultural property?             Yes
+Does the credit/loan incorporate mechanisms to mitigate the potential           Yes
+adverse impacts on cultural property?
+OP/BP 4.10 - Indigenous Peoples
+Has a separate Indigenous Peoples Plan/Planning Framework (as                   Yes
+appropriate) been prepared in consultation with affected Indigenous Peoples?
+If yes, then did the Regional unit responsible for safeguards or Sector         Yes
+  Manager review the plan?
+  If the whole project is designed to benefit IP, has the design been reviewed   Yes
+  and approved by the Regional Social Development Unit or Sector Manager?
+  OP/BP 4.12 - Involuntary Resettlement
+  Has a resettlement plan/abbreviated plan/policy framework/process              Yes
+  framework (as appropriate) been prepared?
+  If yes, then did the Regional unit responsible for safeguards or Sector        Yes
+  Manager review the plan?
+  The World Bank Policy on Disclosure of Information
+  Have relevant safeguard policies documents been sent to the World Bank's       Yes
+  Infoshop?
+  Have relevant documents been disclosed in-country in a public place in a       Yes
+  form and language that are understandable and accessible to project-affected
+  groups and local NGOs?
+  All Safeguard Policies
+  Have satisfactory calendar, budget and clear institutional responsibilities    Yes
+  been prepared for the implementation of measures related to safeguard
+  policies?
+  Have costs related to safeguard policy measures been included in the project   Yes
+  cost?
+  Does the Monitoring and Evaluation system of the project include the           Yes
+  monitoring of safeguard impacts and measures related to safeguard policies?
+  Have satisfactory implementation arrangements been agreed with the             Yes
+  borrower and the same been adequately reflected in the project legal
+  documents?
+
+
+  D. Approvals
+
+Signed and submitted by:                              Name                         Date
+Task Team Leader:                   Ms Astrid Manroth                            11/02/2011
+Environmental Specialist:           Mr Robert A. Robelus                         11/02/2011
+Social Development Specialist       Ms Lucienne M. M'Baipor                      11/02/2011
+Additional Environmental and/or
+Social Development Specialist(s):
+
+Approved by:
+Regional Safeguards Coordinator:    Ms Alexandra C. Bezeredi                     11/02/2011
+  Comments:
+Sector Manager:                     Mr Lucio Monari                              11/02/2011
+  Comments:
+

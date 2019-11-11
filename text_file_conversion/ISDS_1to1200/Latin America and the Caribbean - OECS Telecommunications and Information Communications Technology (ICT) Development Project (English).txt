@@ -1,0 +1,595 @@
+Page  1
+Integrated Safeguards Data Sheet (ISDS) 
+Section I 
+–
+Basic Information 
+Date ISDS Prepared/Updated: February 8, 2005 
+Report No.:AC1239
+A. Basic Project Data 
+ 
+A.1. Project Statistics 
+Country: OECS Countries 
+Project ID: P088448 
+Project: Telecommunications & ICT 
+Development Project 
+TTL: Robert Schware 
+Total project cost (by component): 
+Appraisal Date: January 14, 2005 
+Loan/Credit amount($m):  
+IDA: 1.08 
+IBRD: 1.63 
+Board Date: May 6, 2005 
+  
+Other financing amounts by source: 
+ 
+($m.) 
+Managing Unit: CITPO 
+Sector: General information and 
+communications sector 
+(60%);Telecommunications (40%) 
+Lending Instruments: Technical Assistance 
+Loan 
+ 
+Is this project processed under OP 8.50 (Emergency 
+recovery? 
+Yes?
+[
+]
+No?
+[X ] 
+Environmental Category: C 
+ 
+A.2. Project Objectives 
+The overall development objective of the project is to improve the access, quality and use 
+of telecommunications and ICT services to achieve socio-economic development in the 
+OECS. 
+To measure the progress toward achieving the project outcomes, the following key 
+indicators were defined: 
+Extended access to advanced ICT infrastructure for community facilities. 
+Reduction on leased lines rates, broadband and mobile tariffs. 
+ 
+The successful implementation of the project will contribute to high-level development 
+objectives identified in the region, namely economic diversification and competitiveness. 
+It will promote universal access to ICT services, provide economic opportunities for the 
+region by attracting private investment and employment in ICT services, and foster the 
+utilization of ICT to achieve economic and social development.  
+The project will promote the development of an information society. ICT can bring the 
+people of the Caribbean closer, maximize the flow of knowledge and information within 
+the region and provide a gateway to global knowledge resources. Given the correct 
+enabling environment, ICT can enable the region to overcome many of its physical and 
+economic constraints and compete globally in the expanding business processing services 
+market.  
+The project addresses three major development challenges defined in the World Bank’s 
+Country Assistance Strategy (CAS) for OECS: economic growth, poverty reduction and 
+rural development. The CAS emphasizes the need for improved provision of basic 
+services, access to private capital, and development of a resilient and diversified private 
+Page  2
+sector. More specifically, the proposed project fits into that strategy by seeking to 
+increase the rural access to telecommunications infrastructure, to improve the provision 
+of basic telecommunication services, and to foster economic diversification by 
+developing the ICT services sector. 
+ 
+The project has four main components that were selected considering the client needs, its 
+implementation capacity, and the challenges identified by ICT sector assessments. 
+ 
+COMPONENT 1 
+–
+Support for Legal and Regulatory Reforms 
+The objective of this component is to strengthen the national and regional regulatory 
+frameworks and promote additional competition in the sector. Emphasis will be given to 
+capacity building of ECTEL and the NTRCs through the provision of assistance to 
+ECTEL and the NTRCs to revise the regional and national sector legislation, and to 
+develop a modern interconnection regime. The goal of the component is to achieve more 
+competitive tariffs for consumers and businesses in the region as well as to strengthen the 
+institutional capacity of ECTEL and the NTRCs.
+ 
+Subcomponent 1.1 - Telecommunications Act and Regulations: 
+The objective is to review 
+and update the Telecommunications Act, ECTEL Treaty and tariff regulations of the 
+participating countries, in accordance with the new market and technological conditions. 
+The subcomponent will also identify areas where new regulations are needed. 
+Subcomponent 1.2 - Regional Forum for Consensus Building: 
+The objective is to 
+establish a regional forum for consensus building and alternative dispute resolution. The 
+forum will facilitate resolution of issues that have a commercial and public policy 
+dimension and seek consensus on commercial issues among industry players. 
+Subcomponent 1.3 - Alternative Disputes Resolution (ADR) Support: 
+The objective is to 
+build capacity within ETEL and the NTRCs to establish positions and guidelines for 
+handling specific anticipated areas of dispute, and based on current draft dispute 
+resolution regulations, develop a standard model for review and adoption by each 
+member country. 
+ 
+Subcomponent 1.4 - Development of Pro-competition Policies and Procedures: 
+The 
+objective is to assist ECTEL and the
+ NTRC’s to develop a modern cost methodology to 
+determine fixed-to-mobile interconnection and related consumer rates, and promote lower 
+fixed-to-mobile retail tariffs through reductions in mobile termination charges. In 
+parallel, this component will address the high cost of leased lines by C&W, by focusing 
+ECTEL and NTRC’s work on extending the existing PCP, and by ensuring a fair 
+interconnect outcome. This is a major issue requiring attention when new entrants are 
+allowed into the marketplace.  The component will also explore methods to attract 
+additional service providers to services currently dominated by the incumbent. 
+Subcomponent 1.5 - Regional Collaboration, Training, and Resource and Information 
+Sharing: 
+The objective of this activity is to support ECTEL and the NTRCs in 
+implementing regulations related to interconnection, numbering, dispute resolution 
+procedures, and spectrum management. It includes a comprehensive regional program of 
+training for ECTEL and NTRC’s staff and government officials.  Another priority will be 
+to strengthen ECTEL and NTRC capacities to collect and analyze usage and pricing data 
+covering the sector. 
+ 
+Page  3
+COMPONENT 2 - Universal Access 
+The objective of this component is to review current universal access policy, create 
+related guidelines and provide financial support to establish a Universal Access Fund 
+(UAF). The goal of this component is to promote and stimulate private ICT investment 
+for under-served communities and public institutions in accordance with the universal 
+access policy framework and reduce the disparities in access to telecommunications 
+infrastructure including the Internet. 
+The implementation of the universal access will use output based aid (OBA) mechanisms 
+to deliver services. This component will assist ECTEL in the implementation of the OBA 
+auctions/tender processes by selecting service providers to provide services and the 
+funding of the subsidy. A UAF and competitive bidding for the subsidy is generally 
+viewed as the best option in financing and promoting universal access objectives. 
+Variations of this component have been implemented in Chile, Peru, Dominican 
+Republic, Nigeria, Uganda, Nepal, and Sri Lanka. 
+Subcomponent 2.1 - Universal Access Guidelines: 
+The subcomponent will establish a 
+unified policy, strategy, and implementing guidelines that help ensure the spread of 
+advanced telecommunications infrastructure to communities and public institutions (such 
+as schools) in the region. It will assist in preparing/updating a comprehensive 
+consultation paper to define universal access guidelines (UAG) for improving access to 
+information and telecommunications services through a UAF, as well as drafting 
+regulations that would address the management of the Fund and Universal Service 
+Obligations. The steps to be taken are to define: (a) socio-economic objectives of UA 
+policies; and (b) scope of UA i.e. what to fund by identifying  UA projects.. 
+An important aspect of implementation is the funding mechanism. In case of the UAF, 
+options are: (a) funding from government budget; (b) contributions from all telecom 
+operators; (c) proceeds from privatizations or spectrum and license auctions; (d) 
+subscriber levy; and (e) funding from international development agencies. 
+Other key UAF items that the project will support include fund administration, the project 
+selection process, the use of competitive tender process to allocate subsidies, and 
+performance monitoring. 
+Subcomponent 2.2 
+–
+Implementation Support: 
+The objective of this sub-component is to provide 
+skilled support to implement the guidelines and regulation to be defined under subcomponent 2.1. Based on 
+one set of ECTEL guidelines and regulations, and coordination the member countries will implement five 
+different projects.
+ 
+Subcomponent 2.3 - Support for Universal Access Fund: 
+The objective of this sub-
+component is to establish and provide a one-time subsidy to the UAF that will stimulate 
+private investment in expanding broadband connectivity and access to advanced ICT for 
+under-served communities and public institutions.
+ 
+The implementation of the universal 
+access will use output based aid (OBA) type schemes to deliver services.  This 
+component will assist ECTEL in the implementation of an OBA competitive 
+auctions/tender process to select service providers for providing services and the funding 
+of the subsidy. A UAF and competitive bidding for the subsidy is generally viewed as the 
+best option in financing and promoting universal access objectives. Variations of this 
+component have been implemented in Chile, Peru, Dominican Republic, Nigeria, 
+Uganda, Nepal, and Sri Lanka. 
+The Bank is supervising a pre
+-
+feasibility study funded under a Dutch Consultant Trust Fund to explore 
+Page  4
+potential projects that could be candidates to receive funds from the UAF.  
+Whereas subcomponents 2.1. and 2.
+2
+design and implement ECTEL’s general UA policy 
+framework subcomponent 2.3 will focus on financing specific projects.  
+ 
+COMPONENT 3 
+–
+Information and Communication Technologies (ICT) 
+The objective of this component is to improve growth and competitiveness in ICT-enabled services through 
+utilization of broadband infrastructure. It includes implementing various pilot projects to showcase the 
+application of ICT using broadband connectivity. 
+ 
+Subcomponent 3.1. 
+–
+Extending the use of broadband applications by governments and the private sector:
+The objective of this subcomponent is to identify the regulatory infrastructure required to move the
+ 
+ICT 
+Agenda of each of the countries forward and design pilots to encourage regional use of broadband. This 
+subcomponent will be based on the identification of the policies required for facilitating the development of 
+broadband applications. It includes the following key activities: (a) technical assistance to identify policies 
+required for facilitating the development of broadband applications and infrastructure, and drafting 
+appropriate regulations that would give effect to these policies; (b) elaborating and recommending a 
+common information systems architecture and standards for the Member States and viable mechanism by 
+which complex information systems can be supported and maintained. (e.g., using remote applications via 
+broadband systems); and(c) designing pilots to encourage regional use of broadband technologies to 
+increase productivity and employment through purchase of equipment and services. 
+ 
+Subcomponent 3.2. – ICT Pilot Projects
+:
+Based upon the consultancy study carried out in 3.1, the project 
+will finance up to five pilot projects that demonstrate the viability and business case for ICT using 
+broadband connectivity, with a particular focus on regional initiatives 
+ 
+Subcomponent 3.3. 
+–
+Alternative communication technologies for Radio Spectrum 
+Monitoring System (RSMS): 
+This activity would establish an alternative 
+telecommunications system to transfer data from the RSMS to ECTEL and the five 
+NTRCs through the use of satellite technology for the provision of more reliable 
+communication and lower recurrent cost while maintaining international and domestic 
+links using the incumbent telephone network. This component builds upon the past 
+RSMS system that was being satisfactorily implemented by ECTEL under the previous 
+OECS Telecommunications Reform Project.   
+ 
+COMPONENT 4 – Project Management 
+The objective of this component is to ensure management and administration of the overall project. The 
+project would finance related technical assistance by providing complementary resources.  
+Subcomponent 4.1. – Support to Project Administration: 
+This subcomponent would 
+provide resources to support project administration capacity within ECTEL. A dedicated 
+person would be hired for the duration of the project. This person would have project 
+management, procurement and financial management skills, as well as technical skills.  
+ 
+Subcomponent 4.2. – Audit: 
+This activity would provide funding for project audits. 
+ 
+A.4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis: 
+ 
+Page  5
+B. Check Environmental Category 
+A
+[
+], B [ ], C [X], FI [ ] 
+ 
+Comments:  
+C. Safeguard Policies Triggered 
+ 
+Yes No 
+ 
+Environmental Assessment
+(
+OP
+/
+BP
+/
+GP
+4.01) [ 
+] 
+[X]  
+Natural Habitats
+(
+OP
+/
+BP
+4.04) [ 
+] 
+[X] 
+ 
+Pest Management
+(OP 4.09) 
+[ ] 
+[X] 
+ 
+Cultural Property
+(draft OP 4.11 - 
+OPN 
+11.03
+-) 
+[
+]
+[X]  
+Involuntary Resettlement
+(
+OP
+/
+BP
+4.12) [ 
+]  [X] 
+ 
+Indigenous Peoples
+(
+OD 4.20
+)
+[
+]
+[X]  
+Forests
+(
+OP
+/
+BP
+4.36) [ 
+] 
+[X] 
+ 
+Safety of Dams
+(
+OP
+/
+BP
+4.37) [ 
+] 
+[X] 
+ 
+Projects in Disputed Areas
+(
+OP
+/
+BP
+/
+GP
+7.60)
+*
+[
+]
+[X]  
+Projects on International Waterways
+(
+OP
+/
+BP
+/GP 7.50) 
+[
+]
+[X]  
+*
+By supporting the proposed project, the Bank does not intend to prejudice the final determination of the parties' 
+claims on the disputed areas
+ 
+Page  6
+Section II 
+–
+Key Safeguard Issues and Their Management  
+D. Summary of Key Safeguard Issues
+.
+D.1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts. 
+ 
+D.2 Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area. 
+ 
+D.3. Describe the treatment of alternatives (if relevant) 
+ 
+D.4. Describe measures taken by the borrower to address safeguard issues. Provide an 
+assessment of borrower capacity to plan and implement the measures described. 
+ 
+D.5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+ 
+Page  7
+F. Disclosure Requirements  Date
+ 
+Environmental Assessment/Audit/Management Plan/Other:  
+Date of receipt by the Bank 
+…/…/…     or Not Applicable
+Date of “in-country” disclosure 
+…/…/…      or Not Applicable
+Date of submission to InfoShop 
+…/…/…      or Not Applicable
+For category A projects, date of distributing the Executive Summary of the EA to the 
+Executive Directors 
+…/…/…      or Not Applicable
+Resettlement Action Plan/Framework/Policy Process: 
+Date of receipt by the Bank 
+…/…/…      or Not Applicable
+Date of “in-country” disclosure 
+…/…/…      or Not Applicable
+Date of submission to InfoShop 
+…/…/…      or Not Applicable
+Indigenous Peoples Development Plan/Framework:  
+Date of receipt by the Bank 
+…/…/…      or Not Applicable
+Date of “in-country” disclosure 
+…/…/…      or Not Applicable
+Date of submission to InfoShop 
+…/…/…      or Not Applicable
+Pest Management Plan:  
+ 
+Date of receipt by the Bank 
+…/…/…      or Not Applicable
+Date of “in-country” disclosure 
+…/…/…      or Not Applicable
+Date of submission to InfoShop 
+…/…/…      or Not Applicable
+Dam Safety Management Plan:  
+  
+Date of receipt by the Bank 
+…/…/…      or Not Applicable
+Date of “in-country” disclosure 
+…/…/…      or Not Applicable
+Date of submission to InfoShop 
+…/…/…      or Not Applicable
+If in-country disclosure of any of the above documents is not expected, please explain 
+why. 
+ 
+Section III 
+–
+Compliance Monitoring Indicators at the Corporate Level 
+(To be filled in when the ISDS is finalized by the project decision meeting) 
+OP/BP 4.01 - Environment Assessment:
+ 
+Yes
+No
+Does the project require a stand-alone EA (including EMP) report? 
+ 
+X 
+If yes, then did the Regional Environment Unit review and approve 
+the EA report? 
+ 
+Are the cost and the accountabilities for the EMP incorporated in the 
+credit/loan? 
+ 
+OP/BP 4.04 - Natural Habitats: 
+Yes
+No
+Would the project result in any significant conversion  or degradation 
+of critical natural habitats? 
+ X 
+If the project would result in significant conversion or degradation of 
+other (non-critical) natural habitats, does the project include 
+mitigation measures acceptable to the Bank? 
+ 
+OP 4.09 - Pest Management: 
+Yes
+No
+Does the EA adequately address the pest management issues? 
+ 
+ 
+Is a separate PMP required? 
+ 
+ 
+If yes,  are PMP requirements included in project design? 
+ 
+ 
+Page  8
+Draft OP 4.11 (OPN 11.03) - Cultural Property: 
+Yes
+No
+Does the EA include adequate measures? 
+ 
+ 
+Does the credit/loan incorporate mechanisms to mitigate the potential 
+adverse impacts on physical cultural resources? 
+ 
+OD 4.20 - Indigenous Peoples: 
+Yes
+No
+Has a separate indigenous people development plan been prepared in 
+consultation with the Indigenous People? 
+ 
+If yes, then did the Regional Social Development Unit review and 
+approve the plan? 
+ 
+If the whole project is designed to benefit IP, has the design been 
+reviewed and approved by the Regional Social Development Unit? 
+ 
+OP/BP 4.12 - Involuntary Resettlement: 
+Yes
+No
+Has a resettlement action plan, policy framework or policy process 
+been prepared? 
+ 
+If yes, then did the Regional Social Development Unit review and 
+approve the plan / policy framework / policy process? 
+ 
+OP/BP 4.36 
+–
+Forests: 
+Yes
+No
+Has the sector-wide analysis of policy and institutional issues and 
+constraints been carried out? 
+ 
+Does the project design include satisfactory measures to overcome 
+these constraints? 
+ 
+Does the project finance commercial harvesting, and if so, does it 
+include provisions for certification system? 
+ 
+OP/BP 4.37 - Safety of Dams: 
+Yes
+No
+Have dam safety plans been prepared? 
+ 
+ 
+Have the TORs as well as composition for the independent Panel of 
+Experts (POE) been reviewed and approved by the Bank? 
+ 
+Has an Emergency Preparedness Plan (EPP) been prepared and 
+arrangements been made for public awareness and training? 
+ 
+OP 7.50 - Projects on International Waterways: 
+Yes
+No
+Have the other riparians been notified of the project? 
+ 
+ 
+If the project falls under one of the exceptions to the notification 
+requirement, then has this been cleared with the Legal Department, 
+and the memo to the RVP prepared and sent? 
+ 
+What are the reasons for the exception? 
+ 
+ 
+Please explain: 
+ 
+ 
+Has the RVP approved such an exception? 
+ 
+ 
+OP 7.60 - Projects in Disputed Areas
+:
+Yes
+No
+Has the memo conveying all pertinent information on the 
+international aspects of the project, including the procedures to be 
+followed, and the recommendations for dealing with the issue, been 
+prepared, cleared with the Legal Department and sent to the RVP? 
+ 
+Does the PAD/MOP include the standard disclaimer referred to in the 
+OP? 
+ 
+BP 17.50 - Public Disclosure: 
+Yes
+No
+Have relevant safeguard policies documents been sent to the World 
+ 
+ 
+Page  9
+Bank's Infoshop? 
+Have relevant documents been disclosed in-country in a public place 
+in a form and language that are understandable and accessible to 
+project-affected groups and local NGOs? 
+ 
+All Safeguard Policies: 
+Yes
+No
+Have satisfactory calendar, budget and clear institutional 
+responsibilities been prepared for the implementation of the safeguard 
+measures? 
+ 
+Have safeguard measures costs been included in project cost? 
+ 
+ 
+Will the safeguard measures costs be funded as part of project 
+implementation? 
+ 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures? 
+ 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+ 
+Signed and submitted by:
+ Name
+Date
+Task Team Leader: 
+Robert Schware 
+03/01/2005 
+Project Safeguards Specialist 
+1: 
+ 
+Project Safeguards Specialist 
+2: 
+ 
+Project Safeguards Specialist 
+3: 
+ 
+Approved by:
+ Name
+Date
+Regional Safeguards 
+Coordinator: 
+ 
+Comments: 
+Sector Manager: 
+Pierre Guislain (signed by Eloy Vidal, Acting 
+Sector Manager) 
+03/01/2005 
+Comments: 

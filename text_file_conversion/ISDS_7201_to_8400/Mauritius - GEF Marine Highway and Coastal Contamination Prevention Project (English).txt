@@ -1,0 +1,655 @@
+Page  1
+INTEGRATED SAFEGUARDS DATASHEET 
+APPRAISAL STAGE 
+ 
+I.  Basic Information
+ 
+Date prepared/updated:  07/31/2005 
+Report No.:  AC1320
+1. Basic Project Data  
+ 
+Country:  Mauritius 
+Project ID:  P078643 
+Project Name:  GEF-Marine Highway and Coastal Contamination Prevention 
+Task Team Leader:  Abdelmoula M. Ghzala 
+GEF Focal Area: International waters 
+Global Supplemental ID:  
+Estimated Appraisal Date: June 29, 2005 
+Estimated Board Date: November 15, 2005 
+Managing Unit:  AFTTR 
+Lending Instrument:  Specific Investment 
+Loan 
+Sector:  Ports, waterways and shipping (60%);Information technology (20%);Central 
+government administration (20%) 
+Theme:  Environmental policies and institutions (P);Pollution management and 
+environmental health (P);Law reform (S);Technology diffusion (S);Regional integration 
+(S) 
+IBRD Amount (US$m.): 
+0.00 
+IDA Amount (US$m.): 
+0.00 
+GEF Amount (US$m.): 
+11.00 
+PCF Amount (US$m.): 
+0.00 
+Other financing amounts by source:  
+ BORROWER/RECIPIENT 
+5.00 
+ 
+FOREIGN SOURCES (UNIDENTIFIED) 
+10.00
+15.00 
+Environmental Category: C - Not Required 
+Simplified Processing 
+Simple [] 
+Repeater [] 
+Is this project processed under OP 8.50 (Emergency Recovery) 
+Yes [ ] 
+No [X] 
+2. Project Objectives 
+The project's development objective is to increase the safety and efficiency of navigation.  
+ 
+This will be achieved by establishing a demonstration marine electronic highway to 
+guide  
+ 
+ships through selected busy sea lanes and by strengthening capacity for port state 
+control.  
+ 
+Global Environmental Objectives  
+ 
+The project#s main global environmental objective is to reduce the risk of ship-based  
+ 
+environmental contamination (such as oil spills from groundings and illegal discharges 
+of  
+ 
+ballast and bilge waters) and the unsustainable exploitation of marine resources (such as  
+ 
+illegal fishing and fishing practices). This will be achieved by testing the economic,  
+ 
+technical, and institutional feasibility of introducing precision navigation systems, such 
+as an  
+ 
+electronically supported marine highway to guide ships through sensitive areas and to  
+Page  2
+monitor the movements and activities of fishing and other vessels operating within 
+countries#  
+ 
+territorial waters. Strengthening capacity for port state control will also help.  
+ 
+2
+A
+second objective, focusing on Kenya, Mozambique, and Tanzania, is to reduce risks 
+of  
+ 
+environmental damage to beaches, fishing grounds, and other domestic resources from 
+spills  
+ 
+of
+oil and chemicals. This will be achieved by supporting efforts of Kenya, Tanzania, 
+and  
+ 
+Mozambique to become part of a regional oil spill response plan, by completing the  
+ 
+identification and mapping of environmentally sensitive areas along coasts and sea 
+lanes, and  
+ 
+by widening the regional collaboration that has been built under the GEF-supported 
+West  
+ 
+Indian Ocean Islands Oil Spill Contingency Planning Project.  
+ 
+The proposed project is in line with the country assistance strategies (CASs) of the  
+ 
+participating countries. The Kenya CAS (2004) names the proposed project as important 
+not  
+ 
+only to protect coastal and marine resources, but also to promote regional integration. 
+The  
+ 
+Mozambique CAS (2003) emphasizes the importance of protecting coastal and marine  
+ 
+resources to promote sustainable development of tourism, a major source of growth in 
+the  
+ 
+country. The Madagascar CAS (2003) places environmental protection at the center of 
+its  
+ 
+strategy, noting the strong linkages between environmental degradation and high levels 
+of  
+ 
+poverty. CASs for Mauritius (2002), Comoros (2000), and Tanzania (2000) all discuss  
+ 
+environmental protection as a key element in their strategies. No recent CASs have been  
+ 
+produced for Seychelles or for South Africa. Both countries, however, have taken strong  
+ 
+action to protect their coastal and marine resources in recognition of the importance of 
+the  
+ 
+tourism and fishing industries to their economies.  
+ 
+The project#s global objectives are also in line with the objectives of the Nairobi 
+convention,  
+ 
+which are to encourage regional initiatives and cooperation among the states for the  
+ 
+protection, management, and development of marine and coastal resources of the 
+eastern  
+ 
+African region. They are also consistent with those of the CLC92, OPRC90, FUND92,  
+ 
+MARPOL 73/78, SOLAS, COLREG and other conventions of the International 
+Maritime  
+ 
+Organization. Collectively, these conventions require signatories to take coordinated 
+action  
+ 
+to protect marine and coastal resources and ensure the safety of navigation.  
+Page  3
+The project will contribute to the goals of GEF operational program 10 in several ways, 
+and  
+ 
+its strategic priority 3 (undertake innovative demonstration projects for reducing  
+ 
+contaminants). It is expected to demonstrate ways to overcome barriers to adoption of 
+best  
+ 
+practices that limit contamination of the international waters environment by developing 
+a
+marine electronic highway to aid the navigation of ships through particularly hazardous  
+ 
+seaways. The project will also leverage significant private sector support to demonstrate 
+the  
+ 
+value of using modern technology to help ships avoid collisions in busy marine 
+corridors.  
+ 
+The modern technology will also permit countries to monitor and control fishing in their  
+ 
+territorial waters.  
+ 
+The proposed project also satisfies the criteria for the operational strategy for 
+international  
+ 
+waters#to assist groups of countries to better understand the environmental concerns of  
+ 
+their international waters and work collaboratively to address them#through its support 
+for  
+ 
+analytical work and establishment of information systems, for ratifying conventions and  
+ 
+translating their provisions into law, and for building institutional capacity to more  
+ 
+comprehensively address transboundary water-related environmental concerns.   
+ 
+3. Project Description 
+The project will include Kenya, Mozambique, South Africa, Tanzania, Madagascar,  
+ 
+Comoros, Mauritius and Seychelles, and as a partner La R?union (France), covering a  
+ 
+combined coastline of 13,300 kilometers. Following the model developed for the Straits 
+of  
+ 
+Malacca and Singapore, the development of the western Indian Ocean marine highway 
+will  
+ 
+be
+implemented in phases. The first phase (the project) will establish as a pilot an  
+ 
+electronically supported marine highway for some of the region#s major shipping 
+routes, will  
+ 
+assess the feasibility of the concept, and, should the concept prove viable, will finance  
+ 
+preparation of a follow-up project agreed upon by the countries. The second phase (or a  
+ 
+follow-up project) will build on the experience of the first phase and establish a full 
+marine  
+ 
+electronic highway covering all major shipping routes of the western Indian Ocean 
+region.  
+ 
+Components include:  
+ 
+Component A: Development of a regional marine highway. This component will 
+support  
+ 
+the establishment of a network of electronic navigational charts in conjunction with the  
+ 
+differential global positioning system and other maritime technologies, which will form 
+the  
+Page  4
+backbone of a marine electronic highway extending from South Africa to the 
+Mozambican  
+ 
+port of Nacala (west of Comoros) to Aldabra (Seychelles). Vessels using this route will  
+ 
+come under the control of the marine highway electronically supported in South Africa,  
+ 
+again at Inharrime, and again at Nacala, and then again at Aldabra until leaving the 
+marine  
+ 
+highway. As the area between these points is in deep water and is far from the coasts, 
+the  
+ 
+area will be surveyed and electronic charts will be provided to vessels. In addition, the 
+route  
+ 
+north from the Seychelles will be surveyed to provide mariners with up-to-date 
+information  
+ 
+on
+how to navigate the route safely after they leave the marine highway.  
+ 
+The component includes six subcomponents: (1) production of nautical charts and  
+ 
+publications; (2) maintenance of these charts and publications; (3) survey and 
+rehabilitation  
+ 
+of
+the main aids to navigation on the route of the marine highway; (4) establishment of 
+an  
+ 
+automatic information service and ship reporting scheme; (5) search and rescue 
+activities;  
+ 
+and finally (6) the evaluation of the demonstration phase and preparation of the second 
+phase  
+ 
+if the demonstration phase proves to be feasible and sufficiently beneficial to justify 
+costs.  
+ 
+It is expected that the large vessels transporting oil and chemicals will choose to sail 
+under  
+ 
+the control of the marine electronic highway, rather than outside its boundaries, because  
+ 
+doing so will reduce their risks of groundings and collisions and increase their 
+efficiency of  
+ 
+navigation. It is less obvious that fishing vessels will be interested in coming under the  
+ 
+control of the marine electronic highway. The evaluation of the demonstration project 
+will  
+ 
+include an in-depth study of the costs and benefits to large fishing vessels of using a 
+marine  
+ 
+electronic highway, and will specify a range of regulatory and other measures that 
+would  
+ 
+encourage such vessels to use it.  
+ 
+Component B: Capacity building for prevention of coastal and marine contamination.  
+ 
+This component contains three subcomponents. The first will assist Kenya, 
+Mozambique,  
+ 
+4
+and Tanzania to develop or enhance national oil spill contingency plans; join the 
+regional  
+ 
+plan developed for the island states under the GEF-supported Western Indian Ocean Oil 
+Spill  
+Page  5
+Contingency Planning project; and create and maintain coastal and marine sensitivity 
+maps,  
+ 
+needed to establish the marine highway and improve planning. The second will support 
+the  
+ 
+development of a methodology to identify and assign values to the key environmental  
+ 
+resources in the region. The third will support the development of a regional database 
+and a  
+ 
+geographic information system on the marine environment, marine and coastal 
+resources,  
+ 
+ship movements, ship waste, and sea-based activities. The IMO, IPIECA, the European  
+ 
+Commission (EC), and France have expressed interest in contributing to or cofinancing 
+the  
+ 
+preparation of the national oil spill contingency plans.  
+ 
+Component C: Widening capacity for regional oil spill response. This component will  
+ 
+assist Kenya, Mozambique, and Tanzania (1) to identify and overcome obstacles to 
+ratifying  
+ 
+IMO conventions intended to protect the marine and coastal environments and to 
+improve  
+ 
+the safety of navigation, (2) to identify the needs for and provide the necessary 
+equipment  
+ 
+and onsite training, (3) to support the preparation of a regional marine pollution 
+contingency  
+ 
+plan that covers all participating countries, and (4) to strengthen a regional center to  
+ 
+coordinate national actions and to monitor regionwide environmental conditions and 
+causes  
+ 
+of
+degradation and damage. GEF financing will in particular assist countries to ratify  
+ 
+conventions and to enact the enabling legislation. The IMO, IPIECA, the EC, and 
+France  
+ 
+have expressed interest in contributing to or in cofinancing these activities.  
+ 
+Component D: Regional institutional strengthening and project management. Port state  
+ 
+control allows countries to require that ships entering their ports meet the requirements 
+of the  
+ 
+major conventions of the IMO on the safety of navigation and the prevention of 
+pollution  
+ 
+from ships regardless of whether or not the flag state is party to the conventions. A 
+regional  
+ 
+port state control arrangement provides an effective tool to ensure that ships using  
+ 
+international navigation routes and calling on major ports in a region comply with the 
+rules  
+ 
+and standards set out in the applicable IMO conventions. This component will support 
+the  
+ 
+development and implementation of a regional agreement on port state control, covering  
+ 
+issues such as procedures for surveillance, inspection, and detention of ships, and  
+ 
+arrangements for exchanging information. It will also support capacity building, 
+including  
+Page  6
+training of inspectors to international standards in port state control. The subcomponent 
+will  
+ 
+also support several regional workshops aimed at developing consensus among 
+countries on  
+ 
+priority actions, administrative arrangements, and coordination mechanisms to be used 
+in  
+ 
+promoting regional marine environmental management.  
+ 
+Assistance will be needed at the regional, subregional, and national levels to manage the  
+ 
+project and coordinate the various activities. This component will finance equipment, 
+staff,  
+ 
+and logistical support required by the regional body, a subregional entity, and national  
+ 
+institutions to ensure that the project is implemented efficiently and to build sustainable  
+ 
+capacity of the participating entities to manage the development of the marine highway 
+and  
+ 
+to coordinate activities after the project is completed. The component will also support  
+ 
+regional training and seminars on maritime traffic management and pollution 
+prevention, and  
+ 
+on
+measures to protect coastal and marine biological resources. It will also strengthen 
+the  
+ 
+technical capabilities and the institutional and coordinating arrangements among the  
+ 
+concerned states to collectively prevent, manage, and respond to transboundary marine  
+ 
+pollution. This component will support technical assistance and studies as needed during  
+ 
+project implementation. Finally, this component will support the establishment of  
+ 
+mechanisms for sustainable financing of the development of the marine highway and 
+other  
+ 
+infrastructure and capacity created through the project.  
+ 
+GEF funds will complement technical assistance provided through the other partners in 
+the  
+ 
+program, and will finance only activities that contribute to global environmental benefits 
+and  
+ 
+that others cannot finance. Specifically, GEF funds will finance activities designed to  
+ 
+prevent marine and coastal contamination activities and activities that support 
+surveillance  
+ 
+and enforcement of laws and regulation governing the shipping and fisheries industries. 
+This  
+ 
+includes development and installation of a pilot marine electronic highway and creation 
+of  
+ 
+capacity for port state control. The oil spill contingency planning activities are largely  
+ 
+baseline activities, and the GEF will allocate limited funding for these, focusing on the  
+ 
+activities designed to widen the regional plan and strengthen regional collaboration.   
+ 
+4. Project Location and salient physical characteristics relevant to the safeguard 
+analysis 
+The project will cover the coastal and marine areas of Kenya, Mozambique, South Africa,  
+ 
+Tanzania, Madagascar, Comoros, Mauritius and Seychelles, with a combined coastline 
+of  
+Page  7
+about 13,300 kilometers.  
+ 
+The first phase of the marine electronic highway will cover a route including South 
+Africa,  
+ 
+Inharrime (north of Maputo), Nacala (west of Comoros), and Aldabra (Seychelles). 
+Project  
+ 
+supported activities, which involve surveying of the ocean floor and creating electronic  
+ 
+navigational charts, will have no adverse environmental consequences.   
+ 
+5. Environmental and Social Safeguards Specialists 
+ 
+6. Safeguard Policies Triggered
+ 
+Yes No 
+Environmental Assessment (OP/BP 4.01) 
+ X 
+Natural Habitats (OP/BP 4.04) 
+ X 
+Forests (OP/BP 4.36) 
+ X 
+Pest Management (OP 4.09) 
+ X 
+Cultural Property (OPN 11.03) 
+ X 
+Indigenous Peoples (OD 4.20) 
+ X 
+Involuntary Resettlement (OP/BP 4.12) 
+ X 
+Safety of Dams (OP/BP 4.37) 
+ X 
+Projects on International Waterways (OP/BP
+ 
+7.50) 
+ X 
+Projects in Disputed Areas (OP/BP 7.60) 
+ X 
+II.  Key Safeguard Policy Issues and Their Management 
+A. Summary of Key Safeguard Issues 
+1. Describe any safeguard issues and impacts associated with the proposed project. 
+Identify and describe any potential large scale, significant and/or irreversible impacts: 
+There are no potential safeguard issues associated with the project. The project will 
+finance primarily  
+ 
+technical assistance to develop a marine electronic highway, to widen regional capacity 
+to respond to oil  
+ 
+and chemical spills, and to strengthen capacity for port state control.   
+ 
+2. Describe any potential indirect and/or long term impacts due to anticipated future 
+activities in the project area: 
+The project in the long run is expected to contribute to the reductions in the risks of 
+catastrophic damage  
+ 
+from oil and chemical spills.   
+ 
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize 
+adverse impacts. 
+Not applicable.   
+ 
+Page  8
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide 
+an assessment of borrower capacity to plan and implement the measures described. 
+Not applicable.   
+ 
+5. Identify the key stakeholders and describe the mechanisms for consultation and 
+disclosure on safeguard policies, with an emphasis on potentially affected people. 
+Key stakeholders have been involved in preparing the project. These include the IMO, 
+ministries of  
+ 
+transport and environment, port authorities      groups representing the oil shipping 
+industry (IPIECA,  
+ 
+INTERTANKO, ITOPF), groups representing navigation (International Hydrographic 
+Bureau,  
+ 
+International Hydrographic Organization, and the International Association of 
+Lighthouse Authorities),  
+ 
+local oil and shipping firms, groups representing the fishing industry, and development 
+partners. Both  
+ 
+the UNDP and the UNEP have been consulted to ensure that complementarities among 
+relevant projects  
+ 
+are used to maximum effect. The team preparing the proposed GEF-supported 
+Southwest Indian Ocean  
+ 
+Fisheries Project has also been involved in discussions on possible ways the marine 
+electronic highway  
+ 
+can be used effectively to monitor and control large fishing vessels. Local communities 
+in the countries  
+ 
+developing capacity to respond to oil spills have been consulted during project 
+preparation through  
+ 
+meetings organized by community leaders.  
+ 
+The proposed project was discussed at a high-level seminar in December 2004 
+organized by SAMSA  
+ 
+with participation of the various stakeholders to agree on the final project objectives, 
+design, and  
+ 
+implementation arrangements. Its recommendations have improved the project design.  
+ 
+The involvement of stakeholders in preparing the project provides a solid foundation for 
+stakeholder  
+ 
+participation during project implementation. Workshops will be held periodically with 
+relevant  
+ 
+stakeholders for purposes of training, knowledge sharing, and institution building. 
+Annual project  
+ 
+planning workshops will also be held with the participation of all key stakeholders to 
+prepare the  
+ 
+following year#s work program, specifying the role and contribution of each of the 
+stakeholders to the  
+ 
+implementation of the project. Local communities will participate in designing 
+information campaigns  
+ 
+on
+the risks of oil spills and measures that could be taken to prevent them. This was 
+done very  
+Page  9
+effectively under the Western Indian Ocean Oil Spill Contingency Planning Project. A 
+key output of the  
+ 
+project is expected to be a strengthened regional institution which provides a permanent 
+forum through  
+ 
+which various stakeholders come together to discuss issues of common concern and 
+coordinate their  
+ 
+actions. Local oil and shipping companies and port authorities will be part of the 
+national and regional  
+ 
+contingency plans. A detailed stakeholder involvement plan will be prepared no later 
+than project  
+ 
+appraisal.   
+ 
+B. Disclosure Requirements Date
+ 
+*
+If the project triggers the Pest Management, Cultural Property and/or the Safety 
+of Dams policies, the respective issues are to be addressed and disclosed as part of 
+the Environmental Assessment/Audit/or EMP. 
+If in-country disclosure of any of the above documents is not expected, please 
+explain why: 
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the 
+ISDS is finalized by the project decision meeting) 
+ 
+BP 17.50 - Public Disclosure 
+ 
+Have relevant safeguard policies documents been sent to the World Bank's 
+Infoshop? 
+No 
+Have relevant documents been disclosed in-country in a public place in a 
+form and language that are understandable and accessible to project-affected 
+groups and local NGOs? 
+No 
+All Safeguard Policies 
+ 
+Have satisfactory calendar, budget and clear institutional responsibilities 
+been prepared for the implementation of measures related to safeguard 
+policies? 
+ 
+Have costs related to safeguard policy measures been included in the project 
+cost? 
+ 
+Does the Monitoring and Evaluation system of the project include the 
+monitoring of safeguard impacts and measures related to safeguard policies? 
+ 
+Have satisfactory implementation arrangements been agreed with the 
+borrower and the same been adequately reflected in the project legal 
+documents? 
+ 
+Page  10
+D. Approvals 
+ 
+Signed and submitted by: 
+Name 
+Date 
+Task Team Leader: 
+Mr Abdelmoula M. Ghzala 
+07/25/2005 
+Environmental Specialist: 
+ 
+ 
+Social Development Specialist 
+ 
+ 
+Additional Environmental and/or 
+Social Development Specialist(s): 
+ 
+Approved by: 
+ 
+Regional Safeguards Coordinator: 
+Mr Thomas E. Walton 
+07/25/2005 
+Comments:   
+Sector Manager: 
+Mr Anil S. Bhandari 
+07/25/2005 
+Comments:  Acting Sector Manager. 

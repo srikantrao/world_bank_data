@@ -1,0 +1,396 @@
+Report No. 23827
+Report No: I051829 <--Please check for duplicates!
+Integrated Safeguards Data Sheet (Initial)
+Date ISDS Prepared/Updated: 03/13/2002
+Section I - Basic Information
+A. Basic Project Data
+Country: SLOVAK REPUBLIC         Project ID: P051829
+Project: Industrial Cogeneration Project         Task Team Leader: Helmut Schreiber
+Authorized to Appraise Date: March 15, 2002       IBRD Amount ($m):
+Bank Approval: July 3, 2002      IDA Amount ($m):
+Managing Unit: ECSIE     Sector: PY - Other Power & Energy Conversion; VY -
+Other Environment
+Lending Instrument: Specific Investment Loan (SIL)        Status: Lending
+I.A.2. Project Objectives:
+The major objective of the project is to decrease the emissions of
+greenhouse gases (GHG) in a cost-effective and reasonably low-risk manner.
+This objective would be achieved by means of displacing grid electricity
+with more efficient electric generation from a CHP plant at the site of
+Chemosvit a.s. (a large producer of foil packaging materials and synthetic
+fibers). An associated Project objective is to demonstrate small-scale
+gas-fired cogeneration in the Slovak Republic.
+I.A.3. Project Description:
+The energy system of Chemosvit a.s., a large Slovakian producer of foil
+packaging materials and synthetic fibers, was designed primarily to meet
+the demand of company plants for steam and hot water. On-site cogeneration
+at the CHP plant of Chemosvit's subsidiary energy supplier, Energochem,
+meets approximately half of Chemosvit's electrical needs. The rest of
+demand for electricity is met by purchases from the public grid.
+In line with its global objective to decrease GHG emissions, the project
+will introduce investments necessary to modernize Chemosvit Energochem's
+electric production capacity in a way that will ensure maximum efficiency
+and a high standard of environmental compliance. Without such
+modernization, the plant would most likely lose its physically obsolete
+steam-turbine capacity and deteriorate into a heat-only boiler plant, with
+all its electricity purchased from the grid. Under the project, some of
+the most efficient technology for gas-fired on-site cogeneration will be
+used.
+The investment components of the project will include, first of all, the
+supply and installation of 3 x 2.7 MWe gas motors. At a later stage in the
+project, the existing steam turbines will be retired and replaced with a
+steam turbine of 3.75 MWe capacity for a total of 11.85 MWe of electric
+capacity. For heat, the gas motors will have 8.7 MWt capacity while the
+steam turbine will have 17.3 MWt capacity. The existing heat-only
+gas-fired boilers will cover the remaining 19 MWt of peak heat demand. In
+addition, the implementation of the project will require the installation
+of some new gas-supply, heat exchange and distribution systems, and
+
+
+
+electric power transformation and distribution equipment. A new building
+for the gas motors will be built. The building will have either one stack
+or three stacks (one for each gas motor).
+I.A.4. Project Location: (Geographic location, information about the key
+environmental and social characteristics of the area and population likely
+to be affected, and proximity to any protected areas, or sites or critical
+natural habitats, or any other culturally or socially sensitive areas.)
+The project site is located in the small town of Svit, Slovakia. The town
+is situated 8 km west of the town of Poprad, in a long valley stretching
+between the High Tatry mountains in the north and the Low Tatry mountains
+in the south. The elevation of the town is about 750 m above sea level.
+The most significant environmentally sensitive area close to the project
+site is the Tatransky National Park (TANAP), which covers an extensive
+territory of the High Tatry mountains spanning the Slovakian border and
+continuing into Poland. In 1993, the Tatransky National Park was listed by
+UNESCO in the Global Net of Biosphere Reservations as the "Biosphere
+Reservation TANAP". The area of the National Park in Slovakia is about 74
+kmy. Around the National Park is a protection zone (buffer zone) with an
+area of 36.5 kmy. The closest point on the border of TANAP is north of
+Svit at a distance of about 3.5 km from the project site.
+The National Park of Low Tatry (NAPANT) is another protected area
+southwest of the project site, but both the distance (about 18 km) and the
+dominant wind direction make it unlikely for NAPANT to be affected by the
+project.
+Some level of environmental protection is also applied to the natural area
+of Baba immediately south of Svit. The distance from the project site to
+Baba's northern border is about 300 m. However, Baba is much smaller and
+environmentally less sensitive than TANAP or NAPANT.
+The origin of Svit is closely linked to the history of the Chemosvit
+company. The town was founded in the 1930s when the Bata company
+established Chemosvit as its subsidiary company here. Today, Svit is still
+an industrial town with 7,500 residents, with about 1,600 of its people
+employed by Chemosvit. Retirees from Chemosvit form another sizeable group
+of its population.
+The predominant wind direction is from the west to the east. Besides the
+eastern part of Svit itself, the populated areas downwind (within a 5 km
+radius of the project site) include the villages of Batizovce, Gerlachov,
+and Spisska Teplica. The larger town of Poprad (pop. about 60,000) is 8 km
+to the east.
+B. Check Environmental Classification: ERROR: Invalid UNID; UNID must be
+a 32-digit hex string.
+Comments: The environmental category A was assigned to the project rather
+as a precautionary measure mostly due to the relative proximity of the
+above-mentioned protected areas. Otherwise, neither the size of the
+project nor its nature would warrant this category. This is not a
+green-field project but a modernization of an existing industrial facility
+with a limited expansion of existing energy production capacity. The
+environmental quality of the fuel used by the project entity Chemosvit
+Energochem (natural gas) and the contribution of project-induced emissions
+- 2 -
+
+
+
+to the existing ambient air pollution is small and certainly within the
+limits established by the Slovak authorities as well as those recommended
+by the World Bank. With respect to emissions of greenhouse gases, the
+project has a positive environmental impact when displacement of more
+pollution-intensive electricity from the grid is considered.
+C. Safeguard Policies Triggered
+Policy Applicability
+Environmental Assessment (OP/BP/GP 4.01)
+Forestry (OP/GP 4.36)
+Natural Habitats (OP/BP 4.04)
+Safety of Dams (OP/BP 4.37)
+Pest Management (OP 4.09)
+Involuntary Resettlement (OP/BP 4.12)
+Indigenous Peoples (OD 4.20)
+Cultural Property (OP 4.11)
+Projects in Disputed Territories (OP/BP/GP 7.60)*
+Projects in International Waterways (OP/BP/GP 7.50)
+*By supporting the proposed project, the Bank does not intend to prejudice
+the final determination of the parties' claims on the disputed areas
+Section II - Key Safeguard Issues and Their Management
+D. Summary of Key Safeguard Issues. Please fill in all relevant questions.
+If information is not available, describe steps to be taken to obtain
+necessary data.
+II.D.la. Describe any safeguard issues and impacts associated with the
+proposed project. Identify and describe any potential large scale,
+significant and/or irreversible impacts.
+The main issue from an environmental assessment point of view is whether
+the operation of the expanded cogeneration plant of Energochem would have
+any significant impact on the air quality in the populated areas and in
+the above-mentioned national parks. In particular, NOx concentrations have
+required close examination since operation of gas motors is associated
+with high temperatures. NOx was focused on also because the other common
+energy-related pollutants (SOx, particulates) are practically not present
+in this project since the plant uses natural gas.
+The existing 30-minute average ambient concentration of NOx in the town of
+Svit, resulting largely from Energochem's existing heat-only boilers
+(HOBs), is estimated at 17 cg/m3 (micrograms per cubic meter of ambient
+air) in Chemosvit's environmental statement for the Ministry of
+Environment. The project introduces gas motors as a new source of natural
+gas combustion with a stack(s) currently proposed to have a height of 30
+m. This is in addition to the three stacks of the existing HOBs with an
+installed capacity of 3x50 tons of steam per hour. Dispersion modelling
+has shown that the highest value for the one-hour-mean contribution of the
+gas motors is 48 cg/m3 NO2, and the resulting concentrations are clearly
+below the Slovakian standard of 200 cg/m3 NO2 for the 30-minute-mean. The
+highest value of the annual mean is 1.0 cg/m3 NO2, which is far below the
+Slovakian standard of 80 cg/m3 (Source: Nariadenie Vlady c. 92/1996 Z.z.
+Priloha c. 6, B-1, Strana 129-130) and the EU standard (Source: Directive
+1999/30/ European Community of 22.4.1999) of 40 cg/m3 NO2 for human
+beings. The highest value of the 24-hour mean is 10 cg/m3 NO2, which is
+clearly below the Slovakian standard of 100 cg/m3 N02. The highest value
+of 99.8 percentile (max. hourly mean which may be exceeded 18 times per
+-3 -
+
+
+
+year) is 16 cg/m3 N02, which is clearly below the EU standard of 200 cg/m3
+for N02.
+The spatial distribution of the pollutants in the middle of the year
+clearly reflect the average annual wind direction distribution. The
+maximum additional pollution load lies approx. 300 to 400 m to the east of
+the planned location. After approx. 1.2 km the additional pollution load
+has already fallen by 50%. A secondary maximum lies to the west, which
+however is already considerably less distinctive regarding the absolute
+level of the values than the first maximum. To the north, in the direction
+of the National Park TANAP, the additional pollution as a result of the
+planned plant is absolutely unimportant. The natural area Baba will only
+be affected to a very slight extent by pollutants, which means that damage
+to the vegetation can be ruled out. The value here remains clearly under
+the protection value for plants of 30 cg/m3 NOx, which is applicable
+within the EU. Directly at the edge of the natural area Baba, the value is
+0.4 - 0.5 cg/m3 NOx and falls fast to < 0.1 cg/m3 NOx. So the additional
+pollution as a result of the planned plant is insignificant.
+In the dispersion calculations it is presumed that the three gas motors
+operate continuously over the whole year. In reality the operation time
+will be lower so that the emissions will accordingly be proportionally
+lower. The dispersion model is based on representative weather statistics
+from Poprad Airport for the years 1993 -2000, which were made on the basis
+of average hourly values and which were made available for the emission
+forecasts by the German National Meteorological Service. On the basis of
+these weather statistics the expected emissions can be realistically
+simulated, not only for the annual mean but also for peak loads.
+The cogeneration plant would operate continuously, including night time.
+During plant operation, noise emissions of up to 66 dB (A) would arise in
+the vicinity of the cogeneration plant if sound reduction measures were
+not taken. This does not meet the night-time guidance value of 45 dB (A)
+used by the German Environmental team based on the Technical Instructions
+for Protection against Noise (TA Lcrm). This value coincides with the
+World Bank standard of 45 dB (A) for night-time noise level in residential
+areas. Thus, sound reduction measures are envisaged (see Section II.D.3
+below). On the basis of a dispersion calculation with noise reduction
+measures, considerable noise pollution for the adjacent residential area
+as well as for the protected areas can be ruled out. In order to rule out
+noise pollution during the construction period, construction work should
+be carried out only during day time.
+No potential large-scale, significant, or irreversible impacts have been
+identified.
+II.D.lb. Describe any potential cumulative impacts due to application of
+more than one safeguard policy or due to multiple project component.
+No potential cumulative impacts have been identified.
+II.D.lc Describe any potential long term impacts due to anticipated future
+activities in the project area.
+In case of expanding demand for Energochem's heat (e.g., by its mother
+company Chemosvit or by the town of Svit due to connection of new
+consumers to the district heating system), installation of additional gas
+-4 -
+
+
+
+motor(s) may be warranted in the future. However, this is highly unlikely
+to bring the ambient concentrations close to the standards in effect in
+Slovakia or expected under the EU directives.
+II.D.2. In light of 1, describe the proposed treatment of alternatives (if
+required)
+In its Environmental Impact Assessment (EIA), the Slovak Ministry of
+Environment chose not to request an analysis of alternatives due to the
+small size of the project. Nevertheless, in the feasibility study
+implemented for the Bank by the German company Fichtner, nine project
+alternatives were identified (final feasibility study is available in the
+Project File). When indirect impacts of the project (namely, the
+displacement of more pollution-intensive electricity from the grid) are
+considered, the proposed project, along with the option of cogenerating
+electricity based on combined-cycle technology, has been shown to have the
+lowest global emissions of GHG into the atmosphere. It has to be
+emphasized that the cogeneration of heat (or steam) and electricity is
+today's state of the art for plants of comparable capacity. In addition,
+the emission concentrations, which are half of the Slovakian (and German)
+standards, correspond to the state of the art of emission reduction
+technology.
+II.D.3. Describe arrangement for the borrower to address safeguard issues
+Pursuant to the procedure under the Slovak Government's Act no. 127/94
+Coll on environmental impact assessment, the Environmental Department of
+Chemosvit prepared an environmental impact statement indicating the
+company's intent to implement the project and describing its expected
+environmental impacts. The statement, called Zamer (Intent), was sent to
+the Ministry of Environment (MoE) in late October 2001. The approval from
+the MoE was received on January 7, 2002, after receiving no objections
+from other ministries, the public, or local authorities.
+This process provides the Bank with: (i) the necessary assurance of the
+"in-country" acceptance of the project, (ii) useful baseline information
+on the state of the environment in the project area, and (iii) initial
+analysis of the environmental impacts expected from the project.
+It should be noted that the Ministry of Environment has been the major
+counterpart in the selection of potential projects aimed at GHG reduction
+in Slovakia. The Chemosvit project was selected through this process.
+Specific measures to address the issues of environmental protection in
+accordance with the requirements of OP/BP/GP 4.01 have been identified in
+the Environmental Management Plan (EMP) prepared by a group of independent
+environmental experts contracted by the German Federal Ministry of
+Environment (the experts have followed the Terms of Reference provided by
+the World Bank). The EMP stipulates noise control measures which consist
+of the installation of sound absorbers in the stack and at the inlet-air
+and exhaust-air openings. According to the EA Report, this will bring the
+noise levels down to 42 dB (A), which is sufficient to meet the TA Lcrm
+and World Bank's standard of 45 dB (A) for night-time noise level in
+residential areas. Noise emission measurements after the start of
+operation at important noise sources.
+For NOx control, the emission standards required in the technical
+- 5 -
+
+
+
+specifications for the gas motors will be set at 250 mg/Nm3 according to
+the German 1/2 TA Luft standard, which is more stringent that the
+applicable Slovak (500 mg/Nm3) and World Bank's (320 mg/Nm3) standards.
+Such standards can be achieved only by low-NOx motors. As a measure to
+ensure the accuracy of the dispersion modeling conclusion about low levels
+of NOx, the EMP requires continuous monitoring of NOx concentrations in
+the protected area of TANAP.
+Environmental issues will also be revisited at the stage of obtaining the
+construction permit from the local authorities. By that time (currently
+estimated as August-September 2002), the 2nd stage bidding documents for
+the project will be finalized, making more technical details of the
+project available for the local authorities' review.
+II.D.4. Identify the key stakeholders and describe the mechanisms for
+consultation and disclosure on safeguard policies, with an emphasis on
+potentially affected people.
+The project stakeholders are represented, first of all, by the staff of
+the project implementing company Energochem (Chemosvit's subsidiary for
+energy supply), the mother company Chemosvit, and its several production
+subsidiaries. Energochem's staff consists of 74 persons (60 workers and 14
+personnel of high technical qualifications). This staff is likely to be
+kept by Energochem, although transfers of staff will be necessary -
+especially, from the downsizing steam-turbine operation to the new
+gas-motor operation introduced by the project.
+The Chemosvit company's most important stakeholders are the staff of the
+facilities receiving the heat and electricity from Energochem, as well as
+the company as a whole. During project preparation, consultations were
+held with representatives of Chemosvit's Social Department, during which
+the commitment of Chemosvit's staff to the project was reconfirmed.
+The Svit Municipality and residential consumers of heat in the town of
+Svit are also important stakeholders because part of the heat from the
+project will be supplied to their apartments (through building-level
+substations being introduced by the Municipality). Receiving heat from
+Chemosvit Energochem is the most economical option for these residents
+since a substantial part of the heat they will receive from the plant will
+be the waste heat from its new gas motors. At the same time, the residents
+of Svit (especially, its eastern part) also represent the main recipients
+of air pollution from the plant's additional stack(s), although this
+pollution is not high (see Section II.D.la above) and clearly within the
+allowable limits. The Municipality has been closely involved in the
+discussion of project's costs and benefits, and its recent decision to
+support district heating modernization was made in close consultation with
+Chemosvit and with full consideration of the proposed project.
+Information about the project was initially placed on the bulletin board
+of the Svit Municipality in November 2001. According to the Slovak law,
+this information must be available for public review and comment for one
+month before the Ministry of Environment can give its official approval
+for the project. During this time, a number of other agencies of the
+Slovak Government, as well as NGOs such as the Center of Environmental
+Information in Banska Bystrica, had an opportunity to review this
+information. No objections were raised. Newspaper articles in the regional
+- 6 -
+
+
+
+press (Tatransky Dennik, November 21, 2001) have been published
+highlighting particularly the 15-year heat supply agreement from
+Energochem's plant to the Town of Svit.
+In February 2002, the Mayor of Svit acknowledged the receipt of the EA
+Report implemented by the German consultants and confirmed that the Town
+of Svit would follow the established Slovak procedure for disclosure of
+such information to the public, which includes placing a translated
+version of the Summary EA Report on the town-hall bulleting board. The
+complete version of the EA Report would be translated into the Slovak
+language and made available to the public on request. The Bank will not
+object to this, but will also require that public consultation meetings
+are held in Svit to make sure that all potentially affected groups are
+informed of the project, its benefits, as well as its environmental and
+social impacts. One condition for negotiations is that the Municipality
+will a) hold a public consultation on the project, clearly identifying the
+actions to be taken and their anticipated impacts and obtaining inputs
+from the public; and b) provide documentation to the Bank that describes
+the consultations, the issues raised, and actions to be taken, if any, in
+response to the inputs that are received.
+Furthermore, the full EA Report will be published on the Internet site of
+the Slovak Environmental Agency (www.sazp.sk). The Project Information
+Document (PID) is already available to the public through the Internet
+(http://www.worldbank.org/pics/gef/sk51829.txt).
+E. Safeguards Classification. Category is determined by the highest impact
+in any policy. Or on basis of cumulative impacts from multiple safeguards.
+Whenever an individual safeguard policy is triggered the provisions of
+that policy apply.
+I S1. - Significant, cumulative and/or irreversible impacts; or
+significant technical and institutional risks in management of one or more
+safeguard areas
+[XI S2. - One or more safeguard policies are triggered, but effects are
+limited in their impact and are technically and institutionally manageable
+I S3. - No safeguard issues
+I SF. - Financial intermediary projects, social development funds,
+community driven development or similar projects which require a safeguard
+framework or programmatic approach to address safeguard issues.
+F. Disclosure Requirements Environmental Assessment/Analysis/Management
+Plan:   Expected         Actual
+Date of receipt by the Bank      2/26/2002       2/26/2002
+Date of "in-country" disclosure 2/28/2002        2/27/2002
+Date of submission to InfoShop   3/1/2002         3/5/2002
+Date of distributing the Exec. Summary of the EA to the ED
+(For category A projects)        2/20/2002       3/5/2002
+Resettlement Action Plan/Framework:      Expected         Actual
+Date of receipt by the Bank      Not Available   Not Available
+Date of "in-country" disclosure Not Available    Not Available
+Date of submission to InfoShop   Not Available   Not Available
+Indigenous Peoples Development Plan/Framework:   Expected         Actual
+Date of receipt by the Bank      Not Available   Not Available
+Date of "in-country" disclosure Not Available    Not Available
+- 7 -
+
+
+
+Date of submission to InfoShop   Not Available   Not Available
+Pest Management Plan:    Expected        Actual
+Date of receipt by the Bank      Not Available   Not Available
+Date of "in-country" disclosure Not Available    Not Available
+Date of submission to InfoShop   Not Available   Not Available
+Dam Safety Management Plan:      Expected        Actual
+Date of receipt by the Bank      Not Available   Not Available
+Date of "in-country" disclosure Not Available    Not Available
+Date of submission to InfoShop   Not Available   Not Available
+If in-country disclosure of any of the above documents is not expected,
+please explain why.
+Signed and submitted by          Name    Date
+Task Team Leader:        Helmut Schreiber         07-Mar-02
+Project Safeguards Specialists 1:        Victor B. Loksha/Person/World Bank       07-Mar-02
+Project Safeguards Specialists 2:
+Project Safeguards Specialists 3:
+Approved by:     Name    Date
+Regional Safeguards Coordinator:         Bernard Baratz   07-Mar-02
+Sector Manager/Director:         Henk Busz        07-Mar-02
+For a list of World Bank news releases on projects and reports, click here
+- 8-
+
+
+

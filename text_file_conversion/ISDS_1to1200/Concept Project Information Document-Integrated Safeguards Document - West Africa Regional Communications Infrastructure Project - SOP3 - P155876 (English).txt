@@ -1,0 +1,535 @@
+﻿COMBINED PROJECT INFORMATION DOCUMENTS / INTEGRATED
+SAFEGUARDS DATA SHEET (PID/ISDS)
+CONCEPTSTAGE
+U                                               Report No.: PIDISDSC14168
+Date Prepared/Updated:    27-Sep-2015
+O
+I. BASIC INFORMATION
+A. Basic Project Data
+Country:        Africa                    Project ID:  P155876
+Parent
+Project ID
+(if any):
+Project Name: West Africa Regional Communications Infrastructure Project - SOP3 (P 155876)
+Region:         AFRICA
+Estimated       25-Feb-2016               Estimated     17-May-2016
+Appraisal Date:                           Board Date:
+Practice Area   Transport & ICT           Lending      Investment Project Financing
+(Lead):                                   Instrument:
+Sector(s):      General information and communications sector (30%), Telecommunications
+(70%)
+Theme(s):       Regulation and competition policy (40%), Regional integration (40%),
+Infrastructure services for private sector development (20%)
+Borrower(s):    Government of Guinea Bissau
+Implementing    Ministry of Transport, Communication and ICT
+O
+U        Agency:
+Financing (in USD Million)
+Financing Source                                                        Amount
+BORROWER/RECIPIENT                                                         0.00
+International Development Association (IDA)                               38.00
+Total Project Cost                                                        38.00
+Environmental B - Partial Assessment
+Category:
+Concept         Track II - The review did authorize the preparation to continue
+Review
+Decision:
+Is this a       No
+Repeater
+project?
+Other Decision
+(as needed):
+Page 1 of 12
+
+
+﻿B. Introduction and Context
+Country Context
+Guinea-Bissau is one of the poorest countries in the world. In 2013, Gross National Income per
+capita was USD 520 per capita. 70 percent of the population live under USD 2 a day (in terms of
+purchasing power parity (PPP) and about 33 percent of the population live in extreme poverty.
+Broader human development outcomes are generally weak in Guinea-Bissau: out of 187
+countries, Guinea-Bissau was ranked 177th in the 2014 Human Development Report, maintaining
+its rank of the previous year. It is unlikely that Guinea-Bissau reaches any of the Millennium
+Development Goals by 2015 given weak outcomes, or even deteriorations, with respect to
+poverty, nutrition, primary education, gender equality, health, and access to basic services.
+Malnutrition is a concern and food insecurity rose as a consequence of the 2012 coup. The high
+levels of poverty translate into poor nutrition. Rice is the main staple and many Bissau-Guinean
+families struggle to complement their diet with other and more nutritious foods.
+Guinea-Bissau is also one of the most fragile countries in the world. The economy is
+undiversified and the governance environment has been frequently interrupted by military coups.
+The latest coup occurred in 2012. Political fragility in Guinea-Bissau has hampered private
+sector-led growth and poverty reduction. Guinea-Bissau is a rural economy, almost entirely
+dependent on a single cash crop: cashew. Cashew nuts are also the main export, accounting for 85
+to 99 percent of the country's total exports. Growth over the past ten years has been low, at an
+average 2.6 percent. This is about half the growth performance of Sub-Saharan Africa, at an
+average 5 percent. Most segments of the economy are informal. Of the remaining 20 percent of
+the labor force not engaged in agriculture, the majority is employed in services, mostly in small,
+informal micro-enterprises or self-employed, in commerce and transport. Cashew is currently the
+single most important growth sector in Guinea-Bissau. About 80 percent of the labor force are
+employed in the sector, most of them poor, and raw cashew is the country's single most important
+export.
+Guinea-Bissau lacks the enabling environment conducive for private sector-led growth due to
+poor infrastructure, low levels of human capital and poor public services, which reinforce each
+other. This situation is compounded by elite competition for rents and a weak public
+administration. Jointly, they stifle private economic activity. The investment climate in Guinea-
+Bissau is currently not conducive to doing business and firms and households struggle to obtain
+access to finance. Guinea-Bissau has undertaken some notable reforms to improve the business
+climate over the past years. However, it still ranks 180th in the World Bank's Doing Business
+rankings. Only 9 countries in the world are ranked below. Lack of access to electricity is among
+the most pressing concerns, as 60 to 80 percent of Bissau-Guineans do not have access to power
+and entrepreneurship and private sector-led growth is severely due to insufficient or unreliable
+access to power. Inadequate road and port infrastructure, an underdeveloped ICT sector, a
+restrictive regulatory environment, a largely unskilled workforce, and a shallow financial sector
+limit the effectiveness of goods, labor, and capital markets. Improving telecommunications
+system in Guinea-Bissau is considered as vital for growth since telecommunications can connect
+market participants-even where physical connectivity is limited by poor infrastructure -,
+improve the productivity of businesses, and they can channel financial resources, including
+remittances or cash transfers, to recipients even in the most remote areas
+Sectoral and Institutional Context
+In a little over a decade, Africa has become the world's second most connected continent by
+Page 2 of 12
+
+
+﻿mobile subscriptions, next to Asia-Pacific, and is expected to hit 1 billion by 2016. According to
+GSMA, an industry association, the mobile ecosystem contributed (directly and indirectly) to 5.4
+percent of the GDP of Sub-Saharan Africa in 2013. The experience of the member countries of
+the ECOWAS region has not been any different. As a sub-region, the ECOWAS community saw
+mobile penetration increase significantly with an average of 79.7 percent in 2013 and seven (out
+of 15) countries reaching 100 percent or more. This has paved the way for the takeoff of mobile
+applications for service delivery; such as mobile money through which payments can be made via
+text messages or top ups of pre-paid cards.
+Out of the 15 member states of the ECOWAS region, 11 have built landing stations on their
+coasts linking themselves to the undersea or submarine fiber optic cables running from Europe to
+South Africa. Five of the countries - Benin, The Gambia, Guinea, Liberia, and Sierra Leone -
+have been supported through the Bank's West Africa Regional Communications Infrastructure
+Program (WARCIP) Series of Projects (SOP) program to connect to the African Coast to Europe
+(ACE) submarine cable. Guinea Bissau was included in the program as approved by the Board in
+2011. However, the development in the political situation leading to a de facto Government
+prevented the operation from going forward at the same time as the other coastal countries
+supported under WARCIP. Prior to the operationalization of the cable, people and businesses in
+these countries were largely reliant on costly satellite service to make international calls and to
+have access to the Internet. The price of service continues to drop. For example in The Gambia,
+since the operationalization of the ACE cable in 2012, the average monthly price of wholesale
+international El capacity link from capital city to Europe dropped from USD 5,000 to USD 500 in
+2014.
+Despite lacking international connectivity, the telecommunications sector in Guinea-Bissau is one
+of the most dynamic sector in the country which is attributable to the government's efforts to
+open the mobile phone market to competition and private sector participation. After having
+privatized the fixed-line State-owned operator, Guinee-Telecom in 1989 (with a 40% stake taken
+by Portugal Telecom, the remaining 60% held by the Government), the Government created
+Guinetel, a mobile operator subsidiary, and awarded a GSM license to the company which then
+launched its services in 2004. The Government then liberalized the mobile phone market by
+awarding two additional licenses to international operators: MTN in 2003 and Orange-Bissau
+(subsidiary of Sonatel) in 2007. The fixed-line services remained under the monopoly of Guinee-
+Telecom. An independent regulatory authority (Institute of Communications of Guinea-Bissau -
+ICGB) was set up in 1999, and then replaced by the Autoridade Reguladora Nacional das
+Tecnologias de Informacao e Comunicacao (ARN) following the adoption of the new telecom
+Law 5/2010 (and Decree no. 03-99). As a result of the liberalization process, and despite a decade
+of political instability, the mobile telephony market grew significantly to reach 1.18 million
+subscribers at the end of 2013, or a 74% penetration rate which is almost in line with the regional
+average of ECOWAS (79% in 2013).
+However, the bankruptcy of Guinee-Telecom/Guinetel in 2014 (whose situation deteriorated after
+Portugal Telecom's withdrawal in 2010) has reduced the level of competition and dynamism of
+the mobile phone market, and become a major challenge for the Government. The mobile
+telephony market now comprises two operators (MTN and Orange-Bissau) with roughly similar
+market shares. In addition, the fixed-line market - in-line with global trends - has come to a
+stand-still and the penetration rate of fixed-lines was 0.3% in 2013 compared to 1.1% of the
+regional average of the West African Economic and Monetary Union (WAEMU). A decree
+Page 3 of 12
+
+
+﻿authorizing the privatization of Guinee-Telecom/Guinetel was adopted in early May 2014, and the
+restructuring process is ongoing to improve prospects for privatization. The last inventory
+provided by the management of Guinee-Telecom (and Guinetel) in May 2014 indicates
+overstaffing (170 employees), a net loss registered for 6 years, and Government arrears estimated
+at C 33 million accumulated since 1997.
+O
+Going beyond mobile phones and developing the Internet market is another major challenge faced
+by Guinea-Bissau which is the only country on the West African coast not connected to a
+submarine cable. As a result, the broadband market, concentrated in the capital, is nascent with a
+penetration rate of around 0.1% of the population (compared to the ECOWAS average of 7% and
+1.5% in Gambia) and a usage rate of 3% (compared to the ECOWAS average of 9% and 14% in
+Gambia in 2013). Orange-Bissau enjoys a virtual monopoly since 2011 despite the presence of
+MTN and Eguitel (a local ISP licensed in 2003 relying solely on satellite connectivity). Orange-
+Bissau owes its lead in the broadband market to its connection to the terrestrial optical fiber
+networks owned by the Orange's other subsidiaries in Guinea (via Conakry) and Senegal (via
+Ziguinchor). Despite MTN's presence in Guinea, terrestrial connections are not as developed as
+those of Orange and rely on less reliable and more expensive micro-wave networks compared to
+Orange's optical fiber networks. MTN is also partly relying on expensive satellite connectivity.
+Without improved access to international (via submarine cable) and national terrestrial
+connectivity by every operators (i.e. under open access principle), Guinea-Bissau cannot expect
+substantial improvement in the coverage, quality, and price of broadband services. For
+households, the price of a monthly subscription for mobile broadband service ranges between
+USD 60-80 (excluding installation costs of USD 185) or 142% of monthly GNI per capita.
+To address some of the challenges facing the telecommunications sector, the Government has
+recently adopted a national strategy for 2015-2020 which places great emphasis on improving the
+broader information and communication technology (ICT) sector. Through the national strategy,
+the Government has committed to engage in a series of important telecommunications reforms,
+including: i) strengthening the institutional capacity of the Ministry of Transport,
+Communications and ICT; ii) development of a Master Plan for the ICT sector; iii) rehabilitation,
+restructuring and privatization of Guinee-Telecom and Guinetel; iv) rehabilitation, restructuring
+and privatization of the Post Office in Guinea-Bissau; v) installation of submarine optical fiber
+cable; vi) expansion of the national optical fiber backbone; vii) transition from analogue to digital
+*           technologies; viii) transition to 3G and 4G mobile broadband services; and ix) development of
+ICT services, applications and local content. The general objective of the Government is to
+improve access and usage of ICT services (especially for broadband services) to spur the
+development of a digital economy that would modernize and transform the country. Building
+upon this strategic vision, the Government has recently created (by decree 08-2014, November 13
+2014) a new government structure named the Nficleo de Inovaqdo Tecnologias e Governaqdo
+Electr6nica (NITGOV), under the umbrella of the Ministry of Presidency. A World Bank
+Technical Assistance supported some of the reforms initiated by the Government since its
+reengagement in the country in 2014.
+At the regional level, while the region has had major achievements by establishing a regime for
+free trade of goods and services, and for some countries, establishing a common currency, the
+telecommunications markets remain fragmented and the price of ICT services exorbitant. The
+high price of communicating within the ECOWAS region is likely to be hampering both
+economic and social exchanges between the 15 member states. A regional approach to improving
+Page 4 of 12
+
+
+﻿cross-border communication is particularly necessary for West Africa so it can leverage
+economies of scale and meet the critical mass that is required for the Internet and emerging digital
+economy to take-off in a sustainable way. In light of this, the ECOWAS Commission, in 2014,
+upgraded its telecommunications team to a Telecommunications and IT Department headed by a
+Commissioner. The Commission's mandate is to develop regional policies and regulations, and
+work with the West African Telecommunications Regulatory Assembly (WATRA) that provides
+a forum to discuss regional policies to transition to a single telecommunications market. There is
+however a need to increase the capacity and therefore the authority of these bodies to better
+coordinate and address remaining gaps in regional policies and legislation. Further capacity
+building is required by national regulators to translate the regional directives coming out of the
+Commission into national legislation and regulations.
+In light of this, and to build on the momentum gained through the preceding WARCIP projects,
+the proposed project would support (i) Guinea-Bissau fmd an optimal way to access the global
+fiber network and address key sector reform challenges; and (ii) provide capacity building support
+to regional organizations such as the ECOWAS Commission, and WATRA to further the agenda
+for regional connectivity. There is also opportunity to support other key regional institutions such
+as the West Africa Power Pool (WAPP) Secretariat in order to leverage the unused fiber over
+power transmission lines in the ECOWAS countries.
+The regional grant to ECOWAS is an integral part of the WARCIP program (P116273) approved
+by the Board on January 20th, 2011. The WARCIP program included US$ 5 million to be
+allocated to support regional agencies including the ECOWAS Commission, WATRA and WAPP
+due to their important role in addressing communications infrastructure gaps across borders. The
+three main areas mentioned in the program PAD remain valid. These include: (i) regional
+institutions' capacity building for oversight of the development of the ICT sector; (ii)
+development of regional frameworks for regulating the submarine cables and providing guidance
+on national and international jurisdiction issues; and (iii) developing regional guidelines to
+regulate excess fiber capacity over power transmission lines. The regional grant is designed to
+benefit all WARCIP participating countries regardless of the phase in which they participate in
+WARCIP.
+O
+Relationship to CAS/CPS/CPF
+The proposed project is fully aligned with the World Bank's Country Engagement Note (CEN)
+FYI 5-FYI 6 produced for Guinea Bissau and that was designed to provide immediate short-term
+support to the country fragile environment, in order to consolidate the transitionand restore basic
+services while assisting the government to design a more sustainable strategy for long term
+poverty reduction and greater shared prosperity. Arguing that boosting shared growth is possible,
+even in a fragile environment, and in accordance with the Strategic and Operational Plan
+2015-2020 "Terra Ranka", prepared by the Government in 2015, the CEN is positioning the
+WBG's engagement in two key areas: (i) Building institutions and strengthening public sector
+capacity, to enable the Government to provide a sound macro-fiscal environment and the
+infrastructure and legal and regulatory framework necessary to promote shared growth and attract
+investment; (ii) Strengthening the provision of basic services to the poor with a view toward
+providing people with the services, resources, and skills they need to create and take advantage of
+economic opportunities. The WBG's engagement in these key areas is complemented by a
+program to support economic recovery through support for key infrastructure and productive
+sectors. Under Strategic Theme Two "Strengthening the provision of basic services to the poor",
+the CEN includes the regional connectivity project WARCIP3 which - in line with the
+Page 5 of 12
+
+
+﻿Government's national Plan - will contribute to build a modem and competitive national
+telecommunications infrastructure network in order to enable widespread use of information and
+communication technologies. The project is designed with a strong emphasis on the role of ICT to
+support Guinea Bissau to address fragility constraints in line with commitment under IDA 17.
+The proposed project is also in line with the World Bank Africa Strategy, Africa's Future and the
+World Bank's Support to it (2011) and with the Bank ICT Strategy (2012). By facilitating cheaper
+access to the Internet and supporting the expansion of national and regional communications
+infrastructure, WARCIP SOP3 will promote sustainable employment (Pillar 1 competitiveness
+and employment) and will create a critical building block for ICT applications (governance and
+public sector capacity). WARCIP SOP3 is also fully aligned with the Connectivity pillar of the
+new World Bank Group ICT strategy, which aims at scaling up affordable access to broadband
+Internet by supporting policy and institutional reforms for private investment in broadband as well
+as by a selective support of PPPs.
+The proposed focus on regional connectivity is in line with the World Bank's Regional
+Integration Assistance Strategy for Sub-Saharan Africa (developed in 2008, approved by the
+Board in 2010). Pillar I of the Strategy calls for "stronger and better-connected infrastructure
+platforms" that can help unlock economies of scale and sharpen competitiveness in Africa,
+including for landlocked countries such as Burkina Faso, Mali and Niger. The pillar mentions
+specifically, consideration for Bank assistance in "improving telecommunication connectivity"
+and includes as one of the Strategy's cross-cutting theme, "capacity development of selected
+Regional Economic Community (RECs) and subsidiary regional bodies, and strengthened
+connection between regional policy commitments and national planning."
+The proposed project will contribute to the World Bank's twin goals. Ending extreme poverty and
+promoting shared prosperity require sustaining high rates of economic growth across the
+developing world, as well as translating growth more effectively into poverty reduction and
+inclusion in each developing country. Being at the forefront of disruptive technologies and
+innovative solutions, the digital economy is providing major opportunities to improve
+competiveness, attract investments, create jobs and grow markets, as well as encouraging
+inclusion and alleviating poverty by fostering more efficient, equitable and better quality health
+services. Improved access to mobile phone services (voice, text, mobile money and banking,
+internet) benefits households in multiple ways. Mobile phones can improve access to and use of
+information, thereby reducing search costs, improving coordination between different parties, and
+increasing market efficiency. This is the most obvious benefit of mobile phones. As mobile
+phones have greatly reduced communication costs, they allow individuals and firms to send and
+to obtain information quickly and cheaply on a variety of economic, social, and political topics.
+An emerging body of research shows that the reduction in communication costs associated with
+mobile phones has tangible economic benefits including improving agricultural and labor market
+efficiency and producer and consumer welfare. Another benefit of mobile phones is that
+increased communication should improve productive efficiency by allowing firms and service
+providers to better manage their supply chains and delivery of services. Mobile phones create new
+jobs to address demand for mobile-related services. This is a third benefit of mobile phones.
+These can be services directly related to mobile phones, such as the sale of airtime or services to
+repair a phone or to charge a phone's battery. But they can also be indirect services such as
+motor-taxi services, which can be requested by people living remotely simply 'beeping' the
+driver. Such services can be life-saving, for instance when someone urgently needs to be taken to
+Page 6 of 12
+
+
+﻿a health facility. Mobile phones facilitate communication among social networks and geographic
+areas in response to shocks. Covariate shocks such as floods or drought, but also violence and
+epidemics routine affect households clustered in certain localities. By offering the ability to solicit
+assistance from relatives or friends living in areas not affected by the shock, mobile phones help
+to cope with households' exposure to risk. For instance, ICT platforms recently played a central
+role in improving the effectiveness of healthcare institutions and emergency coordination centers
+fighting Ebola in contaminated countries, by improving information flows and electronic
+payments for emergency response teams as well as the public.
+C. Proposed Development Objective(s)
+Proposed Development Objective(s) (From PCN)
+25.    The program development objective of WARCIP is to contribute to increasing the
+geographical reach of broadband networks and reducing costs of communications services in
+West Africa. Under WARCIP SOP3, the objectives of the project, thus, are to contribute to
+increasing the geographical reach of broadband networks and reducing costs of communication
+services in the territory of Guinea Bissau as well as between Guinea Bissau and ECOWAS
+countries. In order to reach this objective, the project proposes an integrated approach focusing on
+improving connectivity in Guinea Bissau and creating an enabling environment and institutional
+strengthening in Guinea Bissau, and at regional level to remove existing bottlenecks for cross-
+border and regional infrastructure and applications development.
+26.    WARCIP SOP3 will benefit the entire population of Guinea Bissau. All over Africa,
+businesses, governments, teachers, doctors, farmers, and fishermen are using ICTs to
+communicate, share information, improve productivity and service delivery, find better prices,
+improve access to markets, and increase their bargaining power. The proposed project will
+therefore benefit the entire population of Guinea Bissau and the ECOWAS region including
+telecommunications operators, telecommunications users, universities, schools, hospitals, banks,
+corporate users, and ministries and departments. Direct beneficiaries of the project include people
+who are connected to the communications network in Guinea Bissau (including
+telecommunication services and internet users, schools, hospitals, banks, corporations,
+government and public administrations), to be measured as the number of active fixed and mobile
+subscribers and internet users. Indirect beneficiaries potentially include all of the Guinea-Bissau's
+population, since increased communications capabilities at affordable rates for some of the
+population may eventually have externalities for all in terms of an improved business
+environment. Because ICTs are enabling tools for economic development and social change, they
+are particularly valuable resource for women in developing countries who often suffer from
+limited availability of time, social isolation, and lack of access to knowledge and productive
+resources. For the purpose of M&E, Direct Project Beneficiaries will be defined in a more
+restrictive way and a citizen engagement (CE) mechanism will be implemented to monitor and
+report results to project beneficiaries.
+27.    WARCIP SOP3, through the regional entities of the ECOWAS Commission, WATRA,
+and WAPP Secretariat will also benefit directly the ICT policy makers and regulatory authorities
+who are tasked with developing and implementing harmonized policies and regulations to
+promote the transition to a single telecommunications market and reducing the price of cross-
+border communications services in ECOWAS, supporting and consolidating results achieved in
+previous WARCIP phases and anticipated in the final phases of the program.
+Key Results (From PCN)
+Achievement of the development objective of the proposed project will be assessed through the
+Page 7 of 12
+
+
+﻿key monitoring and evaluation indicators summarized below [To be discussed and confirmed by
+appraisal]. The team will adjust the results framework during project preparation to make the
+difference between results directly attributable to the intervention and those resulting from the
+U            leveraging effect of the intervention, learning from earlier phases of the Program.
+The indicator to be monitored for Guinea-Bissau would include:
+*      Core indicator: Access to telephone services (fixed mainlines plus cellular phones per 100
+a           people)
+*      Core indicator: Access to Internet (number of subscribers per 100 people);
+*      Core indicator: Number of direct project beneficiaries, including percentage of women;
+*      Core indicator: Beneficiaries that feel project investments reflected their needs (%);
+*      Custom indicator: Volume of international traffic (K/bits per person);
+*      Custom indicator: Average monthly price of wholesale international E 1 capacity link
+from capital city to Europe.
+The indicator to be monitored under the ECOWAS Commission and WATRA sub-component
+will include:
+*      Non-core: Number of policies, guidelines and directives that will advance the expansion
+of regional communications infrastructure.
+Key monitoring and evaluation indicators will be complemented with Intermediate Results
+indicators with base line values and targets that will facilitate assessment of project achievements
+and effectiveness in relation to each of the components [To be discussed and confirmed by
+appraisal], such as those suggested below. The team will adjust the results framework during
+project preparation to facilitate comparison with results frameworks of existing comparable
+projects.
+D. Concept Description
+O
+U            Component 1 - Supporting Connectivity (USD 29.75 million - estimated)
+This component would include the following activities on the basis of an open access and Public-
+Private Partnership (PPP) structure so as to leverage private sector investment: (i) support to
+provide Guinea-Bissau connectivity to international submarine cable connectivity (i.e. physical
+point of landing or real entry point). The cost of connecting Guinea Bissau to the ACE cable is
+twofold and covers both: i) the participation of Guinea Bissau in the ACE consortium owning the
+ACE submarine cable; and ii) the construction of a domestic landing station (in Suro, 23 km away
+from Bissau). For fiscal and economic efficiency reasons, and in line with other WARCIP
+experiences, the Government of Guinea Bissau is committed to establish a Public Private
+Partnership (PPP) with Telecom operators so as to share the cost of the investment in international
+connectivity and to ensure an efficient management of the landing station. The PPP design will
+likely be similar to the one put in place in Guinea, The Gambia, Sao Tome and Principe, and
+Liberia where a Special Purpose Vehicle (SPV) has been created to own and manage the
+infrastructure assets (ii) establishing a national Internet Exchange Point (IXP) in a neutral carrier
+hotel building (built by the project) in Guinea Bissau that would also host white rooms for a
+datacenter (not covered by the project) devoted to e-government servers. With the support of the
+European Commission (PAMSP PALOP-TL project), the Government of Guinea Bissau, through
+NITGOV, is promoting the modernization of the public administration with a particular focus on
+Page 8 of 12
+
+
+﻿the Civil Registry's automation. As a result, e-government data volume is expected to grow
+exponentially, calling for a datacenter that will also be made available for the needs of the private
+sector (banking sector, etc.) (iii) build 2 fiber optic missing links in Guinea Bissau for a total of
+40km (23km from Suro to Bissau and 16km within the city of Bissau) to provide connectivity to
+public administration in Bissau (national IDA) and redundancy connectivity through
+interconnection of Bissau with the WAPP power transmission network offering cross-border links
+toward ECOWAS - namely the Gambia, Guinea and Senegal.
+Component 2 - Creating an enabling environment for connectivity (USD 5.25 million -
+estimated)
+The first sub-component on Guinea-Bissau will focus on i) the transaction design and operating
+model for the ownership and management of the international, regional and national infrastructure
+(financed under component 1; ii) improving the legal and regulatory framework that needs to be
+updated and further developed, especially on issues pertaining to infrastructure sharing, cross-
+sector synergies, and regulation of new entrants in the broadband market (infrastructure operators,
+facility-based ISPs) so as to enhance competition and promote infrastructure deployment, (iii)
+Financing a study to identify options for the strategic repositioning of Guinetelecom/Guinetel
+with the goal of transforming it into a world-class operator (opening of Guinetelecom/Guinetel's
+capital to a private investor), (iv) Supporting institutional capacity strengthening of the regulator
+and relevant Ministry in Guinea Bissau in order to improve the public governance of the ICT
+sector (both the regulator and the government lack adequate resources and technical capacities to
+implement their mandates) and to contribute to the preparation and endorsement of an ICT Plan
+through a constructive consensus and (v) Capacity building and training support will be provided
+to the ICT Department within the ECOWAS Commission.
+Component 3 - Project Implementation (USD 3.0 million - estimated)
+This sub-component will provide support needed to strengthen the capacity of the Government of
+Guinea Bissau to implement the Component 1 and Sub Component 2. This includes setting up
+Project Implementation Unit (PIU) located with the Ministry of Transport, Communication and
+ICT and covering office equipment, operating costs, trainings. The component will also cover the
+cost audits, communications, monitoring and evaluation (M&E) including citizen engagement,
+and environmental and social studies, including their implementation and/or the monitoring of
+their implementation. This component finally provides project implementation contingencies.
+Alternatives options of using PIUs of other ongoing projects in Guinea Bissau have been
+examined in details but are not feasible. This sub-component will also support the ECOWAS
+Commission would cover the cost for the external audits, communications and monitoring and
+evaluation (M&E).
+II. SAFEGUARDS
+A. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+Connecting Guinea Bissau to the ACE submarine landing cable is likely to be made via the
+construction of a domestic landing station in Suro (23 km away from Bissau). In addition 2 terrestrial
+fiber optic missing links will be built in Guinea Bissau for a total of 40km (23km from Suro to
+Bissau and 16km within the city of Bissau). Finally a neutral carrier hotel building will be built in
+Guinea Bissau. However the exact path of the terrestrial fibers as well as the locations of the
+domestic landing station in Suro and of the neutral carrier hotel building are not yet known.
+Page 9 of 12
+
+
+﻿B. Borrower's Institutional Capacity for Safeguard Policies
+The institutional responsibilities for preparing the various safeguards instruments would lie with the
+implementing agency. The Project Implementation Unit (PIU) for the proposed operation (Guinea-
+Bissau) is likely to be located within the sector ministry (Secr6tariat d'Etat aux Transports et aux
+Communications), or alternatively at the Noyau de l'Innovation, de la Technologie et de la
+Gouvernance 6lectronique (NITGOV).Both the Ministry and NITGOV have limited capacity for
+safeguards. However, given that a lot more will be required for ensuring compliance from safeguards
+instrument preparation and reviews to implementation, there will be the need for capacity building.
+Any specific required action for some of the Civil Works will be taken into account during project
+implementation. Institutional responsibilities for preparing the safeguard assessment strategy will be
+defined closely with the Safeguards Team.
+In addition, capacity building on safeguards issues will be provided to the PIU to implement the
+ESMF, ESIA/EMP, RPF and RAP.
+C. Environmental and Social Safeguards Specialists on the Team
+Emmanuel Ngollo (GEN05)
+Upulee Iresha Dasanayake (CAFWO)
+D. POLICIES THAT MIGHT APPLY
+Safeguard Policies          Triggered? Explanation (Optional)
+Environmental Assessment    Yes         While impact is expected to be limited, the project
+OP/BP 4.01                              includes physical investments such as submarine
+cable, terrestrial fiber optic links and technical
+building investments. Because the exact nature and
+location of investments may not be determined up
+front, the Borrower will prepare an Environment and
+Social Management Framework (ESMF).
+Natural Habitats OP/BP 4.04  TBD        The ESMF will provide more information on
+whether this policy might be triggered.
+Forests OP/BP 4.36          TBD         The ESMF will provide more information on
+whether this policy might be triggered.
+Pest Management OP 4.09     TBD         The ESMF will provide more information on
+whether this policy might be triggered.
+Physical Cultural Resources  Yes        While not damaging cultural property, subproject
+OP/BP 4.11                              preparation may later identify and include assistance
+for preservation of historical or archeological sites. If
+these opportunities occur, cultural property
+management plans would be prepared for those
+subprojects. The ESMF will analyze the potential
+project zones and measures to be followed once these
+properties are discovered during project
+implementation.
+Indigenous Peoples OP/BP    TBD         The ESMF will provide more information on
+4.10                                    whether this policy might be triggered.
+Page 10 of 12
+
+
+﻿Involuntary Resettlement OP/  Yes        Some project activities may include land acquisition/
+BP 4.12                                 involuntary resettlement. Because the exact nature
+and location of investments cannot be determined up
+o                                                 front, the Borrower will prepare a Resettlement
+Policy Framework (RPF).
+Safety of Dams OP/BP 4.37   No
+*         Projects on International   No
+Waterways OP/BP 7.50
+Projects in Disputed Areas OP/ TBD      The ESMF will provide more information on
+BP 7.60                                 whether this policy might be triggered.
+E. Safeguard Preparation Plan
+1. Tentative target date for preparing the PAD Stage ISDS
+08-Oct-2015
+2. Time frame for launching and completing the safeguard-related studies that may be
+needed. The specific studies and their timing should be specified in the PAD-stage
+ISDS.
+Target date for the Quality Enhancement Review (QER), at which time the PAD-stage ISDS would
+be prepared: October 26, 2015.
+The specific studies and their timing should be specified in the PAD-stage ISDS.
+The Government of Guinea Bissau has not yet selected the exact locations for the future landing
+station in Suro and for the neutral carrier hotel building as well as the exact path for the 2 terrestrial
+fiber optic missing links for a total of 40km (23km from Suro to Bissau and 16km within
+III. Contact point
+World Bank
+Contact: Isabelle Huynh
+Title:   Senior Operations Officer
+Borrower/Client/Recipient
+Name:    Government of Guinea Bissau
+Contact:
+Title:
+Email:
+Implementing Agencies
+Name:    Ministry of Transport, Communication and ICT
+Contact: Joao Bernardo Vieira
+Title:   Secretary of State for Transport and Communications
+Email:   t.ministerio@yahoo.com.br
+Page 11 of 12
+
+
+﻿IV. For more information contact:
+The InfoShop
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 458-4500
+Fax: (202) 522-1500
+Web: http://www.worldbank.org/infoshop
+V. Approval
+Task Team Leader(s): Name: Isabelle Huynh
+Approved By
+Safeguards Advisor:     Name: Glenn S. Morgan (SA)                   Date: 26-Aug-2015
+Practice Manager/       Name: Boutheina Guermazi (PMGR)              Date: 09-Sep-2015
+Manager:
+Country Director:       Name: Louise J. Cord (CD)                    Date: 28-Sep-2015
+1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at
+the InfoShop and (ii) in country, at publicly accessible locations and in a form and language that are accessible to
+potentially affected persons.
+P
+Page 12 of 12
+
+

@@ -1,0 +1,361 @@
+﻿                    INTEGRATED SAFEGUARDS DATASHEET
+                            APPRAISAL STAGE
+
+I. Basic Information
+Date prepared/updated: 12/21/2011                                    Report No.: AC5851
+1. Basic Project Data
+Country: Kenya                                Project ID: P122671
+Project Name: Kenya Private Sector Power Generation Support Project
+Task Team Leader: Karan Capoor
+Estimated Appraisal Date: January 17,         Estimated Board Date: February 28, 2012
+2012
+Managing Unit: AFTEG                          Lending Instrument:
+Sector: General energy sector (100%)
+Theme: Infrastructure services for private sector development (100%)
+IBRD Amount (US$m.):             0
+IDA Amount (US$m.):              0
+GEF Amount (US$m.):              0
+PCF Amount (US$m.):              0
+Other financing amounts by source:
+         Borrower                                                       0.00
+         IDA Guarantee                                               166.00
+                                                                     166.00
+Environmental Category: A - Full Assessment
+Repeater []
+Is this project processed under OP 8.50 (Emergency Recovery)
+                                                                  Yes [ ]     No [X]
+or OP 8.00 (Rapid Response to Crises and Emergencies)
+
+2. Project Objectives
+The objectives of the proposed project are to: (i) assist the Borrower to meet growing
+short term demand in power generation; and (ii) the PRG will directly impact the
+capacity, efficiency, and in a timely manner, the power supply by adding more generation
+capacity to the grid by the IPPs.
+
+3. Project Description
+It is proposed that a series of PRGs with an IDA allocation of US$166 million equivalent
+be provided in support of payment obligations of Kenya Power and Lighting Company
+Ltd. (KPLC) under individual PPAs for the IPPs being considered by the Government.
+
+ The proposed project would support the: (a) installation of three separate 83-87 MW
+capacity Medium Speed Diesel (MSD) Power Plants; and a third expansion of the
+existing Olkaria III geothermal power plant. They will be constructed by IPPs under a 20
+year Build Own Operate (BOO) arrangement. Each IPP for the respective thermal power
+plant will be responsible for the construction of a Fuel Storage Facility as well as the
+construction of an Interconnection Facility at each plant site to transmit the power to the
+national grid.
+ One ESMF and separate ESIAs will cover the three thermal IPPs due to their similar
+size, nature and impact. The geothermal project will follow WB environmental and
+social safeguards separately. The PRGs will be processed as sub-projects of the Kenya
+Private Power generation Support Project. The first PRGs are expected to be in support
+of the PPA between KPLC and Gulf Power Limited (GPL), the IPP developer of an 80
+MW MSD plant east of the town of Athi River, for a total estimated Letter of Credit (LC)
+amount of US$35 million and Euro 7 million along with Thika Power Limited and
+Triumph Generating Company Limited. Once Board approval is obtained of the first
+proposed project, based on the PRG framework detailed in the PRG Term Sheet, it is
+proposed that the balance amount be deployed for the other subsequent three PRGs.
+
+4. Project Location and salient physical characteristics relevant to the safeguard
+analysis
+The 3 MSD Plants are to be located at three different sites in the outskirts of Nairobi as
+follows:
+
+ (1) Plant 1 will be an 81 MW facility operated by Triumph Power within an Export
+Processing Zone (EPZ) southwest of Athi River off Athi River-Namanga Road,
+approximately 30 km south of Nairobi.
+
+ (2) Plant 2 will be an 80 MW facility operated by Gulf Power east of Athi River town
+on Mombasa Road approximately 35 km south east of Nairobi.
+
+ (3) Plant 3 will be an 87 MW facility operated by Thika Power on Thika Road near
+Thika Town approximately 35 km north east of Nairobi.
+
+ Key site selection criteria included: a site with minimal environmental and social
+impacts; a site from which power could be easily evacuated and a site available for sale
+immediately. KPLC used print media, estate agents, local authorities, and the public to
+identify suitable candidate sites.
+
+ Given their respective generating capacities, prevailing winds, and distances from each
+other, the airsheds of the three MSD projects are not expected to overlap such that
+cumulative adverse impacts occur on ambient air quality. With a limit of two percent
+sulfur content in the fuel, the MSD projects are expected to comply with relevant WBG
+Environmental, Health and Safety Guidelines.
+
+ The existing Olkaria III geothermal project is located within Hell's Gate National Park,
+which is designated as a Category II protected area by IUCN; however, the park was
+established after the Olkaria geothermal fields had been gazetted for geothermal power
+production, and the first power plant (Olkaria I) had been built. The park is divided into
+two sections: the western section in which geothermal production is permitted, and the
+eastern section in which hiking and recreational activities (primarily bird watching) are
+encouraged. The Olkaria III project currently has an installed capacity of 55 MW and is
+located in one of seven designated geothermal fields within the western sector of the
+park. The Olkaria III project was originally designed, assessed, and approved as a 100
+MW facility; however, a decision was made to build it in phases. MIGA has insured
+investments in the Olkaria III project since March 28, 2002, first as part of the project's
+initial phase of construction and operations, and then again in December 18, 2007, for a
+subsequent second phase of expansion. The Kenyan environmental authorities on May
+21, 2010, amended the September 14, 2007, EIA license to approve the project to the
+final expansion to 100 MW, as originally proposed in the 2000 EIA for the Olkaria III
+project.
+
+ At the Olkaria III project, both spent steam and geothermal brine are re-injected in
+wells, with over 95% reinjection achieved. Non-condensible gases, primarily carbon
+dioxide, are piped to adjacent flower farm greenhouses to boost flower production.
+
+5. Environmental and Social Safeguards Specialists
+   Ms Gibwa A. Kajubi (AFTCS)
+   Ms Noreen Beg (AFTEN)
+   Mr Harvey D. Van Veldhuizen (MIGEP)
+
+6. Safeguard Policies Triggered                               Yes          No
+Environmental Assessment (OP/BP 4.01)                          X
+Natural Habitats (OP/BP 4.04)                                  X
+Forests (OP/BP 4.36)                                                       X
+Pest Management (OP 4.09)                                                  X
+Physical Cultural Resources (OP/BP 4.11)                                   X
+Indigenous Peoples (OP/BP 4.10)                                            X
+Involuntary Resettlement (OP/BP 4.12)                                      X
+Safety of Dams (OP/BP 4.37)                                                X
+Projects on International Waterways (OP/BP 7.50)
+Projects in Disputed Areas (OP/BP 7.60)                                    X
+
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project.
+Identify and describe any potential large scale, significant and/or irreversible impacts:
+There are no significant environmental and social risks associated with the three MSD
+power plant sites in terms of natural habitat, land use, or other characteristics associated
+with the site itself. Rather, the likely impacts are associated with the construction and
+operation of the proposed MSD thermal power plant at each of the three sites, e.g.,
+construction-related impacts, air emissions and impacts on ambient air quality, solid and
+liquid waste management, noise, and the transport, handling, and storage of fuel, etc. To
+avoid the potential cumulative environmental impacts of siting three such power plants
+within the same parcel of land, KPLC and/or sub-project sponsor has acquired land in
+three separate locations to minimize significant impacts on air quality.
+ Preliminary and subsequent assessments for all four projects have determined that
+significant or sensitive physical cultural resources are unlikely to be found; however, as
+per standard practice, construction contracts will include chance finds procedures.
+
+ There will not be any resettlement or compensation for lost assets required at the three
+thermal power project sites. Prior to the award of concessions to successful IPPs, KPLC
+conducted preliminary environmental and social assessment work for each of the three
+sites and was able to determine that there were likely to be no significant social risks
+associated with the three sites in terms of land use, or other characteristics associated
+with the site itself.
+
+  There are different agencies responsible for power generation and for electrical
+transmission and distribution systems. Therefore, transmission lines will be built
+separately under the authority of a different project proponent, and by law the project
+proponent must prepare a separate ESIA for its investment. For two of the thermal power
+plants, the connection to the transmission line grid will occur within the purchased sites.
+For the third, the transmission lines will follow existing road rights-of-way or cross
+unoccupied land designated for industrial use. A separate EIA will be prepared by a third
+party developer responsible for the transmission lines, but preliminary analysis by the
+thermal power plant IPP has indicated there are no significant adverse environmental or
+social issues associated with the construction and operation of the associated transmission
+lines.
+
+ The proposed expansion of the Olkaria III power project is located within a designated
+area of a national park that is gazetted for geothermal field development, and the park has
+been under the management of the Kenya Wildlife Service since the park was
+established. No resettlement or displacement of livelihood activities will occur as a result
+of the proposed expansion of the Olkaria III power plant or increase of capacity in the
+existing transmission lines connecting it to the grid.
+
+ There are no vulnerable and marginalized ethnic groups on or near the proposed project
+sites. Screening has occurred, and no groups recognized by the Bank as IPs under OP
+4.10 are on or near the project sites.
+
+ The Olkaria III project site is located within Hell's Gate National Park, which is
+designated as a Category II protected area by IUCN; however, the park was established
+after the Olkaria geothermal fields had been gazetted for geothermal power production,
+and the first power plant (Olkaria I) had been built. The Olkaria III expansion is located
+within the western sector of the park in which geothermal field development is allowed.
+The project area is located in a semi-arid landscape occupied predominantly by savanna
+grassland. The project area itself is characteristic of geothermally altered soils, with
+sparse vegetation. Hell's Gate National Park is the only national park in Kenya in which
+hiking is encouraged, given the absence of large predators such as lion and leopard. The
+primary habitat and recreational value for the park is bird nesting and bird watching,
+especially large raptors and a large colony of swifts. A gorge separates the eastern and
+western sectors of the park, and topographical features west of the gorge (Olkaria Hill,
+Hobbley's Volcano, and Hell's Kitchen) effectively isolate the Olkaria III geothermal
+field from viewers in the eastern sector of the park. The initial EIA for Olkaria III
+considered cumulative impacts of the three existing geothermal fields in the park,
+including the proposed expansion of Olkaria III. Geothermal field development and
+activities are closely coordinated with the Kenya Wildlife Service (KWS), which is
+responsible for park management and protection. All geothermal operations within the
+park are required to enter into an Environmental Management Agreement with the KWS.
+The Olkaria III project's Environmental Management Plan will continue to be
+implemented as part of the Environmental Management Agreement with the KWS.
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future
+activities in the project area:
+There are no long term environmental impacts anticipated as a result of future activities
+in each of the three project sites at this time.
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize
+adverse impacts.
+A reasonable range of project alternatives has been evaluated, including a "no-project"
+alternative. There are constraints, however, on the range of reasonable alternatives that
+can be discussed because the project consists of concessions awarded to respective IPPs.
+KPLC initially identified a parcel of land in an Export Processing Zone (EPZ) on the
+southwest side of the town of Athi River for three proposed MSD thermal power plants to
+be built by IPPs. Due to the potential cumulative environmental impacts of siting three
+such power plants within the same parcel of land, KPLC subsequently sought to acquire
+land in three separate locations. Key selection criteria included: a site with minimal
+environmental and social impacts; a site from which power could be easily evacuated;
+and a site available for sale immediately. KPLC used print media, estate agents, local
+authorities, and the public to identify suitable candidate sites. The three sites selected and
+purchased by KPLC are: the initial site within an unused part of the EPZ southwest of
+Athi River town, a site near Thika town, and a site along the Nairobi-Mombasa highway
+to the east of Athi River. Given their respective generating capacities, prevailing winds,
+and distances from each other, the airsheds of the three projects are not expected to
+overlap such that cumulative adverse impacts occur on ambient air quality.
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide
+an assessment of borrower capacity to plan and implement the measures described.
+Prior to the award of concessions to successful IPPs, KPLC conducted preliminary
+environmental and social assessment work for each of the three sites and was able to
+determine that there were likely to be no significant environmental and social risks or
+impacts associated with the three sites in terms of natural habitat, land use, or other
+characteristics associated with the site itself.
+
+ ESIAs have been prepared and have been reviewed by the Bank in their final form for
+all but one of the IPPs (for which a draft ESIA was reviewed). Draft ESIA reports were
+prepared for the Triumph Plant in November 2010 and Gulf Power in April 2011, while a
+detailed scoping report of an ESIA was prepared for the Thika Plant in February 2011. It
+was determined that the Draft ESIA prepared for the Gulf Power plant could serve as a
+model of good practice for an ESIA suitable for power plants of this size using Medium
+Speed Diesel (MSD) engines and Heavy Fuel Oil (HFO). A modified version of Gulf’s
+ESIA was adapted as an Environmental and Social Management Framework (ESMF) for
+the other two thermal power plants for which ESIA work was still in progress. The
+ESMF and the Gulf Power ESIA were disclosed locally and in the InfoShop on May 23,
+2011. Subsequently, the finalized ESIA for the Thika MSD thermal power plant was
+disclosed locally and at the InfoShop on November 3, 2011. The final ESIA for the
+Triumph MSD thermal power plant is expected by mid-December 2011 and will be
+disclosed locally and at the InfoShop shortly thereafter.
+
+ With respect to the proposed Olkaria III project, MIGA has guaranteed an investment in
+Olkaria III since March 2002, with a second guarantee offered for the second phase
+expansion in December 2007; therefore, information regarding WBG involvement in the
+Olkaria III project has been subject to MIGA disclosure policy since 2002. In addition,
+the Bank disclosed locally and in the InfoShop on June 9, 2011, the following key
+documents for the Olkaria III project: the initial (August 2000) EIA, which noted that the
+project would be expanded in phases over time to 100 MW and assessed from that
+perspective; the supplement to the EIA dated May 2001; and the most recent (2010)
+environmental audit of the existing Olkaria III project operations.
+
+ The ESIAs prepared to date describe potentially adverse environmental impacts of the
+construction and operational phases of the power plants on the built and natural
+environment. Environmental Management Plans have been prepared or are under
+preparation specifying mitigation measures and management actions identified in the
+impact assessments, and include a budget, schedule, and institutional responsibilities for
+each action. Annexes have been prepared or are under preparation assessing air and soil
+quality, noise levels, and the hydrogeology, geology, archeology and current land use of
+the Plant sites and surrounding areas.
+
+ Borrower capacity to implement environmental mitigation measures is well established,
+and the IPPs have all hired highly reputable, experienced environmental consultancies to
+prepare the ESIAs. The IPP management will ensure an environment/social/OSHA
+officer is based on-site during project construction and operation.
+
+5. Identify the key stakeholders and describe the mechanisms for consultation and
+disclosure on safeguard policies, with an emphasis on potentially affected people.
+Preliminary public consultations with stakeholders (neighbouring industrial and
+commercial establishments primarily, but also a housing estate on the Mombasa Road
+near the Gulf Power project site and pastoralists along the road) have been held at all
+three MSD Plant locations. This first round of consultations occurred as KPLC carried
+out preliminary environmental and social assessment of the three MSD sites prior to final
+award of the concession to the respective IPPs.
+
+ A second round of consultations were held as required by Kenyan regulations regarding
+scoping, preparation, and disclosure of site- and project-specific ESIAs by the respective
+IPPs. Details of the outcome of these consultations in preparation of the ESIAs are
+described in the respective ESIA documents.
+
+ In the case of Olkaria III, the project proponents will continue to liaise with Kenya
+Wildlife Service (KWS), which is responsible for Park management.
+
+
+
+B. Disclosure Requirements Date
+Environmental Assessment/Audit/Management Plan/Other:
+  Was the document disclosed prior to appraisal?                   Yes
+  Date of receipt by the Bank                                 04/21/2011
+  Date of "in-country" disclosure                             05/23/2011
+  Date of submission to InfoShop                              05/23/2011
+  For category A projects, date of distributing the Executive
+                                                              12/12/2011
+  Summary of the EA to the Executive Directors
+Resettlement Action Plan/Framework/Policy Process:
+  Was the document disclosed prior to appraisal?                   N/A
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+Indigenous Peoples Plan/Planning Framework:
+  Was the document disclosed prior to appraisal?                   N/A
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+Pest Management Plan:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+* If the project triggers the Pest Management and/or Physical Cultural Resources,
+the respective issues are to be addressed and disclosed as part of the Environmental
+Assessment/Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please
+explain why:
+
+
+
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the
+ISDS is finalized by the project decision meeting)
+
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) report?                Yes
+If yes, then did the Regional Environment Unit or Sector Manager (SM)            Yes
+review and approve the EA report?
+  Are the cost and the accountabilities for the EMP incorporated in the           Yes
+  credit/loan?
+  OP/BP 4.04 - Natural Habitats
+  Would the project result in any significant conversion or degradation of        No
+  critical natural habitats?
+  If the project would result in significant conversion or degradation of other   N/A
+  (non-critical) natural habitats, does the project include mitigation measures
+  acceptable to the Bank?
+  The World Bank Policy on Disclosure of Information
+  Have relevant safeguard policies documents been sent to the World Bank's        Yes
+  Infoshop?
+  Have relevant documents been disclosed in-country in a public place in a        Yes
+  form and language that are understandable and accessible to project-affected
+  groups and local NGOs?
+  All Safeguard Policies
+  Have satisfactory calendar, budget and clear institutional responsibilities     Yes
+  been prepared for the implementation of measures related to safeguard
+  policies?
+  Have costs related to safeguard policy measures been included in the project    Yes
+  cost?
+  Does the Monitoring and Evaluation system of the project include the            Yes
+  monitoring of safeguard impacts and measures related to safeguard policies?
+  Have satisfactory implementation arrangements been agreed with the              N/A
+  borrower and the same been adequately reflected in the project legal
+  documents?
+
+
+  D. Approvals
+
+Signed and submitted by:                              Name                          Date
+Task Team Leader:                   Mr Karan Capoor                               12/15/2011
+Environmental Specialist:           Mr Harvey D. Van Veldhuizen                   12/05/2011
+Social Development Specialist       Ms Gibwa A. Kajubi                            12/05/2011
+Additional Environmental and/or     Ms Noreen Beg                                 12/15/2011
+Social Development Specialist(s):
+
+Approved by:
+Regional Safeguards Coordinator:    Ms Alexandra C. Bezeredi                      12/15/2011
+  Comments:
+Sector Manager:                     Mr Lucio Monari                               12/15/2011
+  Comments:
+

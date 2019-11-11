@@ -1,0 +1,258 @@
+                              Integrated Safeguards Data Sheet (Initial)
+
+Section I - Basic Information
+Date ISDS Prepared/Updated: 05/07/2004
+A. Basic Project Data (from PDS)
+I.A.1. Project Statistics
+Country: MEXICO                                                Project ID: P088546
+Project: Mexico: Waste Management and Carbon Offset            Task Team Leader: Walter Vergara
+Project
+Authorized to Appraise Date: August 10, 2004                   IBRD Amount ($m):
+Bank Approval: January 13, 2005                                IDA Amount ($m):
+                                                               Global Supplemental Amount ($m):
+                                                               Prototype Carbon Fund ($m):
+Managing Unit: LCSEN                                           Sector: Renewable energy (80%); Solid waste
+Lending Instrument: Specific Investment Loan (SIL)             management (20%)
+Status: Lending                                                Theme: Climate change (P); Pollution management
+                                                               and environmental health (S)
+
+I.A.2. Project Objectives (From PDS):
+    The project development objective is to reduce the greenhouse impact of the methane released during
+    land-filling of solid waste in Mexico either through its capture and use as a fuel for power generation
+    or through its flaring. The project is expected to displace an estimated 4 million metric tons of carbon
+    dioxide equivalent (mtCO2e) up to 2012. The project will support a voluntary offset program for the
+    C02 from combustion, through forest plantations using native species in protected, yet denuded areas,
+    using local labor. This will contribute to generate local employment and to the restoration of soil
+    cover. The project will also support a local social program at each site, designed to address priority
+    welfare issues of local communities.
+
+
+Components:
+
+      a) Renewable energy production: The project would support the development of about 6 landfill
+      gas facilities, primarily for the generation of electricity, with a combined rated capacity of about 20
+      Mw. The process of renewable energy production consists in extracting the landfill gas methane from
+      the landfills using pipes and vacuum pumps. The landfill gas is forced into gas cleaning devices and
+      burned in gas engines that use the chemical energy of the landfill gas (methane) to move a generator.
+      The electricity is transformed to the grid voltage and transmitted to the final users. The 6 plants are
+      expected to be in operation by 2005 (3), 2006 (2) and 2008 (1). Financial sSupport will be provided
+      through the purchase of ghg emission credits.
+
+      b) Environment program. The environmental program is designed to offset the C02 from the
+      oxidation of CH4 in the renewable energy production. It consists of activities that support habitat
+      restoration using native species in protected and buffer zones. These activities will be developed in
+      consultation with local communities "ejidatarios" (e.g., reforestation, organic and conservation
+      agriculture) targeted to improve environmental management in the target areas.
+
+      c) Social program. The social program includes specific activities attending social welfare priorities
+      for local communities, such as health programs, neighborhoods improvements, etc. (the details of the
+      social program will be developed as part of project appraisal). The social program will be supported
+
+                                                       2
+                                                                                                          ISDS
+
+
+      with 10% of the net revenues from the sale of GHG reductions.
+
+
+
+
+I.A.3. Project Description (From PDS):
+The project uses landfill gas as fuel for power generation. It , basically consists of an extraction and
+collection system using wells connected to vacuum pumps and the power units. The biogas landfill gas
+serves as combustible to operate the engines that move the generators and produce the electricity.This
+process will serve as a elimination media of the actual biogas uncontrollable emissions in the sanitary
+landfill, at the same time the using response to the alternative ways to produce energy and utilize the solid
+waste as a renewal energy source
+This process will eliminate uncontrolled emissions of landfill gas, as well as; it represents an alternative to
+produce energy and utilize solid waste as a renewal energy source. Landfill gas is created during the
+anaerobic decomposition of organic matter in the waste. It is a mix of methane (CH4), carbon dioxide
+(CO2) and nitrogen (N2). Methane is a powerful greenhouse gas with a global warming potential 21 times
+that of CO2.
+With a calorific value of approximately 5 kWh/Nm³, landfill gas also constitutes a valuable fuel and can
+therefore be used for the generation of energy.
+
+
+
+
+Technology: The process includes the following steps:
+·        The gas is extracted and collected from the landfill via gas wells, located through a modeling
+process and vacuum pumps.
+·        The gas goes through a cleaning process that dewaters the gas via cooling and filters the gas to
+guarantee a clean gas phase. There are three independent cleaning systems.
+·        The clean gas is sent either to internal combustion gas engines (Jenbacher-GE), rated at 1.06 MW
+or alternatively to flares rated to burn maximum estimated gas production.
+·        The gas engines are fitted with air and water coolants designed to operate at the maximum ambient
+summer temperature in Monterrey and are auto-regulated.
+·        The electricity is generated at 480 volts and 60 Hz. A triphasic transformer station takes the
+potential to 34,500 volts, for delivery to the transmission line.
+·        A remote station provides information on power on line, voltage delivered and frequency to CFE,
+according to regulations.
+An on line sensor delivers information of methane burned, equivalent CO2 abated and electricity generated
+to the plant site.
+
+                                                        3
+                                                                                                          ISDS
+
+
+
+
+I.A.4. Project Location: (Geographic location, information about the key environmental and social
+characteristics of the area and population likely to be affected, and proximity to any protected areas, or sites or
+critical natural habitats, or any other culturally or socially sensitive areas.)
+ Location of the Project. The projects are located in 6 different cities in the following states: Baja
+California, Nuevo León, Sinaloa, Jalisco, Coahuila, Guanajuato. The cities are large a medium size and
+meet basic conditions for methane capture and use at their sites. Some have problems with the air quality,
+based in the impact of the transport, economic activities and landfill gas emissions. The municipal
+authorities are willing partners in these projects. Possible social impacts will be identified during
+preparation and addressed through the proposed social program.
+
+                                                        4
+                                                                                                       ISDS
+
+
+B. Check Environmental Classification: B (Partial Assessment)
+
+Comments: : An environmental assessment will be prepared for each of the six projects.
+
+
+C. Safeguard Policies Triggered (from PDS)
+(click on   for a detailed desciption or click on the policy number for a brief description)
+                                     Policy                                           Triggered
+    Environmental Assessment (OP 4.01, BP 4.01, GP 4.01)                         Yes      No   TBD
+    Natural Habitats (OP 4.04, BP 4.04, GP 4.04)                                 Yes      No   TBD
+    Forestry (OP 4.36, GP 4.36)                                                  Yes      No   TBD
+    Pest Management (OP 4.09)                                                    Yes      No   TBD
+    Cultural Property (OPN 11.03)                                                Yes      No   TBD
+    Indigenous Peoples (OD 4.20)                                                 Yes      No   TBD
+    Involuntary Resettlement (OP/BP 4.12)                                        Yes      No   TBD
+    Safety of Dams (OP 4.37, BP 4.37)                                            Yes      No   TBD
+    Projects in International Waters (OP 7.50, BP 7.50, GP 7.50)                 Yes      No   TBD
+    Projects in Disputed Areas (OP 7.60, BP 7.60, GP 7.60)*                      Yes      No   TBD
+
+
+
+Section II - Key Safeguard Issues and Their Management
+D. Summary of Key Safeguard Issues. Please fill in all relevant questions. If information is not available,
+describe steps to be taken to obtain necessary data.
+
+II.D.1a. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe
+any potential large scale, significant and/or irreversible impacts.
+        This project will invest in six large-scale LFG capture plant at sites of existing secure landfills.
+        The net environmental impacts are expected to be positive, since methane gas will be captured and
+        utilized as a renewable energy source, displacing fossil fuels form the energy mix of the power
+        sector.
+
+        Some negative impacts are expected during construction of the plants (access road construction,
+        increased traffic, disposal of construction materials, noise, etc.), but these will be mitigated by
+        good construction practices; these practices were already in place during the construction of the
+        Monterrey Plant (A GEF-supported project, and have been successfully tested) .
+
+        Noise: As the proposed sites of the plants are not adjacent to neighbors, noise from the engines is
+        expected to be only an occupational safety problem for the workers at the plant. To mitigate effects
+        of noise on employees will be required to use proper ear protection and the engine house will be
+        located away form neighbors and constructed to reduce noise outside the building.
+
+        En environmental management plan will be in place prior to start up of the units. This plan will
+        use the successful experience and lessons learned from the Monterrey Plant and will cover at least
+        the following topics: Monitoring of emissions from power plant; disposal of engine waste oil,
+        landfill gas condensate; monitoring of groundwater, disposal and recycling of spent engine coolant,
+        methane migration, occupational health and safety issues. An annual environmental summary will
+        be available for each plant on the implementation of the plan. Corrective actions would be tracked
+        on an annual basis.
+
+                                                         5
+                                                                                                           ISDS
+
+
+         Natural Habitats. The project will not intersect either natural parks, fauna and flora sanctuaries,
+         civil forest sanctuaries or sensitive zones, as the areas proposed for the plants are not vegetated. In
+         its environmental program the project will support habitat restoration using native species in
+         protected and buffer zones.
+
+         Resettlement: The project won't imply any resettlement.
+
+         A social framework for the adoption of the social plans at each location will be developed in
+         consultation with the local communities and adopted prior to start up of construction.
+
+II.D.1b. Describe any potential cumulative impacts due to application of more than one safeguard policy or
+due to multiple project component.
+     None anticipated
+
+II.D.1c Describe any potential long term impacts due to anticipated future activities in the project area.
+     No adverse impacts are expected as a direct consequence of the project. On the other hand,
+     the project does support an social and environmental program benefiting the local
+     communities and the global environment on a long term basis.
+
+
+II.D.2. In light of 1, describe the proposed treatment of alternatives (if required)
+     The long term positive impact will be enhanced through the implementation of the social and
+         environmental programs.
+
+II.D.3. Describe arrangement for the borrower to address safeguard issues
+     Compliance with the provisions of the EIA and EMP will be reviewed as part of the
+     monitoring and validation protocol.
+     SEISA will manage directly the implementation of the social and environmental programs.
+
+II.D.4. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard
+policies, with an emphasis on potentially affected people.
+     A public consultation will be undertaken at each site prior to start up of construction.
+
+E. Safeguards Classification (select in SAP). Category is determined by the highest impact in any policy. Or
+on basis of cumulative impacts from multiple safeguards. Whenever an individual safeguard policy is
+triggered the provisions of that policy apply.
+
+[ ] S1. ­ Significant, cumulative and/or irreversible impacts; or significant technical and institutional risks in
+          management of one or more safeguard areas
+[X] S2. ­ One or more safeguard policies are triggered, but effects are limited in their impact and are
+          technically and institutionally manageable
+[ ] S3. ­ No safeguard issues
+[ ] SF. ­ Financial intermediary projects, social development funds, community driven development or similar
+          projects which require a safeguard framework or programmatic approach to address safeguard
+          issues.
+
+F. Disclosure Requirements
+
+Environmental Assessment/Analysis/Management Plan:                           Expected          Actual
+
+                                                    6
+                                                                                                    ISDS
+
+
+Date of receipt by the Bank                                              8/15/2004
+Date of "in-country" disclosure
+Date of submission to InfoShop                                           9/13/2004
+Date of distributing the Exec. Summary of the EA to the Executive
+Directors (For category A projects)
+
+Resettlement Action Plan/Framework:                                       Expected         Actual
+Date of receipt by the Bank                                              Not Applicable Not Applicable
+Date of "in-country" disclosure
+Date of submission to InfoShop
+
+Indigenous Peoples Development Plan/Framework:                            Expected         Actual
+Date of receipt by the Bank                                              Not Applicable Not Applicable
+Date of "in-country" disclosure
+Date of submission to InfoShop
+
+Pest Management Plan:                                                     Expected         Actual
+Date of receipt by the Bank                                              Not Applicable Not Applicable
+Date of "in-country" disclosure
+Date of submission to InfoShop
+
+Dam Safety Management Plan:                                               Expected         Actual
+Date of receipt by the Bank                                              Not Applicable Not Applicable
+Date of "in-country" disclosure
+Date of submission to InfoShop
+If in-country disclosure of any of the above documents is not expected, please explain why.
+
+Signed and submitted by               Name                                               Date
+Task Team Leader:                     Walter Vergara                                     4/09/04
+Project Safeguards Specialists 1:     Walter Vergara                                     4/09/04
+Project Safeguards Specialists 2:     Alonso Zarzar                                      4/09/04
+Project Safeguards Specialists 3:
+
+Approved by:                         Name                                                Date
+Regional Safeguards Coordinator: Juan Quintero                                           4/16/04
+Sector Manager/Director               Susan G. Goldmark                                  4/16/04
+

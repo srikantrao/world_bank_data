@@ -1,0 +1,392 @@
+﻿                                           INTEGRATED SAFEGUARDS DATA SHEET
+                                                    CONCEPT STAGE
+Public Disclosure Copy
+
+
+
+
+                                                                                             Report No.: ISDSC2567
+
+                         Date ISDS Prepared/Updated: 22-Mar-2013
+                         Date ISDS Approved/Disclosed: 27-Mar-2013
+                         I. BASIC INFORMATION
+                           A. Basic Project Data
+
+                            Country:           Turkey                          Project ID:     P144534
+                            Project Name:      Renewable Energy Integration (P144534)
+                            Task Team          Sergio Augusto Gonzalez C
+                            Leader:
+                            Estimated          01-Sep-2013                     Estimated       15-Mar-2014
+                            Appraisal Date:                                    Board Date:
+                            Managing Unit:     ECSEG                           Lending         Specific Investment Loan
+                                                                               Instrument:
+                            Sector(s):         Other Renewable Energy (80%), Transmission and Distribution of Electricity
+                                               (20%)
+                            Theme(s):          Infrastructure services for private sector development (80%), Regional
+                                               integration (20%)
+                            Financing (In USD Million)
+                            Total Project Cost:    475.00                    Total Bank Financing:       300.00
+Public Disclosure Copy
+
+
+
+
+                            Total Cofinancing:                               Financing Gap:                0.00
+                              Financing Source                                                          Amount
+                              Borrower                                                                   125.00
+                              International Bank for Reconstruction and Development                      300.00
+                              Clean Technology Fund                                                       50.00
+                              Total                                                                      475.00
+                            Environmental B - Partial Assessment
+                            Category:
+                            Is this a          No
+                            Repeater
+                            project?
+
+                           B. Project Objectives
+                           The PDO is to assist Turkey to meet its increased electricity demand while containing Green House
+                           Gas (GHG) emissions by strengthening the transmission system and facilitating large-scale
+                           renewable energy generation.
+                         C. Project Description
+                         I.      Description
+Public Disclosure Copy
+
+
+
+
+                         The REI project is expected to strengthen the transmission system by increasing its capacity and
+                         expanding the automation of control, management, and protection systems to maintain high voltage
+                         grid stability and counteract the propagation of large disturbances. This includes upgrading the
+                         Supervisory Control and Data Acquisition (SCADA) system software expanding the number of
+                         Remote Telemetry Units and Communication Equipment; modernizing the Human Machine
+                         Interface, a new National Control Centre with a renewable dispatch console; constructing a
+                         submarine and underground power cable, and Gas-insulated substations (GIS). The REI project
+                         consists of the following four components:
+
+                         1. Construction of wind power grid connection structures;
+                         2. Smart-grid applications to improve grid operation and management;
+                         3. Lapseki-Sutluce 380 KV submarine power cable;
+                         4. Expansion of urban transmission networks.
+
+                         More details for each component are provided below:
+
+                         1. Construction of Wind Power Grid Connection Structures: This component includes the
+                         development of four 380kV 500 MVA highly digitalized wind power grid connection structures in
+                         the provinces of Can, Izmir, Hamitabat, and Catalca consisting of: i) high voltage (HV) wind power
+                         substations; ii) HV grid interfacing equipment; iii) commercial smart-metering systems; iv) feeders
+                         (underground cables) to evacuate power from the site; v) telemetered dispatch systems; vi) digital
+                         protection systems; vii) supervisory systems; and viii) automatic voltage control systems;
+
+                         2. Smart-grid Applications to Improve Grid Operation and Management. These applications will
+                         provide detailed information to enable operators to manage demand/supply balance in real time to
+Public Disclosure Copy
+
+
+
+
+                         reduce outages, the need for peak power, and the need for spinning reserves in the system. They will
+                         add new capabilities for measurements and control through Phasor Measurement Units (PMUs) to
+                         make the Turkish grid much more reliable and minimize the possibilities of blackouts in the face of
+                         the progressive integration of variable renewable generation. This component comprises protective
+                         relays with digital microprocessors to analyze power system voltages, currents, and other process
+                         quantities for the purpose of detecting system faults. It also comprises the upgrade of the existing
+                         SCADA system with a new functionality for renewable energy management. It involves the
+                         replacement of a comprehensive SCADA/EMS operational database customized to accurately
+                         replicate the existing TEIAS HV grid. The subcomponent includes the development of a new
+                         National Control Center with a dedicated Renewable Dispatch Desk. These facilities will have
+                         Human Machine Interface (HMI) capabilities consisting of large, dynamic, and high-performance
+                         wall-mounted boards illustrating the HV grid single line diagram. The component also involves the
+                         installation of 200 Remote Telemetry Units (RTUs) to bolster TEIAS’ smart grid solutions. The
+                         RTUs will have capabilities that include data collection and monitoring, grid analytics, and rules-
+                         based economic decision-making tools to help TEIAS realize its next-generation strategies.
+
+                         3. Lapseki-Sutluce 380 KV Submarine Power Cable (phase II): Just as the first phase of this
+                         undersea project under the ongoing Adaptable Program Loan (APL6) project, the cable under this
+                         component will go under the Dardanelles strait. The cable is expected to be one single length 3.8 km
+                         long. This is a crucial project for connecting the Asian and the European sides of Turkey. Its
+                         relevance to renewable energy lies with the transmission of bulk electricity including renewable
+                         generated power from the Anatolia side to the high-growth Istanbul area and beyond towards the
+                         European ENTSO-E networks.
+Public Disclosure Copy
+
+
+
+
+                         4. Expansion of Urban Transmission Networks. The component adds two open air 380/154 kV
+                         substations to help reduce transmission losses and voltage drops in the provinces of Antalya and
+                         Urgup and will increase system capacity to cope with the rapidly rising demand. In addition, it will
+                         add six 154/33 kV (GIS) located in the provinces of Atasehir, Hadimkoy, Selcuk, Yakuplyu,
+                         Muratpasa, and Sultanbeyli. The component also contains five 154/33kV underground cable projects
+                         to be built as part of a loop to serve increased load growth and to boost system reliability. The cables
+                         will connect the following substations: Yeni Ambarli – Yenibosna with a length of 14 km;
+                         Karabaglar – Buca with a length of 8.7 km; Kucukbakkalkoy – Kadikoy with a length of 8.5 km;
+                         Yakuplu – Ambarli with a length of 5 km; and Umraniye – Dudullu with a length of 9 km.
+
+                         II.     Cost Breakdown
+
+                         The estimated cost breakdown and financing by sub-components are as follows:
+
+                         Sub- Components            IBRD CTF                     TEIAS (VAT & Project Management)
+                         Wind power grid connection USD $ 25 million                USD $ 50 million
+                         Smart-grid applications      USD $ 23 million
+                         Submarine power cable       USD $ 83 million
+                         Urban Networks USD $169 million
+
+                                            TOTAL        USD $300 million USD$50 million               USD $125 million
+
+                         As with the previous loans to TEIAS, this proposed project cove rs a time slice of the investments
+                         required. Given the unpredictability of system access requests from system new/old users (in the face
+                         of the sustained demand growth showed in the last years), including new generators, the priorities
+Public Disclosure Copy
+
+
+
+
+                         around investments identified under this loan could change over time. Therefore, actual investments
+                         financed by this proposed loan may be different in the future contingent upon changes in priorities of
+                         the grid and market evolution. However, because of the contributio n expected from the CTF funds,
+                         CTF co-financed investments can only be replaced with CTF-eligible investments. In spite of this
+                         provision, the proposed investments can be changed if and only if they comprise subprojects
+                         originally listed under this proposed loan to build underground cables and/or to develop substations
+                         (GIS and open air) exclusive of those (and their specific equipment and systems) to serve the
+                         evacuation of renewable (wind) generation.
+                         D. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+                         TEIAS has identified a tentative list of investments within the scope of the new project. The list
+                         includes GIS substation installations, underground cable construction and a Phase II stage of an
+                         undersea cable (the first phase is being financed under ongoing APL 6 project). The projects will be
+                         realized in different provinces of the country, some of them could be listed as: Istanbul, Antalya,
+                         Urgup, etc.)
+                         E. Borrowers Institutional Capacity for Safeguard Policies
+                         The project will be implemented by TEIAS in its roles as the Transmission System Operator and
+                         Owner and Market Operator. TEIAS has been effective in supervising and monitoring individual
+                           sub-projects in accordance with the specifications of their EMPs which were prepared along with the
+                           procedures outlined in the framework documents. TEIAS is successfully implementing the APL 6
+                           project and previously had implemented APL 2 and 3. TEIAS is getting experienced for complying
+Public Disclosure Copy
+
+
+
+
+                           with WB's social safeguard policy (OP 4.12). Bank and TEIAS team also agreed that a training on
+                           OP 4.12 will be conducted to increase TEIAS' capacity (both in central and regional level) for
+                           implementing the requirements of the policy and providing necessary documentation to WB. TEIAS
+                           will need support and training for getting familiar with Natural Habitats (OP 4.04 ) Policy of the
+                           World Bank. Since, the area of influence for component 1 will not be limited to the footprints of the
+                           substations but it will also cover the areas that would be used for establishing the wind power plants
+                           which will be connected to the substations that would be financed by this project, TEIAS should
+                           make sure that the requirements of OP 4.04 are met. Bank will support TEIAS by conducting some
+                           baseline studies and rapid ecological/biodiversity assessments, which will provide an initial
+                           indication of whether there are any critical or important natural habitats within the areas of influence
+                           of the substations. These initial studies will be followed up with more detailed surveys by TEIAS as
+                           appropriate when they are preparing the EAs/EMPs for the sub-projects. WB will also offer
+                           safeguard training to TEIAS (SG training tailored for PIUs) which is planned for May 2013.
+                           F. Environmental and Social Safeguards Specialists on the Team
+                           Zeynep Durnev Darendeliler (ECSSO)
+                           Esra Arikan (ECSEN)
+
+                         II. SAFEGUARD POLICIES THAT MIGHT APPLY
+                           Safeguard Policies                   Triggered?       Explanation (Optional)
+                           Environmental Assessment OP/         Yes              Expected environmental impacts of the
+                           BP 4.01                                               proposed list of investments (substations,
+                                                                                 underground transmission lines and 1 undersea
+                                                                                 cable) are generation of dust, noise, disposal of
+                                                                                 non-hazardous waste (packing materials,
+Public Disclosure Copy
+
+
+
+
+                                                                                 vegetation from ROW clearing), construction of
+                                                                                 any access roads, and issues related to worker
+                                                                                 camps if any (water supply, sewage, and
+                                                                                 domestic waste disposal). Environmental
+                                                                                 impacts of a 4.5 km long undersea cable is
+                                                                                 expected to be temporary and short term on
+                                                                                 undersea/aquatic environment and marine
+                                                                                 traffic. Expected environmental issues
+                                                                                 associated with operation of the substations
+                                                                                 include electric and magnetic field strength. The
+                                                                                 project could be categorized as 'B' under OP
+                                                                                 4.01, as the types of potential impacts are
+                                                                                 limited and should be relatively easy to assess
+                                                                                 and mitigate through careful siting and good
+                                                                                 construction practices. It is planned to have an
+                                                                                 environmental review framework which will be
+                                                                                 prepared by the client and disclosed in country
+                                                                                 and in Infoshop before appraisal. As it will be
+                                                                                 detailed in the environmental framework it is
+                                                                 expected that sub-projects will be reviewed by
+                                                                 TEIAS for having national environmental
+                                                                 clearances and then necessary environmental
+Public Disclosure Copy
+
+
+
+
+                                                                 assessment documentation in line with OP 4.01
+                                                                 requirements will be completed by the client.
+                                                                 Sub-project partial EAs/EMPs will be submitted
+                                                                 to WB for prior review and after getting no-
+                                                                 objections these will be disclosed in client's
+                                                                 websites and will be included in the
+                                                                 corresponding bidding documents of the
+                                                                 investment projects.
+                         Natural Habitats OP/BP 4.04       Yes   The area of influence for the substations to be
+                                                                 financed under this project will not be limited to
+                                                                 the substation footprints. Since, the substations
+                                                                 are intended for connecting the energy produced
+                                                                 by wind power plants to the national grid,
+                                                                 TEIAS should also consider the potential
+                                                                 impacts of the the construction and operation of
+                                                                 these wind power plants on natural habitats. In
+                                                                 order to form a basis for screening high risk
+                                                                 areas (regarding OP 4.04) a Rapid Ecological
+                                                                 Assessment will be conducted. Results of the
+                                                                 assessment will guide TEIAS to finance
+                                                                 substations which are receiving energy from
+                                                                 wind power plants that are not creating any
+                                                                 significant adverse impacts on natural habitats
+                                                                 and that are not placed in critical natural
+                                                                 habitats. Issues related to natural habitats will be
+Public Disclosure Copy
+
+
+
+
+                                                                 detailed in the EAs and EMPs that will be
+                                                                 prepared for the substations.
+                         Forests OP/BP 4.36                No
+
+                         Pest Management OP 4.09           No
+
+                         Physical Cultural Resources OP/   Yes   Since sub-project specific civil works could
+                         BP 4.11                                 potentially be within a historic district, the
+                                                                 World Bank safeguard policy on Physical
+                                                                 Cultural Resources (OP/BP 4.11) is applicable
+                                                                 to these investments. For sub-projects in
+                                                                 recognized historic areas and/or involving
+                                                                 cultural property issues, the local authority of
+                                                                 Ministry of Culture and Tourism is responsible
+                                                                 for application of Turkish laws and regulations,
+                                                                 including those relating to cultural heritage. The
+                                                                 sub-borrower will be required to secure all
+                                                                 necessary permits and approvals from these
+                                                                 local authorities. For all sub-projects, whether
+                                                                or not they are in historic areas, any sub-project
+                                                                EMP/Mitigation Plan/Checklist will include
+                                                                procedures and responsibilities for managing
+Public Disclosure Copy
+
+
+
+
+                                                                accidentally discovered or chance find cultural
+                                                                artifacts. Consideration of such concerns is
+                                                                provided in the works contracts that will include
+                                                                requirements that the contractor is obliged to
+                                                                look for chance finds and immediately stop
+                                                                work at the contested location and alert
+                                                                responsible authorities in case of chance finds,
+                                                                and only continue works after official approvals
+                                                                from the responsible authorities are secured.
+                                                                Since the national regulations on the
+                                                                conservation of cultural properties are strict, it is
+                                                                not anticipated that any additional requirements
+                                                                would arise from the World Bank safeguard
+                                                                policies.
+                         Indigenous Peoples OP/BP 4.10    No
+
+                         Involuntary Resettlement OP/BP   Yes   The proposed list of investments (substations,
+                         4.12                                   underground transmission lines and 1 undersea
+                                                                cable) will require land acquisition, though
+                                                                exact locations are not known at the moment
+                                                                due to the designs not being finalized. The
+                                                                underground transmission lines are expected to
+                                                                be on public land, but the substations will likely
+                                                                acquire private land. The Resettlement Policy
+                                                                Framework (RPF) prepared by TEIAS for APL6
+Public Disclosure Copy
+
+
+
+
+                                                                and disclosed by TEIAS in June 2010 will be
+                                                                revised. The revised RPF will cover all possible
+                                                                involuntary project land use scenarios currently
+                                                                envisioned under this project. Special attention
+                                                                should be paid to potential linkages with
+                                                                associated facilities (i.e. wind farms) and the
+                                                                guidance provided in OP 4.12, paragraph 4 as
+                                                                well as any potential loss of livelihood
+                                                                (temporary or otherwise) to fishermen during
+                                                                the laying of the undersea cable. This RPF will
+                                                                be disclosed in country and in Infoshop before
+                                                                appraisal. For each sub-project TEIAS will
+                                                                prepare a RAP or ARAP (depending on the
+                                                                magnitude of impacts) that will need to be
+                                                                reviewed and cleared by the WB, and disclosed.
+                                                                All project affected people will be compensated
+                                                                at replacement value before any land acquisition
+                                                                takes place. In addition, OP 4.12 can apply to
+                                                                land acquisition that has been conducted under
+                                                                                                                                 ancillary components of the project, if these are
+                                                                                                                                 directly related, necessary to achieve objectives
+                                                                                                                                 and carried out contemporaneously. In addition,
+Public Disclosure Copy
+
+
+
+
+                                                                                                                                 if any land is acquired involuntarily before the
+                                                                                                                                 project but in anticipation of this project, social
+                                                                                                                                 audits of completed involuntary land acquisition
+                                                                                                                                 will be carried out in line with the objectives of
+                                                                                                                                 OP 4.12. If any significant gaps exist, a time
+                                                                                                                                 bound plan, satisfactory to the World Bank, will
+                                                                                                                                 be developed to address these gaps.
+                                 Safety of Dams OP/BP 4.37                                         No
+
+                                 Projects on International                                         No                            The laying of a submarine cable under the
+                                 Waterways OP/BP 7.50                                                                            Dardanelles does not require triggering of this
+                                                                                                                                 policy, as was confirmed by LEGEN in relation
+                                                                                                                                 to the first submarine cable established under
+                                                                                                                                 APL6. Adequate systems are in place to notify
+                                                                                                                                 ship traffic of the temporary closure of the Strait
+                                                                                                                                 which will be required for the cable laying.
+                                 Projects in Disputed Areas OP/BP No
+                                 7.60
+
+                         III. SAFEGUARD PREPARATION PLAN
+                               A. Tentative target date for preparing the PAD Stage ISDS: 02-Sep-2013
+                               B. Time frame for launching and completing the safeguard-related studies that may be needed.
+                                  The specific studies and their timing1 should be specified in the PAD-stage ISDS:
+                                      An environmental framework satisfactory to the World Bank was prepared under the previous
+Public Disclosure Copy
+
+
+
+
+                                      APL 2,3 and 6 projects, which included very similar investments (substations, underground cables
+                                      and an undersea cable). It is planned that these frameworks will be used as a basis for the
+                                      preparation of an environmental framework for this project. It is expected that it will be consulted
+                                      and disclosed to public in August/ September 2013. Sub-project specific environmental
+                                      assessment documents (most probably Category B partial assessments/EMPs) will be prepared
+                                      separately during project implementation when the detailed designs are being done, and shared
+                                      with WB for prior review and will be disclosed for local consultation. The Resettlement Policy
+                                      Framework prepared under APL 6 will be revised for this project. It is expected that consultations
+                                      and disclosure of the final Resettlement Policy Framework will proceed in tandem with the
+                                      Environmental Framework. Sub-project specific plans will be prepared during implementation to
+                                      be reviewed and cleared by the World Bank before any land acquisition occurs.
+                         IV. APPROVALS
+                                 Task Team Leader:                            Name: Sergio Augusto Gonzalez C
+
+                                 Approved By:
+                                 Regional Safeguards Name: Agnes I. Kiss (RSA)                                                                                                  Date: 27-Mar-2013
+                                 Coordinator:
+                                 Sector Manager:     Name: Ranjit J. Lamech (SM)                                                                                                Date: 25-Mar-2013
+
+
+                         1 Reminder: The Bank's Disclosure Policy requires that safeguard-related documents be disclosed before appraisal (i) at the InfoShop and (ii) in country, at publicly accessible locations and in a
+                          form and language that are accessible to potentially affected persons.
+

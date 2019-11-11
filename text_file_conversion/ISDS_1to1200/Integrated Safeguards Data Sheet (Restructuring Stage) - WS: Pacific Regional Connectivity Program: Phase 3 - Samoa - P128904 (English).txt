@@ -1,0 +1,433 @@
+﻿INTEGRATED SAFEGUARDS DATA SHEET
+RESTRUCTURING STAGE
+Note: This ISDS will be considered effective only upon approval of the project restructuring
+Report No.: ISDSR16174
+Date ISDS Prepared/Updated: 15-Dec-2015
+o
+Date ISDS Approved/Disclosed: 17-Dec-2015
+I. BASIC INFORMATION
+1. Basic Project Data
+Country:        Samoa                      Project ID:  P128904
+Project Name: WS: Pacific Regional Connectivity Program: Phase 3 - Samoa (P128904)
+Task Team       Natasha Beschorner
+Leader(s):
+Estimated       23-Apr-2015                Estimated    19-Jun-2015
+Appraisal Date:                            Board Date:
+Managing Unit: GT109                       Lending      Investment Project Financing
+Instrument:
+Sector:         Telecommunications (87%), Information technology (8%), Public
+administration- Information and communications (5%)
+Theme:          Infrastructure services for private sector development (90%), Regulation and
+competition policy (10%)
+Is this project processed under OP 8.50 (Emergency
+Recovery) or OP 8.00 (Rapid Response to Crises and                  No
+Emergencies)?
+O
+Financing (in USD Million)
+Total Project Cost:      49.94            Total Bank Financing:   16.00
+Financing Gap:            0.00
+o           Financing Source                                               Amount
+BORROWER/RECIPIENT                                               5.76
+IDA Grant                                                       16.00
+Asian Development Bank                                          18.50
+Local Sources of Borrowing Country                               8.18
+Pacific Regional Infrastructure Facility Trust Fund              1.50
+Total                                                           49.94
+Environmental B - Partial Assessment
+Category:
+Is this a       No
+Repeater
+project?
+Page 1 of 10
+
+
+﻿2. Current Project Development Objectives
+3. Project Description
+Q
+The Project is expected to finance a submarine fibre-optic cable linking Samoa (Savaii and Upolu) to
+Fiji (at the Southern Cross Cable Network at its landing station in Suva).
+Project Components are as follows:
+Component 1. Samoa-Fiji Cable, comprising the following:
+Component 1 (a) Submarine cable system. Design, supply and installation of a submarine cable
+system to connect Samoa (Upolu and Savai'i) to Fiji (Suva), including undertaking a marine survey,
+financing the cable manufacture and cable deployment-marine operations.
+Component 1 (b) Landing stations and ancillary equipment. Construction of landing stations and
+ancillary facilities in Savaii and Upolu, including acquisition and installation of onshore equipment.
+Component 1 (c) Additional costs. Financing of Indefeasible Rights of Use (IRUs) (including the
+acquisition of long-term landing services in Fiji and capacity) and management costs associated with
+the operation of the SSCC.
+Component 2. ICT Regulatory Technical Assistance. Carrying out a program of activities designed
+to enhance regulatory capacity of the Office of the Regulator, such program to include, inter alia: (a)
+review, development and implementation of effective regulation for the ICT sector with a particular
+focus on wholesale markets; (b) review (and update) of existing legal regulatory framework; and (c)
+carrying out a nationwide consumer survey on the benefits of ICT.
+Component 3. Project implementation and administration. Carrying out a program of activities
+designed to strengthen the capacity of the Recipient for Project transactional implementation and
+management, such program to include: (a) Project finance and transactional assistance in connection
+with the institutional design and operationalization of the SSCC pursuant to public private
+partnership arrangements; including independent appraisal of the proposed structure of SSCC; (b)
+overall Project coordination, financial and contract management, procurement, communications and
+outreach plus reporting, audit, monitoring and evaluation.
+Project Restructuring Update December 2015:
+A Restructuring Paper has been prepared. The purpose of restructuring is to add Limited
+International Bidding (LIB) to the list of eligible procurement methods under the Project. This is in
+response to a request from the Project Recipient, Ministry of Finance, Samoa, dated November 17,
+2015, for the use of Limited International Bidding (LIB) to procure a turnkey submarine cable
+system between Samoa and Fiji. The use of LIB as the selection method for this contract has also
+been agreed by the Project co-financier, the Asian Development Bank, as noted in the Memorandum
+of Understanding on co-financing and coordination arrangements for to the Project, dated October
+28, 2015. No other changes are proposed under this restructuring.
+The modifications proposed under this restructuring will not change the Project Development
+Objective (PDO), and the PDO will still be achieved with the activities being carried out under the
+Project components. No new activities are being proposed. There are no safeguards policies
+triggered by this change.
+Page 2 of 10
+
+
+﻿4. Project location and salient physical characteristics relevant to the safeguard
+analysis (if known)
+1.     Component 1 involves laying approximately 1,300 km of submarine fiber optic cable
+between Suva, Fiji and the islands of Upolu and Savaii in Samoa, and installation of one cable station
+in Samoa. The preferred cable landing site in Apia (Upolu) is situated at Fagali'i where the existing
+Samoa/American Samoa (SAS) - American Samoa-Hawaii (ASH) cable landing site and beach
+manhole (BMH) owned by BlueSky. The existing cable on Upolu runs from the landing site to a
+cable station over waterways and is therefore extremely vulnerable to flooding, which compromises
+Samoa's connectivity. A new cable station will be installed, away from rivers and low lying areas, to
+maintain the integrity of Samoa's communications system. A hardened duct is expected to be
+installed within the public road reserve from BMH. The anticipated route is eastwards for 2.2km
+along the Main East Coast Road, northward on Golf Course Road and then Plantation Road to a
+designated site (approximately 100-200sqm) on government-owned land at the Samoa Royal Golf
+Course, in an elevated area not vulnerable to flooding. A sublease arrangement is being pursued for a
+small demountable building that will secure the telecommunication plan and backup power
+equipment (containing diesel generator, batteries, etc).
+2.     The Project includes a spur to Savai'i, where a duct and beach manhole (BMH) will be
+constructed. This option enables the utilisation of a gap in the reef through which to bring the cable
+toward the shore. The most suitable landing site for the cable is on government land at the Malietoa
+Tanumafili II hospital in Tuasivi. A duct will extend from the newly constructed BMH (approx
+1 sqm) behind the chapel and along the road reserve to the existing BlueSky cable station. An
+additional 600mm rack will be installed inside the existing BlueSky cable station adjacent to the
+hospital.
+3.     In Fiji, the landing point will be the existing Vatuwaqa Communications Centre in Laucala
+Bay, Suva, the termination point for Southern Cross, Tonga and Vanuatu cables. There is capacity at
+the existing landing site and cable station operated by FinTel to accommodate an additional cable
+from Samoa and no major construction is necessary. Only short-term minor shoreline disturbance
+will be necessary to install the cable to the duct at the BMH. FinTel and the Samoan Submarine
+Cable Company will sign a landing party agreement which will be submitted to the Fijian
+Government, and FinTel will provide space within existing facilities for the connection. The IEE/
+ESIA includes a due diligence assessment of this landing station (Appendix 5)
+4. The main activities will be:
+(i)    a marine bathymetric survey to characterise the route (1-10km study corridor) to avoid
+known environmentally significant areas and other features with potential design or cable integrity
+implications such as canyons, seamounts and hydrothermal vents;
+(ii)   detailed design of the submerged infrastructure - the cable and repeaters. This will determine
+the cable route, cable types and quantities, and clarify the nature of its deployment on the seafloor -
+surface laying, or trenching and burial, supplementary protection, etc.
+(iii)  construction of a BMH (approx 1 sqm) at Tuasivi on Savai'i to land the cable at the Malietoa
+Tanumafili II hospital.
+(iv)   cable laying - the cable will be buried in the shallow water approaches to the landing sites
+and surface-laid along the deep water route. In most cases the cable will lie directly on the seabed.
+Near shore areas will require the cable to be buried up to one metre (by sea plough or hydro-jetting
+methods) to protect it from damage.
+Page 3 of 10
+
+
+﻿The Project will use the applicable safeguards policies of the World Bank (see triggered safeguard
+policies below) and Asian Development Bank (Safeguard Policy Statement, 2009). The safeguards
+process has built upon the implementation experience of the recently-commissioned Tonga-Fiji cable
+where no adverse social or environmental impacts were experienced during marine operations or
+O
+U         landing at Suva or Nuku'alofa.
+The safeguard instruments for this project were modelled on those prepared for the recently approved
+Federated States of Micronesia to Palau cable, which was also co-financed by the World Bank and
+Asian Development Bank, with improvements being made to instrument structure and clarity to
+further improve project delivery. The World Bank, in consultation with the Asian Development
+Bank, will take primary responsibility for review and clearance of safeguards instruments to ensure
+compliance with the safeguard policies of the two institutions..
+5. Environmental and Social Safeguards Specialists
+Nicholas John Valentine (GENDR)
+Ross James Butler (GSURR)
+6. Safeguard Policies   Triggered? Explanation (Optional)
+Environmental           Yes         This Project will finance the laying of a submarine fiber-
+Assessment OP/BP 4.01               optic cable system, with associated marine and land based
+infrastructure between Samoa and Fiji. The project
+influence area (PIA) includes terrestrial and marine
+environments in Samoa and Fiji. Potential adverse
+environmental impacts may include temporary site-
+specific disturbance of marine ecosystems (including
+habitats and species) and coastal areas and communities
+during installation and maintenance of the cable, and
+construction of the land and marine based infrastructure,
+which are expected to be temporary and readily
+manageable. The Project has been assigned a category
+"B" consistent with the anticipated nature of these impacts
+and the requirements of OP4.0 1. An Initial Environmental
+Examination (IEE) which corresponds with the Bank's
+Environmental and Social Impact Assessment (ESIA)
+requirements and associated Environmental and Social
+Management Plan (ESMP) has been prepared by the
+Government to address these issues in Samoa and Fiji.
+Natural Habitats OP/BP  Yes         The IEE/ESIA report identified that marine protected
+4.04                                areas did exist in Fiji and Samoa, but these were not in
+close proximity to the proposed cable route. The report
+identified that sensitive marine habitats (eg. Seagrass,
+coral and mangroves etc) exist in the vicinity of potential
+project impact areas (PIAs), however that these habitats
+do not exist close to the landing sites. Given the design
+flexibility available elsewhere along the routes, these
+habitats can be readily avoided. The ESMP provides
+management measures to ensure full compliance with this
+policy, and relevant national and international laws,
+Page 4 of 10
+
+
+﻿treaties and other obligations. The key mitigation measure
+will be avoidance of natural habitats through appropriate
+detailed design. The final design (including routing) and
+associated contractors ESMP will be submitted for Bank
+approval prior to commencement of works.
+Forests OP/BP 4.36       No            The project infrastructure will not impact on forests.
+Pest Management OP 4.09 No             The project will not include pest management.
+*          Physical Cultural        Yes          The ESIA/IEE concluded that Physical Cultural
+Resources OP/BP 4.11                   Resources (PCRs) do not exist within the PIA. As two of
+the three landing sites are at existing facilities (and hence
+will not require new infrastructure) PCRs are unlikely to
+be relevant. Regardless, a Chance Find Procedure is
+contained in the ESMP and be included in works
+contracts.
+Indigenous Peoples OP/   No           A country-level social analysis has been completed as part
+BP 4.10                                of preparation of the Environmental and Social Safeguard
+Procedures for the Pacific Island Countries. This analysis
+looked at the applicability of OP 4.10 in each PIC based
+on four criteria. OP 4.10 defines Indigenous Peoples
+based on four characteristics: (i) self-identification as
+members of a cultural group, (ii) collective attachment to
+habitats/territories, (iii) customary institutions, (iv) and
+indigenous language. All four characteristics must be
+present to trigger the policy. In Samoa, virtually all of the
+population is ethnic Samoan and there are no significant
+ethnic cleavages among them; therefore, they do not self-
+identify as members of a distinct indigenous cultural
+group within their own country. Similarly there are no
+customary cultural, economic, social or political
+institutions that are separate from the dominant society
+and culture because they are the dominant society and
+culture. There also is no indigenous language different
+from the official language of the country. Based on this
+analysis, OP 4.10 is not typically triggered in Samoa.
+Despite the absence of some of the key criteria, because
+of the relatively high salience of ethnic identification and
+inter-ethnic relationships in Fiji, the Policy may be
+triggered in Fiji under certain circumstances. However
+given that there are no impacts affecting land or shared
+resources, OP4.10 will not be triggered in Fiji.
+Involuntary Resettlement Yes           Two of the three landing sites are at existing cable landing
+OP/BP 4.12                             stations. New infrastructure includes installation of ducts
+in narrow channels to connect the cable to landing sites
+and cable stations (30cm width and Im deep approx).
+Based on due diligence, all land for duct routes is
+expected to be government-owned including public road
+Page 5 of 10
+
+
+﻿reserves, the hospital in Savaii and Royal Samoa Golf
+Course at Fagalii near the domestic airport. The landing
+site at Suva is currently under Crown lease to FinTel and
+no additional land will be required. The IEE/ESIA
+identified two fishing reserves in proximity to landing
+sites in Samoa, and two in Laucala Bay at the Fiji end.
+The IEE/ESIA includes consideration of social issues
+including whether there are any potential impacts to
+customary rights over near shore areas. Any potential
+impacts are anticipated to be extremely limited, very
+short term in nature (i.e. one day) and can be mitigated
+through providing adequate notification to nearby fishers
+and villages. An RPF has been included as part of the
+IEE/ESIA to address issues which may emerge during
+detailed design including (i) use of a site other than the
+hospital site in Savai (which is considered by the IEE);
+(ii) any impacts on streetside stalls, trees or other
+livelihood implications as a result of the communication
+ducts. .
+Safety of Dams OP/BP    No          The project scope does not include dams.
+4.37
+Projects on International  No       The project entails construction of a submarine cable
+Waterways OP/BP 7.50                between the territorial waters (ocean) of Samoa and Fiji.
+However, these water bodies do not form a boundary
+between countries.
+Projects in Disputed    No          There are no disputed areas within the scope of project
+Areas OP/BP 7.60                    implementation.
+O
+S     II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+O
+1. Describe any safeguard issues and impacts associated with the Restructured project.
+Identify and describe any potential large scale, significant and/or irreversible impacts:
+The project influence area (PIA) includes terrestrial and marine environments in Samoa and Fiji.
+Potential adverse environmental impacts may include temporary site-specific disturbance of
+marine ecosystems (including habitats and species) and coastal areas and communities during
+installation and maintenance of the cable, and construction of the land and marine based
+infrastructure, which are expected to be temporary and readily manageable.
+Two of the three landing sites are at existing cable landing stations. New infrastructure includes
+installation of ducts in narrow channels to connect the cable to landing sites and cable stations
+(30cm width and Im deep approx). Based on due diligence, all land for duct routes is expected to
+be government-owned including public road reserves, the hospital in Savaii and Royal Samoa Golf
+Course at Fagalii near the domestic airport. The landing site at Suva is currently under Crown
+lease to FinTel and no additional land will be required.
+The IEE identifies that sensitive marine habitat (eg. Seagrass, coral and mangroves etc) exist in the
+Page 6 of 10
+
+
+﻿vicinity of potential project impact areas (PIAs), however that these habitats do not exist close to
+the landing sites. Given the design flexibility available along the routes, these habitats can be
+readily avoided.
+O
+The submarine cable will be buried in shallow water approaches to the landing sites and will be
+surface-laid on the seabed along the deep water route. Cable installation has the potential for some
+disturbance in near shore environments where burial techniques are employed and where the cable
+route passes through coral reef environments; however surface-laid sections in deeper water are
+unlikely to cause any significant impact.
+The Project will take into account the implementation experience of the recently-commissioned
+Tonga-Fiji cable, co-financed by the World Bank and Asian Development Bank. No adverse social
+or environmental impacts were experienced during marine operations or landing at Suva or
+Nuku'alofa, and no major adverse or irreversible impacts are expected for Samoa or Suva.
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+in the project area:
+The Project will only result in temporary environmental impacts during construction phase. No
+indirect or long term impacts are anticipated based on the experience of similar Bank funded cable
+projects in the region. Direct impacts resulting from construction activities for the Project will be
+minimal, localised to near-shore areas where the cable is landed, and easily mitigated as guided by
+the ESMP.
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+impacts.
+The ESIA/IEE considered alternative routes in nearshore areas for landing sites. The selected
+sites and routing were assessed and chosen based on economic, technical and environmental
+grounds. Route options will be further analyzed during the detailed design stage which will be
+further informed by a marine bathymetric survey and more detailed technical input.
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+assessment of borrower capacity to plan and implement the measures described.
+An Initial Environmental Examination (IEE) which corresponds with the Bank's Environmental
+and Social Impact Assessment (ESIA) requirements and associated Environmental and Social
+Management Plan (ESMP) has been prepared by the Government. The exact cable route will be
+determined by a detailed marine bathymetry survey at the design stage to characterise the route to
+avoid environmentally significant areas (where known) and other features with potential design or
+cable integrity implications such as canyons, seamounts and hydrothermal vents. The route
+selection and use of Government owned land will also reduce any potential land or livelihood
+impacts.
+An RPF has been included as part of the IEE/ESIA to address issues which may emerge during
+detailed design including (i) use of a site other than the hospital site in Savai (which is considered
+by the IEE); (ii) any impacts on streetside stalls, trees or other livelihood implications as a result of
+the communication ducts.
+A PMU located in MoF will have overall responsibility to ensure safeguard compliance in the
+preparatory phase and will work in collaboration with key agencies with regard to safeguard
+requirements. MoF has experience with ADB and World Bank projects and safeguard
+requirements. The Ministry of Communications and Information Technology (MCIT) is the lead
+Page 7 of 10
+
+
+﻿agency for communications networks and infrastructure in Samoa. MCIT previously delivered the
+Samoa National Broadband Highway (SNBH) Project and worked with LTA, PUMA and other
+agencies for the installation of cable stations and duct routes on government land. Although the
+ministry faces some capacity constraints, MCIT has relevant experience in gaining development
+O
+consent and approval for similar infrastructure developments andSamoa has competent
+environmental compliance staff (MNRE's PUMA) with adequate capacity to fulfil their role in
+project delivery.
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+on safeguard policies, with an emphasis on potentially affected people.
+Consultations were undertaken with various stakeholder groups (potentially affected
+communities etc) and documented in the IEE/ESIA report. Consultation on the Project took place
+in Samoa in March 2015 with key stakeholder groups and villages in proximity to landing sites to
+inform the IEE/ESIA process and assessment (including confirmation of preferred site locations).
+Only key stakeholder consultation was undertaken by MCIT and FinTel in Fiji (not community
+consultation) regarding the Suva landing site since there will be extremely minor works required.
+Consultation was carried out in March 2015 with the key Government agencies which FinTel
+deals with on a regular basis in respect of various cables it manages.. Further consultations with
+targeted stakeholders will be led by FinTel and MCIT regarding development consent, permits for
+construction activities, formal public notification of Project activities and to secure formal land
+leasing and subleasing agreements. The details of these consultations are documented in Annex 2
+of the IEE/ESIA. The IEE/ESIA outlines grievance procedures adhering to cultural formalities in
+Samoa, Code of Environmental Practice 3 (COEP3) and World Bank public consultation and
+information disclosure requirements. The IEE/ESIA report and ESMP has been disclosed locally
+in Samoa and also via the World Bank's Infoshop in April 2015.
+B. Disclosure Requirements
+Environmental Assessment/Audit/Management Plan/Other
+Was the document disclosed prior to appraisal?
+Date of receipt by the Bank                              09-Apr-2015
+Date of submission to InfoShop                           10-Apr-2015
+For category A projects, date of distributing the Executive  00000000
+Summary of the EA to the Executive Directors
+"In country" Disclosure
+Fiji                                                     16-Apr-2015
+Comments:
+Samoa                                                    10-Apr-2015
+Comments:
+Resettlement Action Plan/Framework/Policy Process
+Was the document disclosed prior to appraisal?
+Date of receipt by the Bank                              09-Apr-2015
+Date of submission to InfoShop                           10-Apr-2015
+"In country" Disclosure
+Samoa                                                    13-Apr-2015
+Comments:
+Page 8 of 10
+
+
+﻿If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please explain why:
+C. Compliance Monitoring Indicators at the Corporate Level
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP)  Yes [  ] No [  ]  NA[     ]
+report?
+OP/BP 4.04 - Natural Habitats
+Would the project result in any significant conversion or  Yes [  ] No [  ]  NA [    ]
+degradation of critical natural habitats?
+If the project would result in significant conversion or  Yes [  ] No [   ]  NA [    ]
+degradation of other (non-critical) natural habitats, does the
+project include mitigation measures acceptable to the Bank?
+OP/BP 4.11 - Physical Cultural Resources
+Does the EA include adequate measures related to cultural  Yes [  ] No [  ]  NA [    ]
+property?
+Does the credit/loan incorporate mechanisms to mitigate the  Yes [  ] No [  ]  NA [  ]
+potential adverse impacts on cultural property?
+OP/BP 4.12 - Involuntary Resettlement
+Has a resettlement plan/abbreviated plan/policy framework/  Yes [  ] No [  ]  NA [   ]
+process framework (as appropriate) been prepared?
+If yes, then did the Regional unit responsible for safeguards or Yes [  ] No [  ]  NA [  ]
+Practice Manager review the plan?
+Is physical displacement/relocation expected?            Yes [  ]  No [   ]  TBD
+Provided estimated number of people to be affected
+Is economic displacement expected? (loss of assets or access to Yes [ ] No [ ] TBD [ ]
+*          assets that leads to loss of income sources or other means of
+livelihoods)
+Provided estimated number of people to be affected
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the  Yes [  ]  No [  ]  NA [  ]
+World Bank's Infoshop?
+Have relevant documents been disclosed in-country in a public Yes [ ] No [ ] NA [ ]
+place in a form and language that are understandable and
+accessible to project-affected groups and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional  Yes [  ] No [  ]  NA [  ]
+responsibilities been prepared for the implementation of
+measures related to safeguard policies?
+Page 9 of 10
+
+
+﻿Have costs related to safeguard policy measures been included Yes [ ] No [ ] NA [ ]
+in the project cost?
+Does the Monitoring and Evaluation system of the project  Yes [  ] No [  ]  NA [  ]
+include the monitoring of safeguard impacts and measures
+related to safeguard policies?
+Have satisfactory implementation arrangements been agreed  Yes [  ] No [  ]  NA [  ]
+with the borrower and the same been adequately reflected in
+the project legal documents?
+III. APPROVALS
+Task Team Leader(s): Name: Natasha Beschorner
+Approved By
+Safeguards Advisor:   Name: Peter Leonard (SA)                 Date: 16-Dec-2015
+Practice Manager/     Name: Tenzin Dolma Norbhu (PMGR)         Date: 17-Dec-2015
+Manager:
+Page 10 of 10
+
+

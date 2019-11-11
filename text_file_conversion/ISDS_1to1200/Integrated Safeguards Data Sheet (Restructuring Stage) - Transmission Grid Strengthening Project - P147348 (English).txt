@@ -1,0 +1,776 @@
+                                                 INTEGRATED SAFEGUARDS DATA SHEET
+                                                       RESTRUCTURING STAGE
+                                          Note: This ISDS will be considered effective only upon approval of the project restructuring
+Public Disclosure Copy
+
+
+
+
+                                                                                                              Report No.: ISDSR17394
+                         Date ISDS Prepared/Updated: 27-Jul-2016
+                         Date ISDS Approved/Disclosed: 27-Jul-2016
+                         I. BASIC INFORMATION
+                            1. Basic Project Data
+
+                            Country:            Georgia                                      Project ID:           P147348
+                            Project Name:       Transmission Grid Strengthening Project (P147348)
+                            Task Team           Joseph Melitauri
+                            Leader(s):
+                            Estimated           25-Mar-2014             Estimated     13-May-2014
+                            Appraisal Date:                             Board Date:
+                            Managing Unit:    GEE03                     Lending       Investment Project Financing
+                                                                        Instrument:
+                            Is this project processed under OP 8.50 (Emergency
+                            Recovery) or OP 8.00 (Rapid Response to Crises and                      No
+                            Emergencies)?
+                            Financing (in USD Million)
+                            Total Project Cost:        61.88           Total Bank Financing:      60.00
+                            Financing Gap:              0.00
+Public Disclosure Copy
+
+
+
+
+                                Financing Source                                                 Amount
+                              Borrower                                                                                               1.88
+                              International Bank for Reconstruction and Development                                                 60.00
+                              Total                                                                                                 61.88
+                            Environmental A - Full Assessment
+                            Category:
+                            Is this a           No
+                            Repeater
+                            project?
+
+                            2. Current Project Development Objectives
+
+
+                            3. Project Description
+                           The Transmission Grid Strengthening (TGS) Project will: (i) provide transmission services to the
+                           newly constructed hydropower station, (ii) improve stability of the south-western part of the
+                           transmission grid, (ii) establish power exchange platform, and (iii) assess the environmental impact
+                           of the sector strategy.
+
+
+                                                                                 Page 1 of 14
+                         Component 1. Transmission System Strengthening. This component finances construction of a high
+                         voltage transmission line from Akhaltsikhe to Batumi. As a result of restructuring, it will provide
+Public Disclosure Copy
+
+
+
+
+                         resources for; (i) rehabilitation and upgrade of the three 220 kV lines; Sataplia, Ajameti-1,2 and
+                         Kolkhida-1, (ii) rehabilitation of four substations; Menji; Tskaltubo, Kutaisi and Zestaponi, and (iii)
+                         the upgrade of the Supervisory Control and Data Acquisition and Energy Management Systems
+                         (SCADA/EMS).
+
+                         This component originally had three activities:
+                         i)       Construction of a high voltage transmission line, including the supply and installation of a
+                         double-circuit 220 kV TL from Akhaltsikhe back-to-back (BTB) and 500/400/220 kV substation
+                         (Akhaltsikhe station) to Batumi 220 kV substation. It will connect with the two hydro power plants
+                         (HPPs): 175 MW Shuakhevi HPP and 150 MW Koromkheti HPP. The estimated length of the TL is
+                         142 km. It is composed of two sections: Section 1 is a 91 km TL from Shuakhevi HPP to Akhaltsikhe
+                         station and Section 2 is a 52 km TL from Batumi substation to Shuakhevi HPP via Koromkheti HPP.
+
+                         ii)     Construction supervision through procurement of consultant services for the supervision of
+                         the supply and installation of Akhaltsikhe-Batumi TL and
+
+                         iii)     Evaluation of bids through procurement of consultant services for evaluating of bids for
+                         works on Akhaltsikhe-Batumi TL, as well as procurement of consultant services for the preparation
+                         of (a) new transmission-system expansion plan, (b) prospective transmission line feasibility studies,
+                         and (c) basic designs for the prospective transmission.
+
+                         The proposed restructuring will add fourth activity: rehabilitation and upgrade of the 220 kV
+                         substations Menji, Tskaltubo, Kutaisi, and Zestaponi, and of the 220 kV TLs connecting them. This
+                         will include provision of goods and equipment for rehabilitation and upgrade the total 102 km of the
+                         three 220 kV transmission lines; (i) Sataplia line connecting high voltage substations Tskaltubo and
+                         Kutaisi, (ii) Ajameti line connecting substations Kutaisi and Zestaponi, and (iii) Kolkhida line
+Public Disclosure Copy
+
+
+
+
+                         connecting substations Menji and Kutaisi and provision of protection and control equipment for the
+                         four substations; Menji, Tskaltubo, Kutaisi and Zestaponi. The goods and equipment include towers,
+                         foundations, conductors, Optical Ground Wire (OPGW), fittings, steel structures and protections and
+                         control equipment, and spare parts for the substations. Rehabilitation and upgrade will entail; (a)
+                         replacing the existing 15 km single circuit 220 kV transmission line from Tskaltubo to Kutaisi with
+                         220 kV double circuit line; (b) replacing of the existing 21 km 220 kV single circuit line between
+                         Kutaisi and Zestaponi substations with 220 kV double circuit line; (c) rehabilitating the existing 66
+                         km 220 kV single circuit line between substations Menji and Kutaisi; and (d) installation of the
+                         protection and control equipment in the substations Menji, Tskaltubo, Kutaisi, and Zestaponi. The
+                         fourth, new activity, will be carried out by GSE.
+
+                         Component 2. Wholesale Power Exchange Platform. This component finances provision of hardware
+                         and software for the power exchange systems. It has two activities:
+                         i)      Supply and installation of power exchange platform which includes hardware and software
+                         for metering, balancing, and trading systems, and
+
+                         ii)     Preparation of the design and supervision for the above platform.
+
+                         The proposed restructuring will provide resources for updating the SCADA/EMS.
+
+
+
+                                                                      Page 2 of 14
+                         Component 3. Strategic Environmental and Social Assessment. This component finances preparation
+                         of the Strategic Environmental and Social Assessment report.
+Public Disclosure Copy
+
+
+
+
+                         No change in this activity is proposed.
+
+                         Component 4. Project Management. This component finances Georgian State Electrosystem (PIU)
+                         for the effective project management.
+
+                         No change in this activity is proposed.
+                          4. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+                         Most part of the Akhaltsikhe-Batumi transmission line corridor, being financed by the original
+                         project, passes through the Autonomous Republic of Adjara, and the rest of it is located in Adigeni
+                         and Akhaltsikhe provinces of Samtskhe-Javakheti region of Georgia. Part of the corridor gets pretty
+                         close to the Georgia's State border with Turkey. The transmission line will connect the town of
+                         Akhaltsikhe - located on the plateau of semi-arid hills with continental climate, to Batumi - a sea port
+                         and beach resort on the Back Sea coast. The line will get over the Goderdzi mountain pass located
+                         2025 meters over the sea level. The corridor will pass through highly diverse types of terrain, ranging
+                         from alpine meadows to subtropical forests and the coastal zone. These areas include populated and
+                         cultivated parcels of land, pastures, as well as parts remote and minimally transformed forests.
+
+                         The proposed restructuring will finance rehabilitation and upgrade of the existing transmission lines
+                         and substations located in Imereti region, West Georgia. The rehabilitation will be carried out within
+                         the existing TL corridor. No new land take or relocation of towers is expected. However, should
+                         there be any cases requiring land acquisition for the new component, GSE will prepare site-specific
+                         as per the projects RPF.
+                          5. Environmental and Social Safeguards Specialists
+Public Disclosure Copy
+
+
+
+
+                         Darejan Kapanadze (GEN03)
+                         Jorge E. Villegas (GSU03)
+
+                          6. Safeguard Policies       Triggered? Explanation (Optional)
+                          Environmental               Yes            TGS Project supports construction of a new power
+                          Assessment OP/BP 4.01                      transmission line (TL) between Batumi and Akhaltsikhe
+                                                                     in a difficult terrain, including forested areas and river
+                                                                     crossings, rural settlements, and cultivated land plots.
+                                                                     Certain sections of this TL alignment may overlap with
+                                                                     bird migratory routes. Rehabilitation and upgrade of TLs
+                                                                     and substations in Imereti region to be financed after
+                                                                     restructuring will have considerably lesser negative
+                                                                     environmental and social impacts. The Project triggers
+                                                                     OP/BP 4.01 and according to this Policy, is classified as
+                                                                     an Environmental Category A, however additional works
+                                                                     included after restructuring will be handled as
+                                                                     environmental category B due to considerable lesser risks
+                                                                     and expected impacts.
+
+
+
+
+                                                                      Page 3 of 14
+                                                        The Borrower financed Environmental and Social Impact
+                                                        Assessment (ESIA) of the construction of Batumi-
+                                                        Akhaltsikhe TL, and environmental and social
+Public Disclosure Copy
+
+
+
+
+                                                        management planning for the rehabilitation of Sataplia,
+                                                        Ajameti-1, 2 and Kolkhida-1 TLs, as well as of the
+                                                        Kutaisi, Zestaponi and Tskaltubo substations. ToR of
+                                                        works on the Batumi-Akhaltsikhe TL was publicly
+                                                        disclosed and discussed with stakeholders. Draft ESIA
+                                                        report for this TL as well as Environmental and Social
+                                                        Management Plan for rehabilitation of Sataplia,
+                                                        Ajameti-1, 2, and Kolkhida-1 TLs were also disclosed and
+                                                        consultation meetings held. Safeguard documents were
+                                                        finalized afterwards with incorporation of the public
+                                                        feedback.
+
+                                                        The construction of Akhaltsikhe-Batumi TL is subject to
+                                                        the EIA, State ecological expertize, and environmental
+                                                        permitting as per the national legislation, while
+                                                        reconstruction of Ajameti-1, 2, Sataplia and Kolkhida TLs
+                                                        is not subject to ecological expertize. The Borrower is
+                                                        expected to fully meet all requirements of the Georgian
+                                                        law.
+
+                                                        Works required for the rehabilitation and upgrade of
+                                                        Sataplia, Ajameti-1,2 and Kolkhida-1TLs and Menji,
+                                                        Kutaisi, Zestaponi, and Tskaltubo substations were
+                                                        screened for their potential environmental and social
+                                                        risks. Potential negative impacts of these work were found
+Public Disclosure Copy
+
+
+
+
+                                                        minimal because all of them will be undertaken within the
+                                                        existing environmental footprint. Main types of works to
+                                                        be performed are: replacement of towers (new ones to be
+                                                        of the same size and to be located in the same corridor),
+                                                        stringing between them, and installation of additional
+                                                        equipment in the existing substations within fenced
+                                                        territories of these substations. Potential impacts are
+                                                        confined to those that may happen in case of applying
+                                                        generally improper construction practice: poor technical
+                                                        condition and inadequate operation of construction
+                                                        vehicles and machinery, disorganized disposal of
+                                                        construction waste, and neglect of work-site safety rules.
+                                                        Mitigation measures for such possible impacts are
+                                                        conventional, easy to apply and to monitor, and all of
+                                                        them are included into the Environmental Management
+                                                        Plan.
+                         Natural Habitats OP/BP   Yes   OP/BP 4.04 Natural Habitats is triggered by original
+                         4.04                           project because about 10 km long lower section of the
+                                                        Akhaltsikhe-Batumi TL alignment falls within the
+
+
+
+                                                         Page 4 of 14
+                                                      important international migratory corridor of birds, out of
+                                                      which the potential impacts of the TL construction and
+                                                      operation may be significant within 5-6 km segment,
+Public Disclosure Copy
+
+
+
+
+                                                      where birds are known to fly closer to the earth surface.
+                                                      The original project is expected to have modest impact on
+                                                      the forest habitats as well.
+
+                                                      There is no additional impact on natural habitats that may
+                                                      be caused by the activities to be included into TGS
+                                                      Project after restructuring. The safeguard policy will
+                                                      remain triggered due to the originally planned activities.
+                         Forests OP/BP 4.36     Yes   Significant part of the Akhaltsikhe-Batumi TL corridor
+                                                      that is being constructed under original project passes
+                                                      through forested areas. Placement of towers and
+                                                      arrangement of service roads require tree cutting. Natural
+                                                      forests, predominantly located on mountain slopes, will
+                                                      therefore be affected. A land strip under the power cables
+                                                      shall be maintained free of high-growing vegetation
+                                                      throughout operation of the TL. OP/BP 4.36 Forests is
+                                                      triggered to address risks associated with the expected
+                                                      impacts of the original project on the forest stands.
+
+                                                      Additional activities proposed through restructuring will
+                                                      have no additional impact on forests, as the rehabilitated
+                                                      and upgraded lines will remain within the right of way
+                                                      (ROW) of the existing lines. The safeguard policy will
+                                                      remain triggered due to the originally planned activities.
+                         Pest Management OP 4.09 No   OP 4.09 Pest Management was not triggered under
+Public Disclosure Copy
+
+
+
+
+                                                      original project, because ESIA confirmed that no
+                                                      herbicides will be used during construction and operation
+                                                      of the TL with the purpose of clearing and/or controlling
+                                                      vegetation.
+
+                                                      It will not be triggered upon restructuring either, because
+                                                      the ESMP developed for the additional works confirms
+                                                      that there will be no herbicide use for the purposes of
+                                                      operating Sataplia, Ajameti-1, 2, and Kolkhida-1 TLs
+                                                      either.
+                         Physical Cultural      Yes   Akhaltsikhe-Batumi TL will pass the area with a number
+                         Resources OP/BP 4.11         of registered historic monuments. Although the TL is
+                                                      designed the way to avoid direct impacts on the these
+                                                      cultural assets, a need for the construction and operation
+                                                      of service roads, construction camps and other supporting
+                                                      infrastructure carries certain risk of negative impacts.
+                                                      Also, there is a likelihood of encountering chance finds
+                                                      during earth works required for the construction of towers
+                                                      under original project. OP/BP 4.11 Physical Cultural
+
+
+                                                       Page 5 of 14
+                                                        Resources was triggered by the original Project to manage
+                                                        any possible impacts on the cultural property.
+Public Disclosure Copy
+
+
+
+
+                                                        No such impacts are expected from works to be financed
+                                                        through restructuring. However, the safeguard will remain
+                                                        triggered due to the originally planned activities.
+                         Indigenous Peoples OP/   No
+                         BP 4.10
+                         Involuntary Resettlement Yes   GSE carried out ESIA for the construction of the
+                         OP/BP 4.12                     Akhaltsikhe-Batumi TL, which included analysis of
+                                                        alternatives to ensure minimal physical and economic
+                                                        displacement of people. However, some economic and
+                                                        physical displacement was unavoidable and for this
+                                                        reason GSE prepared a Resettlement Policy Framework
+                                                        (RPF) and six separate Resettlement Action Plans (RAPs)
+                                                        in line with Bank policy and the national regulations.
+                                                        Some RAPs have been updated to reflect the fact that
+                                                        during the micro-alignment design by the Construction
+                                                        Contractor further impacts and risks were avoided. These
+                                                        RAPs have been received No Objection from the Bank
+                                                        and are being implemented. To date GSE has
+                                                        demonstrated commitment and capacity to manage risks
+                                                        and impacts associated to land take and resettlement.
+                                                        There is a Grievance Redress Mechanism in place being
+                                                        managed by GSE in coordination with local
+                                                        municipalities. The Bank coordinates with GSE as needed
+                                                        to respond to questions and complaints received directly
+                                                        by the Bank. To date only one complaint has been
+Public Disclosure Copy
+
+
+
+
+                                                        received directly by the Bank from the Adjaristskali
+                                                        village regarding land acquisition and it is being
+                                                        addressed.
+
+                                                        Regarding the activities under the proposed restructuring,
+                                                        including the rehabilitation and upgrade of Sataplia,
+                                                        Ajameti-1, 2 and Kolkhida-1 TLs as well as of the Menji,
+                                                        Kutaisi, Tskaltubo and Zestaponi substations will be
+                                                        carried out within the existing corridor of TLs and fenced
+                                                        territories of the existing substations, and therefore no
+                                                        land acquisition or economic of physical displacement
+                                                        resettlement is expected. Should there be any need for
+                                                        land acquisition of land the Borrower will prepare RAPs
+                                                        as per the projects RPF.
+                         Safety of Dams OP/BP    Yes    TGS Project - neither originally nor after restructuring -
+                         4.37                           includes any physical activities on dams and is not
+                                                        directly dependent on the safe operation of dams,
+                                                        however, construction of HPPs associated with TL entails
+                                                        placement of two large dams with the height of 22m and
+
+
+                                                         Page 6 of 14
+                                                                       39m and the OP 4.37 is triggered. The Bank team
+                                                                       reviewed arrangements in place for ensuring dam safety
+                                                                       under the IFC-supported Adjaristskali Cascade Project
+Public Disclosure Copy
+
+
+
+
+                                                                       and will track how the quality control will actually work
+                                                                       at the dams design, construction and operation phases as
+                                                                       activities for the arrangement of HPP reservoirs progress.
+                                                                       The restructured project activity does not include any
+                                                                       additional physical activity on dams. The safeguard will
+                                                                       remain triggered due to original project activity.
+                            Projects on International   No             TGS Project - neither originally not after restructuring -
+                            Waterways OP/BP 7.50                       will trigger OP 7.50. Three HPPs to be constructed under
+                                                                       the associated Adjaristskali Cascade Project, under
+                                                                       original project, will abstract water from the rivers of
+                                                                       Chorokhi basin that drains into the Black Sea in the
+                                                                       territory of Georgia. Construction of these HPPs will not
+                                                                       have any trans-boundary impacts. The activities under
+                                                                       restructured project will have no impact on rivers,
+                                                                       therefore the safeguard will not be triggered.
+                            Projects in Disputed        No
+                            Areas OP/BP 7.60
+
+                         II. Key Safeguard Policy Issues and Their Management
+                             A. Summary of Key Safeguard Issues
+                            1. Describe any safeguard issues and impacts associated with the Restructured project.
+                              Identify and describe any potential large scale, significant and/or irreversible impacts:
+                                The TGS Project supports construction of a new Akhaltsikhe-Batumi TL, most part of which will
+                              pass through the Autonomous Republic of Adjara, and the rest of it will be located in Adigeni and
+Public Disclosure Copy
+
+
+
+
+                              Akhaltsikhe provinces of Samtskhe-Javakheti region of Georgia. Part of the TL corridor gets
+                              pretty close to the Georgia's State border with Turkey. The transmission line will connect the town
+                              of Akhaltsikhe - located on the plateau of semiarid hills with continental climate, to Batumi - a sea
+                              port and beach resort on the Back Sea coast. The line will get over the Goderdzi mountain pass
+                              located 2025 meters over the sea level. The corridor passes through the highly diverse types of
+                              terrain, ranging from alpine meadows to subtropical forests and the coastal zone. These areas
+                              include populated and cultivated parcels of land, pastures, as well as parts remote and minimally
+                              transformed forests.
+
+                              Despite proximity to several designated protected areas, historic monuments, an evolving skiing
+                              resort, and numerous human settlements, works in the TL corridor will not affect these protected
+                              areas, will not destroy or fragment significant natural habitats, will have the least negative impact
+                              on the aesthetic appearance of the landscapes, and will carry minimal needs of resettlement. The
+                              selected most optimal alignment of Akhaltsikhe-Batumi TL still has a few kilometers overlap with
+                              a sensitive section of an international migratory corridor of birds, where the only option is to
+                              design the TL towers and conductors applying best practice features to reduce the likelihood of
+                              bird collisions and electrocutions. This will include placing of conductors within the distance
+                              established to avoid electrocutions while perching, and equipping the cables with bird reflectors to
+                              increase their visibility and rescue collisions. Bird monitoring will be ensured at Akhaltsikhe-
+                              Batumi TL operation phase to check bird mortality rate, verify effectiveness of mitigation, and
+
+                                                                         Page 7 of 14
+                         determine the need for additional measures. Mitigation of the construction-phase negative impacts
+                         will be possible by applying conventional good environmental practice and strong supervision of
+                         works. In addition to that, the humid subtropical climate of the Autonomous Republic of Adjara
+Public Disclosure Copy
+
+
+
+
+                         provides favorable conditions for a rapid natural regeneration of a number of construction impacts
+                         in most parts of the Project area.
+
+                         Adjaristskali Cascade Project is an ongoing activity for the construction of four HPPs in the
+                         Autonomous Republic of Adjara, implemented with financial participation of IFC, MIGA and
+                         EBRD, which is associated with the construction of TL. Namely, TL will evacuate power
+                         generated in the four HPPs under construction. In accordance with IFC Access to Information
+                         Policy, early drafts of the ESIA of Adjaristskali Cascade Project were disclosed at IFC's website
+                         on May 24, 2013. Updated ESIA documents were re-disclosed on October 3, 2013 along with an
+                         Environmental and Social Summary prepared by IFC. The Banks Task Team preparing the TGS
+                         Project reviewed the Environmental and Social Impact Assessment (ESIA) report, Environmental
+                         and Social Management Plan, Construction Environmental Management Plan, Resettlement Plan
+                         and several other thematic management plans developed for Adjaristskali Cascade Project, and
+                         was satisfied to see that all important environmental, social, and cultural heritage aspects related to
+                         the Cascade Project are covered in these reports and it received clarifications as required. The WB
+                         has been in close contact with IFC and shared information about community complaints and how
+                         they are being addressed.
+
+                         IFC requires that AGL maintains in-house environmental staff and also hires a technical
+                         supervisor (Owner's Engineer) or tacking compliance of construction contractor performance with
+                         IFC's Performance Standards. Environmental Manager of Owner's Engineer will undertake
+                         internal auditing of work at least quarterly. IFC, ADB, and EBRD, in the capacity of lenders, may
+                         require independent external monitoring of works by an industrial environmental management
+                         specialist every six months. MIGA, as a provider of financial guarantee to the project owner, will
+                         also track environmental and social performance of the Adjaristskali Cascade Project. The Bank
+                         maintains dialog with IFC be up-to-date on the status of project adherence with the Performance
+Public Disclosure Copy
+
+
+
+
+                         Standards and will receive environmental audit reports on regular basis. Joint supervision of the
+                         associated projects of TGS and Adjaristskali Cascade may also be considered, as suggested by
+                         IFC.
+
+                         IFC has hired a lender's environmental and social monitor which undertakes quarterly reviews
+                         comprising alternating site visit and desk review. There have been audits/review beyond the
+                         monitor reviews including the owner's engineer hired by AGL. In addition, Tata group, as a
+                         shareholder of Adjaristskali Cascade Project, undertook an owners review in March 2016.
+
+                         Inclusion of the rehabilitation and upgrade of 220 kV Sataplia, Ajameti-1, 2 and Kolkhida-1 TLs
+                         as well as the Menji, Kutaisi, Tskaltubo and Zestaponi substations into the Project work plan
+                         through the Project restructuring will not trigger any safeguard policies in addition to those already
+                         triggered by the TGS Project. Environmental category of the TGS Project remains A.
+                         Restructuring of the three additional TLs will imply (i) upgrade of Sataplia TL to double circuit,
+                         (ii) upgrade of Ajameti 1, 2 TL to triple circuit, (iii) connection of the newly built double circuit
+                         sections of Ajameti 1 and Ajameti 2 TLs with a 50-60 meter long new power line; (iv)
+                         replacement of conductor for Kolkhida line; (v) upgrade of the switch gears, and of the control
+                         panels in Menji, Tskaltubo, Kutaisi and Zestaponi substations; and (vi) upgrade of SCADA/EMS.
+                         Tower replacement will be performed within the existing tower spotting. Overall heights and
+                         widths of towers will remain the same. Works at substations will be confined to the installation of
+
+                                                                    Page 8 of 14
+                           the additional equipment within the fenced boundaries of these substation and will not include
+                           replacement of batteries and transformer oils. Hence handling of hazardous substances will be
+                           excluded.
+Public Disclosure Copy
+
+
+
+
+                         2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+                           in the project area:
+                            The operation and maintenance of the Batumi-Akhaltsikhe TL under the original project will
+                           cause a number of specific environmental and social impacts. There will be certain limitations to
+                           the land use within the right of way due to the need for protecting health and safety of people from
+                           the potential threats of living and/or working under a high voltage overhead TL, for which an RPF
+                           and RAPs are in place. Despite the initially provided bird safety installations, collisions and
+                           electrocutions may not be entirely ruled out. Monitoring data for the first several years of TL
+                           operation would allow to judge sufficiency of the provided means and design additional mitigation
+                           measures as required. Maintenance works will imply common risks for health and safety of
+                           workers which are usually effectively managed by strict adherence to the rules of conduct of
+                           maintenance works and regular use of personal protective gear.
+
+                           No additional long indirect and/or long term impacts will be caused by supplemental activities to
+                           be included into the TGS Project after restructuring, because these activities will improve
+                           reliability and quality of power transportation through the existing infrastructure which will be
+                           upgraded within the existing environmental footprint.
+                         3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+                           impacts.
+                            No project alternative without the electric transmission infrastructure would have zero adverse
+                           impacts on the environment however, this would disallow provision of electricity produced at the
+                           Adjaristskali Cascade Hydropower Scheme to surrounding communities, Georgian grid and for the
+                           export to Turkey, having significant negative economic and social implications. Furthermore,
+                           because the Adjaristskali Cascade Project is already underway, power evacuation from its HPPs is
+                           not optional and the Government will provide transmission infrastructure using any available
+Public Disclosure Copy
+
+
+
+
+                           source of funding.
+
+                          Several design and routing alternatives were considered during development of the preliminary
+                          design of the Akhaltsikhe-Batumi TL. An underground cable system was one design alternative.
+                          Though visually appealing in the long run, it would cause more disruption during construction and
+                          decommissioning as would involve a larger area for excavation and hence greater negative
+                          environmental and socio-economic impacts, especially in residential areas. Also, the TL right-of-
+                          way runs through the areas prone to erosion and landslides, making any extensive excavation
+                          activities highly disruptive. So the reasons why underground options are not considered as
+                          alternatives to the Project are, first - technical difficulties, complexity, as well as safety and
+                          reliability of an underground line, and secondly - a significantly higher cost.
+
+                          A number of alternative solutions were considered for aligning Akhaltsikhe-Batumi TL and
+                          selecting locations of its towers. Final choices were made after examining geotechnical,
+                          environmental, heritage, and social aspects. Boundaries of the existing protected areas and more
+                          valuable forest stands were avoided. Much effort was applied to choosing the TL alignment in the
+                          sections were its corridor overlaps with the migration routes of birds and technical means for
+                          decreasing chances of collusion and for safe perching were provided. Alignment was designed the
+                          way to follow the natural topographic lines, so that geology and vegetation pattern would allow to
+                          minimize scope of intervention and decrease visual impact. Throughout the design work, the goal
+
+                                                                     Page 9 of 14
+                           of keeping the need for involuntary resettlement as low as possible had been pursued.
+
+                           Re-routing of parts of Sataplia, Ajameti-1, 2 and Kolkhida-1 TLs had been considered at an early
+Public Disclosure Copy
+
+
+
+
+                           planning stage for their upgrading. Although re-routing would shorten the overall length is these
+                           TLs in the benefit of their operation, associated costs of mitigating the considerable negative
+                           environmental and social impacts would be much higher pushing overall project cost up as
+                           compared to TL reconstruction within the existing corridor. Therefore re-routing alternative was
+                           dismissed pretty soon in the conceptual design process.
+                         4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+                           assessment of borrower capacity to plan and implement the measures described.
+                            The World Bank safeguard policies as well as the environmental legislation of Georgia required
+                           carrying out of a full scale environmental assessment of the Batumi-Akhaltsikhe TL construction.
+                           The Borrower financed Environmental and Social Impact Assessment (ESIA) from its own
+                           proceeds and carried it out through a qualified consultant company. ESIA covered environmental,
+                           social, and cultural aspects of the TL construction and operation. An environmental and social
+                           management matrix was developed as part of the ESIA report, which lays out measures for
+                           mitigating expected negative impacts of the Project and provides a plan for monitoring
+                           implementation of the mitigation plan. Because the detailed designs will not be finalized and the
+                           construction works will not commence along the entire corridor or the TL at the same time, a
+                           number of technical details of construction will become known at later stages of the Project cycle.
+                           Works contractor(s) will be obligated to develop site-specific management plans for handling
+                           waste and excess material, regulating traffic, protecting biodiversity, reinstating area, and ensuring
+                           workers health and safety. The Project implementing entity will carry responsibility for ensuring
+                           that all of these site-specific plans are developed prior to commencement of works in a particular
+                           site, are of adequate quality, and the contractor(s) follow the plans throughout their activity within
+                           the site.
+
+                           Works required for the rehabilitation and upgrade of Kolkhida, Sataplia and Ajameti TLs as well
+Public Disclosure Copy
+
+
+
+
+                           as of Menji, Kutaisi, Zestaponi, and Tskaltubo substations were screened for their potential
+                           environmental and social risks, and the expected impacts were found to be minor. Although the
+                           TGS Project falls under category A due to new construction of Batumi-Akhaltsikhe TL, activities
+                           to be included after restructuring do not carry similar risks and will be handled as category B
+                           interventions. ESMP for works to be financed after Project restructuring was prepared by GSE, its
+                           draft was shared with the Bank for review, disclosed upon approval, and a stakeholder
+                           consultation meeting was held.
+
+                           GSE is the implementing entity for the entire project - all components and all activities: those
+                           originally planned and those to be added through restructuring. GSE has undergone an institutional
+                           re-arrangement in 2014, which resulted in the creation of an Environment and Social Safeguards
+                           Unit under the International Projects and Reporting Department. The unit has one full time and
+                           one part time environmental staff and one full time social specialists. In addition, the GSEs
+                           permitting department has a large number of specialists including; social specialists, waste
+                           management specialists, forest specialists that provide cross support to the Environmental and
+                           Social Unit. GSE hires addition experts such as land valuators and land cadaster specialists on an
+                           as need basis. GSE also uses services of an international supervision engineer to ensure quality of
+                           works under TGS Project, and monitoring of safeguards application are an integral part of the
+                           consultant assignment. Additional consultancy may be sought to supplement GSE's in-house
+                           capacity as required.
+
+
+                                                                     Page 10 of 14
+                           TGS Project rating on safeguards performance has been satisfactory throughout its life. Physical
+                           works are not in a full swing but rather taking off, as the detailed designs and RAPs had to been
+Public Disclosure Copy
+
+
+
+
+                           under development for Akhaltsikhe-Batumi TL. GSE is now in the process of reviewing and
+                           approving construction contractor's management plans covering site-specific details of handling
+                           construction waste, excess soil and biodiversity; and ensuring health and safety at workplace.
+                           Local population has concerns about HPP construction works carrying a threat of activating
+                           landslides in the geologically active area of the IFC-financed Adjaristskali Cascade Project, which
+                           has been in an active construction phase for a while. Already sensitized and mobilized
+                           stakeholders are now engaging themselves into TGS Project-financed activities, demanding full
+                           transparency of the consultation process on RAPs and of the information pertaining precise
+                           alignment of Akhaltsikhe-Batumi TL. The Bank receives from IFC full information on the
+                           grievances and their redress under Adjaristskali Cascade Project and will advise GSE on civic
+                           engagement into TGS Project based on the lessons learned.
+                         5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+                           on safeguard policies, with an emphasis on potentially affected people.
+                             The primary beneficiaries of the Project are the retail consumers of electricity to be generated by
+                           new HPPs in the Autonomous Republic of Adjara and evacuated by Batumi-Akhaltsikhe TL as
+                           well those being served by Sataplia, Ajameti 1, 2, and Kolkhida TLs. Small and medium
+                           businesses will also benefit from a more reliable, high-quality power supply. TGS and the
+                           associated Adjaristskali Cascade projects will indirectly benefit entire country through the
+                           improved transmission grid stability are additional clean energy generation. Therefore, the
+                           Ministry of Energy and GSE are significant stakeholders of the Project. People residing in the
+                           settlements along the TL corridors will be directly affected by the construction and operation of
+                           the TL.
+
+                           Prior to commencement of the ESIA of the construction of Batumi-Akhaltsikhe TL, the Borrower
+                           shared ToR of this task with the Bank for comments to ensure that the ESIA report is in line with
+Public Disclosure Copy
+
+
+
+
+                           the requirements of the Bank's safeguard policy and meets quality expectations. This ToR was
+                           disclosed to the Project stakeholders and a discussion was held on the scope of the upcoming
+                           ESIA on September 17-19, 2013. Draft ESIA report was also disclosed and discussed with the
+                           Project stakeholders in GSE's office in Tbilisi and Batumi, where centrally located stakeholders as
+                           well as local communities affected by the Project had an opportunity to voice their questions,
+                           concerns, and comments. ESIA report was finalized afterwards with the documented information
+                           on the public consultation process attached to it.
+
+                           Draft ESMP for the rehabilitation and upgrade of Menji, Kutaisi, Zestaponi and Tskaltubo
+                           substations and the TLs connecting them was prepared by GSE, cleared by the Bank as a draft for
+                           disclosure, disclosed on June 24, 2016, and discussed with stakeholders on July 25, 2016 in
+                           Kutaisi.
+                         B. Disclosure Requirements
+                         Environmental Assessment/Audit/Management Plan/Other
+                          Was the document disclosed prior to appraisal?
+                          Date of receipt by the Bank                                          11-Nov-2013
+                          Date of submission to InfoShop                                       17-Dec-2013
+
+
+
+
+                                                                     Page 11 of 14
+                           For category A projects, date of distributing the Executive      17-Dec-2013
+                           Summary of the EA to the Executive Directors
+                         "In country" Disclosure
+Public Disclosure Copy
+
+
+
+
+                           Georgia                                                          25-Nov-2013
+                           Comments:
+                          Resettlement Action Plan/Framework/Policy Process
+                           Was the document disclosed prior to appraisal?
+                           Date of receipt by the Bank                                      11-Nov-2013
+                           Date of submission to InfoShop                                   13-Mar-2014
+                         "In country" Disclosure
+                           Georgia                                                          13-Mar-2014
+                           Comments:
+                         If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+                         respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+                         Audit/or EMP.
+                         If in-country disclosure of any of the above documents is not expected, please explain why:
+
+
+                         C. Compliance Monitoring Indicators at the Corporate Level
+                         OP/BP/GP 4.01 - Environment Assessment
+                          Does the project require a stand-alone EA (including EMP)          Yes [   ]   No [   ]   NA [    ]
+                          report?
+                         OP/BP 4.04 - Natural Habitats
+                          Would the project result in any significant conversion or          Yes [   ]   No [   ]   NA [    ]
+                          degradation of critical natural habitats?
+Public Disclosure Copy
+
+
+
+
+                          If the project would result in significant conversion or           Yes [   ]   No [   ]   NA [    ]
+                          degradation of other (non-critical) natural habitats, does the
+                          project include mitigation measures acceptable to the Bank?
+                         OP/BP 4.11 - Physical Cultural Resources
+                          Does the EA include adequate measures related to cultural          Yes [   ]   No [   ]   NA [    ]
+                          property?
+                          Does the credit/loan incorporate mechanisms to mitigate the        Yes [   ]   No [   ]   NA [    ]
+                          potential adverse impacts on cultural property?
+                         OP/BP 4.12 - Involuntary Resettlement
+                          Has a resettlement plan/abbreviated plan/policy framework/         Yes [   ]   No [   ]   NA [    ]
+                          process framework (as appropriate) been prepared?
+                          If yes, then did the Regional unit responsible for safeguards or   Yes [   ]   No [   ]   NA [    ]
+                          Practice Manager review the plan?
+                          Is physical displacement/relocation expected?                      Yes [   ]   No [   ]   TBD [   ]
+
+                           Provided estimated number of people to be affected
+
+
+
+
+                                                                     Page 12 of 14
+                             Is economic displacement expected? (loss of assets or access to Yes [     ]   No [   ]   TBD [       ]
+                             assets that leads to loss of income sources or other means of
+                             livelihoods)
+Public Disclosure Copy
+
+
+
+
+                              Provided estimated number of people to be affected
+                            OP/BP 4.36 - Forests
+                             Has the sector-wide analysis of policy and institutional issues   Yes [   ]   No [   ]   NA [    ]
+                             and constraints been carried out?
+                             Does the project design include satisfactory measures to          Yes [   ]   No [   ]   NA [    ]
+                             overcome these constraints?
+                             Does the project finance commercial harvesting, and if so,        Yes [   ]   No [   ]   NA [    ]
+                             does it include provisions for certification system?
+                            OP/BP 4.37 - Safety of Dams
+                             Have dam safety plans been prepared?                              Yes [   ]   No [   ]   NA [    ]
+                             Have the TORs as well as composition for the independent          Yes [   ]   No [   ]   NA [    ]
+                             Panel of Experts (POE) been reviewed and approved by the
+                             Bank?
+                             Has an Emergency Preparedness Plan (EPP) been prepared and        Yes [   ]   No [   ]   NA [    ]
+                             arrangements been made for public awareness and training?
+                            The World Bank Policy on Disclosure of Information
+                             Have relevant safeguard policies documents been sent to the       Yes [   ]   No [   ]   NA [    ]
+                             World Bank's Infoshop?
+                             Have relevant documents been disclosed in-country in a public     Yes [   ]   No [   ]   NA [    ]
+                             place in a form and language that are understandable and
+                             accessible to project-affected groups and local NGOs?
+                            All Safeguard Policies
+Public Disclosure Copy
+
+
+
+
+                             Have satisfactory calendar, budget and clear institutional        Yes [   ]   No [   ]   NA [    ]
+                             responsibilities been prepared for the implementation of
+                             measures related to safeguard policies?
+                             Have costs related to safeguard policy measures been included     Yes [   ]   No [   ]   NA [    ]
+                             in the project cost?
+                             Does the Monitoring and Evaluation system of the project          Yes [   ]   No [   ]   NA [    ]
+                             include the monitoring of safeguard impacts and measures
+                             related to safeguard policies?
+                             Have satisfactory implementation arrangements been agreed         Yes [   ]   No [   ]   NA [    ]
+                             with the borrower and the same been adequately reflected in
+                             the project legal documents?
+
+                         III. APPROVALS
+                            Task Team Leader(s): Name: Joseph Melitauri
+                            Approved By
+                            Safeguards Advisor: Name: Nina Chee (SA)                                   Date: 27-Jul-2016
+
+
+
+
+                                                                      Page 13 of 14
+                         Practice Manager/   Name: Ranjit J. Lamech (PMGR)   Date: 27-Jul-2016
+                         Manager:
+Public Disclosure Copy
+Public Disclosure Copy
+
+
+
+
+                                                           Page 14 of 14
+

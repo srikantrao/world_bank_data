@@ -1,0 +1,831 @@
+                                                INTEGRATED SAFEGUARDS DATA SHEET
+                                                        APPRAISAL STAGE
+                                                                                             Report No.: ISDSA19476
+Public Disclosure Copy
+
+
+
+
+                         Date ISDS Prepared/Updated: 19-Jan-2017
+                         Date ISDS Approved/Disclosed: 23-Jan-2017
+                         I. BASIC INFORMATION
+                            1. Basic Project Data
+
+                            Country:           Mongolia                           Project ID:    P152343
+                            Project Name:      Second Energy Sector Project (P152343)
+                            Task Team          Peter Johansen
+                            Leader(s):
+                            Estimated          20-Aug-2015              Estimated     18-Apr-2017
+                            Appraisal Date:                             Board Date:
+                            Managing Unit:    GEE09                     Lending       Investment Project Financing
+                                                                        Instrument:
+                            Is this project processed under OP 8.50 (Emergency Recovery) or OP No
+                            8.00 (Rapid Response to Crises and Emergencies)?
+                            Financing (In USD Million)
+                            Total Project Cost:        55.40           Total Bank Financing:     42.00
+                            Financing Gap:              0.00
+                              Financing Source                                                                          Amount
+Public Disclosure Copy
+
+
+
+
+                              BORROWER/RECIPIENT                                                                           1.00
+                              International Development Association (IDA)                                                 42.00
+                              Strategic Climate Fund Grant                                                                12.40
+                              Total                                                                                       55.40
+                            Environmental B - Partial Assessment
+                            Category:
+                            Is this a          Yes
+                            Repeater
+                            project?
+
+                            2. Project Development Objective(s)
+                           The development objective of the proposed project is to improve reliability and sustainability of
+                           electricity services in Mongolia.
+                            3. Project Description
+                           The proposed project is comprised of the following three components as described below:
+
+                           Component A: Rehabilitation of Distribution Networks (estimated cost: US$28.5 million, of which
+
+
+                                                                       Page 1 of 14
+                         IDA financing US$28 million and counterpart financing US$0.5 million): This component will have
+                         three sub-components: (1.1) Rehabilitation of distribution grid in BSEDN, (1.2) Rehabilitation of
+                         distribution grid in EBEDN; and (1.3) Support to transmission company.
+Public Disclosure Copy
+
+
+
+
+                         The purpose of sub-components 1.1 and 1.2 is to reduce system losses and improve reliability of and
+                         access to electricity services in selected parts of the distribution networks through strengthening of
+                         power infrastructure of two regional distribution company networks: BSEDN and EBEDN.
+                         Investments at primary substations will help increase the capacity while increasing system reliability.
+                         Investments at distribution substations and distribution lines will reduce technical losses and improve
+                         system reliability. The investments in technically proven digital meters (AMI or AMR) are aimed at
+                         reducing non-technical losses. The subcomponents will target the key investment needs in major
+                         areas of new development as well as areas where distribution overloads are already present or will
+                         happen in the very short term given continuous demand growth. Sub-component 1.3 will also invest
+                         in switchgears in the transmission network which is related to the subprojects in Component 1.1 and
+                         1.2, and introduce planning and management software to the transmission company, NPTG. As such,
+                         this subcomponent does not address transmission network investments but rather distribution-related
+                         investments such as new circuit breakers for the rehabilitated lines in sub-stations that are owned by
+                         NPTG.
+
+                         The subprojects are selected based on key parameters, including: (i) technical and economic
+                         justification; and (ii) readiness for implementation in terms of environmental and social aspects.
+                         Annex 6 includes a list of the subprojects that have already been selected for inclusion in Group I and
+                         a list of potential subprojects that have been suggested by BSEDN or EBEDN but have not yet been
+                         selected for inclusion under the project.
+
+                         Component B: Solar Power (estimated cost US$24.9 million, of which IDA financing US$12
+                         million, SREP grant US$12.4 million and counterpart financing US$0.5 million): The component
+                         will support investments to construct grid connected solar PV power generation capacity outside of
+                         the Central Energy System (CES). The purpose of the component is to support upscaling of rural
+Public Disclosure Copy
+
+
+
+
+                         renewable energy by demonstrating the application of solar PV generation in remote areas.
+
+                         Group I includes the investment in a 10 MW-peak grid connected solar photovoltaic power plant in
+                         the Western Energy System (WES). The subcomponent will finance detailed design, supply,
+                         construction, commissioning and operation & maintenance of the solar plant which will supply
+                         electricity directly to the WES transmission network. The solar PV arrays will be installed near the
+                         Myanagad substation in Hovd aimag and will be owned by WES. However, for the first 5 years the
+                         supplier will be required to operate and maintain the power plant thereby allowing WES to gain
+                         experience with solar power before they take over the operation.
+
+                         Any Group II project will be selected from a list of potential solar PV plants outside the CES and
+                         will depend on the availability of funds after financing the 10 MW Group I subproject. The location
+                         of the projects could be out of CES. The budget for the solar power support is likely to be able to
+                         finance around 13-17 MW depending on the cost premium for the remote location and whether it is
+                         deemed that battery storage will be advisable in order to avoid curtailment and ensure voltage and
+                         frequency stability. Subprojects brought forward for financing will be appraised when feasibility
+                         studies and needed safeguard documents have been prepared. The subprojects will be selected based
+                         on key parameters, including: (i) remaining funds of the Component and proposed subproject
+                         investment cost; (ii) technical and economic justification; and (iii) readiness for implementation in
+                         terms of environmental and social aspects. The Group II subprojects will be agreed between the Bank
+
+                                                                      Page 2 of 14
+                         and the GoM.
+
+                         Component C: Capacity Building (estimated cost US$2 million, all IDA financing): The purpose of
+Public Disclosure Copy
+
+
+
+
+                         this component is to strengthen the capacity of the project management office (PMO) under the
+                         Ministry of Energy and the implementing units (PIUs) of three regional distribution companies
+                         (BNEDN, EBEDN, WES) through provision of technical assistance, training and study tours. The
+                         component includes: (i) technical assistance for project implementation and studies to support project
+                         management and implementation; (ii) training programs to improve the project management
+                         capabilities; and (iii) project management cost.
+                          4. Project location and salient physical characteristics relevant to the safeguard
+                         analysis (if known)
+                         Component A
+
+                         BSEDN distributes and supplies electricity to a total of 46,568 customers in the Baganuur District
+                         close to Ulaanbaatar and in 56 soums (villages) of 7 aimags (districts). The vast majority of the
+                         customers are residential households with a small portion of SMEs and mines. EBDEN serves 65,400
+                         customers spread over 108 soums in 11 aimags. A majority of residential customers live in ger areas,
+                         where most residents are poor.
+
+                         Component B
+
+                         One solar PV power plant will be developed with an estimated capacity of 10 Megawatts (MW) and
+                         estimated land requirement of 25 hectares. The plant will provide power to the Western Energy
+                         System. Three possible sites were identified for this plant; two located in Hovd Aimag and one in
+                         Uvs Aimag.
+                         A brief description of each site is provided below:
+
+                         Site A (Mayangad, Hovd Aimag)
+Public Disclosure Copy
+
+
+
+
+                         The proposed site is 1 kilometer from Myanagad soum center, next to an existing substation. The
+                         governor➢❨ s office and observations by the international safeguard consultant confirmed that the
+                         land is not used formally or informally for agriculture (i.e. nomadic herding), or any industrial
+                         activities. There is no one living at or near the proposed project site formally or informally. No
+                         winter structures are located at or near the proposed project site. The proposed site is not forested.
+                         Har Us Lake national park (includes a Ramsar site) is 12.5 km to the south and includes Important
+                         Bird Areas. According to Soum Environment and Land officers, no known physical cultural
+                         resources are present. The closest physical cultural resource officially recognized is Sangiin kherem
+                         located approximately 45km from the project site. Local soum government stakeholders asserted that
+                         groundwater resources were abundant. The nearest road is 0.5km from the site, and the nearest
+                         railway is in Erdernet city 895 km east of the site. Near the project site is the Soum old municipal
+                         dump. A new properly managed municipal disposal facility nearby has been developed.
+
+                         Site B (Umogovi Soum, Uvs Aimag)
+                         The proposed site is located next to the Umnugovi soum centre substation. The Umnugovi Soum
+                         Governor confirmed that the site (approximately 15+hectares) is State Land as well as the
+                         surrounding area which is also available for the project. The land is not used formally or informally
+                         for agriculture (i.e. nomadic herding), or any industrial activities. There is no one living at or near the
+                         proposed project site formally or informally. No winter structures are located at or near the proposed
+                         project site and the site (including the proposed transmission line route) is not within any officially
+
+
+                                                                       Page 3 of 14
+                         protected area and is not forested. No known physical cultural resources are present. The closest
+                         physical cultural resource officially recognized is Tsagaan bulan (rock paintings) located
+                         approximately 20km from the project site. Water resources are more restricted than at the Mayangad
+Public Disclosure Copy
+
+
+
+
+                         site. The site is on the outskirts of officially recognized important bird areas, known for an
+                         abundance of water bird species. Of particular note is Khar Us Lake which is a Ramsar site. The
+                         nearest road is 2km from the proposed project site, and the nearest railway is in Edenet city 900 km
+                         east of the site.
+
+                         Site C (10 km north of Site A, Mayangad Soum, Hovd Aimag)
+                         The proposed site is 10km north of Site A where the existing Mayangad Substation is located. The
+                         site (including any associated transmission line) is State land and can be made available for the solar
+                         plant. The land is not used formally, however, there is a possibility that the land is informally used
+                         for agricultural (i.e. nomadic herding) activities, but no specific data on numbers of nomadic people
+                         in the area was available. The proposed site is not forested. Har Us Lake national park (the Ramsar
+                         site) is 22.5 km to the south and includes Important Bird Areas. no known physical cultural resources
+                         are present. The closest physical cultural resource officially recognized is Sangiin kherem
+                         approximately 55km from the project site. The site (including the transmission line route) is not
+                         within any officially protected area. Local residents indicated that birds are known to frequent the
+                         area near the Hovd river and Khar Us Lake. The nearest road is 0.5km and the nearest rail is at
+                         Erdernet 896 km to the west.
+
+                         After careful evaluation of environmental and social factors Site A in Hovd Aimag, next to
+                         Mayangad soum centre was selected as the most suitable location for this subproject. At present, no
+                         detailed data was obtained verifying stakeholder assertions regarding groundwater resource
+                         availability. The World Bank will conduct a due diligence effort to collect this data. If unsuccessful,
+                         the World Bank would take necessary measures and undertake a program to collect this data as part
+                         of the subproject design effort.
+
+                         In addition, subsequent to loan approval and contingent upon available funds, additional solar PV
+Public Disclosure Copy
+
+
+
+
+                         power plants may be financed under this Project. Potential plants will all be located in Western
+                         Mongolia to provide power into the Western Energy System.
+                         5. Environmental and Social Safeguards Specialists
+                         Bernard Baratz (GEEDR)
+                         Reisha Anne Jones (GSU02)
+                         6. Safeguard Policies        Triggered? Explanation (Optional)
+                         Environmental                Yes            Component A
+                         Assessment OP/BP 4.01                       Subprojects to be supported under these Components will
+                                                                     be either known (Group 1) or unknown (Group 2) prior to
+                                                                     Project Board approval. For Group 1 subprojects a series
+                                                                     of Environmental Codes of Practice (ECOPs) have been
+                                                                     prepared to address management of environmental issues
+                                                                     associated with the types of subprojects identified for
+                                                                     financing. For Group II subprojects, an ESMF has been
+                                                                     prepared to provide guidance on environmental and social
+                                                                     safeguard procedures to be followed by the Borrower in
+                                                                     evaluating potential subprojects. Group 2 subprojects will
+                                                                     be the same types as Group 1 subprojects.
+
+
+                                                                      Page 4 of 14
+                         In addition to traditional construction related impacts
+                         associated with the movement of men, machines and
+Public Disclosure Copy
+
+
+
+
+                         materials (e.g. dust, noise, engine exhausts etc.), the
+                         project will involve rehabilitation and/or replacement of
+                         several substation transformers, or other electrical
+                         equipment some of which may contain or be
+                         contaminated with polychlorinated biphenyls (PCBs).
+                         PCBs are considered hazardous materials and require
+                         specialized analytical equipment to establish their
+                         presence as well as special techniques for their
+                         management and disposal. The degree to which PCBs are
+                         present in various elements of the proposed project will be
+                         determined and a detailed management plan for the
+                         removal, handling, transport and ultimate disposal will be
+                         required as part of the Environmental Code of Practice
+                         (ECOP) for each of the subprojects identified by appraisal
+                         that involves equipment contaminated with PCBs (e.g.
+                         rehabilitation of transformers and replacement of oil filled
+                         circuit breakers). For Group 2 subprojects an
+                         Environmental and Social Management Framework
+                         (ESMF) was prepared which includes procedures for
+                         management of electrical equipment contaminated with
+                         PCBs. Both the ECOPs and ESMF include requirements
+                         prohibiting all new electrical equipment (transformers,
+                         switches, capacitors etc.) from containing PCBs.
+
+                         The project also involves removal and replacement of
+                         numerous wooden poles supporting existing power
+Public Disclosure Copy
+
+
+
+
+                         distribution lines. In general, wooden poles are treated
+                         with creosote as a wood preservative. By its very nature,
+                         creosote may be considered hazardous which would make
+                         the wooden poles unsuitable for subsequent use as fuel.
+                         The ECOP for pole replacement investments and the
+                         ESMF include specific guidance on the management of
+                         these poles.
+
+                         The project may also involve replacement of numerous
+                         electrical meters. Although these meters are not expected
+                         to contain hazardous materials, their disposal represents a
+                         potentially significant waste management issue that is
+                         addressed in the ECOP and the ESMF.
+
+                         Component B
+                         One solar photovoltaic plant is to be identified prior to
+                         WB Board approval for support under the project.
+                         Subsequently, during project implementation additional
+                         solar voltaic plants may be supported if resources are
+
+
+                          Page 5 of 14
+                                                        available. For the plant to be identified prior to Board
+                                                        approval three possible sites were identified for this plant;
+                                                        two located in Hovd Aimag and one in Uvs Aimag. An
+Public Disclosure Copy
+
+
+
+
+                                                        Environmental and Social Impact Assessment (ESIA) was
+                                                        prepared in which the three potential sites were evaluated
+                                                        on the basis of several environmental factors. The site. in
+                                                        Hovd Aimag, next to Mayangad soum was determined to
+                                                        be most suitable and the ESIA includes a discussion of the
+                                                        potential environmental issues and a detailed EMP. to
+                                                        address these issues.
+
+                                                        For subsequent investments in solar photovoltaic power
+                                                        facilities, a separate ESMF was prepared to address any
+                                                        environmental and social safeguard issues as well as any
+                                                        site-specific issues that may develop.
+
+                                                        Construction issues similar to those discussed under
+                                                        Component A above will also be involved in developing
+                                                        the solar PV plant site. Additionally, there are potential
+                                                        issues associated with land clearance (altered runoff
+                                                        patterns, topsoil management, and removal and handling
+                                                        of vegetative wastes),
+
+                                                        During operation, solar reflection from the photovoltaic
+                                                        panels could affect migratory birds and present a traffic
+                                                        hazard to drivers. The Mongolian Ground Jay is a ground
+                                                        nesting bird species whose range includes the project site.
+                                                        Construction activities and operation of the solar plant
+                                                        could affect nesting characteristics of this species. Water
+Public Disclosure Copy
+
+
+
+
+                                                        requirements for panel washing and wastewater
+                                                        management are also of concern. The land requirements
+                                                        may affect land based migratory species and the
+                                                        connecting transmission line may affect migratory bird
+                                                        flight patterns.
+
+                                                        The ESMF prepared for Component A was integrated
+                                                        with the ESMF for Component B to produce a single
+                                                        Combined ESMF project document.
+
+                                                        Component C➢❨¨This Component is technical assistance,
+                                                        training and study tours. There will be safeguard training
+                                                        (by WB staff) for the Borrowers➢❨ PIUs and the PMO.
+                                                        However, this is strictly part of WB support and not
+                                                        associated with this Component. There are no safeguard
+                                                        implications involved.
+                         Natural Habitats OP/BP   Yes   This project will not support or lead to the conversion of
+                         4.04                           natural habitats.
+
+
+
+                                                         Page 6 of 14
+                         Component A
+                         Most anticipated investments will be rehabilitation or
+                         replacement of existing equipment (substations, OHL
+Public Disclosure Copy
+
+
+
+
+                         support structures-wooden poles etc.).
+
+                         There may be investments in expanding existing
+                         substations or constructing new substations. However, as
+                         part of due diligence for these investments, distribution
+                         companies will be required to receive clearance from the
+                         MEGDT
+                         Department of Environment and Natural Resources
+                         Management who will ensure that: (a) there will be no
+                         investments which involve the significant conversion of
+                         critical natural habitats; and/or (b) provide acceptable
+                         mitigation measures that will be required to receive their
+                         approval for those investments likely to affect non-critical
+                         natural habitats. The Combined ESMF includes similar
+                         due diligence requirements for subprojects identified
+                         during project implementation.
+
+                         Component B
+                         Site selection criteria for the Hovd Aimag plant excluded
+                         locations within or near critical natural habitats.
+
+                         Due diligence for this site will require clearance from the
+                         MEGDT
+                         Department of Environment and Natural Resources
+                         Management who will ensure that: (a) the investment will
+                         not involve significant conversion of critical natural
+Public Disclosure Copy
+
+
+
+
+                         habitats; and (b) acceptable mitigation measures are
+                         included for approval of the site to ensure no impacts on
+                         non-critical natural habitats.
+
+                         A Local bird expert will be engaged by the project
+                         sponsor during project design/prior to construction to:
+                         ➢❨¢ survey proposed solar plant site prior to construction
+                         and as necessary recommend micro-modifications to site
+                         location to avoid/minimize bird nesting areas
+                         ➢❨¢      identify nesting period of the Mongolian Ground
+                         Jay (MGJ) and assist in designing construction schedule
+                         to avoid this period
+                         ➢❨¢      assure panel design elevation is sufficient to
+                         minimize disturbance to brush areas used for nesting by
+                         MGJ
+                         ➢❨¢      work with NGOs (e.g. IUCN, BirdLife
+                         International, Wildlife Science and Conservation Centre
+                         of Mongolia) to prepare an avian monitoring program
+                         (AMP) for migratory birds and ground nesters during
+
+
+                          Page 7 of 14
+                                                      construction and operation phases.
+                                                      ➢❨¢      determine migratory bird patterns to aid in
+                                                      decision regarding placement of transmission line above
+Public Disclosure Copy
+
+
+
+
+                                                      ground (with avian diverters) or underground
+                                                      ➢❨¢      assure solar panel tilt for maximum solar
+                                                      efficiency will be adequate to minimize bird collision risk
+
+                                                      The Combined ESMF includes similar due diligence
+                                                      requirements for potential investments in solar
+                                                      photovoltaic power facilities.
+                         Forests OP/BP 4.36     No    This project will not lead to the destruction of forests or
+                                                      forest ecosystems.
+
+                                                      Component A
+                                                      As mentioned above, most anticipated investments will be
+                                                      rehabilitation or replacement of existing equipment
+                                                      (substations, OHL support structures-wooden poles etc.).
+
+                                                      There may be some investment in expanding existing
+                                                      substations or constructing new substations. The Task
+                                                      Team determined that none of the direct or linked
+                                                      investments support destruction or conversion of forests
+                                                      and forest ecosystems affecting the management of forests
+                                                      or the rights and welfare of forest dependent communities,
+                                                      as any new land requirements are in urban or peri-urban
+                                                      areas. Furthermore, as part of due diligence for these
+                                                      investments, distribution companies will be required to
+                                                      receive clearance from the MEGDT Department of Forest
+Public Disclosure Copy
+
+
+
+
+                                                      Policy and Coordination, who will insure no direct
+                                                      investments will be in areas which contribute to
+                                                      destruction or conversion of forests and/or forest
+                                                      ecosystems. The Combined ESMF includes similar due
+                                                      diligence requirements for power distribution subprojects
+                                                      identified during project implementation.
+
+                                                      Component B
+                                                      The proposed site is not forested, but approval from the
+                                                      Ministry of Environment, Green Development and
+                                                      Tourism (MEGDT), Director of Forest Policy and
+                                                      Coordination would be required
+
+                                                      The Combined ESMF includes similar approval
+                                                      requirements from MEGDT Department of Forest Policy
+                                                      and Coordination as part of the siting criteria for potential
+                                                      investments in solar photovoltaic power facilities.
+                         Pest Management OP 4.09 No   The project will not finance any activities that would
+                                                      result in procurement or use of pesticides.
+
+
+
+                                                       Page 8 of 14
+                                                        Component A
+                                                        There will be no pesticide use in construction or
+                                                        maintenance of works. Any land clearing in preparation
+Public Disclosure Copy
+
+
+
+
+                                                        for civil works and/or maintaining rights-of-way will be
+                                                        undertaken manually or mechanically.
+
+                                                        Component B
+                                                        The ESIA for the proposed site and the Combined ESMF
+                                                        for future plant sites include the requirement that all land
+                                                        clearance be implemented manually and/or mechanically.
+                                                        No pesticides are to be used for land clearance.
+                         Physical Cultural        Yes   There are no known physical cultural resources involved
+                         Resources OP/BP 4.11           in any of the Project components.
+
+                                                        Known physical cultural resources will be avoided by
+                                                        sub-project design, but there is a chance that these
+                                                        resources could be accidently uncovered during the course
+                                                        of civil works or land clearing, hence this policy is
+                                                        triggered. Chance find procedures are included in the
+                                                        ECOPs of Components A and the ESIA of Component B
+                                                        as well as the Combined ESMF to cover these
+                                                        eventualities.
+                         Indigenous Peoples OP/   No    Component A
+                         BP 4.10                        Mongolia has an estimated 24 ethnic groups, which are
+                                                        either descendants of Mongolian nomadic tribes, or are
+                                                        groups of Turkic origin who have become Mongolised
+                                                        over time. The majority are the Khalkh who comprise
+                                                        over 90% of the population. Except for the Kazakh
+Public Disclosure Copy
+
+
+
+
+                                                        minority group residing in western Mongolia, all ethnic
+                                                        groups speak Mongolian dialects which are
+                                                        comprehensible to speakers of Khalkha and to each other.
+                                                        Only the Kazakhs rely upon a distinct spoken language.
+
+                                                        The majority of Mongolia➢❨ s ethnic minority groups
+                                                        share similar customs, traditions and systems of
+                                                        production as the Khalkh. With the exception of the
+                                                        predominantly Muslim and linguistically differentiated
+                                                        Kazakhs in western Mongolia, and traditionally nomadic
+                                                        reindeer herding Tsaatan peoples in the north,
+                                                        Mongolia➢❨ s ethnic groups are not considered to be
+                                                        economically, socially or legally marginalized or
+                                                        otherwise disadvantaged in a manner which would restrict
+                                                        their ability to participate in the project. Components A
+                                                        will not include those areas populated by either the
+                                                        Kazakh (Bayan Ulgii) or Tsaatan (northern Khovsgul
+                                                        province) ethnic minorities, nor will it include areas
+                                                        populated by the Uyghurs, Uzbeks, Urianhais and Hotons
+                                                        (and Tuvinians), and the Evenk who speak a Tungusic
+
+
+                                                         Page 9 of 14
+                                                              language.
+
+                                                              Component B
+Public Disclosure Copy
+
+
+
+
+                                                              Component B will not be located in areas populated by
+                                                              either the Khazakh or Tsaatan groups, nor any of the
+                                                              ethnic minority groups residing in the far west or north
+                                                              mentioned above and is therefore not expected to trigger
+                                                              this policy.
+                            Involuntary Resettlement Yes      Component A
+                            OP/BP 4.12                        Improvements to the distribution system will require
+                                                              installation of some physical infrastructure. Improvements
+                                                              will be within the existing infrastructure footprint, within
+                                                              the established right of way, or on government land. This
+                                                              OP is triggered in the event that improvements are
+                                                              installed on land that is not already within the established
+                                                              right of way, existing footprint or government land. As
+                                                              sites and any impacts on populations are yet to be
+                                                              finalized, a Resettlement Policy Framework (RPF) has
+                                                              been prepared and incorporated into the Combined
+                                                              ESMF. The RPF lays out the steps to be taken when any
+                                                              land is involuntarily acquired, purchased under negotiated
+                                                              settlement or voluntarily donated for project activities.
+                                                              The RPF, as part of the ESMF was disclosed to the
+                                                              general public on December 8 2016 and through the
+                                                              World Banks InfoShop website on December 9.
+
+                                                              Component B
+                                                              Three possible sites for component B were on state land.
+Public Disclosure Copy
+
+
+
+
+                                                              Due diligence confirmed that no persons were living or
+                                                              using the land formally or informally at the selected site at
+                                                              Hovd Aimag, next to Mayangad soum centre. The
+                                                              Combined ESMF includes similar due diligence
+                                                              requirements for potential future investments in solar
+                                                              photovoltaic power facilities. Future investments are
+                                                              anticipated to be on state land, however as the locations
+                                                              are not confirmed an RPF is included in the Combined
+                                                              ESMF.
+                            Safety of Dams OP/BP        No    The project will not finance or retrofit any dams.
+                            4.37
+                            Projects on International   No    Potential investments under the project are not expected
+                            Waterways OP/BP 7.50              to have any adverse effects on the water quantity or
+                                                              quality of international waterways.
+                            Projects in Disputed        No    Project activities be will not be undertaken in disputed
+                            Areas OP/BP 7.60                  areas
+                         II. Key Safeguard Policy Issues and Their Management
+                             A. Summary of Key Safeguard Issues
+
+
+
+                                                               Page 10 of 14
+                         1. Describe any safeguard issues and impacts associated with the proposed project. Identify
+                           and describe any potential large scale, significant and/or irreversible impacts:
+                           Environmental issues are for the most part being of short duration, limited range and reversible.
+Public Disclosure Copy
+
+
+
+
+                           Extensive borrower analytic data of transformer and circuit breaker fluids reviewed by the Team
+                           indicated that the many existing pieces of equipment tested from bothdistribution companies did
+                           not contain PCBs at all or in quantities considered insignificant. However, if it is determined that
+                           there is a significant presence of polychlorinated biphenyls (PCBs) in some of the older electrical
+                           equipment that is to be replaced (e.g. transformers, circuit breakers etc.), management of this
+                           material will require special considerations.
+
+                           Improvements to the distribution network will require installation of some physical infrastructure
+                           which will require some small land parcels. The Combined ESMF and RPF have detailed
+                           procedures for site selection and acquisition; however, all land needs are anticipated to be on
+                           government land. The project Resettlement Framework establishes detailed requirements for the
+                           preparation of Resettlement Plans where involuntary land acquisition or voluntary land donation is
+                           proposed.
+
+                           There may be some minor temporary disturbances for households during the installation of
+                           equipment, the ESMF and ECOPs set out specific requirements to notify, manage and mitigate
+                           these disturbances.
+
+                           Solar component environmental issues are also for the most part of short duration, limited range
+                           and reversible. Siting criteria and due diligence will avoid forested areas and areas of high
+                           ecologic value. Water requirements for photovoltaic cell washing is an issue that was given due
+                           consideration as part the site selection criteria included in the environmental assessment report.
+                           Verification of water resources availability will be established as part of project design. If it is
+                           determined there are insufficient water resources the design selected will utilize so-called dry self-
+                           cleaning solar cells which have no cleaning water requirement. Construction issues would consist
+Public Disclosure Copy
+
+
+
+
+                           of noise, dust, and disposal of waste materials etc. During operation, there may be issues
+                           associated with migratory birds at or near overhead transmission lines and nesting patterns of the
+                           Mongolian Ground Jay.
+                         2. Describe any potential indirect and/or long term impacts due to anticipated future activities
+                           in the project area:
+                           None, other than as described above.
+                         3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse
+                           impacts.
+                           Three potential sites were evaluated with respect to several environmental factors, e.g. land use,
+                           proximity to forests, natural habitats, water availability and physical cultural resources. Based
+                           upon these factors Site A (see Section 3, ➢❨ Project Description➢❨ ) was selected as most
+                           suitable.
+                         4. Describe measures taken by the borrower to address safeguard policy issues. Provide an
+                           assessment of borrower capacity to plan and implement the measures described.
+                           The Project Management Office sitting under the Ministry of Energy is familiar with Bank-funded
+                           projects and has developed internal capacity through its most recent implementation of the Energy
+                           Sector Project. Also, the PMO will hire environmental and social (E&S) safeguards consultants to
+                           assist with conducting E&S assessment, consultation, and preparing safeguards instruments.
+                           During implementation, the PMO will continue to use their in-house dedicated Environment and
+
+
+                                                                     Page 11 of 14
+                          Social Specialist. The Team determined that there is limited capacity for management of
+                          environmental safeguards within the distribution companies. However, there was a strong
+                          willingness among distribution company technical staff currently responsible for issues of safety
+Public Disclosure Copy
+
+
+
+
+                          to acquire the necessary capacity for environmental safeguards management. The distribution
+                          companies have selected technical staff (one from each company) to receive environmental
+                          management training from World Bank safeguard specialists. Similarly, staff resources exist
+                          within the distribution companies (research and studies officer) who have expressed a strong
+                          willingness to develop technical capacity for managing social safeguards and have therefore been
+                          selected to fill this role (one from each company). As such, 4 staff members from the distribution
+                          companies will receive safeguard training, along with the additional capacity building for the
+                          PMO environment and social specialist who will work in collaboration with the distribution
+                          companies on safeguard matters.
+
+                          For solar component B, WES has agreed to appoint two safeguards officers (environment &
+                          social) Candidates will be selected, based on existing skills, interest and willingness to learn. They
+                          will be trained along with the PIU distribution companies and PMO Safeguard staff. The PMO
+                          will also include a safeguards staff member, with existing environmental expertise who will be
+                          dedicated to safeguards related matters for the solar investments.
+
+                          Under Component A, ECOPs have been prepared for Group 1 subprojects and an ESMF has been
+                          prepared for Group 2 subprojects. During implementation, the Borrowers will use the ESMF to
+                          prepare individual ECOPs for future subprojects as they are identified.
+
+                          For Component B, an Environmental and Social Impact Assessment report, including a
+                          comprehensive EMP was prepared. The EMP addresses the issue for migratory birds by specifying
+                          installation of diverters on the cable or if necessary burying the transmission cable underground
+                          and a local bird expert will be engaged by the project sponsor during project design to: (a) do a
+                          bird survey in the project site and assess project impacts on birds; (b) assist in finalizing plant
+                          location, (c) scheduling construction activities, (d) reviewing solar panel design and (d) prepare an
+Public Disclosure Copy
+
+
+
+
+                          avian monitoring plan (AMP) to minimize any issues affecting the Mongolian Ground Jay nesting
+                          patterns and other ground-nesting avifauna. During implementation, project developers would use
+                          the solar ESMF as a guide to prepare EMP documents for any future solar photovoltaic projects
+
+                           Subsequently, the ESMF for Component A was integrated with the ESMF for Component B to
+                           produce a Combined ESMF suitable for use by both project components A and B.
+                         5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure
+                           on safeguard policies, with an emphasis on potentially affected people.
+                           For the distribution components, consultations with institutional stakeholders and communities
+                           formed part of the ESMF and RPF preparations. Consultations were also held with affected groups
+                           to discuss the ECOPs for investments identified prior to loan approval. The consultative meetings
+                           were held with the affected groups to determine their view of potential safeguard issues associated
+                           with the project. All relevant comments and suggestions were incorporated into the final drafts of
+                           safeguards instruments. Public consultations were advertised through newspapers, posters and
+                           local radio and held on the 19th and 23rd of September 2016.
+
+                          Key stakeholder consultation meetings for the solar component (B) were held on the 17th and 18th
+                          of November 2016 in Mayangad soum (Hovd Aimag), Umnogovi soum (Uvs Aimag); meetings
+                          were also held in Ulaanbaatar with Ministries and environmental NGOs across from the 29th of
+
+
+                                                                    Page 12 of 14
+                           September through 5th of October. The purpose of the consultation was to determine their view of
+                           potential safeguard issues associated with the solar component. Subsequently, public consultation
+                           on the draft ESIA report and ESMF took place on December 2nd 2016 in Hovd Aimag, including
+Public Disclosure Copy
+
+
+
+
+                           Mayangad Soum Centre, then disclosed to the public on December 8th and through the infoshop
+                           on December 9th 2016. The purpose of the second public consultations was to determine if their
+                           view of potential safeguard issues were reflected in the ESIA and ESMF instruments. As discussed
+                           above, the ESMF for Component A was integrated with the ESMF for Component B to produce a
+                           Combined ESMF suitable for use by all project components.
+                         B. Disclosure Requirements
+                         Environmental Assessment/Audit/Management Plan/Other
+                           Date of receipt by the Bank                                      08-Dec-2016
+                           Date of submission to InfoShop                                   09-Dec-2016
+                           For category A projects, date of distributing the Executive
+                           Summary of the EA to the Executive Directors
+                         "In country" Disclosure
+                           Mongolia                                                         08-Dec-2016
+                           Comments:
+                          Resettlement Action Plan/Framework/Policy Process
+                           Date of receipt by the Bank                                      08-Dec-2016
+                           Date of submission to InfoShop                                   09-Dec-2016
+                         "In country" Disclosure
+                           Mongolia                                                         08-Dec-2016
+                           Comments:
+                         If the project triggers the Pest Management and/or Physical Cultural Resources policies, the
+                         respective issues are to be addressed and disclosed as part of the Environmental Assessment/
+Public Disclosure Copy
+
+
+
+
+                         Audit/or EMP.
+                         If in-country disclosure of any of the above documents is not expected, please explain why:
+
+
+                         C. Compliance Monitoring Indicators at the Corporate Level
+                         OP/BP/GP 4.01 - Environment Assessment
+                          Does the project require a stand-alone EA (including EMP)        Yes [   ]   No [   ]   NA [   ]
+                          report?
+                          If yes, then did the Regional Environment Unit or Practice       Yes [   ]   No [   ]   NA [   ]
+                          Manager (PM) review and approve the EA report?
+                          Are the cost and the accountabilities for the EMP incorporated   Yes [   ]   No [   ]   NA [   ]
+                          in the credit/loan?
+                         OP/BP 4.04 - Natural Habitats
+                          Would the project result in any significant conversion or        Yes [   ]   No [   ]   NA [   ]
+                          degradation of critical natural habitats?
+                          If the project would result in significant conversion or         Yes [   ]   No [   ]   NA [   ]
+                          degradation of other (non-critical) natural habitats, does the
+                          project include mitigation measures acceptable to the Bank?
+
+
+                                                                   Page 13 of 14
+                            OP/BP 4.11 - Physical Cultural Resources
+                             Does the EA include adequate measures related to cultural          Yes [   ]   No [   ]   NA [    ]
+                             property?
+Public Disclosure Copy
+
+
+
+
+                             Does the credit/loan incorporate mechanisms to mitigate the        Yes [   ]   No [   ]   NA [    ]
+                             potential adverse impacts on cultural property?
+                            OP/BP 4.12 - Involuntary Resettlement
+                             Has a resettlement plan/abbreviated plan/policy framework/         Yes [   ]   No [   ]   NA [    ]
+                             process framework (as appropriate) been prepared?
+                             If yes, then did the Regional unit responsible for safeguards or   Yes [   ]   No [   ]   NA [    ]
+                             Practice Manager review the plan?
+                             Is physical displacement/relocation expected?                      Yes [   ]   No [   ]   TBD [       ]
+
+                              Provided estimated number of people to be affected
+                             Is economic displacement expected? (loss of assets or access to Yes [      ]   No [   ]   TBD [       ]
+                             assets that leads to loss of income sources or other means of
+                             livelihoods)
+
+                              Provided estimated number of people to be affected
+                            The World Bank Policy on Disclosure of Information
+                             Have relevant safeguard policies documents been sent to the        Yes [   ]   No [   ]   NA [    ]
+                             World Bank's Infoshop?
+                             Have relevant documents been disclosed in-country in a public      Yes [   ]   No [   ]   NA [    ]
+                             place in a form and language that are understandable and
+                             accessible to project-affected groups and local NGOs?
+                            All Safeguard Policies
+                             Have satisfactory calendar, budget and clear institutional         Yes [   ]   No [   ]   NA [    ]
+Public Disclosure Copy
+
+
+
+
+                             responsibilities been prepared for the implementation of
+                             measures related to safeguard policies?
+                             Have costs related to safeguard policy measures been included      Yes [   ]   No [   ]   NA [    ]
+                             in the project cost?
+                             Does the Monitoring and Evaluation system of the project           Yes [   ]   No [   ]   NA [    ]
+                             include the monitoring of safeguard impacts and measures
+                             related to safeguard policies?
+                             Have satisfactory implementation arrangements been agreed          Yes [   ]   No [   ]   NA [    ]
+                             with the borrower and the same been adequately reflected in
+                             the project legal documents?
+
+                         III. APPROVALS
+                            Task Team Leader(s): Name: Peter Johansen
+                            Approved By
+                            Safeguards Advisor: Name: Peter Leonard (SA)                                Date: 23-Jan-2017
+                            Practice Manager/    Name: Jie Tang (PMGR)                                  Date: 23-Jan-2017
+                            Manager:
+
+
+                                                                        Page 14 of 14
+

@@ -1,0 +1,397 @@
+﻿The World Bank                                                                          RESTRUCTURING ISDS
+CN: Beijing Rooftop Solar Photovoltaic Scale-Up (Sunshine Schools) Project (P125022)
+
+
+
+
+                        Integrated Safeguards Data Sheet
+                                    Restructuring Stage
+
+
+        Restructuring Stage | Date ISDS Prepared/Updated: 22-Mar-2017| Report No: ISDSR21709
+
+
+
+
+                        Regional Vice President:    Victoria Kwakwa
+                               Country Director:    Bert Hofman
+                 Senior Global Practice Director:   Riccardo Puliti
+                    Practice Manager/Manager:       Jie Tang
+                             Task Team Leader:      Yanqin Song
+           The World Bank                                                                           RESTRUCTURING ISDS
+           CN: Beijing Rooftop Solar Photovoltaic Scale-Up (Sunshine Schools) Project (P125022)
+
+
+
+
+    Note to Task Teams: The following sections are system generated and can only be edited online in the Portal.
+
+.
+
+I. BASIC INFORMATION
+
+1. BASIC PROJECT DATA
+
+Project ID                                                     Project Name
+                                                               CN: Beijing Rooftop Solar Photovoltaic Scale-Up
+P125022
+                                                               (Sunshine Schools) Project
+Task Team Leader(s)                                            Country
+Yanqin Song                                                    China
+Approval Date                                                  Environmental Category
+20-Mar-2013                                                    Partial Assessment (B)
+Managing Unit                                                  Is this a Repeater project?
+GEE09
+
+PROJECT FINANCING DATA (IN USD MILLION)
+
+Total Project Cost                                             Total Financing
+239,700,000.00                                                 239,700,000.00
+Financing Gap
+    0.00
+
+Financing Source                                                                                           Amount
+Counterpart Funding                                                                                 119,700,000.00
+International Bank for Reconstruction and Development (IBRD)                                        120,000,000.00
+Total                                                                                               239,700,000.00
+
+2. PROJECT INFORMATION
+          The World Bank                                                                            RESTRUCTURING ISDS
+          CN: Beijing Rooftop Solar Photovoltaic Scale-Up (Sunshine Schools) Project (P125022)
+
+
+
+    Current Project Development Objective
+    To increase the share of clean energy in electricity consumption and to demonstrate the viability of the renewable
+    energy service company model for scaling up the deployment of rooftop solar photo-voltaic systems in schools and
+    other educational institutions in Beijing Municipality.
+
+
+    Proposed New PDO
+    Increase electricity generated from distributed solar photovoltaic systems, and demonstrate the viability of the
+    renewable energy service company model for scaling up the deployment of such systems, in various sectors in Beijing
+    Municipality.
+.
+
+
+    Note to Task Teams: End of system generated content, document is editable from here.
+
+
+1. PROJECT DESCRIPTION
+      The World Bank                                                                                  RESTRUCTURING ISDS
+      CN: Beijing Rooftop Solar Photovoltaic Scale-Up (Sunshine Schools) Project (P125022)
+
+
+
+The proposed project will be implemented over six years and consists of two main components: (a) the Sunshine
+Schools Program - installation of 100MW rooftop solar PV systems in about 1000 public schools and collages; and (b)
+technical assistance (TA) to develop local capacity for scaling up solar energy deployment, project implementation, and
+other priority energy policy initiatives of the BMG.
+
+Component 1: Sunshine Schools Program Support – Scaling up Rooftop Solar PV Systems in Beijing
+
+(estimated cost: $226.0 million; $110.7 million IBRD financing). The proposed component will install 100 MW of
+distributed rooftop PV systems in about 1000 public schools and colleges in Beijing under the Renewable Energy Service
+Company (RESCO) business model for large-scale rooftop solar PV deployment. Similar to the ESCO business model
+adopted by the central Government as a key market mechanism to scale up energy efficiency investments, the RESCO
+will take the performance and financial risk of the investment by signing an energy service performance contract (ESPC)
+with each school/university, which will pay the RESCO only for the solar PV electricity it consumes. The RESCO will
+install, maintain and operate the rooftop solar PV installations during the period of the ESPC, and thereafter hand over
+the installation to the school/ university, which themselves pay no up-front capital for the investment. Capital subsidies
+will be provided by the Golden Sun Program on a graduated scale (RMB8.0/Wp for the first 5 MW and RMB5.5/Wp for
+the remaining 95 MW). BMG will provide an additional RMB1.0/Wp per year as subsidy limited to the first three years.
+The Bank loan will be on-lent to the RESCO through the Beijing Municipality.
+
+Given that there will be about 1000 schools under this component, a programmatic approach will be adopted for
+project implementation. Yuanshen (Project Company) has developed a Project Implementation and Operations Manual
+acceptable to BMG and the Bank, that outlines schools selection criteria, school survey information, technical design
+and evaluation requirements, environmental management and safety requirements, and procurement and financial
+management frameworks that are consistent with the World Bank and the GOC rules and procedures. During project
+implementation, the related Beijing government agencies and stakeholders, e.g., Beijing Development and Reform
+Commission (BDRC), Beijing Education Commission (BEC), Beijing Finance Bureau (BFB) and the PMO will assist
+Yuanshen with school selection and to supervise project implementation.
+
+Component 2: Technical assistance for developing local capacity for scaling up solar energy deployment, project
+implementation, and other priority energy policy initiatives of the BMG (estimated cost: US$4.0 million). The proposed
+TA activities include development of local capacity for scaling up commercially viable solar energy deployment; and
+engineering and technical support to Yuanshen for the design, procurement, construction supervision and project
+management of the PV systems.
+
+As of June 2017, the project is restructured by changing in Component 1 to expand the sectors in which 100MW of
+distributed solar PV will be installed, to include educational institutions, commercial, industrial, agricultural and other
+sectors. Component 2 is dropped since it is managed and reported under an on-going GEF-supported project.
+          The World Bank                                                                             RESTRUCTURING ISDS
+          CN: Beijing Rooftop Solar Photovoltaic Scale-Up (Sunshine Schools) Project (P125022)
+
+
+
+.
+
+3. PROJECT LOCATION AND SALIENT PHYSICAL CHARACTERISTICS RELEVANT TO THE SAFEGUARD ANALYSIS (IF
+   KNOWN)
+The Project supports the installation of 100 MW PV systems on the rooftops and open spaces of several
+hundred sites within the jurisdiction of Beijing Municipality, including education institutions, farms,
+commercial property, industrial sites and public infrastructure sites.
+
+
+
+4. ENVIRONMENTAL AND SOCIAL SAFEGUARDS SPECIALISTS ON THE TEAM
+
+
+Name                                                          Unit
+Peishen Wang                                                  GEN2A
+Jun Zeng                                                      GSU06
+SAFEGUARD_TABLE
+5. SAFEGUARD POLICIES TRIGGERED
+
+
+    Safeguard Policies                       Triggered               Explanation
+
+                                                                     The potential environmental impacts are mainly
+                                                                     health and safety concerns such as potential
+                                                                     nuisance of noise/dust/waste, disturbance of
+                                                                     school activities and safety during construction,
+                                                                     for example. Given the limited and generic
+                                                                     environmental impacts of the project, the
+                                                                     borrower will prepare an EMP or Environmental
+                                                                     Code of Practice (ECOP) prior to appraisal for
+                                                                     different typologies of investments. The EMP will
+                                                                     include description of circumstances where
+                                                                     additional mitigation/management measures may
+    Environmental Assessment (OP) (BP 4.01) Yes                      need to be developed during implementation, and
+                                                                     provisions of review and approval of these
+                                                                     additional mitigation measures. In addition the
+                                                                     EMP/ECOP will also ensure that the EHS guidelines
+                                                                     on Occupational Health and Safety are
+                                                                     incorporated.The project restructuring expands
+                                                                     the solar PV system installations to buildings not
+                                                                     only in schools, but also buildings and open green
+                                                                     spaces in other sectors. While, the installation
+                                                                     activity is similar type of activity as for schools,
+                                                                     which presents limited or no environmental
+                                                                     impacts.
+       The World Bank                                                                           RESTRUCTURING ISDS
+       CN: Beijing Rooftop Solar Photovoltaic Scale-Up (Sunshine Schools) Project (P125022)
+
+
+
+
+                                                                This policy is not triggered. There are no natural
+Natural Habitats (OP) (BP 4.04)            No
+                                                                habitats involved.
+
+
+                                                                This policy is not triggered. The project will not
+Forests (OP) (BP 4.36)                     No
+                                                                involve any forests.
+
+                                                                This policy is not triggered. The project is not
+Pest Management (OP 4.09)                  No                   expected to procure pesticides or impact on pest
+                                                                management practice.
+                                                                This policy is not triggered. There is no physical
+                                                                cultural resource to be involved. However, chance-
+Physical Cultural Resources (OP) (BP 4.11) No
+                                                                find procedures is included in the ECOP of the
+                                                                EMP.
+                                                                According to Beijing census data, more than 95%
+                                                                of Beijing’s residents belong to the Han Chinese
+                                                                majority. Ethnic minority populations include
+                                                                Manchu, Hui, Mongols, and Koreans. Most of
+                                                                these ethnic minority populations live scattered
+                                                                within the territory of Beijing municipality. Some
+                                                                Manchu and Hui populations live collectively
+                                                                within ethnic minority townships/villages.
+                                                                However, these Manchu and Hui groups share
+Indigenous Peoples (OP) (BP 4.10)          No                   similar economic, social, and political institutions
+                                                                than as those of the Han majority. They are not
+                                                                collectively attached to geographically distinct
+                                                                habitats, or to ancestral territories, or to natural
+                                                                resources in their land. Moreover, they do not use
+                                                                any indigenous language in their daily lives.
+                                                                Therefore, it is agreed that Manchu and Hui
+                                                                groups in Beijing are not indigenous people as
+                                                                defined in the Bank’s OP4.10, and that this policy
+                                                                is not triggered.
+                                                                All civil works related to the project will be
+                                                                conducted within the selected existing schools and
+Involuntary Resettlement (OP) (BP 4.12)    No
+                                                                colleges; therefore no land acquisition will be
+                                                                needed. The policy is not triggered.
+
+                                                                The project will not involve impacts to any dams in
+Safety of Dams (OP) (BP 4.37)              No
+                                                                the project area. This policy is not triggered.
+
+
+Projects on International Waterways (OP)                        The project will not involve trans-boundary rivers.
+                                           No
+(BP 7.50)                                                       The policy is not triggered.
+       The World Bank                                                                                RESTRUCTURING ISDS
+       CN: Beijing Rooftop Solar Photovoltaic Scale-Up (Sunshine Schools) Project (P125022)
+
+
+
+
+                                                                    The project is not located in any disputed areas.
+Projects in Disputed Areas (OP) (BP 7.60)    No
+                                                                    The policy is not triggered.
+
+KEY_POLICY_TABLE
+II. KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT
+
+ A. SUMMARY OF KEY SAFEGUARD ISSUES
+
+
+ 1. Describe any safeguard issues and impacts associated with the Restructured project. Identify and describe any
+   potential large scale, significant and/or irreversible impacts.
+   The project restructuring expands the PV system installations from rooftops of school buildings to rooftops and
+   open outdoor spaces of properties in other sectors, including agriculture, commercial, industry and infrastructure.
+   Installation and operation of distributed PV systems in this context has limited environmental, safety and health
+   impacts. The PV systems will be installed without any land acquisition or resettlement, therefore, only OP 4.01
+   Environment Assessment is triggered, as per appraisal. The main potential environmental impacts are health and
+   safety concerns such as potential construction nuisances (noise/dust/waste), disturbance of school activities, and
+   construction safety, for example. These potential impacts are site-specific and can be readily avoided, minimized,
+   and mitigated with good design and sound construction management. The project is a Category B project as per
+   OP4.01.The new activity in the restructured project has the same type of rooftop PV system installation work as for
+   schools. No new safeguards policy is to be triggered.
+
+
+
+ 2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area.
+
+   There is no anticipated future activities associated with/or induced from the project in the project area.
+
+
+ 3. Describe any potential alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+
+   N/A
+
+
+ 4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower
+   capacity to plan and implement the measures described.
+   An Environmental Management Plan (EMP), acceptable to the Bank, has been prepared by Beijing Energy and
+   Environmental Development Engineering Ltd. The preparation of the EMP followed national requirements, as well
+   as Bank’s OP4.01 Environmental Assessment and the International Finance Corporation’s Environment, Health and
+   Safety General Guidelines. The EMP includes thorough screening of possible environmental impacts, and a
+   management plan to avoid, minimize, and mitigate potential impacts. It also includes a set of standard
+   environmental codes of practice (ECOPs) for common environmental and safety issues met during the installation
+   and operation stages. The ECOPs will be included in the Project Implementation and Operations Manual as a guiding
+   tool for project implementation. The ECOPs will also be incorporated in the bidding documents/contracts for
+   implementation.
+
+   Beijing Municipal Government has experience complying with World Bank requirements over two decades. They
+   have implemented several World Bank- and ADB-funded infrastructure and environmental improvement projects.
+           The World Bank                                                                            RESTRUCTURING ISDS
+           CN: Beijing Rooftop Solar Photovoltaic Scale-Up (Sunshine Schools) Project (P125022)
+
+
+
+       They are thus familiar with Bank’s safeguard policies and requirements.
+
+       Bank environmental and social development experts will provide guidance to the project implementing agency on
+       addressing relevant issues that arise during project implementation.
+
+       For the restructuring, the project EMP has been updated to reflect the scope changes, as well as relevant screening
+       process requirements for Yuanshen during the implementation of the project.
+
+
+   5. Identify the key stakeholders and describe the mechanism for consultation and disclosure on safeguard policies,
+       with an emphasis on potentially affected people.
+       Project schools were consulted extensively during the preparation of the original EMP, which was published on the
+       websites of the Beijing Energy Efficiency Center and the project company, and in the World Bank InfoShop, on
+       September 6, 2012.
+
+       The updated EMP was published on Yuanshen company’s website, and the World Bank website, on June 1, 2017.
+
+ DISCLOSURE_TABLE
+ B. DISCLOSURE REQUIREMENTS
+ENV_TABLE
+ Environmental Assessment/Audit/Management Plan/Other
+
+Date of receipt by the Bank                                   Date of submission for disclosure
+01-Jun-2017                                                   01-Jun-2017
+ For Category ‘A’ projects, date of distributing the Executive Summary of the EA to the Executive Directors
+
+
+ “In country�? Disclosure
+
+ Country                                                         Date of Disclosure
+ China                                                           01-Jun-2017
+ Comments
+ The original Environmental Management Plan (EMP) was published on the websites of the Beijing Energy Efficiency
+ Center and the project company, and in the World Bank InfoShop, on September 6, 2012. The updated EMP was
+ published on the project company’s website, and the World Bank website, on June 1, 2017.
+
+
+COMPLIANCE_TABLE
+  C.   COMPLIANCE MONITORING INDICATORS AT THE CORPORATE LEVEL
+
+EA_TABLE
+ OP/BP/GP 4.01 - Environment Assessment
+ Does the project require a stand-alone EA (including EMP) report?                                   Yes
+          The World Bank                                                                         RESTRUCTURING ISDS
+          CN: Beijing Rooftop Solar Photovoltaic Scale-Up (Sunshine Schools) Project (P125022)
+
+
+
+If yes, then did the Regional Environment Unit or Practice Manager (PM) review
+                                                                                                 Yes
+and approve the EA report?
+
+Are the cost and the accountabilities for the EMP incorporated in the
+                                                                                                 Yes
+credit/loan?
+
+
+
+PDI_TABLE
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the World Bank for
+                                                                                                 Yes
+disclosure?
+
+Have relevant documents been disclosed in-country in a public place in a form
+and language that are understandable and accessible to project-affected groups                   Yes
+and local NGOs?
+
+
+
+ALL_TABLE
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional responsibilities been
+                                                                                                 Yes
+prepared for the implementation of measures related to safeguard policies?
+
+Have costs related to safeguard policy measures been included in the project
+                                                                                                 Yes
+cost?
+
+Does the Monitoring and Evaluation system of the project include the
+                                                                                                 Yes
+monitoring of safeguard impacts and measures related to safeguard policies?
+
+Have satisfactory implementation arrangements been agreed with the
+borrower and the same been adequately reflected in the project legal                             Yes
+documents?
+
+
+
+
+III. APPROVALS
+
+
+    Task Team Leader(s)                    Yanqin Song
+
+
+    Approved By
+
+    Practice Manager/Manager               Jie Tang                                13-Jun-2017
+
+.
+      The World Bank                                                                         RESTRUCTURING ISDS
+      CN: Beijing Rooftop Solar Photovoltaic Scale-Up (Sunshine Schools) Project (P125022)
+
+
+
+Note to Task Teams: End of system generated content
+

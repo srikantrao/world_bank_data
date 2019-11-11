@@ -1,0 +1,264 @@
+﻿                    INTEGRATED SAFEGUARDS DATASHEET
+                            APPRAISAL STAGE
+
+I. Basic Information
+Date prepared/updated: 01/31/2012                                      Report No.: AC6628
+1. Basic Project Data
+Original Project ID: P094103                 Original Project Name: Regional
+                                             Communications Infrastructure Project
+Country: Africa                              Project ID: P127380
+Project Name: Kenya - KTCIP/Additional Financing (RCIP 1)
+Task Team Leader: Maria Isabel A. S. Neto
+Estimated Appraisal Date: February 6,        Estimated Board Date: March 27, 2012
+2012
+Managing Unit: TWICT                         Lending Instrument: Adaptable Program
+                                             Loan
+Sector: General information and communications sector (35%);Public administration-
+Information and communications (35%);Public administration- Financial Sector (30%)
+Theme: e-Services (45%);e-Government (45%);Rural services and infrastructure (10%)
+IBRD Amount (US$m.):             0
+IDA Amount (US$m.):             53
+GEF Amount (US$m.):              0
+PCF Amount (US$m.):              0
+Other financing amounts by source:
+         BORROWER/RECIPIENT                                            0.00
+         Financing Gap                                                 0.00
+                                                                       0.00
+Environmental Category: B - Partial Assessment
+Simplified Processing                        Simple []           Repeater []
+Is this project processed under OP 8.50 (Emergency Recovery)
+                                                                  Yes [ ]    No [X]
+or OP 8.00 (Rapid Response to Crises and Emergencies)
+
+2. Project Objectives
+The original project’s development objectives are: (i) to contribute to lower prices for
+international broadband capacity and extend the geographic reach of broadband networks
+(the “connectivity development objective�?); and (ii) to contribute to improved
+Government efficiency and transparency through eGovernment applications (the
+“transparency development objective�?). These objectives are being achieved through
+five thematic areas: (i) digital inclusion, (ii) content, (iii)-(iv) eGovernment applications
+and Shared services and (v) BPO/ITES.
+
+ Under the proposed Additional Financing the original PDO will remain unchanged.
+
+3. Project Description
+The additional financing for the Kenya KTCIP project is proposed to enable scale up of
+some activities under the project. Candidates for scaling up will be identified in greater
+detail during project preparation, but are likely to include a scale-up of support for
+implementation of eGovernment activities - including IFMIS implementation, open data,
+eSecurity and development of an infrastructure management framework.
+  Digital inclusion (open access framework and transit to neighboring countries): The
+original project supported connectivity and open access mostly through the bulk capacity
+purchase for universities and government, and other selected access initiatives.
+Implementation of all of these initiatives is now completed or ongoing. Since project
+approval the landscape of communications in Kenya has changed dramatically. Three
+submarine cables have arrived, the volume of traffic has increased twenty times, and the
+prices have dropped ten times. Yet, at the national level, the price of national
+communications has only been divided by two, despite the fact that one of the backbone
+networks, NOFBI, is fully financed by government. This indicates that the arrival of
+submarine cables and of the new infrastructure backbone in the country needs to be
+accompanied by the implementation of clear and non discriminatory open access
+frameworks to benefit rural areas and neighboring countries. Following the various
+government investments in infrastructure (namely TEAMS, NOFBI, Datacenter)
+government would like to develop a framework for how such infrastructure would be
+managed for the benefit of the industry. The additional financing would include support
+for the development of such framework. This framework will be particularly important
+for the region, as the national costs will directly impact the transit costs for neighboring
+countries and how they are able to access the three submarine cables that currently land
+on the Kenya coast.
+  Content (open data initiative in Kenya and the EAC region): the original project
+included support for development of a government information portal, an activity that has
+been successfully completed. Since project approval the President of Kenya has launched
+an open data initiative in July 2011, an initiative to make key government data freely
+available to the public through a single online portal. A version of this portal is working,
+and government would now like to expand by (1) clarifying the policy and legal
+framework; (2) ensuring consistent supply of credible key data sets; (3) continue to
+improve the website aesthetics and functionality; (4) build capacity of the media and
+research community to use the data and thereby generate more demand for datasets to be
+released; (5) use the demand created within Kenya and the region to launch similar
+initiatives across the East African Community (EAC).
+  eGovernment and shared services (IFMIS, shared services/end-to-end eGovernment and
+cyber security): The original project includes financing for the implementation of
+selected eGovernment applications and the implementation of a shared services platform.
+Several eGovernment activities have been successfully undertaken, such as the
+digitization of company registry and of the High Court registry. Government has also
+developed, with support from the project, a shared services concept for eGovenment, and
+has mapped all processes to develop an end-to-end eGovernment platform. Government
+would now like to expand and complement these activities by:
+  IFMIS. The Integrated Financial Management Information System (IFMIS) has been
+singled out as the single most important shared service in government, and it would
+contribute in a major manner to the increased transparency and efficiency in
+eGovernment, one of the project PDOs. The government, has, over the last few years,
+been trying to implement an IFMIS system for Kenya, without much success. A renewed
+leadership and the thrust of the new constitution has now added new momentum to this
+initiative, there is a clear ownership on this agenda and significant work has been
+achieved over the last few months. A challenging task lies ahead, and the team needs
+access to quick financing to implement the plans and not lose momentum in
+implementation. The bulk of the project support to IFMIS would go to ensuring the
+connectivity needed for the system to function across the country and by hiring a long
+term Systems Integrator that would design and install a fresh version of the system (1
+year) and support its implementation (during 2.5 years). Procurement of this contract is
+already ongoing, and government is currently waiting for responses to the RFP. It is
+likely that by the time the project goes to board the contractor will have already been
+identified.
+
+ End-to-end eGovernment: The overall purpose of the end to end government processes
+work stream was to assist e-Government and the KICTB define processes and
+opportunities within the major end-to-end service categories of establishments and
+Persons. The end to end government services activities report has recently been finalized
+in Oct 2011 and will serve as the blue print for the shared services design and
+implementation:
+
+ Setting up a PPP: Government would like to explore manners in which to develop this
+blueprint through a large scale PPP to outsource development and management of
+eGovernment to a private sector partner, and is exploring options to that effect. The
+additional financing would include technical assistance to develop this PPP framework.
+ Cybersecurity: one of the underlying needs for the successful implementation of
+eGovernment is the development of a sound security framework. Government is currently
+doing a study, financed by USTDA on cybersecurity and on the implementation of a
+Public Key Infrastructure (PKI) and initial results of the study should be available in
+early 2012. Government would like to fund the implementation of such infrastructure
+through the additional financing.
+ BPO/ITES: no additional activities are anticipated in this thematic area.
+
+4. Project Location and salient physical characteristics relevant to the safeguard
+analysis
+Activities will benefit citizens throughout the country. Most activities will be soft in
+nature and do not have a specific physical location. Limited physical activities will
+include minor refurbishment of buildings in Nairobi but also throughout the country.
+
+5. Environmental and Social Safeguards Specialists
+   Ms Zarafshan H. Khawaja (AFTCS)
+   Ms Svetlana Khvostova (AFTSG)
+6. Safeguard Policies Triggered                               Yes         No
+Environmental Assessment (OP/BP 4.01)                          X
+Natural Habitats (OP/BP 4.04)                                              X
+Forests (OP/BP 4.36)                                                       X
+Pest Management (OP 4.09)                                                  X
+Physical Cultural Resources (OP/BP 4.11)                                   X
+Indigenous Peoples (OP/BP 4.10)                                            X
+Involuntary Resettlement (OP/BP 4.12)                          X
+Safety of Dams (OP/BP 4.37)                                                X
+Projects on International Waterways (OP/BP 7.50)                           X
+Projects in Disputed Areas (OP/BP 7.60)                                    X
+
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project.
+Identify and describe any potential large scale, significant and/or irreversible impacts:
+To date, and regarding the Kenya operation, no additional safeguards instruments have
+been prepared since the original project was approved in 2007, as the specific project
+activities have not required such instruments.
+
+ The activities proposed under additional financing for the project do not envisage
+significant potential adverse impacts to the environment and will likely include minor
+refurbishment work of selected buildings and rooms with no planned land acquisition.
+Yet it is important to ensure the appropriate screening, review and appraisal process for
+subprojects in accordance with the project ESMF and RPF. During project
+implementation, as each subproject activity is defined and the site is selected, potential
+environmental and social impacts associated with the proposed activity will need to be
+identified using a sub-project screening form.
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future
+activities in the project area:
+No long term impacts due to proposed project activities are anticipated.
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize
+adverse impacts.
+N/A
+
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide
+an assessment of borrower capacity to plan and implement the measures described.
+The program-level ESMF and RPF have been published in-country as well as at the
+Infoshop. The project has established a screening mechanism, where, upon identification,
+sub-projects are screened according to standard checklist. Monitoring & Evaluation
+officer for the project has overall responsibility to follow up on screening of sub-projects
+and their compliance with ESMF and RPF.
+5. Identify the key stakeholders and describe the mechanisms for consultation and
+disclosure on safeguard policies, with an emphasis on potentially affected people.
+Potentially affected people may include ministry staff, local communities and university
+staff (participating in KENET Virtual Network). If, as a result of sub-project screening,
+the project-specific ESMPs and/or RAPs are developed, they will undergo public
+consultations with project stakeholders and get disclosed.
+
+
+
+B. Disclosure Requirements Date
+Environmental Assessment/Audit/Management Plan/Other:
+  Was the document disclosed prior to appraisal?                   Yes
+  Date of receipt by the Bank                                 02/06/2007
+  Date of "in-country" disclosure                             02/13/2007
+  Date of submission to InfoShop                              02/15/2007
+  For category A projects, date of distributing the Executive
+  Summary of the EA to the Executive Directors
+Resettlement Action Plan/Framework/Policy Process:
+  Was the document disclosed prior to appraisal?                   Yes
+  Date of receipt by the Bank                                 02/06/2007
+  Date of "in-country" disclosure                             02/13/2007
+  Date of submission to InfoShop                              02/15/2007
+Indigenous Peoples Plan/Planning Framework:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+Pest Management Plan:
+  Was the document disclosed prior to appraisal?
+  Date of receipt by the Bank
+  Date of "in-country" disclosure
+  Date of submission to InfoShop
+* If the project triggers the Pest Management and/or Physical Cultural Resources,
+the respective issues are to be addressed and disclosed as part of the Environmental
+Assessment/Audit/or EMP.
+If in-country disclosure of any of the above documents is not expected, please
+explain why:
+
+
+
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the
+ISDS is finalized by the project decision meeting)
+
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) report?               Yes
+If yes, then did the Regional Environment Unit or Sector Manager (SM)           Yes
+  review and approve the EA report?
+  Are the cost and the accountabilities for the EMP incorporated in the          Yes
+  credit/loan?
+  OP/BP 4.12 - Involuntary Resettlement
+  Has a resettlement plan/abbreviated plan/policy framework/process              Yes
+  framework (as appropriate) been prepared?
+  If yes, then did the Regional unit responsible for safeguards or Sector        Yes
+  Manager review the plan?
+  The World Bank Policy on Disclosure of Information
+  Have relevant safeguard policies documents been sent to the World Bank's       Yes
+  Infoshop?
+  Have relevant documents been disclosed in-country in a public place in a       Yes
+  form and language that are understandable and accessible to project-affected
+  groups and local NGOs?
+  All Safeguard Policies
+  Have satisfactory calendar, budget and clear institutional responsibilities    Yes
+  been prepared for the implementation of measures related to safeguard
+  policies?
+  Have costs related to safeguard policy measures been included in the project   Yes
+  cost?
+  Does the Monitoring and Evaluation system of the project include the           Yes
+  monitoring of safeguard impacts and measures related to safeguard policies?
+  Have satisfactory implementation arrangements been agreed with the             Yes
+  borrower and the same been adequately reflected in the project legal
+  documents?
+
+
+  D. Approvals
+
+Signed and submitted by:                              Name                         Date
+Task Team Leader:                   Ms Maria Isabel A. S. Neto                   01/10/2012
+Environmental Specialist:           Ms Svetlana Khvostova                        01/10/2012
+Social Development Specialist       Ms Zarafshan H. Khawaja                      01/10/2012
+Additional Environmental and/or
+Social Development Specialist(s):
+
+Approved by:
+Regional Safeguards Coordinator:    Ms Alexandra C. Bezeredi                     01/11/2012
+  Comments:
+Sector Manager:                     Mr Philippe Dongier                          01/11/2012
+  Comments:
+

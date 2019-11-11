@@ -1,0 +1,293 @@
+﻿                   INTEGRATED SAFEGUARDS DATASHEET
+                           APPRAISAL STAGE
+
+I. Basic Information
+Date prepared/updated:                                               Report No.: 66446
+1. Basic Project Data
+Country: China                             Project ID: P116852
+Project Name: Power Sector Transformer Efficiency Program
+Task Team Leader: Ximing Peng
+Estimated Appraisal Date: January 15,2011 Estimated Board Date: N/A
+Managing Unit: EASCS                       Lending Instrument: Carbon Offset
+Sector: Energy
+Theme: Climate Change
+IBRD Amount (US$m.): 0.0
+IDA Amount (US$m.): 0.0
+GEF Amount (US$m.): 0.0
+PCF Amount (US$m.): 0.91
+Other financing amounts by source:
+        Self-financing by SGCC: US$ 363.9 million
+
+Environmental Category: B
+Simplified Processing                        Simple [X]          Repeater []
+Is this project processed under OP 8.50 (Emergency Recovery)      Yes [ ]      No [X]
+
+2. Project Objectives
+
+The objective of the China Power Sector Transformer Efficiency Program (the Project) is
+to mitigate greenhouse gas emissions of China’s power industry by reducing distribution
+system losses. This will be accomplished through the expanded adoption of non-
+mandatory energy efficient transformers as part of sector modernization in distribution
+networks of SGCC. To ensure adequate scale for national impact and to place the carbon
+finance transaction on a financially viable footing, the Carbon Finance Operation will
+pool a number of replacement activities under the distribution networks of 15 provincial
+subsidiaries of SGCC in a single agreement and SGCC as intermediary is responsible for
+managing the carbon finance transaction.
+
+The key project performance indicator is the actual Emission Reduction (ERs) induced by
+the replacement of more efficient transformers and verified by an independent
+verification entity.
+
+3. Project Description
+
+The proposed program falls under the small-scale CDM Program of Activities (PoA) and
+applies the approved methodology of AMS II.A: Supply side energy efficiency
+improvements – transmission and distribution. The PoA, titled “SGCC In-advance
+Distribution Transformer Replacement CDM Programme�? (hereinafter referred to as
+SGCC DT PoA, or the PoA) was registered at the CDM Executive Board on February 12,
+2011. This arrangement allows subprojects, individually or as groups, to be added as
+CDM Program Activities (CPAs) under the PoA on a rolling basis, upon submission of
+adequate documentation. Monitoring data for activities under each of the programs will
+be verified periodically by a Designated Operational Entity (DOE) and subsequently
+undergo certification and issuance by the CDM Executive Board.
+
+SGCC has identified about 53,000 inefficient Type 7 and 8 distribution transformers to be
+replaced with more efficient Type 11 and Type 15 transformers from 2011 to 2016,
+which are covered by the PoA. Of which about 37,000 transformers will be implemented
+from 2011 to 2013 and are included in the Project. These transformers are operated at 6
+kV and 10 kV, a low voltage level managed by SGCC. The yearly implementation plan is
+illustrated in Table 1.
+
+Table 1. Replacement Plan by SGCC under the PoA
+                            the Project                            post-2013
+              2011        2012     2013     Subtotal    2014    2015     2016   Subtotal
+CPA #1        1,100                           1,100
+CPA #2        5,094     12,782               17,876
+CPA #3                  13,067               13,067
+CPA #4                             5,834      5,834
+CPF etc.                                                5,888   4,742   5,256     15,886
+Total         6,194     25,849     5,834     37,877     5,888   4,742   5,256     15,886
+Cost Estimate
+(US$ million)  48.2     251.2       64.4      363.9      65.2   51.7     58.0      174.9
+Note: Implementation period of the PoA is from 2011 to 2016.
+Source: SGCC
+
+Total investment: This Project involves early retirement of around 37,000 low efficiency
+Type 7 transformers in 15 provincial distribution networks of the country. On average the
+total investment (inclusive of purchase of equipments, installation, and pre-operative
+expenses) ranges from about US$ 3,676 for a Type 11 transformer to around US$ 5,882
+for a Type 15 distribution transformer. The cohort of high efficiency transformers to be
+included in the program is expected to mainly comprise type 11 and type 15. The total
+capital investment of the Project is estimated at US$ 363.9 million.
+
+Sources of Funding: The SGCC is responsible for arranging the source of financing of
+the subprojects. Program financing is derived 100 percent from equity financing. The
+financing for the first CPA of 1,100 high efficiency distribution transformers had been
+secured from the SGCC by the end of 2009 and the replacement of the first 1,100 high
+efficiency transformers in CPA#1 was completed by November 2011. The emission
+reductions from the implementation in 2011 will be credited on retroactive basis.
+
+Purchase of Emission Reductions. The PoA arrangement allows subprojects, individually
+or as groups to be added as CPAs under the program on a rolling basis, upon submission
+of adequate documentation. Total four CPAs are planned under the Project. Monitoring
+data for CPAs under the program will be verified periodically by a Designated
+Operational Entity hired by the Bank, and subsequently undergo certification and
+issuance by the CDM Executive Board. The World Bank, acting as Trustee of the
+Spanish Carbon Fund (SCF), will purchase the successfully Certified Emission
+Reductions (CERs) through a single Emission Reduction Purchase Agreement (ERPA).
+The quantity of CERs to be contracted is estimated to be 85,000 tons of carbon dioxide
+equivalent (tCO2e). generated from 2011 to 2013. The estimated value of the purchase is
+approximately US$ 0.91 million.
+
+4. Project Location and salient physical characteristics relevant to the safeguard
+analysis
+
+The project activities would be implemented in SGCC’s power distribution grids
+involving 15 Provinces, municipalities and autonomous regions where SGCC owns and
+operates the power grids. The project activities will be implemented along selected
+existing 10 kV distribution lines owned and operated by the SGCC where eligible
+(eligibility criteria are presented below) inefficient, 10 kV distribution transformers are
+currently installed, and where the removed transformers will be stored, and dismantled.
+These places are owned by SGCC or by licensed contractors. No land acquisitions, either
+permanent or temporarily, are required. Criteria for transformers replacement eligibility
+are as follows:
+
+   •   6 kV and 10 kV distribution transformers;
+   •   Type 7 or type 8
+   •   Manufactured after 1985 (including 1985) and before January 31, 1999;
+   •   Free of any current oil leaks or other insulation problems;
+   •   Located at a site which currently meets environmental, health and safety
+       requirements of the People’s Republic of China and related SGCC environment,
+       health and safety provisions as determined by SGCCs’ due diligence review and;
+   •   Free of any oils containing polychlorinated biphenyls (PCBs)
+
+The new transformers will be required to meet the following criteria:
+
+    • Dry types, modern oil immersed, and/or other modern types of transformers
+      manufactured to meet current related Chinese and related international industrial
+      standards, as well as related environment, health and safety regulations in China
+    • S11 efficiency or better
+    • Free of PCBs.
+
+5. Environmental and Social Safeguards Specialists
+
+   Mr. Bernard Baratz (Consultant, Environment), and
+   Mr. Feng Ji (EASCS, Environmental Specialist)
+6. Safeguard Policies Triggered                               Yes         No
+Environmental Assessment (OP/BP 4.01)                          X
+Natural Habitats (OP/BP 4.04)                                              X
+Forests (OP/BP 4.36)                                                       X
+Pest Management (OP 4.09)                                                  X
+Cultural Property (OPN 11.03)                                              X
+Indigenous Peoples (OP/BP 4.10)                                            X
+Involuntary Resettlement (OP/BP 4.12)                                      X
+Safety of Dams (OP/BP 4.37)                                                X
+Projects on International Waterways (OP/BP 7.50)                           X
+Projects in Disputed Areas (OP/BP 7.60)                                    X
+
+II. Key Safeguard Policy Issues and Their Management
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project.
+Identify and describe any potential large scale, significant and/or irreversible impacts:
+
+Some of the transformers involved are air-cooled. For these transformers, the main issues
+are minor and short lived: associated with dismantling and disposal of the old
+transformers (noise, traffic disruption, management of old transformer scrap materials-
+disposal, recycle reuse etc.). Some of the transformers are anticipated to be oil cooled.
+For the oil cooled transformers there are additional issues of managing the waste oils
+(disposal, reprocessing/reuse) drained from the transformers, and remediation of any land
+that may have been contaminated from previous transformer oil leaks (transformers that
+are currently leaking would be disqualified from the project). Disposal of polychlorinated
+biphenyl’s (PCBs) in cooling oils is not an issue. China never produced oil cooled
+transformers containing PCBs and agreement has been reached with SGCC that only
+Chinese made transformers would be eligible under the proposed project. The absence of
+PCBs in Chinese manufactured oil cooled transformers was verified in 2003 under a
+separate GEF operation for both Liaoning and Zhejiang Provinces. For the new
+replacement equipment, there is the minor issue associated with disposal of the non
+hazardous packing materials in which the replacement transformers are contained.
+
+Occupational health and safety (OHS) procedures and emergency preparedness and
+emergency response (EPR) systems of SGCC were reviewed and found to be satisfactory.
+There would be no additional requirements for the removal and disposal of the old
+transformers or for the installation and operation of the replacement equipment.
+
+2. Describe any potential indirect and/or long term impacts due to anticipated future
+activities in the project area:
+N/A
+
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize
+adverse impacts.
+N/A
+4.Describe measures taken by the borrower to address safeguard policy issues. Provide an
+assessment of borrower capacity to plan and implement the measures described.
+
+A comprehensive EMP acceptable to the World Bank was prepared by the SGCC. The
+EMP will be the primary safeguards instrument and it includes mitigation and monitoring
+requirements to insure appropriate environmental management for: replacement, storage
+and disposal of old transformers, (e.g. disposal to approved sites or recycling to permitted
+reprocessing facilities) for handling and management of scrap materials, and waste
+cooling oils produced from replacement of the old transformers by licensed/certified
+operators, and remediation of any oil contaminated soils by licensed remediation
+specialists and adherence to SGCC procedures for OHS and EPR and management of
+issues associated with operation of the new transformers. The EMP describes institutional
+arrangements and responsibilities for environmental monitoring, data analysis, reporting
+and decision making.
+
+The EMP specifies that the transformers to be replaced meet the following criteria:
+
+   •   6 kV and 10 kV distribution transformers;
+   •   Type 7 or type 8
+   •   Manufactured between after 1985 (including 1985) and before January 31, 1999;
+   •   Under normal operation conditions (without oil leakages or other insulation
+       problems); and
+   •   In locations meeting the environmental, health and safety requirements of the
+       People’s Republic of China and related regulations of the SGCC.
+(Note: S7, S8, S11 and S15 are the model numbers of distribution transformers in China,
+the higher number of the series, the more advance technology and the higher efficiency)
+
+The EMP will be the primary safeguard instrument. It includes measures to mitigate soil
+contamination from transformer leakage and standard SGCC procedures for worker
+health and safety, emergency response, and environment where appropriate.
+
+SGCC has 5 regional power grid companies and 25 provincial electric power companies.
+Each subsidiary:
+
+
+
+   •   adopts the SGCC enterprise-level safety, emergency response and environmental
+       protection guidelines into regional-specific guidelines.
+   •   has a Safety Management Unit (SMU) responsible for the in-field monitoring and
+       enforcement of state, sector and enterprise level safety regulations
+   •   has an Environmental Protection Unit (EPU), staffed with fully or partially
+       specialized environmental protection personnel, centrally manages the
+       environmental protection efforts within the subsidiary.
+5. Identify the key stakeholders and describe the mechanisms for consultation and
+disclosure on safeguard policies, with an emphasis on potentially affected people.
+
+Public consultation was conducted on July 8, 2009 in Beijing and on July 9 and 10, 2009
+in Shenyang City of the Liaoning Province where subprojects have been identified for
+CPA #1. Before the public consultation, an announcement was posted in the State Grid
+News, on June 25, 2009. The State Grid News is an accredited newspaper publicly issued
+both paper and internet editions in China and the newspaper covers all the project areas.
+
+Representatives of the SGCC (implementing agency), government (the Ministry of
+Environment), affected communities, manufacturers and academics participated in the
+public consultation.
+
+B. Disclosure Requirements Date
+Environmental Assessment/Audit/Management Plan/Other:
+  Date of receipt by the Bank                                  06/11/2010
+  Date of "in-country" disclosure                              11/18/2010
+  Date of submission to InfoShop                               01/20/2011
+  For category A projects, date of distributing the Executive
+                                                                   NA
+  Summary of the EA to the Executive Directors
+* If the project triggers the Pest Management and/or Cultural Property, the
+respective issues are to be addressed and disclosed as part of the Environmental
+Assessment/Audit/or EMP. NA
+If in-country disclosure of any of the above documents is not expected, please
+explain why:
+
+
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the
+ISDS is finalized by the project decision meeting)
+
+OP/BP/GP 4.01 - Environment Assessment
+Does the project require a stand-alone EA (including EMP) report?              Yes, EMP
+If yes, then did the Regional Environment Unit or Sector Manager (SM)
+review and approve the EA report?
+Are the cost and the accountabilities for the EMP incorporated in the          Yes
+credit/loan?
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the World Bank's       Yes
+Infoshop?
+Have relevant documents been disclosed in-country in a public place in a       Yes
+form and language that are understandable and accessible to project-affected
+groups and local NGOs?
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional responsibilities    Yes
+been prepared for the implementation of measures related to safeguard
+  policies?
+  Have costs related to safeguard policy measures been included in the project
+  cost?
+  Does the Monitoring and Evaluation system of the project include the             Yes
+  monitoring of safeguard impacts and measures related to safeguard policies?
+  Have satisfactory implementation arrangements been agreed with the               Yes
+  borrower and the same been adequately reflected in the project legal
+  documents?
+
+
+  D. Approvals
+
+Signed and submitted by:                            Name                             Date
+Task Team Leader:                               Ximing Peng                      12 January
+                                                                                 2012
+Environmental Specialist:              Bernard Baratz and Feng Ji                24 November
+                                                                                 2011
+Social Development Specialists             NA                                    NA
+
+
+Approved by:
+Sector Manager                           Paul Kriss in EASCS.                    16 January
+                                                                                 2012
+
